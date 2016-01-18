@@ -15,17 +15,17 @@ For every work in the works list there are 6 data points, all separated by one o
 
 The headings:
 ```
-Number of voices		Text incipit	comments from the source	Composer if not primary composer	Text author		Page number
+Number of voices	Text incipit	Comments from the source	Composer if not primary composer	Text author		Page number
 ```
 
 Heading detail:
 
-* _Number of voices_: Described in the Italian style, ie "A 5" for 5 voices. If a "-" ever appears in a voice data point, the number of voices for that work is assumed to be whatever the most recent given value was. Often a listing will only have a written-out value for the first work, with the remainder "-", meaning that all works are 5 voices.
-* _Text incipit_: The first line of text in the piece. If the work is one of a multi-piece set, then its number in that set precedes the incipit. E.g. "1. Cruda amarilli [...]".
-* _Comments from source_: If the source contains any comments for that work, such as part number or dedicatee, then that information appears here.
-* _Composer_: Only populated if the composer for the piece is not the primary composer of the publication. Otherwise its value is "-".
-* _Text author_: The author of the text set for the work. Often unknown (and given a "-" value)
-* _Page number_: The page number at which the work begins, most often taken from the Canto book.
+* __Number of voices__: Described in the Italian style, ie "A 5" for 5 voices. If a "-" ever appears in a voice data point, the number of voices for that work is assumed to be whatever the most recent given value was. Often a listing will only have a written-out value for the first work, with the remainder "-", meaning that all works are 5 voices.
+* __Text incipit__: The first line of text in the piece. If the work is one of a multi-piece set, then its number in that set precedes the incipit. E.g. "1. Cruda amarilli [...]".
+* __Comments from source__: If the source contains any comments for that work, such as part number or dedicatee, then that information appears here.
+* __Composer__: Only populated if the composer for the piece is not the primary composer of the publication. Otherwise its value is "-".
+* __Text author__: The author of the text set for the work. Often unknown (and given a "-" value)
+* __Page number__: The page number at which the work begins, most often taken from the Canto book.
 
 Here is an example row from the works table (with completely made up values):
 ```
