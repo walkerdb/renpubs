@@ -2,38 +2,38 @@
 
 Vol. in 8˚, pag. 48. Ded. Al Gran Duca Ferdinando II di Toscana: "... A V.S. che due anni sono si degno d'accettarmi nel numero de' suoi umili servitori attuali...". Imprimatur: 25 e 27 IX 1630.
 
-A 1	Signor, ch'hora fra gli ostri, hora fra l'armi				Sonetto in stile recitativo			-	-	4
-A 1	Degnati, o gran Fernando, tu che sempre				Canto in stile recitative				-	-	6
-A 1	Ardo e taccio il mio mal							Canto in stile recitativo				-	-	8
-A 1	Dove, dove, signor, quieto ricetto fia mai				Sonetto spirituale in stile recitativo		-	-	11
-A 1	Dopo sì lungo orror, dopo le tante sì gravi offese			Canto spirituale				-	-	13
-A 1	A piè della gran croce, in cui languiva					Sonetto spirituale. Maddalena alla Croce	-	-	15
-A 1	1. Dunque dovrò del puro servir mio					Aria di romanesca				-	-	17
-A 1	2. O tradite speranze, o van desio					Seconda parte					-	-	17
-A 1	3. Te, te, amor, te odo hora						Terza parte					-	-	18
-A 1	4. Tu, te incolpar degg'io						Quarta parte					-	-	18
-A 1	1. Se l'onde ohimè che da quest'occhi piovono				Aria						-	-	19
-A 1	2. Cercherò col morir tornar placabile					Seconda parte					-	-	20
-A 1	3. Se per amar chi tand'odia						Terza parte					-	-	21
-A 1	Donna, siam rei di morte; errasti, errai					Sonetto					-	-	22
-A 1	Entro nave dorata solchiam, Fillide, il mare				Aria						-	-	24
-A 1	1. Troppo sotto due stelle alme, dolcissime				Aria						-	-	25
-A 1	2. Ciò ben prov'io, ch'invan sospiro					Seconda parte					-	-	26
-A 1	3. Ed io più l'amo e mentre gli occhi					Terza parte					-	-	27
-A 1	Non mi negate ohimè, lumi sereni, ch'io vi mostri			Aria						-	-	28
-A 1	Di Licori un guardo altero dov'amor suoi strali indora			-						-	-	29
-A 1	Voi partite, mio sole, e porta il vostro lume altrove			Aria						-	-	30
-A 1	1. Se l'aura spira tutta venosa, la fresca rosa ridendo			Aria						-	-	31
-A 1	2. A balli, a balli, liete venite						Seconda parte					-	-	31
-A 1	3. Suoi dolci versi spiega l'augello					Terza parte					-	-	31
-A 1	Così mi disprezzate? Così voi mi burlate?				Aria di Passacaglia				-	-	32
-A 2	Se m'amate io v'adoro, se pur mi disprezzate io vi disprezzo		Madrigale					-	-	36
-A 2	Begli occhi, io non provo fierezza o dolore				-						-	-	38
-A 2	Occhi, che sete di voi pomposi, ver me pietosi				Aria						-	-	39
-A 2	Dove ne vai pensiero, su l'ali de' sospiri					Canzone					-	-	40
-A 2	Eri già tutta mia. Quall'alma e quel core hor da me			Canzona					-	-	42
-A 3	Corilla danzando sul prato si sta						Canzona					-	-	44
-A 3	Con dolcezza e pietate alle gioie d'amore				Sonetto					-	-	46
+A 1	Signor, ch'hora fra gli ostri, hora fra l'armi					Sonetto in stile recitativo					-	-	4
+A 1	Degnati, o gran Fernando, tu che sempre							Canto in stile recitative					-	-	6
+A 1	Ardo e taccio il mio mal										Canto in stile recitativo					-	-	8
+A 1	Dove, dove, signor, quieto ricetto fia mai						Sonetto spirituale in stile recitativo		-	-	11
+A 1	Dopo sì lungo orror, dopo le tante sì gravi offese				Canto spirituale							-	-	13
+A 1	A piè della gran croce, in cui languiva							Sonetto spirituale. Maddalena alla Croce	-	-	15
+A 1	1. Dunque dovrò del puro servir mio								Aria di romanesca							-	-	17
+A 1	2. O tradite speranze, o van desio								Seconda parte								-	-	17
+A 1	3. Te, te, amor, te odo hora									Terza parte									-	-	18
+A 1	4. Tu, te incolpar degg'io										Quarta parte								-	-	18
+A 1	1. Se l'onde ohimè che da quest'occhi piovono					Aria										-	-	19
+A 1	2. Cercherò col morir tornar placabile							Seconda parte								-	-	20
+A 1	3. Se per amar chi tand'odia									Terza parte									-	-	21
+A 1	Donna, siam rei di morte; errasti, errai						Sonetto										-	-	22
+A 1	Entro nave dorata solchiam, Fillide, il mare					Aria										-	-	24
+A 1	1. Troppo sotto due stelle alme, dolcissime						Aria										-	-	25
+A 1	2. Ciò ben prov'io, ch'invan sospiro							Seconda parte								-	-	26
+A 1	3. Ed io più l'amo e mentre gli occhi							Terza parte									-	-	27
+A 1	Non mi negate ohimè, lumi sereni, ch'io vi mostri				Aria										-	-	28
+A 1	Di Licori un guardo altero dov'amor suoi strali indora			-											-	-	29
+A 1	Voi partite, mio sole, e porta il vostro lume altrove			Aria										-	-	30
+A 1	1. Se l'aura spira tutta venosa, la fresca rosa ridendo			Aria										-	-	31
+A 1	2. A balli, a balli, liete venite								Seconda parte								-	-	31
+A 1	3. Suoi dolci versi spiega l'augello							Terza parte									-	-	31
+A 1	Così mi disprezzate? Così voi mi burlate?						Aria di Passacaglia							-	-	32
+A 2	Se m'amate io v'adoro, se pur mi disprezzate io vi disprezzo	Madrigale									-	-	36
+A 2	Begli occhi, io non provo fierezza o dolore						-											-	-	38
+A 2	Occhi, che sete di voi pomposi, ver me pietosi					Aria										-	-	39
+A 2	Dove ne vai pensiero, su l'ali de' sospiri						Canzone										-	-	40
+A 2	Eri già tutta mia. Quall'alma e quel core hor da me				Canzona										-	-	42
+A 3	Corilla danzando sul prato si sta								Canzona										-	-	44
+A 3	Con dolcezza e pietate alle gioie d'amore						Sonetto										-	-	46
 
 I-BC
 I-FN (esempl. di dedica).

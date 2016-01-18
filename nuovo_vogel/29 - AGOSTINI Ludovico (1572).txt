@@ -2,35 +2,35 @@
 
 4 fasc. in 8˚ obl. (C.A.T.B.), pag. 29. Ded. a C. Girolamo Roverelli, Vinegia, 10 VI 1572.
 
-A 4	1. Porgetemi la lira, vaghi fanciulli, et su per queste	prima parte	-	Petronio Barbati	1
-	2. Voi, che del puro fiume, ninfe gentili			seconda parte	-	Petronio Barbati	2
-	3. Ecco l'eterna luce, ch'a poco a poco			terza parte	-	Petronio Barbati	3
-	4. In questo dì sì bello l'alma fiamma			quarta parte	-	Petronio Barbati	4
-	5. A quel strano apparire rise la terra			quinta parte	-	Petronio Barbati	5
-	6. Dunque il giorno inchiniamo				sesta parte	-	Petronio Barbati	6
-	7. E tu per cortesia prega, canzone			settima parte	-	Petronio Barbati	7
-	Sì chiara e pelegrina è la mia luce, che vince'l sol quando esce	-	-	-			8
-	Amar un sol amante è vero amore et d'alma gentil nasce	-	-	Cassola			9
-	Deh salvator de l'anime smarite				Di Don Agostino Agostini	- Cassola	10
-	Se quanto in voi si vede tutt'è beltà infinita, non è mal		-	-	Cassola			11
-	Il vostro vago viso, il dolce aspetto, signora cara, e i begl'occhi	-	-	-			12
-	Ecco'l mio vivo sole, anzi mia chiara luna, cinta d'ardenti rai		-	-	-		13
-	Sì gioioso mi fanno i dolor miei, donna, per amar voi			-	-	-		14
-	Questa che'l cor m'accende, col cor mi fugge e con gl'occhi		-	-	-		15
-	Occhi soavi e belli, occhi sereni honesti e leggiadretti			-	-	-		16
-	I' piango et ella il volto con le sue man m'asciuga			-	-	Petrarca		17
-	Che dolce più, che più giocondo stato, saria di quel			-	-	Ariosto		18
-	S'io veggio in altra donna una beltate, mille ne trovo			-	-	Cassola		19
-	Hor che lungi da voi, almo mio sole, infra tenebr'oscure			-	-	Chiabrera	20
-	Quando sarà ch'io possa al mio martire trovar pietà			-	-	-		21
-	Donna felice e bella, dal cui felice seno					-	-	Ariosto		22
-	L'occhi le mani e le chiome d'amore, vivaci bianche e di fin oro		-	-	-		23
-	Donne mie care, chi non sa ch'amore per ampia vena vi trabocchi	-	-	-		24
-	Nel bel terreno della donna mia s'erge fra altiere sponde		-	-	-		25
-	Sì amaramente piansi quando di voi, ben mio, rimasi ahi lasso, privo	-	-	-		26
-	I' vo fuggend'in questa parte'n quella l'ardente fiamm'e'l foco		-	-	-		27
-	In così dura sorte convien che'n pianto eternamente i' viva		-	-	-		28
-	Deh dimmi, car mio ben, quando ti parti, però che teco anch'io		-	-	-		29
+A 4	1. Porgetemi la lira, vaghi fanciulli, et su per queste					prima parte					-	Petronio Barbati	1
+-	2. Voi, che del puro fiume, ninfe gentili								seconda parte				-	Petronio Barbati	2
+-	3. Ecco l'eterna luce, ch'a poco a poco									terza parte					-	Petronio Barbati	3
+-	4. In questo dì sì bello l'alma fiamma									quarta parte				-	Petronio Barbati	4
+-	5. A quel strano apparire rise la terra									quinta parte				-	Petronio Barbati	5
+-	6. Dunque il giorno inchiniamo											sesta parte					-	Petronio Barbati	6
+-	7. E tu per cortesia prega, canzone										settima parte				-	Petronio Barbati	7
+-	Sì chiara e pelegrina è la mia luce, che vince'l sol quando esce		-							-	-					8
+-	Amar un sol amante è vero amore et d'alma gentil nasce					-							-	Cassola				9
+-	Deh salvator de l'anime smarite											Di Don Agostino Agostini	- 	Cassola				10
+-	Se quanto in voi si vede tutt'è beltà infinita, non è mal				-							-	Cassola				11
+-	Il vostro vago viso, il dolce aspetto, signora cara, e i begl'occhi		-							-	-					12
+-	Ecco'l mio vivo sole, anzi mia chiara luna, cinta d'ardenti rai			-							-	-					13
+-	Sì gioioso mi fanno i dolor miei, donna, per amar voi					-							-	-					14
+-	Questa che'l cor m'accende, col cor mi fugge e con gl'occhi				-							-	-					15
+-	Occhi soavi e belli, occhi sereni honesti e leggiadretti				-							-	-					16
+-	I' piango et ella il volto con le sue man m'asciuga						-							-	Petrarca			17
+-	Che dolce più, che più giocondo stato, saria di quel					-							-	Ariosto				18
+-	S'io veggio in altra donna una beltate, mille ne trovo					-							-	Cassola				19
+-	Hor che lungi da voi, almo mio sole, infra tenebr'oscure				-							-	Chiabrera			20
+-	Quando sarà ch'io possa al mio martire trovar pietà						-							-	-					21
+-	Donna felice e bella, dal cui felice seno								-							-	Ariosto				22
+-	L'occhi le mani e le chiome d'amore, vivaci bianche e di fin oro		-							-	-					23
+-	Donne mie care, chi non sa ch'amore per ampia vena vi trabocchi			-							-	-					24
+-	Nel bel terreno della donna mia s'erge fra altiere sponde				-							-	-					25
+-	Sì amaramente piansi quando di voi, ben mio, rimasi ahi lasso, privo	-							-	-					26
+-	I' vo fuggend'in questa parte'n quella l'ardente fiamm'e'l foco			-							-	-					27
+-	In così dura sorte convien che'n pianto eternamente i' viva				-							-	-					28
+-	Deh dimmi, car mio ben, quando ti parti, però che teco anch'io			-							-	-					29
 
 I-Bc: compl.
 GB-Lcm: compl.
