@@ -6,7 +6,7 @@ A 5	Deh, poi ch'era ne' fati ch'io dovessi amar la morte			-		-	Giovanni Battist
 A 5	Quell'augellin, che canta sì dolcemente e lascivetto vola		-		-	Giovanni Battista Guarini	2
 A 5	1. Cruda Amarilli, che col nome ancora d'amar, ahi lasso			-		-	Giovanni Battista Guarini	3
 A 5	2. Ma grideran per me le piagg'e i monti				-		-	Giovanni Battista Guarini	4
-A 5	O disaventurosa, acerba sorte, o dispietata, intempestiva morte	-		-					5
+A 5	O disaventurosa, acerba sorte, o dispietata, intempestiva morte	-		-		-			5
 A 5	Al lume de le stelle Tirsi, sotto un alloro					-		-	Torquato Tasso			6
 A 5	Ami, Tirsi, e mel nieghi, ma nel bel viso tuo me l'apri			-		-	Giovanni Battista Guarini	7
 A 5	1. O dolcezze amarissime d'amore, quanto è più duro perdervi		-		-	Giovanni Battista Guarini	8

@@ -1,7 +1,6 @@
 1399 - Lasso, Orlando di (1592) - La Fleur des Chansons d'Orlande de Lassus, prince des musiciens de notre temps. Contenant un Recueil de ses Chansons Francoises, et Italiennes, a Quatre, Cinc, Six et Huit parties, accommodées tan aux Instrumens comme a la Voix: Toutes mises en ordre convenable selon leurs Tons. En Anvers. Chez Pierre Phalese, & chez Iean Bellere. 1592.
 
 5 fasc. in 8° obl. (Superius, Contratenor, T.B., 5. e 6.), pag. 48,(1). Ded di P. Phalese a Messire Martin Haeck, Regent du College de l'Eglise Cathedrale de Malines, Anvers, 25 IX [Septembre] 1592.
-
 [My digital facsimile of this edition has Maistre Robbin and Ardant amour switched]
 [Also Avecques vous and Le temps]
 [Also Tu sai madonna mia and No giorno t'haggi]
@@ -46,7 +45,7 @@ A 4	A ce matin ce seroit bonn'estreine					-				-			-				2
 -	Hastez vous de me faire grace						-				-			-				16
 -	Petite folle estez vous pas contente					-				-			-				16
 -	Le temps peut bien un beau teint effacer				-				-			-				17
--	Si i'estoy ou mon ame	desire						-				-			-				17
+-	Si i'estoy ou mon ame desire						-				-			-				17
 -	En un lieu ou l'on ne voit goutte					-				-			Octavien de Saint-Gélais	18
 -	Mes pas semez et loings allez						-				-			-				18
 -	Beau le cristal beau l'albastie et l'iuoire					-				-			-				19
@@ -85,7 +84,7 @@ A 5	Mon coeur se recommande à vous					-				-			Clément Marot			24
 -	Elle s'en va de moy la mieux aymée					-				-			Clément Marot			36
 -	Est il possibl'a moy pouvoir trouver					-				-			-				36
 -	Le departir est sans departement					-				-			François I [King]		37
--	1. Comme la Tourterelle languit	iusque à la mort			-				-			-				37
+-	1. Comme la Tourterelle languit iusque à la mort			-				-			-				37
 -	2. Ou t'atend ta maistresse, amy					Responce	-			-				38
 -	Puis que fortune a sur moy entrepris					-				-			-				38
 -	Helas j'ay sans mercy le soucy et la pensèe				-				-			-				39
@@ -94,7 +93,7 @@ A 6	1. Mais qui pourroit estre ce-luy					-				-			-				40
 -	2. Si mon gentil Francin sçavoit						Seconde partie		-			-				41
 -	3. Helas mon Francin mon mignon					Troisieme partie		-			-				41
 -	Si vous estes mamie ie vous donneray bon tems			-				-			-				42
--	Vignon vignon vignette	qui te planta il fut preudom			-				-			-				42
+-	Vignon vignon vignette qui te planta il fut preudom			-				-			-				42
 -	Hor vi riconfortate in vostre fole giovenil				-				-			Francesco Petrarca		43
 -	S'io esca vivo da dubbiosi scogli					-				-			Francesco Petrarca		44
 A 8	Hola Caron nautonnier infernal						Dialogue à 8			-			Olivier de Magny		45

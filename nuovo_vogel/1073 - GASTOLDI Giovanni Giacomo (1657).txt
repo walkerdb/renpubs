@@ -1,7 +1,6 @@
 1073 - GASTOLDI Giovanni Giacomo (1657) - G. Giac. Castoldi, Balletten, lustigh om te zingen, en speelen, met drie stimmen. Op nieuws verçiert met een nieuwe Alt, ofte vierde Parthye, mede doorgaens met de oude ende Nieuwe stichtelycke Rymen, boven malkander, gestelt, noyt voor dezen zo gedrukt. Hier zyn noch achter by gevoeght, de vyf Carilenen, op de vyf Zinnen gerymt, en op 4 stemmen, Gesteld door Jacobus Haffner, Musicijn der stadt Amstelredam. Als mede, Perioste, en O zaligh heyligh Bethlehem. t'Amstelredam, By Paulus Matthysz, in de Stoof-steegh, in 't Musyk-boeck, is veelderley Musyck en Gelinieert Papier, in allerley Formaet, zo in Folio, hoog en lang 4.˚ 6.˚ als in 8.˚ te koop.
 
 3 fasc. in 8˚ obl. (C.1˚, C.2˚, T.), pag. 24.
-
 The Nuovo Vogel entry on this item was absolutely riddled with errors and misconceptions.  It is now completely re-listed, with reference to digitized facsimiles of the original partbooks (available here: http://speelmuziek.nederlandsmuziekinstituut.nl/div/KluisC9.html).  The most notable error was a lack of understanding that many pieces listed as one work with a single very long title were in fact two works with distinct text (distinguished by the use of two very different fonts), but to the same music.  Some pieces listed the source of the tune to which they were arranged.  Although this information was present in the original, the name was presented without comment as part of the title, with no indication as to what it meant.  In all cases, the first arrangement of each set of two is the original contrafacta of Gastoldi's original Balletti from the Italian. Unlike other publications of Gastoldi's contrafacta, this is not indicated in the source part-books.
 
 -	Komt Musiçijns al hier omtrent, maekt u bekent				Wel-komst Liedt.								[Johannes Lupi]	-	2
@@ -41,7 +40,7 @@ The Nuovo Vogel entry on this item was absolutely riddled with errors and miscon
 -	'T oogenlicht dat leyt ons tot de kennis, en door kennis tot de min:		1. Carileen. Op 't Gezicht. met 4 stemm. gestelt, door J. Haffner		Cornelis de Leeuw, arr. for 3 voices by J. Haffner	-	19
 -	'T hooren van een goede zaek, 't wekt on op tot vreugt			Tweede Carileen. Op 't Gehoor. met 4 stemm. gestelt, door J. Haffner		J. Haffner		-	20
 -	Dien het soete bitter smaeckt, 't is gewis, syn tongh is van de gal geraeckt	3. Carileen. Van de Smaeck, met 4 stemm. gestelt, door J. Haffner		J. Haffner		-	21
--	'T ruycken van het Muskeljaet	maeckt ons hert warm				4. Carileen. Van de Reuck. met 4 stemm. gestelt, door J. Haffner		J. Haffner		-	22
+-	'T ruycken van het Muskeljaet maeckt ons hert warm				4. Carileen. Van de Reuck. met 4 stemm. gestelt, door J. Haffner		J. Haffner		-	22
 -	Bestraft is Thomas van den Heer, om dat hy niet woud' gheloven		5. Carileen. Van 't Gevoel. met 4 stemm. gestelt, door J. Haffner		J. Haffner		-	23
 -	O zaligh heyligh Bethlehem, o onder duysent uytverkooren			[At end of piece, this note appears:] Repicavan, Amarilli mia bella etc. ziet in Livre Septieme. 	Mr. H. Goudsteen	-	24
 -	O Vader goet, wy dancken u uyt 's hertsen gront				Scheyd' en Danck-Liedt. 							Cornelis Piet. Pred.	-	24

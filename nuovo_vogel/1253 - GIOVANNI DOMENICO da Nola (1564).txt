@@ -21,7 +21,7 @@ A 4	1. Giovane donna sott'un verde lauro				-		-	Francesco Petrarca	3
 -	Quel dolce pianto me dipins'amore, anzi scolpio		-		-	Francesco Petrarca	19
 -	Quando vede il pastor calar i raggi del gran pianeta		-		-	Francesco Petrarca	20
 -	1. A'amor novo consiglio non m'apporta per forza converrà	-		-	Francesco Petrarca	21
--	2. Onde si sbigottisce e si sconforta				Seconda parte		Francesco Petrarca	22
+-	2. Onde si sbigottisce e si sconforta				Seconda parte	-	Francesco Petrarca	22
 -	1. Da' più begli occhi e dal più chiaro viso			-		-	Francesco Petrarca	23
 -	2. Prendean vita i miei spirti					Seconda parte	-	Francesco Petrarca	24
 -	1. O passi sparsi, o pensier vaghi e pronti			-		-	Francesco Petrarca	25

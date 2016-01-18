@@ -2,8 +2,7 @@
 
 6 fasc. In 8˚ obl. (C.A.T.B.5.6), pag. 27. Ded. A Gio. Pietro e Tiberio Cerasi dottori e cavalieri romani, Vinegia, 24 I 1571.
 
-Enigmi a 6
-A 6	Un mal è che mi rende afflitto e mesto; un remedio può sol farmi contento			-				-			-			1
+A 6	Un mal è che mi rende afflitto e mesto; un remedio può sol farmi contento			Enigmi a 6				-			-			1
 -	Tant'è'l mio duol intenso, vedendo quel in voi ch'io veggio spesso					-				-			Cassola		2
 -	Sia benedetto amore e chiunqu'il segu'ogn'hora, benedette sue face					-				-			-			3
 -	L'aurora soave, vita di mia vita, che così dolcemente a l'amoroso					-				-			Cassola		4
@@ -13,26 +12,18 @@ A 6	Un mal è che mi rende afflitto e mesto; un remedio può sol farmi contento	
 -	Va, limpido ruscel, Castalio humile, col dolce mormorar delle chiar'onde			-				-			-			8
 A 5	Sia benedetto amore, che con fedel servire, a poco a poco m'insegna					-				-			Cassola		9
 A 6	Io vo fra me pensand'almo mio sole, se questo mio tormento							-				-			-			10
-
-Madrigali a 6
-A 6	1. Io vo piangendo i miei passati tempi i quali posi in amar						-				-			Petrarca	11
+A 6	1. Io vo piangendo i miei passati tempi i quali posi in amar						Madrigali a 6				-			Petrarca	11
 -	2. Si che s'io vissi in querr'et in tempesta										-				-			Petrarca	12
 -	Amor m'ha vinto, hor vuol tormi la vita, ma vedi mia gran sorte						-				-			-			13
 -	Duolmi ch'io arsi et ardo e duolmi assai il non poter uscir di tanto stento			-				-			-			13
-
-Dialoghi a 7
-A 7	1. Amore, dov'è'l mio core? che fà, che dice, che pensa di noi?						-				-			-			14
+A 7	1. Amore, dov'è'l mio core? che fà, che dice, che pensa di noi?						Dialoghi a 7				-			-			14
 -	2. Amore, io moio. Morte mi dà sol quella											seconda parte	-			-			15
 -	3. Sol mi fa sol, odi che canta amore												terza parte		-			-			16
-
-Dialoghi a 8
-A 8	Alma, spent'è gia in tutto il gran splendore di quel bel sol						-				-			-			18
+A 8	Alma, spent'è gia in tutto il gran splendore di quel bel sol						Dialoghi a 8				-			-			18
 -	Chi sei, donna gentile, ch'a l'habito a l'andar, alla sembianza, discesa sembri		-				-			-			19
 -	Voi che donaste a duo begl'occhi il core, se viver desiate in festa e'n gioco		-				-			-			20
 -	Alma, che dobbiam far? Troppo amaro per me mi pasci di speranza						-				-			-			21
-
-Dialoghi a 10
-A 10	Amor, ragion chieggio signore. A chi volterò dunque								Sonetto di Giulio Guarini	-	-		22
+A 10	Amor, ragion chieggio signore. A chi volterò dunque								Dialoghi a 10. Sonetto di Giulio Guarini	-	-		22
 -	1. Liet'e pensose, accompagnate e sole, donne, che ragionando						primo coro		-			Petrarca	23
 -	2. Liete siam per memoria di quel sole												secondo coro	-			Petrarca	23
 -	1. Che fai, alma, che pensi? Havrem mai pace										primo coro		-			Petrarca	24
