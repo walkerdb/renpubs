@@ -5,10 +5,10 @@ The current project largely follows the Nuovo Vogel bibliography. Once enough da
 ##Reading the files
 Each file consists of four primary parts:
 
-1. The Nuovo Vogel numerical designation and a transcription of the frontispiece
-2. A description of the physical attributes of original object (size, page counts, number of books, etc.)
-3. A structured (tab-delineated) listing of each work in the publication, including text authors if known
-4. A listing of institutions known to hold copies of the publication, including which specific parts are in their collection
+1. __NV number + frontispiece text__: The Nuovo Vogel numerical designation and a transcription of the frontispiece
+2. __Physical description__: A description of the physical attributes of original object (size, page counts, number of books, etc.)
+3. __Works table__: A structured (tab-delineated) listing of each work in the publication, including text authors if known
+4. __Holding institutions__: A listing of institutions known to hold copies of the publication, including which specific parts are in their collection
 
 ###Reading the works table
 For every work in the works list there are 6 data points, all separated by one or more tabs. Empty data-points are delineated with a ```-``` character.
