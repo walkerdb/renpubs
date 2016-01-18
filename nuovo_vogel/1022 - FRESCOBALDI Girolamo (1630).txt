@@ -2,29 +2,29 @@
 
 Vol. in 8˚, pag. 40. Ded. Al Marchese Roberto Obizi: "... perchè ella discende di quella nobilissima patria di Ferrara, che è stata sempre il ricovero all'arti belle, e spezialmente della Musica, per la quale si rese così caro il Signor Luciasco mio maestro..."
 
-A 1	Vanne, o carta amorosa, vanne a colei per cui tacendo	-					-	Giambattista Marino		4
-A 1	Ben veggio, donna, omai che più non sono				In stile recitativo	-	-						6
-A 1	Oscure selve, ove già mai non luce						In stile recitativo	-	-						10
-A 1	Ohimè che fur, ce sono e che saranno queste				In stile recitativo	-	-						12
-A 1	Dove, dove sparir sì ratto i dì sereni 					Sonetto spirituale	-	-						14
-A 1	1. Ti lascio, anima mia. Giunta è quell'hora 			Aria di Ruggieri	-	Girolamo Preti			14
-A 1	2. Io parto, ohimè convien ch'io mora					Seconda parte		-	Girolamo Preti			16
-A 1	3. Ahi pur troppo è'l dolor ch'entro					Terza parte			-	Girolamo Preti			17
-A 1	4. Deh non languir, cor mio								Quarta parte		-	Girolamo Preti			17
-A 1	Voi partite, mio sole, e porta il vostro lume altrove 	Aria				-	-						19
-A 1	La mia pallida faccia e lingua di pietà					Aria				-	-						20
-A 1	A miei pianti al fine un dì quel cor aspro				Aria				-	-						21
-A 1	1. O mio cor, doce mia vita, poichè lasso				Aria				-	-						22
-A 1	2. Tu sai pur, dolce mio bene							Seconda parte		-	-						23
-A 1	Son ferito, son morto e difesa non ho					Aria				-	-						24
-A 2	Non vi partite se voi m'amate, non mi lasciate			Aria				-	-						25
-A 2	Gioite, o selve, o venti, a miei amici contenti			Canzona				-	-						26
-A 2	Bella tiranna infida, qual'hor verso di me				Madrigale			-	-						27
-A 2	Soffrir non posso l'affanno del cor e morrò				Canzona				-	-						29
-A 3	Deh volate, o mie voci dolenti, con alti gridi			Canzona				-	-						30
-A 3	Quanto più sorda sete, donna, alle mie querele			Madrigale			-	-						31
-A 2	Deh vien da me, pastorella, vien qui tra i fior 		Ceccona				-	-						33
-A 3	Doloroso mio core, come poi tu soffrir tanti martiri 	Canzona				-	-						36
-A 3	O dolore, o ferita, o mio core, o mio bene 				Canzona				-	-						38
+A 1	Vanne, o carta amorosa, vanne a colei per cui tacendo	-                  	-	Giambattista Marino	 4
+A 1	Ben veggio, donna, omai che più non sono             	In stile recitativo	-	-                  	 6
+A 1	Oscure selve, ove già mai non luce                   	In stile recitativo	-	-                  	10
+A 1	Ohimè che fur, ce sono e che saranno queste          	In stile recitativo	-	-                  	12
+A 1	Dove, dove sparir sì ratto i dì sereni               	Sonetto spirituale 	-	-                  	14
+A 1	1. Ti lascio, anima mia. Giunta è quell'hora         	Aria di Ruggieri   	-	Girolamo Preti     	14
+A 1	2. Io parto, ohimè convien ch'io mora                	Seconda parte      	-	Girolamo Preti     	16
+A 1	3. Ahi pur troppo è'l dolor ch'entro                 	Terza parte        	-	Girolamo Preti     	17
+A 1	4. Deh non languir, cor mio                          	Quarta parte       	-	Girolamo Preti     	17
+A 1	Voi partite, mio sole, e porta il vostro lume altrove	Aria               	-	-                  	19
+A 1	La mia pallida faccia e lingua di pietà              	Aria               	-	-                  	20
+A 1	A miei pianti al fine un dì quel cor aspro           	Aria               	-	-                  	21
+A 1	1. O mio cor, doce mia vita, poichè lasso            	Aria               	-	-                  	22
+A 1	2. Tu sai pur, dolce mio bene                        	Seconda parte      	-	-                  	23
+A 1	Son ferito, son morto e difesa non ho                	Aria               	-	-                  	24
+A 2	Non vi partite se voi m'amate, non mi lasciate       	Aria               	-	-                  	25
+A 2	Gioite, o selve, o venti, a miei amici contenti      	Canzona            	-	-                  	26
+A 2	Bella tiranna infida, qual'hor verso di me           	Madrigale          	-	-                  	27
+A 2	Soffrir non posso l'affanno del cor e morrò          	Canzona            	-	-                  	29
+A 3	Deh volate, o mie voci dolenti, con alti gridi       	Canzona            	-	-                  	30
+A 3	Quanto più sorda sete, donna, alle mie querele       	Madrigale          	-	-                  	31
+A 2	Deh vien da me, pastorella, vien qui tra i fior      	Ceccona            	-	-                  	33
+A 3	Doloroso mio core, come poi tu soffrir tanti martiri 	Canzona            	-	-                  	36
+A 3	O dolore, o ferita, o mio core, o mio bene           	Canzona            	-	-                  	38
 
 I-Bc

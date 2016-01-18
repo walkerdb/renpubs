@@ -2,26 +2,26 @@
 
 5 fasc. in 8˚ (C.A.T.B.5.), pag. 20,(1). Ded. a Francesco Gonzaga di S. Jago, Venetia, 14 VIII 1598.
 
-A 5	Pascon nel dilettoso e vago aprile					-		-	-				1
--	La vaga primavera, piena de varij fiori					-		-	-				2
--	Caro mio bene, i vostr'occhi di sole					-		-	-				3
--	La cara donna mia, stringendomi dicea					-		-	-				4
--	Chi di veder procura cosa di meraviglia e di stupore			-		-	-				5
--	1. La mia donna bevea e ben ch'habbia di ghiaccio il petto		-		-	Orazio Navazzotti		6
--	2. Io che per lei ardea, dissi						Seconda parte	-	Orazio Navazzotti		7
--	Anime del cor mio, poi che da me, tu parti s'ami conforto		-		-	-				8
--	1. Poi che fortuna in sì remota parte del bel viso			-		-	-				9
--	2. E se tolto vi fu							Seconda parte	-	-				10
--	1. Ben è soave cosa quel bacio che si prende di bella guancia		-		-	Giovanni Battista Guarini	11
--	2. Ma i colpi di due labra innamorate					-		-	Giovanni Battista Guarini	12
--	Donna, se voi m'odiate, a che sì dolci poi baci mi date			-		-	Cesare Rinaldi			13
--	1. Ferro empio, a che offendesti quel sì dolci poi baci mi date		-		-	-				14
--	2. Crudel non fui, ma poi ch'impallidir					Seconda parte	-	-				15
--	M'è più dolce il penar per Amarilli, che gioir di mill'altre			-		-	Giovanni Battista Guarini	16
--	Come è soave cosa tanto goder quant'ami, tant'haver quanto brami	-		-	Giovanni Battista Guarini	17
-A 6	Non sai, donna infedele, ch'un giusto sdegno				-		-	-				18
-A 6	O della notte bruna lucidissimo sol, candida luna			-		-	-				19
-A 8	O notturno miracolo soave, nè già sognando il veggio			-		-	Giovanni Battista Guarini	20
+A 5	Pascon nel dilettoso e vago aprile                              	-            	-	-                        	 1
+-  	La vaga primavera, piena de varij fiori                         	-            	-	-                        	 2
+-  	Caro mio bene, i vostr'occhi di sole                            	-            	-	-                        	 3
+-  	La cara donna mia, stringendomi dicea                           	-            	-	-                        	 4
+-  	Chi di veder procura cosa di meraviglia e di stupore            	-            	-	-                        	 5
+-  	1. La mia donna bevea e ben ch'habbia di ghiaccio il petto      	-            	-	Orazio Navazzotti        	 6
+-  	2. Io che per lei ardea, dissi                                  	Seconda parte	-	Orazio Navazzotti        	 7
+-  	Anime del cor mio, poi che da me, tu parti s'ami conforto       	-            	-	-                        	 8
+-  	1. Poi che fortuna in sì remota parte del bel viso              	-            	-	-                        	 9
+-  	2. E se tolto vi fu                                             	Seconda parte	-	-                        	10
+-  	1. Ben è soave cosa quel bacio che si prende di bella guancia   	-            	-	Giovanni Battista Guarini	11
+-  	2. Ma i colpi di due labra innamorate                           	-            	-	Giovanni Battista Guarini	12
+-  	Donna, se voi m'odiate, a che sì dolci poi baci mi date         	-            	-	Cesare Rinaldi           	13
+-  	1. Ferro empio, a che offendesti quel sì dolci poi baci mi date 	-            	-	-                        	14
+-  	2. Crudel non fui, ma poi ch'impallidir                         	Seconda parte	-	-                        	15
+-  	M'è più dolce il penar per Amarilli, che gioir di mill'altre    	-            	-	Giovanni Battista Guarini	16
+-  	Come è soave cosa tanto goder quant'ami, tant'haver quanto brami	-            	-	Giovanni Battista Guarini	17
+A 6	Non sai, donna infedele, ch'un giusto sdegno                    	-            	-	-                        	18
+A 6	O della notte bruna lucidissimo sol, candida luna               	-            	-	-                        	19
+A 8	O notturno miracolo soave, nè già sognando il veggio            	-            	-	Giovanni Battista Guarini	20
 
 I-Rc: C.B.5.
 A-Wn: C.B.

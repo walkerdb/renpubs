@@ -3,43 +3,43 @@
 
 5 fasc. in 8˚ obl.: C.B., pag. 26; A.T.5. pag. 24.
 
-A 5	O compagni, allegrezza					Introduttione ai Balletti			-		-	2
--	A lieta vitta amor ci invita				L'Innamorato				-		-	3
-A 4	Buon dì e bon anno					L'anno novo				Orazio Vecchi	-	3
-A 5	Viver lieto voglio, senz'alcun cordoglio			Il Bell'humore				-		-	4
--	Piacer, gioia e diletto					Il Contento				-		-	5
-A 4	Chi vuol goder il mondo e star sempre			-					Orazio Vecchi	-	5
-A 5	Vezzosette ninfe e belle				Speme amorosa			-		-	6
-A 4	Pastor tutti correte e pastorelle			-					Orazio Vecchi	-	6
-A 5	Se ben ved'o vita mia					Lo Schernito				-		-	7
-A 4	Più cantar non vogliamo come già solevamo		-					Orazio Vecchi	-	7
-A 5	Vaghe ninfe e voi pastori				Gioia d'amore				-		-	8
-A 4	Non basta contentarmi di parole			-					Orazio Vecchi	-	8
-A 5	Al piacer, a la gioia					Il Piacere				-		-	9
-A 4	O cara bocca d'oro					Dialogo					Orazio Vecchi	-	9
-A 5	Chi guerreggiar desia					L'Ardito				-		-	10
--	Tutti venite armati					Amor vittorioso			-		-	11
--	Ove ne vai sì in fretta					Il Premiato				-		-	12
-A 3	1. Gode la terr'e'l mare					Canzonetta				Orazio Vecchi	-	12
--	2. Gioisce l'aria e'l cielo					Seconda parte				Orazio Vecchi	-	13
--	3. E per maggior dolcezza				Terza parte				Orazio Vecchi	-	14
--	4. O vago cant'e suono					Quarto parte				Orazio Vecchi	-	16
-A 5	Questa dolce sirena					La Sirena				-		-	13
--	Bellissima Mirtilla, tu di luce				La Bellezza				-		-	14
--	Queste correnti linfe fuggit'o ninfe			Caccia d'amore				-		-	15
--	Possa morir chi t'ama, Nigell'ingrata			Il Martello				-		-	16
--	Più d'ogn'altr'o Clori tu sei bell'e vaga			L'Acceso				-		-	17
-A 6	1. Cacciatori noi siamo					Mascherata de' cacciatori		-		-	18
--	2. Habbiam cani di lena					Seconda parte				-		-	19
--	3. Donne belle e leggiadre				Terza parte				-		-	20
-A 3	Semo tre vecchinet inamoranai				-					Orazio Vecchi	-	18
--	Servo a un'ingranata e ghe voio gran ben		-					Orazio Vecchi	-	19
--	No v'accorzè, madona, che nu femo			-					Orazio Vecchi	-	20
-A 5	Viva sempre e scolpita vi tengo nel mio cor		-					-		-	21
-A 8	Scacciam l'antico sonno e con soavi accenti		Dialogo di Pastori			-		-	22
-A 2	Al lang genoegh					Boven zang				-		-	24
-A 3	Dus scheere wy den wijn, met reeden			-					-		-	25
-A 4	Ich armer la mi la sol ut, was hab ich			-					-		-	25
+A 5	O compagni, allegrezza                     	Introduttione ai Balletti	-            	-	 2
+-  	A lieta vitta amor ci invita               	L'Innamorato             	-            	-	 3
+A 4	Buon dì e bon anno                         	L'anno novo              	Orazio Vecchi	-	 3
+A 5	Viver lieto voglio, senz'alcun cordoglio   	Il Bell'humore           	-            	-	 4
+-  	Piacer, gioia e diletto                    	Il Contento              	-            	-	 5
+A 4	Chi vuol goder il mondo e star sempre      	-                        	Orazio Vecchi	-	 5
+A 5	Vezzosette ninfe e belle                   	Speme amorosa            	-            	-	 6
+A 4	Pastor tutti correte e pastorelle          	-                        	Orazio Vecchi	-	 6
+A 5	Se ben ved'o vita mia                      	Lo Schernito             	-            	-	 7
+A 4	Più cantar non vogliamo come già solevamo  	-                        	Orazio Vecchi	-	 7
+A 5	Vaghe ninfe e voi pastori                  	Gioia d'amore            	-            	-	 8
+A 4	Non basta contentarmi di parole            	-                        	Orazio Vecchi	-	 8
+A 5	Al piacer, a la gioia                      	Il Piacere               	-            	-	 9
+A 4	O cara bocca d'oro                         	Dialogo                  	Orazio Vecchi	-	 9
+A 5	Chi guerreggiar desia                      	L'Ardito                 	-            	-	10
+-  	Tutti venite armati                        	Amor vittorioso          	-            	-	11
+-  	Ove ne vai sì in fretta                    	Il Premiato              	-            	-	12
+A 3	1. Gode la terr'e'l mare                   	Canzonetta               	Orazio Vecchi	-	12
+-  	2. Gioisce l'aria e'l cielo                	Seconda parte            	Orazio Vecchi	-	13
+-  	3. E per maggior dolcezza                  	Terza parte              	Orazio Vecchi	-	14
+-  	4. O vago cant'e suono                     	Quarto parte             	Orazio Vecchi	-	16
+A 5	Questa dolce sirena                        	La Sirena                	-            	-	13
+-  	Bellissima Mirtilla, tu di luce            	La Bellezza              	-            	-	14
+-  	Queste correnti linfe fuggit'o ninfe       	Caccia d'amore           	-            	-	15
+-  	Possa morir chi t'ama, Nigell'ingrata      	Il Martello              	-            	-	16
+-  	Più d'ogn'altr'o Clori tu sei bell'e vaga  	L'Acceso                 	-            	-	17
+A 6	1. Cacciatori noi siamo                    	Mascherata de' cacciatori	-            	-	18
+-  	2. Habbiam cani di lena                    	Seconda parte            	-            	-	19
+-  	3. Donne belle e leggiadre                 	Terza parte              	-            	-	20
+A 3	Semo tre vecchinet inamoranai              	-                        	Orazio Vecchi	-	18
+-  	Servo a un'ingranata e ghe voio gran ben   	-                        	Orazio Vecchi	-	19
+-  	No v'accorzè, madona, che nu femo          	-                        	Orazio Vecchi	-	20
+A 5	Viva sempre e scolpita vi tengo nel mio cor	-                        	-            	-	21
+A 8	Scacciam l'antico sonno e con soavi accenti	Dialogo di Pastori       	-            	-	22
+A 2	Al lang genoegh                            	Boven zang               	-            	-	24
+A 3	Dus scheere wy den wijn, met reeden        	-                        	-            	-	25
+A 4	Ich armer la mi la sol ut, was hab ich     	-                        	-            	-	25
 
 NL-At: compl.
 GB-Lbm: A.T.5.

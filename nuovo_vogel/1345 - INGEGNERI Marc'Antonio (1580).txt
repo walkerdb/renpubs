@@ -2,27 +2,27 @@
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 21,(1). Ded. a Don Antonio Londonio del Consiglio di S.M. Cattolica e Presidente del Magistrato Ordinario di Milano: "... di queste particolarmente una parte è stata fatta da me, com'ella sa, d'ordine suo... Cremona, 25 II 1580".
 
-A 5	1. Stella, ch'in cil con longa chioma ardente, tra tutte l'altre splendi		-			-	-				1
--	2. È Giulia in ciel la più lucente							Seconda parte		-	-				2
--	Vaghi boschetti di soavi allori, di palme e d'amenissime				-			-	Ludovico Ariosto		3
--	Bench'io sia certa, ingrato, anzi che gioia senti					-			-	-				4
--	Hor ch'amor m'ha slegato da quel sì stretto nodo				-			-	-				5
--	Tall'hor per trovar pace vommene ov'il desio folle mi mena			-			-	-				6
--	Non orno tanto il ciel per far la notte oscura					-			-	-				7
--	Qual incarnata rosa per l'humor che nell'alba provar suole			-			-	-				8
--	1. Padre del ciel, che i tuoi celesti regni per gratia				-			-	-				9
--	2. Fammi udir, prego, sì cortese voce						Seconda parte		-	-				10
--	Santa chiesa di Dio, manda le voci in alto e rendi gratie				-			-	-				11
--	Qual vide il sol giamai donn'altra più di me lieta e felice				-			-	-				12
--	1. D'aria un tempo nodrimmi e cibo e vita l'aura mi fu				-			-	Torquato Tasso			13
--	2. Armi di sdegno i begli occhi							Seconda parte		-	Torquato Tasso			14
--	Io non hebbi giamai pace, nè tregua, nè riposo al mio cor			-			-	-				15
--	Dolorosi martir, fieri tormenti, duri ceppi, empi lacci				-			-	Luigi Tansillo			16
--	Cantan fra i rami gli augelletti vaghi, azurri e bianchi				-			-	Ludovico Ariosto		17
--	1. Volga al più caro amante e solo a lui le tenebre				-			-	-				18
--	2. Gradisca solo e'l mio languir							Seconda parte		-	-				19
--	1. Iay senty les deux mauc de l'amoreux martire soit de pres			-			-	-				20
--	2. Ung soudat courageux blesse						Seconda parte		-	-				21
+A 5	1. Stella, ch'in cil con longa chioma ardente, tra tutte l'altre splendi	-            	-	-               	 1
+-  	2. È Giulia in ciel la più lucente                                      	Seconda parte	-	-               	 2
+-  	Vaghi boschetti di soavi allori, di palme e d'amenissime                	-            	-	Ludovico Ariosto	 3
+-  	Bench'io sia certa, ingrato, anzi che gioia senti                       	-            	-	-               	 4
+-  	Hor ch'amor m'ha slegato da quel sì stretto nodo                        	-            	-	-               	 5
+-  	Tall'hor per trovar pace vommene ov'il desio folle mi mena              	-            	-	-               	 6
+-  	Non orno tanto il ciel per far la notte oscura                          	-            	-	-               	 7
+-  	Qual incarnata rosa per l'humor che nell'alba provar suole              	-            	-	-               	 8
+-  	1. Padre del ciel, che i tuoi celesti regni per gratia                  	-            	-	-               	 9
+-  	2. Fammi udir, prego, sì cortese voce                                   	Seconda parte	-	-               	10
+-  	Santa chiesa di Dio, manda le voci in alto e rendi gratie               	-            	-	-               	11
+-  	Qual vide il sol giamai donn'altra più di me lieta e felice             	-            	-	-               	12
+-  	1. D'aria un tempo nodrimmi e cibo e vita l'aura mi fu                  	-            	-	Torquato Tasso  	13
+-  	2. Armi di sdegno i begli occhi                                         	Seconda parte	-	Torquato Tasso  	14
+-  	Io non hebbi giamai pace, nè tregua, nè riposo al mio cor               	-            	-	-               	15
+-  	Dolorosi martir, fieri tormenti, duri ceppi, empi lacci                 	-            	-	Luigi Tansillo  	16
+-  	Cantan fra i rami gli augelletti vaghi, azurri e bianchi                	-            	-	Ludovico Ariosto	17
+-  	1. Volga al più caro amante e solo a lui le tenebre                     	-            	-	-               	18
+-  	2. Gradisca solo e'l mio languir                                        	Seconda parte	-	-               	19
+-  	1. Iay senty les deux mauc de l'amoreux martire soit de pres            	-            	-	-               	20
+-  	2. Ung soudat courageux blesse                                          	Seconda parte	-	-               	21
 
 I-Bc: compl.
 I-VEaf: compl.

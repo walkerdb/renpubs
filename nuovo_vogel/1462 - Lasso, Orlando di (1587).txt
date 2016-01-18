@@ -2,35 +2,35 @@
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 29,(1). Ded. al Conte Mario Bevilacqua: "Trovomi da alcuni mesi in qua... haver composto li presenti Madrigali la maggior parte per non star in otio quelle hore, che dal servigio del mio Serenissimo Prencipe, et da più gravi studi mi avanzavano... Venetia, 15 I 1587".
 
-A 5	1. De l'eterne tue sante, alme faville tal foco in me		-			-	Gabriele Fiamma		1
--	2. Per questi alti misteri occulti sensi				Seconda parte		-	Gabriele Fiamma		2
--	1. Io, che l'età più verd'e più fiorita vissi lontan			-			-	Gabriele Fiamma		3
--	2. Ma convien che di speme io mi disarmi			Seconda parte		-	Gabriele Fiamma		4
--	1. O tempo, o ciel volubil, che fuggendo			-			-	Francesco Petrarca		5
--	2. E sarebbe hor'et è passata homai				Seconda parte		-	Francesco Petrarca		6
--	1. Le voglie e l'opre mie gelate e spente preggio non hebber	-			-	Gabriele Fiamma		7
--	2. Non fu colle, o campagna, o riva, o fiume			Seconda parte		-	Gabriele Fiamma		8
--	1. Un dubbio verno, un instabil sereno è vostra fama		-			-	Francesco Petrarca		9
--	2. Hor vi riconfortate in vostre fole				Seconda parte		-	Francesco Petrarca		10
--	1. U' son gl'ingegni pelegrini e rari, che dieron vita		-			-	Gabriele Fiamma		11
--	2. Ahi, che la forza de l'ingegn'e il lume				Seconda parte		-	Gabriele Fiamma		12
--	Io non sapea da tal vista levarme, quand'io vidi			-			-	Francesco Petrarca		13
--	1. Quand'io penso al fuggir ratto de l'hore e veggio		-			-	Gabriele Fiamma		14
--	2. Vedi, gli dico, ch'a tuoi danni spira				Seconda parte		-	Gabriele Fiamma		15
--	1. Io son sì stanco sotto il fascio antico de le mie colpe		-			-	Francesco Petrarca		16
--	2. Ma la sua voce ancor qua giù rimbomba			Seconda parte		-	Francesco Petrarca		17
--	1. Quando il giorno da l'ond'apporta il sole			Sestina			-	Gabriele Fiamma		18
--	2. Non hebb'huon forse mai cagion di pianto			Seconda parte		-	Gabriele Fiamma		19
--	3. Hor come i rai del sol struggon la neve			Terza parte		-	Gabriele Fiamma		20
--	4. Parmi che sempre sian tenebre, o notte			Quarta parte		-	Gabriele Fiamma		21
--	5. Il mondo muta ogn'hor stagione e tempo			Quinta parte		-	Gabriele Fiamma		22
--	6. Poggi, valli, campagne, fiumi e boschi				Sesta parte		-	Gabriele Fiamma		23
-A 6	Come la cera al foco, ch'accend'esca terrena			Canon a l'unisono	-	Gabriele Fiamma		24
-A 5	1. Soleasi nel mio cor star bella e viva				-			-	Francesco Petrarca		25
--	2. Che piangon dentro ov'ogni orecchia				Seconda parte		-	Francesco Petrarca		26
--	Segui già le speranz'e il van desio hor ho dinanzi		-			-	Francesco Petrarca		27
--	Nessun visse giamai più di me lieto				-			-	Francesco Petrarca		28
--	O fugace dolcezza, o viver lasso, chi mi tolse			-			-	Francesco Petrarca		29
+A 5	1. De l'eterne tue sante, alme faville tal foco in me       	-                	-	Gabriele Fiamma   	 1
+-  	2. Per questi alti misteri occulti sensi                    	Seconda parte    	-	Gabriele Fiamma   	 2
+-  	1. Io, che l'età più verd'e più fiorita vissi lontan        	-                	-	Gabriele Fiamma   	 3
+-  	2. Ma convien che di speme io mi disarmi                    	Seconda parte    	-	Gabriele Fiamma   	 4
+-  	1. O tempo, o ciel volubil, che fuggendo                    	-                	-	Francesco Petrarca	 5
+-  	2. E sarebbe hor'et è passata homai                         	Seconda parte    	-	Francesco Petrarca	 6
+-  	1. Le voglie e l'opre mie gelate e spente preggio non hebber	-                	-	Gabriele Fiamma   	 7
+-  	2. Non fu colle, o campagna, o riva, o fiume                	Seconda parte    	-	Gabriele Fiamma   	 8
+-  	1. Un dubbio verno, un instabil sereno è vostra fama        	-                	-	Francesco Petrarca	 9
+-  	2. Hor vi riconfortate in vostre fole                       	Seconda parte    	-	Francesco Petrarca	10
+-  	1. U' son gl'ingegni pelegrini e rari, che dieron vita      	-                	-	Gabriele Fiamma   	11
+-  	2. Ahi, che la forza de l'ingegn'e il lume                  	Seconda parte    	-	Gabriele Fiamma   	12
+-  	Io non sapea da tal vista levarme, quand'io vidi            	-                	-	Francesco Petrarca	13
+-  	1. Quand'io penso al fuggir ratto de l'hore e veggio        	-                	-	Gabriele Fiamma   	14
+-  	2. Vedi, gli dico, ch'a tuoi danni spira                    	Seconda parte    	-	Gabriele Fiamma   	15
+-  	1. Io son sì stanco sotto il fascio antico de le mie colpe  	-                	-	Francesco Petrarca	16
+-  	2. Ma la sua voce ancor qua giù rimbomba                    	Seconda parte    	-	Francesco Petrarca	17
+-  	1. Quando il giorno da l'ond'apporta il sole                	Sestina          	-	Gabriele Fiamma   	18
+-  	2. Non hebb'huon forse mai cagion di pianto                 	Seconda parte    	-	Gabriele Fiamma   	19
+-  	3. Hor come i rai del sol struggon la neve                  	Terza parte      	-	Gabriele Fiamma   	20
+-  	4. Parmi che sempre sian tenebre, o notte                   	Quarta parte     	-	Gabriele Fiamma   	21
+-  	5. Il mondo muta ogn'hor stagione e tempo                   	Quinta parte     	-	Gabriele Fiamma   	22
+-  	6. Poggi, valli, campagne, fiumi e boschi                   	Sesta parte      	-	Gabriele Fiamma   	23
+A 6	Come la cera al foco, ch'accend'esca terrena                	Canon a l'unisono	-	Gabriele Fiamma   	24
+A 5	1. Soleasi nel mio cor star bella e viva                    	-                	-	Francesco Petrarca	25
+-  	2. Che piangon dentro ov'ogni orecchia                      	Seconda parte    	-	Francesco Petrarca	26
+-  	Segui già le speranz'e il van desio hor ho dinanzi          	-                	-	Francesco Petrarca	27
+-  	Nessun visse giamai più di me lieto                         	-                	-	Francesco Petrarca	28
+-  	O fugace dolcezza, o viver lasso, chi mi tolse              	-                	-	Francesco Petrarca	29
 
 I-Bc: compl.
 I-MOe: compl.

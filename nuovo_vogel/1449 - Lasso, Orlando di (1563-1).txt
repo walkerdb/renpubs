@@ -2,34 +2,34 @@
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 22,(1). Ded. di Antonio Barré a Mons. Monaldo Monaldesco della Cervara: "Cognoscendo io quanto le compositioni di Orlando di Lassus siano a Musici et a tutti grate ho con molta diligentia cercato haver delle sue opere: E havendone io di quelle raccolte tante, che suppliranno a fare il Terzo suo libro di Madrigali a cinque, ho voluto mandarle in luce...". Nel T.: "Privilegio di stampa, Romae, 4 I 1563".
 
--	L'alto signor, dinanzi a cui non vale			-			-				Francesco Petrarca		1
--	1. Non ha tante serene stelle il cielo			Sestina			-				-				1
--	2. In sonno eterno spero chiuder			Seconda parte		-				-				2
-A 3	3. Secchi vedransi tutti i verdi boschi			Terza parte		-				-				3
-A 4	4. Io vo fuggendo per deserte piagge			Quarta parte		-				-				3
-A 5	5. Deh che fuss'io con lei				Quinta parte		-				-				3
-A 6	6. Ma sarò spento innanzi che				Sesta parte		-				-				4
-A 5	1. Quant'invidia ti porto avara terra			-			-				Francesco Petrarca		5
--	2. Quant'invidia a quell'anime				Seconda parte		-				Francesco Petrarca		5
--	Dicesi che la morte è un'ombra in vista oscura		-			-				Antonio Marsi			6
--	Amor mi strugge'l cor, fortuna il priva			-			-				Francesco Petrarca		8
--	Madonna, poi ch'uccider mi volete			Jachet Berchem	Jacquet de Berchem		-				8
--	Questi son, lasso, de la mia speme i desiati frutti	-			-				-				9
--	1. S'amor non è, che dunqu'è quel ch'io sento		Paulo Animuccia	Paolo Animuccia		Francesco Petrarca		10
--	2. Et s'io'l consento a gran torto				-			-				Francesco Petrarca		11
--	1. Quant'invidia vi porto aure beate			-			-				Camillo Besalio			12
--	2. Et mentre più la terra				Seconda parte		-				Camillo Besalio			13
--	1. Bella guerriera mia, perchè sì spesso			-			-				-				14
--	2. Ma se con l'opr'ond'io mai				Seconda parte		-				-				15
--	La vita fugge et non s'arresta un'hora			-			-				Francesco Petrarca		16
--	Quel dolce suon, per cui chiaro s'intende		Christ. Ameyden	Christian Ameyden		-				17
--	1. Amor, che ved'ogni pensier aperto			-			-				Francesco Petrarca		18
--	2. Ben veggio di lontano				Secondo parte		-				Francesco Petrarca		19
--	Non s'incolp'il desire, s'io non canto di voi		-			-				-				19
--	Io piango et ella il volto					Hector Vidue		Hector Vidue			Francesco Petrarca		20
--	Scorgo tant'alto il lume, che m'infiamma		-			-				Luigi Tansillo			21
--	Se sì alto pon gir mie stanche rime			-			-				Francesco Petrarca		22
--	Toutes les nuicts que sans vous				-			-				Clément Marot			22
+-  	L'alto signor, dinanzi a cui non vale              	-              	-                 	Francesco Petrarca	 1
+-  	1. Non ha tante serene stelle il cielo             	Sestina        	-                 	-                 	 1
+-  	2. In sonno eterno spero chiuder                   	Seconda parte  	-                 	-                 	 2
+A 3	3. Secchi vedransi tutti i verdi boschi            	Terza parte    	-                 	-                 	 3
+A 4	4. Io vo fuggendo per deserte piagge               	Quarta parte   	-                 	-                 	 3
+A 5	5. Deh che fuss'io con lei                         	Quinta parte   	-                 	-                 	 3
+A 6	6. Ma sarò spento innanzi che                      	Sesta parte    	-                 	-                 	 4
+A 5	1. Quant'invidia ti porto avara terra              	-              	-                 	Francesco Petrarca	 5
+-  	2. Quant'invidia a quell'anime                     	Seconda parte  	-                 	Francesco Petrarca	 5
+-  	Dicesi che la morte è un'ombra in vista oscura     	-              	-                 	Antonio Marsi     	 6
+-  	Amor mi strugge'l cor, fortuna il priva            	-              	-                 	Francesco Petrarca	 8
+-  	Madonna, poi ch'uccider mi volete                  	Jachet Berchem 	Jacquet de Berchem	-                 	 8
+-  	Questi son, lasso, de la mia speme i desiati frutti	-              	-                 	-                 	 9
+-  	1. S'amor non è, che dunqu'è quel ch'io sento      	Paulo Animuccia	Paolo Animuccia   	Francesco Petrarca	10
+-  	2. Et s'io'l consento a gran torto                 	-              	-                 	Francesco Petrarca	11
+-  	1. Quant'invidia vi porto aure beate               	-              	-                 	Camillo Besalio   	12
+-  	2. Et mentre più la terra                          	Seconda parte  	-                 	Camillo Besalio   	13
+-  	1. Bella guerriera mia, perchè sì spesso           	-              	-                 	-                 	14
+-  	2. Ma se con l'opr'ond'io mai                      	Seconda parte  	-                 	-                 	15
+-  	La vita fugge et non s'arresta un'hora             	-              	-                 	Francesco Petrarca	16
+-  	Quel dolce suon, per cui chiaro s'intende          	Christ. Ameyden	Christian Ameyden 	-                 	17
+-  	1. Amor, che ved'ogni pensier aperto               	-              	-                 	Francesco Petrarca	18
+-  	2. Ben veggio di lontano                           	Secondo parte  	-                 	Francesco Petrarca	19
+-  	Non s'incolp'il desire, s'io non canto di voi      	-              	-                 	-                 	19
+-  	Io piango et ella il volto                         	Hector Vidue   	Hector Vidue      	Francesco Petrarca	20
+-  	Scorgo tant'alto il lume, che m'infiamma           	-              	-                 	Luigi Tansillo    	21
+-  	Se sì alto pon gir mie stanche rime                	-              	-                 	Francesco Petrarca	22
+-  	Toutes les nuicts que sans vous                    	-              	-                 	Clément Marot     	22
 
 I-Rsc: compl.
 Boetticher 751.

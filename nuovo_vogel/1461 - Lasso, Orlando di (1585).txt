@@ -2,30 +2,30 @@
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 24. Ded. al Conte Mario Bevilacqua: "Trovomi da alcuni mesi in qua haver composto li presenti Madrigali la maggior parte per non star in otio quelle hor che dal cervigio del mio Ser.mo Principe et da più gravi studi m'avanzano... Monaco 1° V 1585".
 
-A 5	1. De l'eterne tue sante, alme faville, tal foco in me		-			-	Gabriele Fiamma		1
--	2. Per questi alti misteri						Seconda parte		-	Gabriele Fiamma		2
--	1. Io, cha l'età più verd'e più fiorita vissi lontan			-			-	Gabriele Fiamma		3
--	2. Ma conven che di speme io mi disarmi			Seconda parte		-	Gabriele Fiamma		4
--	1. O tempo, o ciel volubil, che fuggendo			-			-	Francesco Petrarca		5
--	2. E sarebbe hora et è passata homai				Seconda parte		-	Francesco Petrarca		6
--	1. Le voglie e l'opre mie gelate e spente preggio		-			-	Gabriele Fiamma		7
--	2. Non fu colle, o campagna, o riva, o fiume			Seconda parte		-	Gabriele Fiamma		8
--	1. Un dubbio verno, un instabil sereno				-			-	Francesco Petrarca		9
--	2. Hor vi riconfortate in vostre fole				Seconda parte		-	Francesco Petrarca		10
--	1. U' son gl'ingegni pellegrini e rari che dieron vita		-			-	Gabriele Fiamma		11
--	2. Ahi, che la forza de l'ingegno					Seconda parte		-	Gabriele Fiamma		12
--	Io non sapea di tal vista levarme				-			-	Francesco Petrarca		13
--	1. Quand'io penso al fuggir ratto de l'hore e veggio		-			-	Gabriele Fiamma		14
--	2. Vedi, gli dico, ch'a tuoi danni spira				Seconda parte		-	Gabriele Fiamma		15
--	1. Io son sì stanco sotto'l fascio antico				-			-	Francesco Petrarca		16
--	2. Ma la sua voce ancor qua giù					Seconda parte		-	Francesco Petrarca		17
--	1. Quando il giorno da l'onde apporta il sole			Sestina			-	Gabriele Fiamma		18
--	2. Non hebbe huom forse mai cagion				Seconda parte		-	Gabriele Fiamma		19
--	3. Hor come i rai del sol struggon				Terza parte		-	Gabriele Fiamma		20
--	4. Parmi che sempre sian tenebre				Quarta parte		-	Gabriele Fiamma		21
--	5. Il mondo muta ogni hor stagione				Quinta parte		-	Gabriele Fiamma		22
--	6. Poggi, valli, campagne, fiumi e boschi			Sesta parte		-	Gabriele Fiamma		23
-A 6	Come la cera al foco, ch'accend'esca terrena			Canon a l'unisono	-	Gabriele Fiamma		24
+A 5	1. De l'eterne tue sante, alme faville, tal foco in me	-                	-	Gabriele Fiamma   	 1
+-  	2. Per questi alti misteri                            	Seconda parte    	-	Gabriele Fiamma   	 2
+-  	1. Io, cha l'età più verd'e più fiorita vissi lontan  	-                	-	Gabriele Fiamma   	 3
+-  	2. Ma conven che di speme io mi disarmi               	Seconda parte    	-	Gabriele Fiamma   	 4
+-  	1. O tempo, o ciel volubil, che fuggendo              	-                	-	Francesco Petrarca	 5
+-  	2. E sarebbe hora et è passata homai                  	Seconda parte    	-	Francesco Petrarca	 6
+-  	1. Le voglie e l'opre mie gelate e spente preggio     	-                	-	Gabriele Fiamma   	 7
+-  	2. Non fu colle, o campagna, o riva, o fiume          	Seconda parte    	-	Gabriele Fiamma   	 8
+-  	1. Un dubbio verno, un instabil sereno                	-                	-	Francesco Petrarca	 9
+-  	2. Hor vi riconfortate in vostre fole                 	Seconda parte    	-	Francesco Petrarca	10
+-  	1. U' son gl'ingegni pellegrini e rari che dieron vita	-                	-	Gabriele Fiamma   	11
+-  	2. Ahi, che la forza de l'ingegno                     	Seconda parte    	-	Gabriele Fiamma   	12
+-  	Io non sapea di tal vista levarme                     	-                	-	Francesco Petrarca	13
+-  	1. Quand'io penso al fuggir ratto de l'hore e veggio  	-                	-	Gabriele Fiamma   	14
+-  	2. Vedi, gli dico, ch'a tuoi danni spira              	Seconda parte    	-	Gabriele Fiamma   	15
+-  	1. Io son sì stanco sotto'l fascio antico             	-                	-	Francesco Petrarca	16
+-  	2. Ma la sua voce ancor qua giù                       	Seconda parte    	-	Francesco Petrarca	17
+-  	1. Quando il giorno da l'onde apporta il sole         	Sestina          	-	Gabriele Fiamma   	18
+-  	2. Non hebbe huom forse mai cagion                    	Seconda parte    	-	Gabriele Fiamma   	19
+-  	3. Hor come i rai del sol struggon                    	Terza parte      	-	Gabriele Fiamma   	20
+-  	4. Parmi che sempre sian tenebre                      	Quarta parte     	-	Gabriele Fiamma   	21
+-  	5. Il mondo muta ogni hor stagione                    	Quinta parte     	-	Gabriele Fiamma   	22
+-  	6. Poggi, valli, campagne, fiumi e boschi             	Sesta parte      	-	Gabriele Fiamma   	23
+A 6	Come la cera al foco, ch'accend'esca terrena          	Canon a l'unisono	-	Gabriele Fiamma   	24
 
 I-MOe: compl.
 D-Hs: compl.

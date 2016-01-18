@@ -2,31 +2,31 @@
 
 3 fasc. in 8˚ obl. (C.T.B.), pag. 29(1).
 
--	Godt gheve my te singhen			Il Balerino			-			-	1
--	Het groot Ghebouw				La Cortegniana			-			-	2
--	Godt schiep den Mensch vol eere		Lo Spensierato			-			-	3
--	Daer quam eer lang' een moorders stem	Lo Sdegnato			-			-	4
--	't Wijf doorschoten met dees schicht		Il Tedesco			-			-	5
--	O naeckte mensch, helaes!			Il Prigioniero			-			-	6
--	Als Gods kerck beost te goeyen		Il Luchesino			-			-	7
--	Als de hooge Vloedt de Sond'			L'Humorista			-			-	8
--	R' Volck onkuys vermeerde			Il Felice				-			-	9
--	Een wreed'Tyran deed'plagen			Il Curioso			-			-	10
--	Om te versinnen				-				Jacob Vredeman		-	11
--	Wanneer ick slaep				-				Jacob Vredeman	-	12
--	Schoon kint u lieflije wesen			-				Jacob Vredeman	-	14
--	Cupido kleen, wie gheeft u			-				Jacob Vredeman	-	16
--	1. O Hemel-aerdsche Bruyloft			-				G. I. Schagen	-	16
--	2. Hooghwaerdighe band			Seconda parte			G. I. Schagen	-	18
--	3. O Goddellijck bindingh			Terza parte			G. I. Schagen	-	19
--	4. Soo ghy ô soete eenighehd			Quarta parte			G. I. Schagen	-	20
--	Pharao Tyran, sprack, wel			Il Risentito			-			-	22
--	De Woestijn die heeft ghevoedt		Il Tormentato			-			-	23
--	Israël dreef sijn vyandt menich mael		Il Costante			-			-	24
--	Och! wat plaghen Godt toe sond'		Il Fortunato			-			-	25
--	In droeve tijden. Woud' Godt verblijden	L'Invaghito			-			-	26
--	Ons is een kint geboren			Il Passionato			-			-	27
--	Komt Musiciens alhier ontrent			-				Johannes Lupi	-	28
--	O Vader goet, my dancken u			-				Cornel Piet Pred.	-	29
+-	Godt gheve my te singhen               	Il Balerino   	-                	-	 1
+-	Het groot Ghebouw                      	La Cortegniana	-                	-	 2
+-	Godt schiep den Mensch vol eere        	Lo Spensierato	-                	-	 3
+-	Daer quam eer lang' een moorders stem  	Lo Sdegnato   	-                	-	 4
+-	't Wijf doorschoten met dees schicht   	Il Tedesco    	-                	-	 5
+-	O naeckte mensch, helaes!              	Il Prigioniero	-                	-	 6
+-	Als Gods kerck beost te goeyen         	Il Luchesino  	-                	-	 7
+-	Als de hooge Vloedt de Sond'           	L'Humorista   	-                	-	 8
+-	R' Volck onkuys vermeerde              	Il Felice     	-                	-	 9
+-	Een wreed'Tyran deed'plagen            	Il Curioso    	-                	-	10
+-	Om te versinnen                        	-             	Jacob Vredeman   	-	11
+-	Wanneer ick slaep                      	-             	Jacob Vredeman   	-	12
+-	Schoon kint u lieflije wesen           	-             	Jacob Vredeman   	-	14
+-	Cupido kleen, wie gheeft u             	-             	Jacob Vredeman   	-	16
+-	1. O Hemel-aerdsche Bruyloft           	-             	G. I. Schagen    	-	16
+-	2. Hooghwaerdighe band                 	Seconda parte 	G. I. Schagen    	-	18
+-	3. O Goddellijck bindingh              	Terza parte   	G. I. Schagen    	-	19
+-	4. Soo ghy ô soete eenighehd           	Quarta parte  	G. I. Schagen    	-	20
+-	Pharao Tyran, sprack, wel              	Il Risentito  	-                	-	22
+-	De Woestijn die heeft ghevoedt         	Il Tormentato 	-                	-	23
+-	Israël dreef sijn vyandt menich mael   	Il Costante   	-                	-	24
+-	Och! wat plaghen Godt toe sond'        	Il Fortunato  	-                	-	25
+-	In droeve tijden. Woud' Godt verblijden	L'Invaghito   	-                	-	26
+-	Ons is een kint geboren                	Il Passionato 	-                	-	27
+-	Komt Musiciens alhier ontrent          	-             	Johannes Lupi    	-	28
+-	O Vader goet, my dancken u             	-             	Cornel Piet Pred.	-	29
 
 NL-At: B.

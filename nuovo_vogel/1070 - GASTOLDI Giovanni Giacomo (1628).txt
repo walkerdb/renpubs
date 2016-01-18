@@ -2,23 +2,23 @@
 
 3 fasc. in 8˚ obl. (C.T.B), pag. 18.
 
--	Godt gheve my te singhen			Il Balerino			-			-	1
--	Het groot Ghebouw				La Cortegniana			-			-	2
--	Godt schiep den Mensch vol eere		Lo Spensierato			-			-	3
--	Daer quam eer lang' een moorders stem	Lo Sdegnato			-			-	4
--	't Wijf doorschoten met dees schicht		Il Tedesco			-			-	5
--	O naeckte mensch, helaes!			Il Prigioniero			-			-	6
--	Als Gods kerck beost te goeyen		Il Luchesino			-			-	7
--	Als de hooge Vloedt de Sond'			L'Humorista			-			-	8
--	't Volck onkuys vermeerde			Il Felice				-			-	9
--	Een wreed 'Tyran deed'plagen			Il Curioso			-			-	10
--	Pharao Tyran, sprack, wel			Il Risentito			-			-	11
--	De Woestijn die heeft ghevoedt		Il Tormentato			-			-	12
--	Israël dreef sijn vyandt menich mael		Il Costante			-			-	13
--	Och! wat plaghen Godt toe sond'		Il Fortunato			-			-	14
--	In droeve tijden, Woud' Godt verblijden	L'Invaghito			-			-	15
--	Ons is een kint geboren			Il Passionato			-			-	16
--	Komt Musiciens alhier ontrent			Welkomst-Liedt		Di Lupi [Johannes Lupi]	-	17
--	O Vader goet, my dancken u			Scheyd'ende Dack-Liedt	Di Cornel Piet Pred.[?]	-	18
+-	Godt gheve my te singhen               	Il Balerino           	-                      	-	 1
+-	Het groot Ghebouw                      	La Cortegniana        	-                      	-	 2
+-	Godt schiep den Mensch vol eere        	Lo Spensierato        	-                      	-	 3
+-	Daer quam eer lang' een moorders stem  	Lo Sdegnato           	-                      	-	 4
+-	't Wijf doorschoten met dees schicht   	Il Tedesco            	-                      	-	 5
+-	O naeckte mensch, helaes!              	Il Prigioniero        	-                      	-	 6
+-	Als Gods kerck beost te goeyen         	Il Luchesino          	-                      	-	 7
+-	Als de hooge Vloedt de Sond'           	L'Humorista           	-                      	-	 8
+-	't Volck onkuys vermeerde              	Il Felice             	-                      	-	 9
+-	Een wreed 'Tyran deed'plagen           	Il Curioso            	-                      	-	10
+-	Pharao Tyran, sprack, wel              	Il Risentito          	-                      	-	11
+-	De Woestijn die heeft ghevoedt         	Il Tormentato         	-                      	-	12
+-	Israël dreef sijn vyandt menich mael   	Il Costante           	-                      	-	13
+-	Och! wat plaghen Godt toe sond'        	Il Fortunato          	-                      	-	14
+-	In droeve tijden, Woud' Godt verblijden	L'Invaghito           	-                      	-	15
+-	Ons is een kint geboren                	Il Passionato         	-                      	-	16
+-	Komt Musiciens alhier ontrent          	Welkomst-Liedt        	Di Lupi [Johannes Lupi]	-	17
+-	O Vader goet, my dancken u             	Scheyd'ende Dack-Liedt	Di Cornel Piet Pred.[?]	-	18
 
 NL-At: C.1˚.

@@ -2,28 +2,28 @@
 
 5 fasc. in 8° obl (C.A.T.B.5.), pag. 27. Ded. di Giovanbattista Bruno a Pierfrancesco Ferrero, Vescovo di Vercelli: "Ritrovandomi, molti giorno sono i Spoleti, mi vennero per aventura à le mani molti Madrigali d'Orlando Lassus... quali havendoli tenuto appresso me longo tempo... me disposi a preghi d'infiniti virtuosi di non tenerli più occulti... per mia diligenza e cure vengono à luce...".
 
--	1. Standomi un giorno solo a la fenestra			-			-			Francesco Petrarca		4
--	2. Indi per alto mar						Seconda parte		-			Francesco Petrarca		5
--	3. In un boschetto novo					Terza parte		-			Francesco Petrarca		7
--	4. Chiara fontana						Quarta parte		-			Francesco Petrarca		8
--	5. Una strania fenice						Quinta parte		-			Francesco Petrarca		10
--	6. Al fin vidd'io per entro					Sesta parte		-			Francesco Petrarca		11
--	1. Mentre fioriv'amor l'alta mia speme				-			-			-				12
--	2. Così aspettando da me, ingrata				Seconda parte		-			-				12
--	Vostro fui, vostro son e sarò vostro				-			-			Bernardo Tasso			13
--	1. Quel chiaro sol, che tragge indi lontano			-			-			-				14
--	2. Che se là vers'ond'a noi					Seconda parte		-			-				15
--	In dubbio di mio stato hor piango				Paolo Animuccia	Paolo Animuccia	Francesco Petrarca		16
--	Ben si vedrà se la nemica mia					Hettor Vidue		Hector Vidue		-				17
--	Quanto più v'am'ogn'hor più bella sete				Antonio Barré		Antonio Barré		-				18
--	Questi ch'inditio fan del mio tormento				-			-			Ludovico Ariosto		19
--	1. Euro gentil, se d'amoroso ardore				-			-			Giovanni Battista d'Azzia	20
--	2. Et in sembiante riverente					Seconda parte		-			Giovanni Battista d'Azzia	22
--	1. Io son sì stanco sotto'l grave peso				-			-			Giovanni Guidiccioni		24
--	2. Hora per far le mie dolcesse amare				Seconda parte		-			Giovanni Guidiccioni		25
--	1. In qual parte del ciel, in qual idea				-			-			Francesco Petrarca		26
--	2. Per divina bellezza						Seconda parte		-			Francesco Petrarca		26
--	Candida all'hor del ciel scese angioletta				-			-			-				27
+-	1. Standomi un giorno solo a la fenestra   	-              	-              	Francesco Petrarca       	 4
+-	2. Indi per alto mar                       	Seconda parte  	-              	Francesco Petrarca       	 5
+-	3. In un boschetto novo                    	Terza parte    	-              	Francesco Petrarca       	 7
+-	4. Chiara fontana                          	Quarta parte   	-              	Francesco Petrarca       	 8
+-	5. Una strania fenice                      	Quinta parte   	-              	Francesco Petrarca       	10
+-	6. Al fin vidd'io per entro                	Sesta parte    	-              	Francesco Petrarca       	11
+-	1. Mentre fioriv'amor l'alta mia speme     	-              	-              	-                        	12
+-	2. Così aspettando da me, ingrata          	Seconda parte  	-              	-                        	12
+-	Vostro fui, vostro son e sarò vostro       	-              	-              	Bernardo Tasso           	13
+-	1. Quel chiaro sol, che tragge indi lontano	-              	-              	-                        	14
+-	2. Che se là vers'ond'a noi                	Seconda parte  	-              	-                        	15
+-	In dubbio di mio stato hor piango          	Paolo Animuccia	Paolo Animuccia	Francesco Petrarca       	16
+-	Ben si vedrà se la nemica mia              	Hettor Vidue   	Hector Vidue   	-                        	17
+-	Quanto più v'am'ogn'hor più bella sete     	Antonio Barré  	Antonio Barré  	-                        	18
+-	Questi ch'inditio fan del mio tormento     	-              	-              	Ludovico Ariosto         	19
+-	1. Euro gentil, se d'amoroso ardore        	-              	-              	Giovanni Battista d'Azzia	20
+-	2. Et in sembiante riverente               	Seconda parte  	-              	Giovanni Battista d'Azzia	22
+-	1. Io son sì stanco sotto'l grave peso     	-              	-              	Giovanni Guidiccioni     	24
+-	2. Hora per far le mie dolcesse amare      	Seconda parte  	-              	Giovanni Guidiccioni     	25
+-	1. In qual parte del ciel, in qual idea    	-              	-              	Francesco Petrarca       	26
+-	2. Per divina bellezza                     	Seconda parte  	-              	Francesco Petrarca       	26
+-	Candida all'hor del ciel scese angioletta  	-              	-              	-                        	27
 
 I-Bc: compl.
 US-Cn: C.A.T.B.

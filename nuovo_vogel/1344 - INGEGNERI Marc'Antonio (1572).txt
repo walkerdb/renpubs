@@ -2,35 +2,35 @@
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 29,(1). Ded. all'imperatore Massimigliano II: "... V. Maestà si diletta et gode tal hora di udir l'armonia de valentissimi et soavissimi Musici suoi servidori, retta et governata dall'Eccellentiss. Musico M. Philippo di Monte... Cremona, 20 VIII 1572".
 
-A 5	Chi di pregio immortal, chi di valore dir brama insieme i più famosi esempi	-			-	-				1
--	Ogni forza mortal, ogni valore ceda, Cesare invitto, al vostr'impero		-			-	-				2
--	Quando pietosa a la mia bocca porse donna gentil la bella e bianca mano	-			-	-				3
--	Sierna, se sapeste quanto per voi m'affligge pena ria				-			-	-				4
--	Beltà fiorita									-			-	-				5
--	Quanto divien beato, lieto e contento sempre chiunque lascia ragion regger	-			-	-				6
--	1. Quant'esservi dee caro via più la vostra che la propria gioia			-			-	Pietro Bembo			7
--	2. O quant'è dolce perch'amor la stringa					Seconda parte		-	Pietro Bembo			8
--	3. Puossi morta chiamar							Terza parte		-	Pietro Bembo			9
--	1. Hor ch'el ciel et la terr'e'l vento tace, incominciò colei che l'aria molce		-			-	-				10
--	2. Che poi se i moti de suoi tersi avori						Seconda  parte		-	-				11
--	È cosa natural fugir la morte et quanto può ciascun tenersi in vita		-			-	Pietro Bembo			12
--	1. O cara et dolce mia fiamma vivace, quando fia mai ch'in voi mi cangi		-			-	-				13
--	2. Deh perch'io non più viv'in tanti affanni					Seconda parte		-	-				14
--	Col cor pien d'inefabil meraviglia, signor, men vengo a contemplar		-			-	-				15
--	1. Adunque il tuo gran re, popul ingrato, il re d'i re ch'il ciel governa		-			-	-				16
--	2. Empi, amari, pungenti et fieri dumi (sic) et di sangue				Seconda parte		-	-				17
--	Gioia m'abond'al cor tant'e sì pura, tosto che la mia donna scorgo		-			-	Pietro Bembo			18
--	1. S'oscurò il viel et le campagn'e i prati tosto seccaro				-			-	-				19
--	2. Occhi sereni, hor qual nebbia importuna					Seconda parte		-	-				20
--	1. In questo seno estinto son io. Già de più lieti campi il prim'honore		-			-	Giovanni Casone			21
--	2. L'aura, il sole e la piggia vita mi dier						Seconda parte		-	Giovanni Casone			22
--	Qual verginella in mezzo a verdi prati spargendo nel bel seno odori grati	-			-	-				23
--	1. Hoggi che del mio cor è spent'il foco e'l cieco errore				Sestina			-	-				24
--	2. E quella gran virtù, che move il cielo						Seconda parte		-	-				25
--	3. Amor, non potran mai gli crudi sdegni					Terza parte		-	-				26
--	4. Ma più tosto vedransi e di morte placati					Quarta parte		-	-				27
--	5. Non furon mai sì dolorosi pianti stillati					Quinta parte		-	-				28
--	6. Hora ch'io son di carcere et di errore						Sesta parte		-	-				29
+A 5	Chi di pregio immortal, chi di valore dir brama insieme i più famosi esempi   	-             	-	-              	 1
+-  	Ogni forza mortal, ogni valore ceda, Cesare invitto, al vostr'impero          	-             	-	-              	 2
+-  	Quando pietosa a la mia bocca porse donna gentil la bella e bianca mano       	-             	-	-              	 3
+-  	Sierna, se sapeste quanto per voi m'affligge pena ria                         	-             	-	-              	 4
+-  	Beltà fiorita                                                                 	-             	-	-              	 5
+-  	Quanto divien beato, lieto e contento sempre chiunque lascia ragion regger    	-             	-	-              	 6
+-  	1. Quant'esservi dee caro via più la vostra che la propria gioia              	-             	-	Pietro Bembo   	 7
+-  	2. O quant'è dolce perch'amor la stringa                                      	Seconda parte 	-	Pietro Bembo   	 8
+-  	3. Puossi morta chiamar                                                       	Terza parte   	-	Pietro Bembo   	 9
+-  	1. Hor ch'el ciel et la terr'e'l vento tace, incominciò colei che l'aria molce	-             	-	-              	10
+-  	2. Che poi se i moti de suoi tersi avori                                      	Seconda  parte	-	-              	11
+-  	È cosa natural fugir la morte et quanto può ciascun tenersi in vita           	-             	-	Pietro Bembo   	12
+-  	1. O cara et dolce mia fiamma vivace, quando fia mai ch'in voi mi cangi       	-             	-	-              	13
+-  	2. Deh perch'io non più viv'in tanti affanni                                  	Seconda parte 	-	-              	14
+-  	Col cor pien d'inefabil meraviglia, signor, men vengo a contemplar            	-             	-	-              	15
+-  	1. Adunque il tuo gran re, popul ingrato, il re d'i re ch'il ciel governa     	-             	-	-              	16
+-  	2. Empi, amari, pungenti et fieri dumi (sic) et di sangue                     	Seconda parte 	-	-              	17
+-  	Gioia m'abond'al cor tant'e sì pura, tosto che la mia donna scorgo            	-             	-	Pietro Bembo   	18
+-  	1. S'oscurò il viel et le campagn'e i prati tosto seccaro                     	-             	-	-              	19
+-  	2. Occhi sereni, hor qual nebbia importuna                                    	Seconda parte 	-	-              	20
+-  	1. In questo seno estinto son io. Già de più lieti campi il prim'honore       	-             	-	Giovanni Casone	21
+-  	2. L'aura, il sole e la piggia vita mi dier                                   	Seconda parte 	-	Giovanni Casone	22
+-  	Qual verginella in mezzo a verdi prati spargendo nel bel seno odori grati     	-             	-	-              	23
+-  	1. Hoggi che del mio cor è spent'il foco e'l cieco errore                     	Sestina       	-	-              	24
+-  	2. E quella gran virtù, che move il cielo                                     	Seconda parte 	-	-              	25
+-  	3. Amor, non potran mai gli crudi sdegni                                      	Terza parte   	-	-              	26
+-  	4. Ma più tosto vedransi e di morte placati                                   	Quarta parte  	-	-              	27
+-  	5. Non furon mai sì dolorosi pianti stillati                                  	Quinta parte  	-	-              	28
+-  	6. Hora ch'io son di carcere et di errore                                     	Sesta parte   	-	-              	29
 
 A-Wn: A.T.B.5.
 I-Bc: T.

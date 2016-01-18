@@ -2,35 +2,35 @@
 
 4 fasc. in 8° obl. (C.A.T.B.), pag. 28,(1). Ded. al Cardinal di Guisa del raccoglitore Francesco Tracetti, Roma, 15 I 1560.
 
--	Appariran per me le stell'in cielo				-					-			-			1
--	Non vi vieto per questo, ch'havrei torto			-					-			Ludovico Ariosto	2
--	1. Del freddo Rheno alla sinistra riva				Canzon					-			-			3
--	2. Chi'l crederà perchè						Seconda parte				-			-			4
--	3. Rotava et è pur ver di puro					Terza parte				-			-			5
--	4. Si fè cristallo il fiume						Quarta parte				-			-			6
--	5. Et io qual fui restai						Quinta parte				-			-			7
--	6. Hor su la nuda terra						Sesta parte				-			-			8
--	Per pianto la mia carne si distilla				-					-			Jacopo Sannazzaro	9
--	Queste non son più lagrime, che fuore stillo dagl'occhi		-					-			Ludovico Ariosto	10
--	Se ben l'empia mia sorte fà che contra mia voglia		-					-			-			11
--	Occhi, piangete, accompagnate il core				-					-			Francesco Petrarca	12
--	Perch'io veggio et mi spiace che natural				-					-			Francesco Petrarca	12
--	Vattene lieta homai, copia d'amici, ove vol il destin		-					-			-			14
--	1. Sovra una verde e dilettosa riva di chiar'et			Canzon d'incerto			Anonymous		Jacopo Sannazzaro	15
--	2. Apri l'uscio per tempo, leggiadro				Seconda parte				Anonymous		Jacopo Sannazzaro	16
-A 3	3. Valli vicini e rupi, cipressi					Terza parte				Anonymous		Jacopo Sannazzaro	17
-A 4	4. Nascan herbett'e fiori					Quarta parte				Anonymous		Jacopo Sannazzaro	18
-A 3	5. In questo dì giocondo nacque				Quinta parte				Anonymous		Jacopo Sannazzaro	19
-A 4	6. Mentre per questi monti andran				Sesta parte				Anonymous		Jacopo Sannazzaro	20
--	7. Per cortesia, canzon, tu pregherai				Settima parte				Anonymous		Jacopo Sannazzaro	20
--	1. Giovanni donna sotto un verde lauro				Canzon terza di Francesco Rosselli	Francesco Roselli	Francesco Petrarca	21
--	2. Alhor saran i miei pensieri a riva				Seconda parte				Francesco Roselli	Francesco Petrarca	22
--	3. Ma perchè vola il tempo					Terza parte				Francesco Roselli	Francesco Petrarca	23
--	4. Non fur giamai veduti					Quarta parte				Francesco Roselli	Francesco Petrarca	24
--	5. I' temodi cangiar pria						Quinta parte				Francesco Roselli	Francesco Petrarca	25
--	6. Dentro pur fuoco e fuor					Sesta parte				Francesco Roselli	Francesco Petrarca	26
--	Quando da voi, madonna, son lontano				Di  Giovan Domenico da Nola		Giovan Domenico da Nola	-		27
--	Mentre fia cald'el sol, fredda la neve				Di  Giovan Domenico da Nola		Giovan Domenico da Nola	-		28
+-  	Appariran per me le stell'in cielo                     	-                                 	-                      	-                 	 1
+-  	Non vi vieto per questo, ch'havrei torto               	-                                 	-                      	Ludovico Ariosto  	 2
+-  	1. Del freddo Rheno alla sinistra riva                 	Canzon                            	-                      	-                 	 3
+-  	2. Chi'l crederà perchè                                	Seconda parte                     	-                      	-                 	 4
+-  	3. Rotava et è pur ver di puro                         	Terza parte                       	-                      	-                 	 5
+-  	4. Si fè cristallo il fiume                            	Quarta parte                      	-                      	-                 	 6
+-  	5. Et io qual fui restai                               	Quinta parte                      	-                      	-                 	 7
+-  	6. Hor su la nuda terra                                	Sesta parte                       	-                      	-                 	 8
+-  	Per pianto la mia carne si distilla                    	-                                 	-                      	Jacopo Sannazzaro 	 9
+-  	Queste non son più lagrime, che fuore stillo dagl'occhi	-                                 	-                      	Ludovico Ariosto  	10
+-  	Se ben l'empia mia sorte fà che contra mia voglia      	-                                 	-                      	-                 	11
+-  	Occhi, piangete, accompagnate il core                  	-                                 	-                      	Francesco Petrarca	12
+-  	Perch'io veggio et mi spiace che natural               	-                                 	-                      	Francesco Petrarca	12
+-  	Vattene lieta homai, copia d'amici, ove vol il destin  	-                                 	-                      	-                 	14
+-  	1. Sovra una verde e dilettosa riva di chiar'et        	Canzon d'incerto                  	Anonymous              	Jacopo Sannazzaro 	15
+-  	2. Apri l'uscio per tempo, leggiadro                   	Seconda parte                     	Anonymous              	Jacopo Sannazzaro 	16
+A 3	3. Valli vicini e rupi, cipressi                       	Terza parte                       	Anonymous              	Jacopo Sannazzaro 	17
+A 4	4. Nascan herbett'e fiori                              	Quarta parte                      	Anonymous              	Jacopo Sannazzaro 	18
+A 3	5. In questo dì giocondo nacque                        	Quinta parte                      	Anonymous              	Jacopo Sannazzaro 	19
+A 4	6. Mentre per questi monti andran                      	Sesta parte                       	Anonymous              	Jacopo Sannazzaro 	20
+-  	7. Per cortesia, canzon, tu pregherai                  	Settima parte                     	Anonymous              	Jacopo Sannazzaro 	20
+-  	1. Giovanni donna sotto un verde lauro                 	Canzon terza di Francesco Rosselli	Francesco Roselli      	Francesco Petrarca	21
+-  	2. Alhor saran i miei pensieri a riva                  	Seconda parte                     	Francesco Roselli      	Francesco Petrarca	22
+-  	3. Ma perchè vola il tempo                             	Terza parte                       	Francesco Roselli      	Francesco Petrarca	23
+-  	4. Non fur giamai veduti                               	Quarta parte                      	Francesco Roselli      	Francesco Petrarca	24
+-  	5. I' temodi cangiar pria                              	Quinta parte                      	Francesco Roselli      	Francesco Petrarca	25
+-  	6. Dentro pur fuoco e fuor                             	Sesta parte                       	Francesco Roselli      	Francesco Petrarca	26
+-  	Quando da voi, madonna, son lontano                    	Di  Giovan Domenico da Nola       	Giovan Domenico da Nola	-                 	27
+-  	Mentre fia cald'el sol, fredda la neve                 	Di  Giovan Domenico da Nola       	Giovan Domenico da Nola	-                 	28
 
 I-Bc: compl.
 US-Wc: compl.

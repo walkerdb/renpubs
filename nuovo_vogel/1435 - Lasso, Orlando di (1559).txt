@@ -2,31 +2,31 @@
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 22,(1).
 
--	1. Standomi un giorno solo alla fenestra			Canzone		-			Francesco Petrarca		1
--	2. Indi per alto mar						Seconda parte		-			Francesco Petrarca		2
--	3. In un boschetto novo					Terza parte		-			Francesco Petrarca		3
--	4. Chiara fontana						Quarta parte		-			Francesco Petrarca		4
--	5. Una strania fenice						Quinta parte		-			Francesco Petrarca		5
--	6. Alfin vid'io per entro						Sesta parte		-			Francesco Petrarca		6
--	1. Mentre fioriv'amor l'alta mia speme				-			-			-				7
--	2. Così aspettando da te					Seconda parte		-			-				8
--	Vostro fui, vostro son e sarò vostro				-			-			Bernardo Tasso			9
--	1. Quel chiaro sol, che tragge indi lontano			-			-			-				10
--	2. Che se là vers'ond'a noi					Seconda parte		-			-				11
--	1. Quanto più v'am'ogn'hor più bella sete			Antonio Barré		Antonio Barré		-				11
--	2. Nasca in me dunque						Seconda parte		-			-				12
--	1. Euro gentil se d'amoroso ardore				-			-			Giovanni Battista d'Azzia	13
--	2. Et in sembiante riverente					Seconda parte		-			Giovanni Battista d'Azzia	14
--	1. Volgi, cor mio, la tua speranza homai in alra parte		-			-			Fortunio Spira			15
--	2. Et a noi restarà fra sdegni					Seconda parte		-			Fortunio Spira			16
--	Ben si vedrà se la nemica mia					Hector Vidue		Hector Vidue		-				17
--	Questi, ch'inditio fan del mio tormento				-			-			Ludovico Ariosto		18
--	In dubbio di mio stato, hor piango				Paolo Animuccia	Paolo Animuccia	Francesco Petrarca		19
--	1. In qual parte del ciel, in qual idea				-			-			Francesco Petrarca		20
--	2. Per divina bellezza						Seconda parte		-			Francesco Petrarca		20
--	1. Io son sì stanco sotto il grave peso				-			-			Giovanni Guidiccioni		21
--	2. Hora per far le mie dolcesse amare				Seconda parte		-			Giovanni Guidiccioni		22
--	Candid'alhor del ciel scese angioletta				-			-			-				-
+-	1. Standomi un giorno solo alla fenestra              	Canzone        	-              	Francesco Petrarca       	1
+-	2. Indi per alto mar                                  	Seconda parte  	-              	Francesco Petrarca       	2
+-	3. In un boschetto novo                               	Terza parte    	-              	Francesco Petrarca       	3
+-	4. Chiara fontana                                     	Quarta parte   	-              	Francesco Petrarca       	4
+-	5. Una strania fenice                                 	Quinta parte   	-              	Francesco Petrarca       	5
+-	6. Alfin vid'io per entro                             	Sesta parte    	-              	Francesco Petrarca       	6
+-	1. Mentre fioriv'amor l'alta mia speme                	-              	-              	-                        	7
+-	2. Così aspettando da te                              	Seconda parte  	-              	-                        	8
+-	Vostro fui, vostro son e sarò vostro                  	-              	-              	Bernardo Tasso           	9
+-	1. Quel chiaro sol, che tragge indi lontano           	-              	-              	-                        	10
+-	2. Che se là vers'ond'a noi                           	Seconda parte  	-              	-                        	11
+-	1. Quanto più v'am'ogn'hor più bella sete             	Antonio Barré  	Antonio Barré  	-                        	11
+-	2. Nasca in me dunque                                 	Seconda parte  	-              	-                        	12
+-	1. Euro gentil se d'amoroso ardore                    	-              	-              	Giovanni Battista d'Azzia	13
+-	2. Et in sembiante riverente                          	Seconda parte  	-              	Giovanni Battista d'Azzia	14
+-	1. Volgi, cor mio, la tua speranza homai in alra parte	-              	-              	Fortunio Spira           	15
+-	2. Et a noi restarà fra sdegni                        	Seconda parte  	-              	Fortunio Spira           	16
+-	Ben si vedrà se la nemica mia                         	Hector Vidue   	Hector Vidue   	-                        	17
+-	Questi, ch'inditio fan del mio tormento               	-              	-              	Ludovico Ariosto         	18
+-	In dubbio di mio stato, hor piango                    	Paolo Animuccia	Paolo Animuccia	Francesco Petrarca       	19
+-	1. In qual parte del ciel, in qual idea               	-              	-              	Francesco Petrarca       	20
+-	2. Per divina bellezza                                	Seconda parte  	-              	Francesco Petrarca       	20
+-	1. Io son sì stanco sotto il grave peso               	-              	-              	Giovanni Guidiccioni     	21
+-	2. Hora per far le mie dolcesse amare                 	Seconda parte  	-              	Giovanni Guidiccioni     	22
+-	Candid'alhor del ciel scese angioletta                	-              	-              	-                        	-
 
 I-Bc: compl.
 D-As: compl.

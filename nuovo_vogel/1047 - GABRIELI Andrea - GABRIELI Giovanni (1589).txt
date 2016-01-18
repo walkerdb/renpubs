@@ -3,35 +3,35 @@
 5 fasc. in 8˚ obl. (C.A.T.B.5.), pag. 30. Ded. di Giovanni Gabrieli al Principe Ernesto Vescovo dell'Essente Chiesa Bambergense, Venetia, 24 IX 1589.
 [Although no pieces appear to be missing according to the table of contents, there is no page 7 in any of the part-books.  Two possible explanations seem most likely. the first piece according to the index starts at page 2, but the first piece in the part-books appears on page 1.  The printer may have noticed this discrepancy after printing everything through page 6, and changed the page numbers for all following  pieces to match the numbering of the index, thus skipping page 7 and starting immediately on page 8.  Another, slightly more probable explanation is that a piece was actually removed from the book during printing.  This hypothesis is supported in the observation that while the piece on page 8 has the designation "Seconda parte" in all part-books, the work on page 6 is missing the normal designation for being the first part.  The first piece in every other two-part madrigal in the publication is clearly marked "Prima parte, but "Un felice etate" is missing this designation.  Combined with the fact that page 7 is missing, this clearly suggests that a piece was removed before printing was finished.]
 
--	Tirsi vicino a morte, languendo si giacea					-				Andrea Gabrieli	-				1
--	Mentre la greggia errando pascea la verd'herbetta			-				Andrea Gabrieli	-				2
--	Voi sete in grand'errore, donna, a pensar				-				Andrea Gabrieli	-				3
--	Se mai [mi] degnasti, Amore, di baciar al mio ben le labbr'e'l petto	-				Andrea Gabrieli	-				4
--	Cor mio, se gl'è pur vero che del mio mal				-				Andrea Gabrieli	-				5
--	1. Una felice etate, un secol d'oro					-				Andrea Gabrieli	-				6
--	2. Segno con bianca pietra il giorn'e l'hora				Seconda parte			Andrea Gabrieli	-				8
--	1. Mentr'io vi miro vorrei pur sapere					Prima parte			Andrea Gabrieli	-				9
--	2. Accesa retornar ne bei vostr'occhi					Seconda parte			Andrea Gabrieli	-				10
--	Mirami, vita mia, miram'un poco Co divin occhi tuoi			-				Andrea Gabrieli	-				11
--	Vita de la mia vita, havete pur gran torto				-				Andrea Gabrieli	-				12
--	1. Non così bell'appar in Oriente la vag'Aurora			Prima parte			Andrea Gabrieli	-				13
--	2. Ma mentre ch'ella col suo gran splendore				Seconda parte			Andrea Gabrieli	-				14
--	Al dolce volo di Cillenio apriva lieta Giunon				-				Andrea Gabrieli	-				15
--	1. Signor, cui fu già poco formar i cieli					Prima parte			Andrea Gabrieli	-				16
--	2. Vergine ancella, nel vui santo chiostro				Seconda parte			Andrea Gabrieli	-				17
--	Piangeranno le gratie e Venere e gl'Amori				-				Andrea Gabrieli	-				18
--	Piangete, occhi miei lassi, piangete il vostr'errore			-				Andrea Gabrieli	Angelo Poliziano		19
--	1. I' vo piangendo i miei passati tempi					Prima parte			Andrea Gabrieli	Francesco Petrarca		20
--	2. Sì che s'io vissi in guerra et in tempesta				Seconda parte			Andrea Gabrieli	Francesco Petrarca		21
--	1. I' vidi in terra angelici costumi					Prima parte			Andrea Gabrieli	Francesco Petrarca		22
--	2. Amor, senno, valor, pietade e doglia					Seconda parte			Andrea Gabrieli	Francesco Petrarca		23
--	Da quei begl'occhi, ove s'accese il foco				-				Giovanni Gabrieli	-				24
--	Dimmi, dimmi, ben mio, qual è in terra piacer				-				Giovanni Gabrieli	-				25
--	Vagh'amorosi e fortunati allori						-				Giovanni Gabrieli	-				26
--	Queste felice herbette, che non hanno d'amor				-				Giovanni Gabrieli	-				27
--	1. S'al discoprir de l'honorata fronte					Prima parte			Giovanni Gabrieli	-				28
--	2. Le piante allo splendor di sì begl'occhi				Seconda parte			Giovanni Gabrieli	-				29
--	Dolci, care parole, poi che più non vi sento				-				Giovanni Gabrieli	-				30
+-	Tirsi vicino a morte, languendo si giacea                           	-            	Andrea Gabrieli  	-                 	 1
+-	Mentre la greggia errando pascea la verd'herbetta                   	-            	Andrea Gabrieli  	-                 	 2
+-	Voi sete in grand'errore, donna, a pensar                           	-            	Andrea Gabrieli  	-                 	 3
+-	Se mai [mi] degnasti, Amore, di baciar al mio ben le labbr'e'l petto	-            	Andrea Gabrieli  	-                 	 4
+-	Cor mio, se gl'è pur vero che del mio mal                           	-            	Andrea Gabrieli  	-                 	 5
+-	1. Una felice etate, un secol d'oro                                 	-            	Andrea Gabrieli  	-                 	 6
+-	2. Segno con bianca pietra il giorn'e l'hora                        	Seconda parte	Andrea Gabrieli  	-                 	 8
+-	1. Mentr'io vi miro vorrei pur sapere                               	Prima parte  	Andrea Gabrieli  	-                 	 9
+-	2. Accesa retornar ne bei vostr'occhi                               	Seconda parte	Andrea Gabrieli  	-                 	10
+-	Mirami, vita mia, miram'un poco Co divin occhi tuoi                 	-            	Andrea Gabrieli  	-                 	11
+-	Vita de la mia vita, havete pur gran torto                          	-            	Andrea Gabrieli  	-                 	12
+-	1. Non così bell'appar in Oriente la vag'Aurora                     	Prima parte  	Andrea Gabrieli  	-                 	13
+-	2. Ma mentre ch'ella col suo gran splendore                         	Seconda parte	Andrea Gabrieli  	-                 	14
+-	Al dolce volo di Cillenio apriva lieta Giunon                       	-            	Andrea Gabrieli  	-                 	15
+-	1. Signor, cui fu già poco formar i cieli                           	Prima parte  	Andrea Gabrieli  	-                 	16
+-	2. Vergine ancella, nel vui santo chiostro                          	Seconda parte	Andrea Gabrieli  	-                 	17
+-	Piangeranno le gratie e Venere e gl'Amori                           	-            	Andrea Gabrieli  	-                 	18
+-	Piangete, occhi miei lassi, piangete il vostr'errore                	-            	Andrea Gabrieli  	Angelo Poliziano  	19
+-	1. I' vo piangendo i miei passati tempi                             	Prima parte  	Andrea Gabrieli  	Francesco Petrarca	20
+-	2. Sì che s'io vissi in guerra et in tempesta                       	Seconda parte	Andrea Gabrieli  	Francesco Petrarca	21
+-	1. I' vidi in terra angelici costumi                                	Prima parte  	Andrea Gabrieli  	Francesco Petrarca	22
+-	2. Amor, senno, valor, pietade e doglia                             	Seconda parte	Andrea Gabrieli  	Francesco Petrarca	23
+-	Da quei begl'occhi, ove s'accese il foco                            	-            	Giovanni Gabrieli	-                 	24
+-	Dimmi, dimmi, ben mio, qual è in terra piacer                       	-            	Giovanni Gabrieli	-                 	25
+-	Vagh'amorosi e fortunati allori                                     	-            	Giovanni Gabrieli	-                 	26
+-	Queste felice herbette, che non hanno d'amor                        	-            	Giovanni Gabrieli	-                 	27
+-	1. S'al discoprir de l'honorata fronte                              	Prima parte  	Giovanni Gabrieli	-                 	28
+-	2. Le piante allo splendor di sì begl'occhi                         	Seconda parte	Giovanni Gabrieli	-                 	29
+-	Dolci, care parole, poi che più non vi sento                        	-            	Giovanni Gabrieli	-                 	30
 
 I-Vnm: compl. (prov. Heyer)
 B-Br: compl.

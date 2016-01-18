@@ -2,50 +2,50 @@
 
 12 fasc. in 8˚: C. pag. 77,(1). (A.T.B.5.6.7.8.9.10.11.12.). Ded. di Giovanni Gabrieli a Giacomo Fuccari Seniori, Baron de Chirchberg, et Vveissenhorn: "All'illustriss. Signor, il Sig. Giacomo Fuccari, Seniori, Baron de Chirchberg, et Vveissenhorn, &c, Mio Signore, & Padrone Colendissimo. Se Messer Andrea Gabrieli (felice memoria) non fosse stato mio Zio, ardirei di dire... pochissimi fossero stati gli eccellenti Compositori, et Organisti, com'egli fù... Piacque al sommo voler di Dio l'anno passato di trasferirlo di terra in Paradiso... Haveva esso ridotto a compita perfettione varij bellissimi Concerti, Dialoghi, et altre Musiche proportionate a voci, et Stromenti, come hoggidì s'usa nelle pricipal Chiese de Principi, et nelle Academie Illustri; de quali egli (bona memoria) havea deliberato farne dono à V.S. Illustriss... Onde vivendo io con l'istesso desiderio... consacro à V.S. Illustriss. i frutti delle sue virtù; intitolati i Concerti, con l'aggiunta d'alcune mie fatische, come virgulti germolianti dell'istesso tronco..."
 
-A 6	Sancta Maria, succurre miseris						-				Andrea Gabrieli	-				1
-A 6	Eructavit cor meum verbum bonum					-				Andrea Gabrieli	-				2
-A 6	Emendemus in melius							-				Andrea Gabrieli	-				3
--	Isti sunt trumphatores							-				Andrea Gabrieli	-				4
--	Maria stabat ad monumentum foris					-				Andrea Gabrieli	-				5
--	O gloriosa Domina							-				Andrea Gabrieli	-				6
--	Beatus vir qui non abijt in consilio					-				Andrea Gabrieli	-				7
--	Iniquos odio habuit et legem tuam					-				Andrea Gabrieli	-				8
--	Inclina, Domine, aurem tuam						-				Giovanni Gabrieli	-				9
-A 7	Angelus ad pastores ait							-				Andrea Gabrieli	-				10
--	Domine Deus meus, in te speravi					-				Andrea Gabrieli	-				11
--	Iudica me, Deus, et discerne causam meam				-				Andrea Gabrieli	-				12
--	Hodie Christus natus est						-				Andrea Gabrieli	-				13
--	Nativitas tua, Dei genitrix virgo						-				Andrea Gabrieli	-				14
--	Angelus Domini descendit de celo					-				Andrea Gabrieli	-				15
--	Usquequo, Domine, oblivisceris me					-				Andrea Gabrieli	-				16
--	Maria Magdalenae et Salome						-				Andrea Gabrieli	-				17
--	Deus, qui beatum Marcum evangelistam tuum				-				Andrea Gabrieli	-				18
--	Ego dixi: Domine, miserere mei						-				Giovanni Gabrieli	-				19
-A 8	Benedictus Dominus Deus Sabaoth					-				Andrea Gabrieli	-				20
--	Expurgate vetus fermentum						-				Andrea Gabrieli	-				21
--	Egredimini et videte filiae Syon						-				Andrea Gabrieli	-				22
--	Beati immaculati in via							-				Andrea Gabrieli	-				23
--	Congratulamini mihi omnes						-				Andrea Gabrieli	-				24
--	O salutari hosita							-				Andrea Gabrieli	-				25
--	Exurgat Deus et dissipentur inimici					-				Andrea Gabrieli	-				26
--	Quem vidistis pastores?						-				Andrea Gabrieli	-				27
--	Deus in nomine tuo							-				Andrea Gabrieli	-				28
--	O crux splendidior cunctis astris						-				Andrea Gabrieli	-				29
--	Deus, qui beatum Macum evangelistam tuum				-				Andrea Gabrieli	-				30
--	Iubilate Deo								-				Andrea Gabrieli	-				31
--	Ave regina coelorum							-				Andrea Gabrieli	-				32
--	O magnum mysterium et admirabile					-				Giovanni Gabrieli	-				33
-A 10	Deus, Deus meus, respice in me					-				Andrea Gabrieli	-				34
--	Laudate Dominum in sanctis eius					-				Andrea Gabrieli	-				35
--	Exultate iusti in Domino						-				Andrea Gabrieli	-				36
--	Deus, deus meus, ad te de luce						-				Giovanni Gabrieli	-				37
-A 12	Benedicam Dominum							-				Andrea Gabrieli	-				38
--	Deus misereatur nostri							-				Andrea Gabrieli	-				39
--	Angelus ad pastores ait							-				Giovanni Gabrieli	-				40
--	Kyrie eleison								-				Andrea Gabrieli	-				41
-A 16	Gloria in excelsis Deo							-				Andrea Gabrieli	-				42
-A 12	Sanctus Dominus Deus Sabaoth					-				Andrea Gabrieli	-				43
--	Magnificat anima mea							-				Andrea Gabrieli	-				44
+A 6 	Sancta Maria, succurre miseris           	-	Andrea Gabrieli  	-	 1
+A 6 	Eructavit cor meum verbum bonum          	-	Andrea Gabrieli  	-	 2
+A 6 	Emendemus in melius                      	-	Andrea Gabrieli  	-	 3
+-   	Isti sunt trumphatores                   	-	Andrea Gabrieli  	-	 4
+-   	Maria stabat ad monumentum foris         	-	Andrea Gabrieli  	-	 5
+-   	O gloriosa Domina                        	-	Andrea Gabrieli  	-	 6
+-   	Beatus vir qui non abijt in consilio     	-	Andrea Gabrieli  	-	 7
+-   	Iniquos odio habuit et legem tuam        	-	Andrea Gabrieli  	-	 8
+-   	Inclina, Domine, aurem tuam              	-	Giovanni Gabrieli	-	 9
+A 7 	Angelus ad pastores ait                  	-	Andrea Gabrieli  	-	10
+-   	Domine Deus meus, in te speravi          	-	Andrea Gabrieli  	-	11
+-   	Iudica me, Deus, et discerne causam meam 	-	Andrea Gabrieli  	-	12
+-   	Hodie Christus natus est                 	-	Andrea Gabrieli  	-	13
+-   	Nativitas tua, Dei genitrix virgo        	-	Andrea Gabrieli  	-	14
+-   	Angelus Domini descendit de celo         	-	Andrea Gabrieli  	-	15
+-   	Usquequo, Domine, oblivisceris me        	-	Andrea Gabrieli  	-	16
+-   	Maria Magdalenae et Salome               	-	Andrea Gabrieli  	-	17
+-   	Deus, qui beatum Marcum evangelistam tuum	-	Andrea Gabrieli  	-	18
+-   	Ego dixi: Domine, miserere mei           	-	Giovanni Gabrieli	-	19
+A 8 	Benedictus Dominus Deus Sabaoth          	-	Andrea Gabrieli  	-	20
+-   	Expurgate vetus fermentum                	-	Andrea Gabrieli  	-	21
+-   	Egredimini et videte filiae Syon         	-	Andrea Gabrieli  	-	22
+-   	Beati immaculati in via                  	-	Andrea Gabrieli  	-	23
+-   	Congratulamini mihi omnes                	-	Andrea Gabrieli  	-	24
+-   	O salutari hosita                        	-	Andrea Gabrieli  	-	25
+-   	Exurgat Deus et dissipentur inimici      	-	Andrea Gabrieli  	-	26
+-   	Quem vidistis pastores?                  	-	Andrea Gabrieli  	-	27
+-   	Deus in nomine tuo                       	-	Andrea Gabrieli  	-	28
+-   	O crux splendidior cunctis astris        	-	Andrea Gabrieli  	-	29
+-   	Deus, qui beatum Macum evangelistam tuum 	-	Andrea Gabrieli  	-	30
+-   	Iubilate Deo                             	-	Andrea Gabrieli  	-	31
+-   	Ave regina coelorum                      	-	Andrea Gabrieli  	-	32
+-   	O magnum mysterium et admirabile         	-	Giovanni Gabrieli	-	33
+A 10	Deus, Deus meus, respice in me           	-	Andrea Gabrieli  	-	34
+-   	Laudate Dominum in sanctis eius          	-	Andrea Gabrieli  	-	35
+-   	Exultate iusti in Domino                 	-	Andrea Gabrieli  	-	36
+-   	Deus, deus meus, ad te de luce           	-	Giovanni Gabrieli	-	37
+A 12	Benedicam Dominum                        	-	Andrea Gabrieli  	-	38
+-   	Deus misereatur nostri                   	-	Andrea Gabrieli  	-	39
+-   	Angelus ad pastores ait                  	-	Giovanni Gabrieli	-	40
+-   	Kyrie eleison                            	-	Andrea Gabrieli  	-	41
+A 16	Gloria in excelsis Deo                   	-	Andrea Gabrieli  	-	42
+A 12	Sanctus Dominus Deus Sabaoth             	-	Andrea Gabrieli  	-	43
+-   	Magnificat anima mea                     	-	Andrea Gabrieli  	-	44
 
 	Il Secondo Libro de Concerti di Andrea Gabrieli, ove sono Madrigali, et Dialoghi diversi a 6 7. 8. 10  & 12. voci
 

@@ -2,26 +2,26 @@
 
 3 fasc. in 8˚ obl. (C.T.B.), pag. 18.
 
-A 3	Godt gheve my te singhen				Il Balerino			-			-				1
--	Het groot Ghebouw					La Cortegniana			-			-				2
--	Godt schiep den Mensch vol eere			Lo Spensierato			-			-				3
--	Daer quam eer lang' een moorders stem		Lo Sdegnato			-			-				4
--	't Wijf doorschoten met dees schicht			Il Tedesco			-			-				5
--	O neckte mesch, helaes!				Il Prigioniero			-			-				6
--	Als Gods kerck beost te groeyen			Il Luchesino			-			-				7
--	Als de hooge Vloedt de Sond'				L'Humorista			-			-				8
--	T'Volck onkuys vermeerde				Il Felice				-			-				9
--	Een wreed'Tyran deed'plagen				Il Curioso			-			-				10
--	Pharao Tyran, sprack, wel				Il Risentito			-			-				11
-A 4	Amarilli mia bella, non credi, del mio cor dolce desio	-				-			Giovanni Battista Guarini	11
-A 3	De Woestijn die heeft ghevoedt			Il Tormentato			-			-				12
--	Isräl dreef sijn vyandt menich mael			Il Costante			-			-				13
--	Hans die koft hem een pae schoe			Canon				-			-				13
--	Och! wat plaghen Godt toe sond'			Il Fortunato			-			-				14
--	In droeve tijden, Woud' Godt verblijden		L'Invaghito			-			-				15
--	Ons is een kint geboren				Il Passionato			-			-				16
--	Komt Musiciens alhir ontrent				-				Di Lupi [Johannes Lupi]	-				17
--	Welkom Gesellen					Mascarada di Horatio Vechi	Orazio Vecchi		-				17
--	O Vader goet wy dancken u				-				Di Cornel. Piet. Pred.[?]	-				18
+A 3	Godt gheve my te singhen                              	Il Balerino               	-                        	-                        	 1
+-  	Het groot Ghebouw                                     	La Cortegniana            	-                        	-                        	 2
+-  	Godt schiep den Mensch vol eere                       	Lo Spensierato            	-                        	-                        	 3
+-  	Daer quam eer lang' een moorders stem                 	Lo Sdegnato               	-                        	-                        	 4
+-  	't Wijf doorschoten met dees schicht                  	Il Tedesco                	-                        	-                        	 5
+-  	O neckte mesch, helaes!                               	Il Prigioniero            	-                        	-                        	 6
+-  	Als Gods kerck beost te groeyen                       	Il Luchesino              	-                        	-                        	 7
+-  	Als de hooge Vloedt de Sond'                          	L'Humorista               	-                        	-                        	 8
+-  	T'Volck onkuys vermeerde                              	Il Felice                 	-                        	-                        	 9
+-  	Een wreed'Tyran deed'plagen                           	Il Curioso                	-                        	-                        	10
+-  	Pharao Tyran, sprack, wel                             	Il Risentito              	-                        	-                        	11
+A 4	Amarilli mia bella, non credi, del mio cor dolce desio	-                         	-                        	Giovanni Battista Guarini	11
+A 3	De Woestijn die heeft ghevoedt                        	Il Tormentato             	-                        	-                        	12
+-  	Isräl dreef sijn vyandt menich mael                   	Il Costante               	-                        	-                        	13
+-  	Hans die koft hem een pae schoe                       	Canon                     	-                        	-                        	13
+-  	Och! wat plaghen Godt toe sond'                       	Il Fortunato              	-                        	-                        	14
+-  	In droeve tijden, Woud' Godt verblijden               	L'Invaghito               	-                        	-                        	15
+-  	Ons is een kint geboren                               	Il Passionato             	-                        	-                        	16
+-  	Komt Musiciens alhir ontrent                          	-                         	Di Lupi [Johannes Lupi]  	-                        	17
+-  	Welkom Gesellen                                       	Mascarada di Horatio Vechi	Orazio Vecchi            	-                        	17
+-  	O Vader goet wy dancken u                             	-                         	Di Cornel. Piet. Pred.[?]	-                        	18
 
 B-Br: B.

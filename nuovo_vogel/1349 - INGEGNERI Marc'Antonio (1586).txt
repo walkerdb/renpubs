@@ -2,26 +2,26 @@
 
 6 fasc. in 8° obl. (C.A.T.B.5.6.), pag. 21,(1). Ded. al Duca di Parma e Piacenza:  "L'Altezza Vostra nelli favori, et beneficii; i quali con sì liberal mano ella fece già a M. Cipriano de Rore di bona memoria; favorì et beneficò tutti i professori di quest'arte: poi che egli con la protettione, e con li commodi, che da lei ricevette, s'avanzò tanto in essa, che arrivò ad essere un perpetuo essempio, et maestro a tutti del comporre perfettamente. Ma quelli più particolarmente, et maggiormente de gli altri devono per tal conto restare a V.A. obligatissimi; li quali poterono in quel particolar tempo, ch'egli fiorì nella felicissima Corte di lei, essere con M. Cipriano familiarmente, et ricevere dalla conversatione, et dalla viva voce più espressi i suoi ammaestramenti... Cremona, 20 VIII 1586".
 
-A 6	Almo signor, ch'ai più canori cigni desti albergo				-			-	-				1
--	O magnanimo duce, ecco pur hai quella gicia cui senza			-			-	-				2
--	Se'l picciol don ch'uscì dal puro affetto d'un villanel			-			-	-				3
--	Donna, la bella mano, che per donar porgeste, rapì mentre voi deste	-			-	-				4
--	Non ha men bianch'il petto, nè ha men fredd'il core			-			-	-				5
--	Donna, chi vi dipinge arriva là dove arrivar può l'arte			-			-	-				6
--	Vivo raggio lucente de la mia chiara stella, ch'ogni vil voglia		-			-	-				7
--	Quattr'o sei fila de le belle chiome tesse la mia gueriera			-			-	-				9
--	1. O bel guardo d'amore, che bell'hor sei che tutto'l bello		-			-	Giovanni Battista Guarini	10
--	2. Ma che parlo, o vaneggio						Seconda parte		-	Giovanni Battista Guarini	11
--	1. Longe da voi, mia vita, ardo e sfavillo, nè già per tai contrari		-			-	-				12
--	2. O mi fusser pietosi i divin lumi					Seconda parte		-	-				13
--	1. Ossa dilette et care, che sovente rinovate il mio duol			-			-	-				14
--	2. Non v'incresca aspettar lasse						Seconda parte		-	-				15
--	1. Mirate, occhi miei lass'intento e fisso, mentre potete		-			-	-				16
--	2. L'hora s'appressa che'l mio bel					Seconda parte		-	-				17
--	1. Voi mi poneste in fuoco per farmi anz'il mio dì, donna		-			-	Pietro Bembo			18
--	2. Però che da l'ardore l'humor						Seconda parte		-	Pietro Bembo			19
--	3. Che se tanto a voi piace veder					Terza parte		-	Pietro Bembo			20
--	4. Et di voi non mi doglio quanto					Quarta parte		-	Pietro Bembo			21
+A 6	Almo signor, ch'ai più canori cigni desti albergo                  	-            	-	-                        	 1
+-  	O magnanimo duce, ecco pur hai quella gicia cui senza              	-            	-	-                        	 2
+-  	Se'l picciol don ch'uscì dal puro affetto d'un villanel            	-            	-	-                        	 3
+-  	Donna, la bella mano, che per donar porgeste, rapì mentre voi deste	-            	-	-                        	 4
+-  	Non ha men bianch'il petto, nè ha men fredd'il core                	-            	-	-                        	 5
+-  	Donna, chi vi dipinge arriva là dove arrivar può l'arte            	-            	-	-                        	 6
+-  	Vivo raggio lucente de la mia chiara stella, ch'ogni vil voglia    	-            	-	-                        	 7
+-  	Quattr'o sei fila de le belle chiome tesse la mia gueriera         	-            	-	-                        	 9
+-  	1. O bel guardo d'amore, che bell'hor sei che tutto'l bello        	-            	-	Giovanni Battista Guarini	10
+-  	2. Ma che parlo, o vaneggio                                        	Seconda parte	-	Giovanni Battista Guarini	11
+-  	1. Longe da voi, mia vita, ardo e sfavillo, nè già per tai contrari	-            	-	-                        	12
+-  	2. O mi fusser pietosi i divin lumi                                	Seconda parte	-	-                        	13
+-  	1. Ossa dilette et care, che sovente rinovate il mio duol          	-            	-	-                        	14
+-  	2. Non v'incresca aspettar lasse                                   	Seconda parte	-	-                        	15
+-  	1. Mirate, occhi miei lass'intento e fisso, mentre potete          	-            	-	-                        	16
+-  	2. L'hora s'appressa che'l mio bel                                 	Seconda parte	-	-                        	17
+-  	1. Voi mi poneste in fuoco per farmi anz'il mio dì, donna          	-            	-	Pietro Bembo             	18
+-  	2. Però che da l'ardore l'humor                                    	Seconda parte	-	Pietro Bembo             	19
+-  	3. Che se tanto a voi piace veder                                  	Terza parte  	-	Pietro Bembo             	20
+-  	4. Et di voi non mi doglio quanto                                  	Quarta parte 	-	Pietro Bembo             	21
 
 I-MOe: compl.
 I-VEaf: compl.

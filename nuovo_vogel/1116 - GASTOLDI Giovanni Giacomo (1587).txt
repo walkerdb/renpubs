@@ -2,25 +2,25 @@
 
 5 fasc. in 8˚ (C.A.T.B.5.), pag. 22,(1). Ded. al Duca di Mantova
 
-A 5	Sommo signor, tu che			-				-	-	1
--	Salve de peccatori			-				-	-	2
--	Vergine bella				-				-	-	4
--	Palme, corone e fregi			-				-	-	4
--	Ecco che qual aurora			-				-	-	6
--	Hor che risuona			-				-	-	7
--	A te, Silvestro santo			-				-	-	8
--	Di gemme e d'oro			-				-	-	10
--	De la già peccatrice			-				-	-	11
--	Ricco del ciel thesoro			-				-	-	12
--	Anime sante e belle			-				-	-	12
--	1. Sacrati horrori			Canzone a S. Francesco.	-	-	14
--	2. Faticosi sentieri			Seconda parte			-	-	15
--	3. Prendi le piaghe sue			Terza parte			-	-	16
-A 4	4. O tu prode animal			Quarta parte			-	-	17
-A 3	5. Porti ben tu fatal			Quinta parte			-	-	18
-A 4	6. Vive ninfe				Sesta parte			-	-	19
-A 5	7. Di te rimbomba il grido		Settima parte			-	-	20
-A 6	8. Ma tu ch'a gran ragion		Ottava parte			-	-	21
-A 6	9. Mentre che mai non posa		Nona parte			-	-	22
+A 5	Sommo signor, tu che      	-                      	-	-	 1
+-  	Salve de peccatori        	-                      	-	-	 2
+-  	Vergine bella             	-                      	-	-	 4
+-  	Palme, corone e fregi     	-                      	-	-	 4
+-  	Ecco che qual aurora      	-                      	-	-	 6
+-  	Hor che risuona           	-                      	-	-	 7
+-  	A te, Silvestro santo     	-                      	-	-	 8
+-  	Di gemme e d'oro          	-                      	-	-	10
+-  	De la già peccatrice      	-                      	-	-	11
+-  	Ricco del ciel thesoro    	-                      	-	-	12
+-  	Anime sante e belle       	-                      	-	-	12
+-  	1. Sacrati horrori        	Canzone a S. Francesco.	-	-	14
+-  	2. Faticosi sentieri      	Seconda parte          	-	-	15
+-  	3. Prendi le piaghe sue   	Terza parte            	-	-	16
+A 4	4. O tu prode animal      	Quarta parte           	-	-	17
+A 3	5. Porti ben tu fatal     	Quinta parte           	-	-	18
+A 4	6. Vive ninfe             	Sesta parte            	-	-	19
+A 5	7. Di te rimbomba il grido	Settima parte          	-	-	20
+A 6	8. Ma tu ch'a gran ragion 	Ottava parte           	-	-	21
+A 6	9. Mentre che mai non posa	Nona parte             	-	-	22
 
 PL-GD: compl.

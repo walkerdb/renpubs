@@ -2,31 +2,31 @@
 
 4 fasc. in 8° obl. (Discantus, A.T.B.), pag. 44. Ded. Dominis Marco, Joanni, Hieronymo et Joanni Jacobo Dominis a Kierchberg et Weissenhorn Fuggeris, Monacchii, 30 I 1573.
 
-A 4	Quare tristis es anima mea				-			-	-			1
--	Quid estis pusillanimes et contristamini			-			-	-			2
--	Domine secundum actum meum noli me iudicare	-			-	-			3
--	Fallax gratia et vana pulchritudo			-			-	-			5
--	Eripe me de inimicis meis				-			-	-			7
--	Honorabile est inter omnes				-			-	-			9
--	Ein Esel und das Nussbaumholtz			-			-	-			10
--	Annelein du singst fein					-			-	-			11
--	Dass gutem grundt von Mund				-			-	-			12
--	Es thut sich als verkeren				-			-	-			13
--	Was sol man ietzund trawen				-			-	-			14
--	Audite nova: Der Bawr					-			-	-			15
--	Un jeune moine est sorti du couvent			-			-	-			17
--	Si du mal'heur vous avies cognaissance			-			-	-			19
--	1. Si je suis brun et ma couleur trop noire		-			-	-			20
--	2. Ne vous soit etrange si je suis noir			Seconda parte		-	-			21
--	Quant un cordier cordant veut cordier une corde	-			-	-			22
--	Qui bien se mire bien se voit				-			-	-			23
--	Saes tu dir l'ave, disoit il				-			-	-			24
--	1. Di persona era tanto ben formata			-			-	Ludovico Ariosto	25
--	2. Sotto duo negri e sottilissimi archi			Seconda parte		-	Ludovico Ariosto	26
--	3. Sotto quel sta quasi fra due vallette			Terza parte		-	Ludovico Ariosto	27
--	4. Bianca neve è il collo e'l petto			Quarta parte		-	Ludovico Ariosto	28
--	5. Mostran le braccia sue misura giusta			Quinta parte		-	Ludovico Ariosto	29
--	Spesso in poveri alberghi e in picciol tetti		-			-	-			30
+A 4	Quare tristis es anima mea                     	-            	-	-               	 1
+-  	Quid estis pusillanimes et contristamini       	-            	-	-               	 2
+-  	Domine secundum actum meum noli me iudicare    	-            	-	-               	 3
+-  	Fallax gratia et vana pulchritudo              	-            	-	-               	 5
+-  	Eripe me de inimicis meis                      	-            	-	-               	 7
+-  	Honorabile est inter omnes                     	-            	-	-               	 9
+-  	Ein Esel und das Nussbaumholtz                 	-            	-	-               	10
+-  	Annelein du singst fein                        	-            	-	-               	11
+-  	Dass gutem grundt von Mund                     	-            	-	-               	12
+-  	Es thut sich als verkeren                      	-            	-	-               	13
+-  	Was sol man ietzund trawen                     	-            	-	-               	14
+-  	Audite nova: Der Bawr                          	-            	-	-               	15
+-  	Un jeune moine est sorti du couvent            	-            	-	-               	17
+-  	Si du mal'heur vous avies cognaissance         	-            	-	-               	19
+-  	1. Si je suis brun et ma couleur trop noire    	-            	-	-               	20
+-  	2. Ne vous soit etrange si je suis noir        	Seconda parte	-	-               	21
+-  	Quant un cordier cordant veut cordier une corde	-            	-	-               	22
+-  	Qui bien se mire bien se voit                  	-            	-	-               	23
+-  	Saes tu dir l'ave, disoit il                   	-            	-	-               	24
+-  	1. Di persona era tanto ben formata            	-            	-	Ludovico Ariosto	25
+-  	2. Sotto duo negri e sottilissimi archi        	Seconda parte	-	Ludovico Ariosto	26
+-  	3. Sotto quel sta quasi fra due vallette       	Terza parte  	-	Ludovico Ariosto	27
+-  	4. Bianca neve è il collo e'l petto            	Quarta parte 	-	Ludovico Ariosto	28
+-  	5. Mostran le braccia sue misura giusta        	Quinta parte 	-	Ludovico Ariosto	29
+-  	Spesso in poveri alberghi e in picciol tetti   	-            	-	-               	30
 
 		Dialogi 8 vocum:
 A 8	Unde revertimini pax religioque sorores		-			-	-			31

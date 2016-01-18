@@ -2,22 +2,22 @@
 
 5 fasc. in 8˚ (C.A.T.B.5.), pag. 22. Ded. a Tullo Guerriero: "... oer lo grado principalissimo che tiene presso la persona del Serenissimo Signor Duca Vincenzo di Mantova... magnanimo Guerriero, il quale addatta talhora il Canto, al suono dell'armi... Mantova, 20 I 1589".
 
-A 5	Dolce d'amor sirena, che le note e i sospiri mesci				-		-	-			1
--	A nobil mensa del celeste ardore, che da due lumi amorosetti			-		-	-			2
--	Filli vezzosa e lieta hor guarda, hor geme, hor tace				-		-	-			3
--	Danzavan liet'al suon de la sampogna tra ninfe e tra pastori			-		-	-			4
--	Amor, ecco si parte di beltà, di virtù, di leggiadria				-		-	-			4
--	Fiammeggia ne bei lumi un vivo raggio de l'alma, empirea luce			-		-	-			6
--	La vostra front'è un cielo, bell'Amarilli						-		-	-			7
--	Ben si vede che'l sole non è ch'apport'il giorno					-		-	-			8
--	Concordi entr'al mio petto e gelo e foco rinchiusi stan				-		-	-			9
--	1. O de tuoi genitori pregiato pegno, pargoletta adorna				-		-	-			10
--	2. Mentre con dolci accenti desti						Seconda parte	-	-			11
--	Bella donna celeste, a me ch'ho l'alma d'ogni ben digiuna			-		-	-			12
--	1. Moriva il bel Tirinto sol de le sue bellezze altero				-		-	-			13
--	2. Già da tutti eran pianti quand'amor						Seconda parte	-	-			14
--	1. Quand'a vibrar l'aspre saett'ardenti arm'il gran Giove				-		-	-			15
--	2. Ma quand'ardita al fulminar							Seconda parte	-	-			16
-A 10	Tutti liet'honoriamo il festoso Lieo						Baccanale	-	-			18
-A 7	1. A le belle corelle, donne, celeste prole, chi di voi comprar			Mascherata	-	-			20
-A 7	2. Candidi e sotil veli, aghi tondi							Seconda parte	-	-			20
+A 5 	Dolce d'amor sirena, che le note e i sospiri mesci             	-            	-	-	 1
+-   	A nobil mensa del celeste ardore, che da due lumi amorosetti   	-            	-	-	 2
+-   	Filli vezzosa e lieta hor guarda, hor geme, hor tace           	-            	-	-	 3
+-   	Danzavan liet'al suon de la sampogna tra ninfe e tra pastori   	-            	-	-	 4
+-   	Amor, ecco si parte di beltà, di virtù, di leggiadria          	-            	-	-	 4
+-   	Fiammeggia ne bei lumi un vivo raggio de l'alma, empirea luce  	-            	-	-	 6
+-   	La vostra front'è un cielo, bell'Amarilli                      	-            	-	-	 7
+-   	Ben si vede che'l sole non è ch'apport'il giorno               	-            	-	-	 8
+-   	Concordi entr'al mio petto e gelo e foco rinchiusi stan        	-            	-	-	 9
+-   	1. O de tuoi genitori pregiato pegno, pargoletta adorna        	-            	-	-	10
+-   	2. Mentre con dolci accenti desti                              	Seconda parte	-	-	11
+-   	Bella donna celeste, a me ch'ho l'alma d'ogni ben digiuna      	-            	-	-	12
+-   	1. Moriva il bel Tirinto sol de le sue bellezze altero         	-            	-	-	13
+-   	2. Già da tutti eran pianti quand'amor                         	Seconda parte	-	-	14
+-   	1. Quand'a vibrar l'aspre saett'ardenti arm'il gran Giove      	-            	-	-	15
+-   	2. Ma quand'ardita al fulminar                                 	Seconda parte	-	-	16
+A 10	Tutti liet'honoriamo il festoso Lieo                           	Baccanale    	-	-	18
+A 7 	1. A le belle corelle, donne, celeste prole, chi di voi comprar	Mascherata   	-	-	20
+A 7 	2. Candidi e sotil veli, aghi tondi                            	Seconda parte	-	-	20

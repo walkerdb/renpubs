@@ -2,36 +2,36 @@
 
 3 fasc. in 8˚ obl., pag 29,(1).
 
-A 3	1. A caso in giorno mi guidò la sorte in un bosco			-			-	Luigi Tansillo		1
--	2. Vaga d'udir come						Seconda parte		-	Luigi Tansillo		1
--	3. Con quel poco di spirto					Terza parte		-	Luigi Tansillo		2
--	4. Mentre ch'ella le piaghe					Quarta parte		-	Luigi Tansillo		4
--	1. Dunque basciar sì belle e dolci labbia				-			-	Ludovico Ariosto	5
--	2. Se tu m'occidi, è ben ragion che deggi			Seconda parte		-	Ludovico Ariosto	6
--	1. Ella non sa se non invan dolersi				-			-	Ludovico Ariosto	7
--	2. Così cor mio, vogliate (le diceva)				Seconda parte	-	Ludovico Ariosto	8
--	3. Ma poi che'l mio destino iniquo e duro			Terza parte		-	Ludovico Ariosto	9
--	4. A questo la mestissima Isabella				Quarta parte		-	Ludovico Ariosto	10
--	5. Di ciò, cor mio, nessun timor vi tocchi				Quinta parte		-	Ludovico Ariosto	11
--	6. Zerbin, la debol voce riforzando				Sesta parte		-	Ludovico Ariosto	12
--	7. Non credo che quest'ultime parole				Settima parte		-	Ludovico Ariosto	13
--	8. Sopra il sanguigno corpo s'abbandona			Ottava parte		-	Ludovico Ariosto	14
--	Il dolce sonno mi promise pace, ma l'amaro veggiar		-			-	Ludovico Ariosto	15
--	1. Deh dove senza me, dolce mia vita, rimasa sei		-			-	Ludovico Ariosto	16
--	2. Dove speranza mia, dov'hora sei?				Seconda parte		-	Ludovico Ariosto	17
--	3. O infelice, o misero che voglio				Terza parte		-	Ludovico Ariosto	18
--	1. E dove non potea la debil voce suppliva il pianto		-			-	Ludovico Ariosto	19
--	2. Ma i venti che portavano la vele				Seconda parte		-	Ludovico Ariosto	20
--	3. E con la faccia in giù stesa sul letto				Terza parte		-	Ludovico Ariosto	21
--	La verginella è simile alla rosa, ch'in bel giardin			-			-	Ludovico Ariosto	22
--	1. Dunque fia ver, dicea, che mi convegna cercar		-			-	Ludovico Ariosto	23
--	2. Sa quest'altier ch'io l'amo e ch'io l'adoro			Seconda parte		-	Ludovico Ariosto	24
--	3. Deh ferm'Amor costui, che così sciolto			Terza parte		-	Ludovico Ariosto	25
--	4. Ma di che debbo lamentarmi, ahi lassa			Quarta parte		-	Ludovico Ariosto	26
--	1. Che giova posseder cittadi e regni				-			-	Pietro Bembo		27
--	2. Ma che non giov'haver fedeli amanti				Seconda parte		-	Pietro Bembo		28
--	3. Quant'esser vi dee caro un uom, che brami			Terza parte		-	Pietro Bembo		29
--	4. Però che voi non sete cosa integra				Quarta parte		-	Pietro Bembo		29
+A 3	1. A caso in giorno mi guidò la sorte in un bosco   	-            	-	Luigi Tansillo  	 1
+-  	2. Vaga d'udir come                                 	Seconda parte	-	Luigi Tansillo  	 1
+-  	3. Con quel poco di spirto                          	Terza parte  	-	Luigi Tansillo  	 2
+-  	4. Mentre ch'ella le piaghe                         	Quarta parte 	-	Luigi Tansillo  	 4
+-  	1. Dunque basciar sì belle e dolci labbia           	-            	-	Ludovico Ariosto	 5
+-  	2. Se tu m'occidi, è ben ragion che deggi           	Seconda parte	-	Ludovico Ariosto	 6
+-  	1. Ella non sa se non invan dolersi                 	-            	-	Ludovico Ariosto	 7
+-  	2. Così cor mio, vogliate (le diceva)               	Seconda parte	-	Ludovico Ariosto	 8
+-  	3. Ma poi che'l mio destino iniquo e duro           	Terza parte  	-	Ludovico Ariosto	 9
+-  	4. A questo la mestissima Isabella                  	Quarta parte 	-	Ludovico Ariosto	10
+-  	5. Di ciò, cor mio, nessun timor vi tocchi          	Quinta parte 	-	Ludovico Ariosto	11
+-  	6. Zerbin, la debol voce riforzando                 	Sesta parte  	-	Ludovico Ariosto	12
+-  	7. Non credo che quest'ultime parole                	Settima parte	-	Ludovico Ariosto	13
+-  	8. Sopra il sanguigno corpo s'abbandona             	Ottava parte 	-	Ludovico Ariosto	14
+-  	Il dolce sonno mi promise pace, ma l'amaro veggiar  	-            	-	Ludovico Ariosto	15
+-  	1. Deh dove senza me, dolce mia vita, rimasa sei    	-            	-	Ludovico Ariosto	16
+-  	2. Dove speranza mia, dov'hora sei?                 	Seconda parte	-	Ludovico Ariosto	17
+-  	3. O infelice, o misero che voglio                  	Terza parte  	-	Ludovico Ariosto	18
+-  	1. E dove non potea la debil voce suppliva il pianto	-            	-	Ludovico Ariosto	19
+-  	2. Ma i venti che portavano la vele                 	Seconda parte	-	Ludovico Ariosto	20
+-  	3. E con la faccia in giù stesa sul letto           	Terza parte  	-	Ludovico Ariosto	21
+-  	La verginella è simile alla rosa, ch'in bel giardin 	-            	-	Ludovico Ariosto	22
+-  	1. Dunque fia ver, dicea, che mi convegna cercar    	-            	-	Ludovico Ariosto	23
+-  	2. Sa quest'altier ch'io l'amo e ch'io l'adoro      	Seconda parte	-	Ludovico Ariosto	24
+-  	3. Deh ferm'Amor costui, che così sciolto           	Terza parte  	-	Ludovico Ariosto	25
+-  	4. Ma di che debbo lamentarmi, ahi lassa            	Quarta parte 	-	Ludovico Ariosto	26
+-  	1. Che giova posseder cittadi e regni               	-            	-	Pietro Bembo    	27
+-  	2. Ma che non giov'haver fedeli amanti              	Seconda parte	-	Pietro Bembo    	28
+-  	3. Quant'esser vi dee caro un uom, che brami        	Terza parte  	-	Pietro Bembo    	29
+-  	4. Però che voi non sete cosa integra               	Quarta parte 	-	Pietro Bembo    	29
 
 D-Mbs: compl.
 D-Rtt: T.B.

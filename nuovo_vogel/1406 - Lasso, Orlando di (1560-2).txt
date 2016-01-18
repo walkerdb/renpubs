@@ -2,43 +2,43 @@
 
 4 fasc. in 8° obl. (C.A.T.B.), pag. 30,(1).
 
--	Per pianto la mia carne si distilla					d'Orlando Lassus			-			Jacopo Sannazzaro	1
--	Vivo sol di speranza rimembrando				Orlando di Lassus.		-			Francesco Petrarca	1
--	Giovane donna i vaghi'e dolc'accenti				D'incerto				Anonymous		-			2
--	Queste non son più lagrime che fuore stillo da gli occhi		Orlando lassus.				-			Ludovico Ariosto	3
--	1. Del freddo Rheno alla sinistra riva				Canzon D'Orlando Prima stanza.	-			-			4
--	2. Chi'l crederà perchè lo dica il sole				Seconda stanza.			-			-			4
--	3. Rotava et è pur ver di puro fuoco				Terza Stanza			-			-			5
--	4. Si fè cristallo il fium'e'n tale stato				Quarta stanza			-			-			5
--	5. Et io qual fui restai senza la voce				Quinta Stanza			-			-			6
--	6. Hor su la nuda terra hora su l'herbe				Ultima stanza. Orlando lassus.	-			-		7
--	Appariran per me le stell'in cielo				Orlando di lassus.			-			-			8
--	Non vi vieto per questo, ch'avrei torto			Orlando di Lassus			-			Ludovico Ariosto	9
--	Donna, s'amor è in voi summo desio				Giovanni Locheburgho.			Giovanni Lochenburgo	-			9
--	Quanto il mio duol senza conforto sia				Orlando di lassus.			-			Giovanni Boccaccio	11
--	Quel sì grave dolore ch'io senti nell'accerba mia partita	Giovan Lochenburgho			Giovanni Lochenburgo	-			12
--	1. Se vi fur' et vi son' et saran sempre				Giovanni Lochenburgho		Giovanni Lochenburgo	-			13
--	2. S'in voi può dirsi haver posto, cortesi			Risposta.				?			-			14
--	Donna gentil l'alma bellezza vostra ben chiaro mi dimostra	Giovan Lochenburgho.			Giovanni Lochenburgo 	-			15
--	Quando da voi madonna son lontano				Giovan Dominico da Nola.		Giovan Domenico da Nola	-		16
--	Perch'io veggio e mi spiace che natural mia dote		Orlando di Lassus			-			Francesco Petrarca	17
--	Vatene lieta homai, copia d'amici				Orlando di Lassus.			-			-			18
--	1. Sovra una verde riva di chiar'e lucid'onde			Canzon D'incerto Prima stanza		Anonymous		Jacopo Sannazzaro	19
--	2. Apri l'uscio per tempo, leggiadr'almo pastore		Seconda Stanza			Anonymous		Jacopo Sannazzaro	20
-A 3	3. Valli vicini e rupi, cipressi Olmi'et Abeti			Terza stanza A 3			Anonymous		Jacopo Sannazzaro	21
-A 4	4. Nascan herbette'et fiori et li fieri animali			Quarta stanza.			Anonymous		Jacopo Sannazzaro	22
-A 3	5. In questo dì giocondo nacque				Quinta stanza A 3			Anonymous		Jacopo Sannazzaro	23
-A 4	6. Mentre per questi monti andran le fiere errando		Sesta Stanza			Anonymous		Jacopo Sannazzaro	24
--	7. Per cortesia canzon tu pregherai				Ultima Stanza		Anonymous		Jacopo Sannazzaro	24
--	1. Giovane donna sott'un verde lauro				Canzon di Francesco Rosselli Prima Stanza	Francesco Roselli	Francesco Petrarca	25
--	2. Alhor saran' i miei pensier a riva				Seconda stanza			Francesco Roselli	Francesco Petrarca	25
--	3. Ma perchè vola'il tempo e fuggon glianni			Terza stanza			Francesco Roselli	Francesco Petrarca	26
--	4. Non fur giamai veduti si begliocchi				Quarta stanza			Francesco Roselli	Francesco Petrarca	27
--	5. I' temo di cangiar pria volt'e chiome				Quinta stanza.			Francesco Roselli	Francesco Petrarca	27
--	6. Dentro pur foc'et fuor candida neve			Ultima Stanza.		Francesco Roselli	Francesco Petrarca	28
--	Occhi, piangete, accompagnate'l core				Orlando di Lassus.			-			Francesco Petrarca	29
--	Se ben l'empia mia sorte fà che contra mia voglia		Orlando di Lassus			-			-			29
--	O del mio navigar fidata scorta					Constantio porta			Constantio Porta	Fabio Galeota		30
+-  	Per pianto la mia carne si distilla                       	d'Orlando Lassus                         	-                      	Jacopo Sannazzaro 	 1
+-  	Vivo sol di speranza rimembrando                          	Orlando di Lassus.                       	-                      	Francesco Petrarca	 1
+-  	Giovane donna i vaghi'e dolc'accenti                      	D'incerto                                	Anonymous              	-                 	 2
+-  	Queste non son più lagrime che fuore stillo da gli occhi  	Orlando lassus.                          	-                      	Ludovico Ariosto  	 3
+-  	1. Del freddo Rheno alla sinistra riva                    	Canzon D'Orlando Prima stanza.           	-                      	-                 	 4
+-  	2. Chi'l crederà perchè lo dica il sole                   	Seconda stanza.                          	-                      	-                 	 4
+-  	3. Rotava et è pur ver di puro fuoco                      	Terza Stanza                             	-                      	-                 	 5
+-  	4. Si fè cristallo il fium'e'n tale stato                 	Quarta stanza                            	-                      	-                 	 5
+-  	5. Et io qual fui restai senza la voce                    	Quinta Stanza                            	-                      	-                 	 6
+-  	6. Hor su la nuda terra hora su l'herbe                   	Ultima stanza. Orlando lassus.           	-                      	-                 	 7
+-  	Appariran per me le stell'in cielo                        	Orlando di lassus.                       	-                      	-                 	 8
+-  	Non vi vieto per questo, ch'avrei torto                   	Orlando di Lassus                        	-                      	Ludovico Ariosto  	 9
+-  	Donna, s'amor è in voi summo desio                        	Giovanni Locheburgho.                    	Giovanni Lochenburgo   	-                 	 9
+-  	Quanto il mio duol senza conforto sia                     	Orlando di lassus.                       	-                      	Giovanni Boccaccio	11
+-  	Quel sì grave dolore ch'io senti nell'accerba mia partita 	Giovan Lochenburgho                      	Giovanni Lochenburgo   	-                 	12
+-  	1. Se vi fur' et vi son' et saran sempre                  	Giovanni Lochenburgho                    	Giovanni Lochenburgo   	-                 	13
+-  	2. S'in voi può dirsi haver posto, cortesi                	Risposta.                                	?                      	-                 	14
+-  	Donna gentil l'alma bellezza vostra ben chiaro mi dimostra	Giovan Lochenburgho.                     	Giovanni Lochenburgo   	-                 	15
+-  	Quando da voi madonna son lontano                         	Giovan Dominico da Nola.                 	Giovan Domenico da Nola	-                 	16
+-  	Perch'io veggio e mi spiace che natural mia dote          	Orlando di Lassus                        	-                      	Francesco Petrarca	17
+-  	Vatene lieta homai, copia d'amici                         	Orlando di Lassus.                       	-                      	-                 	18
+-  	1. Sovra una verde riva di chiar'e lucid'onde             	Canzon D'incerto Prima stanza            	Anonymous              	Jacopo Sannazzaro 	19
+-  	2. Apri l'uscio per tempo, leggiadr'almo pastore          	Seconda Stanza                           	Anonymous              	Jacopo Sannazzaro 	20
+A 3	3. Valli vicini e rupi, cipressi Olmi'et Abeti            	Terza stanza A 3                         	Anonymous              	Jacopo Sannazzaro 	21
+A 4	4. Nascan herbette'et fiori et li fieri animali           	Quarta stanza.                           	Anonymous              	Jacopo Sannazzaro 	22
+A 3	5. In questo dì giocondo nacque                           	Quinta stanza A 3                        	Anonymous              	Jacopo Sannazzaro 	23
+A 4	6. Mentre per questi monti andran le fiere errando        	Sesta Stanza                             	Anonymous              	Jacopo Sannazzaro 	24
+-  	7. Per cortesia canzon tu pregherai                       	Ultima Stanza                            	Anonymous              	Jacopo Sannazzaro 	24
+-  	1. Giovane donna sott'un verde lauro                      	Canzon di Francesco Rosselli Prima Stanza	Francesco Roselli      	Francesco Petrarca	25
+-  	2. Alhor saran' i miei pensier a riva                     	Seconda stanza                           	Francesco Roselli      	Francesco Petrarca	25
+-  	3. Ma perchè vola'il tempo e fuggon glianni               	Terza stanza                             	Francesco Roselli      	Francesco Petrarca	26
+-  	4. Non fur giamai veduti si begliocchi                    	Quarta stanza                            	Francesco Roselli      	Francesco Petrarca	27
+-  	5. I' temo di cangiar pria volt'e chiome                  	Quinta stanza.                           	Francesco Roselli      	Francesco Petrarca	27
+-  	6. Dentro pur foc'et fuor candida neve                    	Ultima Stanza.                           	Francesco Roselli      	Francesco Petrarca	28
+-  	Occhi, piangete, accompagnate'l core                      	Orlando di Lassus.                       	-                      	Francesco Petrarca	29
+-  	Se ben l'empia mia sorte fà che contra mia voglia         	Orlando di Lassus                        	-                      	-                 	29
+-  	O del mio navigar fidata scorta                           	Constantio porta                         	Constantio Porta       	Fabio Galeota     	30
 
 D-Mbs: compl. [Digital facsimile exists]	
 I-Bc: B.
