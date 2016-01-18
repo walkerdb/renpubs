@@ -11,7 +11,7 @@ Each file consists of four primary parts:
 4. __Holding institutions__: A listing of institutions known to hold copies of the publication, including which specific parts are in their collection
 
 ###Reading the works table
-For every work in the works list there are 6 data points, all separated by one or more tabs. Empty data-points are delineated with a ```-``` character.
+For every work in the works list there are 6 data points, in tsv format. If doing anything programmatic with table data, be sure to strip whitespace from the ends of all data points, since tables are visually formatted with empty spaces. Completely empty data-points are delineated with a ```-``` character.
 
 The headings:
 ```
