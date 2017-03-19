@@ -8,8 +8,8 @@ A 5. Se la mia vita da l'aspro tormento si può tanto (Petrarca) 12
 " " Hor, lasso, alzo la man et l'armc rendo (seconda parte) " 18
 " " Chi nol sa di ch'io vivo c vissi sempre dal dì " 18
 " " Occhi miei, ch'al mirar foslc sì pronti, l'alticra luce che c'impiaga. Canzon 20
-" " Orecchie. che per gratia udist'alhora saggie parole (seconda parte) Zl
-" " Lingua che l'aria e'] ciel, l'acqu'c la terra (terza parte) ZZ
+" " Orecchie. che per gratia udist'alhora saggie parole (seconda parte) 21
+" " Lingua che l'aria e'] ciel, l'acqu'c la terra (terza parte) 22
 " " Cor, che sfogand'il nostr'intcns'ardorc (quarta parte) B
 " " Man, che scrivete la beltà immortale (quinta parte) 24
 " " Piedi, che giorn'c nott'andat'errando (sesta parte) 25
@@ -17,7 +17,7 @@ A 5. Se la mia vita da l'aspro tormento si può tanto (Petrarca) 12
 
 " " lo vorrei poter dir", amor, come scolpit'in varii modi porto 27
 
-A 8. Mentre m'havesti caro, nè t'er'altri ch'io sol dì e nott'allato. Dialogo (Vcnicro) ZB
+A 8. Mentre m'havesti caro, nè t'er'altri ch'io sol dì e nott'allato. Dialogo (Vcnicro) 28
 
 D-Mbs: compl.
 I-Bc: C.A.T.B.

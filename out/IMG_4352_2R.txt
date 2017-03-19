@@ -5,8 +5,8 @@ A5. Velocemente il ciel girando intorno con lo Splendor de raggi 15
 " " Et ben sì degna è la cagione ond'io, donne, a voi qua men vegno 18
 " " Quando per alla mia ventura fisso questi occhi miei 19
 " " Nè perciò questa mia caduca spoglia (seconda parte) 20
-" " Da bei cerchi del ciel puri et lucenti, che col perpetuo mio corso ZI
-" " Mentre ch'il cor dai dolci suoi desiri nudrito ZZ
+" " Da bei cerchi del ciel puri et lucenti, che col perpetuo mio corso 21
+" " Mentre ch'il cor dai dolci suoi desiri nudrito 22
 " " Ma quel vivace ardor, quella speranza (seconda parte) B
 " " Non rumor di tamburi, o suon di trombe furon principio (Ariosto) 24
 " " Queste. che dianzi pur sì care fronde, spiegar le chiome-
@@ -17,7 +17,7 @@ A5. Velocemente il ciel girando intorno con lo Splendor de raggi 15
 A 6. Hor non invidio al Tebro de veri antichi figli. Al Duca Cosmo de Medici 30
 " " Ecco amor che dal cielo è qui venuto, belle donne 31
 " " 0 che felice schicra ch'è dal ciel scesa, vaghe donne 32
-" " Princeps amplissime in quo natura ei fortuna 3Z
+" " Princeps amplissime in quo natura ei fortuna 32
 D-Mbs: compl
 
 862_- DORATI Nicolò (1579) _ Madrigali di Nicolo Dorati capo della musica

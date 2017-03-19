@@ -1,6 +1,6 @@
 A 5. Errai, misera amante, nelle 19
 A 8. O misero mio core, poi che si parte amore 20
-A S. Fuggi, se sai fuggire, fera al mio cor crudele ZZ
+A S. Fuggi, se sai fuggire, fera al mio cor crudele 22
 
 l-MOe: compl.
 US-BE: A.
@@ -11,7 +11,7 @@ sei voci. In Ferrara, nella stamperia di Vittorio Baldini. 1584.
 6 fase. in 8° (C.A.T.B.5.6.), pag. 21,(l). Ded. a D. Alfonso II D'Este, Duca di Ferrara, etc.:
 il presente liumile, et primo parto del mio povero ingegno... ".
 
-Vive faville amor da gl'occhi sparse, et indi ]
+Vive faville amor da gl'occhi sparse, et indi 1
 Arsi del vostr'amor sì dolcemente, ch'ancor di speme vivo 2
 I vaghi fiori e l'herb'e l'aria altrui diletto danno 3
 Mentre la donna mia sè stessa mira in bel cristallo 4
@@ -22,7 +22,7 @@ I' sarò sempre avint'a tutte l'hore dal nodo ardente 8
 Ahi che fuggite un giorno movendo un riso 9
 Forsi dite ch'io fugo, poi che per voi mi strugo. Risposta . 10
 O quante volte in van, cor mio, ti chiamo (Guarini) "
-Io gioisco a mirar con meraviglia la bella e cara sponda lZ
+Io gioisco a mirar con meraviglia la bella e cara sponda 12
 La bella donna mia, bella più d'altra e pia. Canzone 13
 Vedcami: e per tal vista con voce mesta (seconda parte) "
 Con fronte rugiadosa qual matutina rosa (terza parte) 15

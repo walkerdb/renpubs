@@ -3,13 +3,13 @@ A1. Tutlo'l di piango e poi la notte quando (Petrarca) 6
 " " Tra le donne, onde s'honora Arno e Flora 8
 " " Quest'humil fera un cor di tigre o d'orsa (Petrarca) 9
 " " Bellissima regina dc miei pensier " 11
-" " Lasso, ch'io ardo et altri non mel erede " lZ
+" " Lasso, ch'io ardo et altri non mel erede " 12
 " " Ho visto al mio dolore spargere a mille a mille (Striggio) 14
 " " O durezza di ferro e di diamante, che mi ferend'il petto 16
 " " Lungi dal vostro lume, luci (l'alba gentil de giorni miei 18
-" " Solitario augellino, che si soave piagni ZO
-" " Se tu parti da me l-'illide amata, se privi gl'occhi miei Zl
-" " Ma se restì al mio ben, al mio contento, se sovra i fior ZZ
+" " Solitario augellino, che si soave piagni 20
+" " Se tu parti da me l-'illide amata, se privi gl'occhi miei 21
+" " Ma se restì al mio ben, al mio contento, se sovra i fior 22
 " " Chi più cara t'havrà, chi tanto l'ama, chi l'accorrà 23
 A l. Con sorrisi cortesi. con dolci sguardi accesi (Chiabrera) 24
 A 3. Caro e soave legno. unico pregio mio, dolce mia speme (Rinuccini) 25
@@ -30,15 +30,15 @@ del sereniss. G.D. di Toscana, e bali di Volterra. In Firenze, per Zanobi Pignon
 
 Vol. in 4", pag. (9), 31. Ded. di Zanobi Pignoni.
 
-A l. Qual cadavero spiranle, () begli occhi l
-" " Hor che gli augelli cantando volano per gl'arboscelli Z
+A l. Qual cadavero spiranle, () begli occhi 1
+" " Hor che gli augelli cantando volano per gl'arboscelli 2
 " " Che veggio, ohimè, che sento l'idolo 3
 " " Tra le lagrime e i sospiri \'lssi 5
 A Z. O core infiammato, ama felice 7
 A ]. Freddo core, che in amore 8
 " " Care stelle crud'c belle 9
-A Z. A] fonte, al prato, al bosco, a l'ombra, al fresco (Chiabrera) l
-A 1. Tutto'] dì piango e poi la notte quando (Petrarca) Z
+A Z. A] fonte, al prato, al bosco, a l'ombra, al fresco (Chiabrera) 1
+A 1. Tutto'] dì piango e poi la notte quando (Petrarca) 2
 " " Lasso, che pur da l'uno :] l'altro sole (seconda parle) " 3
 " " Tra le donne onde s'honora Arno e Flora 4
 " " Quest'humil fera un cor di tigre o d'orsa (Petrarca) 5

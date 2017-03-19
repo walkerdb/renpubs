@@ -7,13 +7,13 @@ A 5. Fuggito è'] sonno alle mie crude notti (Petrarca) 7
 " " 0 giorno che per me (Sannazzaro) 9
 " " Senza il mio sole in tenebre e in martiri " lU
 " " Allro che lagrimar (seconda parte) " 11
-" " Ben mi credeva, lasso, che'l mio cantar un tempo " lZ
+" " Ben mi credeva, lasso, che'l mio cantar un tempo " 12
 " " Fiere silvestre, che per lati campi \'agand'errate " 13
 " " Ecco ch'un'altra volta, o piagge aprichc odrete " 13
-" " E se di vero amor qualche scintilla (seconda parte) " l4
+" " E se di vero amor qualche scintilla (seconda parte) " 14
 A 6. Come ogni rio, che d'acque dolci et chiare 15
 " " Valli, riposle valli (Sannazzaro) 16
-" " Inlerdelle speranze e van desio " l7
+" " Inlerdelle speranze e van desio " 17
 " " O fere stelle, homai datemi pace " 18
 A 10. Basti fin qui le pen'e i duri affanni " 19
 
@@ -29,8 +29,8 @@ Gardano. 1580.
 5 fasc. in 8° obl. (C.A.T.B.5.)y Pag. l9,(l)- Ded. al Cardinale (TE-"C= "._qucslc mie primitie..-
 Roma, 8 V… 1580 ".
 
-A 5. Liquide perle amor da gl'occhi sparse in premio del mio (Sannazzaro) l
-" " Ohimè dov'è'l mio ben, dov'è'l mio core? Chi m'asconde (B. Tasso) Z
+A 5. Liquide perle amor da gl'occhi sparse in premio del mio (Sannazzaro) 1
+" " Ohimè dov'è'l mio ben, dov'è'l mio core? Chi m'asconde (B. Tasso) 2
 " " Spunlavan già, per far il mond'adorno, vaghi fioretti 3
 " " Quando'l mio vivo "il perch'io (seconda parte) 4
 " " Quando i vostri begl'occhi un chiaro velo ombrado cuopre (Sannazzaro) 5

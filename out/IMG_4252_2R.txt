@@ -29,9 +29,9 @@ AL Mentre ch'io v'amo e voi m'llavete a schivo. Aria (li Romanesca 10
 " " Stassi l'avaro sguardo in sé (seconda stanza) " 19
 " " Dolce color di rosc in quel bel (terza stanza) " 20
 " " Ma ne la bocca onde esce pura (quarta stanza) ." 21
-" " Dove. speranza mia. dov'hora sei? Aria di Ruggiero (Anosto) ZI
-" " 0 pur t'hanno trovata i lupi rei (seconda stanza) " ZZ
-" " E'l fior che in ciel porca per me (terza stanza) " ZZ
+" " Dove. speranza mia. dov'hora sei? Aria di Ruggiero (Anosto) 21
+" " 0 pur t'hanno trovata i lupi rei (seconda stanza) " 22
+" " E'l fior che in ciel porca per me (terza stanza) " 22
 " " Per non turbarti, ohimè (quarta stanza) " B
 A 3 Deb mirami, cor mio, mentre ti miro. Madrigale 24
 A 4. Presso un fiume tranquillo disse a Filcna Eurillo. Madrigale (Marino) 26

@@ -12,12 +12,12 @@ A 4. Fior ch'all'intatta nev'a i bei ligustri 13
 " " 1 giuramenti, le promesse vanno (lc vent'in aria " 18
 " " Guardatevi da questi, che sul fiore de lor verd'anni " 18
 " " Così fan questi gioveni che tanto (seconda parte) " 19
-" " Fu l'ors'un tempo dolce cosa amore (Petrarca) ZO
+" " Fu l'ors'un tempo dolce cosa amore (Petrarca) 20
 " " Quella che fu del suol \'oslro
 
-" " Liete piante, \'eſd'herbe, limpid'acque (Ariosto) Zl
-" " Amor, mia speme'l guiderdon d'ogni mia fede ZZ
-" " Alli dispietata morte. ahi crudel vita (seconda parte) ZZ
+" " Liete piante, \'eſd'herbe, limpid'acque (Ariosto) 21
+" " Amor, mia speme'l guiderdon d'ogni mia fede 22
+" " Alli dispietata morte. ahi crudel vita (seconda parte) 22
 
 1-VEaf: C.A.T.
 

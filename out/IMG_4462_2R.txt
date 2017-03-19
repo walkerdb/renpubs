@@ -22,8 +22,8 @@ n " Io con la rete uccello e con la trappola " "
 " " Horsù ciascun s'npresti (seconda parte) lì
 A 5. Eccone quasi giunti (terza parte) 16
 A 6. Ergasto con tuoi sotii (quarta parte) . …
-" " Ecco, ccc'i lupi fuor del pnntnniccio (qumta parte) ZU
-A7- Ergasto, tu che l'hai (sesta parte) ZZ
+" " Ecco, ccc'i lupi fuor del pnntnniccio (qumta parte) 20
+A7- Ergasto, tu che l'hai (sesta parte) 22
 A 8. Ma hor siam giunt'al fonte (settima parte)
 
 l-Fn: compl.

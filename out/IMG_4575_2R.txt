@@ -31,7 +31,7 @@ A 5. La bella pargolelta, ch'anCor non sente amore (Tasso) 1
 " " Di qui vengono a gl'amanti (lena parte) 19
 " " Sfortunata (quarta parte) 19
 A 8. Su l'affricane arene vedove spose incatenati e morti piangliin. Al Gran Duca di
-Toscana Cosimo Il (Rinuccini) ZO
+Toscana Cosimo Il (Rinuccini) 20
 
 I-Vnm : compl.
 l-MOc: A.T.B.

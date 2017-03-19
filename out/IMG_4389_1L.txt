@@ -5,7 +5,7 @@ A 4. Fiorir su vaghe sponde 12
 A 5. Ite pastori 15
 " " Ditenc, o buon pastori. Dialogo 17
 " " Amoroso signore. Nenia al Bambin Giesù 20
-A 6. 0 novella inaudita. A.T.B. Z Violini e Viola ZZ
+A 6. 0 novella inaudita. A.T.B. Z Violini e Viola 22
 " " Non vcggion questi monti. Dialogo B
 " " Nell'apparir del scmpiterno sole. Dialogo 25
 Responsori del Natale
@@ -23,12 +23,12 @@ Sartori l637c.
 voci di Lancillotto Fidelis ﬂamengo, novamente da lui composti et dati in luce.
 A quatro voci. In Venetia apresso li figliuoli di Antonio Gardano. 1570.
 
-4 fasc. in 8° obl. (C.A.T.B.). pag. 32,0). Ded. al Signor Gio. Battista Chiossa Gcntilhuomo
+4 fasc. in 8° obl. (C.A.T.B.). pag. 32,0). Ded. al Signor Gio. Battista Chiossa Gentilhuomo
 Genovese: " .le primitie de sudori e vigilie che da la mia fanciullezza nel impara: l'arte della
 musica ho soportaro... anchor che giovene e poco asperto (ric) nella Musica...".
 
 A 4. Non al suo amante più Diana piacque (Petrarca) Ì
-" " L'aer gravato e l'importuna nebbia " Z
+" " L'aer gravato e l'importuna nebbia " 2
 " " Valli profonde, al sol nemiche rupi, che'l ciel supcrbc (T ansillo) 3
 " " Deserti campi, inhabitati lidi, ove mai voce d'huom 4
 " " Giovane donna sott'un verde lauro viddi (Petrarca) 5
@@ -37,9 +37,9 @@ A 4. Non al suo amante più Diana piacque (Petrarca) Ì
 " " Chiaro segn'amor pos'a le mie rime (Petrarca) 3
 " " Fuggito è'l sonn'a le mie crude notti (seconda parte) " 9
 " " Dove, speranza mia, dov'hora sci? Vai tu soletta (Aſl05l0) I?
-" " Felici voi, che nella patria bella che'] ciel benîgno. Di Faya l
+" " Felici voi, che nella patria bella che'] ciel benîgno. Di Faya 1
 " " Quanto più v'am'ogn'hor più bella sete e quant'in voi. Di Aurelio La Faya %
-" " Aventuroso più d'altro terreno, ov'amor viddi (Petrarca) l4
+" " Aventuroso più d'altro terreno, ov'amor viddi (Petrarca) 14
 " " Nè tante volte ti vedrò giamai (seconda parte) " lì
 " " Quando fia mai quel giorno che vi possa narrar, o chiara stella 16
 " " Col scno pien di rose c de viole e d'altri vaghi et odorati fiori "
@@ -47,7 +47,7 @@ A 4. Non al suo amante più Diana piacque (Petrarca) Ì
 " " Aura gentil, ch'ai più cocenti ardnri del longo giorno 19
 " " S'amor è cieco, :\ che gli occhi mi porge per mirar il mio mal 7.0
 " " Pensai quinci da voi far già partita, signora mia 2]
-" " Occhi miei lassi, hora che giunti sete ove che'l vostro bene ' ZZ
+" " Occhi miei lassi, hora che giunti sete ove che'l vostro bene ' 22
 " " Madonna, il dissi et hor giurando'l dico (seconda parte)
 
 -636-

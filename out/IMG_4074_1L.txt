@@ -32,7 +32,7 @@ A 1. Canta, mi dice amore, hora ch'il tuo bel sol riposa e dorme 3
 " " Vivo sol di speranza e rimembrando (terza parte) " 7
 " " Non è sì duro cor che lacrimando (quarta parte) " 8
 " " Hor che a noi fa ritorno con nova luce il giorno. Aria " 9
-" " Hor che la vaga e rosseggiante aurora toglie dal ciel. Madrigale in eco ZO
+" " Hor che la vaga e rosseggiante aurora toglie dal ciel. Madrigale in eco 20
 " " Su, su, prendi la cetra, o pastore, meco canta d'amore. Aria 12
 " " 0 bel lauro, in te regna la gradita sembianza d'ogni forma 13
 " " Sul trono, ove seder solea l'orgoglio. Sonetto per Santa Isabella regina di Port " 14
@@ -41,12 +41,12 @@ A 1. Canta, mi dice amore, hora ch'il tuo bel sol riposa e dorme 3
 " " La notte, a la novella degli Himenei di Dori, uscì al mondo sì bella. Aria 19
 " " O angelico sembiante, di cui mi fece amor servo ed amante. Madrigale 20
 " " Se di Bianca il bel nome amor vi diede. Allude al nome di Bianca 21
-" " Un bcrgicr souspiroît ses paines. Aria francese ZZ
+" " Un bcrgicr souspiroît ses paines. Aria francese 22
 " " Fanciullo arciero, che troppo altiero vai spargendo. Aria. Ad instanza del sig, GFM 23
 " " Hor che Vittorio gode altro trofeo, fermate al gran guerriero. Al Principe Vittori;
 Amedeo di Savoia per il giorno di suo Natale 24
 " " Già, già sorge la notte e'] fosco manto va dispiegando intorno 25
-A 2. Chi ben haver dcsia, fugga la gelosia e fugga ancor li sdegni. Aria 26
+A 2. Chi ben haver desia, fugga la gelosia e fugga ancor li sdegni. Aria 26
 " " Qual vermiglietta rosa ne mattutini albori appar talhor 27
 " " Filli vezzosa, vaga, amorosa, più d'ogni stella lucente e bella 30
 

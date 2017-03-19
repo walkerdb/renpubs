@@ -9,7 +9,7 @@ A 5. Come il ſerir sia poco d'ardente fiamm'i cori (Marino) 3
 " " Troppo ben può questo tiranno amore, poi che non val fuggire (Guarini) 9
 " " Ornnsti, il reggio, :\ sì degn'opr'eletto fnbro gentil. Sonetto (Marino) 10
 " " Già del volto in se steeso :ispr'e selvaggio (seconda parte) " 11
-" " Poi che mori dicesti, ben mi fora il morir gioia infinita " lZ
+" " Poi che mori dicesti, ben mi fora il morir gioia infinita " 12
 " " lo parto, amati lumi. Rimirnte il dolor (le la partita (Rinuccini) 13
 " " Feritevi, ferite, \'iperette mordnci, dolci guerrer'ardite (Marino) 14
 " " Sonvissimi baci, baci non già, ma strali dolci si, ma mortali " 15
@@ -17,7 +17,7 @@ A 5. Come il ſerir sia poco d'ardente fiamm'i cori (Marino) 3
 " " Occhi miei, se quel sole che'n pianto vi disface (Marino) 17
 " " Lidia. ti lasso, ahi lasso, m;. in pegn'il cor ti lasso " 18
 " " Con la luce 'e col canto [att'emula del sol la bell'aurora 19
-" " Clori mia, Clori bella, Clori voi sola adoro, in voi vivo ZO
+" " Clori mia, Clori bella, Clori voi sola adoro, in voi vivo 20
 A 6. Mm'etcvi a pietà del mio tormento e dov'il piant'e'l sospirar 11
 l-Vlb: T.
 
@@ -39,8 +39,8 @@ dro Vincenti. 1622.
 
 . . - |
 
-A 5. Di marmo sicte voi, donna, m colpi d'amore (Magli? Z
-' l
+A 5. Di marmo sicte voi, donna, m colpi d'amore (Magli? 2
+' 1
 
 " " Non ti bastava, o cruda ( a 3
 " " Parto da te, ben mio 4

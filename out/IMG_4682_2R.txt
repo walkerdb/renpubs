@@ -5,11 +5,11 @@ A3. Appar novella dea, udite, amanti, udite 11
 " " Avida pecchia intenta, ch'al saggio 14
 " " Se fornace bollente, empia tiranna, intenerisce il ferro 15
 " " Di vista ton'o. amore. e scorucciato quasi 16
-" " Ahi perchè non volete ch'io vi rimiri et ami l7
+" " Ahi perchè non volete ch'io vi rimiri et ami 17
 " " Tese la pania amore fra le dorme chiomc 18
 " " Che nova porti. amore? Nuova porto di pena 19
-A 4. Ero così dicea ch'cm'l suo amor nell'acqua (Martinengo) ZU
-A3. S'io vi dico il mio mal e le mie pene. Di Lelio Ber/ani Zl
+A 4. Ero così dicea ch'cm'l suo amor nell'acqua (Martinengo) 20
+A3. S'io vi dico il mio mal e le mie pene. Di Lelio Ber/ani 21
 I-Bc: compl.
 
 A-Wn: compl.

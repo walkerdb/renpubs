@@ -7,7 +7,7 @@ A 3. Non te fidare de satiro che magnia 5
 " " Son morto c moro e pur cerco morire, nè per tanto morir 15
 " " Io piango et cll'il volto suo mi volta 17
 " " Amor pictad'hormai al mio martire 19
-" " Mcschina me, che nova la lancella nella fontana me. l'hanno spezzata Zl
+" " Mcschina me, che nova la lancella nella fontana me. l'hanno spezzata 21
 " " Tal par il visco, che, preso l'augiello, altri ha la sepe 23
 " " Donna crude], tu m'hai robat'il core e mai non manchi 25
 " " Canzona mia, farne no favore, \'atenc dritl'a la signora mia 27
@@ -17,7 +17,7 @@ A 3. Non te fidare de satiro che magnia 5
 " " Bona sera, como stai, core mio bello, da l'autro giorno 35
 " " Tu, traditora, m'hai post'a sto core no focolaro 37
 " " Se Dio ti guardc non mi far morire, dami la vita 39
-" " La manza mia si chiama saporita tantarara et io ci'ho fatto fare 4l
+" " La manza mia si chiama saporita tantarara et io ci'ho fatto fare 41
 " " Letra traitora, tu mi fai morire con socchi pinti 43
 D-LEm: C.
 
@@ -44,7 +44,7 @@ io havessi publicato queste mie villanelle in mia gioventù, nel qual tempo 10 l
 pubblicarle in questa età grave, nella quale io mi ritrovo... Munlc. ZO II 1581 ".
 
 2
-A 4. S'io ve dico ca sete la chiu bella _ Z
+A 4. S'io ve dico ca sete la chiu bella _ 2
 " " Ecco la nimph'Ebrayca chiamata, più brutt'aSsal . 3
 " " Ad altre le voci dare ste passate. che non che voglio 3
 " " Tutto lo di mi dici: canta, canta. Non vedi ca non posso refiatarc 4

@@ -1,7 +1,7 @@
 A l. I' moro di desio, Lilla, cor del cor mio 16
 
 " " " Bella aurora gentil, deh sorgi e porta 18
-" " S'io non spargo per voi questi ch'hor sì dolenti ZU
+" " S'io non spargo per voi questi ch'hor sì dolenti 20
 " " Lo stral, ch'avventa amor, temprato è nel dolor 22
 " " Sciocco e stolto rival, che godi del mio mal 24
 " " Fuggitivo, io t'ho pur colto, mentre sciolto 26
@@ -18,7 +18,7 @@ C " " Ardo, ma rivelar il mio rinchiuso ardor 38
 
 / " " Rasciugate per pietate quell'onde, che da voi piove '…
 
-T " " Ben sai tu ch'io t'adoro, bel idolo d'amore 42-
+T " " Ben sai tu ch'io t'adoro, bel idolo d'amore 42
 " " Io non bramo la vita, nè gradisco il morir 44
 " " Poichè a miei pianti neghi romper il giaccio 46
 " " Occhi miei tristi, Ohimè di voi che fia. Dialogo con gl'occhi 48
@@ -29,7 +29,7 @@ l " " Torna sereno, di gioia pieno, ridente il di 56
 " " Morìr lieto e contento, viver di vita spento. Aria 58
 A 1. Oh con quanta vaghezza, oh con quanta dolcezza. Cantata 61
 " " Se ben per prova il core (seconda parte) 51
-" " Giurai ben io di non volger (terza parte) 62-
+" " Giurai ben io di non volger (terza parte) 62
 " " Ah non doppiar le pene (quarta parte) 63
 " " Piangi pur, ella gode (quinta parte) 63
 " " Deh perdona al cor mio (sesta parte) 64
@@ -46,7 +46,7 @@ In Venetia, appresso Alessandro Vincenti. 1627. '
 
 Vol. in 8°, pag. 61. Ded. di Alessandro Vincenti a Giovanni Da Ponte, Venetia, 6 II 1627…
 
-Datemi pace, o duri miei pensieri, non vedete ch'amorc l
+Datemi pace, o duri miei pensieri, non vedete ch'amorc 1
 Perchè l'alba i chiari di non t'apprc 3
 Da grave incendio oppresso, chiamo soccorso 5
 Ben. m'aveggo, o bell'ing'rata, che non prezz'il mio servir 9

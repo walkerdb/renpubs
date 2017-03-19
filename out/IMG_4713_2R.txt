@@ -15,7 +15,7 @@ A 5. Faciam, cara mia File, un concento, una musica gentile 1
 " " Dolcemente dormia bella e vezzosa Clori in mezzo un prato 9
 " " Soglion l'antiche carte favoleggiar clt'Orfeo col canto …
 " " Fu già bandito amore per inganni e rapine da tutto il territorio 11
-" " Donna giovane e bella, prendi con giovanetto amante gioia lZ
+" " Donna giovane e bella, prendi con giovanetto amante gioia 12
 " " Un vostro sì m'avviva, un vostro no, alii lasso (Celiano) 13
 " " Venerande, sacrate, alme ruine, del barbarico orgoglio 14
 " " Man nemica v'oppresse, amico e divo spirto (seconda parte) 15
@@ -34,8 +34,8 @@ qui musicam, inquc eius exercitio lllustriss. Cels. tuae subjectissimum servum m
 
 Dresdae, 1° V 1589".
 
-A 4. Baci soavi e cari, cibi della mia vita, ch'hor m'involate (Guarini) l
-" " L'aura soave vita di mia vita, che così dolcemente (Cassola) Z
+A 4. Baci soavi e cari, cibi della mia vita, ch'hor m'involate (Guarini) 1
+" " L'aura soave vita di mia vita, che così dolcemente (Cassola) 2
 " " Lieto Phcbo del mar, più che l'usato, in sì fosca stagion 3
 A 5- Gli occhi sereni e le stellanti ciglia (Petrarca) 4
 " " Cosi leggiadre e belle donne germane 5

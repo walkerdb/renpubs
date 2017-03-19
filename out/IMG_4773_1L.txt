@@ -7,12 +7,12 @@ Ecco Filli, o pastori. Lungi volget'e gl'occh'e i cori da quel empia beltà (Pra
 Bionda chioma il cor mi tiene in prigion dolc'c gradita 24
 Ninfa gentil e bella, che vai cogliendo fiori e mille e mille cori 25
 Lidia, che del mio amor prese gioco e rise ogn'hor, piange, misera, e per chi? 26
-Un lampo amabile prigion mi fà, un cor instabile morte mi da Z7
-Udite s'a raggion cotanto dolgomi. Lidia nel penar mio più non consolami ZB
+Un lampo amabile prigion mi fà, un cor instabile morte mi da 27
+Udite s'a raggion cotanto dolgomi. Lidia nel penar mio più non consolami 28
 Anzi a chieder pietà s'a lei rivolgomi (seconda) 28
 E se per non languir tutto disciolgomi (terza) 29
 Lasso, ella m'odia et io mi rend'amabile (quarta) 30
-Così scnto nel cor piaga incurabile (quinta) 3l
+Così scnto nel cor piaga incurabile (quinta) 31
 Ahi non mi dann'aita e non mi scampano (sesta) 32
 Ardo, nol nicgo, e le scintill'avampano nel mio cor non gradite 33
 I-Bc
@@ -40,8 +40,8 @@ A Z. Fuggimi pur se sai, amica de miei guai. Z Soprani 0 T. :
 " " Tirsi languia sì forte d'amor che nel suo volto. Sospiro d'amorosa agonia.. B
 [Z Soprani o T- 24
 " " O Filli, queste voci estreme per estremo dolore 26
-" " Dillo tu, amore, a te il decider tocca. Dialogo. Amante e Amore Z]
-" " Vivo foco d'amor, tu m'abrug'il 'mio cor. Amante che s'abrugìa. A Z ZB
+" " Dillo tu, amore, a te il decider tocca. Dialogo. Amante e Amore 21
+" " Vivo foco d'amor, tu m'abrug'il 'mio cor. Amante che s'abrugìa. A Z 28
 " " Tra questi sassi. Lamento di Leandro pastore 28
 A l. Poi che io son solo e tu crude] (seconda parte) 28
 " " Ne faran fede (terza parte) E

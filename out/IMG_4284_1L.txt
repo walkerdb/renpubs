@@ -22,8 +22,8 @@ A 2. Questi rustici fiori colà nel Pinclco chiostro racolti. 2 C.
 " " T'offesi è vero, o mio gradito amore, ma non t'offes'il core. 2 C. 16
 A 3. Quel neo, quel vago neo, che fà d'aurate fila ombra vezzosa. 2 T. c B. 17
 " " Perchè sì dura pietra baci e ribaci in atto di pietà. 2 C. e B. 19
-" " Mi saluta costei, ma nel suave inchino nascond'a gl'occhi mici. A.T.B. ZO
-A 4. Suavissimi baci, baci non già ma strali, dolci sì ma mortali ZI
+" " Mi saluta costei, ma nel suave inchino nascond'a gl'occhi mici. A.T.B. 20
+A 4. Suavissimi baci, baci non già ma strali, dolci sì ma mortali 21
 " " Senti senti, o mio core, quel leggiadretto fiore 23
 " " lo more, ecco ch'io mom, bella nemica mia t'ofiesi assai (Marina) 24
 A 5. Hai cangiato, mio sole, purpurce vesti in un lugubre ammanto 26
@@ -44,7 +44,7 @@ tista Robletti. 1628. Con licenza de' Superiori.
 Vol. in 4°, pag. 24.0). Ded., Roma, 15 I 1628.
 
 A ]. Sc'l cor non ho, com'esser può ch'io viva e se non vivo ;
-" " Amore, il mio torment'e la mia fede con che guerra mi ſà Z
+" " Amore, il mio torment'e la mia fede con che guerra mi ſà 2
 " " Mostr'indarno il mio male a chi nol vede (seconda parte) 3
 " " Costei d'ira si pasce, io di martire (terza parte) 3
 " " Trionfi ella d'amore, io trionfante esser (quarta parte)

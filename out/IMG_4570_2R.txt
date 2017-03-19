@@ -7,7 +7,7 @@ A 1. Chi consola i miei pianti, chi mi toglie l'angoscie. Cantala 4
 " " Ma lasso ahi poco (sesta parle) 7
 " " Non posso più soffrire, ahimè, lanto martire. Canzoneua 9
 " " Amami, amor mi fere. Soccorrelcmi, aila. Aricua HI
-" " Troppo è tiranno amore (seconda parle) lZ
+" " Troppo è tiranno amore (seconda parle) 12
 " " Tiranno è amor (terza parle) 13
 " " Dello è di paradiso (quarta parle) 14
 " " Ma oliimè che langue (quinla pane) 15
@@ -43,7 +43,7 @@ GIO. Pellegrino Palmieri. ln Venetia, appresso Alessandro Vincenti 1623.
 
 Vol. in 8°, pag. 61,(l). Ded., Venetia, 15 XII 1622.
 
-A 1. Alla gloria, a gl'honori, correte pastorelli Z
+A 1. Alla gloria, a gl'honori, correte pastorelli 2
 " " Se pleladc in le non trovi, bella c fera, s'al mio pianlo 4
 " " Qunnd'io vissi il tuo diletto, lu vivesti il mio desio 6
 

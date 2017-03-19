@@ -1,5 +1,5 @@
 Amor, io son contento che tu mi dia tormento. anolitana 20
-Già non mi dnglio, amore, d'hzn'cr perduto il core. Napolitana Z]
+Già non mi dnglio, amore, d'hzn'cr perduto il core. Napolitana 21
 
 l-Vnm: C.A.T.5.
 GB-Lbm : 5.
@@ -31,8 +31,8 @@ A 4. Ecco l'aurora; hor che facciam, pastori? ogn'un s'indrizzi (Quirino) 13
 " " Quando nel chiaro spcglio tal'hor me stessa io miro 17
 " " Mal cambio par che sia questo, che fò con voi, anima mia 18
 " " Nova bella d'amor con dulce canto l'alma mi pres'e con soave stile 19
-" " Spargete, ninfe, e voi saggi pastori, gigli, iacinti, mirti ZO
-" " Ogn'un si guardi di seguire amore e pensi di fugir ZI
+" " Spargete, ninfe, e voi saggi pastori, gigli, iacinti, mirti 20
+" " Ogn'un si guardi di seguire amore e pensi di fugir 21
 " " Fioriti e verdi colli, che nel sen custodite E
 " " La ninfa mia non è più ria, ogn'hor m'abbraccia B
 " " 0 noi miseri amanti, che solo ci pascem di doglie e pianti 24
@@ -44,8 +44,8 @@ A 5. Godi, godi (ben mio) l'amoroso desio, poi che ci è dato in sorte z
 " " Crudel, vaga mia Flora, d'ogni fior più gradita
 
 Dialogo con la proposta solo, e la risposta a 4 con la replica de l'ultimo verso a 5 31
-A 1. Deh ditemi, pastori, sc vedcsti'l mio sol vago ed adorno? Proposta solo 3l
-A 4. Tu scherzi, ninfa, e chi non vede il sole? Risposta 3]
+A 1. Deh ditemi, pastori, sc vedesti'l mio sol vago ed adorno? Proposta solo 31
+A 4. Tu scherzi, ninfa, e chi non vede il sole? Risposta 31
 
 A 5. Hor cade e more pallido e langucnte. Replica
 

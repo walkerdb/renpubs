@@ -18,12 +18,12 @@ A l. Del gelido oceano nel più deserto scoglio, o sventurata Dania " 13
 " " O degl'eroi nutrice, compagna de gli dei, Gloria felice. Diletto " 15
 " " E tanto e tanto audaci s'ascoltano in tal giorno. Gloria " 16
 " " Troppo ah supcrba Gloria. alt troppo eccedi. Diletto " Ztl
-" " Non sentirai ch'io biasmi festivi applausi intorno. Gloria " Zl
-A 3. Non sorge in un momento da sotterranei fonti il Nil. Primo clioro " ZZ
+" " Non sentirai ch'io biasmi festivi applausi intorno. Gloria " 21
+A 3. Non sorge in un momento da sotterranei fonti il Nil. Primo clioro " 22
 " " Non può dalle conchiglie dentro a giardin fiorito. Secondo choro " 24
-" " Ohimè dall'Alpi aperte che diluvio di sangue. Coro primo " ZS
+" " Ohimè dall'Alpi aperte che diluvio di sangue. Coro primo " 25
 " " Ohìmè quasi sommerse scismatica impietà di stigio sdegno. Secondo " 26
-A 5. Queste famose glorie a voi, sposi felici, ncll'orecchia c nel cuore " ZB
+A 5. Queste famose glorie a voi, sposi felici, ncll'orecchia c nel cuore " 28
 A 3. Sinfonia prima (32)
 " " Sinfonia seconda (32)
 F-Pthibault (prov. Landau)
@@ -43,7 +43,7 @@ Lo Stampatore à Lettori: " Con questa occasione, che il signor Cavalier Stradel
 far istampar da me questa raccolta de Madrigali del sig. Gio. Girolamo Kapsperger... ". Sonetto
 di Francesco Zazzera all'Autore.
 
-Filli, cor del mio core, hor che non è tra noi chi n'oda (Marino) ]
+Filli, cor del mio core, hor che non è tra noi chi n'oda (Marino) 1
 
 S'amor fuss'egli morto, la gioia incenerita (seconda parte) " 2
 

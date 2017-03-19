@@ -1,7 +1,7 @@
 Ah Clori, anima mia, è pur tuo questo core che per le langue 10
 
 Stollo mio core, ove sì lieto vai? Ma tosto a me piangendo tornerai (Della Casa) 11
-Viver voglio fedele specchio di fedellade, voglio amante morir lZ
+Viver voglio fedele specchio di fedellade, voglio amante morir 12
 Riede la primavera, torna la bella Clori, odi la rondinella (Marino) 13
 Pallidetto mio sole, ai tuoi dolci pallori perde l'alba vermiglia " ]4
 Ecco l'amata e cara luce del mio bel sol, che dentro al core 15
@@ -45,7 +45,7 @@ A 3. O bella e vaga Flora, voi sapete ancora come ogn'un che vi mira 7
 A Z. All'ombra, alla fonte corri, o bella Licori, vedi come la fronte 9
 A 3. Poi ch'attendi ogn'hor bramosa, cara Filli, al mio morire 10
 A 2. Lascivette pastorelle, che scorrendo i campi intorno 11
-n " Vedete la mia luce, vedete il mio bel sole come in mezzo a lo sdegno lZ
+n " Vedete la mia luce, vedete il mio bel sole come in mezzo a lo sdegno 12
 
 A 3. Se per voi s'arde e si more, Filli ingrata, questa vita e .questo core 13
 A 1. Che farò, donna ingrata? Ti seguirò costante del tuo rigor

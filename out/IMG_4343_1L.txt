@@ -1,4 +1,4 @@
-A 1. O bella destra, che'l soavc pegno (Tasso) ZS
+A 1. O bella destra, che'l soavc pegno (Tasso) 25
 
 " " Com'è soave cosa tanto gocler quant'ami (Guarini) 26
 " " lo veggio pur pietacle, ancor che tardi, nell'indurato core " 27
@@ -14,8 +14,8 @@ appresso Alcssandro Vincenti 1621.
 
 \ſ'ol. in 4°, pag. 33,(1). Ded. al, Conte Federico Rovi di San Secondo etc., Venetia, 13 X1 lal.
 
-A l. Piansi c cantai lo stratio e l'aspra guerra. Parole del Cardinal Bembo ]
-" " Quell'infedelc lingua, ch'in gioco prende. Parole di Cesare Querini l
+A l. Piansi c cantai lo stratio e l'aspra guerra. Parole del Cardinal Bembo 1
+" " Quell'infedelc lingua, ch'in gioco prende. Parole di Cesare Querini 1
 " " Mentre che'l cor da gli amarmi vermi. Parole del Petrarca 3
 " " Tu mi lasci, o cruda. o bella. Oh dove vai. Parole del Bonarda 5
 " " Odi quel rosignolo, che dolcemente canta. Canto di rosignolo. Parole d'incerto 6
@@ -26,7 +26,7 @@ A l. Piansi c cantai lo stratio e l'aspra guerra. Parole del Cardinal Bembo ]
 n " Poco quindi lontan nel sen del monte (seconda parte) 16
 " " Non morì già che sue virtudi accolse (terza parte) . 17
 " " Torna dunque, deh torna, dolce vaghezza mia. Lettera amorosa del Cavalier Marini 13
-" " Voglio il mio duol scoprir. Languite al mio languir. Parole del Ferranti ZZ
+" " Voglio il mio duol scoprir. Languite al mio languir. Parole del Ferranti 22
 " " Pallidetla qual viola è la bella antorclla. Parole del Ferranti B-
 " " Che stringo? Ah dove sono et in qual parte? L'Apollo. Parole dell'autore 24
 " " Ma lasso ohimè che chieggio (seconda parte) 25

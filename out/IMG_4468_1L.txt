@@ -3,9 +3,9 @@ A 1. Ecco, mi date aita al mio dolore. Amante ferito
 " " Chi non mi conosce dirà che la mia
 
 Z
-" " Talvolt'amor fiero mi lega la lingua Z
+" " Talvolt'amor fiero mi lega la lingua 2
 " " Talvolta mi burlo di chi mi ha ferito 2
-A 2. A pover'impiagati, donne, deh per pietaate Z
+A 2. A pover'impiagati, donne, deh per pietaate 2
 " " Un infermo d'amor dimanda aita. Amante pazzo 4
 A 1. Amor, sempr'ho da striderc 4
 " " O dotti medici, fate un collegio 6
@@ -23,8 +23,8 @@ A 1. Son le sfere per amore pazz'e giran con furore "
 " " Pazzo è amor, pazzo è ogni amante 16
 A Z. Agli amanti falliti, donne, deh per pietate 16
 " " Dov'è l'hospedalicre? Io sono qui. Amante ardito "
-" " Agl'lcari volanti, donnc, deh per pietate ZB
-" " Chi riceve gl'infermi. o voi dell'hospedale. Amante geloso ZZ
+" " Agl'lcari volanti, donnc, deh per pietate 28
+" " Chi riceve gl'infermi. o voi dell'hospedale. Amante geloso 22
 A 4. Su, su, contro costei mostra il valore 21
 A ]. Serenissimo è'l ciel di sua bellezza 32
 

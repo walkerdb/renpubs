@@ -10,10 +10,10 @@ A ]. Crudel, così dileggi il mio tormento
 " " O miei pensieri, crudi guerrieri, tarli mordaci 17
 " " Fugge il verno de' dolori. Primavera clcgl'amori (Chiabrera) 13
 " " Udite, lacrimosi spirti d'Averno, nova sorte di pene (Guarini) 19
-" " Su, su, vaghi augelletti, che se ne vien l'aurora ZO
-" " Bocca amorosa, perché ritrosa ohimè mi privi di quei furtivi Z]
-" " Fugge la notte ne le sue grotte. Ecco l'aurora ch'i poli indora Z]
-" " Circe crudele, maga amorosa, donna infedele ZZ
+" " Su, su, vaghi augelletti, che se ne vien l'aurora 20
+" " Bocca amorosa, perché ritrosa ohimè mi privi di quei furtivi 21
+" " Fugge la notte ne le sue grotte. Ecco l'aurora ch'i poli indora 21
+" " Circe crudele, maga amorosa, donna infedele 22
 " " Donna, sio' miro in mesto giro il tuo candore 23
 " " Come vivi, cor mio, hormai che tu sei privo del bel 24
 " " Alma aﬄitta che fai? chi ti darà più vita se colei per cui (Marino) 25

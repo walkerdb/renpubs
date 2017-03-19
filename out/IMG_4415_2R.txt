@@ -1,7 +1,7 @@
 A 8. Gabrieli Andrea - Ricercar per sonar 70
 .. " Gabrieli Giovanni - Lieto godea sedendo l'aura che tremolando. Per cantar et sonar 71
 
-A 10. Gabrieli Andrea - Del gran tuonante la sorella e moglie 7Z
+A 10. Gabrieli Andrea - Del gran tuonante la sorella e moglie 72
 " " " " - Quei, vinto dal furor. tutto s'asconde (seconda parte) 73
 " " Gabrieli Giovanni - A dio, dolce mia vita. Dialogo 74
 A 12. Gabrieli Andrea - Ecco Vincgia bella 75
@@ -47,7 +47,7 @@ posto in luce. In Venetia appresso Angelo Gardano. 1589.
 dell'Essente Chiesa Bambergensc, Venetia. 24 IX 1589.
 
 Andrea Gabrieli -Tirsi vicino a morte, languendo si giacca 1
-" " - Mentre la greggia crrando pascca Z
+" " - Mentre la greggia crrando pascca 2
 " " - Voi sete in grand'errore. donna. a pensar 3
 " " - Sc mai dcgnasti. amore, di baciar al mio ben 4
 " " - Cor mio, se gl'è pur vero che del mio ma] 5

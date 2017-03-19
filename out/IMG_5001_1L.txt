@@ -6,7 +6,7 @@ A 2. Come sian dolorose, lungi da voi, del viver mio le tempre (Guarini) 13
 " " Se tu vuoi ch'io resti involto ne bei lacci ond'io fui colto 17
 " " T'amo, mia vita, la mia cara vita dolcemente mi dice (Guarini) 19
 A ]. Caro un tempo ti fui, dolce mio bene, et a? grave penar mercè 21
-A 6. Bella dea, che tra le selve fiere belve saettando. Serenata ZZ
+A 6. Bella dea, che tra le selve fiere belve saettando. Serenata 22
 A 5. Sinfona (ric) 21
 A 6. Se pur è ver che la città del pianto c le [une c le fiere 26
 
@@ -43,8 +43,8 @@ A 1. lo vo piangendo i mici passati tempi i quai posi (Petrarca) î
 " " lmmensa fiamma di pudico amore tragge dt bei vostr'occhi ll petto mio 19
 " " Bramo quel che bramar concede honore (seconda parte) 20
 " " Ciò ch'in me ſorse è di volgare (terza parte) 21
-" " Ma s'ugualc a l'oprar va la mercedc (quarta parte) ZZ
-" " Da poi ch'i sospir miei con sparsi al vento. Romanesca ZZ
+" " Ma s'ugualc a l'oprar va la mercedc (quarta parte) 22
+" " Da poi ch'i sospir miei con sparsi al vento. Romanesca 22
 " " Mi viverò ne l'aspro mio tormento (seconda parte) B
 " " Poi che quando d'amor io mi lamento (terza parte)
 

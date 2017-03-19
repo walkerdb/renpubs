@@ -12,7 +12,7 @@ A l. [' vo piangendo i miei passati tempi (Petrarca) 3
 " " Dite, che v'ho fatt'io, fallaci mie speranze 9
 " " Vivo, ahi lasso, o pur moro 10
 " " Sparsa d'immorlal luce, eccelsa fede 1]
-" " O come invan credei passar l'hore screne lZ
+" " O come invan credei passar l'hore screne 12
 A Z. T'inaspri :| miei lamenti 13
 A 1. Ancora il re nasce piangendo in terra 14
 " " Infausta a gl'occhi suoi sorge l'aurora 14
@@ -27,7 +27,7 @@ A l. Il cor nel volto rida e gioiscasi 19
 A Z. Veri diletti qua giù non regnano 19
 A 1. Pietà di chi sì more, o celcste mio sole 20
 " " Popol diletto mio. dimmi che t'ho fatt'io 11
-" " Voi, che dietro a fallaci e cieche scorte (Marino) ZZ
+" " Voi, che dietro a fallaci e cieche scorte (Marino) 22
 A 2. Perchè pietà si neghi al mio lungo martire 24
 
 I-Bc

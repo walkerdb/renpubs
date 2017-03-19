@@ -6,7 +6,7 @@ A 5. Volgi'l tuo corso alla tua riva manca
 " " Ma poi che voslr'allezza (seconda parte) 9
 " " lo mi rivolgo indietro a ciascun passo. Di Gio. Narco (Petrarca) 10
 " " Talhor m'assale in mezo a tristi pianti (seconda parte) " 11
-" " Di virtù, di costumi, di valore, d'honestà singular e leggiadria lZ
+" " Di virtù, di costumi, di valore, d'honestà singular e leggiadria 12
 " " Così'l mio stile qual se la sua (seconda parte) 13
 " " ln suo ruscicll'amato. Di Gio. Narco H
 " " Che giova saettar un che si more. Di Alberti (Ariosto) 15
@@ -15,8 +15,8 @@ A 5. Volgi'l tuo corso alla tua riva manca
 " " Amor l'arco e la rete indarno. Di Sum/n'a 18
 " " Dal gran pastor idea vista e rapita. Di Confina 19
 " " Discnlorato hai morte il più bel volto. Di Pietro Tag/ia (Petrarca) 20
-" " Ben torna a consolar tanto dolore (seconda parte) " Zl
-" " Amor, io son si lieto quando stretto. Di Donato (Cassola) ZZ
+" " Ben torna a consolar tanto dolore (seconda parte) " 21
+" " Amor, io son si lieto quando stretto. Di Donato (Cassola) 22
 " " Quanto più a l'alma speme cresce. Di Port/naro B
 " " Se ben il duo] che per voi, donna, sento 24
 " " Ben voi a più di mille (seconda parte) 25
@@ -47,7 +47,7 @@ corretti. In Vinegia, appresso Girolamo Scotto. 1562.
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 23,(l).
 
 Da quci bci lumi, ond'io sempre sospiro ;
-Hor che l'aria et la terra per natural destino Z
+Hor che l'aria et la terra per natural destino 2
 Sol nel mio petto ogn'hor (seconda parte) 3
 Quel sempr'acerbo et honorato giorno (Petrarca) 3
 L'atto d'ogni gentil pictate adorno (seconda parte) " _ $

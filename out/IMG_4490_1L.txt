@@ -8,12 +8,12 @@ A l e Bc. Dilataverunt super me
 " " " " In quo corriget adolescentior ]4
 " " " " Cognovi Domine quia equitas iudicia lun 15
 " " " " Quomodo dilexi legem tuam 16
-" " " " Erravi Domine erravi sicut ovis l7
+" " " " Erravi Domine erravi sicut ovis 17
 " " " " Laetatus sum in his quae dicta sunt 18
 " " " " Dc profundis clamavi 19
-" " " " Confilebor tibi Domine ZO
-" " " " Proba me Deus Zl
-" " " " Memor fui dierum ZZ
+" " " " Confilebor tibi Domine 20
+" " " " Proba me Deus 21
+" " " " Memor fui dierum 22
 Airs italiens
 " " " " Se la doglia e'] martire non può farmi morire (Marino) 24
 " " " " Sospir, che dal bel petto di madonn'esci fuore " 25

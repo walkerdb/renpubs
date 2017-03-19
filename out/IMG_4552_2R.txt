@@ -5,15 +5,15 @@ O dolce servitù, dolce tormento, 0 dolci lacci mici (Cassola) 4
 Vechiarella ch'è impazzita
 Biondo è il crin (seconda stanza) 10
 Pietose, discrcte, o donne, piangete per me Il
-Qual hor parla (seconda stanza) l3
+Qual hor parla (seconda stanza) 13
 Sc geloso vien rabioso (terza stanza) 14
 Se mai la mia fortuna m'inamorassc un di lo dico 15
 L'orgoglio feminile (seconda stanza) 18
-Maledetta la corte e chi vi sta in dura servitù Zl
+Maledetta la corte e chi vi sta in dura servitù 21
 S'cgli è paggio sbarbato (seconda stanza) 22
 E' pazzia di donna bella in sen la gelosia 25
 Sc 'l suo vago (seconda stanza) 28
-Piangete a miei martiri, ombre nere d'abisso 3l
+Piangete a miei martiri, ombre nere d'abisso 31
 Fuggi pur. o crudele. Lascia in preda al dolor questo misero 35
 Quanti tormenti amore vi dà, poveri amanti 39
 Datevi pace, amorosi pensieri. Che volete ch'io speri 44
@@ -29,7 +29,7 @@ Scotum. 1543. '
 
 4 fase. n. 8° obl. (C.A.T.B.), c. 15.
 
-Da duo bei lumi scorgo quanta dolcezz'amor mi porge Z
+Da duo bei lumi scorgo quanta dolcezz'amor mi porge 2
 Somma beltà infinita è cagion vera di miei aﬄitti pianti 2
 Non al suo amante più Diana piacque (Petrarca) 3
 Più ch'humana beltà ch'in voi risplende, madonna 3

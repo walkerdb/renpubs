@@ -25,7 +25,7 @@ A 3. Parte veloce un serafin dal cielo 14
 " " Mira più che non getta (quinta parte) 19
 " " Corri dunque 0 Maria (sesta parte) 20
 A 4. All'hor ch'in terra nacque 22
-" " Felice terra ch'ogni ben serra (seconda parte) ZZ
+" " Felice terra ch'ogni ben serra (seconda parte) 22
 " " E i semplici pastori (terza parte) 23
 " " E i magi incontinente (quarta parte) 24
 " " Divino agnello semplice e bcllo (quinta parte) 25

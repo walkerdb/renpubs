@@ -1,7 +1,7 @@
 A6. Quando \'cdc'l pastor calar i raggi del gran pianeta ll!
 
 " " Voglia mi sprona, amor mi guid'e scorge (Pclrarca) 11
-" " Là ver l'aurora, che sì dolce l'aura " lZ
+" " Là ver l'aurora, che sì dolce l'aura " 12
 "" Che fai, che pensi. che pur dietro guardi " 13
 " " Amor, io fallo e reggio"! mio fallire " 14
 " " Però s'ollra suo stile ella s'avvenla (>e-conda parle) " 15
@@ -11,8 +11,8 @@ A6. Quando \'cdc'l pastor calar i raggi del gran pianeta ll!
 " " La voce del mio cor pel l'aria (seconda pane) 18
 " " S'ogni mio ben havele raccolto in le ro>ale \'oslre labbia 19
 " n Quasi improvisa, (lesiata e chiara luce 20
-n " Fortuna, alala il piè, calva la testa, cl con un crin Zl
-A 5. L'aria s'oscura e di minule .slelle già diping'il ciel. Serenata ZZ
+n " Fortuna, alala il piè, calva la testa, cl con un crin 21
+A 5. L'aria s'oscura e di minule .slelle già diping'il ciel. Serenata 22
 " " Ma tu. per darm'al cor maggior tormento (seconda parle) B
 A 6. Apri homai l'wcio mia gemil signora (terza parte) 24
 " " Ohimè ch'io spasmo. apri la porla (quarta parte) 26

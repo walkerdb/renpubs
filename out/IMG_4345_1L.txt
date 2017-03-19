@@ -2,7 +2,7 @@ A 3. O di Pindo almo cantore, che famoso 9
 
 " " Chiari lumi del ciel, lucenti stelle 10
 " " A gli amori, a gli amori. o ninfe belle ]]
-" " Gite al ciel del mio amor, \mpiri ardenti lZ
+" " Gite al ciel del mio amor, \mpiri ardenti 12
 " " O del fertil terreno almo cantore (>e-conda parte} 13
 " " Dove fuggi, crude], (love t'ascnndi 14
 " " 0 de l'Alpi alteri numi chiari. La Dora fiume ai Sercniss. di Savoia 15
@@ -13,9 +13,9 @@ A4. Frondi e fiori nm'elli, freschi e puri. ] mille fiori. giardino deliciosissi
 " " Hor chi fia, che sdcgni c nieglii 17
 " " 0 de numi altero nume. prendi 18
 " " Belle dive. ai suoni, ai canti 19
-" " Qui fra l'herbette e i fior lieti pastori ZO
+" " Qui fra l'herbette e i fior lieti pastori 20
 A 5. 0 de più ſertil colli, alma fenice. La Margherita 11
-" " O reggia e bella schiera, freggio (Seconda parle) ZZ
+" " O reggia e bella schiera, freggio (Seconda parle) 22
 " " O gioia de mortali. amor che'l ciel imperi B
 
 I-Bc: C.l", C.Z°.
@@ -48,9 +48,9 @@ Clorida. i bei vostr'occhi, donde par che dolcezza ogn'ora ascondi 16
 Da tue guancie, ben mio, di rose, gigli sorge un dolce rio 17
 Non mi duo] di morire, Clori, per acquietar vostro desire 18
 Filli s'i bei vostr'occhi io vi rimiro, m'ardo di dentro . 19
-Dolce mia vita, beltà infinita, perchè m'uccidi. poi te ne ridi ZO
-Donna, tuoi dolci accenti mi dann'a l'alma mill'aspri tormenti _ Zl
-Aprim'il cor, mia vita, che te vedrai di natural scolpita. Don Fabio MMM!" ZZ
+Dolce mia vita, beltà infinita, perchè m'uccidi. poi te ne ridi 20
+Donna, tuoi dolci accenti mi dann'a l'alma mill'aspri tormenti _ 21
+Aprim'il cor, mia vita, che te vedrai di natural scolpita. Don Fabio MMM!" 22
 O Franceschina, o signorina, o padroncina la li la la " " " B
 Più che mai vaga e bella, la mia lucente stella sen gia cantando " " " 24
 )) ))

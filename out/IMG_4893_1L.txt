@@ -8,7 +8,7 @@ A 1. Dell mira, 0 Filli 75
 " " Se credete ch'io Sl
 " " Con un dolente ohimè Tirsi 81
 " " Raccogl'in giro quei vaghi e belli 3-3
-" " Bella Fillidc mia, mentre cantando il tuo bel nome udta M
+" " Bella Fillidc mia, mentre cantando il tuo bel nome udta 14
 " " Vanne, Dori 85
 " " Più dolce il guardo ver me non gira 36
 " " Non si rida del mio stato chi non sa d'amor (Valentini) 87
@@ -22,7 +22,7 @@ A 1. Dell mira, 0 Filli 75
 A l. Al fonte, al prato, al bosco (Chiabrera) 95
 " " Voi partite, mio sole, e porta il vostro lume altrove 96
 
-Un esempl. compl. esisteva nella Bibl. priv. Chilesotti di Bassano, manc. delle pag. 39. 40. 45: M
+Un esempl. compl. esisteva nella Bibl. priv. Chilesotti di Bassano, manc. delle pag. 39. 40. 45: 14
 
 2616 _ (De) SEYVE Erasmus (1614) _ Melodia spirituale a tre voci, di Erasnto
 De Seyve. Autante di camera de l'imperatore Matthia. Novamente stampata, m
@@ -30,8 +30,8 @@ Norimberga appresso Abrahamo Wagemanno, 1614.
 
 3 fase. in 8°, pag. lB.(l). Ded. a Ferdinando, Arcivescovo et Elettore di Colonia, Vicna, 3 I 16H-
 
-Almc, ch'ornundo il cielo e la terra, rendesti il mortal velo ]
-Alme del Redentor Z
+Almc, ch'ornundo il cielo e la terra, rendesti il mortal velo 1
+Alme del Redentor 2
 Correte o santi 3
 Certo ch'un giorno da st'aﬄitto core 4
 Dì peccator perchè. Dialogo S
@@ -43,7 +43,7 @@ Lo spirto afﬂitto e stanco prima farà dal corpo dipartita ]:
 Lasso per le mie colpe "
 Mentre in gratia di Dio felice io stava come cigno cantava 12
 Madre divina 13
-0 angiol benedetto M
+0 angiol benedetto 14
 Oscura nube di 15
 O alma, che farai quand'all'estremo punto ti vedrai? 16
 Quando il di del Giuditio mi rammento 17

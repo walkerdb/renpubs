@@ -2,8 +2,8 @@ A 4. Se la speranza all'hor mi manlenea 9
 
 " " Da la bell'aria del bel vostro viso, dal folgorar (le vostr'occhi 10
 " " Donna, s'io vi son longe, doglia e martir mi punge, e s'io vi son d'appresso ]]
-" " Qual salamandra in mezo al foco vivo lZ
-" " Care lagrime mie, poichè voi non potete far molle l3
+" " Qual salamandra in mezo al foco vivo 12
+" " Care lagrime mie, poichè voi non potete far molle 13
 " " Se del mio lagrimare hai fatt'amor, un mare 14
 " " Se nel regno del ciel potcss'io gire 15
 A 8. Mi parto, ahi sorte ria, e'l cor vi lascio 16
@@ -21,10 +21,10 @@ Gardano. 1599.
 
 4 [asc. in 8° (C.A.T.B.), pag. 20. Ded., Salò, 20 I 1599.
 
-A 4. Rise di me e d'amore Filli, mentre fui cieco c scnza core l
-" " Gli animati rubini premea, baciand'alla sua bella Clori Damon fra vaghi l
+A 4. Rise di me e d'amore Filli, mentre fui cieco c scnza core 1
+" " Gli animati rubini premea, baciand'alla sua bella Clori Damon fra vaghi 1
 " " Baci, sospir e voci allernavan due bocche insiem'unile (Casone) "
-" " Se tall'hor la mia bella e vaga Clori s'adorn'il scn di fiori l
+" " Se tall'hor la mia bella e vaga Clori s'adorn'il scn di fiori 1
 " " Barbarina gentile, che con barbari strali fai nel pett'a ciascun. Madrigaleuo 5
 " " Caro albergo d'amore, chi di voi meglio può legar un core (Ccliaſm) 6
 " " E chi può far di foco meglio di voi (seconda parle) " 7

@@ -4,16 +4,16 @@ A3… Poi che'] so] "a nel mare, Clori, non mi far più lasso penare 7
 " " Non passo mai vicino a questo fonte, ch'io non dica piangendo 9
 " " La vaga tortorclla, che presa diedi alla mia pastorella 10
 "" Pascete. o mi capretti, i vaghi colli. Io starò assiso 11
-" " Chi lia mai più che riverisca, o brami, d'Arcadia i lid'e fontane lZ
+" " Chi lia mai più che riverisca, o brami, d'Arcadia i lid'e fontane 12
 " " So quanto già cantai per le tue rive e quanto piansi 13
 " " Son stanco, ahi lasso, et già vicina è l'hora che Nisa 14
 " " Ratto fugge il tuo cervo, o bella Lia, calla quel monte e beve 15
 " " Se mai ti punsc amore per la tua ninfa bella, deh dimmi 16
 " " Tirrena mia, più candida che latte, per guiderdon de l'amorosc some 17
 " " Era turbato il cielo et ogni rom e vaga pastorella crrando gia 18
-" " Vicino ad ogni pianta sento cantar il nome d'Amaranta ZO
-" " Ecco l'amato nido, ove siede Cupido. Flamilla in questo giace Zl
-" " Udite, fior felici, herbc gioconde, che già fost'al suo crin ZZ
+" " Vicino ad ogni pianta sento cantar il nome d'Amaranta 20
+" " Ecco l'amato nido, ove siede Cupido. Flamilla in questo giace 21
+" " Udite, fior felici, herbc gioconde, che già fost'al suo crin 22
 " " Hai cantato, pastor, per questa valle, hor piangi mò con dolorosi 24
 " " Solo ha ragion Polindo, che con l'arco e'] mio strale 25
 " " Più dc ligustri bianca e della neve, più de le rose malutine 26
@@ -54,5 +54,5 @@ Sta bcnedett'amor, l'arco e la frezza 20
 
 me parto da voi collo 21
 
-SU Vlselti dc veluo sin de sforza ZZ
+SU Vlselti dc veluo sin de sforza 22
 

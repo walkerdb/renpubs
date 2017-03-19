@@ -4,7 +4,7 @@ A 3. Spelonche, i vostri horrori dimandino al aile-mio 17
 " " Sparso di pianto da begl'occhi un mare, all'estinta Dorilla 20
 " n Prendi. Dorilla, prendi questi del tuo morir (seconda parte) H
 " !) Su, su. donna guerriera, a l'erirmi. Son contento morirmi 11
-A 2. Silenlio amico e taciturni \'enti ZS
+A 2. Silenlio amico e taciturni \'enti 25
 
 I-Bal: compl.
 I-Bc: compl.
@@ -15,8 +15,8 @@ ristampati. In Venetia appresso Ricciardo Amadino. 1612.
 
 5 fase. in 8°: C. pag. 21.(1); A. pag. 20,(1); T. pag. Zl.(1); B. pag. ZZ,(l); 5. pag. 16,(l).
 
-A 5. Crudelissimi baci, ahimè non \"accorgete che sotto'l dulce vostro l
-" " Amalemi, ben mio, perchè sdegna il mio core ogn'altro cibo Z
+A 5. Crudelissimi baci, ahimè non \"accorgete che sotto'l dulce vostro 1
+" " Amalemi, ben mio, perchè sdegna il mio core ogn'altro cibo 2
 " " Ardo non più di sdegno e nel cor sento addolcirsi l'ardore (Guarini) 3
 " " Ardn, mia \'ita. anCor com'io solia e sento a poco a poco " 4
 " " Cor mio, deh non piagnete. ch'io non pr…"altro mal " 6

@@ -6,8 +6,8 @@
 " " L'aura, le selve et le campagne apriche rimnar l/
 " " Altro non è Ianguir ch'odiar sc stesso 18
 " " Qual sarà mai si miscrabil pianto, che paregg'il dolor 19
-" " Vivo mio ghiaccio et colorita neve. gelato marmo ZU
-"" Da duo occhi lucenti amorosa ſavilla al cor mi Scende Z|
+" " Vivo mio ghiaccio et colorita neve. gelato marmo 20
+"" Da duo occhi lucenti amorosa ſavilla al cor mi Scende 21
 " " Canlai un tempo et se fu dolce il canto (Bembo) 22
 A 6. Piama beata, che già fosti (legna posscdcr (l'un tal (lio Lì
 " " Fiamm'amorosn et bella. che da begli occhi (Nat'ugero) 24
@@ -15,7 +15,7 @@ A 6. Piama beata, che già fosti (legna posscdcr (l'un tal (lio Lì
 " " Scalda, signor, il mio gelato cuore et rompi'l marmo 26
 " " Tu sempre mi consola et quella ("econcla parle) 27
 " " [' vidi in terra angelici costumi (Petrarca) 28
-" " Amor, zenno, valor. piclale (seconda parte) " Z9
+" " Amor, zenno, valor. piclale (seconda parte) " 29
 " " Non è, lasso. martire il convenir per voi, donna. morire (Spira) 30
 A 7. Liete e pensose, accompagnate e sole. Dialogo (Petrarca) 31
 " " Che lai. alma, che pensi.> l-lat'rem mai pace? Dialogo " 32

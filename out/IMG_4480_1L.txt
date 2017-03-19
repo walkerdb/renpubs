@@ -10,7 +10,7 @@ A ]. Falsa, falsa sirena, ch'a la canora voce. Tenore solo (Volpini) 1
 " " Garula rondinella ch'a lo spuntar del die. Canto solo 9
 A 2. lo son ferito, ahi lasso, e (le la piaga mia bramo. Due Tenori lo
 " " E tu parli, ben mio, scnza pur dirmi a dio. Due Tenori 11
-" " Qual'hor vi miro et odo ardo, mio bene, e agghiaccio. Due Tenori lZ
+" " Qual'hor vi miro et odo ardo, mio bene, e agghiaccio. Due Tenori 12
 " " Pargoletto Cupido, che con le tue quadrella nel pensiero. Canto e Tenore 13
 " " Amorosa Celinda, un bacio sol il tuo ſedel ti chiede. Canto e Tenore 13
 " " Folle Filli, infedele, getto al mare et a i venti i passati contenti. Doi Tenori 14
@@ -20,8 +20,8 @@ A 2. lo son ferito, ahi lasso, e (le la piaga mia bramo. Due Tenori lo
 " " Ritorna, o cor, ritorna del mio tesoro ne l'amato seno. Due Canti 18
 A 3. Leggiadra mi clicca dolce cantando, quasi echo a le mie voci. Basso, Tenore e Canto 19
 " " Ahi quanti scorgo, ahi quanti in me rivali amanti. Basso c due Tenori 20
-" " Bacio soave e caro, che da bocca di rose al cor s'invia. Basso e due Canti Zl
-" " Più non chiedo, non miro. Folle, tropp'altn intesi. Tenore e due Canti ZZ
+" " Bacio soave e caro, che da bocca di rose al cor s'invia. Basso e due Canti 21
+" " Più non chiedo, non miro. Folle, tropp'altn intesi. Tenore e due Canti 22
 
 PL-WRu: C.Z°, Bc.
 Un esempl. compl. esisteva nella Sladtbibliothck di Breslau.

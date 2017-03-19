@@ -28,7 +28,7 @@ De Monte - " " Donnez au Seigneur gloire
 " " - " " Honneur et beauté
 
 " " - " " Susann'un ìour, d'amour solicitée (Guéroult)
-Dt Rare - " " Sì traviat'è'l folle mio dcsio (Petrarca)
+Dt Rare - " " Sì traviat'è'l folle mio desio (Petrarca)
 " " - " " Et poi che'] frcn (seconda parte) "
 D-Mbs: compi
 

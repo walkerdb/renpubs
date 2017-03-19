@@ -39,11 +39,11 @@ A 1. Chi è costei, che qual sorgente aurora. Sonetto
 " " Ardo infelice e palesar non temo. Ottave 9
 " " Maria, dolce Maria. Madrigale 17
 " " Nel camino aspro ed erto. Madrigale 19
-" " Pietà, mercede, aita. Madrigale Zl
-" " Ferma, Signor, t'arresta. Madrigale ZZ
+" " Pietà, mercede, aita. Madrigale 21
+" " Ferma, Signor, t'arresta. Madrigale 22
 " " Ecco ch'io verso il sangue, ecco ch'a morte. Aria 24
 " " Deh chi già mai potrà, Vergine bella. Ottave E
-" " Nube gentil, che di lucente velo. Ottave rom. 3l
+" " Nube gentil, che di lucente velo. Ottave rom. 31
 A 2. Io mi distrugge et ardo. Madrigale. C. e B. 34
 A l. Lasciatemi qui solo, speranze sventurate. Aria 38
 " " O che nuovo stupor mirate intorno. Aria allegra 43

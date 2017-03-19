@@ -9,7 +9,7 @@ A5. Quando la sera scaccia (terza parte) (Petrarca) 3
 " " Gratia, non perch'il sole et le vermiglie row 9
 " " Godi Vicenza, che col nom'et l'opre 10
 " " il di che'l ciel sereno vedendo 11
-" " Felice, vago nido, che di si bei paslori lZ
+" " Felice, vago nido, che di si bei paslori 12
 " " Torna Diana casta a far soggiorno 13
 " " Quctinsi homai le vostre (seconda parte) 14
 " " Ecco Giulia gentil pur com'i' soglio 14
@@ -17,7 +17,7 @@ A5. Quando la sera scaccia (terza parte) (Petrarca) 3
 " " Chi pensa al valor vostro fars'ugualc 17
 " " Et io che vostre lode (seconda parte) 13
 " " Le bclle crespe et longe chiome d'oro 19
-" " Fermat'il corso voslro, lagrime meste ZO
+" " Fermat'il corso voslro, lagrime meste 20
 " " Ciò si fà per tuo bene (seconda parte) 21
 A 3. Anzi qual'hor (terza parte) 21
 A 5. Bcn che ciò non t'apporte (quarta parte) 72
@@ -27,7 +27,7 @@ A3. .Dolci rime leggiadre (terza parte) 24
 A 5. Come fanciul ch'a penn (quarta parte) 24
 " " Ben sai che sì bel piede (quinta parte) 25
 A 6. Ovunque gli occhi volgo (sesta parte) 26
-A 8. Padre, ch'a Delfi il gran piton'ct fero. Dialogo ZB
+A 8. Padre, ch'a Delfi il gran piton'ct fero. Dialogo 28
 I-Bc: C.A.T.B.
 
 l-Rsc: A.T.B.
@@ -43,13 +43,13 @@ A cmquc voci. In Venetia appresso di Antonio Gardano 1557.
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 2.9,(1). Ded. ad Andrea Zuccello.
 
-Multicoloritam recipit iam terra. Dc primavera ('Folengo) l
-Caldus affogatum iam sehiappat Apollo. De estate " Z
+Multicoloritam recipit iam terra. Dc primavera ('Folengo) 1
+Caldus affogatum iam sehiappat Apollo. De estate " 2
 Ut ciber invernum mater natura. Dc autumno " 3
 Ornat hyperboreis iam borra gaioffus. De inverno " 4
 Tempus erat ﬂores cur prima vera. Innamoramento di Zanina " 6
 
-_ Ante meos oculos quando dcsgratia (seconda parte) " 7
+_ Ante meos oculos quando desgratia (seconda parte) " 7
 Chi vuol veder quantunque pUò natura (Petrarca) 8
 
 Vedrà s'arriva a tempo (seconda parte) " 9

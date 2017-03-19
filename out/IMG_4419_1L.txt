@@ -18,9 +18,9 @@ A 5. ln qualche stranio 11
 " " Ma rio scoglio (settima parte) "
 " " Nel bel giardin entrate, felici alme ben nate 18
 " " Vinci te stesso 19
-" " Voi caduchi ligustri, col vivace amaranto (Bcccuti) ZO
-" " Dura mia pietra Z]
-" " Poca fiammella accesa ZZ
+" " Voi caduchi ligustri, col vivace amaranto (Bcccuti) 20
+" " Dura mia pietra 21
+" " Poca fiammella accesa 22
 " " Lucida face accesa (seconda parte) B
 " " Da venticel soave (terza parte) 24
 " " Quando i_ più fidi (quarta parte) 25

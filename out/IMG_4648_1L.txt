@@ -14,12 +14,12 @@ A 6. Amor, che vedi ogni pensier aperto (Petrarca) 7
 " " Sc viver senza'l core già non si può, in me come lo [ai 19
 " " Caduta è la tua gloria e tu nol vedi (Petrarca) 20
 " " Dolce Corinna mia, se su le labbr'liavete il mio dolce desio 21
-" " Poi che si grave duol m'ingombra'l petto ch'avicinarsi (PlilCidl) ZZ
+" " Poi che si grave duol m'ingombra'l petto ch'avicinarsi (PlilCidl) 22
 " " Scaccia co' rai di tua pietate'l gelo (seconda parte) " B
 " " Donna, perchè contra ragion nel petto dolor sì fier. Risposta 24
 " " Ben debb'io gir col cor colmo di gelo (seconda parle) 25
 A ll. Voglia mi sprona, amor mi guida. Dialogo Pclſil'iiſﬄ) 26
-" " Liet'c pensose, accompagnat'e sole. Dialogo " ZB
+" " Liet'c pensose, accompagnat'e sole. Dialogo " 28
 
 D-Mbs: e_ompl.
 F-Pthibault: compl.
@@ -32,8 +32,8 @@ Venetia appresso di Antonio Gardano. 1569.
 
 5 ſasc. in 8° obl. (C.A.T.B.5.), pag. 28,(l). Ded. a Lodovico Orsino.
 
-A 6. Dolci focose rime, che dal mio ardente core uscite in mesti ]
-" " Ivi a lei riverenti dite che quelle prime (seconda parte) Z
+A 6. Dolci focose rime, che dal mio ardente core uscite in mesti 1
+" " Ivi a lei riverenti dite che quelle prime (seconda parte) 2
 A 5. Questo sacrato spirto, ch'a noi scopre del ciel i gran thesori 3
 " " Deh dolci e amati lumi, cortesi rimirale come verso da gl'occhi 4
 " " Deh poni mano a l'honorata cetra, giocond'Apollo 5
@@ -43,7 +43,7 @@ A 5. Questo sacrato spirto, ch'a noi scopre del ciel i gran thesori 3
 " " Qual cosa, amor, non puoi. Per te l'inferno vide Orfeo (seconda parte) 9
 " " Se talhor miro i vostri occhi lucenti e'l vostro vago et delicato viso 10
 " " O se potesser pur quel vostro core (seconda parte) "
-" " Occhio del ciel, se con pietosa mano porgi soccorso lZ
+" " Occhio del ciel, se con pietosa mano porgi soccorso 12
 " " Et io devoto a reverirti intento (seconda parte) B
 " " Cantate. o nove almc sorelle, avezze del Molzi al nome amico H
 " " Non più, giusta mia possa, creder voglio alle finte parole, ai giuramenti 15

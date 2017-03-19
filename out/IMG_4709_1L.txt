@@ -22,7 +22,7 @@ A 2. Un bacio sol se scocca da la divina boca (Osculetur me osculo) (Orafi) 4
 " " lo son bruna sì, ma bella. Il mio brun (Nigra sum sed formosa) " 8
 " " Come sei pura e bella, anima mia diletta (Quam pulcra es amica mea) " 11
 " " Soavissime rose, giardinetto d'amore (Sicut victa coccinea) " ]6
-" " Vorrei scoprir con giust'ardir (Quaesivi illum et non inveni) " Zl
+" " Vorrei scoprir con giust'ardir (Quaesivi illum et non inveni) " 21
 " " 0 mia diletta (Veni dilecta mea) " 26
 " " Per le piagge di Giudea (Egrediamur in agrum). Canzonetta in Dialogo " 30
 A 3. O sei pur bella, sei pur vezzosetta (Pulchra es et decora) " 35

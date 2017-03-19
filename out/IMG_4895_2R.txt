@@ -18,7 +18,7 @@
 " " Cruda sirena, ch'ancidendo vai per l'ondc del mio pianto 18
 " " Gioia mia, quanto sei bella, l'occhio tuo mi sembra stella 19
 " " Perle e rubini i fior \'ermigli e bianchi hanno d'etcrno april 20
-A 6. chzoselto fanciullo, a cui la donna mia dona i basi Zl
+A 6. chzoselto fanciullo, a cui la donna mia dona i basi 21
 
 I-Bc: compl.
 
@@ -35,7 +35,7 @@ composti et dati in luce. In Venetia apresso li figliuoli di Antonio Gardano. 15
 5 fasc. in 8° obl. (C.A.T.B5.), pag. 29,(l). Ded. all'Abbate De Spincti, et Conte di Mciona il
 SiSnor Aurelio De Nobili: " li primi frutti del novello albero del mio mal coltivato ingegno... ".
 
-A 5. Ergan de bronzi e marmi archi c collossi a vostri egregi fatti. All'abbate De Nobili l
+A 5. Ergan de bronzi e marmi archi c collossi a vostri egregi fatti. All'abbate De Nobili 1
 " " Ma s'in pietr'o in metal non so sculpirc (seconda parte)
 
 A 4. Voi mi poncsti in foco per farmi anz'il mio di, donna, perire. Canzon (Bembo) 3
@@ -47,7 +47,7 @@ A 4. Voi mi poncsti in foco per farmi anz'il mio di, donna, perire. Canzon (Bemb
 " " Tristo colui ch'amor crudelle afferra (seconda parte) 9
 " " O fortunato augello, poi che morir ti lice per man di quella fiera lO
 " " La rondinella garul'e leggiera era venuta _ 11
-" " Cantan fra rami gl'augelletti vaghi, azuri e bianchi, rossi, verdi (Ariosto) lZ
+" " Cantan fra rami gl'augelletti vaghi, azuri e bianchi, rossi, verdi (Ariosto) 12
 " " lo non saprei mai dir perchè mi doglia del foco che m'incende (Cassola) 13
 " " Ma chi'l dirà per me (seconda parte) " 13
 " " Che poi tu farmi, amore, s'in me non è più'] core 14

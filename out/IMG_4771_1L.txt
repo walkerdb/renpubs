@@ -33,10 +33,10 @@ A 6. Vergine bella, che di sol vestita, coronata di stelle (Petrarca) 11
 " " Vergine santa, d'ogni gratia piena (quarta stanza) " 15
 " " Vergine sol'al mondo scnz'esscmpio (quinta stanza) " 16
 " " Vergine chiara e stabil'in eterno (sesta stanza) " 17
-" " Vergine, quante lagrime ho già sparle (settima stanza) " IB
+" " Vergine, quante lagrime ho già sparle (settima stanza) " 18
 " " Vergine, tal'è terra e post'ha in doglia (ottava stanza) " 19
 " " Vergine, in cui ho tutta mia speranza (nona stanza) " 20
-" " Vergine humana et nemica d'orgoglio (decima stanza) " ZI
+" " Vergine humana et nemica d'orgoglio (decima stanza) " 21
 " " Il dì s'appressa e non puot'esser lunge (undicesima stanza) " E
 " " Solo e pensoso i più deserti campi vo misurand'a passi tardi " B
 " " Sì ch'io mi cred'homai che mont'c piaggie (seconda parte) " Il;

@@ -17,7 +17,7 @@ A 1. O vaga, eterna aurora, che ne tuoi puri chiostri. Alla Beata Vergine "
 [di volatile in un com-no 20
 
 " " Ecco maggio seren, chi l'ha vestito di si bel verde (G-B- SMV-Zi) "
-" " Così soletto per mio diletto, i' me ne vo cantando ZZ
+" " Così soletto per mio diletto, i' me ne vo cantando 22
 " " Qual Icaro novello a quei lucenti rai de tuoi bcgl'occhi, Fili Î:
 " " S'io m'avicino a voi beato son. s'io m'alontann poi 25
 
@@ -45,7 +45,7 @@ et
 
 A 1. 0 Capo mio spinoso, doglioso, tormentoso. Dialogo sopra una imagine di N. Sig.
 
-[(Per Tenore c BG) l
+[(Per Tenore c BG) 1
 " " O lucî di Giesù. sante et amate. Nel medesimo soggctto: a gl'Occhi. Canto 0
 [Tenore (: BL) â
 " " Bocca soavc e cara, non più dolce, ma amara. (Canto e De.) 4
@@ -59,7 +59,7 @@ A 1. 0 Capo mio spinoso, doglioso, tormentoso. Dialogo sopra una imagine di N. S
 A 2. O qual aspido sordo anima cruda. (Canto e Basso) 12
 " " Al marmo del mio core con cento nodi intorti. (Canto e Basso)
 " " O ingrati mortali, tanto v'ama il Signore. (Canto e Basso) (Marina) l':
-" " D'arco ha in vece una canna (seconda parte) " l5
+" " D'arco ha in vece una canna (seconda parte) " 15
 
 " " Languente mio Giesù, nel tuo respiro. (Canto e Basso)
 

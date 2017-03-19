@@ -11,7 +11,7 @@ AZ. Chi non sa quanto ginizchn del mio amor, rider non può. Canzonetta 13
 " " O selva romila, lu godi il bel vim (seconda parte) 16
 " " Ohimè ch'io li miro, ma spargo (la lumi (terza parle) 17
 " " Sospiro sì, ma nulla gici-ami il sospìrar. Canzonctta 20
-A 3. 10 vo morir. Non sia nessun di vita mi ragioni. Canzonctta ZZ
+A 3. 10 vo morir. Non sia nessun di vita mi ragioni. Canzonctta 22
 " " T'ingannì, o mio core, se speri pietà da chi ti ferì. Canzonetta 24
 " " O come è cieco amore. Per bcllezz'înfinila già mi rapisli. Arietta 26
 " " Che vuoi più tu da me. Lilla crudele 23
@@ -33,8 +33,8 @@ Cardano. 1585.
 S fasc. in 8° '(C.A,T.B.S.), pag. 24 Ded. a Giovanni Francesco Canobio, Vescovo di Forlì, Forlì.
 4 X] 1584.
 
-A 5 Amor, d'ogni mia pena io ti ringrazio, sì dolc'è'l tuo martire l
-" " Ben mi crcdetli già che grave peso (seconda parte) Z
+A 5 Amor, d'ogni mia pena io ti ringrazio, sì dolc'è'l tuo martire 1
+" " Ben mi crcdetli già che grave peso (seconda parte) 2
 " " L'aura soave, che dal chiaro viso (Petrarca) 3
 " " Vaghi pensier, che così passo, passo " 4
 " " Tre son le Grazie ancelle, se non è falso de la fama il grido (Tasso) 5
@@ -49,7 +49,7 @@ A 5 Amor, d'ogni mia pena io ti ringrazio, sì dolc'è'l tuo martire l
 " " O fortunati. L'un enlro spirandn nella bocca (tema parte) " 14
 " " Angioletta cortese, le mie calde parole odi dal terzo " 15
 " " Era ben dolce il core, ch'hebbi da quella man chc'l mio 16
-" " Amor, se brami sciorti da quesl'aspra catena l7
+" " Amor, se brami sciorti da quesl'aspra catena 17
 
 -I637-
 

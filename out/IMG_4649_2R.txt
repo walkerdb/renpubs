@@ -19,7 +19,7 @@ A 3. Ardo si. ma non t'amo, perfida e dispietata. 2, C. e B. (Guarini) 11
 " " Ben mio, mio ben, cor mio. 2 T. c B. 13
 " " Feritevi ferite. viperette mordaci, dolci guerrere. 2 C. o T. e B. (Marino) 14
 " " O come si conſace. 2 T. e B. 5
-A 4. Lusinghiera fallace, mi doni e mi tradizci. C.A.T.B. l7
+A 4. Lusinghiera fallace, mi doni e mi tradizci. C.A.T.B. 17
 " " Filli, s'apprender vuoi. C.A.T.B. 18
 " " Clori, la vostra mano. C.A.T.B. 19
 " " S'in altra guisa non .xi può morire. C.A.T.B. 20
@@ -35,7 +35,7 @@ Opera Settima. Nuovamente composta, e data in luce. Con privilegio. In Venetia.
 
 Vol. in 8°, pag. 41. Ded. a P. Felice Aleardi venctiano, Venetia, 24 V… 1622.
 
-0 se d'eccelso alloro fregi godrò novelli Z
+0 se d'eccelso alloro fregi godrò novelli 2
 Rubinetti lascivetti, che adornate l'odorate, dolci labbia 4
 Tornate pur, sospiri, fuor del mio petto a volo 6
 E pur partir dovrò da te, Lidia, che sci mia vita 8

@@ -8,7 +8,7 @@ A 5. Lasso non è morir l'uscir di vita ma l'amar e'] languir
 A6. Amor già prigioniero in gravi doglie l\]
 " " Tre leggiadri almi pastori e amor con sue facelle vid'io 11
 " " Rossi fior vaghi gigli e bianche rose 11
-" " Veggio mirando e gioia (seconda parte) l3
+" " Veggio mirando e gioia (seconda parte) 13
 " " Ecco ch'al suon di timpani danzando H
 " " Amor tutto gioioso al cor intorno 15
 " " Mentre il mio vago sole riguard'intento e fiso 16
@@ -31,7 +31,7 @@ Giacomo Vincenzi, et Ricciardo Amadino, compagni. 1586.
 
 A 5. Questi candidi gigli e queste rose
 
-" " Mentre Tirsi dicea queste parole (seconda parte) Z
+" " Mentre Tirsi dicea queste parole (seconda parte) 2
 " " Così dieſ fine a le querele (terza parte) 3
 " " Quando tal'hor, a la stagion novella (Sannazzaro) '
 " " E'l semicapro Pan alza le corna (seconda parte) " 65

@@ -42,8 +42,8 @@ A 3. Sì dolci son li slrai, lc fiamme e'] laccio 4
 " " Seguîr una ch'odia e sprezza e che va altiera 16
 " " Poichè di sì vil foco tu sei ripien'o ingrato, et io da questo laccio 17
 " " Io son sciolto, amor, da l'cmpio laccio 13
-" " Tu m'uccidi, cor mio, quando mi dici no ch'io non vogl'io ZO
-" " La farfalla sen vol'al lume intorno ZZ
+" " Tu m'uccidi, cor mio, quando mi dici no ch'io non vogl'io 20
+" " La farfalla sen vol'al lume intorno 22
 " " Donna, che con l'ardent'aculo stralc 24
 " " Io son rimasto solo, pieno d'affanni e duolo 25
 " " Viva fiamma d'amor e vivo foco mi vien 28

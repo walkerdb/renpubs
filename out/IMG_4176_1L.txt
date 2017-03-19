@@ -45,7 +45,7 @@ A 3. Vattene, musa mia, lieta e ridente 4
 " " Dissc Damon a Clori: non più. cor mio. Canzonetta
 
 " " Trasse la bend'amore. Canzonetta
-" " Donna, perchè sei bella ti mostri a me rubella. Canzonetta lZ
+" " Donna, perchè sei bella ti mostri a me rubella. Canzonetta 12
 
 " " Ogn'hor mi dai martire, amorosetta mia. Canzonetta madrigalcsca 13
 Qui cominciano i versi degl'animali

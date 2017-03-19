@@ -1,5 +1,5 @@
 A6. Qui giace, ahi lasso, il gran signor del cielo 19
-" " Non più, saggi pastori, d'altre ninfe cantate ZO
+" " Non più, saggi pastori, d'altre ninfe cantate 20
 " " Fate a questa corona (seconda parte) 21
 
 l-MOc: compl.
@@ -11,8 +11,8 @@ presso Giacomo Vincenzi. 1587.
 
 Sſasc .in 8° (C.A.T.B.5.), pag. Zl,(1). Ded. ad Ascanio di Capua, Venetia, 1° V 1588.
 
-A5. Quando con mille vagh'crbenc infiori l
-" " Due vaghe paslorellc un giorno Z
+A5. Quando con mille vagh'crbenc infiori 1
+" " Due vaghe paslorellc un giorno 2
 " " Aura dolc'c suave deh pungi il cor. Di Gia. Fram-m'a Sabino 3
 " " Cor mio, poi che nel fior de' mici verd'anni. Di Gio. France-rca Sabino 4
 " " Fioriti colli, hcrbette pien d'odori 5
@@ -22,7 +22,7 @@ A5. Quando con mille vagh'crbenc infiori l
 " " Ballava Tirsi al suono d'una dolce sampogna 9
 " " Ardo si, ma non t'amo, perfida c dispictata (Guarini) …
 " " Ardi o gela a tua voglia, perfido ed impudico. Risposla. Di Ora:/'o Crirci (Tasso) 11
-" " Felice primavera di bei pensicr fiorisce. Di Gio. Fram-crm Sabino lZ
+" " Felice primavera di bei pensicr fiorisce. Di Gio. Fram-crm Sabino 12
 " " Danzan le ninfe oneste e i pastorelli (seconda parte) Di Hippoh'to Sabino 13
 A6. Vidi spczzar la fune :\ un forte toro 14
 " " All'hor vidi cader il gran (seconda parte) 15
@@ -31,7 +31,7 @@ A6. Vidi spczzar la fune :\ un forte toro 14
 " " Con sì contrario effetto, amor di ghiaccio e foco "3
 " " Pria che la tromba spaventosa e cruda. Di Orario Criſci 19
 "" Stavasi il mio bel sol al sol asiso che par (G-F- S"'OZZÌ) 7-0
-" " E'n questo specchio e'n quello si rivedea si bello " " Z]
+" " E'n questo specchio e'n quello si rivedea si bello " " 21
 I-Bcz B.
 
 l-MOe: B

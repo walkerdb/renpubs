@@ -1,4 +1,4 @@
-A 5. lo clic piansi al [un pianto, arsi al tuo arclor, serva infelice 3Z
+A 5. lo clic piansi al [un pianto, arsi al tuo arclor, serva infelice 32
 " " Una fanciulla m'ha rubato il cor, m'ha privo di libertà 34
 A 7. A dio begl'occhi, :\ dio su.-lle scrcnc, cagion delle mie pene. 5 voci e Z Violini 36
 
@@ -27,9 +27,9 @@ A 3. c 5. Che farai, dolente core? No, che piaga (l'amor. Concerto a 3 et a 5 co
 
 se piace 13
 A 6. Ardimi, struggimi il cor a tutt'hore. Concerto 14
-" " Già son amante. nol niego. Corrente a 6 con 2 Violini l6
+" " Già son amante. nol niego. Corrente a 6 con 2 Violini 16
 " " Languir per un bel volto. Concerto a 6 in Z parti con Z Violini 19
-A Z. Ninfa e che voi (la me. Dialogo C. e T. con 2 Violini e 2 Viole da brazzo ZZ
+A Z. Ninfa e che voi (la me. Dialogo C. e T. con 2 Violini e 2 Viole da brazzo 22
 A 6. Ferma il passo, o verginella, ferma. ferma, Daſni bella. Concerto. C.A.T.B. e Z Violini 25
 A 7. Amanti o no, non si scgun amore. Concerto con sinfonia di Z Violini 27
 A 6. Gite, sospiri miei. Concerto. C.A.T.B., 2 Violini c 4 Tromboni o Viole da brazzo 30
@@ -47,8 +47,8 @@ Vincenti. 1617.
 
 5 fasc. in 8° (C.A.T.B5.), pag. 20,(1). Ded. a Girolamo Pomo, Pordenone. 1° XII 1616.
 
-Tati, Perlin gentile, ladro (l'amor son io, ch'a dolci furti miei ]
-O fl": soave bacio da la mia donna liehb'io, non so se (lon (Guarini) Z
+Tati, Perlin gentile, ladro (l'amor son io, ch'a dolci furti miei 1
+O fl": soave bacio da la mia donna liehb'io, non so se (lon (Guarini) 2
 Olnmè begl'occlii, quando di mai più rivedervi havrò speranm
 
 Che vorrai dir clie m'ami? A che se compatisti. Risposta 4

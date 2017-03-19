@@ -47,7 +47,7 @@ A 4. Certes mon oeil fait trop " 5
 " " Dc l'oeil de l'un (seconda parte) " 10
 " " L'un excessif (ter-La parte) " "
 " " O doux trcspas (quarta parte) " Il
-" " Puisse a (quinta parte) " lZ
+" " Puisse a (quinta parte) " 12
 " " Si tost que votre oeil " 13
 " " Autant en emporte le vent " 14
 " " D'un oeil fardé " 14

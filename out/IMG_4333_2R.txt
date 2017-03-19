@@ -10,8 +10,8 @@ Già fu mia dolce spernc assai debole e lenta, hnr cresce (Tasso) 16
 Arde. donna, il mio core, ma da l'ardor vien fuore per gl'ocehi 17
 Mentre Clori al suo crine spargea l'oro d'intorno 18
 Non hebbc l'Indo mai gemma sì ricca e rara che pareggiar 19
-Donna, dir non potete che'] mio cor non tenete, s'in me non fu ZU
-Non veggio al mondo ema che non mi eia noiosa. Aria alla napoletana Zl
+Donna, dir non potete che'] mio cor non tenete, s'in me non fu 20
+Non veggio al mondo ema che non mi eia noiosa. Aria alla napoletana 21
 GB-Ckc: C.
 
 l-MOe: A.
@@ -32,8 +32,8 @@ Angelo Gardano. 1596.
 
 5 fase. in 8° (C.:\.T.B.S.), pag. ZO,(1). Deel. a Margherita Somaglia Peretti, Venetia, 1° I 1596.
 
-A 5. ln queste selve amore, dove il suo ben s'ascondc l
-" " Mia vita. io non so dire dm'e s'annida amore, o ne la fronte vostra Z
+A 5. ln queste selve amore, dove il suo ben s'ascondc 1
+" " Mia vita. io non so dire dm'e s'annida amore, o ne la fronte vostra 2
 " " Qucsto legato in oro finissimo diamante, dono di donna amata 3
 " " Esea del foco mio, pupille care. di piccinla mercccle 'l
 " " Non è morte il morire sì amara che non zia 5
@@ -43,7 +43,7 @@ A 5. ln queste selve amore, dove il suo ben s'ascondc l
 " " Di neve e non di foco esser pensai quel bel candido nemho 9
 " " Lumi dolenti, miei specchi. ove Dafne le sue pompe mira 10
 n " Hor che di vaghi fiori cinta ride la terra 11
-" " In negro manto int-olta mostra di ſuor quel che nel sen lZ
+" " In negro manto int-olta mostra di ſuor quel che nel sen 12
 " " Sospir nato di foco, \"attenc alla mia donna 13
 n " Vorrei che'] mio martire fosse meno o più forte 14
 " " Apc ingegnosa, amore l1 nettare più puro invola e suggc 15

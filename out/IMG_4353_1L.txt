@@ -24,8 +24,8 @@ A 4. Quando miro la term orna'te bella (V. Colonna) 2
 " " Ma senza altri pensier stavan contenti " 13
 " " E spesso a piè d'un olmo, o ver d'un pino " 19
 " " Questa è la vita che cotanto piacque " 2°
-" " Perchè dolce più assai era fra l'herba " Z|
-" " Beato dunque, se beato lice chiamar " ZZ
+" " Perchè dolce più assai era fra l'herba " 21
+" " Beato dunque, se beato lice chiamar " 22
 " " La virtù dico, che volando al cielo " B
 " " Di così bel desio l'anima accende " 24
 " " Quanti principi grandi, amati e cari " 25

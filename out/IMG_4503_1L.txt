@@ -16,8 +16,8 @@ A Z. Fuggi, fuggi l'inganno d'amor 15
 A 3. Quando tra suoi rigori incanuliscc il verno 17
 A 2. Su l'herbe assisomi, a l'onde 13
 " " Mira, mira che la rosa de suoi vanti 20
-A 4. Venticel gratissimo, che scuoti Z]
-" " Lieti fuggiamo tra verdi piante ZZ
+A 4. Venticel gratissimo, che scuoti 21
+" " Lieti fuggiamo tra verdi piante 22
 A 3. Giunto il sole in occidente B
 
 F -Pthibault (prov. Landau).
@@ -36,7 +36,7 @@ A l. Amor non piangere ;
 " " Su la fiorita sponda 9
 " " Pastor io che non vò 10
 A Z. Apri pur Citerea prima dell'alba 11
-A 3. Quella luce che s'indorò lZ
+A 3. Quella luce che s'indorò 12
 A 2. Volgi gl'occhi, ma piangenti 13
 " " O nocchier, ch'in questo lido 14
 A 4. Il prato ameno 15
@@ -45,8 +45,8 @@ A Z,. Quand'il sol dall'alto screno 17
 A 3. Oscurando i suoi sembianti 18
 A 1. Violette belle 19
 A L A ciel screno 20
-A !. Candiderta reina Zl
-" " O perle lucenti ZZ
+A !. Candiderta reina 21
+" " O perle lucenti 22
 A Z. È pur vago un dì sereno 23
 
 A 1. S'annidano

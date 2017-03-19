@@ -22,12 +22,12 @@ A 5. Io non curo però mcn dure pene, ma gravi sì (terza stanza) (Trissino) 4
 " " S'hor che guidate il crin cinto d'alloro a la più calda sfera. A Giacopo l'Abbatc
 [Cornaro 24
 " " Move la lingua miu, desta la mente l'alta virtute e'l sommo valor vostro. Ad Andrea
-[Cornaro ZS
+[Cornaro 25
 A 4. Quella ch'a mille cor ſè dolce forza con sua rara beltad'e leggiadria 26
 " " Anima pura al chiaro ciel salita (seconda parte) 27
 
 A6. Non rumor di tamburi, o son di trombe furon principio a l'amoroso assalto
-[(Ariosto) ZB
+[(Ariosto) 28
 " " Ahi se convien ch'io muoia, che val chieder aita del mio gran duol 29
 
 A-Wn : compl.
@@ -40,8 +40,8 @@ di Antonio Gardane. 1567.
 5 fasc. in 8° obl. (C.A.T.B.S.), pag. 2.9,(1). Ded. all'Abbate Iacopo Cornaro et Signor Addſ"
 Fratelli.
 
-. . ]
-Figli d'Euterpe e Clyo ch'hora aggiungete a queste oscure note Z
+. . 1
+Figli d'Euterpe e Clyo ch'hora aggiungete a queste oscure note 2
 Passato ho valli, colli, piagg'c monti sol per veder costei (Cassola) 3
 Questi, ch'inditio fan del mio tormento, sospir non sono nè i sospir son tali (Ariosto) 4
 

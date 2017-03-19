@@ -41,11 +41,11 @@ A 5. Ahi, com'a un vago sol cortese giro di duo begl'occhi ond'io (Guarini) :
 " " Su la riva del Tebro giovanctto vidd'io, vago pastore 15
 " " Godianci, anima mia, che gTand'amor, gran fede, gran prcmi'anche richiede "
 " " Ahimè, ben mio, tu taci e la faccia amorosa (seconda parte) W
-" " Così Damon piangendo lungo l'altcro chro, a l'aura estiva IB
+" " Così Damon piangendo lungo l'altcro chro, a l'aura estiva 18
 " " Arsi, sperai, cantando le mie venture (seconda parte) 19
 " " Tu dunque, mia nemica, mira lieta'l mio pianto (terza parte) 20
 " " E quest'cstremo pianto gradisci (quarta parte) 21
-A 7. Filli, morir vorrei. Deh perchè morir bramì? Perchè so che non m'ami. Dialogo ZZ
+A 7. Filli, morir vorrei. Deh perchè morir bramì? Perchè so che non m'ami. Dialogo 22
 CH-Bu: compl.
 
 I-Bc: A.T.

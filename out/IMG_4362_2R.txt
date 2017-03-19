@@ -16,9 +16,9 @@ A 5. E bella e dotta mano tessea con sotlil ago nobil lavor 3
 " " lo mi dolea d'amore sovra un torbido rio, fatto dal pianto mio 17
 " " In qual celeste choro imparasti a cantar, dolce sirena 18
 " " M'è pur slato dal core furtivamente il lauro svelto 19
-" " Tirsi morir volca, gl'occhi mirando di colei ch'adora (Guarini) ZO
-" " Frenò Tirsi il desio ch'hebbe pur (seconda parte) " ZI
-" " Così moriro i fortunati amanti (terza parte) " ZZ
+" " Tirsi morir volca, gl'occhi mirando di colei ch'adora (Guarini) 20
+" " Frenò Tirsi il desio ch'hebbe pur (seconda parte) " 21
+" " Così moriro i fortunati amanti (terza parte) " 22
 A 8. Filli mia bella. a dio. Caro mio Tirsi. a dio. Dicea sovr'Arno 24
 
 A 8. Voi volete ch'io mora, crude] ahimè. e mi date dolor si crud'e forte
@@ -33,8 +33,8 @@ Ricciardo Amadino.
 $ fax: in 8°. (C.A.T.B.5.). Pag. ZZ. Ded. a Donna Leonora da Este: "..in Fﬂſﬂſ'l patria mia..
 Venetia, ZZ XII 1588 ".
 
-A 5. lo seguo ardente fiamma, che mi fugge e fuggendo mi strugge ]
-" " 0 vaga tortorella, tu la tua compagnia et in piango colei (Tasso) Z
+A 5. lo seguo ardente fiamma, che mi fugge e fuggendo mi strugge 1
+" " 0 vaga tortorella, tu la tua compagnia et in piango colei (Tasso) 2
 " " I vostri biondi crini son lacci ove'l cor mio avinm 3
 " " Le vaghe rose su le labra sparse, Filen della sua cara amat'Alfea 4
 " " Sì rispose. ben mio, che quest'è'l mio desio (seconda parte) 5

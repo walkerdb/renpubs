@@ -33,7 +33,7 @@ A 5. Occhi selvaggi e fieri, con sguard'irato e torto 1
 " " Si ch'ardo, ma non t'amo et è l'ardore di sdcgn'e non d'amore 17
 " " Se vinto son lu'l sai, am.;r, ma fia giamni vinta costei 13
 " " Donna, s'al partir mio le parole perdei, sì che dir non potei 19
-A 9. ll ciel vi \acia lieti, almi pastori. Dialogo Damon et Pastori ZU
+A 9. ll ciel vi \acia lieti, almi pastori. Dialogo Damon et Pastori 20
 D-LEm: compl.
 
 1508 - LEONI Leone (1602) _ Bell'Alba Quinto Libro de Madrigali a cinque
@@ -47,7 +47,7 @@ Pure lc annuncierà l'infinito desiderio, co'l quale vive l'auttore d'impiegarsi
 gratia sua... Venetia, 15 III 1602 ".
 
 Dolci baci, soavi colgo nel sen de la mia bella Clori 1
-Vi dissi: io ardo e voi dicest'io ardo e aprend'un riso Z
+Vi dissi: io ardo e voi dicest'io ardo e aprend'un riso 2
 
 _945 _
 

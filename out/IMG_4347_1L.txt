@@ -21,9 +21,9 @@ A Z. Vanne, mesto sospir. munito d'amore a la fera cagion. C. e B. 1
 " " Se pensate ch'io scopr'il mio pensiero a mi. C. e B. a modo di Dialogo 14
 A 3. Spasmo s'io non ti vcggio, moro sc tu non m'ami. 2 C. 0 T. e B. (Rinaldi) 15
 " " Sentite bella musica ch'è questa. Hora va lent'hor presta. Musica sferzata. Canzon 17
-" " Sentit'anifitioso e bel terzetto (seconda parte) IB
-" " Sentite com'hor \"a lcgat'hor sciolta (terza parte) ZU
-" " Hor questi fior coglicnd'c rcrd'hcrbette (quarta parte) ZZ
+" " Sentit'anifitioso e bel terzetto (seconda parte) 18
+" " Sentite com'hor \"a lcgat'hor sciolta (terza parte) 20
+" " Hor questi fior coglicnd'c rcrd'hcrbette (quarta parte) 22
 " " Fuggirò lant'amorc che sccmerà l'ardore 23
 " " Ahimè col fuggire mi segue più (seconda parte) 25
 " " Com'csser può ch'io viva fc del cibo son privo che può 26

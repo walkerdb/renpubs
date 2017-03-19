@@ -9,8 +9,8 @@ V.S. Illustrissima... et havend'io particolarmente osservato ne' concerti del no
 cipc qual prenda gusto della Musica V.S. lllustris. c veduto che alcune mie composizioni colà
 cantate le recarono gioia, et diletto... Mantova, 10 lV 1602".
 
-A 5. Deh bella e cara e sì soave un tempo cagion del viver mio (Guarini) l
-" " Ma tu, più che mai dura, favilla di pietà (accenda parte) " Z
+A 5. Deh bella e cara e sì soave un tempo cagion del viver mio (Guarini) 1
+" " Ma tu, più che mai dura, favilla di pietà (accenda parte) " 2
 " " O misera Dorinda, ov'hai tu poste le tue ſiperanze? " 3
 " " Bacini per haver vila la bocca (li Sireno 4
 " " Arda per sempre, 0 mora, o languisca il cor mio 5
@@ -32,7 +32,7 @@ n' " Così la verginella, mentre cura materna (terza parte) 15
 " " Ciechi mortali, voi che tanta sele di possetler havete " ]8
 " " Tanto è possente amore, quanto dai nostri cor forza riceve 19
 A 9. Vaghe ninfe amorosetle, che mirand'altrui ferite. 20
-" " [] cor v'habbiamo offerto (seconda parte) ZO
+" " [] cor v'habbiamo offerto (seconda parte) 20
 " " Ver noi volgere hnmai sereni i vostri rai (terza parte) 20
 
 I-VEaf: compl.

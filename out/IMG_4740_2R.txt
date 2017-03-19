@@ -15,7 +15,7 @@ A3. Signor, io t'ho confino 7
 " " Humil s'inchin'e porge present'al 13
 " " Tre Magi in compagnia "
 A 4. Voi che cogliere in questa parte 19
-"" Nei verdi campi, alla stagion ZO
+"" Nei verdi campi, alla stagion 20
 l-Ec
 
 D-W
@@ -37,7 +37,7 @@ ln luce. In Venetia appresso Angelo Gardano 1583.
 mic... Milano, 30 IV 1583 ".
 
 Se di costume natural si vede passnr nei rami 1
-Quand'io veggio dal ciel sccnder l'aurora (Petrarca) Z
+Quand'io veggio dal ciel sccnder l'aurora (Petrarca) 2
 1 Vostri dipartir non son (seconda parte) " 3
 Gli occhi di ch'io parlai (terza parte) " 4
 E' 1° PUT Vive. onde mi doglio (quarta parte) " 5

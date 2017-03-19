@@ -8,7 +8,7 @@ Al. 0 dolcezze amarissime d'amor (quarta parte) (Guarini) 4
 " " Fuggi, o cor, il terreno e vano amor. Lauda 9
 " " La mia Filli vezzosa è più vermiglìa clic rosa lO
 " " Quando amor mi ferì col tuo sguardo sereno 11
-" " Della città fuggendo i gravi ardori, empion le ville i cittadini (Ongaro) lZ
+" " Della città fuggendo i gravi ardori, empion le ville i cittadini (Ongaro) 12
 " " Ma già non fosti sì fastosa all'hora (seconda parte) " 13
 " " lo dir volca ch'ad una dea il crin le vidi sciolto (Chiabrera) 14
 "" S'io miro il bel volto della mia Filli, ch'il cor m'ha tolto 15
@@ -18,7 +18,7 @@ A l. o Z. Care luci, che vaghezza d'impiagar prendete il petto 18
 A Z. La pastorella mia spietac'e rigida, che nott'c giorno (Sannazzaro) 19
 " " Deh girate, luci amate, pietosclto quel bel guardo (Isabella Andreini) 20
 A3. Dolci miei sospiri, dolci miei martiri, dolce mio desio (Chiabrera) 21
-A 2. Su la sponda del Tebro humida, erbosa, diva in forma. Sonetto (Marino) ZZ
+A 2. Su la sponda del Tebro humida, erbosa, diva in forma. Sonetto (Marino) 22
 " " Ride di liete e verdeggianti spoglie (seconda parte) " B
 " " Non tocc'herba il bel piè se non s'infiori (terza parte) " B
 

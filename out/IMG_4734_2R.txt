@@ -1,13 +1,13 @@
 Al. Sfogava con le stelle un infermo d'amore (Rinuccini) 8
 
-" " Alme, che per amor pianger sclete ]
+" " Alme, che per amor pianger sclete 1
 " " Mi guardate disdegnosa e non so. Villanclla 3
 " " Fuggite, a'manti, amor come la morte. Villanella 4
-" " Mio core, che pensi, ru più non scspiri. Villanella 5
+" " Mio core, che pensi, ru più non sospiri. Villanella 5
 " " Lilla. che fai, perchè, ben mio, non m'ami? Villanella 6
 "'" O bella Milla, mille volte bella. Villanella 8
 A _Z. Sc fur gl'occhi a mirar sm'erchio'ntenti le belle luci ardenti 11
-" " O chioma bionda, fronl'ampia e serena lZ
+" " O chioma bionda, fronl'ampia e serena 12
 " " 0 della bella Flora odorata famiglia 13
 " " Primavera, stagion \ern d' amori primogenit' c vaga 14
 " " Com 1enem1 allor li disse 15
@@ -17,7 +17,7 @@ A 3. Ohimè, spiegar ciò ch'io spiegar (quarta parte) 18
 " " Non cancelli, o disperdu, onda (quinta parte) 19
 " " Ch'io non l'ami, cor mio, ch'io non sia la tua vita (Guarini) 20
 " " ! tuoi capelli, o Filli, in una cistula serbati tengo (Sannazzaro) 21
-|| " Lilla mi diede ZZ
+|| " Lilla mi diede 22
 " " Dubio fra dui mi vivo, ma ch'io non parta amor (Guarini) 23
 " " O vezzosetta rosa, ch'havet'il nome 24
 " " Non è, non è più cor questo mio core (Fr. Degl'Atti) 25
@@ -39,8 +39,8 @@ vivissimi, mentre ch' ella per fuggir l'ozio gl' hà tal volta con suo diletto c
 di quelli che così gentilmente hanno poetato, da quali hò preso spirito delle parole. .. Volterra,
 30 1 1638 ".
 
-A 5. Occhi, ch'a la mia vita donavate ferita, piena di tal diletto (Chiabrera) l
-" " Stelle pure c lucenti, conforto de tormenti (seconda parte) " Z
+A 5. Occhi, ch'a la mia vita donavate ferita, piena di tal diletto (Chiabrera) 1
+" " Stelle pure c lucenti, conforto de tormenti (seconda parte) " 2
 " " Ben di sguardi tal'hor mi si fà dono, ben odo il suono della voce " 3
 " " Donna, s'è in voi desio ch'io vi faccia immortal col canto mio 4
 " " Ah duri e freddi sassi, poi che la fiamma mia nel vastro grembo stassi 5

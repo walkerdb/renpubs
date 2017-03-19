@@ -18,7 +18,7 @@ A 5. Perchè la vita è breve e l'ingegno paventa (Petrarca) 3
 " " Ma s'ci volca pur appressarsi al vero (seconda parte) 9
 " " Amor, vattene homai dal mio desio e come giunlo sci dille ]U
 " " Vaghe luci serenc e d'honesta bcltade sola cagion 11
-" "' Non è questa la mano, che tante e sì mortali aventò nel mio cor (Tasso) lZ
+" "' Non è questa la mano, che tante e sì mortali aventò nel mio cor (Tasso) 12
 " " Dir non posso, man cara, quanto porge di ben tua cortesia 13
 "" Gioia l'ara infinita, man cara (seconda parte) 14
 n " Già fiammeggiava l'amorosa stella per l'oriente (PC\ſHTC-î) 15
@@ -26,16 +26,16 @@ n " Già fiammeggiava l'amorosa stella per l'oriente (PC\ſHTC-î) 15
 " " Tutti prescro all'hora così l'aria :\ ferir (seconda parte) 17
 " " Ben vengh'il pastor mio, ben venga la mia ninpha 18
 " " A dio Filli mia bella. Caro mio Meri a dio (seconda parte) 19
-A 5- A tcsser frondi, herbette e ghirlandelle, a coglicr frutti ZO
-" " Ecco a l'ombra d'un orno (seconda parte) ZO
-" " Stringo la bella man, veggio il bel viso e mira (Lambertini) ZZ
+A 5- A tcsser frondi, herbette e ghirlandelle, a coglicr frutti 20
+" " Ecco a l'ombra d'un orno (seconda parte) 20
+" " Stringo la bella man, veggio il bel viso e mira (Lambertini) 22
 I-Bc: T5.
 
 630bis - CORTELLINI Camillo (1584) _ All'illustrissimo Senato della città di
 BOÌOgna. Madrigale a cinque voci. ln Bologna, nella Stamperia di Giovanni de'
 R°SSL 1584. Di licentia delli Superiori.
 
-5 [ex. in 8° (C.A.T.B.5.). pag- 4-
+5 [ex. in 8° (C.A.T.B.5.). pag- 4
 
 Sc il vigile pastore. sc il Fclsinco scnalo. Madrigale sopra la Musica nuovamente introdotta in
 

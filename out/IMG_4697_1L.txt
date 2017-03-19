@@ -13,7 +13,7 @@ A 2. Per far rapina inv.-|n t'aggiri a la mia Clitia. B. e C. (Marino) 17
 [(Marino) 18
 
 " " Tempesta di dolcezza su l'anima mi versa amor. Ad Andrea Morosini " 20
-" " Prima Sonata, doi Violini ZZ
+" " Prima Sonata, doi Violini 22
 Baci affettuosi et iscambievoli. Aminta et Clori:
 A 1. Poichè a baciar ne invita. Allo solo " B
 Prima Sinfonia B
@@ -25,7 +25,7 @@ A 2. Dolce cosa è scontrarsi. C. e A. (quarta parte) " 28
 Quarta Sinfonia 29
 A l. Raddoppiam dunque i nodi. Alto solo (quinta parte) " 30
 Quinta Sinfonia 31
-A1. Sieno i baci e gli amplessi (sesta parte) " 3Z
+A1. Sieno i baci e gli amplessi (sesta parte) " 32
 A 5. Tornate, o cari baci, a ritornarm'in vita " 33
 A 2. Seconda Sonata con li dui Violini 36
 A 5. Ecco l'hora, ecco ch'io a pen'il posso dirc " 37
@@ -47,8 +47,8 @@ dono alla Scola di musica di D. Nicola Tortamano allo Spirito Santo.
 4 fasc. in 8° (C.A.T.B.), pag. Zl,(1). Ded. di Nicola Tortamano a Gioscppc Vencrc gcntil'huomO
 Cosentino, Napoli, 22 X 1613.
 
-. \ . . . ]
-Ahi dispietata e cruda, dite perche piangete, se morir mi vedete . Z
+. \ . . . 1
+Ahi dispietata e cruda, dite perche piangete, se morir mi vedete . 2
 Vivo mio sol, tu giri le luci e me non miri (Manno)
 Vedrò il mio sol, vedrò prima ch'io mom (Guaſlnl)
 

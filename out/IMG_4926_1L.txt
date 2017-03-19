@@ -11,7 +11,7 @@ B
 " " le n'aymeray dorenavant que les bergers 1.1
 " " Lieux de moy tant avmez 11
 " " Quelle divinité s'imprime 15
-" " Estant couché pres des ruchettes l5
+" " Estant couché pres des ruchettes 15
 " " Ah vous voilà sans haut de chausse "
 " " Le petit enfant amour 18
 " " 0 beau laurier que n'ayvje 19
@@ -26,7 +26,7 @@ B
 A 4. Efiroiables torrens 28
 " " Le (lesir qui me poingt D
 " " Quelle chose icy bas est plus que moy 30
-" " Pressé d'ennuis, aﬄigé dc douleurs 3]
+" " Pressé d'ennuis, aﬄigé dc douleurs 31
 " " Accuse qui voudra les hommes %
 " " Amarant un jour cherchoit
 Espagnolles et Napolitaines 11

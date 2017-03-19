@@ -15,7 +15,7 @@ A5. L'aura gentil che rasserena i poggi (Petrarca) 5
 " " L'aurora vien ch'a noi, o bei pastori. Canzon pastorale 18
 A 4. Levate hormai che'l cor amor n'ingombra (seconda parte) 19
 " " Svegliate adunque in le fiorite rive (terza parte) 20
-" " Destate hor lieti (quarta parte) ZZ
+" " Destate hor lieti (quarta parte) 22
 " " Ecco chc'l sol del chiaro sol disgombra (quinta parte) 22
 A 5. Zefiro spira e'l vago giorno induce (sesta parte) 24
 " " Lasciate adunque, o bei pastori, il sonno (settima parte) 25
@@ -36,7 +36,7 @@ ngasc. in 8° obl. (C.A.T.B.5.6.), pag. Z9,(l). Ded. a Donna Isabella de Medici 
 V 1566.
 
 Gratie ch'a pochi'l ciel largo destina (Petrarca) 1
-Et quei begli occhi ch'i cor (seconda parte) " Z
+Et quei begli occhi ch'i cor (seconda parte) " 2
 Rott'è l'alta colonn'e'l verde lauro che faccan ombra " 3
 Ma se con sentiment'è di destino (seconda parte) " 4
 Come va il mondo hor mi dilett'e piace " 5

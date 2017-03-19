@@ -15,8 +15,8 @@ A 3. Tu sospiri. Io sospiro. Tu per altrui, io sol per te, crudele. 1
 " " Non si può più schernirc. Bisogna alfin morire. "
 " " Misero e mesto io vivo. Lieto e felice io moro. 16
 " " A che tanto piagarmi, se chiedendo pietà depongo l'armi …
-" " La novella ferita di quel labro vezzoso, se nol sapete ZO
-" " La tenerclla pianta, nata in giarclin fecondo, ZZ
+" " La novella ferita di quel labro vezzoso, se nol sapete 20
+" " La tenerclla pianta, nata in giarclin fecondo, 22
 " " Clori mi dicdc un bacio, Armilla un fiore, (Contarini) 24
 " " Un aureo c biondo crine, un caro sguardo e lionesto (Cornianl) 26
 
@@ -50,7 +50,7 @@ voce sola, con un r do Ama dino, 1606.
 
 pati. In Venetia appresso Ricciar
 
-Vol. in 4°, pag. 38-
+Vol. in 4°, pag. 38
 . Del sig. Rinuccini
 Caro e soave legno, umco pre " " " 2
 

@@ -39,8 +39,8 @@ Movimento di grado ascendente 17
 Salto di terza ascendente 18
 Salto di quarta ascendente 19
 Salto di quinta ascendente 20
-Salto di sesta ascendente ZO
-Movimento per grado descendente ZZ
+Salto di sesta ascendente 20
+Movimento per grado descendente 22
 Salto di terza descendente 23
 Salto di quarta descendente 24
 Salto di quinta descendente 25

@@ -12,10 +12,10 @@ A ]. Unica prole. Prologo per commedie (P. F. Valentini) 3
 " " So che la gioia altrui (quarta parte) " " " B
 " " Se per l'alme passait. Madrigale " " " 11
 " " Perchè m'affliggo tanto (seconda parte) " " " 15
-" " Pietà, pietà. Madrigale " " " l7
+" " Pietà, pietà. Madrigale " " " 17
 " " Questa, che'l ciel l'im'ita. Canzonetta " " " ]9
-" " Tutto, tutto il veleno (seconda parte) " " " ZU
-" " Non me val per fuggire (terza parte) " " " ZZ
+" " Tutto, tutto il veleno (seconda parte) " " " 20
+" " Non me val per fuggire (terza parte) " " " 22
 " " Fiera stella, aspra snrle (quarta parte) " " " B
 " " Lode non già, nè honore (quinta parte) " " " 24
 " " Sc l'immortalitade (sesta parte) " " " 25
@@ -49,8 +49,8 @@ A 1- Consacri al ciel. Sonetto (P- F- Valentini) 3
 " " Piangi, piangi. Canzonetta " " " 17
 " " Tu non merli essere amata. Canzonetta " " " 18
 " " Crudel, tu voi partire, non mel negar, ch'io'l so " " " 19
-" " [caro cadde qui, quest'onde il sanno. Sonetto " " " ZU
-" " Avventuroso e ben gradito (seconda parte) " " " ZZ
+" " [caro cadde qui, quest'onde il sanno. Sonetto " " " 20
+" " Avventuroso e ben gradito (seconda parte) " " " 22
 
 -l737-
 

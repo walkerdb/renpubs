@@ -1,9 +1,9 @@
 A 5. Sommo signor, io piango e de le colpe mie 15
 
 " " Deh per pietà, signor (seconda parte) 16
-" " Simile a questo mar, vasto e profondo l7
+" " Simile a questo mar, vasto e profondo 17
 " " . Con le pioggie e coi venti (seconda parte) 18
-" " Signor, le colpe mie danna e correggi ' ]
+" " Signor, le colpe mie danna e correggi ' 1
 A 8. Iam da sommo in quo tam diu. Ecco (Beal…) 23
 
 I-Rsc: compl.
@@ -42,11 +42,11 @@ A 2. Se di fregi alta e pomposa (quinta parte) " 17
 A 3. E' ciò ver qual più s'apprezza (sesta parte) " 8
 A 2. Dalla villa e dal contado son venute. Aria di contadine " 19
 " " Van succinte con un puro guarnelletto (seconda parte) 19
-" " Hanno il viso colorito (terza parte) ZO
+" " Hanno il viso colorito (terza parte) 20
 " " Di bei drappi e di fin oro (quarta parte) 20
 " " Non han sete di ricchezza (quinta parte) 20
 " " Scherzava un giorno il pargolctto amore 21
-" " Era tanto il piacer che ne sentia (seconda parte) ZZ
+" " Era tanto il piacer che ne sentia (seconda parte) 22
 " " Lo mira su dal ciel (terza parte) 22
 " " Tu t'affatichi in darno (quarta parte) 23
 A l. Tra fresch'erba tenerina Clori all'alba matutina 24

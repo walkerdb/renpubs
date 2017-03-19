@@ -8,7 +8,7 @@ A 3. Donna celeste, che di Dio sei madre. Alla beata Vergine nella Natività di 
 A 2. Dama, chi e padre al bel figliuol? Mio padre. Madrigale. Dialogo (L. Caligaris) 9
 A 1. Deh perchè non ho in, vita del viver mio. Al Crocefisso (Grillo) 10
 A 3. Perchè m'inviti pur, mondo fallace? Teco nè pace haver 11
-A 1. Con tanto amor mi chiuni, dolcissimo amor min. Madrigale (Grillo) lZ
+A 1. Con tanto amor mi chiuni, dolcissimo amor min. Madrigale (Grillo) 12
 A 3. Vattene lieta, () pura verginella, al sacro monte 13
 " " Mentre vi mim e vi rimim, angel (li Paradiso. Per il Beato Luigi 14
 A 1. Amorosa pietade, come se (l'empietà ripiena sei. Madrigale. All'Infanta Margarita
@@ -23,8 +23,8 @@ A 1. Anima cara e pia, quella vita che versi è vita mia. Madrigale. Al Prencipe
 [Cardinale Maurilio di Savoia (Grillo) 18
 
 A 3. Hor ch'è risorto il dianzi morto. Nella Resurrectione di N.S. 19
-A 1. Che tenti in questo lato, lancia ria. Madrigale. Christo a chi gli passa il petto ZO
-" " Orsola, quand'io miro il tuo seno piagato. Madrigale Zl
+A 1. Che tenti in questo lato, lancia ria. Madrigale. Christo a chi gli passa il petto 20
+" " Orsola, quand'io miro il tuo seno piagato. Madrigale 21
 CS-Pu
 
 GB-Och
@@ -39,8 +39,8 @@ Vincenti. 1615.
 
 Serenissima Republica di Venetia appresso il Serenissimo Duca di Savoia, Torino, 20 IX "S'
 
-A 5. Chc non piangi, mio cor, che non sospiri. Opprcsso dal dolor non senza Pf" Z
-" " lo moro, ecco ch'io moro, bella nemica mia. Bacio chiesto con argutla (Mmm) Z
+A 5. Chc non piangi, mio cor, che non sospiri. Opprcsso dal dolor non senza Pf" 2
+" " lo moro, ecco ch'io moro, bella nemica mia. Bacio chiesto con argutla (Mmm) 2
 
 " " Hor ch'ogni cosa tace e niun ci vede. Amoroso risentimento '
 " " Possa morir baciando chi prova nel baciar simil dolcezza. Dolci bact 5

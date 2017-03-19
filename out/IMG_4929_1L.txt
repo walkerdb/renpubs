@@ -7,14 +7,14 @@ n " O donna troppo cruda e troppo bella, voi setîe la mia sorte. C.A.T. (Guarin
 " " lo mi sento morir quand'io non miro colei ch'e la mia vita. C.A.T. 13
 " )) Filli, ai baci m'inviti e già mi stendi, perch'io la baci. A.T.ll. (Marino) 15
 " " Non più guerra, pietade, occhi miei belli. ZC. e B. (Guarini) 16
-" " Lasso, perchè mi fuggi, s'hai della morte mia tanto (h.-sin. S.A.T. l8
+" " Lasso, perchè mi fuggi, s'hai della morte mia tanto (h.-sin. S.A.T. 18
 n " Quando la donna .si (lilno\!ra altera et a li prieghi. C.A.T. 19
 n " Perchè fuggi tra salci, rilrmclla ma bella. C.A.T. (Marino) 20
-" " Voi pur da me partite, anima dura, nè vi duole il partire. C.A.T. (Guarini) ZZ
+" " Voi pur da me partite, anima dura, nè vi duole il partire. C.A.T. (Guarini) 22
 " n Belle donne, io tengo un core ai fantastico e arrogante. C.A.T. U
 n " Un lampo sereno, ch'all'omhra s'indori, che chiaro scinlilla. C.A.T. 25
 n " Hella qual voi, donne mie care, io ſui. A.T.lì. 26
-r\ 4. Per gl'occhi miei di tua lìeltà passò spirilcl zottilizsimo. C.A.T.B. ZB
+r\ 4. Per gl'occhi miei di tua lìeltà passò spirilcl zottilizsimo. C.A.T.B. 28
 
 l-llc: C.A.llc.
 
@@ -43,10 +43,10 @@ D'acqua viva un ruscel puro e lucente d'Adria nel Tebro 16
 Fiorian le rive di purpureo rose (seconda parte) _ "
 Tra le dolcezze e l'ire, e la gioia e'] martire, la giovanetta Clon [8
 
-E mentre il dual de la sua piaga (seconda parte) l9
+E mentre il dual de la sua piaga (seconda parte) 19
 Ancor ch'in alto mar di scogli Pieno, ai venti in preda 211
 Se mai pietosa madre si rallcgrò vedendo il pianto figlio suo _ 11
-Nella mia verde clade, dal mio vago terreno, anima mia gradita ZZ
+Nella mia verde clade, dal mio vago terreno, anima mia gradita 22
 Che fà hoggi il mio sole, che fa'] mio cant'e'l sono, che non cantan B
 
 Della veloce Sona in su le sponde, diccan ninſe et paston

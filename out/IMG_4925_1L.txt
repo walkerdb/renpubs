@@ -13,7 +13,7 @@ A 4. 0 combien un doux acueil 26
 A 5. Dedans l'lsle de Paphos 28
 " " Voycy le temps que l'on plante 29
 A 4. D'un fidelle paloureau .10
-" " Maisons nous paslourelle 3]
+" " Maisons nous paslourelle 31
 A 5. Enfin Borée ayant quitté sa place 32
 A 4. Dances devant ces beaux yueux 33
 " " Soubs quel aslre suy-je ne'e 34

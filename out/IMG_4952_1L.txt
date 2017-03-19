@@ -21,7 +21,7 @@ A 5. Benchè siat'usi, o spettatori illustri. Prologo Î
 " " Vien qua Zanicolindo. A. 2°, sccna seconda 17
 " " 0 ecco il capitano. A. 2°, sccna terza 20
 " " Ecco che più non resta. A. 2°, sccnn quarta - B
-" " Ah Isabella, che fai? A. 2°, scena quinta ZS
+" " Ah Isabella, che fai? A. 2°, scena quinta 25
 " " Daspuo che ho stabilito. A. 3°, sccna prima 27
 " " Ancor ch'al parturirc al si stent'al murire. A. 3°, scena seconda 30
 " " Tich tach, tich tach. A. 3°, scena terza ;;

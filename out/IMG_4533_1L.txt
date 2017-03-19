@@ -17,10 +17,10 @@ toutes les chansons. En ostant quelques mots ou plusieurs, et les accommodant (a
 qu'il m'a cste' possible) à la Musique, i'ai rendu ces chansons honnestes, et Chretiennes pour la
 pluspart... ".
 
-A 4. Si par souhait ie vous tenoye ]
-" " Soions ioieux sur la plaisante verdure ]
-" " Qui dort icy? Venus y dort (Marot) Z
-" " L'homme mortel contemplant Z
+A 4. Si par souhait ie vous tenoye 1
+" " Soions ioieux sur la plaisante verdure 1
+" " Qui dort icy? Venus y dort (Marot) 2
+" " L'homme mortel contemplant 2
 " ." Monsieur l'abbé et monsieur son varlct (Marot) 3
 " " Quand l'homme honneste va dehors 3
 " " La ferme foy souvent me fait instance 4
@@ -44,7 +44,7 @@ A 4. Si par souhait ie vous tenoye ]
 " " En espoir vis et crainte me tourmente 14
 " " L'homme de bien dit à son ame "
 " " Sauter, danser, faire les tours IS
-" " Ie suis quasi prest d'enrager l6
+" " Ie suis quasi prest d'enrager 16
 " " I'ai du ciel la science de prendre patience 16
 " " Les dez c'est ieu pire qu'aux quilles (Maroc) 17
 " " Si vous n'estes en bon point 17

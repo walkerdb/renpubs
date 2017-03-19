@@ -4,10 +4,10 @@ A 5. Starsi madonna c nel suo seno amore in \'idi e'l bianco \'elo levarsi ]Z
 " " Ch'io mi scordi di voi, che mi \'i tolga altro pensier dal core 14
 n " Clori mi dicd'un bacio, Armilla un fiore, Filli mi diede il core (Contarini) 15
 " ": Ha ne begl'occh'il sole. amor nelle parole, l'accorgimento in viso 16
-" " Lunga stagion io spesi in traber guai e di lacrime calde (Chiabrera) l7
+" " Lunga stagion io spesi in traber guai e di lacrime calde (Chiabrera) 17
 " " Un sguardo, un sguardo no, troppo pielate è per misero amante " 18
 n " Amor part'io morendo, o pur moio partendo, se'l morir è de l'alma 19
-A 10. Garrula rondinella, che nel spuntar del die mi svegli. Madrigal ZO
+A 10. Garrula rondinella, che nel spuntar del die mi svegli. Madrigal 20
 1-VO: T.E.
 
 2147 _ PASSETTO Giordano (1541) _ Madrigali nuovi a voce pare composti
@@ -36,7 +36,7 @@ Nel di che sì gran fiamm'al cor m'acces'amor 18
 " dolce suon : quelle voci chiare, madonna, m'empion di dolcezza 19
 Può far il ciel, madonna, che mai pietà in voi non trovi luoco 20
 Una leggiadra \'agh'e bella nimpha usciva d'un boschetto alla verdura 21
-Se bramat'il mio male, usnte la pictate che questa può più in me ZZ
+Se bramat'il mio male, usnte la pictate che questa può più in me 22
 Veramente, madonna, egli è si poca fed'hoggi fra noi (N. Delfino) 11
 Ohimè, dov'è il ben mio, che sì car'il tenea 24
 Perchè, madonna, io vivo solo del vostr'amor (Molino) 25

@@ -5,8 +5,8 @@ posti in luce. Opera Nona. In Venetia 1614. Appresso Ricciardo Amadino.
 5 fasc. in 8° (C.A.T.B.Bc.), pag. 21. Ded. ad Alfonso d'Este, Prencipe di Modona, et Reggio,
 Mantova, 15 X 1614.
 
-A 4. Piangete, occhi miei lassi, c intenerit'il core di colei che s'indura l
-" " O quante volte inv.-|n, cor mio ti chiamo (Guarini) Z
+A 4. Piangete, occhi miei lassi, c intenerit'il core di colei che s'indura 1
+" " O quante volte inv.-|n, cor mio ti chiamo (Guarini) 2
 " " Tanto è'] martir d'amore, che com'io non ho lena 3
 " " Come è dolce il gioire, o caro Tirsi 4
 " " Semir che la tua donna (seconda parte) 5
@@ -24,7 +24,7 @@ A 4. Piangete, occhi miei lassi, c intenerit'il core di colei che s'indura l
 " " Cor mio, mcntrio vi miro visibilmente mi lrasform'in voi (Guarini) 17
 " " Ah dolente partita, ah fin della mia vita, da te parto " 18
 " " Ed è pur ver ch'io parta, o m'allontani (la quei sereni rai 19
-A 8. Amor, se pur (leggio morir senza pietà del dolor mio. Dialogo ZO
+A 8. Amor, se pur (leggio morir senza pietà del dolor mio. Dialogo 20
 
 l-VEcap: compl.
 l-Rsc: C.
@@ -38,7 +38,7 @@ Monferrato: " le primitie delle mic fatiche... Venezia, 16 IX 1600 ".
 
 . . 1
 
-A 5. Pur venistl, cor mio, e pur tho qui presente c pur ti vcggto (Guann) Z
+A 5. Pur venistl, cor mio, e pur tho qui presente c pur ti vcggto (Guann) 2
 . . . . .. . . . . "
 
 " " Felice chi vr mira, ma piu felice chi per vor sospira 3

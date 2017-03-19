@@ -8,7 +8,7 @@ A 4. Non vous n'cslcs pas yeux 3
 " " Or que la nuict (l'un handeau 9
 " " le suis amoureux (l'une fille 10
 " " Au jol)' bois je m'en \'oys 11
-" " Amnns, qui (l'amour pipéx lZ
+" " Amnns, qui (l'amour pipéx 12
 " " Diane aux doux aurais 13
 " " Parmy lant de viperes 14
 " " Amour n'advance le trespas 15
@@ -18,7 +18,7 @@ A 4. Non vous n'cslcs pas yeux 3
 " " Tu as donc quiclé, bergere 19
 " " Allc's légere inconsmnle 20
 " " ll laut enfin bel amant 21
-" " Tu as encor envie ZZ
+" " Tu as encor envie 22
 " " Vous me jurez sur vostre \'ie B
 " " Marguarila, Marguarita, las qu'avez vous 24
 " " Me _voila hors du naufrage 25
@@ -45,7 +45,7 @@ In"Pl'imeurs du Roy. Avec privilege de sa magesté pour dix ans.
 
 4 fasc. in 8° obl. (C. Conlralenor, T.E.), c. 39,(1). Ded. a Henri 111, Paris, 10 V 1582.
 
-A 5. Ai celesti concenti Z
+A 5. Ai celesti concenti 2
 A 4. Tandis que le soleil arclant ;
 " " Thircis \'nuloil mourir et pzlsmé 4
 " " Ah que dy-tu, petit archer 5

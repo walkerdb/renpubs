@@ -34,7 +34,7 @@ A 4. Guardatevi da questi, che sul fiore de lor begli anni il viso han (Ariosto)
 " " Ben si può dir sì com'al mio bel solc aguagliar non si de cosa mortale 9
 " " La virginella è simil'a la rosa, ch'in bel giardin su la nativa spina (Ariosto) lU
 " " Ma non sì tosto dal materno stelo rimossa (seconda parte) " 11
-" " Nasce la pena mia non possendo mirar mio vivo solc e la mia vita è ria lZ
+" " Nasce la pena mia non possendo mirar mio vivo solc e la mia vita è ria 12
 " " Nasce la goia mia dal dolce suon de vostr'alme parole 12
 " " Prcss'un alpestre riva pasco l'alma dolente in questi monti 13
 " " Voi volclc ch'io moia e mi date dolor sì crud'e forte, che mi conduce a morte 15
@@ -42,10 +42,10 @@ A 4. Guardatevi da questi, che sul fiore de lor begli anni il viso han (Ariosto)
 " " Gravi pene in amor si provan molte, di che patit'io n'ho la maggior (Ariosto) 17
 " " Ogni stato d'amor liet'e gioioso, ogni dolce piacer, ogni diletto 18
 " " E poi che nota l'impietà mi fia, che di tanta bontà fu a lei (Ariosto) 19
-" " I giuramenti : lc promesse vanno dai vcnt'in aria (seconda parte) " ZO
-" " Rendcte, alma gentile, a vostra patria'l sole e le rose e le viole Z]
-" " Erasi al sole il mio bcl sol assiso, che par altro non trova (G. B. Strozzi) Z]
-" " Io vegio tante gratic in quel bel viso, donna, quando vi guardo (Cassola) ZZ
+" " I giuramenti : lc promesse vanno dai vcnt'in aria (seconda parte) " 20
+" " Rendcte, alma gentile, a vostra patria'l sole e le rose e le viole 21
+" " Erasi al sole il mio bcl sol assiso, che par altro non trova (G. B. Strozzi) 21
+" " Io vegio tante gratic in quel bel viso, donna, quando vi guardo (Cassola) 22
 " " O dolorosa vita de gli amanti, nemica di quiet'alpestr'e dura B
 " " Crin lcggiadro ch'un raggio eri pur dinanzi del sol, le cui duc stelle 24
 

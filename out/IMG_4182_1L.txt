@@ -12,9 +12,9 @@ Voi, donne, che cercate mille amanti, credete certo a me 16
 O crudi miei pensier, lasciate il core, armate contr'amor 17
 Tutte l'offese che m'hai fatte, amore, io ti perdono 13
 Chi mi consola, ahimè, son disperato. La notte quando penso 19
-Se'l foco ch'è a l'inferno non fusse così eterno ZO
+Se'l foco ch'è a l'inferno non fusse così eterno 20
 Scacchier'è deventato lo mio core, di turchin e di bianc'è fatto "
-Deh pastorella cara, ti prego non dormire. D'incerto ZZ
+Deh pastorella cara, ti prego non dormire. D'incerto 22
 A-Wn: compl.
 
 385… BONELLI Aurelio (1602) _ Il Primo Libro de Ricercari et Canzoni a quattro
@@ -25,11 +25,11 @@ di S. Michele in Bosco. In Venetia, appresso Angelo Gardano. 1602.
 25 X 1601.
 
 A 4. Ricercar del primo tuono 1
-" " Ricercar del secondo tuono Z
+" " Ricercar del secondo tuono 2
 " " Ricercar del terzo tuono î
 " " Ricercar del quarto tuono 5
 " " Ricercar del quinto tuono 6
-" " Ricercar del scsto tuono 7
+" " Ricercar del sesto tuono 7
 " " Ricercar del settimo tuono 8
 " " Ricercar del ottavo tuono 9
 " " Licori. Canzon prima …

@@ -30,7 +30,7 @@ A3- Cieco amor non ti cred'io, ma fai cieco il desio. Coro di ninfe " 19
 A 1. Ma voi giocate troppo largo e troppo vi guardate. Amarilli " 20
 A3- Ma tu pur perfido e cieco mi chiami a scherzar teca. Coro di ninfe " 11
 A ]. In bona fè, Lieori, :h'io mi pensai d'haverti priva. Amarilli " 22
-A3" Sciolto cor fa piè fugace o lusinghier fallace. Coro di ninfe " ZZ
+A3" Sciolto cor fa piè fugace o lusinghier fallace. Coro di ninfe " 22
 A 1- 0 fosti svelta, maladetta pianta. Amarilli n B
 A3. Mira, nume trionfante, a cui da'] mondo amante. Coro di ninfe " 25
 
@@ -56,7 +56,7 @@ Privilegio. In Venetia, appresso Alessandro Raverij. 1608.
 f""to del debole ingegno mio... Venetia, 15 X1 1608 ".
 
 A 5. Occhi bei sì ma crudi c di pietad'ignudi, che s'in me vi volgete 1
-" " Com'è soave cosa tanto goder quant'ami, tant'haver quanto brami (Guarini) Z
+" " Com'è soave cosa tanto goder quant'ami, tant'haver quanto brami (Guarini) 2
 
 -763-
 

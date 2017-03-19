@@ -5,7 +5,7 @@ A 5. Amando moro. Felice giorno, quando che sia 14
 " " Ririma gli arbuscclli spicgar al sol il suo bel crine 17
 " " La bella donna mia d'un sì bel foco e di sì bella neve 18
 " " Qual è a veder, qual hor vermiglia rosa (seconda parte) 19
-A 8. Amor, i' son ferito sì ch'a morte, lasso, men corro. Dialogo ZO
+A 8. Amor, i' son ferito sì ch'a morte, lasso, men corro. Dialogo 20
 
 I-MOe: compl.
 GB-Lbm: compl. (prov. Huth Collection)

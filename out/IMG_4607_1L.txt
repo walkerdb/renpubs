@@ -17,7 +17,7 @@ A 1. O infelice colui che s'innamora. Vilanella che si può cantare nella Chitar
 " " Questa tenera angioletta. che fuggendo alcun non prezza. Villanella che si può cantare
 nella Chitariglia lﬂ
 " " Mentre spargo le voci al ciel dolenti, l'aria. Tenore solo (Contarini) 20
-" " Ho visto al mio dolore sparger a mille a mille. Voce sola (Striggio) ZZ
+" " Ho visto al mio dolore sparger a mille a mille. Voce sola (Striggio) 22
 " " O vaga tortorella, tu la tua compagnia et in piango colei. Per cantare nella Chita-
 riglia. Basso solo (Tasso) 24
 " " Sospirava infelice e la sua sorte piangnea dolente. Alto solo i:
@@ -55,7 +55,7 @@ A 5. Hor che Gioanni entro al deserto esclama. Spirituale. Tre voci e due Violin
 " " Hor so come da sè'l cor si disgiunge e come sa far pace (Petrarca) 22
 " " Su l'ali del tempo sen fugge l'età e disperde l'altrui beltà. 3 voci e 2 Viol. 24
 " " Spars'lio in pianto il mio sangue, vezzosa mia crudel 26
-" " Aure placide e volanti, messaggere dell'aurora ZB
+" " Aure placide e volanti, messaggere dell'aurora 28
 " " Per torbido mare m'ha fatto Il penstero, di lagrime amare dolente nocchiero 30
 
 - 1058 -

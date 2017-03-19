@@ -39,7 +39,7 @@ A 5. Cieco, amor, non ti cred'io, che fai cieco il desio. Scherzo primo (Guarini
 " " Ma a chi parlo, infedice (quarta parte) " 10
 " " Ma tu perfido, cieco mi chiami a scherzar teco. Scherzo secondo " 11
 " " Cruda Amarilli, che col nome ancora d'amar, ahi lasso " 11
-" " O Mirtillo, Mirtillo, anima mia, se vedcsti qui dentro " lZ
+" " O Mirtillo, Mirtillo, anima mia, se vedesti qui dentro " 12
 " " Anima ingrata e cruda, se tu vuoi pur ch'io mora " 13
 " " Anima mia, perdona a chi t'è cruda sol dove pietosa " 15
 " " Che se tu seì il cor mio (seconda parte) " 16
@@ -47,8 +47,8 @@ A 5. Cieco, amor, non ti cred'io, che fai cieco il desio. Scherzo primo (Guarini
 " " Stella, che scintillando fiammeggi in terra più ch'] sole 17
 " " Non temer, Filli, ch'io scopra l'amoroso ardore 18
 " " Che veggio ohimè, che sento? Filli, che già pietosa 20
-" " All'apparir della pomposa aurora di fior vaga corona. Di Silao Cascntini Zl
+" " All'apparir della pomposa aurora di fior vaga corona. Di Silao Cascntini 21
 )) ))
 
-Quando l'alte bellezze di questa dea (seconda parte) ZZ
+Quando l'alte bellezze di questa dea (seconda parte) 22
 

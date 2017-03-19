@@ -18,9 +18,9 @@ O come sei gentile, caro augelino, o quanto è'] mio stato (Guarini) 15
 Larv'amorosa e cara, che i dolci avori e gli ostri 17
 O che sguardi soavi, ecco il cor fuggitivo 18
 Pastor, di che piangete? se piangete il mio affanno (Tasso) 19
-Dolor, che sì mi crucii, che non m'uccidi homai " ZO
+Dolor, che sì mi crucii, che non m'uccidi homai " 20
 
-Bello e dolce morir fu certo all'liora (seconda parte) " Zl
+Bello e dolce morir fu certo all'liora (seconda parte) " 21
 
 l-Rsc: compl.
 F-Pmcyer: C.
@@ -32,8 +32,8 @@ In Venetia, appresso Giacomo Vincenti. 1604.
 
 6 fasc. in 8° (C.A.T.B.5.6.), pag. Zl,(l). Ded. al Conte Horatio Anguisciola, Lodi, 30 VllI 1604-
 
-Clori mia, che mi giova che cib'al corpo doni l
-Alba cruda, alba ria, che'l mio_bel sole di braccio mi disciogli l
+Clori mia, che mi giova che cib'al corpo doni 1
+Alba cruda, alba ria, che'l mio_bel sole di braccio mi disciogli 1
 Quand'io penso al martire, amor, che tu mi dai (Bembo) 3
 Ho visto al pianto mio risponder per pietate i sassi (Tasso) 4
 Parto sì, ma non mai sia che d'altr'io mi sia 5
@@ -47,7 +47,7 @@ Amorosa fenice nel sol che solo adoro ardendo vivo e moro" (Tasse) "
 
 Non ha mcn bianch'il petto di questo ghiaccio la mia donn'amore 11
 Vaga ghirlanda che le tempie infiori a la mia Filli "
-Se canti, al canto tuo si ferma il sole M
+Se canti, al canto tuo si ferma il sole 14
 [' piango e grido sempre aita e tu rispond'ogn'hor: aspetta 15
 Nè mai più vaga il ciel, nè più bell'alba sopra l'onde 16
 

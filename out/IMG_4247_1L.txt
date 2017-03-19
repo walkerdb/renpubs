@@ -21,9 +21,9 @@ Felice al mondo, rara e pellegrina (terza parte) 16
 Qual tempestoso mar di notte, il verno, per gli Adriaci sen 17
 Ma teme ancor tal'hor con picciol segno (seconda parte) 18
 Quel per l'indieo mar, là ver l'aurora, conca raccoglie 19
-Qual rugiada a l'apparir del sole (seconda parte) ZO
-Havete il ghiaccio in seno, in fronte il sole Zl
-Occhi leggiadri. ne cui vaghi giri scherzano liet'i pargoletti amori ZZ
+Qual rugiada a l'apparir del sole (seconda parte) 20
+Havete il ghiaccio in seno, in fronte il sole 21
+Occhi leggiadri. ne cui vaghi giri scherzano liet'i pargoletti amori 22
 
 Crin d'oro crespo di ch'i cori annoda (seconda parte) B
 Di bel piacer m'havea la mente accesa e'n gran pensier
@@ -56,7 +56,7 @@ In fine: " ln Venetia, aere Bartholomei Magni. 1613 ".
 Vol. in 8°, pag. 33. Ded. a Massimiliano Ernesto, Arciduca d'Austria. Venetia, 1° [1 1613.
 
 A 1. Non ml conosci tu, [() ben conosco | tum detti bugiardi
-\ -- . - . d' ['Ani) Z
+\ -- . - . d' ['Ani) 2
 ., " Non è, non e piu cor quer-to mio core (Francesco u. S 3
 
 " " La misera farfalla par che si prenda in gioco (Sasonc)

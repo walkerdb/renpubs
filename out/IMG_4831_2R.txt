@@ -11,7 +11,7 @@ A 5. Fem gentil, che con leggiadro nodo 9
 " " Candid'c vago fiore 18
 " " Poi che m'invit'amore a lngrimnr mai sempre, desio che'l cuor 19
 " " E se pur mi mantiene amor (seconda parte) 20
-" " Alma real, se come fida stella Zl
+" " Alma real, se come fida stella 21
 " " Misero mc, ch'alle mie spcs'imparo. Di Adriano Anſ/ille E
 " " Rex Asiae et Ponti potuit celeberrimui olim B
 
@@ -50,7 +50,7 @@ A 5. Alma Susanna, ben felice è il core 7
 " " Poi che m'invita amore a lagrima: 15
 " " Candido c vago fiore 16
 " " Da lc belle contrade d'oriente 17
-" " E sc pur mi mamicnc amor IB
+" " E sc pur mi mamicnc amor 18
 " " Alma real, se come fida stella 19
 " " Rex Asiac ct Ponti poluit ccleberrimus olim 20
 

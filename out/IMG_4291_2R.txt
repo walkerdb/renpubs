@@ -6,7 +6,7 @@ A5. Che fai, che non involi quelle due fresche rose 5
 " " Neve e rose ha nel volto quella pura angioletta . . 9
 " " Dice la mia bellissima Lieori, quando talhor lavello seco (Guarini) 10
 " " Mentr'io v'adoro e voi m'havet'a schivo, o nemica d'amor " 11
-" " Ma se vostro son pur, deh perchè tanto (seconda parte) " lZ
+" " Ma se vostro son pur, deh perchè tanto (seconda parte) " 12
 " " Così m'ha fatt'amor d'aspri martiri (terza parte) " 13
 " " Ma se di posseder chi viv'in pianti (quarta parte) " 14
 " " Se nel tuo regn'amor, gìustitia fosse da te punita [ora 15
@@ -15,13 +15,13 @@ A5. Che fai, che non involi quelle due fresche rose 5
 " " Hot che di bionde spiche l'estate si corona 18
 " " Mentre di perle e d'oro, ben mio, tessete a voi novo lavoro 19
 " " Sole la madre fue, tu Lucifero figlia e mentre ch'ella splende 20
-" " Mentre fra l'auree stellc, luna mia, nova luna in ciel ten vai Zl
-" " Vasa stella, che splendi via più che'] sol ZZ
+" " Mentre fra l'auree stellc, luna mia, nova luna in ciel ten vai 21
+" " Vasa stella, che splendi via più che'] sol 22
 " " Se alla gelata mia timida lingua tolse la voce amore (Pocaterra) 23
 " " Che dura legge hai nel tuo regn'amore (Guarini) 24
-" " Ahi com'a un vago sol cortese giro di due begli occhi " ZS
-" " Lingue al vostro languir l'anima mia e dico: ah forse " Z6
-A8. Fresche aque, verdi prati, ombrosi mirti, siate presenti. Dialogo d'Amante et Echo. ZB
+" " Ahi com'a un vago sol cortese giro di due begli occhi " 25
+" " Lingue al vostro languir l'anima mia e dico: ah forse " 26
+A8. Fresche aque, verdi prati, ombrosi mirti, siate presenti. Dialogo d'Amante et Echo. 28
 
 A-Wn: C.A.B.5.
 
@@ -34,8 +34,8 @@ Amadino. 1591.
 4 fase. in 8° (CA-T.E.). pag. ZZ. Ded. a Giovanni Michiel fu dell'illustriss. Signor Alvise.
 Venetia, 26 VIII 1591.
 
-V°'iZIParlar e dire quant'è grav'il martire ch'io sento l
-_"? ! begli occhi tuoi lucide stellc che mi fan gir sieuro Z
+V°'iZIParlar e dire quant'è grav'il martire ch'io sento 1
+_"? ! begli occhi tuoi lucide stellc che mi fan gir sieuro 2
 Lidia mira Narciso lung'il vicino rio, com'ei vive de l'acque 3
 Le 'W'-. frond'e fiori che mi porgesti, o Clori, spirano 4
 A"1°ſosetti augelli, ch'al sol cantate su la verde fronda 5

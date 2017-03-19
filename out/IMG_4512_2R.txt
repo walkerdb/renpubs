@@ -13,13 +13,13 @@ A 5. Et d'ou venez vous madame Lucette 15
 " " De tout mon coeur i'ayme. la Marguerite (Cre'tin) 13
 " " I'endure tourment des tourments le pire 19
 " " 0 dolci paroletti, o dolce riso, che tanti amari mei m'addolcite (Cassola) D')
-" " Puis que fortune a sur moy entrepris ZZ
+" " Puis que fortune a sur moy entrepris 22
 " " Au feu, au ſeu. Venez moy secourir (0- de Saint-Gélais) B
 " " Au leau iettes toy vistement. Response " 24
 " " Quid prodest stulto habere divitias 25
 " " La vita fugge et non s'aresta un hora et la morte vien dietro (Petrarca) 26
 " " Pater peccavi in caelum et coram te 27
-" " Quanti mercenari in domo patris (secunda pars) ZB
+" " Quanti mercenari in domo patris (secunda pars) 28
 " " La terre les eaux va beuvant (Ronsard) 29
 D-Mbs: compl.
 
@@ -34,8 +34,8 @@ L'an 1570.
 
 5 fase. in 8° obl. (Superius, T. Contratenor, B. S.).
 
-A 4. Bon iour mon coeur bon iour ma duolce (Ronsard) l
-" " O comme heureux icstimeroys Z
+A 4. Bon iour mon coeur bon iour ma duolce (Ronsard) 1
+" " O comme heureux icstimeroys 2
 " " In dubbio di mio stato hor piango hor canto (Petrarca) 4
 " " Quand mon mari vient de dehors 5
 " " En un lieu ou l'un ne voit goutte (O. (le Saint-Gélais) 6
