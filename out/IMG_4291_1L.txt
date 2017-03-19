@@ -22,7 +22,7 @@ A 5. Chi veder bram'in terra un novo sole l
 " " Che via più che la vila ho sempr'amato (seconda parle) b
 " " La paslorella mia l'allr'hier mirando col mio capro cozzar !:
 " " A qualunque animal alberga in terra. Canzon (Petrarca) "
-" " Et io da che comincia la hell'alba (scconda parte) " lf
+" " Et io da che comincia la hell'alba (seconda parte) " lf
 " " Quando la sera scaccia il chiaro giorno (terza parle) :;
 " " Non credo che pascessc mai per selva (quarta parte) 19
 " " Prima ch'i' torni a voi, lucenti stelle (quinta parte) 20

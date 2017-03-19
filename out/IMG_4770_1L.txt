@@ -5,10 +5,10 @@ A 5. Se la mia vita da l'aspro tormento si può tanto (Petrarca) 12
 " " Fu ben dur'il partire da voi, mio ver e glorioso solc 15
 " " S'una fed'amorosa, un cor non finto, un lang-uit dolce (Petrarca) 16
 " " Solea da la fontana di mia vita allontanarmi " 17
-" " Hor, lasso, alzo la man et l'armc rendo (scconda parte) " 18
+" " Hor, lasso, alzo la man et l'armc rendo (seconda parte) " 18
 " " Chi nol sa di ch'io vivo c vissi sempre dal dì " 18
 " " Occhi miei, ch'al mirar foslc sì pronti, l'alticra luce che c'impiaga. Canzon 20
-" " Orecchie. che per gratia udist'alhora saggie parole (scconda parte) Zl
+" " Orecchie. che per gratia udist'alhora saggie parole (seconda parte) Zl
 " " Lingua che l'aria e'] ciel, l'acqu'c la terra (terza parte) ZZ
 " " Cor, che sfogand'il nostr'intcns'ardorc (quarta parte) B
 " " Man, che scrivete la beltà immortale (quinta parte) 24
@@ -41,7 +41,7 @@ primo principe ;
 " " E' sì grat'c soave il piacer che si prende _ 7
 " " Che giova saettar un che si more (Arrosto) 8
 " " Sc ſu felic'al mondo ct fortunata Laura che del gran Tosco et immortale 9
-" " Quella che fu da degno (scconda parte) 10
+" " Quella che fu da degno (seconda parte) 10
 " " Candida e riccha vela, ch'in ocean pigliand'altcro volo Il
 " " Quel fuoco che m'acces'in pett'amorc 12
 " " Tolta m'è quella ond'attendea mcrcede 13

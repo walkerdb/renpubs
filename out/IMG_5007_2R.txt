@@ -5,7 +5,7 @@ A 5. O ficr'aspr'e selvaggie, amoroſich'augclli 25
 " " Passa la nave mia colma d'oblio per aspro mar " 28
 " " Pioggia di lagrimar, nebbia di sdegni (seconda parte) " 29
 " " Passer mai solitari'in alcun letto non ſu " 30
-" " ll sonn'è veramente qual huom dice (scconda parte) " 31
+" " ll sonn'è veramente qual huom dice (seconda parte) " 31
 " " La verginèll'è simil a la rosa, ch'in bel giardin (Ariosto) 32
 " " Ma non si (oslo dal materno stelo (seconda parle) " 33
 " " Sia vil a gl'allri c da quel sol amata (terza parte) " 34
@@ -44,7 +44,7 @@ A '5- Quella donna real. Can7.on prima ;
 " " Ma dell'error già la vendetta .(quarla .parte) . d 5
 " " Qual volta, donna, mi si raprcscnta ll bel VISO loggia ro (Penna) 6
 " " Passa la nave mia colma d'oblio per aspro mar " _ 6
-" " Pioggia di lagrimar, nebbia di sdegnl (scconda parte) (Della ca") 7
+" " Pioggia di lagrimar, nebbia di sdegnl (seconda parte) (Della ca") 7
 " " O sonno, o della quct'humid'ombrosa notte " "_ 8
 " " Ov'è'l silentio, chc'l dì fugge (seconda 'pari-.'). 8
 " " Cura, che di timor ti nutri e crcsci e tosto [cd a tu01 " " 9
@@ -52,7 +52,7 @@ A '5- Quella donna real. Can7.on prima ;
 " " Sì dolc'ombr'e Som-c arbor udnqua Tin ha (Petrarca) 10
 selva io e cru a vogia
 
-i: " ASPTÇi'ÏTSZI di sîîranza rimembrando ('scconda _parte) " ;?
+i: " ASPTÇi'ÏTSZI di sîîranza rimembrando ('seconda _parte) " ;?
 " " S'al'lmr che per pigliar Laurent'Enea fe cos ond ogm (ll
 
 - 1851 -
