@@ -1,0 +1,82 @@
+Pca
+
+Rc
+Rchristoﬀ
+de
+Rgiazotto
+Rli
+Rn
+Rsc
+Rsmt
+Rv
+Rvat
+REas
+REm
+RIM
+Sac
+Sc
+Sd
+SPc
+SPd
+ST
+SPE
+Ta
+Tci
+Tn
+Tr
+TOR
+TRC
+TScon
+TSt
+
+Napoli, Biblioteca del Conservatorio
+Napoli, Biblioteca dell’Oratorio dei Filippini
+Napoli, Biblioteca Nazionale
+Orvieto, Archivio del Duomo
+Orvieto, Biblioteca Comunale
+Padova, Archivio della Cappella Antoniana
+Padova, Biblioteca del Seminario
+Padova, Biblioteca Universitaria
+Parma, Biblioteca del Conservatorio
+Piacenza, Archivio del Duomo
+Perugia, Biblioteca Comunale
+Pesaro, Biblioteca del Conservatorio
+Pisa, Archivio Capitolare della Primaziale
+Pisa, Biblioteca Universitaria
+Palermo, Biblioteca del Conservatorio
+Palermo, Biblioteca Comunale
+Palermo, Biblioteca Nazionale
+Pistoia, Archivio Capitolare della Cattedrale
+Roma, Biblioteca Angelica
+Roma, Archivio di Stato
+Roma, Biblioteca Casanatense
+Roma, Collezione Boris Christoﬀ
+Roma, Archivio Doria—Pamphily
+Roma. Collezione Giazotto
+Roma, Biblioteca Corsiniana
+Roma, Biblioteca Nazionale
+Roma. Biblioteca del Conservatorio
+Roma, Archivio di S. Maria in Trastevere
+Roma, Biblioteca Vallicelliana
+Roma, Biblioteca Apostolica Vaticana
+Reggio Emilia, Archivio di Stato
+Reggio Emilia, Biblioteca Municipale
+Rimini, Biblioteca Civica
+Siena, Biblioteca dell’Accademia Chigiana
+Siena, Biblioteca Comunale
+Siena, Archivio del Duomo
+Spoleto, Biblioteca Comunale
+Spoleto, Archivio del Duomo
+Stresa, Biblioteca Rosminiana
+Spello, Archivio di S. Maria Maggiore
+Torino, Archivio di Stato
+Torino, Biblioteca Civica
+Torino, Biblioteca Nazionale
+Torino, Biblioteca Reale
+Torre del Lago - Museo Puccini
+Trento, Biblioteca Comunale
+Trieste, Biblioteca del Conservatorio
+Trieste, Museo Teatrale
+
+_.xx._
+

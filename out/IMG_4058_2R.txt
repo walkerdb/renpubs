@@ -1,0 +1,52 @@
+TVc Treviso, Biblioteca Comunale
+
+TVd Treviso, Archivio del Duomo
+
+Uu Urbino, Biblioteca dell’Università
+
+Vc Venezia, Biblioteca del Conservatorio
+
+Vgc Venezia, Biblioteca della Fondazione Giorgio Cini
+Vrnc Venezia, Museo Correr
+
+Vnm Venezia, Biblioteca Nazionale Marciana
+
+Vul Venezia, Fondazione Levi
+
+VCd Vercelli, Archivio del Duomo
+
+VEaf Verona, Biblioteca dell’Accademia Filarmonica
+VEcap Verona, Biblioteca Capitolare
+
+VIb Vicenza, Biblioteca Comunale Bertoliana
+
+VO Volterra, Biblioteca Guarnacciana
+
+VTcerasa Viterbo, Collezione Cerasa
+
+NL: NEDERLAND
+
+At Amsterdam, Toonkunst Bibliotheek
+DHgm Den Haag, Gemeente Museum
+DHk Den Haag, Koninklijke Bibliotheek
+Lt Leiden, Bibliotheca Thysiana
+Lu Leiden, Universiteits-Bibliotheek
+R Rotterdam, Gemeente Bibliotheek
+Uim Utrecht, Instituut voor Muziekwetenschap de Rijksuniversiteit
+P: PORTUGAL
+C Coimbra, Biblioteca Geral da Universidude
+Pm Porto, Biblioteca Publica Municipal
+PL: POLSKA
+GD Gdansk, Biblioteka Polskiej Akademii Nauk
+K] Krakow, Biblioteka ]agiellònska
+LEtpn Legnica, Biblioteka Towarzystwa Przjaciòl Nauk
+Tu Torun, Biblioteka Universytecka
+Wn Warszawa, Biblioteka Narodowa
+Wu Warszawa, Biblioteka Universytecka
+WRu Wroclaw, Biblioteka Universytecka
+S: SWEDEN
+H Hèilsingborg, Fryklunds samling (ora in: Skma)
+L Lund, Universitetsbibliotek
+
+—XXI——
+
