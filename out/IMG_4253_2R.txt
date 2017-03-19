@@ -43,7 +43,7 @@ A 1 Padre del ciel, s’un tempo sì follemente ho pianto (Guarini) 3
 ” ” Chi m’invola il mio tesoro, il sembiante del mio amante 14
 A 2 Felici voi. cui serba alto favore. Aria di Romanescha. La Vergine a Re Magi IS
 ” ” Scopron languidi rai sì bel (seconda stanza) 15
-:: : Bcc-o prendete il pargoletto (terza stanza) 16
+» : Bcc-o prendete il pargoletto (terza stanza) 16
 » » 0 01 da lorme, dal sen, da le pupille. (quarta stanza) 16
 » ” “gne bella a la .solinga grotta. Aria di Gazella. Madalena nel deserto 17
 ” » Q ] come dolce … ﬂebll voce (seconda Stam-'t) . 18
