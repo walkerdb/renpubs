@@ -39,7 +39,7 @@ A 5. Se nel sereno viso 12
 A 4. La Rizza. Canzon 16
 A 3. La Cominciola. Synfonia e B. 13
 " " La Pinella. Symfonia 19
-" " La Grimani. Symfonia c Bale! 20
+" " La Grimani. Symfonia e Bale! 20
 A 2. La Bombarda. Canzon 22
 A 3. La Rossa. Gagliarda 23
 A 2. La Malipiera. Symſonia 24
@@ -51,5 +51,5 @@ A Z. La Roccha. Gagliarda 29
 I-Bc: C.1°
 
 GB-Lbm: C.Z°
-Sartori l6lBtl c Il l618d.
+Sartori l6lBtl e Il l618d.
 

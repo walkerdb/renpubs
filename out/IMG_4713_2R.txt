@@ -9,7 +9,7 @@ A 5. Faciam, cara mia File, un concento, una musica gentile 1
 " " Ondeggiavan a l'aura le bionde chiome d'oro quand'io vidi 3
 " " Sc dipingere amore brami, saggio pittore, dipingi il pargoletto 4
 " " Amorosi pastori e accorte ninfe. vezzosc pastorellc 5
-" " Canta mia musa homai lieta c ridente i miei felici 6
+" " Canta mia musa homai lieta e ridente i miei felici 6
 " " I sospiri, i dolor, le cure e i pianti (seconda parte) 7
 " " Ben dc la cara bocca, vero seggio d'amore, mi risuonan 8
 " " Dolcemente dormia bella e vezzosa Clori in mezzo un prato 9
@@ -42,7 +42,7 @@ A 5- Gli occhi sereni e le stellanti ciglia (Petrarca) 4
 " " Occhi sereni, angeliche parole, riso pien di dolcezza 6
 " " Dentr'a bagno di rose et di viole 7
 " " Hor la spinge, hor ritiene un torbido consiglio 8
-" " Cantiamo lieti c voi, fauni c pastori 9
+" " Cantiamo lieti e voi, fauni e pastori 9
 " " Quando mia fera stella mi fè da voi lontan, chiaro mio sole 1(]
 " " Mentre io mirava fiso della mia donna gl'occhi ardenti e belli (Tasso) 11
 " " Per la dolce (: sì cara gioia, clie'l cor m'ingomhra 12

@@ -13,7 +13,7 @@ A Z. A voi parlo, :\ voi narro i miei dolori. Con voi sfogo. Grave 1
 A 4. Deh dimmi, amor, com'il tuo stral non spezza. Dialogo: Amante e Sdegno. Grave 4
 A 3. Tra doglie e dispetto si strugg'il mio petto. Affettuosa 8
 " " Non segu'amor chi senza sorle nasce. Io lo so sventurato. Affettuosa lO
-" " Crudel, c che vuoi più, che vuoi più tu da me, s'io t'amo. Affetruosa 12
+" " Crudel, e che vuoi più, che vuoi più tu da me, s'io t'amo. Affetruosa 12
 " " Sospir, che dal petto di madonn'esci fore. Madrigale affettuoso (Marino) 14
 " " Facciamo pace, 0 mio bene. Non far più gucrr'al mio core. Affettuosa 16
 " " Così va chi scrve donna, che fede non ha. Allegra 18

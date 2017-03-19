@@ -2,7 +2,7 @@ A ]. Ecco un legato d'amore, ferito nel core. Atnante legato 11
 " " Vieni, vieni Licori, lascia, lascia gli orrori. lnvita la sua donna alle delizie della
 
 campagna "
-" " Madre d'ombre c di timori è la nolle. Alla luna 16
+" " Madre d'ombre e di timori è la nolle. Alla luna 16
 " " Lungi dal mio bel sol, di luce privo. Amorosa lontananza lB
 " " Hor che l'alba, hor che l'aurora. Allegrezza del nuovo maggio 20
 " " Semplicctte verginelle, che già mai l'arte vi die 22
@@ -15,7 +15,7 @@ A Z. Su. ninfe leggiadre, uscite, venite. Presa di cacciatori (l.. d'AgÌÌC') 3
 " " ll più bel Fiore ch'aprisce amorosc. In morte di pastorello giovinetto la sua dama 36
 " " A le viole azzurre, a le vermiglie. Mentre coglie viole ":;
 
-" " Una vecchia sdenlal'c lun-usa. gabella c rognosa. La vecchia innamorata
+" " Una vecchia sdenlal'c lun-usa. gabella e rognosa. La vecchia innamorata
 
 I-Bc
 
@@ -35,8 +35,8 @@ Libera sospirai la prigion del tuo seno et odiosa la libertà 12
 Imrcpido guerriero col forte Argante al paragon "
 Bramo a le tue ferite rimedio dar "
 Ccrco armata la pace fra gli sdegni l'amato 14
-Fugge c interrotta \'eggio la mia sperata hor disperata impresa 15
-Fuggo c pietosi trovo nelle selve i pastor 16
+Fugge e interrotta \'eggio la mia sperata hor disperata impresa 15
+Fuggo e pietosi trovo nelle selve i pastor 16
 Hor ruvida gonella care mic pompe "
 Voi, schiere mie, pascete l'herbc e io pasco il cnr 18
 Questa selva felice, secrelaria fede] 19

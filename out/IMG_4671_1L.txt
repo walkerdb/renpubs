@@ -10,7 +10,7 @@ D-As: A.T.B.5…
 1-Rc: C.B.5.
 l-Fd: 5.
 
-Sartori 1606g c ll 16063.
+Sartori 1606g e ll 16063.
 
 1924 _ MONTEVERDI Claudio (1608) _ Il Quinto Libro de Madrigali a cinque
 voci. Di Claudio Monteverde maestro della musica del serenissima sig. duca _dl
@@ -38,7 +38,7 @@ ristampato. In Venetia, appresso Ricciarda Amadina. 1610.
 I-Bc: A.Bc.
 GB-Lbm: A.
 
-Sartori 16103 c 11 16103.
+Sartori 16103 e 11 16103.
 
 1926 _ MONTEVERDI Claudio (1611) _ 11 Quinto Libro dc Madrigali. Di
 Claudio Monteverde maestro della musica del serenissima sig. duca di Menton:

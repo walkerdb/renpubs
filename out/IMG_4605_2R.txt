@@ -15,7 +15,7 @@ A l. Mille dolci parolette vezzosette mi dicesti al mio rilnrno 6
 " " Ohimè che torno ancora 7
 " " Filli cara et amata, dimmi per cortesia 8
 " " Signor, che in croce 9
-" " La bella man vi stringo c voi le ciglia per dolor (Guarini) lU
+" " La bella man vi stringo e voi le ciglia per dolor (Guarini) lU
 " " 0 man di puro latte "
 A 2. Non vi mordete, o donna 11
 " " Rosa nata 14
@@ -28,7 +28,7 @@ A 3. O tronchi innamorati, o sassi che seguite (Marino) 20
 " " La Capriola (per strumenti) 25
 " " La Chizola. Gngliurdn (per strumenti) 26
 " " ll Priulino. Balletto e Corente (per strumenti) 27
-A 1. La Romanesca per Violin solo c Basso se piace. A Giona Battista Magni 28
+A 1. La Romanesca per Violin solo e Basso se piace. A Giona Battista Magni 28
 I-Bc
 
 Sartori 16201:

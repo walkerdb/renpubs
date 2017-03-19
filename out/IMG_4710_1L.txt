@@ -18,7 +18,7 @@ A ]. Ferma, ferma, che tenti, o del mio regno. Amore
 
 " " Odi, vczzoso canta Cupido tra la tua schiera. Amico
 
-" " Su dunque, amanti, con gioia c canti. Amante
+" " Su dunque, amanti, con gioia e canti. Amante
 
 A 3. Su dunque amanti, con gioia e canti. Amante, Amore et Amico
 Dialogo a 3: Licori, Tirsi e Dafne:
@@ -72,7 +72,7 @@ A 1. Tra due negre pupillettc, tra due ciglia brunellette
 " " Che farò, donna ingrata? Ti seguirò costante, del tuo rigor
 " " Cara, gradita e bella sempre mi foste, Fillide mia stella
 
-" " Piangono al piangcr mio le fere, c i sassi a miei caldi sospir (Rinuccini)
+" " Piangono al piangcr mio le fere, e i sassi a miei caldi sospir (Rinuccini)
 " " L'aer d'intorno nubiloso fassi (seonda stanza) "
 
 " " Ovonque io poso, ovonque io volgo (terza stanza) "
@@ -85,7 +85,7 @@ A 1. Tra due negre pupillettc, tra due ciglia brunellette
 
 " " E questi ultimi baci e queste estreme (terza stanza) . _
 " " Deh come in van chiedete d'udir, bella sirena, il canto mio (Guarini)
-" " O vaga e bianca luna, o voi, pompe del ciel chiare c splendenti (Contarini)
+" " O vaga e bianca luna, o voi, pompe del ciel chiare e splendenti (Contarini)
 
 GB-Och
 

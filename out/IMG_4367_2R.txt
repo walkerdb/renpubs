@@ -17,7 +17,7 @@ A 5. Viver vorrei, madonna 2
 " " Ecco ch'io vengo meno 12
 " " E voi crudele 13
 " " Lacrime estreme. che da gl'occhi uscite 14
-.. " Forsc fu'l dì fatale 15
+.. " Forse fu'l dì fatale 15
 " " Scherzi dolci e lascivi 16
 " " Filli, io vo morire, poi che li piace 17
 A 10. c…, leggiadra Fillì 18

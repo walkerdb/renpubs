@@ -33,7 +33,7 @@ A 5. Vago, amoroso dio, se per piagarmi il cor l'arco tuo tendi 1
 " " Sospir fugace e leve, cli'esci volando dal bel sen di neve 6
 " " Spera, infelice, spera. Doppo un lungo rigore potrebbe quest'altera 7
 " " Fuggi tua spemc, fuggi che in van per me ti slruggi 3
-" " Mori, mi dici, c mentre con quel guardo crudel morir mi fai (Marino) 9
+" " Mori, mi dici, e mentre con quel guardo crudel morir mi fai (Marino) 9
 " " Hor ch'io t'ho dato'l core ten fuggi, o Filli mia 10
 " " Felicissimo fiore, :; cui fu dato in sorte per ministra di vita "
 " " Sc già ritrosa mi fuggisti, pur la dolente salma nel mirarti serbai 12
@@ -44,7 +44,7 @@ A 5. Vago, amoroso dio, se per piagarmi il cor l'arco tuo tendi 1
 conte Cammillo Della Gherardesca 16
 " " Ma lasso, chi m'arresta ch'io non ti segua (seconda parte) 17
 " " Seccasi, giunta a sera, in un momento, l'arida spina in sul mattin fiorita 13
-" " ' Tanto più per salir levi c felici là su in quel (seconda parle) 19
+" " ' Tanto più per salir levi e felici là su in quel (seconda parle) 19
 A 7. Altri, di beltà vaga idolatr'amalor, sì Stringa al petto novella fiamma 20
 
 I-Bc: compl.

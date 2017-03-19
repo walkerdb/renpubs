@@ -4,9 +4,9 @@ A L Per tue gioie, 0 mondo misero. mici pensier unqua non risero. Vita solitaria
 " " Fiera lite hoggi è tra noi, ciascun narra i danni suoi 32
 " " Dicea Clori a Fileno, che di partir giur.-n'a. Dialogo: Clori e Fileno 38
 " " lo v'adoro e non v'amo, vi temo e non vi bramo 43
-" " Spesso mutano stanza i nostri cori, amorosi passaggi. Dialogo: Cloride c Tirsi 48
+" " Spesso mutano stanza i nostri cori, amorosi passaggi. Dialogo: Cloride e Tirsi 48
 " " Fortunato cantore, tu l'aquila di Giove eccelsa. Dialogo: Filli e Tirsi 54
-A3. Son tutto ardore c non ho tanto ardire, misero me, di dire. Amante timido 62
+A3. Son tutto ardore e non ho tanto ardire, misero me, di dire. Amante timido 62
 " " Gran follia di pittor, cieco fanciullo alato vuol tlipinger amor 64
 GB-Och.
 

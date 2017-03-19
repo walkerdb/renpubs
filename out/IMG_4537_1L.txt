@@ -45,7 +45,7 @@ n " Benchè Filli ogn'lior m'assaglia e dagl'occhi i dardi aventi. Arietta
 
 " " Non credete, o vita, o core, che gia mai tempo. Poesia di Carlo Ludousno. Arts::
 .. " Così mi lasci, ingrato, così per altra donna m'abbandoni. Donna abandonata -
-[l'amante. Poesia di Ottaviano Castello. Lamento
+Il'amante. Poesia di Ottaviano Castello. Lamento
 
 . . . ,
 

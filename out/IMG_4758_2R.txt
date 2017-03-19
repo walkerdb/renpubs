@@ -23,7 +23,7 @@ A 5. Volesti dir, amore, forsi senza parole 1
 " " Onde se l'aura ria turbò la gioia mia (seconda parte) 16
 " " Lasso, ch'in van mi doglio che mort'al mio languire 17
 " " Caro, dolce ben mio, mi spinse quel arcicr crudel d'amore 18
-" " More e nnsce'l desio c nasc'e more 19
+" " More e nnsce'l desio e nasc'e more 19
 A 6. Se voi sete'l mio so], la vita e l'alma bar che di voi son privo 20
 " " Nel bel candido petto d'altera donna havesti, amato fiore, gratioso ricetto 21
 I-Bc: compl.
@@ -43,7 +43,7 @@ saPete, amanti, perchè amor è cieco? Perchè mirando fiso gl'occhi scrcni
 
 Nova aurora m'apparse e ratta via disparse quasi volendo dire 6
 0 voi, de boschi habitatrice dive, che nei vicini colli albergo havete 7
-Come un vezzos'aprile, di fior vestito c d'erbe, sveglìa gli amanit 8
+Come un vezzos'aprile, di fior vestito e d'erbe, sveglìa gli amanit 8
 Arderò donque sempre senza speranza di cangiar mai temprc 9
 
 -1359-

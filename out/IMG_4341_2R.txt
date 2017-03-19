@@ -37,7 +37,7 @@ A ]. .Cara mia celra, andiannc a ritrovar colei 1
 " " Da l'ondc del mio pianto a dietro volti 24
 " " F'Îrmſi' Dnrinda mia, deh ferma il piede. Madrigale in stile recitativo 25
 : : :;ÎcgîſſzînſilſfſîTFÎLl-rZÌ !: fere e ilsalssi. Sopra il basso della Romanesca (Rinuccini) 26
-. . queste (0 Cl nou c quest accenti 28
+. . queste (0 Cl nou e quest accenti 28
 " " 0 se torna il mio so] di raggi adorno 29
 " " Son gl'acccnti ch'ascolto di sirena o di musa? 30
 " " Sc bel rio, se bell'aurelta tra l'herbeua sul matlin (Chiabr-ra) 31
@@ -47,7 +47,7 @@ A ]. .Cara mia celra, andiannc a ritrovar colei 1
 " " Mirate dal gran tronco occhi miei lassi Ar" d ' l'alfa)
 : , . la a cantar soncm (Marmo) 34
 " " Forscnnata gridava: O lu che porte. Aria da cantar ottave (Tasso) 35
-" " Là lra'l sangue c lc morti egre (seconda parte) " 36
+" " Là lra'l sangue e lc morti egre (seconda parte) " 36
 " " Andate a mitigar, sospiri ardenti 37
 " " Ferma, ascolla, Licori, non temer, non fuggir 33
 " " Nelle guancie di rose, in sen di latte 39

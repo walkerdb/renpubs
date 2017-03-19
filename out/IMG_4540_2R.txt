@@ -34,7 +34,7 @@ A Z. Di duc fiamme ad una sfera, di due fiumi ad un sol mare. Dialogo a doi Sopr
 " " Non mi legar, o dammi pace almen (seconda parte ) 19
 " " D'un occhio ch'è nero il dardo d'un Sguardo. Arietta a Z, canto e alto E
 " " D'un labro amoroso il vezzo con sprezzo (seconda parte) 24
-" " Dimmi amor, deh quand'o sorte finirai di tormenlarmi. Canto c alto 26
+" " Dimmi amor, deh quand'o sorte finirai di tormenlarmi. Canto e alto 26
 " " Dimmi o ciel, deh quando amore cesserai di darmi pene (seconda parte) 28
 "" Mio cor, datti pace. Sperar non conviene. Arietta morale a Z, alto e tenore 30
 " " Son rapidi gl'anni, è corto il gioire (seconda parte) 31
@@ -46,8 +46,8 @@ A Z. Di duc fiamme ad una sfera, di due fiumi ad un sol mare. Dialogo a doi Sopr
 " " Chi sol brama e non vuò pene (seconda parte) 47
 " " Spera, mio cor, chi sa, doppo turbini e procellc. Arietta a Z, Canto e basso 49
 " " Vivi spcrando, che se istabile è la sorte (seconda parte) 52
-" " Qual farfalla intorno al lume mi raggiro. Dialogo a Z, Alto c basso 54
-A3. Noi siam tre prigionieri d'un'istessa beltà. Dialogo a 3, due Canti c basso 59
+" " Qual farfalla intorno al lume mi raggiro. Dialogo a Z, Alto e basso 54
+A3. Noi siam tre prigionieri d'un'istessa beltà. Dialogo a 3, due Canti e basso 59
 " " Sospiri, ove n'andate su l'ali dell'ardorc? Dialogo a 3, due Canti e basso 67
 
 " " Pupillette vczzosette, ch'al mio sen strali vibrate. Arietta a 3, Canto, alto e basso 76

@@ -28,7 +28,7 @@ A 4. Signor il grido 1
 " " () dolce vita mia 16
 " " Fcrma'l corso crudel (seconda parle) 17
 " " Dolce mio foco 18
-" " O saclte d'amor, ch'a mille a mille, quinci movete c non vi s'ha 19
+" " O saclte d'amor, ch'a mille a mille, quinci movete e non vi s'ha 19
 " " Ahi cruda gelosia 20
 " " Non posso amarte 20
 " " Quelli occhi ladri e quella bocca bella 21

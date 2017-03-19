@@ -23,7 +23,7 @@ Latuau
 " " Di gir lassù con sì bel mondo (seconda parte)
 
 " " Appollo, se giamai gl'occhi volgcsti. Al Conte Lodovico Belgioioso 10
-" " Franca torrc secura c dolce porto. A Francesco della Torre "
+" " Franca torrc secura e dolce porto. A Francesco della Torre "
 " " Moderno e libera] buon Mecenate (seconda parte) il
 " " Mentre canto di voi, signor benigno. A Girolamo Cavenago
 " " Rabbia, che con pensier lodato e raro. A Luigi Rabbia H
@@ -36,7 +36,7 @@ Latuau
 A 5. Invito Henrico al cui valor altero. In laude di Henrico Re di Francia 21
 A 4. Ercol divin più del Thebano intero 22
 " " Ecco che l'aureo tuo fiorito (seconda parte) 23
-A 5. A così lieti, a si degni himenei. Nelle nozze di Cesare c Camilla Gonzaghi 24
+A 5. A così lieti, a si degni himenei. Nelle nozze di Cesare e Camilla Gonzaghi 24
 " " Altra non è più degna copia (seconda parte) 25
 A 4. Questa nova del ciel felice stella. A Camilla Centuriona 25
 A 5. Se sì mira al crin d'or terso con ch'ella 26
