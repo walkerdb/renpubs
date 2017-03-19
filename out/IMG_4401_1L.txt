@@ -26,10 +26,10 @@ A 1. Ecco pronta a i baci. Baciami, Ergasto mio. Amorosi ardori (Marino) Z
 » » Tornate, o cari baci, a ritornarmi in vita. Amor famelico ”
 
 » » Lilla, un bacio sol ti chiesi. Tu ridendo il negasti. Amor ritroso 5
-» » Ardo si, ma non t’amo, perﬁda e dispietata. Amor sdegnato. Proposta (Guarini) 6
-» » Ardi e gela a tua voglia, perﬁdo et inpudico. Amor disprezzato. Risposta (Tasso) 7
+» » Ardo si, ma non t’amo, perfida e dispietata. Amor sdegnato. Proposta (Guarini) 6
+» » Ardi e gela a tua voglia, perfido et inpudico. Amor disprezzato. Risposta (Tasso) 7
 » » Arsi et alsi a mia voglia, leal non impudico. Amor difeso. Replica » 8
-» » Ardesti in ﬁnto fuoco e giaccio fu. Amor confuso. Risposta ” 9
+» » Ardesti in finto fuoco e giaccio fu. Amor confuso. Risposta ” 9
 
 » » Dunque, per esser bella sete, Lilla crude], d’amor rubella. Amorosa alta-ezza. Dialog-0:
 [Eurillo e Lilla "
@@ -39,9 +39,9 @@ A 1. Ecco pronta a i baci. Baciami, Ergasto mio. Amorosi ardori (Marino) Z
 » » Amiam, Fillid’amiamo. Ah non rispondi? Amoroso invito ” 15
 » » Tirsi morir volea, gl’occhi mirando di colei ch'adora. Amorosa brama » 16
 » » Frenò Tirs'il desio ch’havea. Amorosa corrispondenza (seconda parte) » I;
-» » Così moriro i fortunati amanti. Amoroso ﬁne (terza parte) ” :9
+» » Così moriro i fortunati amanti. Amoroso fine (terza parte) ” :9
 » » Non vi bastava il dardo del disdegnoso sguardo. Amorosa piaga _ 20
-» » Vaghi ﬁori odorati, quanto di me sarete più beati. Amoroso languire (Ccl:ano) Zl
+» » Vaghi fiori odorati, quanto di me sarete più beati. Amoroso languire (Ccl:ano) Zl
 )
 
 A Z. Baciatemi, cor mio, che con sì dolce aita. Amoroso soccorso _ _ ZZ

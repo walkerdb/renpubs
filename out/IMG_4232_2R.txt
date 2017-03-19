@@ -3,14 +3,14 @@ A3. 0 saette d’amor, ch’a mill’a mill’a quinci movete 6
 » » Amor, deh dimmi come sta nel cor di costci l’orgogli’e’l gelo 6
 » » Da bei vostr’occhi e dal suave riso nacqu’in me tal desire 7
 » » Duo begl’occhi lucenti, anzi due stelle, per pena 7
-» » Sola, soletta i’ mc ne vo cantando ct ho via il core 8
+» » Sola, soletta i’ me ne vo cantando ct ho via il core 8
 » » Sappi, signor, che Lidia son io, del re di Lidia 8
 » » Tirsi morir volea, gl’occhi mirando di colei ch'adora (Guarini) 9
 ” » Frenò Tirsi il desio ch’avea di pur (seconda parte) » 9
 » » Così moriro i fortunati amanti (terza parte) » 10
 » » Scoprirò l’ardor mio con dir ch’io moro, fera stell’empia sorte lO
-» » Se voi set’il mio sole, sc per voi (seconda parte) ll
-» » Su, su, non più dormir, che la notte se ne va. ll
+» » Se voi set’il mio sole, sc per voi (seconda parte) 11
+» » Su, su, non più dormir, che la notte se ne va. 11
 » » Amor, io sento un rcspirar sì dolce di l’aura mia (Cassola) lZ
 » » Qual vive salamandr’in fiamma ardente e ne giosce poi 12
 ” » Io canterò di quell‘almo splendore ch’esce da gl’occhi 13
@@ -18,7 +18,7 @@ A3. 0 saette d’amor, ch’a mill’a mill’a quinci movete 6
 » » Il dolce sonno mi promise pace, ma l’amaro veggiar (Ariosto) 14
 » » Ecco ch’io lass’il core a chi nutrisc’il suo del mio dolore 14
 » » Quando benigna stella degno mi fè mirar vostra beltade 15
-A 6. La Parque avoit desia resolu dc couper le ﬁllet 15
+A 6. La Parque avoit desia resolu dc couper le fillet 15
 ” » Bien heureux est celuy et disie plus qu’heureux 16
 
 GB-me: comp]. (C. manc. di c. 13v.-l4r.).
@@ -46,7 +46,7 @@ Sîlppl, Signor, che Lidia sono io, del re di Lidia 8
 "'S! morir volea, gl’occhi mirando di colei ch’adora (Guarini) 9
 Frenò Tirsi il desio ch’avca (seconda parte) » 9
 Così moriro i fortunati amanti (terza parte) » 10
-sc°Pr1rò l’ardor mio col dir ch’io moro, ﬁera stell’empia sorte 10
+sc°Pr1rò l’ardor mio col dir ch’io moro, fiera stell’empia sorte 10
 Su Se voi set’il mio sol, se per voi (seconda parte) 11
 .
 

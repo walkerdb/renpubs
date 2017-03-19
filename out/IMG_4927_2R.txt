@@ -7,8 +7,8 @@ Re ut fa re la aol la 7
 Rc ut rc fa mi rc 8
 Ut [a mi ut rc ut 9
 Rc fa mi re la ]“
-Ul rc mi ut fa mi rc ut ll
-La sol fa rc mi ll
+Ul rc mi ut fa mi rc ut 11
+La sol fa rc mi 11
 Fantasia [3
 Madrigali di diversi
 O felice colui Di Baltic-mr Dona/n “
@@ -21,7 +21,7 @@ Lasso che pur da l'un a l‘altro (st-conda parle) ” 21
 llc, caldi sospiri, al freddo cor. Di Nur/ul " ZZ
 Dir si può bcn per mi (\n—conda parte) ” B
 Amor, che vcd'ogni pensier aperto l)i Nadal ” 24
-Riccrchatc di Arlriulm Vuigliur! (8 Riccrcari senza titolo) 26-33
+Riccrchate di Arlriulm Vuigliur! (8 Riccrcari senza titolo) 26-33
 
 GB—me: comp].
 
@@ -40,13 +40,13 @@ Brown 1549-7.
 2722 — TIGRINl Orazio (1573) _ All'illustriss. et eccellentiss. signor il signor
 Federigo Barbolani dei conti di Montcaguto prudentissimo governator di Siena.
 ll Primo Libro de Madrigali & quatro voci di Oratio Tigrinì aretino. [n Venetia
-apresso li ﬁgliuoli di Antonio Cardano. 1573.
+apresso li figliuoli di Antonio Cardano. 1573.
 
 4 fasc. in 8“ ohl. (C.A.T.B.). png. L9.(l). Dc.-(l.: «...questo: mic prime fatiche... Vent-tia,
 l5 [V [573 ».
 
 Qchla, (li paradiso alu-m pianta, par qui (lisca-\n ]
-Qual amante ﬁa mai (seconda parte) 2
+Qual amante fia mai (seconda parte) 2
 Ohimè tal'hor la reggio (terza parte) 3
 Deh foss‘hor meco in quest’alpcstrc (quarla pilſlt‘) 4
 Aer felice c tu bel loco (quinta parte) 5
@@ -54,7 +54,7 @@ Perchè non la vegg'ìo (sesta parte) 6
 Altra pianta non bram’in altri colli (settima parte) 7
 
 Non vedi, amor, che gl'occhi di cos:ci m‘hanno legato 7
-E sì dolce la pena dcl giogo (seconda parte) :
+E sì dolce la pena del giogo (seconda parte) :
 
 Alu che l'oralo slrale spuntò amore.
 

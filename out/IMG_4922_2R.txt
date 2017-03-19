@@ -3,10 +3,10 @@ Manara. In Venetia, appresso Alessandro Vincenti. 1633.
 
 5 fasc. in 8° ((Î..-\.T.ll.Bc.), pag. 43,(l). (A. pag. 13, Bc. pag. 31). Ded., Venetia, 1" IV 1633.
 
-A ]. Quexte carte. ch'io sparsi di lagrime. [.:.-((ﬁl amorosa di stile recitativo. Canto l
+A ]. Quexte carte. ch'io sparsi di lagrime. [.:.-((fil amorosa di stile recitativo. Canto l
 A Z. La mia Clori, sì vaga e :ì venosa. Z sopiani 7
 » » Arde il mio core et è sì dolce il foco. Z soprani 9
-» » Baci amorosi e cari. voi delle pene mie ricetto. Z lenori ll
+» » Baci amorosi e cari. voi delle pene mie ricetto. Z lenori 11
 » » Augelletto gentil. che cantando tal'hor si dolcemente. Z soprani 13
 » » Fulmini pur saette e lampi amor liranno. 2 soprani 15
 » » Ch’io non v'ami, cor mio. erudel. com'esser può. 2 ten. (G. Preti) 18
@@ -21,7 +21,7 @@ A 3. Due stelle amoroseue in quel leggiadro vim. Z ten. e B. 29
 » » Care selve beate e voi, solinghi e taciturni horrori. Z ten. !: B. (Guarini) 33
 » » Donna. qual‘hor tuoi raggi vagheggio e miro. Z ten. e B. 35
 A 4. Questa crudel e pia piange al mio pianto 37
-» » Vanne. vattene amor, lunge da questo cor, tuo ﬁdo regno 40
+» » Vanne. vattene amor, lunge da questo cor, tuo fido regno 40
 » » Non puote alma gentil (seconda parte) 41
 » » Con che soavilà. lahra odorate, e vi miro e vi bacio (Guarini) 42.
 
@@ -32,7 +32,7 @@ l-Vnm: C.A.Bc.
 l-TSl: C.
 
 2707 — TARDITI Orazio (1639) _ Madrigali a cinque voci in concerto con alcuni
-a tre in ﬁne, di Horatio Tarditi maestro di capella dell’illustriss. et rev. monsig.
+a tre in fine, di Horatio Tarditi maestro di capella dell’illustriss. et rev. monsig.
 Giacomo arcivescovo Theodolo vescovo di Forlì, nella sua catthedrale. Opera
 Decima quarta de Madrigali il Terzo. Dedicati all’illustrissimo, et reverendissimo,
 inonsign. Lorenzo Corsi con privilegio. In Venetia, appresso Alessandro Vincenti.
@@ -45,9 +45,9 @@ A 5. Prendi il mio cor, o crude], quanto bella l
 » » Cara mia bella Filli, alla tua crudeltade 3
 ” ” A dio Cluri, mia vila, a (lio Clori, mio cure 4
 » » Cara Amarilli mia, non ini ſar più languir 6
-" " Quel ﬁumicel, ninfa gentil, che mormora, per te versa _ . 3
-” “ Mi sﬁdate. guerriera, Ahi hen potete a sicurià sﬁdarmi (cm……) 9
-” ” Era nell‘hora appunto che le cime de monti il sol indora ll
+" " Quel fiumicel, ninfa gentil, che mormora, per te versa _ . 3
+” “ Mi sfidate. guerriera, Ahi hen potete a sicurià sfidarmi (cm……) 9
+” ” Era nell‘hora appunto che le cime de monti il sol indora 11
 ” ” 0 chiome inanellate, catene del mio cor, catene d‘oro 13
 “ ” Dice Licori: io t'amo, ma con la lingua sol 0 non col core 15
 

@@ -14,17 +14,17 @@ Vergin, vivo d’Iddio sacrario e tempio ch’egli (settima stanza) 7
 Vergin, al cui parlar cortese e saggio quella divina (ottava stanza) 8
 Vergine, il cui sembiante humil simiglia gente di ferro (nona stanza) 9
 Vergin, assai men son del mar l'arenc che non son le mie colpe (decima stanza) 10
-Al viso smort'et al capel già bianco l‘ultim’hor'è vicina (undicesima stanZa) ll
+Al viso smort'et al capel già bianco l‘ultim’hor'è vicina (undicesima stanZa) 11
 
 Vergine bella, che di sol vestita nascesti innanz’al padre. Sonetto (Petrarca) 12.
-Vergin, madre di Dio, ﬁglia ed ancella (seconda parte) » 13
+Vergin, madre di Dio, figlia ed ancella (seconda parte) » 13
 
-Vergine madre, del tuo parto ﬁglia. Sonetto (Fiamma) 14
+Vergine madre, del tuo parto figlia. Sonetto (Fiamma) 14
 Vergine fu nel parto e prim’e poi quella ch‘io canto (seconda parte) » 15
 
 Vergine sacr’et alma, dc peccatori guida 16
 
-Vcrginc, più lucent’assai ch’el solc, più vaga de la luna, Sonetto 17
+Vergine, più lucent’assai ch’el solc, più vaga de la luna, Sonetto 17
 Vergine saggia e santa, miserere di me (seconda parte) 18
 
 Padre di tutti noi, ch’in ciel soggiorni. Orationc dominicale 19
@@ -53,9 +53,9 @@ Vergin, al cui parlar cortese e saggio (ottava stanza) 8
 Vergine, il cui sembiante humil (nona stanza) 9
 Vergin, assai men son del mar l’arene (decima stanza) 10
 
-vcr {\l Viso smort’et. al capel. già bianco (undicesima stanza) ll
+ver {\l Viso smort’et. al capel. già bianco (undicesima stanza) 11
 gine bella, che (Il sol vestita. Sonetto (Petrarca) 12
-Vergln madre, di Dio ﬁglia (seconda parte) » 13
+Vergln madre, di Dio figlia (seconda parte) » 13
 
 —II3_
 

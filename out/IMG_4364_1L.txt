@@ -12,24 +12,24 @@ A 5. Lasso me ch'io non so in qual parte pieghi. Canzon (Petrarca) ]
 » » Un dinanzi al suo foco esser di neve (terza parte) 8
 » » Un cacciar tigri a passo infermo (quarta parte) 9
 » » Che dolce più. che più gioconda stato saria (Ariosto) 10
-A 4. Però ch'ogn'altr’amaro che si pone (seconda pane) » ll
+A 4. Però ch'ogn'altr’amaro che si pone (seconda pane) » 11
 A 3. Se ben non veggon gli occhi (terza parte) - » lZ
-A 4. Gli sdegni, le repulsc cr ﬁnalmente (quarta parte) » l3
+A 4. Gli sdegni, le repulsc cr finalmente (quarta parte) » l3
 A 5. Questa è la cruda e avclenata piaga (quinta parte) » 13
 A 6. O incurabil piaga, che nel petto (sesta parte) ” 15
 » » Amor, da che’] ti piace che la mia lingua parli. Canzon 16
 A 5. Sai ben che non poss'io parlarne (seeonda parte) ]7
 A 4. Quando ch’agli occhi miei prima (terza parte) l8
 A S. Poi che quell’armonia giù nel mio cuor (quarta parte) ]9
-A 6. Anchor dirò più inantc pur chc'l mi ﬁa (quinta parte) 2-0
-A 7. Ben sì come a rispetto dc l‘ampio ciel (scsta parte) 21
+A 6. Anchor dirò più inante pur chc'l mi fia (quinta parte) 2-0
+A 7. Ben sì come a rispetto dc l‘ampio ciel (sesta parte) 21
 A 8. so canzonetta mia ch’havrai vergogna (settima parte) 22
 A S. Amor, sc mai benigno ti mostrasti a chi nci lacci tuoi. Canzon B
 A 4. Amor. sc dentro ai nostri cuor (seconda parte) 24
 A 5. Amor, che con pierosi occhi mirasti (terza parte) 25
 A 6. Amor, che Psichc amando già provasti (quarta parte) 25
 A 8. Amanti, o saggi amanti, puri e casti (quinta parte) 26
-A 6. Ahi potenza cclesle, ahi stellc ingrate, al mio mal eongiuratc ?“;
+A 6. Ahi potenza cclesle, ahi stellc ingrate, al mio mal eongiurate ?“;
 
 A B. Madonn‘apritc. Olà dite che sete. Dialogo.
 
@@ -37,7 +37,7 @@ A-Wn : compl.
 GB-me : C.A.T.B.5.
 
 898 - FAA’ Orazio (1569) _- Di Horatio Faà gcntil’huomo di Casale di Monferrato
-il Primo Libro di Madrigali a cinque voci novamcnte da lui composti, et Pgſ
+il Primo Libro di Madrigali a cinque voci novamente da lui composti, et Pgſ
 Anttonio Gardano stampati et dati in luce. Libro Primo in Venetia appresso \
 Antonio Cardano. 1569.
 

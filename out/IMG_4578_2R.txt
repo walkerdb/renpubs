@@ -6,7 +6,7 @@ A 5. Fuggito è'] sonno alle mie crude notti (Petrarca) 7
 » » Senza il mio vago sol (G. Troiano) 8
 » » 0 giorno che per me (Sannazzaro) 9
 » » Senza il mio sole in tenebre e in martiri » lU
-» » Allro che lagrimar (seconda parte) » ll
+» » Allro che lagrimar (seconda parte) » 11
 » » Ben mi credeva, lasso, che‘l mio cantar un tempo » lZ
 » » Fiere silvestre, che per lati campi \‘agand'errate » 13
 » » Ecco ch'un‘altra volta, o piagge aprichc odrete » 13
@@ -15,7 +15,7 @@ A 6. Come ogni rio, che d'acque dolci et chiare 15
 » » Valli, riposle valli (Sannazzaro) 16
 » » Inlerdelle speranze e van desio » l7
 » » O fere stelle, homai datemi pace » 18
-A 10. Basti ﬁn qui le pen‘e i duri aﬀanni » 19
+A 10. Basti fin qui le pen‘e i duri aﬀanni » 19
 
 l-Fc: compl.
 l-MOe: cmopl.
@@ -31,20 +31,20 @@ Roma, 8 V… 1580 ».
 
 A 5. Liquide perle amor da gl‘occhi sparse in premio del mio (Sannazzaro) l
 » » Ohimè dov'è‘l mio ben, dov’è’l mio core? Chi m'asconde (B. Tasso) Z
-» » Spunlavan già, per far il mond’adorno, vaghi ﬁoretti 3
+» » Spunlavan già, per far il mond’adorno, vaghi fioretti 3
 ” ” Quando'l mio vivo «il perch’io (seconda parte) 4
 » » Quando i vostri begl‘occhi un chiaro velo ombrado cuopre (Sannazzaro) 5
 » » Tirsi morir mlea, gl’occhi mirando di colei ch’adora (Guarini) 6
 ” ” Frenò Tirsi il desio ch'havea “(seconda parte) 7
 ” » Così moriro i fortunati amami (terza parte) 8
-»» Dolorosi martir, ﬁeri tormenti. duri ceppi, empi lacci (Tansillo) 9
+»» Dolorosi martir, fieri tormenti. duri ceppi, empi lacci (Tansillo) 9
 ” ” Che fa hoggi il mio sole, che fa il mio canto e'] suono ]0
-” » Lasso, ch‘io ardo e’l mio bel sole ardente ll
-” ” Venuta era madonna al mio languirc, con dolce aspetto (Sannazzaro) 12
+” » Lasso, ch‘io ardo e’l mio bel sole ardente 11
+” ” Venuta era madonna al mio languire, con dolce aspetto (Sannazzaro) 12
 » » Intanto il sonno si partia pian piano (seconda parte) » ]3
 » » Madonna mia gentil, ringratio amore che tolto m’habbia il core 14
-» » Cantava la più vaga pastorella che mai premesse ﬁori IS
-» » Quesla, di \‘erd'herbeue e di novelli ﬁor tessuta hor hora 16
+» » Cantava la più vaga pastorella che mai premesse fiori IS
+» » Quesla, di \‘erd'herbeue e di novelli fior tessuta hor hora 16
 » » Partirò dunque. Ohimè mi manca il core. Porgimi aita, amore ]7
 A 8. O tu, che fra le selve occulta vivi. Dialogo :\ 8 in risposta d‘ecco (Tasso) 18
 

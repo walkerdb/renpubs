@@ -3,7 +3,7 @@ A 1. Ecco, mi date aita al mio dolore. Amante ferito
 » » Chi non mi conosce dirà che la mia
 
 Z
-» » Talvolt’amor ﬁero mi lega la lingua Z
+» » Talvolt’amor fiero mi lega la lingua Z
 » » Talvolta mi burlo di chi mi ha ferito 2
 A 2. A pover'impiagati, donne, deh per pietaate Z
 » » Un infermo d’amor dimanda aita. Amante pazzo 4
@@ -13,10 +13,10 @@ A 1. Amor, sempr‘ho da striderc 4
 A2. A scemi di cervello, donne, deh per pictate 6
 » » Ove sta l‘hospedale. Amante cieco 6
 A 1. Date la voce olà, che passa amore 3
-A 2. A poveri accecati, donne, deh per pietatc 9
+A 2. A poveri accecati, donne, deh per pietate 9
 » » O voi dell‘hospedale un carco d’anni. Amante vecchio 10
 A 1. Ballate, o miei pensier, ch’io sonerò 10
-A 2. A vecchi innamorati, donne, deh per pictatc 11
+A 2. A vecchi innamorati, donne, deh per pictate 11
 A 5. Viva, viva la pazzia. Choro de pazze 12
 A Z. Poi che giunto pur sono a l‘hospedale. Amante povero "
 A 1. Son le sfere per amore pazz’e giran con furore “
@@ -29,10 +29,10 @@ A 4. Su, su, contro costei mostra il valore 21
 A ]. Serenissimo è'l ciel di sua bellezza 32
 
 1260 _ GONZAGA Francesco (1619) _ Il Primo Libro delle Canzonette a tre
-voci. Con alcune Arie poste nel ﬁne del Basso continuo. Di Francesco Gonzaga
+voci. Con alcune Arie poste nel fine del Basso continuo. Di Francesco Gonzaga
 mantovano. Stampa del Gardano in Venetia, 1619. Appresso Bartolomeo Magni-
 
-4 fasc. in 8° (C.l", C.Z°, B., Be.), Bc. pag. 21,(1). Dcd. a D. Carlo Madrutio Cardinale e Franche];
+4 fasc. in 8° (C.l", C.Z°, B., Be.), Bc. pag. 21,(1). Ded. a D. Carlo Madrutio Cardinale e Franche];
 di Trento: « La Città di Mantova (Illustrissimo Prencipe) sembra un amantea, e hen-360°!
 stromento, le cui corde sonore sono tanti suoi Eccellenti Musici, trà quali visse già Il fa??:
 Gastoldi nella cui morte parve rotta, è spezzata si tacesse una corda, ecco una Cicalctta stn 0 .
@@ -47,7 +47,7 @@ A 3. Alma aﬄitta, che fai? Chi ti darà più vita (Manno) ;
 » » Cor mio, mentre vi miro visibilmente mi trasform'm vm 8
 
 » '» O fortunati voi caldi sospiri, o ben versati pianti
-» » Al font‘al prato, al bosch’all’ombra, al [resc‘o-ﬁato
+» » Al font‘al prato, al bosch’all’ombra, al [resc‘o-fiato
 » » Poichè mori dicesti, ben mi [ora il morir gioia
 » » Negatemi pur, cruda, de bei vostr‘occhi il sole
 
