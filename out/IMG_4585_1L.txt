@@ -10,7 +10,7 @@ D-Dl: compl.
 D-Hs: compl.
 D-W: compl.
 GB-Lwa: compl.
-GB-Och: comp].
+GB-Och: compl.
 CB-SH: compl.
 PL-Wu: compl.
 I-Bc: C.S.

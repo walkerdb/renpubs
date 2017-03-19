@@ -54,9 +54,9 @@ se CAlB V ' " "' ilSanaz-
 
 dice = 1585.
 
-I-Bc: comp]
+I-Bc: compl
 
-D-W: comp].
+D-W: compl.
 
 l-Ps: C.T.B.
 
@@ -71,7 +71,7 @@ appresso Giacomo Vincenti. 1589.
 
 " fm in 8° (CA-T.E.), pag. zz. Ded. = m7. Indice = 1535.
 
-I-Bc: comp]. (Z.° csempl.: c.)
+I-Bc: compl. (Z.° csempl.: c.)
 D-Rp: A.T. (prov. Haberl).
 l-SPE: C.
 

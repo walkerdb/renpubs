@@ -5,11 +5,11 @@ A l0. Ove sì lieti e bel drappel d'amanli. Dialogo 16
 A 6. Quel vivo sole ardente di vostrc altere 18
 " " [' vo piangendo i miei passati tempi, i quai posi (Petrarca) 19
 " " Si che s'io vini in guerra (u.-conda parte) " 20
-D-Kl: comp].
+D-Kl: compl.
 
-F-Pn: comp].
+F-Pn: compl.
 
-F-Pthibault: comp].
+F-Pthibault: compl.
 
 I-Bc: C.T.B5.
 
@@ -48,7 +48,7 @@ conte Cammillo Della Gherardesca 16
 A 7. Altri, di beltà vaga idolatr'amalor, sì Stringa al petto novella fiamma 20
 
 I-Bc: compl.
-D-Mbs: comp].
+D-Mbs: compl.
 D-MUs: compl.
 F-Pthibault: compl.
 GB-Lbm: compl.

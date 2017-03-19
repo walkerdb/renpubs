@@ -22,8 +22,8 @@ O quam SUaVîs - Bellezze amate. A 2 voci con Violino, Cornetto e Tiorba o
 
 I-Bc: compl.
 I-FEc: compl.
-l-VCd: comp].
-D-F: comp].
+l-VCd: compl.
+D-F: compl.
 l-Sac: C.T.
 
 I-SPE: B. per org.

@@ -44,7 +44,7 @@ B-Br: compl.
 
 GB-Lhm: compl.
 
-US-NH: comp].
+US-NH: compl.
 
 A-Wn: G.B. Violoncello, Bc.
 D-Bds: C., Viol. 1°, Vio. 2°.

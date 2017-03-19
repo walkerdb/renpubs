@@ -68,13 +68,13 @@ I-Nc: compl.
 
 A-Wn: compl.
 
-D-Kl: comp].
+D-Kl: compl.
 
-D-Mbs: comp].
+D-Mbs: compl.
 
-F-Psg: comp].
+F-Psg: compl.
 
-l"L-GD: comp].
+l"L-GD: compl.
 
 -501 -
 

@@ -9,7 +9,7 @@ D-Mbs: compl.
 F-Pc: compl.
 F-Pthibault: compl.
 GB-Lbm: compl.
-PL-GD: comp].
+PL-GD: compl.
 I-Bc: C.T.B.5.
 I-Rc: C.B.5.
 

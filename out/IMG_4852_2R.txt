@@ -23,8 +23,8 @@ apresso di Antonio Gardano. 1558.
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 29,(]). Indice = 1556.
 
 l-BRE: compl.
-l-Fn: comp].
-l-VEcap: comp].
+l-Fn: compl.
+l-VEcap: compl.
 D-Mbs: compl.
 I-Be: C.A.T.B.
 S-Uu: C.A.T.5.

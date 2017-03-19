@@ -58,8 +58,8 @@ A 6. Deaih hath dcprivcd me.
 
 GB-Cul: compl.
 GB-Lbm: compl.
-GB-Lcm: comp].
-GB-Ob: comp].
+GB-Lcm: compl.
+GB-Ob: compl.
 
 WERREKOREN Mathias .
 Cfr.: HERMANN MATHIAS VerecorenSis.

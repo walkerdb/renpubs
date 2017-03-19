@@ -1,4 +1,4 @@
-I-Bc: comp].
+I-Bc: compl.
 I-MOe: compi.
 D-As: compi.
 D-Bds: C.S.

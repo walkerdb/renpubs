@@ -11,7 +11,7 @@ Tanto che mal'accorta premer poi freddo (seconda parte) 28
 lo son già stanco di pensar sì come i mici pensieri (Petrarca) 28
 E ch'e piè miei non son fiaccati e lassi (seconda parte) " 29
 
-l-VEaf: comp].
+l-VEaf: compl.
 A-Wn: compl.
 I-Bc: A.T.B.S.
 
@@ -49,6 +49,6 @@ Dolci labbia rosate, ovc scherzand'amor quando più verna 19
 Ma nol soffcrse a l'hora la vista (seconda parte) ZO
 Tra bei rubini e perle, che spiran aura di celeste odore (Amalteo) Zl
 
-A-Wn: comp].
+A-Wn: compl.
 I-MOe : C.B.
 

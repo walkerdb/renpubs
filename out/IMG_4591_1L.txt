@@ -21,7 +21,7 @@ Gardano. 1594.
 D-As: compl.
 F-Plhibault: compl.
 GB-Lcm: compl.
-GB-T: comp].
+GB-T: compl.
 Glì-me: A.T.B.5.6.
 E-TZ: C.A.B.
 F-Pc: C.A.

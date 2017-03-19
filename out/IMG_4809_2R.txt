@@ -4,7 +4,7 @@ A4. Che debbo far, che mi consigl'amore, volgime gl'occhi'e miei sospir ascolta 
 " " Voi ch'ascoltat'in rime sparsc'l suono del pensier amoroso che m'atterra 36
 " " A voi rivolg'il mio debile stile, alma real, dignissima d'impero 37
 " " Scacciato del mio dolc'albcrgo fuora, son fatt'escmpio d'infinita doglia 38
-I-Bc: comp].
+I-Bc: compl.
 
 E-V: compl.
 

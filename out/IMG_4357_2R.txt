@@ -50,6 +50,6 @@ Hore, fermate il volo mentre sen vola " 19
 _ E voi, aure veloci (seconda parle) " ZO
 Ninfa leggiadra, acccua questa rosa 21
 
-PL-GD: comp].
+PL-GD: compl.
 F-Pn : T.
 

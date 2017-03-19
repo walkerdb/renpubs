@@ -20,17 +20,17 @@ Di moi mon coeur quelle sera ma vie 37
 
 S'una fede amoros'un cor non finto: (Petrarca) 41
 
-I-Fn: comp].
+I-Fn: compl.
 
-A-Wn: comp].
+A-Wn: compl.
 
 D-G: compl.
 
 D-Mbs: compl.
 
-D-Z: comp].
+D-Z: compl.
 
-PL GD: comp]
+PL GD: compl
 
 D-Kl: C.A B
 

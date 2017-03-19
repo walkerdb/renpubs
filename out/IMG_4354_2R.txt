@@ -50,9 +50,9 @@ l "Shi fiori c_ l'amorosc fronde et l'hcrba ct l'aria 32
 
 I-de: compl.
 
-D-Kl': comp].
+D-Kl': compl.
 
-D-Mbs: comp].
+D-Mbs: compl.
 
 I-Bc: C.B.5.
 

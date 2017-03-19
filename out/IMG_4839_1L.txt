@@ -26,7 +26,7 @@ A 4. Piangete, occhi miei lassi, c intenerit'il core di colei che s'indura l
 " " Ed è pur ver ch'io parta, o m'allontani (la quei sereni rai 19
 A 8. Amor, se pur (leggio morir senza pietà del dolor mio. Dialogo ZO
 
-l-VEcap: comp].
+l-VEcap: compl.
 l-Rsc: C.
 
 2445 _ ROSSI Salomone (1600) _ Il Primo Libro de Madrigali a cinque vou,

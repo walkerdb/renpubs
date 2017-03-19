@@ -5,9 +5,9 @@ Angelo Gardano 1587.
 5 fasc. in 8° ob]. (C.A.T.B.5.), pag. 19. lndicc = 1580.
 
 A-Wn: compl.
-D-As: comp].
+D-As: compl.
 F-Pthibault: compl.
-D-Bds: comp].
+D-Bds: compl.
 GB-Lbm: C.A.T.5.
 I-Bc: A.B.5.
 
@@ -47,8 +47,8 @@ Angelo Gardano. 1602.
 5 fasc. in 8° (C.A.T.B.5.), pag. 19,(1). lndicc = 1580.
 
 I-Bc: compl.
-I'le): comp].
-l-Nc: comp].
+I'le): compl.
+l-Nc: compl.
 B-BC: compi.
-F-Pc: comp],
+F-Pc: compl,
 

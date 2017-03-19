@@ -63,8 +63,8 @@ A 3. Sanità e allegrezza c bezzi assai il ciel vc daga. Iustiniana
 " " lo sper'e tem'et ard'e mi disfaccio, e quest'ardore, ch'ho dentr'al. Aria
 " " Non vuò pregare chi non m'ascolta, chè la mia diva d'amor è priva
 
-B-Br: comp].
-CH-Bu: comp].
+B-Br: compl.
+CH-Bu: compl.
 D-Hs: compl.
 D-W: compl.
 A-Wn: C.T.B.5.6.

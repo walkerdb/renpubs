@@ -6,7 +6,7 @@ di Girolamo Scotto. 1588.
 
 A-Wn: compl.
 D-As: compl.
-US-Wc: comp].
+US-Wc: compl.
 l-PAc: C.A.T.B.
 E-Zac: A.T.B.
 I-VEaf : T.5.

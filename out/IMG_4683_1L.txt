@@ -5,7 +5,7 @@ Horsù, faneiull'alato, che di fabro sei nato 19
 Come può star, o Dei, che sc lu sola sci 20
 Infelice pastore, nat'al piant'c al dolore Zl
 Pietra felice e dura, \'i s'assidc colei, che'l cor mi [ura U
-I-Bc: comp].
+I-Bc: compl.
 
 NL-DHgm: T.E.
 
@@ -55,5 +55,5 @@ A 8. Che debbo far, che mi consigli, amore. Dialogo (Petrarca)
 
 " " Tanta dolcezza mai senti, amoroso core. Dialogo dì Hippo/ilo Tarmglmo
 
-l-VEcap: comp].
+l-VEcap: compl.
 

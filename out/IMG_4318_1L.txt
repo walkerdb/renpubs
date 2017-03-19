@@ -52,7 +52,7 @@ D-Mbs: compl.
 
 F-Pc: compl.
 
-PL-GD: comp].
+PL-GD: compl.
 
 B-Br: C.A.T.5.
 

@@ -8,7 +8,7 @@ Dunque de\'i partire, ahi vana speme all'hor si fan 7-2
 Le stelle'l cielo e gli elementi a prova (Petrarca) 24
 Crespo, aureo crin, cui par ch'intorno vole 26
 
-l-MOe: comp].
+l-MOe: compl.
 I-VEnf : compl.
 PL-GD: C.A.T.5.
 

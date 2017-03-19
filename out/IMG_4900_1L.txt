@@ -5,7 +5,7 @@
 " " Ne' vostri dolci baci dell'api è'] dolce mele (Tasso) 20
 A 6. Leggiadra giovinetta, gl'occhi luni son due stelle Il
 " " Vieni, lmeneo, (lal cielo cui pargoletti amori, e d'amoroso zelo B
-I-Bc: comp].
+I-Bc: compl.
 
 l-Bsp: compl.
 I-Rsc: compl.

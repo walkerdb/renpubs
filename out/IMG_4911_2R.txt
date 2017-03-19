@@ -16,7 +16,7 @@ CH-Bu: compl.
 
 D-As: compl.
 
-PL-GD: comp].
+PL-GD: compl.
 D-KNu: C.A.5.
 US-SFsc (De Bellis): B.
 

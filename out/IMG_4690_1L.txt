@@ -43,15 +43,15 @@ Da vaghe perle e da vermiglie rose ?:
 
 Morir può il vostro core. Ancidctelo pur come vi piace
 
-I-Bc: comp].
+I-Bc: compl.
 
-I-MOe: comp].
+I-MOe: compl.
 
 D-MÜS: compl.
 
 F-Pc: compl.
 
-PL-GD: comp].
+PL-GD: compl.
 
 l-Fn: C.
 
@@ -62,7 +62,7 @@ GB-Cfm: A.
 GB-Lbm: A.
 
 NL-DHgm: 5. (prov. Schucrlecr).
-RISM. I 1586-18 (non comp]. e inesatto).
+RISM. I 1586-18 (non compl. e inesatto).
 
 -IZZ4-
 

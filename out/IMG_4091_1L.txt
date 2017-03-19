@@ -7,8 +7,8 @@ A 4. Cantai, hor piango e non men di dolcezza " Zl
 " " Da le soavi parolctte accorte (seconda parte) " 24
 I-Fn: compl.
 
-GB-Lbm: comp],
-GB-Lwa: comp].
+GB-Lbm: compl,
+GB-Lwa: compl.
 I-VEaf: C.A.5.
 
 F-Pmcyer: CAS.

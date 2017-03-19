@@ -4,11 +4,11 @@ D-As: compl.
 
 F-Pc: compl.
 
-GB-Lbm: comp]. .
+GB-Lbm: compl. .
 
 GB-Ob: compl.
 
-PL-GD: comp].
+PL-GD: compl.
 
 D-Rp: C.A.T.5.6. (2° cscmpl.: C.A.5.6., prov. Haberl).
 I-Rsc: C.A.B.5.6.

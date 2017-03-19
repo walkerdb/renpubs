@@ -62,7 +62,7 @@ O fera voglia, che ne rodi e pasci (seconda parte) " " 31
 
 l-MOc: compl.
 
-l-Rsc: comp].
+l-Rsc: compl.
 
 A-Wn: compl.
 

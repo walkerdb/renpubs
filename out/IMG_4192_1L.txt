@@ -30,8 +30,8 @@ A 6. Filli cara et amata, dimmi per cortesia 17
 
 A 8. Spirto, che regn'in questi oscuri tronchi
 
-I-Bc: comp].
-I-Bsp: comp].
+I-Bc: compl.
+I-Bsp: compl.
 B-Br: compl.
 
 415 _ BOTTACCIO Paolo (1609) _ I Sospiri con altri, Madrigali a cinqutî, ct

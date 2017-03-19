@@ -30,7 +30,7 @@ appresso l'hercde di Girolamo Scotto. 1582.
 
 l-Fn: compl.
 l-de: compl.
-CH-Bu: comp].
+CH-Bu: compl.
 D-As: compl.
 D-Mbs: compl.
 PL-GD: compl.

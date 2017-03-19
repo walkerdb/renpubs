@@ -32,7 +32,7 @@ A 5. Quel di ch'io persi il core, amor denlr'a quel loco accese un dolce foco l
 A 8. Ond'nviene ch'io l'amo. Dialogo ZO
 I-Bc: compL
 
-l-M0e: comp].
+l-M0e: compl.
 
 A-Wn: C.A.T.B.
 

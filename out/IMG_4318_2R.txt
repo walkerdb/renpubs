@@ -44,7 +44,7 @@ Felice coppia, caro gentil nodo di puro santo 28
 Con quella gentil ben (seconda parte) 29
 
 l'VECap: compl.
-F-Pc: comp],
+F-Pc: compl,
 l-Fn: C.A.T.5.
 A-Wn: C
 
@@ -53,8 +53,8 @@ della sac. ces. maestà dell'imperatore Rodolfo [[ il Sesto Libro delli Madrigal
 Cinque voci, novamente ristampato. In Venetia appresso Angelo Cardano. 1588.
 
 5 fase. in 8° obl. (C.A.T.B.5.), png. 29. lndice = 1575.
-LBC: comp].
+LBC: compl.
 
-GB-Lbm : comp].
+GB-Lbm : compl.
 A'Wn : T.E.S.
 

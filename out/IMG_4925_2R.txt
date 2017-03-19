@@ -34,7 +34,7 @@ A 4. Voi dite che di ghiaccio havelc il pcuo sc i fatti son conformi 27
 " " Mnslri,'serpenli. hruii ": vellenosi devono dar la morte 34
 " " Qual più crudel martire dar mi potevi, amore, che farmi servo 35
 
-F-Pn: comp],
+F-Pn: compl,
 F-Psg: cnmpl.
 US-SM: G.B.
 

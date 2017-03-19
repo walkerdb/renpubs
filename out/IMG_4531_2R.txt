@@ -26,9 +26,9 @@ A 8. Un jour l'amant et l'amic 77
 A 10. Quo properas facundc nepos 86
 F-Pc: compl.
 
-F-Psg: comp].
+F-Psg: compl.
 
-E-Mc: comp].
+E-Mc: compl.
 
 GB-Lbm: S. Contr. T.E.
 

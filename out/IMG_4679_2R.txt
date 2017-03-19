@@ -17,7 +17,7 @@ A5. A lieta vita amor ci invita. Chi gioir brama sc di cor ama 7
 " " Non mi date tormento, nè più doglia, rendetcm'il cor mio 26
 " " Non dubitar ch'io t'abandoni mai, dolce cor mio 27
 A 7. Filli morir vorei. Deh perchè morir brnmi? Perchè so che non m'ami. Dialogo 28
-US-SM: comp].
+US-SM: compl.
 
 US-Ws: C.
 

@@ -3,7 +3,7 @@ A 4. Regina mia... eccoti questa spada 18
 " " Se di tanti miei guai saria non sete mai 19
 " " O crudel, ch'intcnder nieghi le mic pene et i sospm. Ana 20
 " " Empio volto e insidioso, ch'hai nel mel l'amaro ascoso. Ana 21
-D-Rp: comp].
+D-Rp: compl.
 
 I-Bc: B.
 

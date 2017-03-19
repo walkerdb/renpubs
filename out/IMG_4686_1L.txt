@@ -45,7 +45,7 @@ A 7. Alma d'amor gioiosa, bor che sospiri. Dialogo
 
 D-Mbs: compl.
 GB-Lbm: compl.
-US-Ws: comp].
+US-Ws: compl.
 I-MOc: C.A.B.5.
 I-VEaf : C.
 I-Bc: B.

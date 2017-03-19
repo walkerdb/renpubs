@@ -31,9 +31,9 @@ Huomini e dei solca vincer (quarta parte) " 33
 A l'ultimo bisogno, o miser'alma (quinta parte) " 34
 Ridon bar per le piaggie herbette (Sesta parte) " 35
 
-I-Bc: comp].
+I-Bc: compl.
 
-l-VEcap: comp].
+l-VEcap: compl.
 
 l-VCd: C.T.B.5.
 

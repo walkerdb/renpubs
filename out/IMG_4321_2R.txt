@@ -5,7 +5,7 @@ Se ciò non basta a mi (seconda parte) " 31
 
 I-Bc: compl.
 I-MOc: compl.
-l-Nc: comp].
+l-Nc: compl.
 A-Wn: compl.
 D-Kl: compl.
 D-Mbs: compl.

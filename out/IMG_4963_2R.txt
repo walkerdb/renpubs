@@ -49,7 +49,7 @@ Udite, udite, amanti, l'amor di donna è qual musica nova. Di Horatio Vecchi _ 3
 Qchto è troppo, signora, voler danar ogn'hora, perchè questo. Di Horatio Vecchi 34
 
 I-Bc: compl.
-F-Pthibault: comp].
-GB-Lbm: comp].
+F-Pthibault: compl.
+GB-Lbm: compl.
 D-AS: G.B.
 

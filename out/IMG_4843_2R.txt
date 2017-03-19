@@ -5,7 +5,7 @@ n " Tancrcdi. o sanguinoso, o lagrimnto (seconda stanza) "
 " " Amor, privato di tuoi luci ardcnlc (terza stanza) "
 " " Piaghc chc'l sanguc di versar (quarta stanza) "
 " " Morte, ch'a me li lolxc, lior mi concede (quinta stanza) "
-GB-Och: comp].
+GB-Och: compl.
 GB-Lbm: C.l°.
 
 2462 _ ROVETTA Giovanni (1636) _ Madrigali concertati a 2.3.4. et uno a sei
@@ -40,7 +40,7 @@ Sbaglia. Il conlcnulo è identico a 1629).
 
 GB-Lbm: compl.
 
-GB-Och: comp].
+GB-Och: compl.
 
 2465 - ROVETTA Giovanni (1640) _ Madrigali concertati a due e tre, voci,
 tt. altri a cinque, sei, et otto con due Violini et nel fine una Cantata a quattro

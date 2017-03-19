@@ -37,7 +37,7 @@ Baciatemi, cor mio, che con sì dolce aita Di Antonio Bicci (Celiano) 23
 De bcgl'occhi ch'adoro lagrimette cadean pari alle perle 24
 Se da quel vago viso non posso involar baci (Celiano) 25
 
-GB-Lbm: comp],
+GB-Lbm: compl,
 
 {'ES: g.B.5. difett. (C. pag, 1-6; B. Pilg- 15_16, 23-26; S png 5-8, 13-14)
 - c: _

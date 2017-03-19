@@ -2,7 +2,7 @@ A6. Qui giace, ahi lasso, il gran signor del cielo 19
 " " Non più, saggi pastori, d'altre ninfe cantate ZO
 " " Fate a questa corona (seconda parte) 21
 
-l-MOc: comp].
+l-MOc: compl.
 l-Vnm : 5.
 
 2531 - SABINO Ippolito (1587) _ Di Ippolito Sabino il Seto (ric) Libro dc

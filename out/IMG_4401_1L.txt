@@ -7,7 +7,7 @@ A 3. Habbiti pace, 0 core, se la tua fè non vale 65
 " " Viviamo, Lilla, viviamo. Tu dammi presto 67
 " " Penso tal'liora come servire amore 68
 
-I-Bc: comp].
+I-Bc: compl.
 
 FONTEIO Giovanni
 Cfr.: NlELSEN Hans

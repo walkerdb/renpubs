@@ -33,7 +33,7 @@ De Rare - " " Amour ne faict que tourmenler
 " " - " " Non è lasso martire il convenir per voi, donna (Spira)
 " " - " " Susann'ung iour, d'amour solicite'e (Guéroult)
 " " - " " Vieni, dolce Himinco, seconda i nostri voli (Guarini)
-D-Mbs: comp]
+D-Mbs: compl
 
 S-Sk: T.5.
 

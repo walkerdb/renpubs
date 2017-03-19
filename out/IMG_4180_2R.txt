@@ -28,7 +28,7 @@ Poi ch'eri così forte scropulosa, non ti dovevi 29
 DaSPuò ch'al mio dolor no ghè ccroto Di G. Bonagiunta 30
 E voravc saver, colonna mia " " " 31
 Chi fa del cavalier e chi del duca 32
-S-Ll: comp],
+S-Ll: compl,
 GB-Lbm: C.
 I-Bc: T,
 
@@ -40,7 +40,7 @@ autton, dl novo ristampate. In Vinegia. Appresso Gieronimo Scotto. 1567.
 
 3 fasc. in 8° (C T.E.), pag. 31. Indice = 1565.
 
-A-Wn: comp].
+A-Wn: compl.
 D-As: C.
 
 I-Vnm: B. (difett.).
