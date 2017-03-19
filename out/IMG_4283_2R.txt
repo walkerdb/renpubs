@@ -1,14 +1,14 @@
 A ]. Quando tua Clori vedrà gl'ardori. Aria grave
 
-» » Impazzite anche voi se son pazz’io. Aria allegro
+" " Impazzite anche voi se son pazz'io. Aria allegro
 
-» » Scntitemi cantar, sentite amanti. Parole del dottor N.N.
+" " Scntitemi cantar, sentite amanti. Parole del dottor N.N.
 
-» » In questo oscuro poggio, ove spiegano l‘ombre i tctri amanti. Serenata a voce sola
+" " In questo oscuro poggio, ove spiegano l'ombre i tctri amanti. Serenata a voce sola
 [con (due) Violini. Poesia di D. Gasparo Molina
 
-» » Che se per sorte vuoi darmi morte Prima stanza
-» » Tra quelle luci che l'alme bruci, farfall‘amante. Seconda stanza
+" " Che se per sorte vuoi darmi morte Prima stanza
+" " Tra quelle luci che l'alme bruci, farfall'amante. Seconda stanza
 A3. Sì, sì, dormite pupille amate. Aria con duoi Violini
 
 A4. Serenata a 2 voci con (due) Violini a modo di Dialogo: Fileno c Clori. Poesia di
@@ -16,13 +16,13 @@ A4. Serenata a 2 voci con (due) Violini a modo di Dialogo: Fileno c Clori. Poesi
 
 l\ ]. Lucidissimc stelle, che tra notturni horrori. Fileno solo
 
-” ” Et horco più tormentato vo qui intorno gridando. Aria
+" " Et horco più tormentato vo qui intorno gridando. Aria
 
-” ” Qual eco rimbombante (li mcstissimi accenti. Clori sola
+" " Qual eco rimbombante (li mcstissimi accenti. Clori sola
 
-n » Un amante senza core, un che adora sua beltà. Fileno
+n " Un amante senza core, un che adora sua beltà. Fileno
 
-» » Se perdura hai la sperama, sc nemica hai la fortuna. Clori
+" " Se perdura hai la sperama, sc nemica hai la fortuna. Clori
 
 A3. Non son larva no, ma fido amante. Aria con Violini amorosa. Fileno
 
@@ -30,7 +30,7 @@ A 1. Non temere, mia vita, son propitie le stelle. Aria. Clori
 
 A4. Fermate, mie gioie. Ccssatc, o tormenti. A 2 con Violini. Clori e Fileno
 
-A L Ohimè non posso più. il silenuo m‘accora. Serenata a voce sola con 2 Violini. Poesia
+A L Ohimè non posso più. il silenuo m'accora. Serenata a voce sola con 2 Violini. Poesia
 [di D. Gasparo Molina
 
 A 1- Notturni zefiri, susurri amabili. Aria
@@ -43,19 +43,19 @@ A4- Serenata a 2 Canti con (due) Violini. Poesia di D. Gasparo Molina
 
 L'aurato dio di Delo per dar campo al riposo. Largo
 
-Gl‘occhi miei che del splendore privi son. Aria grave assai
+Gl'occhi miei che del splendore privi son. Aria grave assai
 
 A 4 Amore, pietà, non tanto rigore. A 2 con Violini
 
-AZ Sel porta quel caro che l‘alma ci tolse. A 2 Canti affettuoso
+AZ Sel porta quel caro che l'alma ci tolse. A 2 Canti affettuoso
 
 A l- Pupillette languidette, che piangete per pietà. Sec. Canto solo. Amoroso
 :? Fate eco, o muti horrori. A 2 Canti
 
-- Pensai che l‘arco teso del farctrato clio vibrasse. Canzona a voce sola. Poesia di
+- Pensai che l'arco teso del farctrato clio vibrasse. Canzona a voce sola. Poesia di
 [D. Gasparo Molina
 Cinse il cor quella beltà di mortifero veleno. Aria
-Qual sorte ria quest‘alma mia con doppio duol. Aria affettuom
+Qual sorte ria quest'alma mia con doppio duol. Aria affettuom
 Occhi, voi che stillate per sommergierm'il duo]. Aria
 S'ella gode al mio penare. Aria
 _ Mentre chiude il mio cor dentro un inferno. Aria
@@ -71,7 +71,7 @@ Tra l'usate fatighe a dar sangue alle carte stava un di Coridon. Cantata a voce 
 _ [Poesia del Segretario del Nuntio di Napoli
 Rwolgctevi di là, luci belle idoltrate. Aria
 NOn vi voglio più mirar, occhi vaghi io vel prometto. Sec.
-S'un bell’occhio ti ferì, vaga bocca ti sanerà. Aria
+S'un bell'occhio ti ferì, vaga bocca ti sanerà. Aria
 Un bel volto quel asta d'Archille s'adolora sa consolar. Sec.
 Fatto di fuoco all'hora il buon pastore. Rec.
 
@@ -81,7 +81,7 @@ Fatto di fuoco all'hora il buon pastore. Rec.
 
 |) ))
 
-» n
+" n
 
 130
 

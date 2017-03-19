@@ -1,14 +1,14 @@
 A 5. Puis que fortune a sur moy entrepris ]g
 
-» » 0 dolci parolette, o doce riso, che tanti amari mei (Cassola) 20
-» » Au feu, au feu, venés moy secourir (O. de Saint-Gélais) ZZ
-» » A l'eau iette toy vistement. Response » 23
-» » Quid prodest stulto haberc divitias 24
-» » La vita fugge e non s’arresta un‘ora (Petrarca) 25
-» » La terre les eaux va beuvant (Ronsard) 26
-» » Si par souffrir. Response Di Filippc de Mom: 27
-» » De tout mon coeur i’ayme la Marguerite (Crétin) 29
-» » Seeourez moy madame (Maro!) 29
+" " 0 dolci parolette, o doce riso, che tanti amari mei (Cassola) 20
+" " Au feu, au feu, venés moy secourir (O. de Saint-Gélais) ZZ
+" " A l'eau iette toy vistement. Response " 23
+" " Quid prodest stulto haberc divitias 24
+" " La vita fugge e non s'arresta un'ora (Petrarca) 25
+" " La terre les eaux va beuvant (Ronsard) 26
+" " Si par souffrir. Response Di Filippc de Mom: 27
+" " De tout mon coeur i'ayme la Marguerite (Crétin) 29
+" " Seeourez moy madame (Maro!) 29
 D-Mbs: comp].
 
 PL-GD: compl.
@@ -33,25 +33,25 @@ maicsté. Pour dix ans.
 4 fasc. in 8° obl. (Superius, Contratenor, T.B.), c. 16.
 
 A 4. En un lieu ou l'on ne voit goutte (0. de Saint-Gélais) Z
-» » Il cstoit une rcligieusc de l'ordre Z
-» » Mes pas seme's et loing ale's 3
-» » En m'oianc chanter quelquefois (Maroit) :
+" " Il cstoit une rcligieusc de l'ordre Z
+" " Mes pas seme's et loing ale's 3
+" " En m'oianc chanter quelquefois (Maroit) :
 
-» » Margot laboure's les vignes bien tost
+" " Margot laboure's les vignes bien tost
 
-» » Deus qui bonum vinum creasti 5
-» » Madonna mia, pietà chiam'et aita. Napolitana 6
-» » Tu sai, madonna mia, ch'io t’amo et voglio. Napolitana 7
-» » No giorno t’aggio havere intr’alle mane. Napolitana 7
-» » La cortesia voi, donne, predicate, ma mai non l'osservate. Napolitana Hs)
-» » Tu, traditora, m’hai puost’a sto core no focolare. Napolitana “
-» » Sto corc mio se fosse di diamante. Napolitana “
+" " Deus qui bonum vinum creasti 5
+" " Madonna mia, pietà chiam'et aita. Napolitana 6
+" " Tu sai, madonna mia, ch'io t'amo et voglio. Napolitana 7
+" " No giorno t'aggio havere intr'alle mane. Napolitana 7
+" " La cortesia voi, donne, predicate, ma mai non l'osservate. Napolitana Hs)
+" " Tu, traditora, m'hai puost'a sto core no focolare. Napolitana "
+" " Sto corc mio se fosse di diamante. Napolitana "
 A 5. Comme la tortercllc languit IZ
-» » Ou t’atcnd ta maistresse amy. Response 13
-» » Ie ne veux plus que chanter d) 14
-» » La terre les eaux va bem-ant (Ronsar 15
+" " Ou t'atcnd ta maistresse amy. Response 13
+" " Ie ne veux plus que chanter d) 14
+" " La terre les eaux va bem-ant (Ronsar 15
 
-» » l’endure un tounncnt des tourmens le pire
+" " l'endure un tounncnt des tourmens le pire
 
 F-Pthibault: Contr., T.E.
 Lesure e Thibault 109.

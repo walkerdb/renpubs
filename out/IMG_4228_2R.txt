@@ -1,24 +1,24 @@
 . * 11
 A2. Con la fronte vermiglia 2 T.
 
-» » Non vedran mai quest’occhi » » Ì;
-» » Pendea dal biondo crin della mia Dori di rugiadose perle 2 C.
+" " Non vedran mai quest'occhi " " Ì;
+" " Pendea dal biondo crin della mia Dori di rugiadose perle 2 C.
 
-» » Perchè, vago mio so], di l’aura oscura t’imbruni il volto » » i?
-» » Misero, perché fuggo . C. e B. 26
+" " Perchè, vago mio so], di l'aura oscura t'imbruni il volto " " i?
+" " Misero, perché fuggo . C. e B. 26
 A3. Fortunato augellctto, che sì sublimi canti. Canzon del Rosxgnuolo 2 C. e B.
 
-» » Qual’hor scoccando l’arco, de la bocca saetti (seconda stanza) 28
-» » L’augel che riccamente s’incorona e s’ammanta (terza stanza) 30
-» » Tu, re degli altr’augelli, siedi superbo (quarta stanza) 33
-» » E se ben la regina piega humilmente e china (quinta stanza) 35
-» » Piccioletto tu sei, picciole l’ale spandi (sesta stanza) 37
-” ” Ingegnosetto hor spieghi languidetti accentini (settima stanza) 40
-» » Una fonte animata sei tu, ch’ogn’hor diffondi (ottava stanza) 43
-» » E quinci avicn che umta stassi la notte (nona stanza) 45
-» » E spesso inanzi l’hora l’alba che t’ama (decima stanza) 49
-» » Quinci avicn che raccoglie il freno a suoi (undecima stanza) 49
-» » Ma poi che melodia spieghi sì rara (dodicesima e ultima stanza) 52.
+" " Qual'hor scoccando l'arco, de la bocca saetti (seconda stanza) 28
+" " L'augel che riccamente s'incorona e s'ammanta (terza stanza) 30
+" " Tu, re degli altr'augelli, siedi superbo (quarta stanza) 33
+" " E se ben la regina piega humilmente e china (quinta stanza) 35
+" " Piccioletto tu sei, picciole l'ale spandi (sesta stanza) 37
+" " Ingegnosetto hor spieghi languidetti accentini (settima stanza) 40
+" " Una fonte animata sei tu, ch'ogn'hor diffondi (ottava stanza) 43
+" " E quinci avicn che umta stassi la notte (nona stanza) 45
+" " E spesso inanzi l'hora l'alba che t'ama (decima stanza) 49
+" " Quinci avicn che raccoglie il freno a suoi (undecima stanza) 49
+" " Ma poi che melodia spieghi sì rara (dodicesima e ultima stanza) 52.
 
 l-TSt: C.l° (solc pag. 17-22, 26-53)-
 
@@ -26,32 +26,32 @@ l-TSt: C.l° (solc pag. 17-22, 26-53)-
 Madrigali a cinque voci, con uno Dialogo a sette, novamente composti et dat: ln
 luce. Libro Primo. In Venetia apresso li figliuoli di Antonio Gardano. 1572.
 
-5 fase. in 8° obl. (C.A.T.B.5.), pag. 30,(1). Ded. al Prencipe Ferdinando Arciduca d’Austria:
-«…queste mie prime fatiche: fatte per la maggior parte, mentre sono stato al scrvitio di
-V. Serenissima Altezza... ».
+5 fase. in 8° obl. (C.A.T.B.5.), pag. 30,(1). Ded. al Prencipe Ferdinando Arciduca d'Austria:
+"…queste mie prime fatiche: fatte per la maggior parte, mentre sono stato al scrvitio di
+V. Serenissima Altezza... ".
 
-A5. Se’l dolce sguardo di costei m’ancide (Petrarca) 1
-” ” Però s’io tremo vo col cor gielato (seconda parte» » Z
-” » L’alma mia fiamma, oltra le belle bella » 3
-» » Lei ne ringratio e’l suo alto (seconda parte) » 4
-” ” O invidia, nemica di virtute, ch’a bei principi » 6
-» » Nè però che con atti accerbi (seconda parte) » 7
-"‘ ” Valle, che di lamenti miei sei piena "» 9
-» » Ben riconosco in voi l’usate forme (seconda parte) » 10
-» » Superbi colli e Voi, sacre ruine, che’ nome sol di Roma (Guidiccioni) 11
-” ” Così se ben col temp’al tempo guerra (seconda parte) » 13
-» » Solo e pensoso i più deserti campi (Petrarca) 14
-” ” Si ch‘io mi cred’homai che monti (seconda parte) » 16
-» » Far potcss’io vendetta di COlcl » 17
-” ” L’alma cui morte del su‘albergo (seconda parte) » 13
-” ” Ite, rime, piangendo da colei a cui ho dato l’alm’e i sensi 19
-” ” Ditele anchor che sempre col desio (seconda parte) 20
-” ” Se per me non v’accend’il petto amore 21
-" ” Le dolci labra donch’amor destina (seconda parte) 22
-» » Benedetto sia’l giorn’e’l mese e l’anno (Petrarca) 23
-” ”, Benedette le voci tante ch’io (seconda parte) ,, 24
-” ” Misero me, deh com’amor m'ha posto in questo novo laccio 25
-" ” Lasso son preso e vinto, che debb’io far (seconda parte) 26
+A5. Se'l dolce sguardo di costei m'ancide (Petrarca) 1
+" " Però s'io tremo vo col cor gielato (seconda parte" " Z
+" " L'alma mia fiamma, oltra le belle bella " 3
+" " Lei ne ringratio e'l suo alto (seconda parte) " 4
+" " O invidia, nemica di virtute, ch'a bei principi " 6
+" " Nè però che con atti accerbi (seconda parte) " 7
+"' " Valle, che di lamenti miei sei piena "" 9
+" " Ben riconosco in voi l'usate forme (seconda parte) " 10
+" " Superbi colli e Voi, sacre ruine, che' nome sol di Roma (Guidiccioni) 11
+" " Così se ben col temp'al tempo guerra (seconda parte) " 13
+" " Solo e pensoso i più deserti campi (Petrarca) 14
+" " Si ch'io mi cred'homai che monti (seconda parte) " 16
+" " Far potcss'io vendetta di COlcl " 17
+" " L'alma cui morte del su'albergo (seconda parte) " 13
+" " Ite, rime, piangendo da colei a cui ho dato l'alm'e i sensi 19
+" " Ditele anchor che sempre col desio (seconda parte) 20
+" " Se per me non v'accend'il petto amore 21
+" " Le dolci labra donch'amor destina (seconda parte) 22
+" " Benedetto sia'l giorn'e'l mese e l'anno (Petrarca) 23
+" ", Benedette le voci tante ch'io (seconda parte) ,, 24
+" " Misero me, deh com'amor m'ha posto in questo novo laccio 25
+" " Lasso son preso e vinto, che debb'io far (seconda parte) 26
 
 _.329-
 

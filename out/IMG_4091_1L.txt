@@ -1,10 +1,10 @@
-A 5. Alla dolc’ombra delle belle frondi corsi (Petrarca) 19
+A 5. Alla dolc'ombra delle belle frondi corsi (Petrarca) 19
 
-» » Non vide il mondo sì leggiadri rami (seconda parte) » 20
-A 4. Cantai, hor piango e non men di dolcezza » Zl
-» » Tengan dunque ver me l’usato stile (seconda parte) » ZZ
-» » Dal più bel viso e dal più vago petto » B
-» » Da le soavi parolctte accorte (seconda parte) » 24
+" " Non vide il mondo sì leggiadri rami (seconda parte) " 20
+A 4. Cantai, hor piango e non men di dolcezza " Zl
+" " Tengan dunque ver me l'usato stile (seconda parte) " ZZ
+" " Dal più bel viso e dal più vago petto " B
+" " Da le soavi parolctte accorte (seconda parte) " 24
 I-Fn: compl.
 
 GB-Lbm: comp],
@@ -22,37 +22,37 @@ posti et dati in luce. A quattro voci. In Venetia, appresso li figliuoli di Anto
 
 Gardano. 1571.
 
-4 fasc. in 8° obl. (C.A.T.B.) pag. 2.9,(1). Dedal Cavalier Carlo Durandi: « ...quei primi frutti,
-che da nuove piante, nella villa sua, et in poco tempo son divenuti... Venetia, 15 VII 1571 »-
+4 fasc. in 8° obl. (C.A.T.B.) pag. 2.9,(1). Dedal Cavalier Carlo Durandi: " ...quei primi frutti,
+che da nuove piante, nella villa sua, et in poco tempo son divenuti... Venetia, 15 VII 1571 "-
 
 A 4. Sacri colli e beati, ben nate rive e ben felici piante ]
-» » Hor ben puoi, ch’eri qual chiaro Sebeto, l’arene in or 2
-» » Non vedran mai queste mie meste luci altro che giaccio. Canzone 3
-» » Acerbo aprile e non men cruda morte (seconda parte) 4
-» » O vago et degno assai de gli altri (terza parte) 5
-» » Non Spero in terra mai haver (quarta parte) 6
-» » Che dcbbo far, se più non odo (quinta parte) 7
-» » Piangerò dunque da l’estate al verno (sesta parte) 8
-» » Ahi stanche luci, ahi fredd’e oscuro (settima parte) 9
+" " Hor ben puoi, ch'eri qual chiaro Sebeto, l'arene in or 2
+" " Non vedran mai queste mie meste luci altro che giaccio. Canzone 3
+" " Acerbo aprile e non men cruda morte (seconda parte) 4
+" " O vago et degno assai de gli altri (terza parte) 5
+" " Non Spero in terra mai haver (quarta parte) 6
+" " Che dcbbo far, se più non odo (quinta parte) 7
+" " Piangerò dunque da l'estate al verno (sesta parte) 8
+" " Ahi stanche luci, ahi fredd'e oscuro (settima parte) 9
 
-» » Volgi qua su nel ciel ambe le luce et mira. Risposta alla Canzone Non vedran mai.
+" " Volgi qua su nel ciel ambe le luce et mira. Risposta alla Canzone Non vedran mai.
 [Di Lelio Bertani 10
 
-» » Non ti doler d’april, nè men di morte (seconda parte) 11
-» » Godi contento gli terreni fiori (terza parte) 12
-» » Stanne pur lieto, ch’altro meglio (quarta parte) 13
-» » Segui le Muse e’l lor soave canto (quinta parte) 14
-» » Tu forsi vedrai anchor di vern’il verno (sesta parte) 15
-» » Constanti luci vi sia sempre il verno (settima parte) 16
-» » Vivete lieti, se viver volete, tal che sin all’uscita 17
-» » Gioir è vita vera. Quel vive (seconda parte) 18
-» » De bei fioriti colli hor ben sei chiaro monte il vant’e honore 19
-» » Duoi leggiadrctte donne, dietr’a una riva solc ZO
-» » E nel passar pei fiori dietro lasciaro (seconda parte) Zl
-» » Scendi da l’alto cielo Apollo, ch’a le piante dai Vigore ZZ
-» » A mio mal grad’amor conosc’hormai che null’è contra te 23
-» » Facea col cancro il sol suo bel soggiorno 24
-» » Cangiar pensicr hormai più non mi lice 25
+" " Non ti doler d'april, nè men di morte (seconda parte) 11
+" " Godi contento gli terreni fiori (terza parte) 12
+" " Stanne pur lieto, ch'altro meglio (quarta parte) 13
+" " Segui le Muse e'l lor soave canto (quinta parte) 14
+" " Tu forsi vedrai anchor di vern'il verno (sesta parte) 15
+" " Constanti luci vi sia sempre il verno (settima parte) 16
+" " Vivete lieti, se viver volete, tal che sin all'uscita 17
+" " Gioir è vita vera. Quel vive (seconda parte) 18
+" " De bei fioriti colli hor ben sei chiaro monte il vant'e honore 19
+" " Duoi leggiadrctte donne, dietr'a una riva solc ZO
+" " E nel passar pei fiori dietro lasciaro (seconda parte) Zl
+" " Scendi da l'alto cielo Apollo, ch'a le piante dai Vigore ZZ
+" " A mio mal grad'amor conosc'hormai che null'è contra te 23
+" " Facea col cancro il sol suo bel soggiorno 24
+" " Cangiar pensicr hormai più non mi lice 25
 
 ._.62- ...-_
 

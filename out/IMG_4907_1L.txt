@@ -1,18 +1,18 @@
 A 7. A te il bon anno (seconda parte) 3
 
-» » Ho udito anch'io (terza parte) 4
-» » Non ti ricorda (quarta parte) S
-» » Orsù slendiamn (quinta parte) 6
+" " Ho udito anch'io (terza parte) 4
+" " Non ti ricorda (quarta parte) S
+" " Orsù slendiamn (quinta parte) 6
 La Caccia (li Alcssamlro Slriggiu
 A 4. Dalle gelate braccia B
 A 5. Su, su presto (scconda parte) 10
-A 6. Ecco ch‘al bosco siam (terza parte) 11
-» » Mirate :\ quei (quarta parte) 14
+A 6. Ecco ch'al bosco siam (terza parte) 11
+" " Mirate :\ quei (quarta parte) 14
 A 7. Ecco il sol chiaro (quinta parle) 5
 [| Lamento (li Didone di Cipriano Run-
 A S. Dissimularc etiam (Virgilio) 18
-A 6. Quin cliam (seconda parte) » 18
-A 7. Me ne fugis (terza parte) » 19
+A 6. Quin cliam (seconda parte) " 18
+A 7. Me ne fugis (terza parte) " 19
 
 lì-Br: compl.
 GB-Lbm: B.
@@ -29,19 +29,19 @@ Il Cicalamento 2
 A 4. Nella vaga stagion 3
 A 7. A te il bon anno (seconda parte) 4
 .; )) Ho udito anch'io (terza parte) 5
-» » Non ti ricorda (quarta parte) 6
-» » Orsù stendiamo (quinta parte)
+" " Non ti ricorda (quarta parte) 6
+" " Orsù stendiamo (quinta parte)
 
 La Caccia 8
 A 4. Dalle gelate braccia 10
 A 5. Su, su presto (seconda parte) "
-A 6. Ecco ch‘al bosco (terza parte) 14
-» » Miralc a quci (quarta parte) l5
+A 6. Ecco ch'al bosco (terza parte) 14
+" " Miralc a quci (quarta parte) l5
 A 7. Ecco il sol chiaro (quinta parte)
 
 Gioco di primiera 17
-A 5. Al vag’e incerto gioco di primicra 18
-» » Facciasi di che caviamo (Hot date fuor) (seconda parte)
+A 5. Al vag'e incerto gioco di primicra 18
+" " Facciasi di che caviamo (Hot date fuor) (seconda parte)
 
 l-Fr: A.T.6.7.
 GB-Lbm: T.

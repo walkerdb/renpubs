@@ -2,7 +2,7 @@ TVc Treviso, Biblioteca Comunale
 
 TVd Treviso, Archivio del Duomo
 
-Uu Urbino, Biblioteca dell’Università
+Uu Urbino, Biblioteca dell'Università
 
 Vc Venezia, Biblioteca del Conservatorio
 
@@ -15,7 +15,7 @@ Vul Venezia, Fondazione Levi
 
 VCd Vercelli, Archivio del Duomo
 
-VEaf Verona, Biblioteca dell’Accademia Filarmonica
+VEaf Verona, Biblioteca dell'Accademia Filarmonica
 VEcap Verona, Biblioteca Capitolare
 
 VIb Vicenza, Biblioteca Comunale Bertoliana

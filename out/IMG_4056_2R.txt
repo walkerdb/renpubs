@@ -1,5 +1,5 @@
 WIL
-‘Ti? Rtl
+'Ti? Rtl
 WUu
 
 ZIs
@@ -22,7 +22,7 @@ Zac
 
 Dm
 
-Wiesentheid, Graf von Sch'onborn’sche Musikbibliothek
+Wiesentheid, Graf von Sch'onborn'sche Musikbibliothek
 Wilster/Holstein, Stadtarchiv
 
 Weimar, Thiiringische Landesbibliothek
@@ -65,7 +65,7 @@ Zaragoza, Archivo Musical de El Pilar
 Zaragoza, Archivo de Musica del Cabildo
 
 EIR: EIRE (IRELAND)
-Dublin, Marsh’s Library
+Dublin, Marsh's Library
 
 F: FRANCE
 
@@ -77,10 +77,10 @@ Epinal, Bibliothèque Municipale
 Grenoble, Bibliothèque Municipale
 Orléans, Bibliothèque Municipale
 
-Paris, Bibliothèque de l’Arsenal
+Paris, Bibliothèque de l'Arsenal
 
 Paris, Bibliothèque Nationale, fonds du Conservatoire
-Paris, Bibliothèque de l’Institut
+Paris, Bibliothèque de l'Institut
 
 Paris, Bibliothèque Mazarine
 

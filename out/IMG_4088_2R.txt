@@ -1,23 +1,23 @@
 A 4. Chi non è, Iesu, teco sempre in croce conf-itto 2,2,
 
-» » Vinca’l tuo immenso amor, Signor, la mia impietate 2.3
-» » Già fu presa da te la mia alma, Iesu 24
-» » Non è cibo alcun più grato, più soave, nè migliore 25
-» » Dispost’ho di scguirti, Iesu speranza mia 26
+" " Vinca'l tuo immenso amor, Signor, la mia impietate 2.3
+" " Già fu presa da te la mia alma, Iesu 24
+" " Non è cibo alcun più grato, più soave, nè migliore 25
+" " Dispost'ho di scguirti, Iesu speranza mia 26
 
-A2. Poiche’] cor mi slring’et serra per la crudel mia pena. A due voci et si risponde
+A2. Poiche'] cor mi slring'et serra per la crudel mia pena. A due voci et si risponde
 [a 4. ad ogni stanza Prego te dolce Maria 27
 A 4. Tiraci su, amor Iesu 28
-» » Benedetto sia lo giorno, amor 29
-A 2. Lasso ch’io moro, ohimè ch’io moro. La presente Lauda si canta tutta a due voci,
-et nel fine d’ogni stanza si replica questo verso Lasso ch’io moro a quattro voci 30
+" " Benedetto sia lo giorno, amor 29
+A 2. Lasso ch'io moro, ohimè ch'io moro. La presente Lauda si canta tutta a due voci,
+et nel fine d'ogni stanza si replica questo verso Lasso ch'io moro a quattro voci 30
 
 A 4. Iesu è nato, figliuol di Dio chiamato 31
-» » Deh venitcne, pastori, a veder Iesu ch’è nato 32
-» » Ben venga amore, io ti scnto nel core 33
+" " Deh venitcne, pastori, a veder Iesu ch'è nato 32
+" " Ben venga amore, io ti scnto nel core 33
 A 3. Laudate Dio col cuor humil e pio. 35
-» » O Iesu buono, per servirt’io qui sono. 36
-A 3 e 2. Giù per la mala via l’anima mia ne va 37
+" " O Iesu buono, per servirt'io qui sono. 36
+A 3 e 2. Giù per la mala via l'anima mia ne va 37
 
 GB-Lcm : comp].
 
@@ -25,19 +25,19 @@ GB-Lcm : comp].
 Laudi. Dove si contengono Mottetti, Salmi et altre diverse cose spirituali vulgari,
 et latine. Seq. suosq. tibi chorus alme Hieronyme cantis dedicat, ipse tua quos dat
 ln aede pius. Pro quibus, in patria, fac, dulcis nomen Iesu. Audiat angelico dulcius
-ore cani. In Roma per gli heredi di Antonio Blado stampatori camerali. L’anno 1570.
+ore cani. In Roma per gli heredi di Antonio Blado stampatori camerali. L'anno 1570.
 
-8 fase. in 8° (C.1°, C.2°, A.l°, A.Z°, T.I°, T.2°, B.l°, B.2°), pag. 27. Ded. all’Abbate Podocattaro:
-«Sono già alcuni anni che... io mandai fuori il Primo Libro delle Laudi, nelle quali attesi a
+8 fase. in 8° (C.1°, C.2°, A.l°, A.Z°, T.I°, T.2°, B.l°, B.2°), pag. 27. Ded. all'Abbate Podocattaro:
+"Sono già alcuni anni che... io mandai fuori il Primo Libro delle Laudi, nelle quali attesi a
 scrvare una certa simplicità, che alle parole medesime, alla qualità di quel divoto luogo, et al
-"il? fine, che era solo di cccitar divotione pareva si convenisse. Ma essendosi poi tuttavia l’Ora-
-tonosuddetto (di S. Girolamo) per gratia di Dio venuto accrescendo, co’l concorso di Prelati, et
-Îſintil’huomini. principalissimi, è parso a me conveniente di accrescere in questo Secondo Libro
+"il? fine, che era solo di cccitar divotione pareva si convenisse. Ma essendosi poi tuttavia l'Ora-
+tonosuddetto (di S. Girolamo) per gratia di Dio venuto accrescendo, co'l concorso di Prelati, et
+Îſintil'huomini. principalissimi, è parso a me conveniente di accrescere in questo Secondo Libro
 
-armonia et 1 concenti, variando la musica in diversi modi... intrigandomi il manco ch’io ho
-potuto con le fughe et con le inventioni, per non oscurare l’intendimento de le parole... Roma,
+armonia et 1 concenti, variando la musica in diversi modi... intrigandomi il manco ch'io ho
+potuto con le fughe et con le inventioni, per non oscurare l'intendimento de le parole... Roma,
 
-25 II 1570 ».
+25 II 1570 ".
 
 Pater noster l
 Venite )csus 2
@@ -49,7 +49,7 @@ Ora pro nobis (terza parte) 7
 Salve regina
 Salve secundum 8
 Salve tertium 9
-Bcatus vir. Psalmus “
+Bcatus vir. Psalmus "
 Beati omnes. Psalmus 12
 Iubilate Deo. Psalmus 13
 Quemadmodum desidcrat cervus. Psalmus 12

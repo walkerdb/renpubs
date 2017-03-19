@@ -30,7 +30,7 @@ TScon
 TSt
 
 Napoli, Biblioteca del Conservatorio
-Napoli, Biblioteca dell’Oratorio dei Filippini
+Napoli, Biblioteca dell'Oratorio dei Filippini
 Napoli, Biblioteca Nazionale
 Orvieto, Archivio del Duomo
 Orvieto, Biblioteca Comunale
@@ -62,7 +62,7 @@ Roma, Biblioteca Apostolica Vaticana
 Reggio Emilia, Archivio di Stato
 Reggio Emilia, Biblioteca Municipale
 Rimini, Biblioteca Civica
-Siena, Biblioteca dell’Accademia Chigiana
+Siena, Biblioteca dell'Accademia Chigiana
 Siena, Biblioteca Comunale
 Siena, Archivio del Duomo
 Spoleto, Biblioteca Comunale

@@ -1,19 +1,19 @@
 A 3. 0 donna troppo cruda e troppo bella, da mi vien (Guarini) l7
 
-» » E così, pur languendo, men vo tra queste piume » 20
-» » lo senza fede? O fiera, non ha il regno d‘amore 24
-» » Riecle la primavera, torna la bella Clori, odi la rnndinclla (Marino) 25
-» » La mia Clori è brunetta, ma così mi diletta (Celiano) 26
-» » Ardo sì, ma non t'amo, perfida e dispietala (Guarini) 27
-A 4. Ohimè l'antica fiamma, ch‘era sopita. a l‘aura d‘una sola » ZB
-» » Horsù pastori. sediam sul prato carco di fiori. Fileno, Mopsn, Elpina, Ergasto 29
-» » Su, su cantiamo le belle vaghezze (seconda parle) 29
-A 1. Coi gorghi d’oro ceda il Patolo (terza parte) 29
-» » Porta Dorilla il sul nel guardo (quarta parte) 29
-» » Non ha l'aurora guancie sì belle (quinta parte) 29
-» » So ben ch‘abbatle col bel sereno (sesta parte) 29
-A 4. Silvia mia \‘ita, Filli gradita (settima parte) 29
-» » Su dunque adoriamo le belle \‘aghczzc (ottava parte) 29
+" " E così, pur languendo, men vo tra queste piume " 20
+" " lo senza fede? O fiera, non ha il regno d'amore 24
+" " Riecle la primavera, torna la bella Clori, odi la rnndinclla (Marino) 25
+" " La mia Clori è brunetta, ma così mi diletta (Celiano) 26
+" " Ardo sì, ma non t'amo, perfida e dispietala (Guarini) 27
+A 4. Ohimè l'antica fiamma, ch'era sopita. a l'aura d'una sola " ZB
+" " Horsù pastori. sediam sul prato carco di fiori. Fileno, Mopsn, Elpina, Ergasto 29
+" " Su, su cantiamo le belle vaghezze (seconda parle) 29
+A 1. Coi gorghi d'oro ceda il Patolo (terza parte) 29
+" " Porta Dorilla il sul nel guardo (quarta parte) 29
+" " Non ha l'aurora guancie sì belle (quinta parte) 29
+" " So ben ch'abbatle col bel sereno (sesta parte) 29
+A 4. Silvia mia \'ita, Filli gradita (settima parte) 29
+" " Su dunque adoriamo le belle \'aghczzc (ottava parte) 29
 
 I-MOe: compl.
 I-FEc: C.A.T.B.

@@ -1,7 +1,7 @@
-A 8. Caron Caron. Chi è sl’importun? Dialogo 24
+A 8. Caron Caron. Chi è sl'importun? Dialogo 24
 
 A 7. Che ſat'hor qui, ninfe leggiadre. Dialogo 26
-» » Vaghc, leggiadr’e belle ninfe. Dialogo 27
+" " Vaghc, leggiadr'e belle ninfe. Dialogo 27
 A 8. O passi sparsi, o pensier vaghi e pronti. Dialogo (Petrarca) 28
 I-VEaf : compl.
 
@@ -13,37 +13,37 @@ RlSM, [ 1560-20.
 
 2254 _ PORTINARO Francesco (1568) _ Le Vergini di Francesco Portinaro a
 sei voci con alcuni Madregali, a cinque, et a sei, et duoi Dialoghi a sette, da lui
-novamente composti, et con ogni diligentia corretti. All’invittissimo imperatore
+novamente composti, et con ogni diligentia corretti. All'invittissimo imperatore
 Massimiliano Secondo. In Vinegia, appresso Girolamo Scotto. 1568.
 
-6 fasc. in 8° (C.A.T.B.5.6.), pag. 28. Ded. all’Imperatore Massimiliano Secondo, Venetia, 15 I 1563-
+6 fasc. in 8° (C.A.T.B.5.6.), pag. 28. Ded. all'Imperatore Massimiliano Secondo, Venetia, 15 I 1563-
 
-A 7. Ove, sacre sorelle. fia che posnm’il piede, poichè vogl'empi’e {elle, Dialogo 3
-A 5. Vostra fama real ch’allirea vola. Al Prencipe Carlo Arciduca d’Austria 4
-» » Passa la nave mia colma d’oblio per aspro mar (Petrarca) 5
-» » Pioggia di lagrimar, nebbia di sdegni (seconda parte) » 6
-» » Chi vol veder quantunque può natura veng’a mirar costei ” 7
-» » Vedrà s‘arriv‘a temp'ogni virtute (seconda parte) ” 8
-» » Mentr’al vostr‘apparir il sen altiero d’Adria, signor, par che di gioia 9
-» » E gl'ingegn’e virtuti che per voi semprc (scconda parte) 10
-» » Al novel apparir del mio bel sole in veste negra sott‘un aureo velo 11
+A 7. Ove, sacre sorelle. fia che posnm'il piede, poichè vogl'empi'e {elle, Dialogo 3
+A 5. Vostra fama real ch'allirea vola. Al Prencipe Carlo Arciduca d'Austria 4
+" " Passa la nave mia colma d'oblio per aspro mar (Petrarca) 5
+" " Pioggia di lagrimar, nebbia di sdegni (seconda parte) " 6
+" " Chi vol veder quantunque può natura veng'a mirar costei " 7
+" " Vedrà s'arriv'a temp'ogni virtute (seconda parte) " 8
+" " Mentr'al vostr'apparir il sen altiero d'Adria, signor, par che di gioia 9
+" " E gl'ingegn'e virtuti che per voi semprc (scconda parte) 10
+" " Al novel apparir del mio bel sole in veste negra sott'un aureo velo 11
 A 6. Vergine bella, che di sol vestita, coronata di stelle (Petrarca) 11
-» » Vergine saggia et del bel numer una (scconda stanza) ” 13
-» » Vergine pura, d’ogni part’intera (terza stanza) ” 14
-» » Vergine santa, d'ogni gratia piena (quarta stanza) ” 15
-» » Vergine sol’al mondo scnz’esscmpio (quinta stanza) ” 16
-» » Vergine chiara e stabil’in eterno (sesta stanza) ” 17
-» » Vergine, quante lagrime ho già sparle (settima stanza) ” IB
-» » Vergine, tal’è terra e post’ha in doglia (ottava stanza) ” 19
-» » Vergine, in cui ho tutta mia speranza (nona stanza) ” 20
-» » Vergine humana et nemica d’orgoglio (decima stanza) ” ZI
-» » Il dì s’appressa e non puot’esser lunge (undicesima stanza) ” E
-» » Solo e pensoso i più deserti campi vo misurand’a passi tardi ” B
-» » Sì ch‘io mi cred’homai che mont’c piaggie (seconda parte) ” Il;
-» » Smarriss'il cor, ghiaccioss'il sangue quando dipinto di piettà Êô
-» » Quel ch'io divenn’allhor sassel amore (seconda parte) 27
-» » Tutto'l dì piango e poi la notte quando prendon riposo (Petrarca) 28
-A 7. Che faret'occhi mici poi ch’io non spero che riveder possiat’il viso
+" " Vergine saggia et del bel numer una (scconda stanza) " 13
+" " Vergine pura, d'ogni part'intera (terza stanza) " 14
+" " Vergine santa, d'ogni gratia piena (quarta stanza) " 15
+" " Vergine sol'al mondo scnz'esscmpio (quinta stanza) " 16
+" " Vergine chiara e stabil'in eterno (sesta stanza) " 17
+" " Vergine, quante lagrime ho già sparle (settima stanza) " IB
+" " Vergine, tal'è terra e post'ha in doglia (ottava stanza) " 19
+" " Vergine, in cui ho tutta mia speranza (nona stanza) " 20
+" " Vergine humana et nemica d'orgoglio (decima stanza) " ZI
+" " Il dì s'appressa e non puot'esser lunge (undicesima stanza) " E
+" " Solo e pensoso i più deserti campi vo misurand'a passi tardi " B
+" " Sì ch'io mi cred'homai che mont'c piaggie (seconda parte) " Il;
+" " Smarriss'il cor, ghiaccioss'il sangue quando dipinto di piettà Êô
+" " Quel ch'io divenn'allhor sassel amore (seconda parte) 27
+" " Tutto'l dì piango e poi la notte quando prendon riposo (Petrarca) 28
+A 7. Che faret'occhi mici poi ch'io non spero che riveder possiat'il viso
 
 A-Wn: compl.
 

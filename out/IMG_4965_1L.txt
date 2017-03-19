@@ -1,11 +1,11 @@
-A 5. Fu breve la speranza, che mi mantenn’in fede 25
+A 5. Fu breve la speranza, che mi mantenn'in fede 25
 
-n » Io per me non so dir qual maggior fossc (seconda parte) 26
-» n Stavas‘il mio bel sol al sol asiso, che par altri non trova (Strozzi) 27
+n " Io per me non so dir qual maggior fossc (seconda parte) 26
+" n Stavas'il mio bel sol al sol asiso, che par altri non trova (Strozzi) 27
 A 6. Amor, con nuova e inusilata foggia, alla mia bella perla
 
-» n Padre e pastor, che’] grcgg’errante infermo, per l'erto calle D
-» » Tu sostenest’il duro colp’e insieme (seconda parte) 30
+" n Padre e pastor, che'] grcgg'errante infermo, per l'erto calle D
+" " Tu sostenest'il duro colp'e insieme (seconda parte) 30
 A 7. Pastori nosuo, socii, cantemus (Pastor Alex-under) 31
 I-Bc: C.
 
@@ -14,47 +14,47 @@ RISM, 1 1575-16.
 2840 _ VECOLI Pietro (1581) _ Madrigali di Pietro Vccoli musico del serenis
 simo duca di Savoia. Il Primo Libro a cinque voci. Al molto illustre signor Gioan
 Francesco Provana conte di Beynctte, signor di Faolc, governator di Savigliano,
-et capitano de’ cavalli per sua altezza. Con licentia de’ Superiori. In Torino,
-appresso gl’heredi di Nicolò Bevil'acqua. 1581.
+et capitano de' cavalli per sua altezza. Con licentia de' Superiori. In Torino,
+appresso gl'heredi di Nicolò Bevil'acqua. 1581.
 
-5 fasc. in 8° (C.A.T.B.5.), pag. B,(l). Ded. & GIO. Francesco Provana: « ...questo mio primo
-Volume, e Libro de Madrigali... Turino, 29 VII 1581 ».
+5 fasc. in 8° (C.A.T.B.5.), pag. B,(l). Ded. & GIO. Francesco Provana: " ...questo mio primo
+Volume, e Libro de Madrigali... Turino, 29 VII 1581 ".
 
-Almo signor e chiaro, vorrei ch’al tempo mio Rem’ct Athenc. A Gio. Francesco Provana 3
-Per te, copia gentile, soave fior d’aprile piova il ciel. Al Conte Claudio di Salma : alla
+Almo signor e chiaro, vorrei ch'al tempo mio Rem'ct Athenc. A Gio. Francesco Provana 3
+Per te, copia gentile, soave fior d'aprile piova il ciel. Al Conte Claudio di Salma : alla
 
 [Contessa Christiana Madruccia : Giallant 4
 
 Voi, pargoletti amori, e tu, Venere bella (seconda parte) S
 
-Fiorisce il vostro pett’e i capei d’oro et al collo. A Isabella de Cavor 6
+Fiorisce il vostro pett'e i capei d'oro et al collo. A Isabella de Cavor 6
 Dolce Corina mia, se su le labra havete il mio dolce desio. A Domenico Provana 7
-Durin coi chiari lumi del ciel gl’onesti e incomincnati amori. Al Conte Antonio Scarampo 8
+Durin coi chiari lumi del ciel gl'onesti e incomincnati amori. Al Conte Antonio Scarampo 8
 
 [Conte di Canelli c governator di Turino
-0 dolci sguardi, o parolette accorte, hor fia mai. A Costantino Molino, ambasctatol’c
-[della Signoria di Venetia presso l’Altezza di Savoia (Petrarca) 9
+0 dolci sguardi, o parolette accorte, hor fia mai. A Costantino Molino, ambasctatol'c
+[della Signoria di Venetia presso l'Altezza di Savoia (Petrarca) 9
 
-lo piango et ella il volto con le sue man m’asciuga ” 10
+lo piango et ella il volto con le sue man m'asciuga " 10
 
 Deh dolce vita mia, dite per vostra fè, dite per Dio, non son io "
 Nè per nova altra sorte mi vi torrà giamai (seconda parte) :;
 
-Laura mia dolce, vita de mia vita, che così dolcemente a l‘amoroso foco 14
-E’ sì dolce il gioire che di dolcezza sento (seconda parte) _ _
+Laura mia dolce, vita de mia vita, che così dolcemente a l'amoroso foco 14
+E' sì dolce il gioire che di dolcezza sento (seconda parte) _ _
 
-Baci soavi e cari, cibi de la mia vita, ch’hor m‘involate (Guarini) };
+Baci soavi e cari, cibi de la mia vita, ch'hor m'involate (Guarini) };
 
-Poi chc’l mio largo pianto, amor, ti piace tanto, asciutti mai questi occhi "
-Dch come dest’amore in voi a tutte l’ore una gentil favilla. A Hettore Altacomba. ]
-Se per un solo scherno al pozzo dell’inferno ſur le figliuole ingrate. A] S]. Anna Dl. Ang “ff 18
+Poi chc'l mio largo pianto, amor, ti piace tanto, asciutti mai questi occhi "
+Dch come dest'amore in voi a tutte l'ore una gentil favilla. A Hettore Altacomba. ]
+Se per un solo scherno al pozzo dell'inferno ſur le figliuole ingrate. A] S]. Anna Dl. Ang "ff 18
 [Monsignor di Glover!
 . . . . . . - lle
-Cornelia bella, alt’ornamento sete alla famiglia de gli Doria.. A Cornelia Dona de 19
+Cornelia bella, alt'ornamento sete alla famiglia de gli Doria.. A Cornelia Dona de 19
 [Contesse di Piusasco
 Se quel romano d'osservata fede a gli nemici si fece immortale. A Polito Santini Zl
 Era oscurata e quasi in tutto spenta la gloria (secondapartc). . della
-Alma che fai, che pensi? Hor non t’avcdi quant’-Î- vicino. D] Nicolo Tome! capo _
+Alma che fai, che pensi? Hor non t'avcdi quant'-Î- vicino. D] Nicolo Tome! capo _
 [musica del Duca di Savon
 
 Svegliati adunque pria che imbianchi il pelo (scconda parte)

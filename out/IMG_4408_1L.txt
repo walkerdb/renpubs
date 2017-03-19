@@ -1,5 +1,5 @@
 1026 .. GABRIELI Andrea (1588) _ Chori in musica da M. Andrea Gabrieli, sopra
-li chori della tragedia di Edipo tiranno. Recitati in Vicenza l’anno 1585. Con
+li chori della tragedia di Edipo tiranno. Recitati in Vicenza l'anno 1585. Con
 solennissimo apparato, et novamente dati alle Stampe. In Venetia appresso Angelo
 Gardano 1588.
 
@@ -7,51 +7,51 @@ Gardano 1588.
 
 Choro I
 A 3. Santo oracol di Giove (da Sofocle) l
-» » Con ch‘annuntio hor venisti » » l
-A 4. Trema la mcnt’in me stupida » » l
-A 3. Sacro e possente dio » » l
-» » Quali son hor dinnelo hor tu » » l
-A 4. O del gran Giove nata gloriosa » » 2
-» » E te Fcb’ancor chiamo » » Z
-A 6. Hor qui benigni ancor celesti » » 3
-» » Giacc da morb'aﬄitto » » 3
-A 3. Già de li frutti suoi » » 4
-» » Come spesso d'augci veloce » » 4
-A 5. Ma la miscra turba » » 4
-A Z. Et le tenebre spose » » 5
-A 4. Si raddopiano gl'inni » » 5
-A 2. Levaci tu » » 5
-A 3. Et da qucsta cittade » » 6
-A 4. Questo o Giove » » 6
-A 3. Deh ci consenta il ciel » » 7
-A 6. Et tu Bacco non meno » » 7
+" " Con ch'annuntio hor venisti " " l
+A 4. Trema la mcnt'in me stupida " " l
+A 3. Sacro e possente dio " " l
+" " Quali son hor dinnelo hor tu " " l
+A 4. O del gran Giove nata gloriosa " " 2
+" " E te Fcb'ancor chiamo " " Z
+A 6. Hor qui benigni ancor celesti " " 3
+" " Giacc da morb'aﬄitto " " 3
+A 3. Già de li frutti suoi " " 4
+" " Come spesso d'augci veloce " " 4
+A 5. Ma la miscra turba " " 4
+A Z. Et le tenebre spose " " 5
+A 4. Si raddopiano gl'inni " " 5
+A 2. Levaci tu " " 5
+A 3. Et da qucsta cittade " " 6
+A 4. Questo o Giove " " 6
+A 3. Deh ci consenta il ciel " " 7
+A 6. Et tu Bacco non meno " " 7
 Choro II
-A 4. Qual è colui » » 8
-» » Temp’è già ch‘egli prenda » » 8
-A 3. Ch’homai di Giove il figlio » » 5
-» » Et per compagn’ha seco » ” 9
-A 6. Però che dal gran tempio ” ” 9
-» » ll qua] per folte sclve ” ” 9
-A 5. Qual tauro aﬄitto suolc ” ” 10
-» » Così fuggir sperando ” ” 10
-A 4. Ben gravemente ” ” 10
-» » Che sì come non sono facili ” ” 11
-A 2. Onde dubbia ho la mente ” ” }}
-» » E in certa speme ” ” "
-A 3. Che dianzi unqua non seppi ” ” “
-A l. Nè ancor sapcrlo posso ” ” 12
-A 3. Che raggion non consente ” ”’, 12
-»
+A 4. Qual è colui " " 8
+" " Temp'è già ch'egli prenda " " 8
+A 3. Ch'homai di Giove il figlio " " 5
+" " Et per compagn'ha seco " " 9
+A 6. Però che dal gran tempio " " 9
+" " ll qua] per folte sclve " " 9
+A 5. Qual tauro aﬄitto suolc " " 10
+" " Così fuggir sperando " " 10
+A 4. Ben gravemente " " 10
+" " Che sì come non sono facili " " 11
+A 2. Onde dubbia ho la mente " " }}
+" " E in certa speme " " "
+A 3. Che dianzi unqua non seppi " " "
+A l. Nè ancor sapcrlo posso " " 12
+A 3. Che raggion non consente " "', 12
+"
 
 A 6. Et stolta cosa è in ver
-» ” B
+" " B
 
-A 4. Ma fermament’in me 13
-A 6. Quand’a lui già » »
+A 4. Ma fermament'in me 13
+A 6. Quand'a lui già " "
 
 Choro H[ 14
-A Z. O voglia’l ciel » : 14
-A 3. E quel tant’habbia sol » ” 14
+A Z. O voglia'l ciel " : 14
+A 3. E quel tant'habbia sol " " 14
 A 2. Queste non fia :) _, 14
 
 A 3. Pero ch'in esse occulto

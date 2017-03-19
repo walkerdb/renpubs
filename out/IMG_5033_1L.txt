@@ -22,8 +22,8 @@ Chiabrera Gabriello. 29, 67, 69, 70, 238, 244,
 305, 322, 336, 337, 344, 399, 433, 434,
 435, 436, 450, 452, 454, 462, 466, 482,
 
-483, 485, 503, 539, 541, 542bis, 551, D’Afflitlo Matteo. 1257.
-565, 567, 577, 604, 639, 689, 690, 780, D’Aglié Ludovico. 837, 1714.
+483, 485, 503, 539, 541, 542bis, 551, D'Afflitlo Matteo. 1257.
+565, 567, 577, 604, 639, 689, 690, 780, D'Aglié Ludovico. 837, 1714.
 826, 827, 828, 832, 833, 837, 912, 1012, Dal Bosco Vincenzo. 1311.
 1013, 1014, 1015, 1059, 1109, 1187, 1188, Degli Angioli Nicola. 2893.
 1192, 1260, 1283, 1306, 1307, 1337, 1357. Degli Atti Francesco. 35, 551, 644, 827, 987,
@@ -43,7 +43,7 @@ Cini Francesco. 450, 452, 2865. Desideri Girolamo. 534, 537.
 Cino da Pistoia. 490, 1487. Desportes Philippe. 457 bis.
 Coccio Francesco. 2482, 2641. Di Costanzo Angelo. 79, 764.
 Colle Matteo. 578. Di Leva Tommaso. 2513. ,
-Colombi Alfonso, 398. D’India Sigismondo. 73, 294, 835, 836.
+Colombi Alfonso, 398. D'India Sigismondo. 73, 294, 835, 836.
 Colonna Vittoria. 61, 505, 506, 578, 803, 804, Dolfini Pietro. 2692.
 863, 867, 924, 1321, 1322, 1330, 1331, Donati Agostino. 2741.
 1342, 2246, 2928. Donati Giulio Cesare. 2186.

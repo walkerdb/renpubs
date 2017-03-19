@@ -1,6 +1,6 @@
-A 5. Miser, chi’l crcderia che questo chiuso ardore celnr potessi 18
-» » Lasso è pur ver. ll lieto viver mio 19
-A 6. Voi soccorso pregaste all‘hor e l'impetraste ID
+A 5. Miser, chi'l crcderia che questo chiuso ardore celnr potessi 18
+" " Lasso è pur ver. ll lieto viver mio 19
+A 6. Voi soccorso pregaste all'hor e l'impetraste ID
 
 D-Kl: compl.
 GB-Lwa: compl.
@@ -12,32 +12,32 @@ l-Nc: B.
 Madrigali a cinque voci. In Napoli, appresso Gio. Iacomo Carlino, et Antonio
 Pacz. 1598.
 
-5 fasc. in 8° (C.A.T.B.S.), pag. ZZ,(]). Ded :\ Leonora d’Este Prencipessa di Venosa: «.il molto
-desiderio, che hò di continuare seco la serviiù cominciata con l’Altezza del sig. Duca di Ferrara
-di fe. me… Napoli, 1° V 1598».
+5 fasc. in 8° (C.A.T.B.S.), pag. ZZ,(]). Ded :\ Leonora d'Este Prencipessa di Venosa: ".il molto
+desiderio, che hò di continuare seco la serviiù cominciata con l'Altezza del sig. Duca di Ferrara
+di fe. me… Napoli, 1° V 1598".
 
-ln amorosa nave guido la spemc mia per l'onda d’un pcnsier 3
-Perfida, crudo, adamantino core, gioisci pur se sai ‘
-Hor dal lume, hor dal canto porge l’alma invaghita 5
-Questa vostra pietate, non refrigerio al core, ma dà forz‘a l’ardore (Tasso) 6
+ln amorosa nave guido la spemc mia per l'onda d'un pcnsier 3
+Perfida, crudo, adamantino core, gioisci pur se sai '
+Hor dal lume, hor dal canto porge l'alma invaghita 5
+Questa vostra pietate, non refrigerio al core, ma dà forz'a l'ardore (Tasso) 6
 Piangere occhi e versate lagrime no, ma sangue 7
 Deh qual prova maggior, donna, volete del mio crudel martire ﬂ
 
 Ma per [armi ogni pace mostrate non gradir (scconda parte) 9
 Gionlo a la tomba ov'al suo spirto vivo dolorosa priggion (Tasse) 10
 
-O sasso amaro et honorato tanto (seconda parte) ” 10
+O sasso amaro et honorato tanto (seconda parte) " 10
 
-Dalli lor tu che sc mai gli occhi gira (terza parte) ” IZ
+Dalli lor tu che sc mai gli occhi gira (terza parte) " IZ
 
-Et amando morrò, felice giorno (quarta parte) ” B
-Costei ch'in su la fronte ha spars’al vento l’errante chioma d'or ” "
+Et amando morrò, felice giorno (quarta parte) " B
+Costei ch'in su la fronte ha spars'al vento l'errante chioma d'or " "
 
-Cicca non già se non quando a i maniri (seconda parte) ” 15
-Dolce Filli mia cara, cara e dolce mia vita, più dell’anima min 16
-Felicissime arene, beati colli, avcnturos'c liete piaggic ”
-Ch’io non l'ami, cor mio, ch'io non sia la tua vita e tu la mia (Guarini) 18
-Fillidc mia, sc di beltà sei vaga, d‘ogn’allra cura (Sannazzaro) 19
+Cicca non già se non quando a i maniri (seconda parte) " 15
+Dolce Filli mia cara, cara e dolce mia vita, più dell'anima min 16
+Felicissime arene, beati colli, avcnturos'c liete piaggic "
+Ch'io non l'ami, cor mio, ch'io non sia la tua vita e tu la mia (Guarini) 18
+Fillidc mia, sc di beltà sei vaga, d'ogn'allra cura (Sannazzaro) 19
 Piagge amorose e care, aventurose valli, ombre beate ?:
 Lucenti rai del sole, a questa nova luna hormai cedete 22
 
@@ -53,7 +53,7 @@ botega di Stefano Libraro, vicino S. Biase.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. Zl,(l). Sonetto di Carlo Noci all'autore.
 
-Dovrò dunque morire pria che di nuov’io miri voi
+Dovrò dunque morire pria che di nuov'io miri voi
 Ahi dolente partita, ahi fin de la mia vita
 
 (Guarini) Z

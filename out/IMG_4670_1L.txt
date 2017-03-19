@@ -6,7 +6,7 @@ in S. Marco. Di nuovo ristampato. In Venetia, 1615. Appresso Ricciardo Amadino.
 
 I-Bc: comp].
 F-Plhibnull: cnmpl.
-F-I’c: A.
+F-I'c: A.
 Vchrusn: T.
 
 1919 _ MONTEVERDI Claudio (1615) _ Di Claudio Monteverde maestro della
@@ -19,7 +19,7 @@ mento. In Anversa appresso Pietro Phalesio al re David 1615.
 F-Plhihnull: cnmpl.
 Gli-Odi: comp].
 lì-Br: C.A.T.B.
-(‘.H-ZU: C.T.".HC.
+('.H-ZU: C.T.".HC.
 D-W: C.T.B.
 B-Gu: Bc.
 

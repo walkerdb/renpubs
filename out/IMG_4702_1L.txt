@@ -1,14 +1,14 @@
-A 4. Se la speranza all’hor mi manlenea 9
+A 4. Se la speranza all'hor mi manlenea 9
 
-» » Da la bell’aria del bel vostro viso, dal folgorar (le vostr‘occhi 10
-» » Donna, s‘io vi son longe, doglia e martir mi punge, e s’io vi son d‘appresso ]]
-» » Qual salamandra in mezo al foco vivo lZ
-» » Care lagrime mie, poichè voi non potete far molle l3
-» » Se del mio lagrimare hai fatt’amor, un mare 14
-» » Se nel regno del ciel potcss’io gire 15
-A 8. Mi parto, ahi sorte ria, e’l cor vi lascio 16
-» » O alma, che farai quand'all’estremo punto ti vedrai? 13
-A 4. Quell'occhi ladri e quella bocca bella d’lppolita ZÛ
+" " Da la bell'aria del bel vostro viso, dal folgorar (le vostr'occhi 10
+" " Donna, s'io vi son longe, doglia e martir mi punge, e s'io vi son d'appresso ]]
+" " Qual salamandra in mezo al foco vivo lZ
+" " Care lagrime mie, poichè voi non potete far molle l3
+" " Se del mio lagrimare hai fatt'amor, un mare 14
+" " Se nel regno del ciel potcss'io gire 15
+A 8. Mi parto, ahi sorte ria, e'l cor vi lascio 16
+" " O alma, che farai quand'all'estremo punto ti vedrai? 13
+A 4. Quell'occhi ladri e quella bocca bella d'lppolita ZÛ
 
 D-Kl: compl.
 I-Bc: B.
@@ -21,26 +21,26 @@ Gardano. 1599.
 
 4 [asc. in 8° (C.A.T.B.), pag. 20. Ded., Salò, 20 I 1599.
 
-A 4. Rise di me e d‘amore Filli, mentre fui cieco c scnza core l
-» » Gli animati rubini premea, baciand’alla sua bella Clori Damon fra vaghi l
-» » Baci, sospir e voci allernavan due bocche insiem'unile (Casone) "
-» » Se tall‘hor la mia bella e vaga Clori s’adorn’il scn di fiori l
-» » Barbarina gentile, che con barbari strali fai nel pett’a ciascun. Madrigaleuo 5
-» » Caro albergo d’amore, chi di voi meglio può legar un core (Ccliaſm) 6
-» » E chi può far di foco meglio di voi (seconda parle) ” 7
-» » E chi coprir sì bene sa i dardi (terza parte) ” B
-» » Ben che lontan io sia non pensar, vita mia, che lontano sia’l core. Al Prencipe del
+A 4. Rise di me e d'amore Filli, mentre fui cieco c scnza core l
+" " Gli animati rubini premea, baciand'alla sua bella Clori Damon fra vaghi l
+" " Baci, sospir e voci allernavan due bocche insiem'unile (Casone) "
+" " Se tall'hor la mia bella e vaga Clori s'adorn'il scn di fiori l
+" " Barbarina gentile, che con barbari strali fai nel pett'a ciascun. Madrigaleuo 5
+" " Caro albergo d'amore, chi di voi meglio può legar un core (Ccliaſm) 6
+" " E chi può far di foco meglio di voi (seconda parle) " 7
+" " E chi coprir sì bene sa i dardi (terza parte) " B
+" " Ben che lontan io sia non pensar, vita mia, che lontano sia'l core. Al Prencipe del
 [del Sacro Romano Imperio Don Francesco Gonzaga Marchese di Castiglione 9
-» » O care labra, voi sì belle sete, ch’ogni beltà vincete _ 10
-» » Dolorosa partita, che mi togl’il mio sol, anzi la vita. Madrigaletto. A Pietro Antonlo
+" " O care labra, voi sì belle sete, ch'ogni beltà vincete _ 10
+" " Dolorosa partita, che mi togl'il mio sol, anzi la vita. Madrigaletto. A Pietro Antonlo
 [Pietra "
-» » Se quand‘io vi baciai senz'anima reslai, pensate, donna, quel ch'all’hor farei 11
-» » Se per stringer a voi, donna, la mano, crudel mi dit’e insano ”
-» » Crudel, partisti ed io scnza di te, restai senz’il cor mio, Madrigaletto. A Girolamo
-[Giordani “
-» » Donna, se questo cosc alberga in voi, come vi giura amore 1156
-» » Non vaglion i tormenti, donna, per far i miei desir ardenti ”
-» » Poi che'] mio sospirar e‘l piant’amaro non posson far, ohimè 18
+" " Se quand'io vi baciai senz'anima reslai, pensate, donna, quel ch'all'hor farei 11
+" " Se per stringer a voi, donna, la mano, crudel mi dit'e insano "
+" " Crudel, partisti ed io scnza di te, restai senz'il cor mio, Madrigaletto. A Girolamo
+[Giordani "
+" " Donna, se questo cosc alberga in voi, come vi giura amore 1156
+" " Non vaglion i tormenti, donna, per far i miei desir ardenti "
+" " Poi che'] mio sospirar e'l piant'amaro non posson far, ohimè 18
 
 A 7. Filli. caro ben mio, da quelle dolci labbia deh fa ch'un bacio. Dialogo
 A 8. Vivan gli amanti fortunati. Hoggi tranquillo il gran Benaco canta. Al Marchese

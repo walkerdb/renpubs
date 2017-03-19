@@ -1,19 +1,19 @@
-A 5. Pien d’amoroso ardor mi strugg’e slaccio e chi mi può dar vita 10
+A 5. Pien d'amoroso ardor mi strugg'e slaccio e chi mi può dar vita 10
 
-» » Move il piant’e i sospiri, ond’io mi doglio (seconda parte) lZ
-» » Et io la fiamm‘ogn‘hor cli’arder mi suole, fuggo per mio costume 12
-» » O felice fortuna, che l’amara cangiaste in dolce sorte 14
-» » Gl‘alti Pensier già lasci (seconda parte) 15
-» » ll sol si mostr’a noi chiaro e sereno il giorno e poi la notte 16
-» » Bella si mostra a noi la fredda luna (seconda parte) 17
-» » Ogni stella n’appar la notte bella (terza parte) 18
-» » Splenda pur ben il sol a mezzo il giorno (quarta parte) 19
-» » Porge al sacro Leon l’aquila altera, sotto il vessil di Pietro 20
-» » Eolo all‘ltur fermnssi e :\pol s'ascose (seconda parte) Zl
-» » Felice sogno ove degnommi amore ch’io [mc.-mi quel loco d‘ogni dolcezza 23
-» » Taccia chi lodar sole gl‘alti lumi del ciel. alma mia stella 24
-» » Dal più caro polito et bianco collo, da le più longhc, crespe 26
-» » Sc come è il nome \‘ostro illustre e chiaro. per la somma virtute ZB
+" " Move il piant'e i sospiri, ond'io mi doglio (seconda parte) lZ
+" " Et io la fiamm'ogn'hor cli'arder mi suole, fuggo per mio costume 12
+" " O felice fortuna, che l'amara cangiaste in dolce sorte 14
+" " Gl'alti Pensier già lasci (seconda parte) 15
+" " ll sol si mostr'a noi chiaro e sereno il giorno e poi la notte 16
+" " Bella si mostra a noi la fredda luna (seconda parte) 17
+" " Ogni stella n'appar la notte bella (terza parte) 18
+" " Splenda pur ben il sol a mezzo il giorno (quarta parte) 19
+" " Porge al sacro Leon l'aquila altera, sotto il vessil di Pietro 20
+" " Eolo all'ltur fermnssi e :\pol s'ascose (seconda parte) Zl
+" " Felice sogno ove degnommi amore ch'io [mc.-mi quel loco d'ogni dolcezza 23
+" " Taccia chi lodar sole gl'alti lumi del ciel. alma mia stella 24
+" " Dal più caro polito et bianco collo, da le più longhc, crespe 26
+" " Sc come è il nome \'ostro illustre e chiaro. per la somma virtute ZB
 
 I-VEcap: compl.
 1-M0e: T.5.
@@ -22,32 +22,32 @@ I-VEcap: compl.
 voci di Antonio Martorello milanese. 1547. (lustus ut palma florebit). (B. dat.:
 1567).
 
-5 ſasc. in so ob]. (C.A.T.B.5.)- pag. Z9,(l). Ded. :; Francesco Bernardo Patritio Veneto: «…pochi
-ct immaturi frutti... ».
+5 ſasc. in so ob]. (C.A.T.B.5.)- pag. Z9,(l). Ded. :; Francesco Bernardo Patritio Veneto: "…pochi
+ct immaturi frutti... ".
 
 Amor che mi consigli? Voi ch'io fugga costui, over lo segua? 1
-Amor che la consigli? ch’ella ti segua, io’l so che’l tutto veggio 2
-Chi desia di veder il ver honorc et d'ogni cortesia l‘imagin viva 3
+Amor che la consigli? ch'ella ti segua, io'l so che'l tutto veggio 2
+Chi desia di veder il ver honorc et d'ogni cortesia l'imagin viva 3
 O domator de mostri, Hercule invitto (seconda parte) 3
 Quale al cader de le cortinc suolc parer fra mille lampade 4
-Sc'l dolce sguardo di costei m’ancide e le soavi parolette (Petrarca) 5
-1’ ti ringratio, amore, che quell'oscuro velo m'hai levato dal core
-Mentre ch’io fui nel ciec’error antico (seconda parte) 6
-I° chgio ben che’] mio gioir al verde hor per tempo t’apprcssa (Cassola) 7
-O donna vana, hor più d'altri che mia {seconds parte) » 7
-Datemi tregua homai, ostinati pensieri, che non convien » 8
+Sc'l dolce sguardo di costei m'ancide e le soavi parolette (Petrarca) 5
+1' ti ringratio, amore, che quell'oscuro velo m'hai levato dal core
+Mentre ch'io fui nel ciec'error antico (seconda parte) 6
+I° chgio ben che'] mio gioir al verde hor per tempo t'apprcssa (Cassola) 7
+O donna vana, hor più d'altri che mia {seconds parte) " 7
+Datemi tregua homai, ostinati pensieri, che non convien " 8
 Lagrirnando dimostro quanto si dolga con ragion il core (Boccaccio) 9
-Amor allhora che primier amante (seconda parte) » 9
-Calma d'affanni, la mia navicella era dubiosa spcnc. Di Henricu: Selmi”; 10
-Se m’amaste, crudel, come v’am’io, non havria alcuno più felice stato 11
-S'a Voi do l’alma mia, felice diva, lasciaretela poi andar errando 12
-COSÌ cocent’è’l foco che’n cor m’accesc il bel guardo sereno (Cassola) 13
-E quando credo le mie fiamme ardenti (seconda parte) » 13
-Amor se’l mio martir così t’invoglia a far ogn’hor di me sì largo stratio 14
-Pura e gentil fanciulla, che ne Vel-d’anni del tuo primo fiore 15
+Amor allhora che primier amante (seconda parte) " 9
+Calma d'affanni, la mia navicella era dubiosa spcnc. Di Henricu: Selmi"; 10
+Se m'amaste, crudel, come v'am'io, non havria alcuno più felice stato 11
+S'a Voi do l'alma mia, felice diva, lasciaretela poi andar errando 12
+COSÌ cocent'è'l foco che'n cor m'accesc il bel guardo sereno (Cassola) 13
+E quando credo le mie fiamme ardenti (seconda parte) " 13
+Amor se'l mio martir così t'invoglia a far ogn'hor di me sì largo stratio 14
+Pura e gentil fanciulla, che ne Vel-d'anni del tuo primo fiore 15
 Da l'ai-dor onde fuor uscisti vengan fior (seconda parte) 15
-O Più ch'altra già mai cruda e rubella d’amor, a cui ben fu largo e cortese 16
-Quando’l crin d’or sia argento e senza (seconda parte) 16
+O Più ch'altra già mai cruda e rubella d'amor, a cui ben fu largo e cortese 16
+Quando'l crin d'or sia argento e senza (seconda parte) 16
 
 - 1073 -
 

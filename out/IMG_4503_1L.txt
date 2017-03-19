@@ -1,23 +1,23 @@
 A 3. Novi rai lampeggiano, vaghi ardor 3
 
-A Z. Già vezzosa l‘alba ritorna 4
-» » No, no, no, non burlar meco 5
-» » D'aspro dolor che'l scn divide 6
-» » De l’aura lieta l'amoroso fiato 7
+A Z. Già vezzosa l'alba ritorna 4
+" " No, no, no, non burlar meco 5
+" " D'aspro dolor che'l scn divide 6
+" " De l'aura lieta l'amoroso fiato 7
 A 3. Se beltà col crin disciolto 8
-» » Fresco rusccl di puro argento 9
-A Z. A l’antro, al poggio, alla selva 10
+" " Fresco rusccl di puro argento 9
+A Z. A l'antro, al poggio, alla selva 10
 A ]. Pompa mortale, tu non m'allett'il scn 11
-» » Crudo arcier, pene dai con le luci 12
+" " Crudo arcier, pene dai con le luci 12
 A 2. Vaghi gigli al bel candore 13
-A 3. Fabbricator d‘inganni, ch’a fieri danni 14
-A Z. Fuggi, fuggi l'inganno d’amor 15
-» » Dilettosa l’aria gira, amorosa 16
+A 3. Fabbricator d'inganni, ch'a fieri danni 14
+A Z. Fuggi, fuggi l'inganno d'amor 15
+" " Dilettosa l'aria gira, amorosa 16
 A 3. Quando tra suoi rigori incanuliscc il verno 17
-A 2. Su l'herbe assisomi, a l’onde 13
-» » Mira, mira che la rosa de suoi vanti 20
+A 2. Su l'herbe assisomi, a l'onde 13
+" " Mira, mira che la rosa de suoi vanti 20
 A 4. Venticel gratissimo, che scuoti Z]
-» » Lieti fuggiamo tra verdi piante ZZ
+" " Lieti fuggiamo tra verdi piante ZZ
 A 3. Giunto il sole in occidente B
 
 F -Pthibault (prov. Landau).
@@ -29,27 +29,27 @@ Tempi. In Roma, Per Paolo Masotti. 1632. Con privilegio, et licenza de' Superior
 
 Vol. in 8°, pag. 23,(l).
 
-A 3. Quand’amor ti vidd’estinto 4
+A 3. Quand'amor ti vidd'estinto 4
 A l. Amor non piangere ;
-» » Odoroso gelsomino, puro latte dell’aurora 7
-» » Di meste mammolette 8
-» » Su la fiorita sponda 9
-» » Pastor io che non vò 10
-A Z. Apri pur Citerea prima dell’alba 11
-A 3. Quella luce che s’indorò lZ
+" " Odoroso gelsomino, puro latte dell'aurora 7
+" " Di meste mammolette 8
+" " Su la fiorita sponda 9
+" " Pastor io che non vò 10
+A Z. Apri pur Citerea prima dell'alba 11
+A 3. Quella luce che s'indorò lZ
 A 2. Volgi gl'occhi, ma piangenti 13
-» » O nocchier, ch’in questo lido 14
+" " O nocchier, ch'in questo lido 14
 A 4. Il prato ameno 15
-» » Promette amor 16
-A Z,. Quand’il sol dall’alto screno 17
+" " Promette amor 16
+A Z,. Quand'il sol dall'alto screno 17
 A 3. Oscurando i suoi sembianti 18
 A 1. Violette belle 19
 A L A ciel screno 20
 A !. Candiderta reina Zl
-» » O perle lucenti ZZ
+" " O perle lucenti ZZ
 A Z. È pur vago un dì sereno 23
 
-A 1. S‘annidano
+A 1. S'annidano
 F-Pthibault (prov. Landau).
 
 _864-

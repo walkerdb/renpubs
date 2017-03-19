@@ -14,27 +14,27 @@ capella in S. Pietro di Roma il Terzo Libro de Madrigali a cinque voci, novament
 da lui composti, et dati in luce. In Venetia, appresso Angelo Gardano. 1599.
 5 fase. in 8° obl. (C.A.T.B.5.), pag. 22. Ded. al Cardinal Aldovrandino, Ferrara, 10 I 1599.
 
-A 5. Cor mio, deh non piangete ch’altro mal io non provo (Guarini) ]
-» » S'io non miro non moro. Non mirando non vivo Z
-» » T’amo, mia vita, la mia cara vita dolcemente mi dice (Guarini) 3
-» » Cor mio, benchè lontana, pur quest'alma t’adora e spera rivederti 4
-» » Com’odiarvi poss’io, Filli, dolce mio core 5
-» » Com’havrà vita, amor, la vita mia, s’ogn‘hor langue (Cassola) 6
-» » Amorose viole, a cui dolce ruggiad'è'l pianto 7
-» » Consumando mi vo di piaggia in piaggia (Petrarca) 8
-» » Sei tu, cor mio, che vai gridando io moro? Son io, mira la piaga 9
-» » Ut re mi fa sol la ogn’armonia abbraccia con dolcezza (Celiano) lll
-» » Nel foco d’un bel lauro come unica fenice 11
-» » O fortunata rosa, che tolta dianzi dal materno stelo 11
-» » Se’l mio restar in vita causa la tua partita 13
-» » Vidi Filli partire. Ahi che pena ſu questa “
-» » Tirsi, nel mio partire mi piacqu'il tuo dolore (seconda parte) 15
-» » Ama ben, dice amore, gl’occhi e’l viso e le chiome 16
-» » Se giamai tempo o loco farà che d’altro "
-» » Amorosi pastori, se bramate trovar qualche ristoro »
+A 5. Cor mio, deh non piangete ch'altro mal io non provo (Guarini) ]
+" " S'io non miro non moro. Non mirando non vivo Z
+" " T'amo, mia vita, la mia cara vita dolcemente mi dice (Guarini) 3
+" " Cor mio, benchè lontana, pur quest'alma t'adora e spera rivederti 4
+" " Com'odiarvi poss'io, Filli, dolce mio core 5
+" " Com'havrà vita, amor, la vita mia, s'ogn'hor langue (Cassola) 6
+" " Amorose viole, a cui dolce ruggiad'è'l pianto 7
+" " Consumando mi vo di piaggia in piaggia (Petrarca) 8
+" " Sei tu, cor mio, che vai gridando io moro? Son io, mira la piaga 9
+" " Ut re mi fa sol la ogn'armonia abbraccia con dolcezza (Celiano) lll
+" " Nel foco d'un bel lauro come unica fenice 11
+" " O fortunata rosa, che tolta dianzi dal materno stelo 11
+" " Se'l mio restar in vita causa la tua partita 13
+" " Vidi Filli partire. Ahi che pena ſu questa "
+" " Tirsi, nel mio partire mi piacqu'il tuo dolore (seconda parte) 15
+" " Ama ben, dice amore, gl'occhi e'l viso e le chiome 16
+" " Se giamai tempo o loco farà che d'altro "
+" " Amorosi pastori, se bramate trovar qualche ristoro "
 
-A 8. lo grido pace, pace, e amor mi sfid’a guerra. Dialogo
-» » Eco solinga. Risposta d’Eco
+A 8. lo grido pace, pace, e amor mi sfid'a guerra. Dialogo
+" " Eco solinga. Risposta d'Eco
 
 I-Bc: compl.
 GB-Lbm: C.A.T.5.
@@ -42,7 +42,7 @@ NL-DHgm: A.
 l-LOcl: B.
 
 1224 _ GIOVANNELLI Ruggero (1599-2) _ Di Ruggiero Giovannelli .macSlſO
-di capella in S. Pietro di Roma. Il Terzo Libro de Madrigali-a cmquc_voc1._1‘î<;;;'
+di capella in S. Pietro di Roma. Il Terzo Libro de Madrigali-a cmquc_voc1._1'î<;;;'
 mente da lui composti, et dati in luce. In Venetia, appresso Giacomo Vincenti -
 5 fasc. in aſ- (C.A.T.B.S.), pag. zz. Ded. al Cardinal Aldobrandino, Ferrara, 14 x1 1598-
 Indicc = 1599-1.

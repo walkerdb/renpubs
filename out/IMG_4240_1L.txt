@@ -1,7 +1,7 @@
 A 3. Sempre, ohimè, non vo languire. Con Violini obligati. Alto, tenore e basso 40
-n » Voi voreste (seconda stanza)
-» » Chiomc d’oro (terza stanza) 42
-» » Sarò l‘esca (quarta stanza)
+n " Voi voreste (seconda stanza)
+" " Chiomc d'oro (terza stanza) 42
+" " Sarò l'esca (quarta stanza)
 
 F-Pn: compl.
 
@@ -18,19 +18,19 @@ Canzonette per camera a voce sola).
 
 Vol. in 8° obl., pag. 169,0). Ded., Bologna, () XII 166].
 
-Ch‘io più peni per amore, luci mie. Amante libero (li lacci d‘amore. Parole di Andrea
+Ch'io più peni per amore, luci mie. Amante libero (li lacci d'amore. Parole di Andrea
 [Bianchini ]
 
-Ch‘ai sospiri, ch‘ai martiri d‘un amante (seconda parte) 12
+Ch'ai sospiri, ch'ai martiri d'un amante (seconda parte) 12
 Ch'io più creda -a quattro sguardi (terza parte) _ ZU
-lo vorei inamorarmi d‘una dama brutta o bella. Vecchio amante che vorebbe prende mcglle 22
+lo vorei inamorarmi d'una dama brutta o bella. Vecchio amante che vorebbe prende mcglle 22
 
 Non mi cal se magra o grassa (seconda parte)
 lmpresso ho pur nel volto, o Filli. .\mante pallido chiede pace alla sua donna. Parole del
 [Conte Bulgarini 25
 
 Gran miseria è degli amanti adorar. Amante tormentato 35
-Piangere, deh piangete. o ninfe. Lamento (l‘una giovine destinata da suo padre alla morte
+Piangere, deh piangete. o ninfe. Lamento (l'una giovine destinata da suo padre alla morte
 
 [per una vittoria da lui ottenuta 39
 
@@ -38,7 +38,7 @@ Pietà, pictadc, o selve (seconda stroffn) %
 
 Crcdci di fido amante esser consorte (terza stroffa) 4
 
-Se l‘amore è_ una follia. Donna amante per capriccio. Parole del dott. Freguglia 49
+Se l'amore è_ una follia. Donna amante per capriccio. Parole del dott. Freguglia 49
 Orsù, amanti, non credete ale donne. Aria (seconda parte) gg
 
 Sci pur dura, o servitù. Libertà posta in servitù. Parole del Conte Bulgarini 66
@@ -47,16 +47,16 @@ Apriti, o bella bocca. c ſà ch'un dì. Sonetto sopra si e no 68
 S'un no mille ferite in se (seconda parte) 70
 Tiranneggia quel no mia pura [è (terza parte) _
 
-Non volete ch‘io soſi<piri se oscurato. Per la perdita dell'amante. Parole di Andrea Bianchini 72
+Non volete ch'io soſi<piri se oscurato. Per la perdita dell'amante. Parole di Andrea Bianchini 72
 Pianger sì voglio il momento (seconda strofia) 79
 Quando credo che pentita Lilla (terza stroffa) in
-Sospirar sì vogl’io sin che spira _ (quarta stroffa) _ 84
+Sospirar sì vogl'io sin che spira _ (quarta stroffa) _ 84
 
 Sì che vivo amante sì. Di chi? Non lo sn. Amor segreto. Parole di Andrea Bianchini l
 
-Maledetto sia quel dì quand’amor. Delirio amoroso. Parole di Andrea Bianchini 903
+Maledetto sia quel dì quand'amor. Delirio amoroso. Parole di Andrea Bianchini 903
 
-Alla fuga su. su. Nel campo d’amor. Fuga amorosa. Parole di Andrea Bianchini 1112
+Alla fuga su. su. Nel campo d'amor. Fuga amorosa. Parole di Andrea Bianchini 1112
 
 Vi compatisco, 0 stelle. Amor tradito. Parole di Andrea Bianchini
 
@@ -66,7 +66,7 @@ Poi che con l'arco di due ciglia. Amante irresoluto. Parole del canonico Maurizi
 
 Nell'adirato seno vedova de suoi parti. Delirio amoroso. Parole del dott. Pelicani 113595
 
-Hora sì, hora no. E che parlare e questo? Ristampata e coretta. Parole di Girolimo POT“
+Hora sì, hora no. E che parlare e questo? Ristampata e coretta. Parole di Girolimo POT"
 
 I-Bc
 I-Nc

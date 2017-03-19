@@ -1,17 +1,17 @@
 A 8. Bella schiera real, alteri numi 13
-» » Al vincitor di Marte, per cantar pugnc gloriose e illustri. A Vittorio Amedeo
+" " Al vincitor di Marte, per cantar pugnc gloriose e illustri. A Vittorio Amedeo
 [di Savoia principe di Piemonte 14
 
-» » Ai baci. ai baci, crida madonn'e le mia labbr'ai baci sfida. Guerra di baci 16
-» » Sfidi tu ſorsi ai baci, con quelle labbra tue le labbra mie. Guerra di baci 17
-» » Baciami, vita mia, baciam'ancora, nè li spincciu baciarmi un'altra volta. Affettuosi
+" " Ai baci. ai baci, crida madonn'e le mia labbr'ai baci sfida. Guerra di baci 16
+" " Sfidi tu ſorsi ai baci, con quelle labbra tue le labbra mie. Guerra di baci 17
+" " Baciami, vita mia, baciam'ancora, nè li spincciu baciarmi un'altra volta. Affettuosi
 
 [baci 18
-» » Dunque rompest‘il nodo di quella ſè che ne stringeva insieme. Amorosa querela ZO
-» » All'ombra d’un bel faggio pastori e ninfe in s‘una verde riva. La bella Dori Zl
-» » Godi e gioisci, ninfa amata e fida. ln occasione di nozze ZZ
+" " Dunque rompest'il nodo di quella ſè che ne stringeva insieme. Amorosa querela ZO
+" " All'ombra d'un bel faggio pastori e ninfe in s'una verde riva. La bella Dori Zl
+" " Godi e gioisci, ninfa amata e fida. ln occasione di nozze ZZ
 
-» » Scendi Giuno dal ciel, vien’Himeneo. In occasione di nozze. A Giacomo Contarini 23
+" " Scendi Giuno dal ciel, vien'Himeneo. In occasione di nozze. A Giacomo Contarini 23
 
 l-VEcap: compl.
 F-Phanson: C.A.T.S.6.7.B.Bc.
@@ -26,26 +26,26 @@ In Milano, appresso l'hercde di Simon Tini, et Francesco Besozzi. 1599.
 meritiss., Vercelli, ZO Xl 1599.
 
 A 3. Benchè Barbara sia, questa bell'e leggiadra donna mia l
-» » Dove s’intese mai ch’una ninfa gentile, ch‘ha gl’occhi di zafiri Z
-” » Fugge da gl'occhi il sonno ohimè, perchè non ponno resister 3
-» » Tu pur col tuo parure, cerchi farmi morire e non t’avedi 4
-» » Vita della mia vita, già mi sento morire, poscia ch‘è tardi 5
-» » Sarà possibil mai ch‘io soffra tanti guai. Risposta (Zuccarini) 6
-» » Se ben ti lascio nel partir il core, il corpo mio mio non more 7
-» » lo ardo, o Filli, e tu dell‘ardor mio non curi, ingrata 8
-” » Donna vaga e leggiadra, voi sete una gran ladra 9
-» » Antonella, mia Antonella, lo mio mastro mi manda qua a vederti la gonella 10
-” ” Amore l’altro giorno se n'andava, solo, soletto, senza strali e l'arco 11
-” ” Godi pur quel bel sen, felice pulce, per dove ad hor ad hora lZ
-» » Valli, campagne e boschi, colli c riposte rive, piagge 13
-" ” Santi la bell‘istoria che rol minar con te. La Bellovria in lingua Piemontese 14
-” " Tutt’è pazzia ch’io t’abandoni mai, perchè t'adoro 15
-” ” Quell‘acqua esser vorrei, ond’il bel viso e’l seno si va bagnand'ad hor 16
-» » Ohimè partito è’] mio bel sol lucente, io son rimasta sconsolata 17
-A 4. Dori, morir debb‘io, Doci dolce ben mio, morir debb’io, nè mi darai aita 18
-» » 0 tu che tieni si capelli d’oro, che vaglion un thesoro 19
-” ” Quest’è quel chiaro giorno, che giù lì a piè del bel colle di mirti 20
-” ” Dunque gentili spirti, s‘amor vi stringe il cor (seconda parte) 21
+" " Dove s'intese mai ch'una ninfa gentile, ch'ha gl'occhi di zafiri Z
+" " Fugge da gl'occhi il sonno ohimè, perchè non ponno resister 3
+" " Tu pur col tuo parure, cerchi farmi morire e non t'avedi 4
+" " Vita della mia vita, già mi sento morire, poscia ch'è tardi 5
+" " Sarà possibil mai ch'io soffra tanti guai. Risposta (Zuccarini) 6
+" " Se ben ti lascio nel partir il core, il corpo mio mio non more 7
+" " lo ardo, o Filli, e tu dell'ardor mio non curi, ingrata 8
+" " Donna vaga e leggiadra, voi sete una gran ladra 9
+" " Antonella, mia Antonella, lo mio mastro mi manda qua a vederti la gonella 10
+" " Amore l'altro giorno se n'andava, solo, soletto, senza strali e l'arco 11
+" " Godi pur quel bel sen, felice pulce, per dove ad hor ad hora lZ
+" " Valli, campagne e boschi, colli c riposte rive, piagge 13
+" " Santi la bell'istoria che rol minar con te. La Bellovria in lingua Piemontese 14
+" " Tutt'è pazzia ch'io t'abandoni mai, perchè t'adoro 15
+" " Quell'acqua esser vorrei, ond'il bel viso e'l seno si va bagnand'ad hor 16
+" " Ohimè partito è'] mio bel sol lucente, io son rimasta sconsolata 17
+A 4. Dori, morir debb'io, Doci dolce ben mio, morir debb'io, nè mi darai aita 18
+" " 0 tu che tieni si capelli d'oro, che vaglion un thesoro 19
+" " Quest'è quel chiaro giorno, che giù lì a piè del bel colle di mirti 20
+" " Dunque gentili spirti, s'amor vi stringe il cor (seconda parte) 21
 
 l-VCd: C. (solo pag. 3-13). T-B-
 

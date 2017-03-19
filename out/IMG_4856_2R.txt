@@ -1,27 +1,27 @@
 AZ. Udite o selve, i miei crudi martiri 3
 
-» » Mira quel pesce, mira come a l‘csca s’aggira 5
-» » Ch’io ti lasci d‘amare a questi lumi 7
-» » Una picciola arsura, donna, ne piede avete 8
+" " Mira quel pesce, mira come a l'csca s'aggira 5
+" " Ch'io ti lasci d'amare a questi lumi 7
+" " Una picciola arsura, donna, ne piede avete 8
 A3. Non crcdcte a donne mai, non credete ai pricglii 9
-» » Dite ch’io canti? lo canterò. Canto scnz’arlc lU
-» » E’ sì grave il tormento clie la provar amore lZ
-» » Luci amate, l’alta fiamma il gran foco 14
-» » Non fia ver ch'io più t’ami 15
+" " Dite ch'io canti? lo canterò. Canto scnz'arlc lU
+" " E' sì grave il tormento clie la provar amore lZ
+" " Luci amate, l'alta fiamma il gran foco 14
+" " Non fia ver ch'io più t'ami 15
 A4. Son rosc le tue guancie, Pilli. ma lor vicine io non veggio le spine 16
-» » Filli mi diede un fiore 17
-» » Clori mia bella, ccco lc verdi piaggio 19
-» » Di corallo hai le labbra e di corallo crcd’io clic sia il tuo cuore 20
+" " Filli mi diede un fiore 17
+" " Clori mia bella, ccco lc verdi piaggio 19
+" " Di corallo hai le labbra e di corallo crcd'io clic sia il tuo cuore 20
 A5. Luci amorose c belle, vedete se v'adoro 21
 Con instromenti:
 
-A5. Chiomc crcspe, chiome d’or. A 2 voci, Z Viol. e Viola ZZ
-» » Segua i piacer d’amore, goda di suoni e canti. A 2 voci, Z Viol. e Viola 24
-» » Io vo cercando un core che non disprczzi amore. A Z voci, 2 Viol. e Viola 26
-» » Dormi, dormi, io già non voglio. A 2 voci, 2 Viol. c Viola 7.7
-A6. Torna Clori mia bella, lascia li sdegni e l’irc. A 3 voci con instr. 28
-» » Amar com'io solea et ardcr come ardea. A 3 voci con instr. 28
-» » E' morto amor, non regna più pietà. A 3 voci con instr. 32
+A5. Chiomc crcspe, chiome d'or. A 2 voci, Z Viol. e Viola ZZ
+" " Segua i piacer d'amore, goda di suoni e canti. A 2 voci, Z Viol. e Viola 24
+" " Io vo cercando un core che non disprczzi amore. A Z voci, 2 Viol. e Viola 26
+" " Dormi, dormi, io già non voglio. A 2 voci, 2 Viol. c Viola 7.7
+A6. Torna Clori mia bella, lascia li sdegni e l'irc. A 3 voci con instr. 28
+" " Amar com'io solea et ardcr come ardea. A 3 voci con instr. 28
+" " E' morto amor, non regna più pietà. A 3 voci con instr. 32
 
 33
 
@@ -32,8 +32,8 @@ F-Pthibault: C.A.T.5.Bc.
 2508 - SABBATINI Galeazzo (1637) _ Madrigali concertatti a due, tre, quattro,
 e cinque voci. Con alcune Canzoni concertate, e tramezzate diversamente con
 Sinfonie, e ritornelli. Di Galeazzo Sabbatini maestro di cappella di camera del-
-l'eccellentissimo signor duca della Mirandola. Opera Quinta. De’ Madrigali Libro
-Quarto. Novamente ristampati. Dedicati all’illustrissimo, e reverendissimo signor
+l'eccellentissimo signor duca della Mirandola. Opera Quinta. De' Madrigali Libro
+Quarto. Novamente ristampati. Dedicati all'illustrissimo, e reverendissimo signor
 conte Girolamo Abbate di Montevecchio. Con licenza de' Superiori, et privilegio.
 ln Venetia, appresso Alessandro Vincenti. 1637.
 
@@ -45,7 +45,7 @@ GB-Lbm: B. Bc.
 
 2509 - SABBATINI Galeazzo (1636) _ Madrigali concertati a due, tre, e quattro
 Voci con alcune Canzonette concertate con instromenti, di Galeazzo Sabbatini
-mastro di Capella-di camera dell‘eccellentissimo sig. duca della Mirandola etc.
+mastro di Capella-di camera dell'eccellentissimo sig. duca della Mirandola etc.
 Opera Sesta de Madrigali Libro Quinto nuovamente composti, e dati in luce et a
 sua cccelenza illustrissima dedicati con privilegio. In Venetia, appresso Alessandro
 Vincenti. 1636.

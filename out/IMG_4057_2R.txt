@@ -4,11 +4,11 @@ ASs Asti, Biblioteca del Seminario
 
 Baf BolOgna, Accademia Filarmonica
 
-Bag Bologna, Biblioteca dell’Archiginnasio
+Bag Bologna, Biblioteca dell'Archiginnasio
 
 Bc Bologna, Biblioteca del Conservatorio (Museo Bibliografico Musicale)
 
-Bof Bologna, Biblioteca dell’Oratorio dei Filippini
+Bof Bologna, Biblioteca dell'Oratorio dei Filippini
 
 Bsp Bologna, Archivio di S. Petronio
 
@@ -16,8 +16,7 @@ Bu Bologna, Biblioteca Universitaria
 
 BG Bergamo, Biblioteca Civica
 
-BGid Bergamo, Istituto Musicale «Donizetti » (Conservatorio di Musica
-<< Donizetti »)
+BGid Bergamo, Istituto Musicale "Donizetti " (Conservatorio di Musica "Donizetti")
 
 BRd Brescia, Archivio del Duomo
 
@@ -25,7 +24,7 @@ BRq Brescia, Biblioteca Queriniana
 
 BRE Bressanone, Seminario Maggiore
 
-CAR Castell’Arquato, Archivio del Duomo
+CAR Castell'Arquato, Archivio del Duomo
 
 CMC Casale Monferrato, Biblioteca Civica
 
@@ -57,7 +56,7 @@ FOc Forlì, Biblioteca Comunale
 
 Gb Genova, Biblioteca Berio
 
-Gl Genova, Biblioteca del Conservatorio << Paganini »
+Gl Genova, Biblioteca del Conservatorio " Paganini "
 
 Gu Genova, Biblioteca Universitaria
 
@@ -85,7 +84,7 @@ Msartori Milano, Collezione Sartori
 
 MAc Mantova, Biblioteca Comunale
 
-MC Montecassino, Biblioteca dell’Abbazia
+MC Montecassino, Biblioteca dell'Abbazia
 
 MOe Modena, Biblioteca Estense
 

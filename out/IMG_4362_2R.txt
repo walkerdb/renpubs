@@ -1,27 +1,27 @@
 A 5. E bella e dotta mano tessea con sotlil ago nobil lavor 3
 
-» » Ardo. misero me, ardo e la fiamma che mai sempre mi sta 4
-» » 1 cor, che tratti da i soavi accenti son delle sue dolcissime parole 5
-» » Voi che le fiamme d'honor, Flaminia, in petto chiuse 6
-» » Poichè sì bella fiamma, ahi lasso, il core per ch'io laccio 7
-» » Ardo sì, ma non t’amo, perfida e dispietata, indegnamenle amata (Guarini) B
-» » Ardi e gel’a tua voglia, perfido et impudico. Rizposta (Tasso) 9
-» » Gli augcletti canori, che con vezzi amorosi hor strett'hor larghe 10
-» » Tu voi, lasso, ch’io mora, perfida e ria crudel 11
-» » Questa vostra pietate, non refrigerio al core, ma dà forza (Tasso) 12
-» » Pianta felice e bella, a cui bei rami intorno amor 13
-» » L’una spada tcnca madonn’ascosa, mentre correa le carte 14
-» » O com‘è gran martire :\ celar suo desire, quando con pura fede (Guarini) 15
-» » Da l'odorate spoglie scìogliete homai la mano 16
-» » lo mi dolea d’amore sovra un torbido rio, fatto dal pianto mio 17
-» » In qual celeste choro imparasti a cantar, dolce sirena 18
-» » M'è pur slato dal core furtivamente il lauro svelto 19
-» » Tirsi morir volca, gl’occhi mirando di colei ch'adora (Guarini) ZO
-» » Frenò Tirsi il desio ch’hebbe pur (seconda parte) » ZI
-» » Così moriro i fortunati amanti (terza parte) » ZZ
-A 8. Filli mia bella. a dio. Caro mio Tirsi. a dio. Dicea sovr’Arno 24
+" " Ardo. misero me, ardo e la fiamma che mai sempre mi sta 4
+" " 1 cor, che tratti da i soavi accenti son delle sue dolcissime parole 5
+" " Voi che le fiamme d'honor, Flaminia, in petto chiuse 6
+" " Poichè sì bella fiamma, ahi lasso, il core per ch'io laccio 7
+" " Ardo sì, ma non t'amo, perfida e dispietata, indegnamenle amata (Guarini) B
+" " Ardi e gel'a tua voglia, perfido et impudico. Rizposta (Tasso) 9
+" " Gli augcletti canori, che con vezzi amorosi hor strett'hor larghe 10
+" " Tu voi, lasso, ch'io mora, perfida e ria crudel 11
+" " Questa vostra pietate, non refrigerio al core, ma dà forza (Tasso) 12
+" " Pianta felice e bella, a cui bei rami intorno amor 13
+" " L'una spada tcnca madonn'ascosa, mentre correa le carte 14
+" " O com'è gran martire :\ celar suo desire, quando con pura fede (Guarini) 15
+" " Da l'odorate spoglie scìogliete homai la mano 16
+" " lo mi dolea d'amore sovra un torbido rio, fatto dal pianto mio 17
+" " In qual celeste choro imparasti a cantar, dolce sirena 18
+" " M'è pur slato dal core furtivamente il lauro svelto 19
+" " Tirsi morir volca, gl'occhi mirando di colei ch'adora (Guarini) ZO
+" " Frenò Tirsi il desio ch'hebbe pur (seconda parte) " ZI
+" " Così moriro i fortunati amanti (terza parte) " ZZ
+A 8. Filli mia bella. a dio. Caro mio Tirsi. a dio. Dicea sovr'Arno 24
 
-A 8. Voi volete ch'io mora, crude] ahimè. e mi date dolor si crud’e forte
+A 8. Voi volete ch'io mora, crude] ahimè. e mi date dolor si crud'e forte
 
 l-MOc: compl.
 I-Bc: C.
@@ -30,27 +30,27 @@ I-Bc: C.
 gali a cinque voci novamente composti, et dati in luce. In Venetia, 1589. Appresso
 Ricciardo Amadino.
 
-$ fax: in 8°. (C.A.T.B.5.). Pag. ZZ. Ded. a Donna Leonora da Este: «..in Fﬂſﬂſ‘l patria mia..
-Venetia, ZZ XII 1588 ».
+$ fax: in 8°. (C.A.T.B.5.). Pag. ZZ. Ded. a Donna Leonora da Este: "..in Fﬂſﬂſ'l patria mia..
+Venetia, ZZ XII 1588 ".
 
 A 5. lo seguo ardente fiamma, che mi fugge e fuggendo mi strugge ]
-” » 0 vaga tortorella, tu la tua compagnia et in piango colei (Tasso) Z
-» » I vostri biondi crini son lacci ove’l cor mio avinm 3
-» » Le vaghe rose su le labra sparse, Filen della sua cara amat'Alfea 4
-» » Sì rispose. ben mio, che quest’è’l mio desio (seconda parte) 5
-" ” 0 mio sommo dolore, come chiudi nel cor il pianto mio 6
-» » Mentre intento mirar volca il mio sole, Febo che men di quello 7
-” ” Ma fè contrario effetto poi che quand’io (seconda parle) 8
-” ” Ecco, cor mio, ecco ch’a noi ritorna et ha seco il diletto 9
-» » La fiamma, ond’io tutto ardo, è giunt'al core 10
-» » Ars: già del tuo ardore questo infelice core 11
-” ” Se perchè cruda sete, le labbra vi mordere. donna 12
-» » A] tuo leggiadro viso, Clori. ceda Narciso 13
-” ” Foggia di poggio in poggia la mia dolce nemica (Tasso) 14
-“ » Voi amate, ben mio, che m’uccida il dolore, però crescete pena 15
-» » Dimmi ond'avien, amore, che se veggio o non veggio 16
-» » Datemi per merccde d’amor lo spirto mio, ch'allro non chieggio 17
-” » Lungi, ben mio, da vostri vaghi rai 18
+" " 0 vaga tortorella, tu la tua compagnia et in piango colei (Tasso) Z
+" " I vostri biondi crini son lacci ove'l cor mio avinm 3
+" " Le vaghe rose su le labra sparse, Filen della sua cara amat'Alfea 4
+" " Sì rispose. ben mio, che quest'è'l mio desio (seconda parte) 5
+" " 0 mio sommo dolore, come chiudi nel cor il pianto mio 6
+" " Mentre intento mirar volca il mio sole, Febo che men di quello 7
+" " Ma fè contrario effetto poi che quand'io (seconda parle) 8
+" " Ecco, cor mio, ecco ch'a noi ritorna et ha seco il diletto 9
+" " La fiamma, ond'io tutto ardo, è giunt'al core 10
+" " Ars: già del tuo ardore questo infelice core 11
+" " Se perchè cruda sete, le labbra vi mordere. donna 12
+" " A] tuo leggiadro viso, Clori. ceda Narciso 13
+" " Foggia di poggio in poggia la mia dolce nemica (Tasso) 14
+" " Voi amate, ben mio, che m'uccida il dolore, però crescete pena 15
+" " Dimmi ond'avien, amore, che se veggio o non veggio 16
+" " Datemi per merccde d'amor lo spirto mio, ch'allro non chieggio 17
+" " Lungi, ben mio, da vostri vaghi rai 18
 
 -585-
 

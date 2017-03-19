@@ -1,29 +1,29 @@
-A 5. Sì chiar’è l’alma luce con sì chiaro splendore. A Chiara Marina 4
+A 5. Sì chiar'è l'alma luce con sì chiaro splendore. A Chiara Marina 4
 
-» » Di bei costumi e leggiadria corona, 0 Barbara gentil. A Barbara Centuriona 5
-» » Cesare, il cui valor ogn’un ammira. A Cesare Casalc 6
-» » Esce da doi begl’occh’ad hora ad hora che gratia (B- Tasso) 7
-» » Ma s’avicn ch’ella parl’o mov’un riso (seconda parte) ” ” 8
-» » Io non ammir’amor che tu ritrove tante saett’ogn’hor 9
-» » Pellegrina gentil, che quest’e quella parte del cielo (B- Tasso) 10
-» » Gemma, dove si vede impress’e viva (seconda parte) ” ” “
-» » Sotto candido vel, che ricopria le chiome d’oro » ” 12
-» » Da la bocca di rosc, onde natura (seconda parte) ” ” 13
-» » Fra il cerchio d’or di mille gemm’adorno, che coronava » ” 14
-» » L’habit’cra gentil, candido velo (seconda parte) » ” 15
-» » Crin d’oro cresp’e d’ambra ters’e pura 16
-» » Cantar, che sembra d’armonia divina (seconda parte) 17
-» » Dove son quelle chiom’aurat’c bionde, che mi strinscr il cor 18
-» » Ohimè, fredd’urna gli rinchiude (seconda parte) 19
-A 6. A la man vincitrice, a l’alte c sole glorie. A Margheritta d’Austria ZO
-» » Queste de le celesti che cedon vinte (seconda parte) 21
-» » Signor del ciel, quella pietà infinita che ti sospinsc (B. Tasso) 22
-» » Debil e inerme a ben armat’e forte (seconda parte) » » 23
-» » Sovra le rive glorios’e solc u’ l’alta donna con l’aurato freno 24
-» » Amor, io amo et ardo e non sel crede (seconda parte) 25
-A 8. Dolce Filida mia, hor m’ami tu. Dialogo 26
-» » Caron, Caronte. Che vuoi? Son amante fidel che vuole il passo. Dialogo 28
-» » Crudo Caronte, voltami il tuo legno (seconda parte) 28
+" " Di bei costumi e leggiadria corona, 0 Barbara gentil. A Barbara Centuriona 5
+" " Cesare, il cui valor ogn'un ammira. A Cesare Casalc 6
+" " Esce da doi begl'occh'ad hora ad hora che gratia (B- Tasso) 7
+" " Ma s'avicn ch'ella parl'o mov'un riso (seconda parte) " " 8
+" " Io non ammir'amor che tu ritrove tante saett'ogn'hor 9
+" " Pellegrina gentil, che quest'e quella parte del cielo (B- Tasso) 10
+" " Gemma, dove si vede impress'e viva (seconda parte) " " "
+" " Sotto candido vel, che ricopria le chiome d'oro " " 12
+" " Da la bocca di rosc, onde natura (seconda parte) " " 13
+" " Fra il cerchio d'or di mille gemm'adorno, che coronava " " 14
+" " L'habit'cra gentil, candido velo (seconda parte) " " 15
+" " Crin d'oro cresp'e d'ambra ters'e pura 16
+" " Cantar, che sembra d'armonia divina (seconda parte) 17
+" " Dove son quelle chiom'aurat'c bionde, che mi strinscr il cor 18
+" " Ohimè, fredd'urna gli rinchiude (seconda parte) 19
+A 6. A la man vincitrice, a l'alte c sole glorie. A Margheritta d'Austria ZO
+" " Queste de le celesti che cedon vinte (seconda parte) 21
+" " Signor del ciel, quella pietà infinita che ti sospinsc (B. Tasso) 22
+" " Debil e inerme a ben armat'e forte (seconda parte) " " 23
+" " Sovra le rive glorios'e solc u' l'alta donna con l'aurato freno 24
+" " Amor, io amo et ardo e non sel crede (seconda parte) 25
+A 8. Dolce Filida mia, hor m'ami tu. Dialogo 26
+" " Caron, Caronte. Che vuoi? Son amante fidel che vuole il passo. Dialogo 28
+" " Crudo Caronte, voltami il tuo legno (seconda parte) 28
 
 D-Mbs : compl.
 I-VEaf: C.
@@ -32,22 +32,22 @@ I-VEaf: C.
 
 Aleotti, nuovamente posta in luce. In Venetia, appresso Giacomo Vincenti. 1593.
 
-4 fasc. in 8° (C.A.T.B.), pag. Zl,(l). Ded. di Gio. Battista Aleotti d’Argenta a Hippolito Bentivo-
-glio, Marchese di Castel Gualtieri, Signor di Magliano, Conte d’Antignato, et Capitan Generale
-del Sereniss. Sig.r Duca di Ferrara: << La prima delle cinque figliuole... ch’è piacciuto alla bontà
+4 fasc. in 8° (C.A.T.B.), pag. Zl,(l). Ded. di Gio. Battista Aleotti d'Argenta a Hippolito Bentivo-
+glio, Marchese di Castel Gualtieri, Signor di Magliano, Conte d'Antignato, et Capitan Generale
+del Sereniss. Sig.r Duca di Ferrara: " La prima delle cinque figliuole... ch'è piacciuto alla bontà
 di Dio di donarmi... gli feci insegnare un poco di Musica sotto la disciplina del famoso messer
 Alessandro Milleville... e dopo da messer Hercole Pasquino, et avvenne, che imparando questa,
-sempre presente v’era la seconda mia figliuola, et sua sorella Vittoria detta (bambina di quattro
-in cinque Anni) laqualc affisando la pura mente a l'prCCîttl del Mastro che insegnava all’altra,
-apprese tanto che (non se n’avcdendo alcuno) in termine d un Anno la natura gli slegò in modo
+sempre presente v'era la seconda mia figliuola, et sua sorella Vittoria detta (bambina di quattro
+in cinque Anni) laqualc affisando la pura mente a l'prCCîttl del Mastro che insegnava all'altra,
+apprese tanto che (non se n'avcdendo alcuno) in termine d un Anno la natura gli slegò in modo
 le pargolette mani, che su l'Arpicordo ella commciola sonarc in modo, che fece stupirc, non
-solo sua madre et me, ma l’istcsso Precettore ancora ll. qual buon vecchio si pose ad insegnarll
+solo sua madre et me, ma l'istcsso Precettore ancora ll. qual buon vecchio si pose ad insegnarll
 con tanto amore, che in due Anni ella fece profitto grandxssxmo. Onde egli. mi pregò affettuosissima-
 mente, che la facessi allevare (come feci) nel Monastero delle non mai. a bastanz3 lodate Mad.
 Rev. di S. Vito qua in Ferrara, la perfetuonc et Eccellenza delle quali nella Musica trapassa...
-tutti gli Concerti più famosi... Onde avenne, che questa figliuola giunta ”all eta dl quattordeel
+tutti gli Concerti più famosi... Onde avenne, che questa figliuola giunta "all eta dl quattordeel
 Anni prudentemente fece alletione dl quivi anco lei dedica… al scrigno dl Dio... et vedendo [0
-quanto ella s’affaticava nella Theorica della .Mu51ca, fea- opera d aver alcuni Madrigali del
+quanto ella s'affaticava nella Theorica della .Mu51ca, fea- opera d aver alcuni Madrigali del
 molto Illustre et Eccellentiss. Cavaliere Guarini... .et ella. vr chÎe sopra la Musical,, laqualc essen-
 domi stata più volte lodata da diversi bclllSSlml ingegni, ne lonal una COptla al lllustnss: sign.
 Conte del Zaffo la Settimana Santa li Mesr passati, mentre egr era in ques a citta alloggiato …

@@ -52,7 +52,7 @@ Hamburg, Staats- und Universitèitsbibliothek
 Halle \ Saale, Universitàtsbibliothek
 Heilbronn, Musiksammlung im Stadtarchiv
 Heidelberg, Musikwissenschaftliches Seminar der Universit'aîts
-Harburg über Donauwòrth. Fürstlich Oettingen-Wallerstein’sche
+Harburg über Donauwòrth. Fürstlich Oettingen-Wallerstein'sche
 Bibliothek, Schloss Harburg
 Hannover, Nieders'aìchsische Landesbibliothek
 Jena, Universitàtsbibliothek
@@ -73,7 +73,7 @@ Regensburg, Fùrstl. Thurn und Taxissche Hofbibliothek
 Rostock, Universitàtsbibliothek
 Rastatt, Bibliothek des Friedrich-Wilhelm-Gymnasiums
 Tiìbìngen, Universitàîtsbibliothek
-Ulm, Von Schermar’sche Familienstiftung
+Ulm, Von Schermar'sche Familienstiftung
 Wolfenbüttel, Herzog-August-Bibliothek
 
 -xv1-- -

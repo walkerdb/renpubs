@@ -1,12 +1,12 @@
 A 5. Ameni colli, vaghi monticelli, fresche fontane. Canzone E
 
-» » Donna, s’il cor legasti col tuo bel crin aurato. Canzone 23
-» » Tutta gentil e bella a tcsser ghirlandctte Clori 24
-» » Pur venisti, cor mio, e pur ti veggio. Non dormo 25
-» » Vago augelletto, più ch’altri beato, che dolcemente Di Costanzo Porta 26
-» » Che se ciò fosse io vincerci (seconda parte) 27
-A 4. Filli, quand’io mirai coi vaghi troppo et idolatri rai 28
-A 6. Dolce cantar s’udia gioia et dolcezza insieme. D’incerto autore 29
+" " Donna, s'il cor legasti col tuo bel crin aurato. Canzone 23
+" " Tutta gentil e bella a tcsser ghirlandctte Clori 24
+" " Pur venisti, cor mio, e pur ti veggio. Non dormo 25
+" " Vago augelletto, più ch'altri beato, che dolcemente Di Costanzo Porta 26
+" " Che se ciò fosse io vincerci (seconda parte) 27
+A 4. Filli, quand'io mirai coi vaghi troppo et idolatri rai 28
+A 6. Dolce cantar s'udia gioia et dolcezza insieme. D'incerto autore 29
 B-Gu: A.T.B.
 
 GB-Lbm: A.S.
@@ -16,29 +16,29 @@ RlSM, I 1601-10 (non compl.).
 379 - BÛNAFFINO Filippo (1623) _ Madrigali concertati a due, tre, e quattro
 voci, per cantar, e sonar nel Clavecimbalo, Chitarrone, o altro simile instrumento.
 Di Filippo Bonaffino messinese. In Messina, appresso Pietro Brea. 1623. Con licenza
-de’ Superiori.
+de' Superiori.
 
 S fasc. in 8° (C.A.T.B.Partimento), pag. 19. Bed. a Gioanni Watchin, Gentilhuomo Inglese,
 Messina, 1° IV 162.3.
 
-A Z. Dolcissimo sospiro, ch’csci da quella bocca (Rinuccini) 4
-» » La mia Stellina d’oro, quando mi guarda e ride 5
-» » Mentre per uscir fuor l’alma s’invia (seconda parte) $
+A Z. Dolcissimo sospiro, ch'csci da quella bocca (Rinuccini) 4
+" " La mia Stellina d'oro, quando mi guarda e ride 5
+" " Mentre per uscir fuor l'alma s'invia (seconda parte) $
 
-» » Il sguardo tuo crudel ha pcnctrato
+" " Il sguardo tuo crudel ha pcnctrato
 
-» » Simiglia al lume un sole, una siren’al canto 8
-» » D’amoroso gioir avidi i petti di Filli e di Fileno 9
+" " Simiglia al lume un sole, una siren'al canto 8
+" " D'amoroso gioir avidi i petti di Filli e di Fileno 9
 A 3. Deh come non scorgcte, pastori amanti 10
-» » Luci belle et amate, gli sguardi che girate “
-» » Come l’ape ingegnosa rugiadosi' tesori 12
-» » Del sentier dritto guida splende 14
+" " Luci belle et amate, gli sguardi che girate "
+" " Come l'ape ingegnosa rugiadosi' tesori 12
+" " Del sentier dritto guida splende 14
 A 4. Ancidetcmi pur, grievi martiri 15
-» » Il ciel con ogni Stella tanta bellezza e senno (Groto) 16
-» » Son sì belle le rose, ch’in voi natura pose (Grillo) 178
-» » Gloriosi numi, che nell’empireo sen 1l9
+" " Il ciel con ogni Stella tanta bellezza e senno (Groto) 16
+" " Son sì belle le rose, ch'in voi natura pose (Grillo) 178
+" " Gloriosi numi, che nell'empireo sen 1l9
 
-» » Errai, nol nego, amar cosa mortale
+" " Errai, nol nego, amar cosa mortale
 
 I-Bc: compl.
 GB-Lcm: compl.

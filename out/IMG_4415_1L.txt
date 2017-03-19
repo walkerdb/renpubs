@@ -8,14 +8,14 @@ n ))
 )) ))
 )) ))
 )) ))
-» ))
+" ))
 
 )) ))
 
 A 7.
-» »
-» »
-» »
+" "
+" "
+" "
 
 )) ))
 
@@ -131,15 +131,15 @@ Gabrieli Andrea
 Libro de Concerti di Andrea Gabrieli, ove sono Madrigali,
 ec Dialoghi diversi a 67.8.10 et 12. voci
 
-- [’ vo piangendo i miei passati tempi (Petrarca)
-- Si che s'io vissi in guerra (seconda parte) »
+- [' vo piangendo i miei passati tempi (Petrarca)
+- Si che s'io vissi in guerra (seconda parte) "
 
 - Nel bel giardin entrate. felici alme ben nate
 
 - Ma pria odorate il vicin spico (seconda parte)
 
 - Chiaro sol di virtute, onde deriva
-- Al chiaro suon d‘i dolci accenti (seconda parte)
+- Al chiaro suon d'i dolci accenti (seconda parte)
 
 - In nobil sangue vita humilc e queta et in alto (Petrarca)
 
@@ -150,20 +150,20 @@ ec Dialoghi diversi a 67.8.10 et 12. voci
 
 - Dunque fia vero, o cara mia fenice. Dialogo
 
-- Dunqu‘il consenti amor (seconda parte) _ _
+- Dunqu'il consenti amor (seconda parte) _ _
 
-- Tirsi morir volea, gl‘occhi mirando. Dialogo (Guanm)
+- Tirsi morir volea, gl'occhi mirando. Dialogo (Guanm)
 
 - Dolce nemica mia, perchè mi vieti. Dialogo
 
-- A le guancie di rose, ai crin di fila d’oro. Dialogo
+- A le guancie di rose, ai crin di fila d'oro. Dialogo
 
-- Pront'era l’alma mia, pront’il mio amore
+- Pront'era l'alma mia, pront'il mio amore
 
-- E cert‘anco di ciò già non mi doglia (seconda parte)
+- E cert'anco di ciò già non mi doglia (seconda parte)
 - Tirsi, che fai così dolente? Dialogo .
 - Hor che nel suo bel scno lieto e tranquillo il mar d'lAdrla
-- O dea, che tra le selv’a chi ti chiama. Risonanza di Echo
+- O dea, che tra le selv'a chi ti chiama. Risonanza di Echo
 - Quand'havrà fin amore. Dialogo _ _
 
 - Ecco la vaga aurora c il sol ch'a non vien '

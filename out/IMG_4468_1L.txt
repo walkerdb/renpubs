@@ -1,30 +1,30 @@
-A 3. Per gl'infermi d’amore hoggi s’aprc hospedale. Coro
+A 3. Per gl'infermi d'amore hoggi s'aprc hospedale. Coro
 A 1. Ecco, mi date aita al mio dolore. Amante ferito
-» » Chi non mi conosce dirà che la mia
+" " Chi non mi conosce dirà che la mia
 
 Z
-» » Talvolt’amor fiero mi lega la lingua Z
-» » Talvolta mi burlo di chi mi ha ferito 2
+" " Talvolt'amor fiero mi lega la lingua Z
+" " Talvolta mi burlo di chi mi ha ferito 2
 A 2. A pover'impiagati, donne, deh per pietaate Z
-» » Un infermo d’amor dimanda aita. Amante pazzo 4
-A 1. Amor, sempr‘ho da striderc 4
-» » O dotti medici, fate un collegio 6
-» » Un mi chiama ignorante e che'] cervel mi vola 6
+" " Un infermo d'amor dimanda aita. Amante pazzo 4
+A 1. Amor, sempr'ho da striderc 4
+" " O dotti medici, fate un collegio 6
+" " Un mi chiama ignorante e che'] cervel mi vola 6
 A2. A scemi di cervello, donne, deh per pictate 6
-» » Ove sta l‘hospedale. Amante cieco 6
+" " Ove sta l'hospedale. Amante cieco 6
 A 1. Date la voce olà, che passa amore 3
 A 2. A poveri accecati, donne, deh per pietate 9
-» » O voi dell‘hospedale un carco d’anni. Amante vecchio 10
-A 1. Ballate, o miei pensier, ch’io sonerò 10
+" " O voi dell'hospedale un carco d'anni. Amante vecchio 10
+A 1. Ballate, o miei pensier, ch'io sonerò 10
 A 2. A vecchi innamorati, donne, deh per pictate 11
 A 5. Viva, viva la pazzia. Choro de pazze 12
-A Z. Poi che giunto pur sono a l‘hospedale. Amante povero "
-A 1. Son le sfere per amore pazz’e giran con furore “
-» » Pazzo è amor, pazzo è ogni amante 16
+A Z. Poi che giunto pur sono a l'hospedale. Amante povero "
+A 1. Son le sfere per amore pazz'e giran con furore "
+" " Pazzo è amor, pazzo è ogni amante 16
 A Z. Agli amanti falliti, donne, deh per pietate 16
-» » Dov’è l’hospedalicre? Io sono qui. Amante ardito "
-» » Agl'lcari volanti, donnc, deh per pietate ZB
-» » Chi riceve gl'infermi. o voi dell’hospedale. Amante geloso ZZ
+" " Dov'è l'hospedalicre? Io sono qui. Amante ardito "
+" " Agl'lcari volanti, donnc, deh per pietate ZB
+" " Chi riceve gl'infermi. o voi dell'hospedale. Amante geloso ZZ
 A 4. Su, su, contro costei mostra il valore 21
 A ]. Serenissimo è'l ciel di sua bellezza 32
 
@@ -33,25 +33,25 @@ voci. Con alcune Arie poste nel fine del Basso continuo. Di Francesco Gonzaga
 mantovano. Stampa del Gardano in Venetia, 1619. Appresso Bartolomeo Magni-
 
 4 fasc. in 8° (C.l", C.Z°, B., Be.), Bc. pag. 21,(1). Ded. a D. Carlo Madrutio Cardinale e Franche];
-di Trento: « La Città di Mantova (Illustrissimo Prencipe) sembra un amantea, e hen-360°!
+di Trento: " La Città di Mantova (Illustrissimo Prencipe) sembra un amantea, e hen-360°!
 stromento, le cui corde sonore sono tanti suoi Eccellenti Musici, trà quali visse già Il fa??:
 Gastoldi nella cui morte parve rotta, è spezzata si tacesse una corda, ecco una Cicalctta stn 0 .
-e roca cò strepitosi garriti succede al concetto soavc... Mantova, ] IX 1619».
+e roca cò strepitosi garriti succede al concetto soavc... Mantova, ] IX 1619".
 
 A 3. Alma aﬄitta, che fai? Chi ti darà più vita (Manno) ;
-» » Ohimè. mia vita, e quando di mai più rivedervi havrò Speranza G arini) 3
-» » Dolce spirto d’amore in un sospir accolto. mentre l"mll’O ( U 4
-» » Amor, s’hai pur desio di risanar l‘infermo idolo mio 5 azzarO) 5
-» » La pastorella mia spietata e rigida. che nott’e giorno _ ( arinGuarìni) 6
-» » Occhi un tempo mia vita, occhi di questo cor dolci-sostegni » 7
-» » Cor mio, mentre vi miro visibilmente mi trasform'm vm 8
+" " Ohimè. mia vita, e quando di mai più rivedervi havrò Speranza G arini) 3
+" " Dolce spirto d'amore in un sospir accolto. mentre l"mll'O ( U 4
+" " Amor, s'hai pur desio di risanar l'infermo idolo mio 5 azzarO) 5
+" " La pastorella mia spietata e rigida. che nott'e giorno _ ( arinGuarìni) 6
+" " Occhi un tempo mia vita, occhi di questo cor dolci-sostegni " 7
+" " Cor mio, mentre vi miro visibilmente mi trasform'm vm 8
 
-» '» O fortunati voi caldi sospiri, o ben versati pianti
-» » Al font‘al prato, al bosch’all’ombra, al [resc‘o-fiato
-» » Poichè mori dicesti, ben mi [ora il morir gioia
-» » Negatemi pur, cruda, de bei vostr‘occhi il sole
+" '" O fortunati voi caldi sospiri, o ben versati pianti
+" " Al font'al prato, al bosch'all'ombra, al [resc'o-fiato
+" " Poichè mori dicesti, ben mi [ora il morir gioia
+" " Negatemi pur, cruda, de bei vostr'occhi il sole
 
 (Chiabrera) 9
 (Marino) 10
-(Guarini) “
+(Guarini) "
 

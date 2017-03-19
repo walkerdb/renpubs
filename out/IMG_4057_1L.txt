@@ -11,7 +11,7 @@ Pthibault Paris, Collection G. Thibault
 R Rouen, Bibliothèque Municipale
 
 Ssc Strasbourg, Bibliothèque du Grand Séminaire
-Sim Strasbourg, Institut de Musicologie de l’Université
+Sim Strasbourg, Institut de Musicologie de l'Université
 TLC Toulouse, Bibliothèque du Conservatoire
 TLm Toulouse, Bibliothèque Municipale
 
@@ -23,7 +23,7 @@ GB: GREAT-BRITAIN
 
 Cfm Cambridge, Fitzwilliam Museum
 
-Ckc Cambridge, King’s College
+Ckc Cambridge, King's College
 
 Cu Cambridge, University Library
 
@@ -55,7 +55,7 @@ Ojsc Oxford, ]esus College
 
 SH Sherborne, School Library
 
-T Tenbury, St. Michael’s College Library
+T Tenbury, St. Michael's College Library
 
 Y York, Minster Library
 

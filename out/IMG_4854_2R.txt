@@ -1,18 +1,18 @@
-A5. Spirav’a miei desir propitio il vento, quand‘il mio legno (Remigio Fiorentino) 17
+A5. Spirav'a miei desir propitio il vento, quand'il mio legno (Remigio Fiorentino) 17
 
-» » Come novello fior, colmo d‘odore, chc‘n verde ram'il dolce frutto 18
-» » Tal che sparito il desiato sole della mia vita (seconda parte) 19
-» » Dolor ch’hai fatto del mio pett'albcrgo, esci di fuor homai 20
-» » Mentre solcand'il mar audae'e solo sen gia Leandr’al suo piacer ZI
-» » E disse, acqua crudel che sì nemica (seconda parte) 22
-» » Veramente madonna in me l‘ardore tanto non è quanta bellezz’in voi 23
-» » Quant’in mill’anni il ciel dovea mostrarnc di vago e dolce (Bembo) 24
-» » Hor chi vuol si rallegr’a le mie nottti com’anco quella che disprcggia 25
-»» Già queto riposand’all’ombra giace ogni animal fugcnd’il caldo raggio 26
-» » Fra le stelle de poli e da la più benign’e lampeggiante. A Ipolita Gonzaga Z7
-» » [te, rime dolenti, al duro sasso ch‘il mio caro tesor (Petrarca) 28
-» » So] di lei raggionando viv’e morta (seconda parte) » 29
-A7. Caron, Caronte. Chi è? Un amante fidel che cerc’ìl passo. Dialogo 30
+" " Come novello fior, colmo d'odore, chc'n verde ram'il dolce frutto 18
+" " Tal che sparito il desiato sole della mia vita (seconda parte) 19
+" " Dolor ch'hai fatto del mio pett'albcrgo, esci di fuor homai 20
+" " Mentre solcand'il mar audae'e solo sen gia Leandr'al suo piacer ZI
+" " E disse, acqua crudel che sì nemica (seconda parte) 22
+" " Veramente madonna in me l'ardore tanto non è quanta bellezz'in voi 23
+" " Quant'in mill'anni il ciel dovea mostrarnc di vago e dolce (Bembo) 24
+" " Hor chi vuol si rallegr'a le mie nottti com'anco quella che disprcggia 25
+"" Già queto riposand'all'ombra giace ogni animal fugcnd'il caldo raggio 26
+" " Fra le stelle de poli e da la più benign'e lampeggiante. A Ipolita Gonzaga Z7
+" " [te, rime dolenti, al duro sasso ch'il mio caro tesor (Petrarca) 28
+" " So] di lei raggionando viv'e morta (seconda parte) " 29
+A7. Caron, Caronte. Chi è? Un amante fidel che cerc'ìl passo. Dialogo 30
 
 l-Fa: compl.
 
@@ -24,30 +24,30 @@ De Sabbatini da Pesaro. Concertati a due, tre, e quattro voci. Opera Prima. Nova
 mente composta, et data in luce. Con privilegio. In Venetia, appresso Alessandro
 Vincenti. 1625.
 
-Sfasc. in 8° (C.l", C.Z°, T.B.Bc.)_ pag. Z9,(l). Ded. a Fabio Barignani: «Questi miei primi
+Sfasc. in 8° (C.l", C.Z°, T.B.Bc.)_ pag. Z9,(l). Ded. a Fabio Barignani: "Questi miei primi
 Musici Concerti son più di V.S. che miei... ella... ha dato à me occasione di componerli...
-Composti poi hanno hauto il ben'cssere nella sua Casa, dove prima furon’ cantati da molzi
-Virtuosi, che vi si riducon tal’hora per ricrearsi con esso lei... Venetia, 22 W 1625 ».
+Composti poi hanno hauto il ben'cssere nella sua Casa, dove prima furon' cantati da molzi
+Virtuosi, che vi si riducon tal'hora per ricrearsi con esso lei... Venetia, 22 W 1625 ".
 
-A2“ 0 bcgl'occhi di sole, belle guancie d'aurora. 2 C. o T.- ]
-” » Parti, dice la lingua, con parole che a pena par. 2 C. 0 T. 3
-” ” Fulmina da la bocca un duro no‘l mio bene. 2 C. 0 T. 5
-» » Amatemi, ben mio, perchè sdegna il mio core ogn’altro. 2 C. 0 T. 3
-» » Ardon con puro ardore i begl’occhi lucenti. Z C. 0 T. 9
-” " Mio cor, tu ami e peni, perchè il bel sol ch'adori. 2 T. o C. 10
-» » Ahi tu piangi, mia vita, e piango anch’io ch’egli è quel. 2 T. o C. 12
-» » Ohimè sarà pur vero ch'io mi possa partire e lasciar voi, mia vita? T. e A. 12
-» » lo son pur sì vezzosa e sì leggiadra e bella, ch‘ogn'altra. C. e B. 13
-” ” Dunque credete ch'io v'habbia dato il mio core. C. 0 T. e B. 13
-A3. Porta in dito costei d’oro la della fede. 2 C. 0 T. e B. 14
-» » Caro vezzo d’amor con che m’invita ad amar. 2 C. e B. (Contarini) 16
-" ” Ricdc la primavera, torna la bella Clori, odi. T.D. e C. (Marino) ]9
-" ” Eran ninfe c pastori uniti con le Gratie. 2 C e A. (Mſinfſﬂdi) 21
-” ” Mentre io mirava fiso della mia donna gl'occhi. T. e 2 C. (TH-‘s“) 23
-” ” Donna, io vorrei dir molto, ma la lingua tremante. 2 T. 0 C. c B. (Marino) 24
-” ” Ahi ahi rigide rosc, fermate ohimè le spine insidiose. B.T. e A. 24
-A4 Ch’io non v’ami? lo non v’amo, ch'amar voi non poss'io. Z T.C. e B. 25
-» » S'io miro il mio bel sol, misero sento crescer e farsi incendio. 2 CA. e B. 27
+A2" 0 bcgl'occhi di sole, belle guancie d'aurora. 2 C. o T.- ]
+" " Parti, dice la lingua, con parole che a pena par. 2 C. 0 T. 3
+" " Fulmina da la bocca un duro no'l mio bene. 2 C. 0 T. 5
+" " Amatemi, ben mio, perchè sdegna il mio core ogn'altro. 2 C. 0 T. 3
+" " Ardon con puro ardore i begl'occhi lucenti. Z C. 0 T. 9
+" " Mio cor, tu ami e peni, perchè il bel sol ch'adori. 2 T. o C. 10
+" " Ahi tu piangi, mia vita, e piango anch'io ch'egli è quel. 2 T. o C. 12
+" " Ohimè sarà pur vero ch'io mi possa partire e lasciar voi, mia vita? T. e A. 12
+" " lo son pur sì vezzosa e sì leggiadra e bella, ch'ogn'altra. C. e B. 13
+" " Dunque credete ch'io v'habbia dato il mio core. C. 0 T. e B. 13
+A3. Porta in dito costei d'oro la della fede. 2 C. 0 T. e B. 14
+" " Caro vezzo d'amor con che m'invita ad amar. 2 C. e B. (Contarini) 16
+" " Ricdc la primavera, torna la bella Clori, odi. T.D. e C. (Marino) ]9
+" " Eran ninfe c pastori uniti con le Gratie. 2 C e A. (Mſinfſﬂdi) 21
+" " Mentre io mirava fiso della mia donna gl'occhi. T. e 2 C. (TH-'s") 23
+" " Donna, io vorrei dir molto, ma la lingua tremante. 2 T. 0 C. c B. (Marino) 24
+" " Ahi ahi rigide rosc, fermate ohimè le spine insidiose. B.T. e A. 24
+A4 Ch'io non v'ami? lo non v'amo, ch'amar voi non poss'io. Z T.C. e B. 25
+" " S'io miro il mio bel sol, misero sento crescer e farsi incendio. 2 CA. e B. 27
 
 LBC: C'loi T.B.BC.
 

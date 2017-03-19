@@ -1,27 +1,27 @@
 A 5. ln un picciol boschetto (quarta stanza) (Manno) 6
 
-” ” Hor la spinge, hor ritiene (quinta stanza) » 8
-” » Così scioglie col cuore (sesta stanza) " 9
-» » Restò il pastor amante stupido (settima stanza) » 10
-» » Le confuse parole restar (ottava stanza) ” “
-A4. Al fin lc braccia stcnde (nona stanza) ”
+" " Hor la spinge, hor ritiene (quinta stanza) " 8
+" " Così scioglie col cuore (sesta stanza) " 9
+" " Restò il pastor amante stupido (settima stanza) " 10
+" " Le confuse parole restar (ottava stanza) " "
+A4. Al fin lc braccia stcnde (nona stanza) "
 
-A3. L'una e l’altr'alma beve (decima stanza) n 11
+A3. L'una e l'altr'alma beve (decima stanza) n 11
 A 4- Son le labbia infiammate (undccima stanza) n 13
-A 5- Bascia c ribascia e fugge (dodicesima stanza) » 14
-" " Ella vczzosa e lieta hor (tredicesima stanza) » 15
-" ” D'una gioia infinita ebre (quattordicesima stanza) » :?
-» » Ben l’alme si partiro (quindicesima stanza) » ]g
-» » Beata mort'e cara ai cuor (sedicesima stanza) »
+A 5- Bascia c ribascia e fugge (dodicesima stanza) " 14
+" " Ella vczzosa e lieta hor (tredicesima stanza) " 15
+" " D'una gioia infinita ebre (quattordicesima stanza) " :?
+" " Ben l'alme si partiro (quindicesima stanza) " ]g
+" " Beata mort'e cara ai cuor (sedicesima stanza) "
 
-” ” Al matutin vento tremolavan (diciassettesima stanza) » 19
-A6. Va inculta pargoletta a la mia (diciottesima stanza) _ » ZU
+" " Al matutin vento tremolavan (diciassettesima stanza) " 19
+A6. Va inculta pargoletta a la mia (diciottesima stanza) _ " ZU
 A 5. lo vo cercando et non posso trovare quell'unico mio ben. Napolttana 2]
-” ” Qucﬂa passion d'amore quanti n‘atterra con la sua gelosia ZZ
-» » Viver non posso senza il mio bel sole, così mia sorte vole B
-» » Chi cerca navigar per alto mare, dcsia haver tempo 24
-" » Credeva che la fiamma si stufassc, stando lontan da te 25
-" ” Gratia, virtù, bellezza e leggiaſlria son in la donna mia 26
+" " Qucﬂa passion d'amore quanti n'atterra con la sua gelosia ZZ
+" " Viver non posso senza il mio bel sole, così mia sorte vole B
+" " Chi cerca navigar per alto mare, dcsia haver tempo 24
+" " Credeva che la fiamma si stufassc, stando lontan da te 25
+" " Gratia, virtù, bellezza e leggiaſlria son in la donna mia 26
 
 l-Rsc: compl.
 A-Wn: C.T.S.
@@ -39,12 +39,12 @@ Cfr.: DE' CAVALIERI Emilio.
 {Madrigali a cinque voci, novamente composti, et dati in luce. In Venetia presso
 Giacomo Vincenzi, et Ricciardo Amadino, compagni, 1585.
 
-5 fase. in 8° (C.A.T.B.5.), pag. ll. Ded. al Card. Alessandrino: « ...sendomi da lei venuto questo
+5 fase. in 8° (C.A.T.B.5.), pag. ll. Ded. al Card. Alessandrino: " ...sendomi da lei venuto questo
 
-efil'im: favore appresso il molto Reverendo Capitolo di questa Cathedralc... Bologna, 20 XII 1584 »,
-Amor, se vuoi ch’io torni al giogo antico, s‘aprirmi il petto (Tansillo) 1
-SC Stimi sì gran preggìo (seconda parte) » Z
-Seguimi pur nel mondo (terza parte) » 3
+efil'im: favore appresso il molto Reverendo Capitolo di questa Cathedralc... Bologna, 20 XII 1584 ",
+Amor, se vuoi ch'io torni al giogo antico, s'aprirmi il petto (Tansillo) 1
+SC Stimi sì gran preggìo (seconda parte) " Z
+Seguimi pur nel mondo (terza parte) " 3
 
-Ma s'invido del bel (quarta parte) » 4
+Ma s'invido del bel (quarta parte) " 4
 
