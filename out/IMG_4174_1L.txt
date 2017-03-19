@@ -36,16 +36,16 @@ A 4. Perchè taci, cor mio? Palcs'a la tua donn'il tuo dolore 4
 " " Io ardo, io moro 7
 A 5. Crud'Amarilli, che col nome ancora (Guarini) 3
 " " Ma grideran per me (scconda parte) " 9
-" " Parlerà nel mio volto (terza parte) ,, 10
-" " Ecco la cieca, eccola giust'apunto ,, 11
-" " Ascoltatcmi voi (scconda parte) ,, lZ
-" " Ma che sarà di me (terza parte) _ ,, 13
+" " Parlerà nel mio volto (terza parte) " 10
+" " Ecco la cieca, eccola giust'apunto " 11
+" " Ascoltatcmi voi (scconda parte) " lZ
+" " Ma che sarà di me (terza parte) _ " 13
 " " Cieco amor, non ti cred'io (quarta parte) " ì;
 ." " Ma voi giocate troppo (quinta parte) " 16
 " " Ma tu pur perfido e cieco (sesta parte) "
 
-" " In buona fè, Licori (settima parte) ,, 17
-" " Sciolto cor fà piè fugace (ottava parte) ,, 18
+" " In buona fè, Licori (settima parte) " 17
+" " Sciolto cor fà piè fugace (ottava parte) " 18
 " " O fusti svelta, maledetta pianta (nona parte) " g
 " " Una farfalla cupida e vagante. Resposta al sig. Domenico Brunetto " 29
 " " Coralletti vermigli _ _ _ 30

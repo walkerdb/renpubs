@@ -18,7 +18,7 @@ A 1. Hor son pur solo e non è chi m'ascolti (Sannazzaro) 4
 " " Chi vuol haver felice e lieto core non segui'l crudo (Guarini) 8
 " " Misere turbe, il vostro stato è rio 9
 A 2. Le più belle zitelle del contado noi siam (Guarini) 11
-" " Occhi, stelle mortali, ministre dei miei mali ,, 12
+" " Occhi, stelle mortali, ministre dei miei mali " 12
 " " Occhi, ch'a la mia vita donavate ferita (Chiabrera) 13
 " " Cruda Lilla, che fai? Ohimè tanto mirando 14
 " " Intenerite voi, lagrime mie, quel duro core (Rinuccini) 15
@@ -28,10 +28,10 @@ A 2. Le più belle zitelle del contado noi siam (Guarini) 11
 A 3. Non più duol, non più lamenti, non più sospiri ardenti 20
 " " O pensier cari et amati (seconda parte) 21
 " " La violetta, che'n su l'herbetta s'apre (Chiabrera) 22
-" " Sì certamente che dolcemente (seconda parte) ,, ZZ
-" " Vaga rosseggia, vaga biancheggia (terza parte) ,, ZZ
+" " Sì certamente che dolcemente (seconda parte) " ZZ
+" " Vaga rosseggia, vaga biancheggia (terza parte) " ZZ
 " " Ahi che'n breve hora (quarta parte) " 23
-" " Tu, cui bellezza e giovinezza (quinta parte) ,, 23
+" " Tu, cui bellezza e giovinezza (quinta parte) " 23
 " " Deh con quel fiore consiglia (sesta parte) " 23
 A 4. Occhi, fiamme d'amor, lumi vivaci, se pietosi girate 24
 " " Occhi, se v'adirate qual alma (seconda parte) 26

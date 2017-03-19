@@ -51,8 +51,8 @@ A 5. La pastorella mia, che m'inamora 1
 " " Tosto ch'ei sente (seconda parte)
 
 " " Alma gentil, s'un vostro guardo ha forza (Cassola) il
-" " Deh sol che gli occhi miei (seconda parte) ,, 3
-" " Amor, io son sî lieto quando stretto ,, 14
+" " Deh sol che gli occhi miei (seconda parte) " 3
+" " Amor, io son sî lieto quando stretto " 14
 
 -1807-
 

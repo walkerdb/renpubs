@@ -44,7 +44,7 @@ A 5. Se'l dolce sguardo di costei m'ancide (Petrarca) 3
 " " A l'aureo crin della mia dolce Filli
 
 " " O d'invidi'e d'amor figlia sì fiera (Tansillo) 1;
-" " Fiera da te medesma disamata (seconda parte) ,, i;
+" " Fiera da te medesma disamata (seconda parte) " i;
 " " Poscia stretta d'amar, la man mi stringe 14
 " " Morte m'ha morto e sola può far morte (Petrarca) 15
 " " A che mi stratij e fuggi ingrat'amante 16

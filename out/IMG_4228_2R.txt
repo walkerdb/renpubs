@@ -49,7 +49,7 @@ A5. Se'l dolce sguardo di costei m'ancide (Petrarca) 1
 " " Se per me non v'accend'il petto amore 21
 " " Le dolci labra donch'amor destina (seconda parte) 22
 " " Benedetto sia'l giorn'e'l mese e l'anno (Petrarca) 23
-" ", Benedette le voci tante ch'io (seconda parte) ,, 24
+" ", Benedette le voci tante ch'io (seconda parte) " 24
 " " Misero me, deh com'amor m'ha posto in questo novo laccio 25
 " " Lasso son preso e vinto, che debb'io far (seconda parte) 26
 

@@ -41,7 +41,7 @@ A 6. Quel rossignol, che sì soave piagne forse suor figli (Petrarca) n
 " " Un bacio solo a tante pene, ahi cruda, un bacio a tanta fede (Guarini) è:
 " " Mesola, il Po da lato c'l mar a fronte, et intorno le mura (Tasso) 21
 " " H:] ninfe adorn'e belle la casta Margherita (seconda parte) " ZZ
-" " Però boschi, palagi e prati e valli (terza parte) ,,
+" " Però boschi, palagi e prati e valli (terza parte) "
 
 I-MOc: compl.
 l-VEaf: compl.
