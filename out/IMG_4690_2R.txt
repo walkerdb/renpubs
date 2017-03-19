@@ -26,8 +26,8 @@ Nanino G. M. Aventuroso più d'ogni altro colle 20
 " " " Selva. che di concenti, piaceri e gioia 21
 I-Bc: compl.
 l-Bsp: compl.
-B-Br: compi.
-D-Mbs: compi.
+B-Br: compl.
+D-Mbs: compl.
 GB-Lbm: compl.
 GB-Lwa: compl.
 PL-GD: compl.

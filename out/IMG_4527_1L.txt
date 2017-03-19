@@ -1,6 +1,6 @@
 I-Bc: compl.
-I-MOe: compi.
-D-As: compi.
+I-MOe: compl.
+D-As: compl.
 D-Bds: C.S.
 D-Mbs: B.
 Boetticher 769.

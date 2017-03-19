@@ -3,7 +3,7 @@ I-Bc: A.B.5.
 l-Nn: A.
 I-VEaf: B.
 F-Pm: 5.
-RlSM, I 1557-25.
+RISM, I 1557-25.
 
 2488 _ RUFFO Vincenzo (1555) _ Di Vicenzo Ruffo il Terzo Libro di Madrigali
 a cinque voci, con la giunta di cinque Madrigali del medesimo, et di alcuni altri

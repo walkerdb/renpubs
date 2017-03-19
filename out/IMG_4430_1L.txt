@@ -29,7 +29,7 @@ A 6. Suonan le garule aure che rincrespan il Mincio e Leonora echo risponde 18
 " " Dite o felici, o liete piaghe del bel Vincenzo (seconda parte) 19
 A 7. Ditemi vila mia, non sete voi quella che con gran ſede servir soglio. Dialogo 20
 
-l-MOe: compi.
+l-MOe: compl.
 D-As: compl.
 US-BE: A. (mane. di front.).
 

@@ -49,6 +49,6 @@ Angelo Gardano. 1602.
 I-Bc: compl.
 I'le): compl.
 l-Nc: compl.
-B-BC: compi.
+B-BC: compl.
 F-Pc: compl,
 

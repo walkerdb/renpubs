@@ -21,7 +21,7 @@ l-ASS: C.
 
 US-BE: T.
 
-RlSM, [ 1591-21 (non compl.).
+RISM, [ 1591-21 (non compl.).
 
 1666 _ MARENZIO Luca (1595-1) .. Di Luca Marcnzio, il Quinto Libro de
 Madrigali a sei voci. Novamcnte ristampato. In Venetia appresso Angelo Gar-

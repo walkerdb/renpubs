@@ -17,7 +17,7 @@ chiozzotto vice maestro di cappella della serenissima Signoria'di Venetia |n
 S. Marco. Nuovamente ristampate et con diligenza corrette. Libro Primo. C°"
 privilegio. In Venetia, appresso Giacomo Vincenti, 1595.
 
-CH-BU: compi.
+CH-BU: compl.
 D-Kl: compl.
 GB-Lbm: C.
 

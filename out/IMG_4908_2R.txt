@@ -27,7 +27,7 @@ I-Rsc: compl. (prov. Borghese).
 I-Bc: B.
 
 F-CH: 5.
-RlSM. [ 1560-24.
+RISM. [ 1560-24.
 
 2658 - STRIGGIO Alessandro (1560-39) _ Di Alessandro Striggio gentil'huomo
 mantovano servitore dell'illustriss. ct eccellentiss. Cosmo de Medici duca di
@@ -39,7 +39,7 @@ Antonio Gardano. 1560.
 D-Mbs: compl.
 
 l-VEaſ: C.A.B.5.
-RlSM. [ 1560-23.
+RISM. [ 1560-23.
 
 2659 - STRIGGIO Alessandro (1564) _ Di Alessandro Striggio gentìl'liuomo
 mantovano servitore dell'illustriss. et eccellentiss. Cosmo de Medici duca dl Firenze,

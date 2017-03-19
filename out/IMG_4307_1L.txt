@@ -13,7 +13,7 @@ A 5. Mentre la donna mia a l'api il me] dentr'al lor regn'invola 17
 A 8. 0 tu che sei. ZO
 B-Br: compl.
 
-GB-Lbm: compi.
+GB-Lbm: compl.
 
 I-Bc: A.T.B.5.
 

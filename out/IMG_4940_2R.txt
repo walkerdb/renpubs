@@ -1,6 +1,6 @@
 PL-GD: compl.
 l-Bsp: A.T.B.
-RlSM, ] 1586-21.
+RISM, ] 1586-21.
 
 2760 _ TROMBETTI Ascanio (1583) _ Di Ascanio Trombetti musmo dell'illu-
 strissima Signoria di Bologna: il Primo Libro de Madrigali a cinque voci novamentc
@@ -37,7 +37,7 @@ Ben :\ ragion cint'hai le luci, amore, ond'ogni .ua saetta par che scocclli 21
 "'le: A.T.B.5.
 l-MOe: A.T.5.
 
-RlSM. [ 1583-18.
+RISM. [ 1583-18.
 
 2761 _ TROMBETTL Ascanio (1587) _ Musica d'Ascanio Trombetti musico
 dell'illustrissima Signoria di Bologna. Fatta sopra le Conclusioni diiLeggcl, difese

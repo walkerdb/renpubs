@@ -8,7 +8,7 @@ A-Wn: C.6.
 
 B-Br: 6.
 
-RlSM, l 1560-22.
+RISM, l 1560-22.
 
 2673 _ STRlGGIO Alessandro (1561) _ Di Alessandro Striggio gcntil'huomo
 mantovano servitore dell'illustriss. et eccellentiss. Cosmo de Medici duca di Firenze,
@@ -33,7 +33,7 @@ I-Bc: compl.
 US-Wc: compl.
 l-Bsp: C.A.T.B.6.
 D-Rp: A.B.5.
-RlSM, 1 1565-19.
+RISM, 1 1565-19.
 
 2676 - STRlGGIO Alessandro (1566-1) _ Di Alessandro Striggio gcnitl'hlloml';
 mantovano il Primo Libro delli Madrigali a sei voci novamente con nova glon

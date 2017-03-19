@@ -18,7 +18,7 @@ D-LUh: compl.
 I-Bc: A. (solo png. 4-5, 14-13, 28,(1) ).
 l-MOe: B.
 
-RlSM 1, 1547-16.
+RISM 1, 1547-16.
 
 997 - FONGHETTI Paolo (1598) _ Capricii, et Madrigali di Paolo Fonghctti,
 nuovamente composti, ct dati in luce. A due voci. In Verona, appresso Francesco

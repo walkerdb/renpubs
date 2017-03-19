@@ -49,6 +49,6 @@ I-Bc: compl.
 
 l-Bsp: compl.
 I-VEcap: compl.
-["-Pc: compi.
+["-Pc: compl.
 P-Pthibaull: compl.
 

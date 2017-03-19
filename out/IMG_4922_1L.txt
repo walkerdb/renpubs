@@ -21,7 +21,7 @@ l-Mc: compl,
 PL-WRu: 5.1". 5.2", B. per son.-irc. .
 US-Cn: B.
 
-RlSM. l 1647-5 (inesatto e non compl.).
+RISM. l 1647-5 (inesatto e non compl.).
 
 2705 _ TARDITI Orazio (1652) _ Il Tcrzo Libro di Canzonette e Madrigaletti
 a doi e tre voci concertate per cantar nel Gravecimbalo Tiorba et altro istrumcnto

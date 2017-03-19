@@ -37,7 +37,7 @@ I-Bc: B.
 I-Vnm: B.
 
 US-BE: B. (manc. di pag. 1-16).
-RlSM, 1 1571-11 (non compl.).
+RISM, 1 1571-11 (non compl.).
 
 2595 - SCOTTO Girolamo (1541) _ Di Girolamo Scotto il Primo Libro de i
 Madrigali a doi voci, novamcnte stampati. Venetiis apud ipsum authorcm. 1541.
