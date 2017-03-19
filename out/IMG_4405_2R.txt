@@ -2,57 +2,57 @@
 (Guarini) 19
 )) 20
 
-A5. Non piango e non sospiro, 0 mia cara Euridice, che sospirar
-A 6. Troppo ben può questo tiranno amore per far soggctto un core
-» » E così a poco a poco torno, farfalla semplicetta
+A5. Non piango e non sospiro, o mia cara Euridice, che sospirar
+A 6. Troppo ben può questo tiranno amore per far soggetto un core
+» » E. così a poco a poco torno, farfalla semplicetta
 
 l-Bc: comp].
-l-VEcap: comp].
+l-VEcap: compl.
 l-Vnm: C.A.T.B.5.
 GB-lcm: A.T.5.
-l-de: A.D.Bc.
+l-de: A.B.Bc.
 
 1019 — FREDDI Amadio (1605) _ Di Amadio Freddi padovano il Primo Libro
-de Madrigali a sei voci. Nuovamente composti, et dati in luce. In Venetia appresso
+de Madrigali a sei voci. Nuovamente composti, et dati in lucc. ln Venetia appresso
 Ricciardo Amadino. 1605.
 
-6 fasc. in 8° (C.A.T.B.5.6.), pag. Zl,(l).
+6 fase. in 8° (C.A.T.B.5.6.), pag. Zl,(l).
 
-Baci amorosi e cari, deh non mi siatc avari se in così bel dezire ]
+Baci morosi c cari, deh non mi siate avari se in così bel desire ]
 Baci soavì e cari, baci a venir sì avari, o quant’è il gran desire Z
-Care lagrime mie, messi dolenti de mie pene rie (Celiano) 3
+Care lagrime mie, messi dolenti de mie pene rie (Celinno) 3
 Voi che nè a pianto mai, donna crudele 4
-Ahi che gran tempo in vano tentai, mia bella Clori, di farvi noto 5
+Ahi che gran tempo in vano tentai, mia bella Clori, di l'an-i null) 5
 L'alma un sospir mi tolse, un respiro l'accolse (Giustiniani) (’
-Pur venisti, cor mio, e pur ti veggio e non dormo e non zognn 7
-0 come è gran martire il celar suo dcsirc quando con pura fede (Guſiiſini) 3
+Pur venisti, cor mio, e pur ti veggio e non dormo e non sogno 7
+0 come è gran martire il celar suo desirc quando con pura fede (Guarini) 3
 Ahi com'è incerto 9
-E ben veggio hor ch'insidie, inganni e [rodi (acconda parte) …
-PPP-"letto gar-Lone, tu scheni e vaghi e vago ti [ai 11
-VlVO _pur mort'e caccio scoprend'i] mio dolore in loquace silentio 12
-Ah dtsleale, ah cruda, voi negate la fede per non mi dar mercede (Guarini) 13
+E ben veggio hor ch‘insidie, inganni e [rodi (seconda parte) 10
+PPP-"letto gar-Lone, tu schemi e vaghi e vago ti [ai 11
+Vwo _pur mort'e taccio scoprend'il mio dolore in loquace silentio 12
+Ah dlsleale, ah cruda, voi negate la fede per non mi dar mercede (Guarini) 13
 Occhi un tempo mia vita, voi mi negate ahimè l'usata aita “
 Nel liquido cristallo 15
-LUSSO. Ch'io piango e‘n gioc'amor sel prende e la dolce nemica mia 16
+La550. Ch'io piango e‘n gioc'amor sel prende c la dolce nemica mia 16
 . Misero me, che'n duo begl‘occhi veggio (seconda parte) 17
-Sullando perle da begli occhi ardenti, Clori gentil 18
-‘ Ah ing-rato pastor (seconda parte) 19
-La tra'l sangue e le morti cgro giacente mi pagherai le pene (Tasso) 20
+Stillando perle da begli occhi ardenti, Clori gentil 18
+‘ Ah ingrato pastor (seconda parte) 19
+La tra‘l sangue e le morti egro giacente mi pagherai le pene (Tasso) ZO
 Chludesti i lumi Armida, il ciel avaro (seconda parte) " 21
 
-D-l-Is: comp].
+D-Hs: compl.
 F-Pmeyer: C
 A-Wn: B.
 
 1020 — (De) FRED1ANI Frediano (1585) _ Il Secondo Libro delle Villanelle a
-quattro ma, di Frediano de' Frediani cittadino di Luca, servitore del serenissimo
+quattro ma, di Frediano de' Frediani cittadino di Luca, servitore del screnissimo
 Signor duca di Savoia. Al sereniss. sig. Guglielmo Gonzaga, duca di Mantova. ln
 Brescra, a lnstanza di Tomaso Bozzola, 1585. Con licenza de' Superiori.
 
-4 fasc. in 8° (C.A.T.B.), pag. 21,(l). Deel… Brescia, 15 lll 1585.
+4 fase. in 8° (C.A.T.B.), pag. Zl,(l). Deel… Brescia, 15 lll 1585.
 
-gnare stgnor, a voi sen va mio canto. A Guglielmo Gonzaga duca di Mantova 1
-co Venere bella, ecco tuo servo che spinto dal desio. Alla principesaa di Mantova 2
+gnare signor, a voi sen va mio canto. A Guglielmo Gonzaga duca di Mantova 1
+co Venere bella, ecco tuo servo che spinto dal desio. Alla principessa di Mantova 2
 
 _669_
 

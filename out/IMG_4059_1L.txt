@@ -1,4 +1,4 @@
-LI Linkòping, Stifts- och Lanclsbihlioteket
+LI Linkòping, Stifts- och Landsbiblioteket
 
 N Norrkòping, Stadsbibliotek
 
@@ -11,7 +11,7 @@ Uu Uppsala, Universitetsbiblioteket
 
 US: UNITED STATES OF AMERICA
 
-AA Ann Arbor, Mich., \«Villiam L. Clements Library and University of
+AA Ann Arbor, Mich., William L. Clements Library and University of
 Michigan Library
 
 AM Amherst, Mass., Amherst College, Robert Frost Building
@@ -48,7 +48,7 @@ OB Oberlin, Ohio, Oberlin College Conservatory of Music
 
 R Rochester, N.Y., Silbley Music Library, Eastman School of Music
 
-Su Seattle, Wash., University of Washington, Music Library
+Su Seattle, Walsh., University of Washington, Music Library
 
 SFsc San Francisco, Calif., State College Library
 
@@ -62,16 +62,16 @@ Ws Washington, D.C., Folger Shakespeare Library
 
 USSR: SOJUZ SOVETSKIH SOCIALISTICESKIH RESPUBLIK
 
-Lsc Leningrad, Gosudarstvennaja Publicnaja Biblioteka Saltykova-Sèedrina
+Lsc Leningrad, Gosudarstvennaja Publiënaja Biblioteka Saltykova-Sëedrina
 
 YU: YUGOSLAVIA
 
-Lu Ljubljana, Narodna in Universitetna Knijìnica "
+Lu Ljubljana, Narodna in Universitetna Knijänica '
 MAs Maribor, Knjiénica Skoﬁjskega Arhiv
 
 sz Split, Knjiìnica Samostana sv. Frane
 
 Zha Zagreb, Hrvatski Glazbeni Zavod, Zbirka
 
-— xxn — 4——
+— xxn — ...
 

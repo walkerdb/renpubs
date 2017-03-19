@@ -15,12 +15,12 @@ LEm
 LÙh
 Mbs
 Mu
-MÙs
+MUS
 MUu
 MZ
 MZp
 PA
-RP
+Rp
 Rtt
 ROu
 RT
@@ -33,17 +33,17 @@ Augsburg, Staats- und Stadtbibliothek
 Ansbach, Regierungsbibliothek
 Berlin, Deutsche Staatsbibliothek
 Berlin. Bibliothek zum Grauen Kloster
-Berlin, Bibliothek d. Hochschule fùr Musik
+Berlin, Bibliothek d. Hochschule für Musik
 Berlin, Berliner Stadtbibliothek
-Bautzen, Stadt- und Kreisbibliothek .
-Berleburg/W. Fiirstl. Sayn-Wittgenstein-Berleburgsche Bibllotbek
+Bautzen, Stadt- und Kreisbibliothek _
+Berleburg/W., Fiirstl. Sayn-Wittgenstein-Berleburgsche Bibllotbek
 Burgsteinfurt, Gymnasium Arnoldinum
 Dresden, Sàchsische Landesbibliothek
 Dillingen, Kreis- und Studienbibliothek
-Darmstadt, Hessische Landes- und Hochschulbibliothek
-Eichstàtt, Staatliche Bibliothek
-Eichstatt, Bischòﬂiche Ordinariatsarchiv
-Frankfurt/M., Stadt- und Universitàtsbibliothek
+Darmstadt, Hessische Landes— und Hochschulbibliothek
+Eichstätt, Staatliche Bibliothek
+Eichstätt, Bischôﬂiche Ordinariatsarchiv
+Frankfurt/M., Stadt- und Universitätsbibliothek
 Freiberg, Bibliothek der Oberschule Geschwister Scholl
 Flensburg, Bibliothek des Staatlichen Gymnasium
 Freiburg in Breisgau, Universìtàtsbibliothek
@@ -52,7 +52,7 @@ Hamburg, Staats- und Universitèitsbibliothek
 Halle \ Saale, Universitàtsbibliothek
 Heilbronn, Musiksammlung im Stadtarchiv
 Heidelberg, Musikwissenschaftliches Seminar der Universit'aîts
-Harburg iiber Donauwòrth. Fùrstlich Oettingen—Wallerstein’sche
+Harburg über Donauwòrth. Fürstlich Oettingen—Wallerstein’sche
 Bibliothek, Schloss Harburg
 Hannover, Nieders'aìchsische Landesbibliothek
 Jena, Universitàtsbibliothek
@@ -60,11 +60,11 @@ Kassel, Murharsche Bibliothek d. Stadt Kassel und Landesbibliothek
 K'òln, Universit'ats- und Stadtbibliothek
 Lùneburg, Ratsbùcherei und Stadtarchiv
 Leipzig, Musikbibliothek
-Lùbeck, Bibliothek der Hansestadt
-Miìnchen, Bayerische Staatsbibliothek
-Miìnchen, Universitèitsbibliothek
-Miìnster, Santini-Bibliothek
-Miinster, Universit'atsbibliothek
+Lübeck, Bibliothek der Hansestadt
+München, Bayerische Staatsbibliothek
+München, Universitätsbibliothek
+Münster, Santini-Bibliothek
+Münster, Universitätsbibliothek
 Mainz, Stadtbibliothek
 Mainz, Bibliothek des Bisch'òﬂichen Priesterseminars
 Paderborn, Erzbisch'òﬂiche Akademische Bibliothek
@@ -74,7 +74,7 @@ Rostock, Universitàtsbibliothek
 Rastatt, Bibliothek des Friedrich-Wilhelm-Gymnasiums
 Tiìbìngen, Universitàîtsbibliothek
 Ulm, Von Schermar’sche Familienstiftung
-Wolfenbiîttel, Herzog-August-Bibliothek
+Wolfenbüttel, Herzog-August—Bibliothek
 
 —xv1-— -
 

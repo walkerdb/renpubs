@@ -6,18 +6,18 @@ A 3. Tu parti a pena giunto, fugitivo crudel (Guarini) 16
 
 » » Tu quella sei pur (scconda parte) » 19
 
-» » Ma se le mie Speranze oggi (terza parte) » 20
+» » Ma se le mie speranze oggi (terza parte) » 20
 
 » » E s’altri non m’inganna (quarta parte) » 21
 
->> >> O lungamente sospirato invano (quinta parte) » ÌSZ,
+>> >> O lungamente sospirato invano (quinta parte) » 3,32
 ))
 
-A 6. Le più belle zitelle del contado. Maschcrata
+A 6. Le più belle zitelle del contado. Mascherata
 
 I—Bc: compl.
 I-Fn: compl.
-I-VEaf : comp].
+I-VEaf : compl.
 GB-me: C.A.
 
 335 — BERNARDI Stefano (1621) _ Di Steﬀano Bernardi, maestro di capella nel
@@ -25,7 +25,7 @@ duomo di Verona il Primo Libro de’ Madrigali a tre voci, novamente'ristarnpau,
 et corretti, con l’aggiunta del Basso continuo. Opera Terza. Con pr1v1legio. In
 Venetia, appresso Alessandro Vincenti. 1621.
 
-4 fasc. in 8° (C., C.Z.°, B., Be.), pag. 2.1,(1). Ded. di Alessandro Vincenti a P. D. Tom. Vallabio,
+4 fasc. in 8° (C., C.2°, B., Be.), pag. 21,(l). Ded. di Alessandro Vincenti a P. D. Tom. Vallabio,
 Venetia, 22 IX 1621.
 
 Felice chi vi mira, ma più felice chi per voi sospira
@@ -35,11 +35,11 @@ Pur venisti, cor mio, e pur t’ho qui prcsentc 2
 
 ))
 
-Ohimè, se tanto amate di scntir dir ohimè » 3
+Ohimè, se tanto amate di sentir dir ohimè » 3
 Mirtillo partiti . . 4
-Ah dolente partita, ah ﬁn della mia vita, da te parto (Guam… 5
+Ah dolente partita, ah ﬁn della mia vita, da te parto (Guanm) 5
 Come in vago giardin rosa gentile 6
-Ma s’all’hor non si coglie (scconda parte) 7
+Ma s’all’hor non si coglie (seconda parte) 7
 Così la verginella mentre cura (terza parte) 8
 Quell’augellin, che canta sì dolcemente (Guarini) 9
 Io dislcale? Ah cruda, voi negate la fede » …
@@ -48,13 +48,13 @@ Lasso, perchè mi fuggi, s’hai della morte mia ” 12-
 Tu parti a pena giunto, fugitivo crudel ” 13
 Udite, lagrimosi spirti d’Averno, udite nova sortc ” 14
 O Primavera, gioventù dell’anno, bella madre de’ ﬁori ” 15
-Tu quella sei pur (scconda parte) ” 16
+Tu quella sei pur (seconda parte) ” 16
 Ma se le mie Speranze oggi (terza parte) ” 17
 E s’altri non m’inganna (quarta parte) ” 18
 O lungamente sospirato invano (quinta parte) ” 19
 Quell’hore ohimè ZO
 
-1”VF-cap: comp].
+1”VF-cap: compl.
 A—Vn: comp].
-I-Bc: C.Z°, B,, Bc.
+I-Bc: C.2°, B,, Bc.
 

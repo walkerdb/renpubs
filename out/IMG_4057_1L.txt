@@ -12,7 +12,7 @@ R Rouen, Bibliothèque Municipale
 
 Ssc Strasbourg, Bibliothèque du Grand Séminaire
 Sim Strasbourg, Institut de Musicologie de l’Université
-TLc Toulouse, Bibliothèque du Conservatoire
+TLC Toulouse, Bibliothèque du Conservatoire
 TLm Toulouse, Bibliothèque Municipale
 
 TO Tours, Bibliothèque Municipale
@@ -61,7 +61,7 @@ Y York, Minster Library
 
 H: MAGYAROSZAG
 
-Bn Buclapest, Orszzîgos Széchényi Kònyvtaîr
+Bn Budapest, Orszâgos Széchényi Kônyvtâr
 
 SY Szombathely, Egyhazmegyei Kò'nyvtér
 1: ITALIA
@@ -73,5 +73,5 @@ Af Assisi. Archivio di S. Francesco
 AN Ancona, Biblioteca Comunale
 
 ANd Ancona, Archivio del Duomo -
-— xvnr -— …ſi
+— xvnr -— _
 

@@ -8,7 +8,7 @@ Rli
 Rn
 Rsc
 Rsmt
-Rv
+RV
 Rvat
 REas
 REm
@@ -50,7 +50,7 @@ Pistoia, Archivio Capitolare della Cattedrale
 Roma, Biblioteca Angelica
 Roma, Archivio di Stato
 Roma, Biblioteca Casanatense
-Roma, Collezione Boris Christoﬀ
+Roma, Collezione Boris Christoff
 Roma, Archivio Doria—Pamphily
 Roma. Collezione Giazotto
 Roma, Biblioteca Corsiniana

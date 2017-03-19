@@ -1,14 +1,14 @@
-Non sia più meco quel ch’io odo (sesta Stanza) 29
-O dolce sonno, più di vera vita (scttima Stanza) 30
+Non sia più meco quel ch’io odo (sesta stanza) 29
+O dolce sonno, più di vera vita (settima stanza) 30
 Qual sonno hebb’io giamai lieto (ottava stanza) ;}
 
-I-Vc: comp].
-I-Rsc: comp].
-A-Wn: comp].
+I-Vc: compl.
+I-Rsc: compl.
+A-Wn: compl.
 D-Mbs: compl.
-F-Pc: comp].
+F-Pc: compl.
 F-Pthibault: compl.
-GB-me: comp].
+GB-me: compl.
 PL-GD: comp].
 l-Bc: C.T.B.5.
 I-Rc: C.B.5.
@@ -20,45 +20,45 @@ US-BE: C.
 F-TLm: A.
 l-MOc: B.
 
-772 _ De MONTE Filippo (1586) _ Dì Filippo De Monte maestro di capclla
+772 _ De MONTE Filippo (1586) _ Di Filippo De Monte maestro di capclla
 della sacra cesarea maesta de l'imperatore Rodolfo Secondo. L’Undecimo Libro
 delli Madrigali a cinque voci, novamente posti in luce. In Venetia appresso Angelo
 Gardano 1586.
 
-5 fasc. in 8° obl. (C.A.T.B.5.), pag. Z9,(l). Ded. al Conte Mario Bevilacqua: «...la lontananza
-giunta alla debolezza della età mia... ho havuto grandissimo gusto in compor qucsti Madrigali
-in quello piu vivace et allegro stilc. che a me sia stato lecito di poter ritrovare, accio che
+5 fasc. in 8° obl. (C.A.T.B.5.), pag. Z9,(l). Ded. al Conte Mario Bevilacqua: «..la lontananza
+giunta alla debolezza della età mia... ho havuto grandissimo gusto in compor questi Madrigali
+in quello piu vivace et allegro stìlc. che a me sia stato lecito di poter ritrovare, accio che
 porghino altrui materia d’esser allegramente cantati... Praga, 15 XI 1586 »
 
 Perﬁdissimo volto, ben l‘usata bellezz'in voi si vide (Guarini) ]
 In un bel bosco di leggiadre fronde, ch‘ombra si fà (Tasso) Z
 
-0 dolce laccio, o vaghe reti, o bosco (seconda parte) » 3
+O dolce laccio, o vaghe reti, o bosco (seconda parte) » 3
 Tirsi morir volea gl’occhi mirando di colei ch’adora (Guarini) 4
-Donna, se ben le chiom’ho già ripiene d’algente neve (Tasso) 6
-Splende la fredda luna e sì raggira a gl’inﬁammati rai (Guarini) 7
-Tutto eri foco, amore, quand’arsi prim’in quel soavc » 3
+Donna, se ben le chiom’ho già ripiene d’algente neve (Tasso) 5
+Splende la fredda luna e si raggira a gl’inﬁammati rai (Guarini) 7
+Tutto eri foco, amore, quand’arsi prim’in quel soave » 3
 Ove a diporto eletto in bel drappello giovani amanti 9
 Langu’al vostro languir l'anima mia e dico (Guarini) 10
-Al tuo vago pallore la rosa il pregio cede (T asso) "
+Al tuo vago pallore la rosa il pregio cede (Tasso) "
 Non più guerra, pietatc. Pictate, occhi miei belli (Guarini) 12
 Ardo sì. ma non t’amo, perﬁda e dispietata » 13
 
-Ardi e gela a tua voglia, perﬁdo et impudico (seconda parte) (T 8550) :;
+Ardi e gela a tua voglia, perﬁdo et impudico (seconda parte) (Tasso) ;;
 
 Nè ardor. nè gelo mai potrà (terza parte)
 
-A che tanto dolersi, a che bagnar le rose del bel viso 16
-Verde laur’è’l mio core, che vive di Speranza 17
-Qui dove un verde lauro e vago stende i rami al cicl ::
-E al ﬁn credendo pur d’amore (seconda parte) . _
-Con che soavità, labbia adorate, e vi bacio e v'ascolto (Guarlm) il:
-Oh come è gran martire l’esser in foco c nol poter scoprire » ZZ
-Anima dolorosa, che vivendo tanto peni e tormenti . . B
+A che tanto dolcrsi, a che bagnar le rose del bel viso 16
+Verde laur’è‘l mio core, che vive di speranza 17
+Qui dove un verde lauro e vago stende i rami al cicl :;
+E al ﬁn credendo pur d’amore (seconda parte) _ _
+Con che soavità, labbia odorate, e vi bacio e v'ascolto (Guarini) il:
+Oh come è gran martire l’esser in foco e nol poter scoprire » ZZ
+Anima dolorosa, che vivendo tanto peni e tormenti _ . B
 Che dura legge hai nel tuo rcgn’amore (Guarini) 24
-Odi, Filli, che tuona, odi che'n gielo il vapor di là su (Tìsso) 25
+Odi, Filli, che tuona, odi che'n gielo il vapor di là su (fisso) 25
 
-Ben folle et a sc stesso empio è (seconda parte)
+Ben folle et a sc stesso empio è (scconda parte)
 
-_504_
+_5o4_
 

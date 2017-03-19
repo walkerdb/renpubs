@@ -4,10 +4,10 @@ B-Bc: C.
 
 D-Rp: B.
 
-RlSM, 1 1597-21 (non comp]. ed erroneo).
-Brown 1597-14 (non comp]. ed erroneo).
+RISM, 1 1597-21 (non compl. ed erroneo).
+Brown 1597-14 (non compl. ed erroneo).
 
-2836 _ VECCHI Orazio - CAPILUPI Geminiano (1597) _ Canzonettc a tre voci
+2836 _ VECCHI Orazio - CAPILUPI Geminiano (1597) _ Canzoncttc a tre voci
 di Horatio Vecchi, et di Gemignano Capi Lupi da Modena. Novamente poste in
 luce. Noribergae excudcbat Paulus Kaufmann. 1597.
 
@@ -17,7 +17,7 @@ A—Wn: compl.
 
 D-W: comp].
 
-D-Hs: comp].
+D-Hs: compl.
 
 D-Bs: C.
 
@@ -29,10 +29,10 @@ RISM, I 1597-22 (non compl. ed erroneo).
 dreyen Stimmen Horatii Vecchi unnd Gemignani Capi Lupi, zuvor mit Italiani-
 schen Texten jetzo aber zu besserm gebrauch denen welche Italianisch nicht
 verstehen mit Teutschen Texten belegt und inn Truck gcgeben durch Valentin
-Haussmann Gerbipol. Gedruckt zu Niirnberg durch Paulum Kauﬀmann 1606-
+Haussmann Gerbipol. chruckt zu Nürnbcrg durch Paulum Kauﬀmann 1606-
 
-3 ſasc. in 8° (C.T.B.), c. 20. 1ndice = 1597. Ded. (li Valentin Haussmann Gerbipol a Hanns und
-Georg Losen Gebriidern Burgern zu Niirmberg, Gcrbstert, 24 V… 1606.
+3 ſasc. in 8° (C.T.B.), c. 20. indice = 1597. Ded. (li Valentin Haussmann Gcrbipol a Hanns und
+Georg Losen Gcbrüdcrn Burgcrn zu Nürmbcrg, Gcrbstert, 24 VIII 1606.
 
 D-Hs: comp].
 
@@ -40,32 +40,32 @@ D-W: compi.
 
 D-Uschc: compl.
 
-F-Pc: C.B.
+F—Pc: C.B.
 
 D-DS: C.
 
 D-Bs: T.
 
-RISM, ] 1606-3 (non campi.).
+RISM, ] 1606-3 (non compl.).
 
-zszs _ VECCHI Orfeo (1602) _ La donna vestita di. sole, coronata di-hÎcucié
-calcante la luna, in 21. Madrigali cantata da Orfeo Vecchi. In Milano, per
+2838 _ VECCHI Orfeo (1602) _ La donna vestita di. sole, coronata dll-(ﬁgé
+calcantc la luna, in 21. Madrigali cantata da Orfeo Vecchi. In Milano, per
 
-di Simon Tini, et Gio. Franccsco Bcsozzi 1602.
+di Simon Tini, et Gio. Francesco Besozzi 1602.
 
-5 ſasc. in 8° (C.A.T.B.5.), c. 21. Dec]. 3 Hippolita Borromea, Sanseveri
-Belgioioso elc. padrona mia osservandissima: ((...oﬂerta di devoto ::
-vecchio servitore dell'illustriss. sig, Co. Albeſigo Barbiano cosorte suo. Ella che...
+5 fasc. in 8° (C.A.T.B.5.), c. 21. Dec]. 3 Hippolita Borromea, Sanseveri
+Belgioioso elc. padrona mia osservandissima: ((...offcrta di devoto a
+vecchio servitore dell'illustriss. sig, Co. Alberigo Barbiano cosorte suo. Ella che...
 
-na, Barbiana, 00an È'
-lle molte suc Vlſſù- :
-dolccmcl'lle °°
+na, Barbiana, Confessa :'
+lle molte suc Vlſſù- ;
+dolccmcl‘lle °°
 
-degno ﬁglio, e ﬁglia honorale canzoni risuona... Dì casa, il primo di Fcbraro, 1602”- 1
-Più bella donna. Prima Stella, Bellezza 2
+degno ﬁglio, c ﬁglia honorale canzoni risuona... Dì casa, il primo di Fcbraro, 1602”- I
+Più bella donna. Prima Stella, Bellezza Z
 Più saggia donna. Seconda Stella, Sapienza 3
 
-Più magnanima donna. Terza Stella, Forlezzſi
+Più magnanima donna. Terza Stella, Fortezza
 
 —]766—-
 

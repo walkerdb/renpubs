@@ -4,7 +4,7 @@ l-ST: C.
 US-BE: T.
 F—Pc: 5.
 
-1615 _ MARENZIO Luca (1595) — Di Luca Marenzio il Terzo Libro de
+1615 _ MARENZIO Luca (1595) _ Di Luca Marenzio il Terzo Libro de
 Madrigali a cinque voci, novamente ristampati. In Venetia appresso Angelo
 Gardano. 1595.
 
@@ -24,14 +24,14 @@ F-Pc: compl.
 F-Phanson: compl.
 GB-me: C.A.T.5.
 
-1-Fd: C.A.B.5.
+l-Fd: C.A.B.S.
 
 l-Sac: C.
 
 D-Rp: C. (prov. Haberl).
 US-BU: A.
 
-l-Sd: T.
+I-Sd: T.
 
 1-VEaf : 5.
 
@@ -39,27 +39,27 @@ NL-DHg'm: A.
 
 Un esempl. compl. era nella Collezione Heyer di Kòln.
 
-1616 — MARENZIO Luca (1584) _ Di Luca Marenzio il Quarto Libro dC
+1616 _ MARENZIO Luca (1584) _ Di Luca Marenzio il Quarto Libro dc
 Madrigali a cinque voci novamente composti, et dati in luce. In Venetia appresso
 Giacomo Vincenci, et Ricciardo Amadino, compagni. 1584.
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 21. Ded. a Girolamo Ruis, Venetia, 5 V 1584.
 
-Giunto a la tomba, ove al suo spirto vivo dolorosa prigion ('l'asso) 1
-Non di morte sci tu (scconda parte) »
+Giunto a la tomba, ove al suo spirto vivo dolorosa prigion (Tasso) 1
+Non di morte sei tu (seconda parte) »
 Dagli lor tu che se mai gli occhi gira (terza parte) » 3
 Ed amando morrò felice giorno (quarta parte) » 4
 Mentre il ciel è sereno s'odon ne' campi i grilli 5
-Disdegno c gelosia, vostri custodi (Tasso) 6
-Tal che lasso d’intorno alle guardate (sccondn parte) » 7
-Scendi dal Paradiso, Venere, e teco guida (Tnnsillo) 3
+Disdegno e gelosia, vostri custodi (Tasso) 6
+Tal che lasso d’intorno alle guardate (seconda parte) » 7
+Scendi dal Paradiso, Venere, e teco guida (Tnnsillo) 8
 Corran di puro latte del Po supcrbo l'onde e smiraldi e rubin 9
-Filli, l’acerbo caso ond'il lucido 50] de giorni tuoi 10
-Tu, morendo innocente da crude] ferro (Seconda parte) 11
+Filli, l’acerbo caso ond'il lucido sol de giorni tuoi 10
+Tu, morendo innocente da crude] ferro (Seconda parte) ll
 Real natura, angelico intelletto, Venere e Giove (G.B. Zuccarini) 12
 Come due masse d’or fondersi in una (seconda parte) » 13
-Spirto, a cui giova gli anni a buona ﬁne 14
+Spino, a cui giova gli anni a buona ﬁne 14
 Ecco l'aurora con l'aurata fronte, ch’a passo a passo ci rimena 15
 
-Quando vostra beltà, vostro valore, donna, con gl’occh’c col pensicr (Ariosto) 16
+Quando vostra beltà, vostro valore, donna, con gl’occh’c col pensier (Ariosto) 16
 

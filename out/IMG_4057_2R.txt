@@ -27,7 +27,7 @@ BRE Bressanone, Seminario Maggiore
 
 CAR Castell’Arquato, Archivio del Duomo
 
-CMc Casale Monferrato, Biblioteca Civica
+CMC Casale Monferrato, Biblioteca Civica
 
 CO Como, Archivio del Duomo
 
@@ -89,7 +89,7 @@ MC Montecassino, Biblioteca dell’Abbazia
 
 MOe Modena, Biblioteca Estense
 
-MOs Modena, Archivio di Stato
+MOS Modena, Archivio di Stato
 
 MAC Macerata, Biblioteca Comunale
 

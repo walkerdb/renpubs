@@ -1,17 +1,17 @@
 L‘incendio del mio petto 17
 
-Tirsi morir volea, mirando gl'occhi di colei cli'adora (Guarini) 18
-Partisti, ahi lasso, amore e quest’anima insiem'c quezla vita 20
-Sospir nato di foco, vattene alla mia donna e dilli come di lei 21
-Alba cruda, alba ria, che‘] mio bel sole di braccio nti disciogli ZZ
-Non è qucsta la mano. che tante e sì mortali avventò (Tasso) ZZ
+Tirsi morir volea, mirando gl'occlti di colei cli'adora (Guarini) 18
+Partisti, ahi lasso, amore e quest’anima insiem'c questa vita ZÛ
+Sospir nato di foco, vattene alla mia donna e dilli come di lei Zl
+Alba cruda, alba ria, che‘] mio bel sole di braccio mi disciogli ZZ
+Non è questa la mano. che tante e sì mortali avventò (Tasso) B
 l-Fn: compl.
 
 D-Kl: comp].
 
 PL-GD: compl.
 
-I-MOe: A.
+I-MOc: A.
 
 I-Bc: B.
 
@@ -20,40 +20,40 @@ D-HR: B.
 Un esempl. compl. esisteva nella Collezione Heyer di Kòln.
 
 1559 _ MANARA Francesco (1555) _ Di Francesco Manara il Primo Libro di
-Madrigali a quattro voci, novamente da lui composto, revisto, et corretto, et da
-Antonio Gardano con somma diligentia Stampato, et dato in luce. Libro Primo.
-ln Venetia appresso di Antonio Gardano. 1555.
+Madrigali a quattro voci, novamentc da lui composto, revisto, ct corretto, et da
+Antonio Gardano con somma diligentia stampato, et dato in luce. Libro Primo.
+In Venetia appresso di Antonio Gardano. 1555.
 
-4 ſasc. in 8° obl. (C.A.T.B.), pag. Z9,(l). Ded. a Donno Alpltonso da Esle Prencipe di Ferrara.
+4 fasc. in 8° obl. (C.A.T.B.), pag. Z9,(l). Ded. a Donno Alphonso da Este Prencipe di Ferrara.
 
-Amor, che con un dolce e raro ]
+Amor, che con un dolce e raro 1
 Nov‘angeletta sovra l'ale accorta (Petrarca) 2
 Così ogni vostra voglia, donna, bram’adempire 2
-Amor, quando m‘invia a mirar la mia donn'e’l mio dolore 3
+Amor, quando m‘invia a mirar la mia donn’e’l mio dolore 3
 Per ch’al viso d'amor portav‘insegna (Petrarca) 4
 Amor, la vaga luce che move da begl‘occlii di costei (Boccaccio) 4
-Mossc da suoi begl’occlii lo splenclorc (seconda parte) » 5
+Mossc da suoi begl’occlii lo splendore (seconda parte) » 5
 
 O quanti sono, ahi lasso, i miei sospiri che per voi 6
-O duri miei pensieri, o spini lassi, datemi pace 6
+O duri mici pcnsicri, o spini lassi, datemi pace 6
 Per far una leggiadra sua vendetta (Petrarca) 7
-Però turbata nel primicr'assalto (seconda parte) » 8
-Quant’era il meglio, amore, lasciar tranquilla et libera mia vita 8
+Però turbata nel primier'assalto (seconda parte) » 8
+Quant’cra il meglio, amore, lasciar tranquilla et libera mia vita 8
 Un vivo lauro sotto bianco velo vidd’io ch’al bel Tesin 9
 Quand'io movo i sospiri a chiamar voi (Petrarca) 10
-Sento ch'ogn’hor più m’arde e strugg'amore 11
-Hor le tue forz’adopra per ancidermi, amore (Amaltea) 12-
+Sento ch'ogn’hor più m’ardc e strugg'amore ll
+Hor le tue forz’adopra per ancidcrmi, amore (Amaltea) 12-
 Hor vedi amor che giovinetta donna (Petrarca) 13
 Vago mio ﬁor, che di color agguagli i bianchi gigli 14
-Se mai cortese [usti piangi, amor, piangi meco i bei crin d‘oro 14
-Se sei spietat’amore :\ non render’mil cor 15
-ll di che costei nacque eran le Stelle che producon fra voi 16
-ll sol mai più bel giorno non apersc (seconda parte) 16
-S'altra ﬁamma giammai m’arse. madonn'il core che quella che per voi ]7
-Donna gentil’ i bei vostr’ncchi ardenti sì m‘impiagar 18
-Ultimi miei sospir, che mi lasciatc freddo e senza vita (Martelli) 19
-Quando de gl'occhi vostri honcsti c santi il cclcstc splendor ZO
-Fissate dunqu’in me donna (scconda parte) 21
+Se mai cortese fusti piangi, amor, piangi meco i bei crin d‘oro 14
+Se sei spietat’amore a non render’mil cor 15
+ll dì che costei nacque eran le stelle che producon fra voi 16
+ll sol mai più bel giorno non aperse (seconda parte) 16
+S'altm ﬁamma giammai m’arse. madonn'il core che quella che per voi ]7
+Donna gentil’ i bei vostr'ncehi ardenti sì m‘impiagar 18
+Ultimi miei sospir, che mi lasciate freddo e senza vita (Martelli) 19
+Quando de gl'occhi vostri honcsti e santi il celeste splendor ZO
+Fissate dunqu’in me donna (seconda parte) 21
 
 _930_
 

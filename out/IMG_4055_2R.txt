@@ -40,7 +40,7 @@ Wien. Oesterreichische Nationalbibliothek
 
 B: BELGIQUE
 
-Antwerpen, Museum Plantin-Moretus
+Antwerpen, Museum Plantin—Moretus
 
 Bruxelles, Bibliothèque du Conservatoire Royal de Musique
 Bruxelles, Bibliothèque Royale de Belgique
@@ -51,7 +51,7 @@ C: CANADA
 
 Toronto, Ontario, Music Library
 
-CH: CONFEDERATION HELVETIQUE
+CH: CONFÉDÉRATION HELVETIQUE
 
 Basel, Universit'atsbibliothek
 
@@ -72,7 +72,7 @@ CS: CZECHOSLOVAKIA
 
 Kromérîé, Stétni zémek a zahrady
 
-Olomouc, Stétni vèdecké knihovna, Universitni knihovna
+Olomouc, Stétni vëdeckâ knihovna, Universitnî knihovna
 Praha, Nérodni muzeurn
 
 Praha, Universitnî knihovy

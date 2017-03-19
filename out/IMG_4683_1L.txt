@@ -1,10 +1,10 @@
-Udite le mie pene, o lidi, che del mar nl ﬁer orgoglio 17
+Udite le mie pene, o lidi, che del mar al ﬁer orgoglio 17
 
-A mill’a mill'amorc sopra queslo mio core 18
-Horsù, fanciull’alato, che di fabro sei nnto 19
-Come può star, o Dei, che se lu sola sci 20
-infelice pastorc, nat’al pianl’e al dolore ll
-Pietra felice e dura, \‘i s‘nssidc colei, che‘] cor mi [ura U
+A mill’a mill'amore sopra questo mio core 18
+Horsù, faneiull’alato, che di fabro sei nato 19
+Come può star, o Dei, che sc lu sola sci 20
+Infelice pastore, nat’al piant’c al dolore Zl
+Pietra felice e dura, \‘i s‘assidc colei, che‘l cor mi [ura U
 I-Bc: comp].
 
 NL-DHgm: T.E.
@@ -16,44 +16,44 @@ l-FA: T.
 D-MZ: B.
 
 1970 _ MOSCAGLIA Giovanni Battista (1575) _ Il Primo Libro de Madrigali
-a quattro a cinque et a sei voci di Gio. Battista Moscaglia intitolati gl’AmorOSi
+a quattro a cinque et a sei voci di Gio. Battista Moscaglia intitolati gl'AmorOSi
 Gigli, con dua Dialoghi a 8. Nuovamente composti et dati in luce. Libro Primo.
-in Venetia appresso li ﬁgliuoli di Antonio Gardano. 1575.
+ln Venctia appresso li ﬁgliuoli di Antonio Gardano. 1575.
 
-5 (abc. in 8° ob]. (C.A.T.B.5.), pag. 28,0). Ded. a Ottavio Farncsc, Duca di Parma et Piacenza:
-«..questa mia prima muta de Madrigali... Roma, 10 Ill 1575 ». '
+5 [asc. in 8° ob]. (C.A.T.B.5.), pag. 28,0). Ded. a Ottavio Farnese, Duca di Parma et Piacenza:
+«…questa mia prima muta dc Madrigali... Roma, 10 Ill 1575». '
 
-A 4. Se da l’amare [fondi al tempo novo nascono vaghi er amorosi gigli ]
-» » Se 501 di darmi mort‘è'l tuo desio l
-» » Non mi toglie’l ben mio chi non arde d‘amor come facc’io 3
+A 4. Se da l’amatc [fondi al tempo novo nascono vaghi ct amorosi gigli l
+» » Se sol di darmi mort‘è'l tuo desio l
+» » Non mi toglie'l ben mio chi non arde d‘amor come facc’io 3
 » » Vorrei, dolce ben mio, per adempir tua [era e cruda voglia *
-» » Se quel piacer cl1’io semo, nel tornar a l’angclicn mia vista 5
-» » Tu che secondo l‘alla Roma honora. A Maria de’ Mussimi 6
+» » Se quel piacer ch’io sento, nel tornar a l’angclica mia vista 5
+» » Tu che secondo l‘alla Roma honora. A Maria de’ Massimi 6
 » » A te candidi pomi (seconda parte) 7
 A 5. Quando il soave mio ﬁdo conforto. Canzon 8
-» » In alto et in parole io la ringratio (seconda parte) 9
-» » Rispondo io: non piang‘allro che me Slcsso (terza parte) 10
-» » Ma io che debbo altro che piangcr (quarta parte) “
-» » I’ volea dimandar, rispond'io allhora (quinta parte) il
+» » In atto et in parole io la ringratio (seconda parte) 9
+» » Rispondo io: non piang‘allro che me stesso (terza parte) 10
+» » Ma io che debbo altro che pianger (quarta parte) “
+» » I’ volca dimandar, rispond'io allhora (quinta pane) ll
 » » Son questi i capci biondi (sesta parte) lli
 » » I' piango et ella il volto (settima parte) 14
 » » Quando fu mai quel dì felice tanto 16
-» » Ahi lass’cl mio desir (scconda parte)
+» » Ahi lass’cl mio desir (seconda parte)
 
-» » Vira della mia vita, egli è pur vero (B. Tasso) 17
-» » Ohimè dov’è’l mio ben, dov'è'l mio core (scconda parte) ” 18
-» » Solingo augello che piangendo vai la tua perduta dolce (BembO) 13
-» » Privo in [uno son io (scconda parte) » ZO
+» » Vila della mia vita, egli è pur vero (B. Tasso) 17
+» » Ohimè dov’è’l mio ben, dov'è'l mio core (seconda parte) ” 18
+» » Solingo augello che piangendo vai la tua perduta dolce (chbO) I:
+» » Privo in luuo son io (seconda parte) » ÊO
 » » Bianca, bella, gentil, leggiadra mano ll
-» » A pingerri, o scolpìr, seria ogn’un vano (seconda pane) ZZ
-» » Se nel tornar tanto piacer prendesle _ 22
-A 6. Cantan fra i rami gli augellclti vaghi, azurri e bianchi (Anosto) 24
-» » Quando ﬁa mai quel di che i sette colli 25
+» » A pingerti, o scolpir, seria ogn‘un vano (seconda pane) ZZ
+» » Sc nel tornar tanto piacer prcndesle _ 22
+A 6. Cantan fra i rami gli augelletti vaghi, azurri e bianchi (Ariosto) 24
+» » Quando ﬁa mai quel dì che i sette colli 25
 » » O fortunato e lieto per me giorno (seconda parte) 26
-» » Dogliom’ogn’hor, che dolcr non mi posso' 27
+» » Dogliom’ogn’hor, che dolcr non mi posso. 27
 A 8. Che debbo far, che mi consigli, amore. Dialogo (Petrarca)
 
-» » Tanta dolcezza mai semi, nmoroso core. Dialogo di Hippolilo Tartaglmo
+» » Tanta dolcezza mai senti, amoroso core. Dialogo dì Hippo/ilo Tarmglmo
 
 l-VEcap: comp].
 

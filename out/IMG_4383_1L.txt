@@ -1,48 +1,48 @@
-CH-Bu: compl.
+CH-Bu: comp].
 D-As: compl.
 GB-Lwa: compl.
 A-Wn: C.A.B.5.
 GB-me: B.
 D-Kl: 5.
 
-955 _ FERRETT] Giovanni (1571) _ Di Giovan Ferretti il Quarto Libro delle
-Napolitane a cinque voci. Nuovamente posto in luce. in Vinegia, appresso Giroamo
+955 _ FERRETTI Giovanni (1571) _ Di Giovan Ferretti il Quarto Libro delle
+Napolitane a cinque voci. Nuovamente posto in luce. In Vinegia, appresso Giroamo
 
 Scotto, 1571 .
 
-5 fasc. in 8° (C.A.T.B.5.), pag. 24. Bed. a Cristoſoro Poggi: « Si come ai persuasionc di V.S. Per
-la molla autorità, che semprc ha hauto sopra di me in comandarmi, mi destai, et diedi principio
-:\ far la Musica il cinque voci delle vilanclle alla Napolitana, così ancora conﬁdatomi assai nel
-bel giuditio di V.S. per le lodi, che cantandole insieme, l'è piaciuto dare ad alcune... Venetia,
-1° V" 1571 ».
+5 fasc. in 8° (C.A.T.B.5.), pag. 24. Bed. a Cristoforo Poggi: « Si come 31 persuasione di V.S. Per
+la molla autorità, che sempre ha hauto sopra di me in comandarmi, mi deslai, et diedi principio
+:\ far la Musica in cinque voci delle vilanelle alla Napolitana, cosi ancora conﬁdalomi assai nel
+bel giudilio di V.S. per le lodi, che cantandole insieme, l'è piaciuto dare ad alcune... Venetia,
+1° V11 1571 ».
 
-Quella che gl'occhi suoi guerra mi [anno quando la notte 3
-Me bisogna servir questa crudele, che ﬁng’amarm'e poi dolor 4
-Parmi di star la nott'in paradiso mentre ch'in sonno 5
-Hicrsera andai da la mia manza bella, solo solello 6
-Tempo saria, patrona mia gentile, hormai che non mi ſessi più 7
-Pregovi, donna, non l’habbiat'a sdegno, che per voi port‘adolort'il core 3
-Tanto t'adoro, o donna, che mille \‘olt'il (lì rinasc’e moro 9
+Quella che gl'occhi suoi guerra mi fanno quando la nolle 3
+Me bisogna servir questa crudele, che ﬁng‘amarm'c poi dolor 4
+Parmi di star la nott‘in paradiso mentre ch'in sonno 5
+Hiersera andai da la mia manza bella. solo solello 6
+Tempo saria, patrona mia gentile, hormai che non mi fessi più 7
+Pregovi, donna, non l’habbiat‘a sdegno, che per voi porl‘adolort‘il core 8
+Tanto t'adoro, o donna, che mille \‘olt'il dì rinasc‘e moro 9
 Mai vide donna tanto saporita, nè lo più dolce viso gratioso 10
-lo v’am'e laccio, o dolce vita mia, e’] mio gran foc'ogn’hor cresce "
+Io v’am'e laccio, o dolce vita mia, c‘l mio gran foc'ogn’hor cresce "
 Sta cianciosclla mi vol far morire e che morend'amando mi discaccia ll
-Olà, olà, chi mi sa dar novella d’una crudel e bella 13
-0 501, o luna, o giornc che fat‘a noi ritorno con gl’anni “
-lo son ferito c ſugg'ogni conforto. Amor, costei m'ha morto 5
-Corret'amanti, a veder qucsta ﬁamma che vol brusciar il cor 16
-Chi scrvirà più amore, se poi molli sozpiri ti paga 50] ]7
+Olà, olà, chi mi sa dar novella d‘una crudel e bella B
+O sol, o [una, o giorno che fat‘a noi ritorno con gl’anni “
+lo son ferito c ſugg'ogni conforto. Amor, costei m‘ha morto 15
+Corret'amanti, a veder questa ﬁamma che vol brusciar il cor 16
+Chi servirà più amore, se poi molli scspiri ti paga sol ]7
 Poi ch‘eri così forte scropulosa non ti dovevi presto maritare 18
-Non trovo pace, nè tregua, nè guerra. Sto sempr'in terr’e "ol'in aria 19
-Pensai più d'ogni amant’esser contento e mai amore mi facessc guerra 20
-Io non posso lasciarti, anima mia. Facciami guerr‘il ciclo 21
-Se ſosse ahimè de marmoro sto core. a tanto tempo che nel foco ZZ
-Son stato cacciator cinqu’ann'c un mesc, hor 501 Z?
+Non trovo pace. nè tregua, nè guerra. Sto sempr‘in terr’e vol'in aria 19
+Pensai più d'ogni amant’esser contento e mai amore mi facesse guerra 20
+Io non posso lasciarti, anima mia. Facciami guerr‘il cielo Z|
+Se ſosse ahimè de marmoro slo core. :\ tanto tempo che nel foco 22
+Son stato cacciator cinqu’ann‘c un mese, hor sol ZZ:
 
-Ohimè meschino che 50 innamorato. Ch’a na vicin’haggio
+Ohimè mesehino che so innamorato. Ch’a na vicin’haggio
 
 CH-Zz: C.
 
-956 _ FERRI-ITT] Giovanni (1573) _ Di Giovan Ferretti il Quarto Libro ]del];
+956 _ FERRETTI Giovanni (1573) _ Di Giovan Ferretti il Quarto Libro ldell;
 Napolitane a cinque voci. Nuovamente ristampate. In Vinegra, appresso 0er am
 Scotto, 1573.
 
@@ -51,5 +51,5 @@ Scotto, 1573.
 D-Mbs: compl.
 
 l-Bc: C.
-l-Fr: 5.
+I-Fr: 5.
 

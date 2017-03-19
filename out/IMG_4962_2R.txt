@@ -1,10 +1,10 @@
 l-Vgc: T.B.7.8.9.10.
 
-D-MUS: T.7.
+D-MUs: T.7.
 
 F-Pn: C.
 
-l-Bc: 5.
+I-Bc: 5.
 
 l-Fr: 8.
 
@@ -13,49 +13,49 @@ l-Vnm (Canal): 8.
 GB-me: 8.
 
 Sartori 1595c e Il 1595c.
-RlSM, ] 1595-12 (non compl.).
+RlSM, I 1595-12 (non compl.).
 Brown 1595-9 (non compl.).
 
 2833 _ VECCHI Orazio (1604) _ Le Veglie di Siena overo i varii Humori della
-Musica moderna d'Horacio Vecchi a tre a 4. a 5. et a 6. voci composte e divise
+Musica moderna d'Horatio Vecchi a tre a 4. a 5. et a 6. voci composte e divise
 in due parti piacevole e grave nel piacevole s'havranno gli humori faceti. E nel
 grave se n’havrà. L’humor grave. L’humor allegro. L’humor universale. L'humor
 misto. L’humor licentioso. L'humor dolente. L’humor lusinghiero. L'humor gen-
 tile. L'humor aﬀettuoso. L’humor perfidioso. L’humor sincero. L’humor svegghiato.
 L'humor malenconico. L’humor balzano. Con privilegio. In Venetia appresso
-Angelo Gai-dano. 1604.
+Angelo Gardano. 1604.
 
-6 fasc. in 8° (C.A.T.B.5.6.), pag. 50. Ded. al Prencipe Christiano lV, Re di Dania, di Norvegia,
+6 fase. in 8° (C.A.T.B.5.6.), pag. 50. Ded. al Prencipe Christiano IV, Rc di Dania, di Norvegia,
 de Gotti, et de Vandali.
 
 Prima proposta
-A6. Hor che la veglia & numeros’assai
-A3. Tutte le iurnu, tuttu lu tiempu. lmitationc dello Siciliano
-A 6. O che solazzo. Applauso overo chinchiera della Veglia.
-Seconda proposm
+A6. Hor che la veglia è numeros’assai
+A3. Tutte lc iurnu, (uuu lu tiempu. lmitalione dello siciliano
+A 6. O che solazzo. Applauso overo chinehiera della Veglia.
+Seconda proposta
 A6. E voi, signora Laura
-A3. Villanclla son io, ma bella, son da bene_ ma poverella
-A 6. O che sciolta favclla. Applauso
-Terza proposla
+A3. Vìllanella son io, ma bella, son da bene’ ma poverella
+A 6. O che sciolta favella. Applauso
+Terza proposta
 A6. Non ha’l miglior di voi
-A 3. Mi star pone compagne. lmimtione del tedesco
+A 3. Mi star pone compagne. [mil-nione del tedesco
 A6. Faciamgli tutti honore. Applauso
 Quarta proposta
-A6. Voi, Signor Sodo, uno spagnuol ﬁngelc
-A 4. Nos semos amorcs y vamos buscandos. lmitatione del Spagnuolo
+A6. Voi, signor Sodo, uno spagnuol ﬁngelc
+A 4. Nos semos amores y vamos buscandos. Imitatione del spagnuolo
 A 6. Sta mUy lindo ta galano. Applauso
 Quinta proposta
 A 6. Signora Emilia
 A 3. Plu tost que ie le dighe la cause de ma morte
 A6. Bon pour ma foy. Applauso
 Scsta proposta
-A 6. Levatevi su in pié, Signor Giocoso .
-A3. Proverbio è fatt’antigo ni ni ni. lmilationc del venetlano
+A 6. Levatevi su in pié, signor Giocoso .
+A3. Proverbio è fatt’antigo ni ni ni. lmilalionc del veneuano
 A 6. Eviva Vcncsia per mar e per terra. Applauso
 Chiusa del gioco
-A6. Signora Giulia, dov'alberg'amorc _ .
-A3. Corrit, corrit, messer Aron, che gli Goi. lmitalionc delli hebrel
-A 5. Com’in cielo ha più Splendore. Applauso
+A6. Signora Giulia, dov’alberg'amorc _ _
+A3. Corrit, corrit, messcr Aron, che gli Goi. lmitationc dclh hebrei
+A 5. Com‘in cielo ha più splendore. Applauso
 
 — 1763 —
 

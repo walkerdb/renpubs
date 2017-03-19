@@ -1,16 +1,16 @@
 Sì gioioso mi l'anno i dolor miei, donna, per amar voi ‘ (Cassola) 10
 
-O dolce mio martire, cagion del mio gioire 11
+O dolce mio martire, cagion del mio gioire ll
 Tirsi morir volca mirando gli occhi di colei che adora (Guarini) IZ
 Frenò Tirsi il desio (seconda parte) » 13
-Menue, mia Stella, miri i bei celesti giri (Tasso) 14
-Non mirar, non mirare di quesla bella imago (Fil. Alberti) 15
-Qucsti leggiadri odoroseuì ﬁori (seconda parte) » » 16
-San sì belle le rose che in voi natura pose 17
-Bell'angioletta da le vaghe piume, preslanc al grave pondo (Tasso) 18
-Felice primavera dc bei pensier ﬁoriscc nel mio core ” 19
-Danzan le ninfe honeste e i pastorelli (seconda parle) » ZO
-Qucste fur già ninfe e pastori ”
+Mentre, mia stella, miri i bei celesti giri (Tasso) 14
+Non mirar, non mirare di questa bella imago (Fil. Alberti) 15
+Questi leggiadri odoroseuì ﬁori (seconda parte) » » 16
+Son sì belle le rose che in voi natura pose 17
+Bcll'angioletta da le vaghe piume, prestanc al grave pondo (Tasso) 18
+Felice primavera de bei pensier ﬁorisce nel mio core ” 19
+Danzan le ninfe honeste e i pastorelli (seconda parte) » 20
+Queste fur già ninfe e pastori ”
 l-MOe: compl.
 l-Nc: CA.
 
@@ -23,16 +23,16 @@ D-Kl: compl.
 
 GB-Oeh: compl.
 
-l—de: A.B.5.
+I-de: A.B.5.
 
-l—Fn: T.D.
+l—Fn: T.B.
 
-Un csempl. compl., ma difettoso, era nella Collezione Heyer di Kòln.
+Un csempl. compl., ma difettoso, era nella Collezione Heyer di Koln.
 
 1155 — GESUALDO Carlo (1607) _ Madrigali a cinque voci, Libro Primo. Nova-
 mcnte ristampato. In Venetia, appresso Angelo Cardano, et fratelli. 1607.
 
-5 fa“:- 1" 8° (C.A.T.B.5.), pag. ZO.(l). Ded. = 1594, ma datata: Ferrara, 10 V 1607.
+S fase. 1" 8° (C.A.T.B.5.), pag. 20.(l). Ded. = 1594, ma datata: Ferrara, 10 V 1607.
 
 l-Nc: compl.
 
@@ -43,10 +43,10 @@ I'Vnm (Canal): C,B,
 US—Cn: T.
 
 1156 — GESUALDO Carlo (1616) _ Madrigali del Venosa a cinque voci. Libro
-Prlmo tertia impressione. Stampa del Gardano. In Venetia 1616. Appresso Bartho-
+Primo tertia impressione. Stampa del Gardano. In Venetia 1616. Appresso Bartho-
 lomeo Magni.
 
-5 fasc. in 8° (C.A.T.B.5.), pag. ZO,(1). lndicc = 1594.
+5 fasc. in 8° (C.A.T.B.5.), pag. ZO,(l). lndicc = 1594.
 
 F-Pn (prov. Thibault): compl.
 GB-Ge: compl.

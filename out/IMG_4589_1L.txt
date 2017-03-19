@@ -1,24 +1,24 @@
-A 6. Occhi screni e chiari, al cui divin Splendore IZ
+A 6. Occhi sereni e chiari, al cui divin splendore IZ
 
-» » Deh rinforzate il vostro largo pianto, occhi, non occhi 13
+» » Deh rinforzate il vostro largo pianto, occhi, nnn occhi 13
 » » Cantate, ninfe leggiadrette e belle, i miei novelli ardori 14
-» » Non è questa la mano, che tante e sì mortali avventò (Tasso) 15
-» » Strinsc Amarilli il vago suo Fileno 16
+» » Non è quesla la mano, che tante e sì mortali avventò (Tasso) 15
+» » Strinse Amarilli il vago suo Fileno 16
 » » Mentre sul far del giorno amor per quel contorno 17
-» » L'aura Serena, che tra verdi fronde mormorantlo (Petrarca) 13
-» » Le quali ella spargca sì dolcemente (secontla parte) » 19
+» » L'aura serena, che tra verdi fronde mormorantlo (Petrarca) 13
+» » Le quali ella spargea sì dolcemente (seconda parte) » 19
 A 10. Viene Clori gentil boschetti e prati. Dialogo (Poliziano) 20
 
-I-PESc: C.A.5.6.
+l—PESc: C.A.5.6.
 
 I-Rsc: C.T.B.5.
 
 D-Mbs: T.B.5.6.
 
-I-de: C.A.B.
+l-de: C.A.B.
 
-l-Sd: C.T.B.; Z" escmpl.: T.
-l-Bc: C.B.
+l-Sd: C.T.B.; 2° cscmpl.: T.
+1-Bc: C.B.
 
 l-VTcerasa: C.
 
@@ -26,12 +26,12 @@ Un esempl. non compl. (A.T.B.5.6.) esisteva nella Collezione Heyer di Kòln.
 
 Il N. 1648 è annullato.
 
-1649 — MARENZIO Luca (1584) _ Il Primo Libro de Madrigali a sci VOCÌ-
-Di Luca Marcnzio macstro di capclla dell’illustrissimo ct rcvcrcndissimo Signor
-cardinal d'Estc. Novamentc rìstampato. In Venetia apprcsso Angelo Cedam-
+1649 _ MARENZIO Luca (1584) _ Il Primo Libro dc Madrigali a sei VOCÌ-
+Di Luca Marcnzio maestro di capclla dell’illustrissimo et reverendissimo signor
+cardinal d‘Este. Novamentc ristampato. In Venetia appresso Angelo Cedam-
 1584.
 
-6 ſasc. in 8° (C.A.T.B.5.6.), pag. Zl),(l). Ded. a Don Alfonm d'Este, Duca di Ferrara, Venetia.
+6 fase. in 8° (C.A.T.B.5.6.), pag. 20,(l). Ded. :\ Don Alfonso d‘Este, Duca di Ferrara, Venetia.
 10 IV 1581. lndicc = 1581.
 
 l-Bc: compl.
@@ -47,16 +47,16 @@ GB-Lcm: compl.
 GB-Ob: compl.
 Pl.-GD: compl.
 D-Dl: C.A.T.5.6. (prov. Heyer).
-I-Rsc: C.A.B.5.6. (2° esempl.: C.A.B.5.).
-l—Sd: C.A.B.5.6.
+l-Rsc: C.A.B.5.6. (2° cscmpl.: C.A.B.5.).
+1—Sd: C.A.B.5.6.
 D-Rp: C.A.T.5.
 GB-me: C.A.B.5.
 E-T'Z: C.A.B.
-US-Lau: 13.5.
+US-Lau: B.5.
 E—Zac: A.6.
-I-ASs: C.
+l-ASs: C.
 
-P-A: 5.
+F-A: 5.
 
-US RE: 5.
+US BE: 5.
 

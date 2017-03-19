@@ -1,41 +1,41 @@
 F-Psg: T.B.5.
 NL-At: 5.
-MSM, [ 1610-16 (non compl.).
+RISM, l 1610-16 (non compl.).
 
-1672 .— MARENZlo Luca (1595) _ Di Luca Marenzio, il Sesto Libro de
-Madrigali :\ sci voci. Novamente composto ct dato in luce. In Venetia appresso
+1672 .— MARENZIO Luca (1595) _ Di Luca Marenzio, il Sesto Libro dc
+Madrigali :\ sci voci. Novamente composto ct (lato in luce. In Venetia appresso
 
 Angelo Gardano. 1595.
 
-6 ſasc. in 8° (C.A.T.B.5.6.), pag. Zl,(l). 1)e.d alla Duchexsa di Ferrata, Roma, 30 111 1595.
+6 fasc. in 8° (C.A.T.B.5.6.), pag. Zl,(l). l)c.tl alla Duchcxsa (li Ferrata, Roma, 30 [Il 1595.
 
-Lucida perla, cui fu conca il cielo (Guarini) ]
-Oda'l ciel (Seconda parte) »
+Lucida perla, cui fu conca il ciclo (Guarini) l
+Oda'l ciel (seconda parte) »
 
 Giovane donna sott'un verde lauro. Canzone (Petrarca) 3
-All'hor saranno i miei penzier (seconda parte) »
+All'hor saranno i miei pensier (seconda parte) »
 Ma perchè vola il tempo (terza parte) » 5
-Non fur già mai vcduti sì begli (quarta parte) » 6
-[' temo di cangiar pria volto (quinta parle) » 7
-Dentro pur foco e fuor candida (sesla parte) » 8
-L’auro e i topaci al 50] (settima parte) » 9
+Non fur già mai veduti sì begli (quarta parte) » 6
+l' temo di cangiar pria volto (quinta parle) » 7
+Dentro pur foco e fuor candida (sesta parte) » 8
+L’auro e i topaci al 50] (scttima parte) » 9
 
-Se quel dolor che \“a innanzi al morire, e tal. Capitolo (Tansillo) 10
-Quando si more il corpo (>e—conda parte) »
-Dunque da voi convien (terza parte) » lZ
-Dammi pietosa morte a tempo (quarta parte) » 13
-O fortuna volubil e leggiera (quinta parte) » 14
-Ma qucsl‘oliimè tem‘io (zcstn parle) » 15
-Allr'aurora bisogna (scttima parte) » 16
-Un tempo io mi credea (ottava parle) » 17
-Occhi de mici desiri (nona parte) » 18
-Una pur chiederò che mi si debbe (decima parte) » 19
+Se quel dolor che va innanzi al morire, E tal. Capitolo (Tansillo) 10
+Quando si more il corpo (u.—conda parte) »
+Dunque da voi com-iun (terza parte) » 12
+Dammi pietosa morte a tempo (quarta part-:) » 13
+O fortuna volubil e lcggicra (quinta parte) » 14
+Ma qucsl‘oliimè tcm‘io (sesta parte) » 15
+Allr'aurora bisogna (settima parte) >> 16
+Un tempo io mi credea (ottava parte) » 17
+Occhi de mici dcsiri (nona parte) » 18
+Una pur chiederò che mi si debbe (dt-cima parte) » ]9
 
-Là dove dono i pargolelti amori ‘Tasso) ZU
+L?! dove sono i pargoleui amori ’Tnssn) ZU
 
-O verdi belve, o (lolci fonti, o rivi “ Z]
+O verdi selve, o (lolci fonti, \) rivi “ 2]
 
-1—Rsc: compl.
+“ke: compl.
 l-VEaf: compl.
 l-VBcap: compl.
 D-As: compl.
@@ -50,5 +50,5 @@ E-TZ: C.A.B.
 A—Wn: A.B.5.
 l-Bc: A.T.
 US—Lau: BS.
-1-Rc: B.
+l-Rc: B.
 
