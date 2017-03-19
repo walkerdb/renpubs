@@ -1,4 +1,4 @@
-GB-me: compl.
+GB-Lbm: compl.
 GB-Lcm: compl.
 GB-Lwa: compl.
 GB-Och: compl.
@@ -39,7 +39,7 @@ Quando l‘alba novella adorna’l crin di rose. Di Gcn/mio Mele-urne-
 All’ombra degl’allori viddi mesta scdcr. Del Principe di Venom
 Come vivi, cor mio, hormai che lu sci privo. Del Principe di Venom
 
-l-Bc: compl.
+I-Bc: compl.
 
 I-Fd: compl.
 
@@ -50,7 +50,7 @@ C-Tu: compl.
 D-Rp: compl. (prov. Haberl).
 F-Pc: compl.
 
-GB-me: compl.
+GB-Lbm: compl.
 
 GB-T: compl.
 

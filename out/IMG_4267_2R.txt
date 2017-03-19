@@ -4,13 +4,13 @@ Amor, fa quanto vuoi con l‘arc’e i dardi ruoi 29
 lo me ne volo a voi con l‘alma c‘l core 30
 S'ogn’hor lieto vi cant ’o canzonette, così voi lie-l’ancora 31
 Canzon va al mio bel sol. Dì che non tardi scoprirm'i dolci rai 32
-l-Bc: C.T.
+I-Bc: C.T.
 
 F-Pc: 5.
 
 Un escmpl. comp]. esisteva nella Collezione Heyer (li Kòln.
 
-609 — CONVERSI Girolamo (1575) _ ll Primo Libro delle Canzoni a cinque voci
+609 - CONVERSI Girolamo (1575) _ ll Primo Libro delle Canzoni a cinque voci
 di Girolamo Conversì da Correggio. Nuovamnete ristampate. ln Vinegia. Appresso
 l'heredc di Girolamo Scotto 1575.
 
@@ -19,10 +19,10 @@ l'heredc di Girolamo Scotto 1575.
 D-Mbs: compl.
 
 F-Pc: compl. (2° scmpl.: B.).
-(35—me: C.A.T.5. (2° scmpl.: T.).
+(35-me: C.A.T.5. (2° scmpl.: T.).
 US-BE: A.
 
-l—Be: 5.
+l-Be: 5.
 
 610 _ CONVERSI Girolamo (1578) _ Il Primo Libro delle Canzoni a cinque voci
 d'i Girolamo Conversi da Correggio, novamente ristampato. In Vinegia. Appresso
@@ -38,22 +38,22 @@ lheredc di Girolamo Scotto. 1580.
 
 5 fasc. in so (C.A.T.B.5.), pag. 32. Indice = 1573.
 
-l-BC- comp]. (2° esempl.: CA.).
+I-Bc- comp]. (2° esempl.: CA.).
 Ì-FEc: compl.
 
 l-de: comp].
 
-D—As: compl.
+D-As: compl.
 
 D-Kl: compl.
 
-PL—GD: comp]. (2° esempl.: C.A.T.B.).
+PL-GD: comp]. (2° esempl.: C.A.T.B.).
 I-Bsp: A.T.5.
 
 F-Pa: C.T.
-F—Pn: B.
-ſ—MAc: S.
-Î—Fm: 5.
+F-Pn: B.
+ſ-MAc: S.
+Î-Fm: 5.
 US-NYp: 5.
 
 (prov. Archivio Gonzaga).

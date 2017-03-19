@@ -35,9 +35,9 @@ Mio cor, mio bene, a dio. Filen pria s'accingess'a la partita 20
 
 l-VEcap: compl.
 D-Rp: compl.
-GB-me: compl.
+GB-Lbm: compl.
 
-2318 — RATTI Bartolomeo (1599) _ Ardori amorosi Madrigali e Canzonette a
+2318 - RATTI Bartolomeo (1599) _ Ardori amorosi Madrigali e Canzonette a
 tre voci di Bartolomeo Ratti detto il Moro da Padova maestro di capella del
 mag- ſcgimcnto et communità di Gimona novamente composti, et dati in luce.
 In Vencita, aprcsso Ricciardo Amadino. 1599.

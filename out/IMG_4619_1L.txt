@@ -20,7 +20,7 @@ Alma d’amor gioiosa, bar che sospiri per soverchio diletto ZZ
 Caro, dolce ben mio, perchè fuggir chi v’ama e per amar languisca (Ccliano) B
 
 I-MOc: A.T.B.5.
-l-Bc: C.A.
+I-Bc: C.A.
 
 1749 _ MASSAINO Tiburzio (1587) _ Il Terzo Libro de Madrigali a cinque
 voci di Tiburtio Massaino, novamente composto, et dato in luce. In Venetia
@@ -50,5 +50,5 @@ Amico, hai vinto; io ti perdon, perdona tu (seconda parte) » {:
 
 Fuggito, all‘apparir del nuovo sole, l'humido verno e la gelata notte
 
-— 1082 —
+- 1082 -
 

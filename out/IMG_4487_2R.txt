@@ -16,9 +16,9 @@ Pastores qui audierunt gloriam Deo cantarunt ZZ
 Sic prcsens testatur dies currens per anni circulum ZZ
 D-Mbs: compl.
 
-GB-me: C.T.
+GB-Lbm: C.T.
 
-1321 — HOSTE da Reggio (1547) _ L'Hoste da Reggio. Primo Libro dc Madrigali
+1321 - HOSTE da Reggio (1547) _ L'Hoste da Reggio. Primo Libro dc Madrigali
 a quatro voci di l’Hoste da Reggio. Novamente da lui composti ct posti in lucc.
 In Venetia apresso di Antonio Gardanc. 1547.
 
@@ -48,5 +48,5 @@ lo son infin qui stato, madonn’in tutto 19
 Amorose mamclle. degne di più di mille dolci baci 2,0
 lngiustissim’amor. perchè sì raro corrispondenti fai (Ariosto) Zl
 
-— 833.—
+- 833.-
 

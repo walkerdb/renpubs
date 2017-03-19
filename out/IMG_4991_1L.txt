@@ -14,12 +14,12 @@ errori emendato. In Vinegia, 1566. Appresso Girolamo Scotto.
 
 I-MOc: compl.
 
-NL—At: C.T.
+NL-At: C.T.
 
 l-FA: C.D.
 
 l-PS: A (solo png. l-8). T. (solo png. l-Z).
-GB-me: B.
+GB-Lbm: B.
 
 RlSM, ] 1566-24.
 
@@ -56,5 +56,5 @@ Quand’amorpi begli occhi a terr‘inclina (Petrarca) {i
 . ))
 Ma’l sucn che di dolcezza (seconda parte)
 
-— 1818 —
+- 1818 -
 

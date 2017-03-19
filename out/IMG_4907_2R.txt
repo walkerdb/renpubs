@@ -10,7 +10,7 @@ l-Rsc: C.A.B.S.6.
 D-Mbs: 5.7.
 l-V nm : 6.7.
 
-2656 bis — STRIGGIO Alessandro (1560-1) _ Madrigali a cinque voci d'Alessan-
+2656 bis - STRIGGIO Alessandro (1560-1) _ Madrigali a cinque voci d'Alessan-
 dro Striggio gentil’huomo mantovano servitore dell'illustriss. et eccellentiss. Cosmo
 de Medici duca di Firenze, et di Siena. Libro Primo. In Vcnegia, appresso Girolamo
 Scotto. 1560.
@@ -46,5 +46,5 @@ Torbid‘il Mincio corre e piang‘il mondo 25
 Una celeste nube fu'l mio sole (seconda parte) 26
 Chi brama al maggior caldo esser di ghiaccio e notl’c di 27
 
-— 1653 —
+- 1653 -
 

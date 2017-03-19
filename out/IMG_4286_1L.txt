@@ -12,14 +12,14 @@ De la verde età vostra, donna, fu bello’l maggio ma’] settembre
 
 NL-At: T.
 
-661 — CROCE Giovanni (1595) .- Canzonette a quattro voci di Giovanni proce
+661 - CROCE Giovanni (1595) .- Canzonette a quattro voci di Giovanni proce
 chiozzotto vice maestro di cappella della serenissima Signoria'di Venetia |n
 S. Marco. Nuovamente ristampate et con diligenza corrette. Libro Primo. C°"
 privilegio. In Venetia, appresso Giacomo Vincenti, 1595.
 
 CH-BU: compi.
 D-Kl: comp].
-GB-me: C.
+GB-Lbm: C.
 
 662 - CROCE Giovanni (1598) _ Canzonette a quattro voci di Giovanni CIOCC
 chiozzotto vice maestro di cappella della sereniss. Signoria di Venetia in S-oMaſ‘fT
@@ -29,10 +29,10 @@ In Venetia, appresso Giacomo Vincenti 1598.
 4 fase. in 8° (QA-T.E.), pag. Zl.(l). Indice = 1588.
 
 PL.-GD: comp].
-GB-me: C.
-l-Bc: B.
+GB-Lbm: C.
+I-Bc: B.
 
-663 — CROCE Giovanni (1604) _ Canzonette a quattro voci di Giovanni Croce
+663 - CROCE Giovanni (1604) _ Canzonette a quattro voci di Giovanni Croce
 chiozzotto maestro di capella della sereniss. Signoria di Venetia in San Mîlfœ'
 Novamcnte ìn questa quarta impressione, con ogni diligenza corrette. Libro Primo-
 Con privilegio. In Vcnetia, appresso Giacomo Vincenti. 1604.

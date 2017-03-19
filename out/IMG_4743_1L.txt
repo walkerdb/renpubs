@@ -7,17 +7,17 @@ Vol. in 4°, pag. SZ. Ded. a Maria Medici: ((…quella nobile qualità, che tras
 sua. quando si compiacque ascoltarle, et udire il mio canto, sotto la persona d’Orfeo... Firenze.
 6 ll 1600 (= 1601) n. A Lettori. Avvertimento.
 
-l-Bc
+I-Bc
 
 l-Fc
 
 l-Fn
 
-I—Mt
+I-Mt
 
 l-Rc
 
-l—Rvat (Barberini)
+l-Rvat (Barberini)
 I-Rvat (Capponi)
 I-Vnm (Canal)
 B-Br
@@ -26,9 +26,9 @@ D-LEm
 
 E Hd
 
-GB-me
+GB-Lbm
 
-[:S—(în
+[:S-(în
 US-NYpm
 US-Wc (prov. Land:-u).
 
@@ -36,7 +36,7 @@ Un esempl. era nella Collezione Heyer (li Koln.
 
 2180 _ PERI Iacopo (1608) _ Le Musiche di Iacopo Peri nobil fiorentino sopra
 l’Euridice del sig. Ottavio Rinuccini rappresentate nello sponsalizio della christia-
-nissima Maria Medici regina di Francia e di Navarra. In Venetia appresso Ales—
+nissima Maria Medici regina di Francia e di Navarra. In Venetia appresso Ales-
 sandro Raverii. 1608.
 
 Vol, in 4°, pag. 55. Indice = 1600.
@@ -46,7 +46,7 @@ I-Bc
 l-Fc
 I-Rsc
 F-Pc
-GB-me
+GB-Lbm
 
 2181 - PERI Iacopo (1609) _ Le Varie Musiche del signor Iacopo Peri a una
 due, e tre voci con alcune spirituali in ultimo per cantare nel Clavicembalo, €
@@ -60,5 +60,5 @@ Vol. in 4°, pag. 36. Lo Stampatore a Lettori.
 A l. ln qual parte del ciel, in qual idea (Petrarca)
 A Z. Al fonte, al prato, al bosco, a l’ombra, al fresco (Chiabrera)
 
-— 1330 —
+- 1330 -
 

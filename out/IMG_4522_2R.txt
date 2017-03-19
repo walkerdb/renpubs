@@ -26,7 +26,7 @@ I-Bc: compl.
 
 D-As: compl.
 
-GB-me: compl.
+GB-Lbm: compl.
 
 l-VEaf: A.
 
@@ -38,7 +38,7 @@ Boetticher 748.
 
 MSM. I 1559-23 (non compl.).
 
-1436 -— DE LASSUS Roland (1560) _ Di Orlando di Lassus il Secondo Libro di
+1436 -- DE LASSUS Roland (1560) _ Di Orlando di Lassus il Secondo Libro di
 Madrigali a cinque voci, novamcnte con ogni diligentia ristampato e coretto. In
 Vinegia, appresso Girolamo Scoto. 1560.
 
@@ -48,7 +48,7 @@ D-Bds: B.
 Boettjeher 748.
 RISM, I 1560-16.
 
-1437 — DE LASSUS Roland (1562) _ Orlando di Lassus li Madrigali a cinque
+1437 - DE LASSUS Roland (1562) _ Orlando di Lassus li Madrigali a cinque
 V°Ci, Libro Secondo. Nuovamente ristampati et con ogni diligentia coretti. In
 Vinegia, appresso Girolamo Scotto, 1562.
 

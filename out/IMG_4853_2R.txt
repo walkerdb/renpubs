@@ -24,14 +24,14 @@ A5. Ahi ehi t'insidia al boscareccio nido (Celiano) l
 » » Deh perch’cra ne’ fati ch’i’ dovessi amar la morte 17
 ” " Come non cangia stile il mio (lc-stino ingiurioso (Guarini) 18
 " » Amiam, Fillide, amiamo. Ah non rispondi? Quelle voci amorOse » 19
-» » O che felice giorno, o che lieto ritorno (l\—"Sì) Z“
+» » O che felice giorno, o che lieto ritorno (l\-"Sì) Z“
 A7. Deh dimm’amor, se gl’occhi di costei. Dialogo Z]
 \
 
-GB-me: C. (nuovo acquisto).
+GB-Lbm: C. (nuovo acquisto).
 l-Vnm: 5. (prov. Heyer).
 
-24?7 — RUFILO Matteo (1563) _ Di Matteo Rufolo il Primo Libro de’ Madri-
+24?7 - RUFILO Matteo (1563) _ Di Matteo Rufolo il Primo Libro de’ Madri-
 gah a quattro voci. Nuovamente da lui composti et con ogni diligenza dati in luce.
 ln Venetia. Appresso Girolamo Scotto. 1563.
 
@@ -50,5 +50,5 @@ Cercato ho sempre solitaria vita, lc riv’il sann’c le campagn'c (Petrarca) 7
 Berno Iddio, ch’ad ogni piagg'e valli può dar lucc ct discacciar 3
 “ma? m'è dolce et util’è’l mio danno et del mio mal ogni contrario 9
 
-—-1545—
+--1545-
 

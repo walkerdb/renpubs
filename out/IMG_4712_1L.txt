@@ -27,7 +27,7 @@ Madonna mia gentile, prima che pass’aprilc vi voglio far sentir 19
 Occhi vaghi e leggiadri, dolci del mio cor ladri 20
 Per qual cagion havete, donna, del mio morir cotanta sete? 11
 
-GB-me: C.l°, B.
+GB-Lbm: C.l°, B.
 CH-Bu: C.Z°, B.
 D-Kl: C.Z°, B.
 
@@ -54,5 +54,5 @@ Guardate, amanti, che bel nov'inganno ha ritrovato amore 13
 
 Quando fiammeggia l’amorosa Stella, ch’inanzi l'alba appar
 
-—1268—
+-1268-
 

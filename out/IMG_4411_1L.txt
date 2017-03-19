@@ -39,8 +39,8 @@ quc voci. In Venetia apresso li figliuoli di Antonio Gardano. 1572.
 
 D-Mbs: compl.
 GB-Lcm: compl.
-GB—Lwa: compl.
-GB-me: C.A.T.5.
+GB-Lwa: compl.
+GB-Lbm: C.A.T.5.
 I-Vnm (Canal): B.
 
 1037 _ GABRIELI Andrea (1588) _ Di Andrea Gabrieli organista della screnisscìzſLl:
@@ -53,5 +53,5 @@ dan‘o. 1588.
 Molino, a le virtù tante e sì rarc 2
 Felice Antonio, almo ricetto (seconda parte)
 
-_680—
+_680-
 

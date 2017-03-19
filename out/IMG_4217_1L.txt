@@ -13,8 +13,8 @@ A 8. Occhi piangete, Così sempre faciamo. Dialogo (Petrarca) 30
 A 7. Quando nascesti, amore? Quando la terra si riveste. Dialogo (Pamfilo Sassi) 35
 
 D-Mbs: comp].
-GB-me: C.A.B.
-I—Bc: A.
+GB-Lbm: C.A.B.
+I-Bc: A.
 
 I-Nn: A.
 
@@ -25,7 +25,7 @@ I-VEaf: 5. (2. copie).
 CAMBIO Perissone
 Cfr. DONATO Baldassarre - CAMBIO Pcrissonc.
 
-472 — CAMPANA Francesca (162.9) _. Arie a una, due, e tre voci. Pi France“?
+472 - CAMPANA Francesca (162.9) _. Arie a una, due, e tre voci. Pi France“?
 Campana. Opera Prima. Con privilegio. In Roma, appresso Gio. Battista Roblcttl-
 1629. Con licenza de’ Superiori.
 
@@ -50,7 +50,7 @@ A 2 con Bc. Voi luci altere in cui si serra 20
 
 A 3 con Bc. Occhi belli, occhi amati. Madrigale
 
-I—Rvat (Sistina)
+I-Rvat (Sistina)
 F-Pc
 
 _306_

@@ -1,7 +1,7 @@
 RlSM, 1 1571-8
 Brown 1571-4 (erroneo)
 
-991 — FIORINO Gasparo (1573) _ La Nobiltà di Roma versi in lode di cento
+991 - FIORINO Gasparo (1573) _ La Nobiltà di Roma versi in lode di cento
 gentildonnc romane et le Vilanelle a tre voci di Gasparo Fiorino, della città di Ros-
 sano, musico dell'illustrissimo et reverendissimo signore Cardinale di Ferrara.
 lntavolate dal magnifico M. Francesco Parise, musico cccellentissimo in Roma.
@@ -9,7 +9,7 @@ Nuovamente ristampate. In Vinegia, appresso Girolamo Scotto, 1573.
 
 Vol. in 8°, pag. 87,(l). Ded. e lndice = 1571.
 
-l—Fn
+l-Fn
 
 l-Rc
 
@@ -19,7 +19,7 @@ RISM, 1 1573-19.
 
 Brown 1573-4.
 
-992 — FLACCOMlO Giovan Pietro (1611) Il Primo Libro delli Madrigali a tre
+992 - FLACCOMlO Giovan Pietro (1611) Il Primo Libro delli Madrigali a tre
 voci. Di don Gio. Pietro Flaccomio, col Basso continuato per sonare. In Venetia,
 appresso Angelo Gardano, et fratelli. 1611.
 
@@ -51,6 +51,6 @@ Anzl vi vo ben dire che nessun può soffrir (terza parte) 20
 M'alfin pur è contento chi more ed ha scoperto (quarta parte) Zl
 A-Wn: C.l°, C.2°. B.
 E-V: B.
-GB-me: B.
+GB-Lbm: B.
 D-Kl: B.
 

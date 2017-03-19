@@ -34,7 +34,7 @@ B-Br
 
 GB-Och
 
-576 — CIFRA Antonio (1623) _ Scherzi et Aric a una, due, tre et quattro VOF‘
+576 - CIFRA Antonio (1623) _ Scherzi et Aric a una, due, tre et quattro VOF‘
 per cantare nel Clavicembalo, Chitarrone o altro simile istromento. Di AMO…?
 Cifra romano maestro di cappella di S. Giovanni Laterano. Novamente campo-”>":
 et dati in luce. In Roma. Appresso Luca Antonio Soldi. 1623. Con licenza °
@@ -43,7 +43,7 @@ Superiori.
 Vol. in 8“. Pag. 36. Ded. di Luca Antonio Soldi a Stefano Bertazzoli, Roma, ZZ IV 16L3. Indi“
 = 1614.
 
-GB-me (difettoso).
+GB-Lbm (difettoso).
 
 577 _ CIFRA Antonio (1619) _ Libro Scsto di Scherzi d'Antonio Cifra roman?-
 _ Maestro di cappella della Sant.ma Casa di Loreto, a una, due, tre, e quattro "°C"

@@ -45,7 +45,7 @@ US-Cn: C.
 
 GB-Lrosenthal (prov. Cortot): B.
 
-707 —- DELLA GOSTENA Giovanni Battista - MOLINARO Simone (1589) -
+707 -- DELLA GOSTENA Giovanni Battista - MOLINARO Simone (1589) -
 Il Secondo Libro di Canzonette a quattro voci, di Gio. Battista Dalla Gostena
 maestro di capella nel duomo di Genova, con una Sestina di Simone Molinaro
 suo nepote, e discepolo. In Venetia, appresso di Giacomo Vincenti. 1589.

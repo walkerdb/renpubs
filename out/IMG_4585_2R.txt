@@ -16,21 +16,21 @@ I-MOe: comp].
 
 A-Wn: compl.
 
-B—Br: compl.
+B-Br: compl.
 D-As: compl.
 F-Pthibault: compl.
 l-Bsp: C.A.T.5.
-GB-me: C.A.T.5.
+GB-Lbm: C.A.T.5.
 I-ST: C.
 NL-DHgm: A.
-l—Sd: T.
+l-Sd: T.
 
 US-BE: T.
 ElR-Dm: B.
 US-BU: 5.
 US-CA: S.
 
-1630 — MARENZIO Luca (1603) _ Di Luca Marcnzio il Sesto Libro de
+1630 - MARENZIO Luca (1603) _ Di Luca Marcnzio il Sesto Libro de
 Madrigali a cinque voci. Novamente ristampato. Con privilegio. In Venetia.
 Appresso Angelo Gardano. 1603.
 
@@ -46,13 +46,13 @@ F-Phanson: compl.
 
 l-Nc: C.A.B.
 
-GB-me: C.T.B.
+GB-Lbm: C.T.B.
 
 A-Wn: C.T.S.
 
 D-RP: C. (prov. Haberl).
 
-I—Sac: C.
+I-Sac: C.
 
 Un esempi. compl. era nella Collczionc Heyer di Kòln.
 
@@ -64,5 +64,5 @@ Appresso Angelo Gardano. 1604.
 
 U" cSemplare non compl. (solo C.) esisteva nella Biblioteca Borghese di Rom.-|.
 
-— 1015 —
+- 1015 -
 

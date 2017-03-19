@@ -11,7 +11,7 @@ A 1. Chi fuggir amor dcsia, fugga, fugga Clori mia 35
 A Z. Ninfa bellissima il cor mi stempera ed ella asprissima 41
 » » Liete, verdi, fiorite e fresche valli. Madrigale. Di Girolamo Ferrari (Sannazzaro) 42
 » » Voi sussuranti e liquidi cristalli (seconda parte) » 43
-l-Bc
+I-Bc
 
 RlSM, l IGD-12.
 
@@ -47,7 +47,7 @@ Vive stelle, che fiammelle sfavnllando dogm intorno zl
 Mentre amor dentr'al mio petto fu dolcezza, fu diletto
 
 A-Wn: compl.
-l-Bc: C.Z°, B.
+I-Bc: C.Z°, B.
 l-PS: B.
 
 RISM, I 1609-20.

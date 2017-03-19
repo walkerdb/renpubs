@@ -4,7 +4,7 @@ figliuoli di Antonio Gardano. 1570.
 
 4 fasc. in 8° nhl. (C.A.T.B.), pag. 26,(1). lndicc = 156].
 
-1—Vnm: A.
+1-Vnm: A.
 NL-At: T.
 A-Wn: B.
 
@@ -14,13 +14,13 @@ gali a quattro voci, novamente ristampato. In Venetia appresso Angelo Gardano
 
 4 fasc. in 8° obl. (C.A.T.B.), pag. 26,(1). lndicc - 1561.
 
-l-Bc: compl.
+I-Bc: compl.
 
-GB-me: compl.
+GB-Lbm: compl.
 
 NL-At: compl.
 
-PL—GD: compl.
+PL-GD: compl.
 
 B-Br: C.T.B.
 
@@ -60,5 +60,5 @@ A 5. Qual l‘eclissato sol, che quasi privo (quinta parte)
 » » O sonno, o della quct’humid’ombrosa notte placido figlio » ” ” 24
 » » Ov'è'l silcntio, ch’il dì fugg'il lume (seconda parte) » » »
 
-— 1850 —
+- 1850 -
 

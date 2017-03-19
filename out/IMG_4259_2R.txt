@@ -1,4 +1,4 @@
-586 — CLEREAU Pierre (1559) _ Premier Livre de Chansons tank françoises
+586 - CLEREAU Pierre (1559) _ Premier Livre de Chansons tank françoises
 qu'Italienncs nouvellement composées à trois parties par M. Pierre Cler eauizlîxliprc;
 mées en trois volumes. A Paris. De l‘imprimerie d'Adrian le Roy, et Robert alar ,
 imprimeurs du Roy, rue S. Iean de Beauvais, à l’enseigne Sainte Genevneve. 559.
@@ -38,15 +38,15 @@ Premesso gli ho non già '
 Deh dove, senza me, dolce mia vita, rimasa sei (Ariosto) 19
 Ruggier qual sempre fui tal esser voglio ” 19
 
-GB-me : Concordant
+GB-Lbm : Concordant
 Lesure-Thibault 56.
 
-587 — CLEREAU Pierre (1566) _ Premier Livre d’Odes del Ronsard mis en mu-
+587 - CLEREAU Pierre (1566) _ Premier Livre d’Odes del Ronsard mis en mu-
 sique à u-oys parties par Pierre Cler'eau. A Paris. Par Adrian le Roy, et Robert
 Ballard, imprimeurs du Roy. 1566 avec privilege de sa majesté. Pour dix ans.
 
 3 fasc. in 8° °bl- (SUP 1°, Sup. 2° Concordant), c. 20 Indice = 1559.
 
 “"" 51°(manc. di c3, 4. a, 13-20).
-laure—mbar: 116.
+laure-mbar: 116.
 

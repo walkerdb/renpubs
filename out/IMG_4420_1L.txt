@@ -13,7 +13,7 @@ n » Ch’io non l’ami, cor mio, ch'io non sia la tua vita (Guarini) 10
 » » Filli, quel ruscielletto serpendo va col christallino petto 16
 » » Belle ninfe, :il prato, al prato. Non mrdate, ecco l’aurora. Canzonetla 17
 
-GB-me: C.1°, C.Z°.
+GB-Lbm: C.1°, C.Z°.
 A-KR: C.Z°.
 S-Uu: B.
 
@@ -47,9 +47,9 @@ Perdono, o luci amate, se un giorno io vi lasciai
 
 I-Bc
 
-US—Wc
+US-Wc
 
-1061 — GASPARINI Francesco (1697) — Cantate da camera-a voce_sola;i ???;
+1061 - GASPARINI Francesco (1697) - Cantate da camera-a voce_sola;i ???;
 Prima del signor Francesco Gasparini di Lucca Accademico Filarmonico _: IÎuca
 all’illustriss. signora e padrona colendiss. la signora Anna Luisa Buonvtsl-
 

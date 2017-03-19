@@ -2,7 +2,7 @@ D-Kl: compl.
 
 B-Br: comp].
 
-GB-me: comp]. (T. difett.).
+GB-Lbm: comp]. (T. difett.).
 PL-GD: comp].
 
 D-G: C.A.T.B.
@@ -14,13 +14,13 @@ D-ZIs: C.T.B.
 PL-WRu: c. (dilett.), T.D. (diſett.).
 US-NH: A.
 
-US—BU: B.
+US-BU: B.
 
 YU-MAs: 5.
 
 Boetticher 790.
 
-1462 — DE LASSUS Roland (1587) _ Di Orlando Lasso maestro di capclla del
+1462 - DE LASSUS Roland (1587) _ Di Orlando Lasso maestro di capclla del
 sercniss. duca di Bavera (ric), Libro Quinto de Madrigali a cinquc voci. Novamente
 composti, ct dati in luce. In Venetia appresso Angelo Gardano. 1587.
 
@@ -59,5 +59,5 @@ A 5. Soleasi nel mio cor star bella e viva (Petrarca) 25
 » » Nessun visse giamai più di me lieto ), 28
 ” ” 0 fugace dolcezza, o viver lasso, chi mi tolse ,, ;_9
 
-—9II—
+-9II-
 

@@ -21,10 +21,10 @@ A5. Sc faccio il duol s’nvanza, se parlo accresco l‘ira (Tasso) 4
 » » La dura, aspra catena, in cui legommi amore, rolla non fu. Airo sopra il Pass‘e mezo B
 A 10. Quanto più al mio gran duol consento, sì ben non è chi mi conſorte. Eccho 24
 
-GB-me : compl.
+GB-Lbm : compl.
 PL-GD: compl.
 
-2056 — ORLANDI Camillo (1616) _ Arie, a tre, due et voce sola di Camillo
+2056 - ORLANDI Camillo (1616) _ Arie, a tre, due et voce sola di Camillo
 Orlandi veronese musico dell‘illustrissimo, et reverendissimo arcivescovo, et pren-
 Cipe di Salsburg, Opera Seconda. Novamente composta, et data in luce. In Venetia,
 appresso Giacomo Vincenti. 1616.
@@ -53,5 +53,5 @@ A Z. Questi bassi concenti, che da la lingua mia ne miei verd‘anni l
 Dialogo a 3: Amante. Amore et Amico. Parole di Allcssandro Becelli veronese:
 Hor già che‘l ciclo e ch’il contempra e move. Amante ZO
 
-—IZ63—
+-IZ63-
 

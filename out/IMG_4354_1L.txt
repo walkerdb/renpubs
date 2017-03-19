@@ -56,7 +56,7 @@ l-de: compl.
 
 D-Mbs: compl.
 
-l-Bc: C. (manc. di front. e ded.).
+I-Bc: C. (manc. di front. e ded.).
 D-M'Ùs: T. (difett).
 
 _568__

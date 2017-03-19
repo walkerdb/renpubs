@@ -4,7 +4,7 @@ D-As: compl.
 
 F-Pc: compl.
 
-GB-me: comp]. .
+GB-Lbm: comp]. .
 
 GB-Ob: compl.
 
@@ -17,7 +17,7 @@ l-VEat' : C.T.5.6.
 
 I-Rc: GB.
 
-2822 — VECCHI Orazio (1597) _ Convito musicale di Horatio Vecchi da Modo-
+2822 - VECCHI Orazio (1597) _ Convito musicale di Horatio Vecchi da Modo-
 na, a tre, quattro, cinque, sei, sctte, ct otto voci. Novamente composto, et dato
 in luce. Al sercniss. Ferdinando arciduca d'Austria, etc. Con privilegio. In Venetia
 
@@ -59,5 +59,5 @@ A 6. Donna, se voi m’odiate, a che sì dolci poi baci mi date (Rinaldi) 17
 » » Hor ch'ogni vento tace e sol fresc'aura (Zuccari…) 35
 ” » Miri e stupisca il mondo, stupisca il cielo 36
 
-— 1753 —
+- 1753 -
 

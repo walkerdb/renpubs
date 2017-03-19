@@ -33,11 +33,11 @@ Et non so com’in tanto musico (seconda parte) » 18
 Et tal‘hor alternando fugge riposi (terza parte) » 20
 Dal bel Aonio choro Muse propitie al mio cantar humile, liete scendcte 20
 
-PL—GD: compl.
+PL-GD: compl.
 D-KNu: C.B.
 I-Sd: 6.
 
-9_95 — FLORIO Giovanni (1586) _ Di Giovan Florio maestro di capella nel domo
+9_95 - FLORIO Giovanni (1586) _ Di Giovan Florio maestro di capella nel domo
 di Oderzo. Il Quarto Libro de Madrigali a cinque voci, novamente composti, et dati
 m luce. In Venetia appresso Giacomo Vincenzi, et Ricciardo Amadino, com-
 
@@ -56,5 +56,5 @@ _ Mill'alme restan prese del vostr’amor (seconda parte) 4
 Signor. altro non bramo che’] nome vostro al ciel portar cantando 5
 Fatela in cortesia voi mentre ch’io v'honoro (seconda parte) 6
 
-—651 —
+-651 -
 

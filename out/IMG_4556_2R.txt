@@ -11,7 +11,7 @@ Se‘l lauro è sempre verde e per fredda stagion foglia non perde ZZ
 Deh se pur secco forse a tutti com'a me (seconda parte) ZZ
 Quand'io miro me stessa i' son pur bella, ma che mi giova Lì
 l-Fc: compl.
-I—MOc: compl.
+I-MOc: compl.
 I-Bc: C.A.T.5.
 
 1529 _ LUZZASCHI Luzzasco (1595) _ Quinto Libro de' Madrigali a cinque
@@ -43,11 +43,11 @@ Godete, anima bella, poichè fede et amor concordi insieme Z]
 Può ben fortuna far ch'io m'allontnni, ma non già ch'io non v‘ami ZZ
 Non guardar, che se guardi l‘idolo del mio core. ti struggerai 23
 l-MOe: compl.
-GB—me: C.T.
+GB-Lbm: C.T.
 
-1530 — LUZZASCHI Luzzasco (1596) _ Sesto Libro de' Madrigali a cinque voci
+1530 - LUZZASCHI Luzzasco (1596) _ Sesto Libro de' Madrigali a cinque voci
 dl Luzzasco Luzzaschi organista del serenissima signor duca di Ferrara. In Fer-
 rara, appresso Vittorio Baldini, stampator ducale, 1596.
 
-—959 —
+-959 -
 

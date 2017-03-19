@@ -15,7 +15,7 @@ La pianta che lanl'anni coi bei fiori l‘Itali‘anzi l’Europa 27
 Ma ecco’n questa dolce primavera (scconda parte) 23
 Au ioli bois sur la verdure. Canzon francese 29
 
-GB-me: compl.
+GB-Lbm: compl.
 I-Bc: C
 
 2439 _ ROSSETTO (Rossetti) Stefano (1566) _ Musìca nova del Rossetto. A
@@ -52,5 +52,5 @@ Havca l'aurora già de l'oriente fatto fuggir le stelle B
 
 Quando tra’l sonno i’ mi viddi d‘aprcsso (seconda parte)
 
-— 1512 —
+- 1512 -
 

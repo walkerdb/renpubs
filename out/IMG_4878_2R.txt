@@ -32,11 +32,11 @@ A 4. Cortesi ninfe e belle, è qui tra voi fuggito il cor da me partito 1
 » » Illustre Catterina, alm’e gentile, deh non habiale a male se di voi parlo 18
 » » Fra vostre fila d‘oro. bell'e cara angioletta 19
 A 8. In questa eccelsa mole, ove d‘Alcide il gran nome si gode. A Marfisa da Este 20
-l-Bc: B
+I-Bc: B
 
 RISM, I 1593-7.
 
-2574 — SCALETTA Orazio (1585) _ Di Horatio Scaletta da Crema maestro di
+2574 - SCALETTA Orazio (1585) _ Di Horatio Scaletta da Crema maestro di
 apelle della reverenda Canonica della Passione di Milano. Il Primo Libro de
 Madrigali a cinque voci novamente composto et dato in luce. In Vinegia, appresso
 l'herede di Girolamo Scotto, 1585.
@@ -49,5 +49,5 @@ Donna gentil, perche mi date aim 4
 0 caro e dolce nodo, con cui madonn’et io chius‘in un laccio 5
 In età giovenile Horatio Vecchio. A Horatio Vecchi 6
 
-—1595—
+-1595-
 

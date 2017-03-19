@@ -21,7 +21,7 @@ A 8. Mentre m'havesti caro, nè t’er’altri ch’io sol dì e nott’allato. 
 
 D-Mbs: compl.
 I-Bc: C.A.T.B.
-GB-me: T.
+GB-Lbm: T.
 I-VEaf : 5.
 
 2252 _ PORTlNARO Francesco (1557) _ Di Francesco Portinaro macstro della
@@ -50,5 +50,5 @@ primo principe ;
 
 » » Se de le sacre nimphe i vaghi fiori. A Pietro Scroffa principe secondo
 
-—1380—
+-1380-
 

@@ -28,9 +28,9 @@ I-Rsc: A.T.B.
 
 l-MOe: A.B_
 
-l-Bc: T.
+I-Bc: T.
 
-471 — CAMBIO Perissone (1550) _ Di Perissone Cambio il Segondo (sic) Libro de
+471 - CAMBIO Perissone (1550) _ Di Perissone Cambio il Segondo (sic) Libro de
 Madrcgali a cinque voci con tre Dialoghi a otto voci et uno a sette voci novamente
 Ja lui composti et dati in luce, et per Antonio Gardane con ogni diligenzza (:zc)
 Staſnpati. A cinque voci. In Venetia apresso di Antonio Gardane. 1550.
@@ -64,5 +64,5 @@ Amor, da che tu vuoi pur ch'io m'arischi in udir e vedere
 » » In qual parte del ciel, in qual idea era l‘esempio (Petrarca) 20
 ” ” Per divina bellezz‘in darno (seconda parte) ,, 21
 
-—305—
+-305-
 

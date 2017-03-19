@@ -6,7 +6,7 @@ ln Vinegia appresso l'herede di Girolamo Scotto. 1583.
 
 “Le: compl.
 
-l—Fn: cnmpl.
+l-Fn: cnmpl.
 
 l-MOe: compl.
 
@@ -22,7 +22,7 @@ US-SFsc (De Bellis): B.
 
 Un esempl. compl. era nella Collezione Heyer di Kòln.
 
-2669 — STRIGGIO Alessandro (1596) _ Il Terzo Libro de Madrigali a cinque
+2669 - STRIGGIO Alessandro (1596) _ Il Terzo Libro de Madrigali a cinque
 voci del sig. Alessandro Striggio gentil’huomo mantovano, novamente posto in
 luce. Con privilegio. ln Venetia appresso Angelo Cardano. 1596.
 

@@ -6,10 +6,10 @@ Gardano, et fratelli. 1611.
 5 fasc. in 8° (C.A.T.B.5.), pag. 22. Indice = 1600.
 
 l-MOe: compl.
-GB—Och: compl.
-l-Bc: A.T.B.
+GB-Och: compl.
+I-Bc: A.T.B.
 
-2125 — PALLAVIClNO Benedetto (1612) _ Di Benedetto Pallavicino maestro
+2125 - PALLAVIClNO Benedetto (1612) _ Di Benedetto Pallavicino maestro
 di capella del serenissimo signor duca di Mantova il Scsto Libro de Madrigali a
 cinque voci. In Anversa appresso Pietro Phalesio al re David. 1612.
 
@@ -17,7 +17,7 @@ cinque voci. In Anversa appresso Pietro Phalesio al re David. 1612.
 
 GB-Och : compl.
 
-2126 — PALLAVICINO Benedetto (1604) _ Di Benedetto Pallavicino il Settimo
+2126 - PALLAVICINO Benedetto (1604) _ Di Benedetto Pallavicino il Settimo
 Libro de Madrigali a cinque voci novamente posto in luce. In Venetia, appresso
 
 Ricciardo Amadino. 1604.
@@ -47,5 +47,5 @@ Voi mi chiedete il core 16
 Parlo misero, o taccia? (Guarini) 17
 Anime pellegrine, che bramate amando esser amate ” 18
 
-— 1301 —
+- 1301 -
 

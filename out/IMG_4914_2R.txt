@@ -26,13 +26,13 @@ D-Mbs: C.A.T.
 
 l-Vnm: C.A.
 
-GB-me: B.T.
+GB-Lbm: B.T.
 
 l-Vlb: A.
 
 l-MAc: 5,
 
-2681 — STRIGGlO Alessandro (1585) _ Di Alessandro Striggio gcntil‘huomo
+2681 - STRIGGlO Alessandro (1585) _ Di Alessandro Striggio gcntil‘huomo
 mantovano il Primo Libro de Madrigali a sei voci. Novamcnte ristampato. In
 Vincgia appresso l’hercde di Girolamo Scotto. 1585.
 
@@ -57,5 +57,5 @@ ristampato. In Venetia appresso Angelo Gardano. 1592.
 5 fase. in 3° (C.A.T.B.5.6.), pag. 27. lnclice = 1579.
 
 D-As: C.A.T.B.6.
-l-Bc: A.
+I-Bc: A.
 

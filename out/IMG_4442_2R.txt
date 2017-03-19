@@ -14,7 +14,7 @@ Queste fur già ninfe e pastori ”
 l-MOe: compl.
 l-Nc: CA.
 
-1154 — GESUALDO Carlo (1603) _ Madrigali a cinque voci. Libro Primo nova-
+1154 - GESUALDO Carlo (1603) _ Madrigali a cinque voci. Libro Primo nova-
 mente ristampato. In Venetia. Appresso Angelo Gardano. 1603.
 
 Sfax. in 8° (C.A.T.B.5.), pag. 20. Ded. e Indice = 1594.
@@ -25,24 +25,24 @@ GB-Oeh: compl.
 
 I-de: A.B.5.
 
-l—Fn: T.B.
+l-Fn: T.B.
 
 Un csempl. compl., ma difettoso, era nella Collezione Heyer di Koln.
 
-1155 — GESUALDO Carlo (1607) _ Madrigali a cinque voci, Libro Primo. Nova-
+1155 - GESUALDO Carlo (1607) _ Madrigali a cinque voci, Libro Primo. Nova-
 mcnte ristampato. In Venetia, appresso Angelo Cardano, et fratelli. 1607.
 
 S fase. 1" 8° (C.A.T.B.5.), pag. 20.(l). Ded. = 1594, ma datata: Ferrara, 10 V 1607.
 
 l-Nc: compl.
 
-["—Pc: compl.
-GB-me: compl.
+["-Pc: compl.
+GB-Lbm: compl.
 GB-Och: compl.
 I'Vnm (Canal): C,B,
-US—Cn: T.
+US-Cn: T.
 
-1156 — GESUALDO Carlo (1616) _ Madrigali del Venosa a cinque voci. Libro
+1156 - GESUALDO Carlo (1616) _ Madrigali del Venosa a cinque voci. Libro
 Primo tertia impressione. Stampa del Gardano. In Venetia 1616. Appresso Bartho-
 lomeo Magni.
 

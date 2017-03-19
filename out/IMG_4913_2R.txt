@@ -28,25 +28,25 @@ A 6. Rosa eterna, immortal sacro giacinto 21
 » » Er'a tanti minor merli (seconda parte) 22
 » » L‘alma mia fiamma, oltra le belle bella. Di Claudio (Iu Correggio (Petrarca) 2.3
 
-l—VEcap: compl.
+l-VEcap: compl.
 
 D-Mbs: compl,
 
-GB-me: C.A.T.B.5. (2° esempi.: A.T.B.).
+GB-Lbm: C.A.T.B.5. (2° esempi.: A.T.B.).
 Elk-Dm: C.T.B.5.6.
 
 l-MOc: C.A.T.5.
 
 l-Fr: :\.135. (5. manc. di pag. 1-8, 17-24).
-l-Bc: T.5.
+I-Bc: T.5.
 
-GB—Ckc: C.
+GB-Ckc: C.
 
 I-Rsc: A.
 
 RÌSM, 1 1566-19 (inesatto).
 
-2677 — STRIGGIO Alessandro (]566-2) _ Di Alessandro Striggio gentil'lauomo
+2677 - STRIGGIO Alessandro (]566-2) _ Di Alessandro Striggio gentil'lauomo
 mantovano servitore dell‘illustriss. et eccellentiss. Cosmo de Medici duca di Firenze,
 e di Siena. Il Primo Libro de Madrigali a sci voci, novamente con una nova giunta
 ristampato. A sei voci. ln Venetia.
@@ -54,7 +54,7 @@ ristampato. A sei voci. ln Venetia.
 In fine: « In Venetia appresso Francesco Rampazctto. 1566 ».
 
 6 fasc. in 8° ohl. (C.A.T.B.5.6.), pag. 30,(l). I"…“ = 1560‘
-GB-me: eompl. (2° csemp|.: C.)
+GB-Lbm: eompl. (2° csemp|.: C.)
 
 I-Rsc : T.B.5.6.
 S-Uu : C.A.B.5.

@@ -16,7 +16,7 @@ A 8. Chi chi li chi. Cu cu ru cu. U scontienm, u beschina, u sprotunata me 14
 A 6. Giorgia non pote cantar che sta murta passionata tutte negra 15
 A 8. Tutto lo di mi dici: canta, canta. Non vedi ca non posso refiatare 17
 » » Zanni. Piasì patrò. Dov'estu? E so in cantina. Dialogo 19
-» » Olà, o che bon eccho. Pigliamoci piacere. Eccho 7—0
+» » Olà, o che bon eccho. Pigliamoci piacere. Eccho 7-0
 I-VEaf: compl.
 
 S-Uu: compl.
@@ -25,7 +25,7 @@ Boettichu- 783.
 
 Lesure e Thibault 243.
 
-1478 — DE LASSUS Roland (1582) _ Libro dc Villanellc, Moreschc, et altre
+1478 - DE LASSUS Roland (1582) _ Libro dc Villanellc, Moreschc, et altre
 Canzoni, a 4. 5. 6. et 8. voci. (li Orlando di Lasso. ln Anversa per Pietro Phalesio
 et Giovanni Bellero. 1582.
 
@@ -33,11 +33,11 @@ et Giovanni Bellero. 1582.
 
 D-Mbs: compl.
 D-WIL: compl.
-D—RT: C.A.T.
-GB-me: A.
+D-RT: C.A.T.
+GB-Lbm: A.
 Boctticher 784.
 
-1479 — DE LASSUS Roland - DE RORE Ciprien (1570) .. Premier Livre des
+1479 - DE LASSUS Roland - DE RORE Ciprien (1570) .. Premier Livre des
 Chansons a quatre et cinq parties, composécs par Orlando di Lassus, Cyprien de
 Rore, et de nouveau plus correctement que cy Want imprimées et emende'es,
 convenables tant aux instrumcns comme à la vofx. A Lovain. De l'imprimerie de

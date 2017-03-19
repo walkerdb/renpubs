@@ -27,7 +27,7 @@ Dolce mio caro :: pretioso pegno Petrarca) 12
 D-Mhs: comp].
 GB-Oeh: compl.
 PL-GD: comp].
-A—Wn: C.A.B.5.6.
+A-Wn: C.A.B.5.6.
 D KNu: C,B,
 
 IL TURTURINO
@@ -50,7 +50,7 @@ Ahimè chi mi t’ascondc, chi mi ti toglie, () sol della mia vita C 550… 5
 Sì gioioso mi fanno i dolor miei, donna. per amar \'()| _ _ (Ma ine) 6
 Ch’io mora? ohimè ch’io mora? Morrò, ma che fia poi? Piangereteml voi? ( ;! ) 7
 
-' ' ' .— . asso
+' ' ' .- . asso
 
 Vorrci lagnarmi a pieno, sfogando |] duol chio zeno _ ( 9
 Quasi lampo \“enisti, di candor cinto e di bei raggi d‘oro, quast lampo 10
@@ -63,5 +63,5 @@ Lungi dal mio bel sole langue la ment'el core, e se benigno a etto
 . - |
 l)ch come in van chiedete d'udir, bella sirena, ll canto mlo (Guarln)
 
-—l730—
+-l730-
 

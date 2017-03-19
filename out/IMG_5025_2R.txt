@@ -30,10 +30,10 @@ A 6. Sì gioioso mi fanno i dolor miei, donna. per amar voi (Cassola) 3]
 
 GB-Lcm: comp].
 I-Bc: A.
-GB-me: A.
-l—MOe: B. ſramm.
+GB-Lbm: A.
+l-MOe: B. ſramm.
 
-3028 — ZOILO Cesare (1620) _ Madrigali a cinque il Primo aggiuntovi il suo
+3028 - ZOILO Cesare (1620) _ Madrigali a cinque il Primo aggiuntovi il suo
 Basso continuo a beneplacito. All’illustrissimo et cccellentissimo principe Paolo
 Giordano Orsino duca di Bracciano etc. In Venetia, appresso Bartholomeo Magni.
 1620.
@@ -57,5 +57,5 @@ Ma per voi, che sarete (seconda parte) 11
 
 Bramai già di morire
 
-—1885—
+-1885-
 

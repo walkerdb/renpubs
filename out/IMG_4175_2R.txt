@@ -15,7 +15,7 @@ D-F: 0.5.6.
 D-W: T. '
 PL-WRu: 6.
 
-367 — BIFFI Giuseppe (1598) _ Di Gioseffo Biﬃ da Cesena, maestro di capella del-
+367 - BIFFI Giuseppe (1598) _ Di Gioseffo Biﬃ da Cesena, maestro di capella del-
 l’illustrissimo et reverendiss. signor cardinal Andrea Battorio. Madrigali a cinque
 voci, con duoi soprani. In Milano per Agostino Tradate. 1598. Con licenza de’
 Superiori.
@@ -34,7 +34,7 @@ Ne l'api coglion sì dolc’il mel (seconda parte) 9'
 Che P-langi, o sventurato, se giamai pon gli alti preghi lO
 10 qui rimasi solo tra pene, affann’e duolo 11
 0 Primavera, gioventù de l’anno, bella madre de fiori (Guarini) 12
-Emilia mia gentile mentre Cupido miro 1—3
+Emilia mia gentile mentre Cupido miro 1-3
 Perchè non deggio del mio mal gioire e’n dolci note 14
 Dolce mio foco e dolci mie ferite (seconda parte) 15
 N°1 bel fiorito maggio stavan cantando lc ninfe 16
@@ -43,7 +43,7 @@ Altro non è il mio amorche Lidia mia per cui (0355013) 18
 Clntia mia, dolc’e cara più che le perle e’] mele 19
 Questi gigli novelli e queste rose e questi vaghi fiori 20
 se per più non morir, morir desio più son contento 21
-G—me- B. 5
+G-me- B. 5
 F-VE: A.
 
 INum (Canal): T.

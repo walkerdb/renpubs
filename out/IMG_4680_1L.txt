@@ -6,7 +6,7 @@ D-BAUk: C.A.T.B.
 PL-WRu: A.T.B.
 D-Tu: A.T.5.
 
-D—Kl: A.D. (difettosi)
+D-Kl: A.D. (difettosi)
 D-Bds: B. (dilett.)
 CH-ZO: 5.
 
@@ -45,11 +45,11 @@ A 4. Questa ghirlanda di purpurei fiori, Cloride vaga 19
 
 » » Che fai, gentil pastor, fra questi boschi. Dialogo
 
-I—Bc: compl.
+I-Bc: compl.
 I-Vnm (Canal): C.
 RISM, I 1581-9.
 
-1960 — MORO Giacomo (1585) _. Gli Encomii musicali del Moro a quattro et
+1960 - MORO Giacomo (1585) _. Gli Encomii musicali del Moro a quattro et
 a cinque voci, novamente composti, et dati in luce. In Venetia presso Giacomo
 Vincenzi, et Ricciardo Amadino, compagni. 1585.
 

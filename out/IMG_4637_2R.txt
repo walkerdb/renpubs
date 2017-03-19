@@ -37,9 +37,9 @@ ln quel ben nat‘aventurom giorno, ch‘amor agli orchi (Sannazzaro) 26
 Nova bellezza in abito gentile (Petrarca) 27
 Faf POICSS'io vendetta (li colei ” 28
 l-VEaſ: C.A.5.
-l-Bc: T.
+I-Bc: T.
 
-1809_— MEO Ascanio (1601) _ Il Terzo Libro de Madrigali a cinque voci di
+1809_- MEO Ascanio (1601) _ Il Terzo Libro de Madrigali a cinque voci di
 Ascamo Meo. Novamente composto, et (lato in luce. ln Venetia, appresso Giacomo
 
 Vincenti. 1601.
@@ -53,5 +53,5 @@ Che se dal foco mio partir mi provo (seconda parte) 3
 Un mover (lc bcgl‘occhi lucenti, chi'l potrà creder mai? 4
 Se tra perl‘c rubin talhor l‘ho udita (seconda parte) 5
 
-— 1119 —
+- 1119 -
 

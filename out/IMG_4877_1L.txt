@@ -9,13 +9,13 @@ Un'armonica cetra inalza a Thebe, o sacro eroe, le mura. Al cardinal Antonio Bar
 
 I-Bc: compl.
 I-Ls: compl:
-l—Rli: compl.
+l-Rli: compl.
 B-Br: compl.
 D-MOs: compl.
 
 Il N. 2567 è annullato.
 
-2568 — SAVIONI Mario (1672) _ Madrigali, e Concerti a tre voci differenti di
+2568 - SAVIONI Mario (1672) _ Madrigali, e Concerti a tre voci differenti di
 Mario Savioni. Dedicati all'illustrissima et eccellentissima sig. madama Maria Man-
 cini Colonna duchessa di Tagliacozzo etc. e gran contestabilessa del regno di
 Napoli. In Roma, per il successorc al Mascardi. 1672. Con licenza de' Superiori-

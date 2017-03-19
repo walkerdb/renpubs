@@ -26,10 +26,10 @@ Deh quadrata mia, che moi tu, vita mia cara.> [8
 
 Già l’hora è tarda e le minute stelle spariscono
 
-l—Fn: compl.
+l-Fn: compl.
 D-Kl: compl.
-D—Mbs: compl.
-D—HR: B.
+D-Mbs: compl.
+D-HR: B.
 
 459 _ CAIMO Giuseppe (1564) _ ll Primo Libro de Madrigali a. quattro $$$
 Gioseppe Caimo milanese, organista in Santo Ambrogio maggiore ‘Fanch
@@ -37,7 +37,7 @@ Nuovamente da lui fatti, corretti, et dati in luce. ln Milano. ApprcSSO "
 Moscheni. 1564.
 
 4 fase. in 8° obl. (CA.T.B.), pag. Z9,(l). Ded. al Conte Lodovico. Galeraîo: 1564»
-mici, frutti veramente immaturi delli miei mal coltivati orti... Milano, 1 V —
+mici, frutti veramente immaturi delli miei mal coltivati orti... Milano, 1 V -
 
 « questi Madri!ali
 
@@ -56,5 +56,5 @@ A 4. Non vide Febo mai da l‘lndo al Mauro, più nobil coppia S nau-am) Z
 
 » » Se potesse mirar meco il desio che si possente et forte
 
-_36— _
+_36- _
 

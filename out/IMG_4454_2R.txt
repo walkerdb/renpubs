@@ -15,9 +15,9 @@ Su, su, contra costei fa guerr’amore. La tromba io sonerò. Parole del dottor 
 [Maria. Questo Dialogo si propone a tre voci, ci si risponde a una vicennevolmente 23
 
 S-H: C.l°
-l-Bc: B.
+I-Bc: B.
 
-1198 — GIACOBBI Girolamo (1608) _ Dramatodia overo Canti rappresentativi di
+1198 - GIACOBBI Girolamo (1608) _ Dramatodia overo Canti rappresentativi di
 _Glrolamo Giacobbi maestro di capella in S. Petronio di Bologna sopra l’Aurora
 ingannata dell'illustrissimo signor conte Ridolfo Campeggi recitati alle nozze de
 gl’illustmi sig.r marchese Ferdinando Riario, e Laura Pepola, di nuovo composti,
@@ -34,9 +34,9 @@ Personaggi: Aurora, contralto; Venere, sopranoz'Tre Gralie. due soprani e alto; 
 Cefalo, tenore; Adone, contralto; Sonno, hasm; Morfeo. tenore; 'l'itone, tenore; Procri, soprano;
 Choro di cacciatori, alto, Z tenori e basso. (Le qualifiche dei cantanti sono mss.).
 
-l-Bc
+I-Bc
 
-119? — GIACOMINI Bernardo (1563) _ Di Bernardo Giacomini gentilhomo fio-
+119? - GIACOMINI Bernardo (1563) _ Di Bernardo Giacomini gentilhomo fio-
 tentino, ll'Primo Libro di Madrigali a cinque voci, novamente da lui composti et
 per Antonio Gardano posti in luce. A cinque voci. In Venetia appresso di Antonio
 

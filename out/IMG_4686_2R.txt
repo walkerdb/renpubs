@@ -29,9 +29,9 @@ Arda sì, ma non t’amo, perfida e dispietata, indegnamente amata (Guarini) 20
 Ardi e gela a tua voglia, perfido et impudico (seconda parte) » 21
 
 l-MOe: compl.
-GB-me : C.A.T.B.
+GB-Lbm : C.A.T.B.
 
-l_980 — MOSTO Giovanni Battista (1595) _ Di Giovan Battista Mosto maestro
+l_980 - MOSTO Giovanni Battista (1595) _ Di Giovan Battista Mosto maestro
 dl capella del serenissimo prencipe di Transilvania, il Primo Libro dc Madrigali
 a sel voci. Novamente composti et dati in luce. In Venetia appresso Angelo
 
@@ -52,5 +52,5 @@ O sonno, o de la queta humid’ombrosa, notte placido figlio (Della Casa) 7
 _ Ov'è'l silentio che’] di fugge (seconda parte) ” ” 8
 Disse Amarilli un giorno, lieta fissando in me soave il guardo 9
 
-— 1217 —
+- 1217 -
 

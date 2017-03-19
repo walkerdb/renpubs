@@ -3,15 +3,15 @@ Strali, fiamm’e catene, pianti, tormenti e pene 28
 Vanne, vanne, o pensiero, non men grave ch’altiero 29
 Non posso più durare, pietà voglio gridare 30
 
-l-Bc: compl.
+I-Bc: compl.
 
-A—Wn: compl.
+A-Wn: compl.
 
-I—Fn: C.
+I-Fn: C.
 
 D-As: C.
 
-H—Bn: B.
+H-Bn: B.
 
 RISM, 1 1572-10 (non compl.).
 
@@ -46,8 +46,8 @@ Tcndi pur l'arco, amore, racccndi il foco (CaPÌlUPi) 17
 Gia fiammeggiava l’amorosa stella per l'oriente (Petrarca) 19
 _Q_uando mia speme già condotta (seconda parte) ” 20
 Lamma, se non sete vaga del morir, temprate 21
-I—Bc: compl.
-I—Vnm: C.T.B.
+I-Bc: compl.
+I-Vnm: C.T.B.
 D-Mbs: T.E.
 
 RISM, I 1582-9 (crronc0)-

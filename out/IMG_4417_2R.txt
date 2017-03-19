@@ -13,7 +13,7 @@ Luci vezzose, dunque sarete sempre sdegnose 114
 Non ti doler. ben mio, non sospirar mal più 116
 
 Già vincitor del verno con trionfo gentile. Cantata decima (Macedonio) 118
-Non m’acccndc il dio che splende 12—3
+Non m’acccndc il dio che splende 12-3
 Tu mi lusinghi, amore, c poi m‘inganni 123
 
 Era nella stagione all’or ch‘il sol con più lrempralo raggio. Cantata decimaprima 131
@@ -34,16 +34,16 @@ D-MÜ:
 
 D-Dl
 
-GB—Gc
+GB-Gc
 
-GB-me
+GB-Lbm
 
 US-Wc
 
 (Da) GAGLIANO MARCO
 Cfr: MARCO da Gagliano.
 
-1052. — GALENO Giovanni Battista (1594) _ Di M. D. Giovanni Battista Galeno.
+1052. - GALENO Giovanni Battista (1594) _ Di M. D. Giovanni Battista Galeno.
 Il Primo Libro de Madrigali a cinque voci. Nuovamente composti ct dati in luce.
 In Anversa. Appresso Pietro Phalesio et Giovanni Bellcro. 1594.
 
@@ -62,5 +62,5 @@ Alu. cara lagrimetta, che da begl‘ocehi ſuore. di pietà uscisti S
 Elptn baciando la sua cara Alcea, ahimè, dicca, chi mi consum'amore 5
 Ma lei, che sostcncr non lo potea, mandò subito (seconda parte) 6
 
-—693—
+-693-
 

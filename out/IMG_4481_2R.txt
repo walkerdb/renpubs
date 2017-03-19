@@ -8,7 +8,7 @@ Phalesio al rc David. 1612.
 GB-Och: C.A.T.B.
 Sartori Il lGlZf.
 
-1303 — GUAMI Giuseppe (1565) _ Di Gioseffo Guami da Luca, il Primo Libro
+1303 - GUAMI Giuseppe (1565) _ Di Gioseffo Guami da Luca, il Primo Libro
 di Madrigali a cinque voci novamente da lui composti, et per Antonio Gardano
 stampati et dati in lue (_ric). A cinque voci in Venetia appresso di Antonio Gar-
 
@@ -47,7 +47,7 @@ A 8- Aventurosì colli, cui l‘aura di dolcissime parole. Dialogo 28
 l-Fc: compl. (C. mane. di pag. 1-4).
 D-Mbs: compl.
 
-GB-me: C.A.5
+GB-Lbm: C.A.5
 
-l-Bc: T.
+I-Bc: T.
 

@@ -8,7 +8,7 @@ n » Donque in premio d'amore, crudelissima Flora, mi mi dire 32.
 
 GB-Och: compl.
 
-901 — FACIO Anselmo (1589) _ Di Ansclmo di Facio siciliano della città di
+901 - FACIO Anselmo (1589) _ Di Ansclmo di Facio siciliano della città di
 Castro Giovanni. Il Primo Libro de Madrigali a cinque voci. Nuovamente posto in
 luce. In Mcssina, appresso Fausto Bufalini, 1589. Con licentia de' Superiori.
 
@@ -36,13 +36,13 @@ Com’|l due)] non m'uccise quando dagl‘occhi miei mi fu tolta 16
 Perchè son così stolto che seguo chi mi fugge 17
 Tropp‘è foll'il desio che'l cor m'ingombra, Psiche 18
 Non. havrà mai vigore il vostr’ingiusto sdegno 19
-Mon—rò di dolor prima ch’io reggia ne‘ bei voslr’occhi ZO
+Mon-rò di dolor prima ch’io reggia ne‘ bei voslr’occhi ZO
 Lasciate, amanti, homai quel crud‘arcicro e sgombrare dal cuore 21
 
 l-Rsc: A.T.B.5. (2° csempl.: A.B.5.).
-l-Bc: C. (solo front.).
+I-Bc: C. (solo front.).
 
-232 — F.AQlO .Anselmo (1601) _ Di Anselmo Faeio siciliano, della città di Castro
+232 - F.AQlO .Anselmo (1601) _ Di Anselmo Faeio siciliano, della città di Castro
 l lovanni, 11 Primo Libro dc Madrigali a sci voci. Novamente composti, et dati in
 uce. In Venetia, appresso Ricciardo Amadino. 1601.
 
@@ -52,5 +52,5 @@ del m ' ‘
 che tl’ondlo, che nella primavera della sua ﬂorida etadc spira d’infinite virtù suavissimi odori. lo
 a gi altri seco In questo anno commorato sono nella sua patria... questo libro de Madrigali
 
-——591.._
+--591.._
 

@@ -6,7 +6,7 @@ Ahi tu piangi, mia vita, e piango anch’io zo
 Mirami in volto pur (seconda parte) 21
 Ah s'io son tutto foco, come son così fredd’i versi miei ü
 Quanto rident'e bella, più vaga d'ogni stella 23
-I—Nc: compl.
+I-Nc: compl.
 
 RISM, I 1616-14.
 
@@ -41,11 +41,11 @@ Quanto god’il petto che si trova d‘amor
 
 I-Nc: compl.
 F-Pthibault: compl.
-GB-me: compl.
+GB-Lbm: compl.
 1-Bc: C.T.B.
-RISM, I 1620—18.
+RISM, I 1620-18.
 
-1367 — LAGUDIO Paolo (1563) _ Di Paolo Lagudio il Primo Libro di Madrlgîll
+1367 - LAGUDIO Paolo (1563) _ Di Paolo Lagudio il Primo Libro di Madrlgîll
 a cinque voci nuovamente da lui composti, et con ogni diligenza Post] … lucc. n
 Vinegia, appresso Girolamo Scotto. 1563.
 

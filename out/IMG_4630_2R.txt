@@ -35,9 +35,9 @@ Tutta la notte piang'e vcglio in pene, nè spero riposarm‘in sin a l‘alba 30
 Poi che Lucilla mia mi sdegn‘e sprezza a su posta io vo cridare 31
 A'Wn: compl.
 
-l-Bc: TB.
+I-Bc: TB.
 
-1787 — _MEDlCl Giulio (1619) _ Amorosi concenti musicali a tre voci. Con il
+1787 - _MEDlCl Giulio (1619) _ Amorosi concenti musicali a tre voci. Con il
 Basso continuo per il Clavicembalo Libro Primo di Giulio Medici trevigiano.
 Novamente composti et dati in luce. ln Venetia, appresso Giacomo Vincenti. 1619.
 
@@ -49,5 +49,5 @@ lle. amari sospiri, alla bella cagion del morir mio »
 
 Tal‘hor con un sospiro dico a colei, ch'ho nel mio cor scolpita 4
 
-— 1105 —
+- 1105 -
 

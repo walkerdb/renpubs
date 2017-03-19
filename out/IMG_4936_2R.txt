@@ -13,7 +13,7 @@ Ecco l'aurora soave, che le fronde e i fior rinova, al giel caduti e manchi 5
 
 Con _la nuova stagion stempr'il tuo gelo (seconda parte) 6
 Che fai, che non involi (mi dice il cor) quelle due fresche rose 7
-Neve e rose ha nel volto questa pura ange—letta, ov‘io discerno primavera 8
+Neve e rose ha nel volto questa pura ange-letta, ov‘io discerno primavera 8
 Se con dolc'harmonia le rime incontr‘amor mau-mente, Lidia canti sovente 9
 Mia donn’io non so dire ore s‘annidi amore. o nel vostro bel viso, 0 nel mio core IU
 Mentre la donna. anzi la vita mia. misti a le rose i gigli va tessendo ]]
@@ -31,13 +31,13 @@ Tosto ch’io miro nel bel vostro volto, donna gentil, mi sento in mcz'al core 1
 Quell’angelica fronte, ove risplende (seconda parte) 20
 Sc l'aura mentre spira, \‘ie più del foco il fiammeggiar s'aggira, mio bene 21
 
-PL—GD: compl.
+PL-GD: compl.
 A-Wn: T.B.5.
-GB-me: 5.
+GB-Lbm: 5.
 
 Il N. 2749 è annullato.
 
-2750 — TRESTI Flaminio (1590) _ ll Terzo Libro de Madrigali a cinquc voci
+2750 - TRESTI Flaminio (1590) _ ll Terzo Libro de Madrigali a cinquc voci
 di Flaminio Tresti da Lodi, novamente composto, et dato in luce. In Venetia
 appresso Angelo Gardano. 1590.
 
@@ -51,5 +51,5 @@ Donna. Son senza core, perchè dal seno mio, solo per un desio, lo trasse . 3
 Care lagrime mie, messi dolenti di mie pene rie, poi che voi non potete (Celiano) 4
 Sì, mi dicesti, ed in quel dolcissimo sì mandai al core (Guarini) 5
 
-— 1711 —
+- 1711 -
 

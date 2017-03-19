@@ -1,4 +1,4 @@
-1424 _ DE LASSUS Roland (1562—2) _ Orlando di Lassus li Madrigali a cinque
+1424 _ DE LASSUS Roland (1562-2) _ Orlando di Lassus li Madrigali a cinque
 voci, Libro Primo.Nuovamente ristampati et con ogni diligentia coretti. In Vinegia
 appresso Girolamo Scotto, 1562
 
@@ -20,10 +20,10 @@ ln fine: « In Venetia appresso Francesco Rampazetto 1566 ».
 l-Rsc: compl.
 I-VEcap: compl.
 US-NYp: compl.
-D—Bds: A.T.5.
+D-Bds: A.T.5.
 Bocttichcr 755.
 
-1427 _ DE LASSUS Roland (1506—2) _ Di Orlando di Lassus il Primo Libro di
+1427 _ DE LASSUS Roland (1506-2) _ Di Orlando di Lassus il Primo Libro di
 Madrigali a cinque voci, novamente per Antonio Gardano ristampato. A cmque
 voci. In Venetia appresso di Antonio Gardano. 1566. .
 
@@ -35,14 +35,14 @@ l-VCd: C.T.B.5.
 
 D-Bds: C.
 
-B—Br: C.A.5.
+B-Br: C.A.5.
 
 F-Pm: 5.
 
-I—Vc (Torreſranca): A.
+I-Vc (Torreſranca): A.
 Bocttichcr 756.
 
-1428 — DE LASSUS Roland (1567) _ Di Orlando di Lassus il. Primo Libro de
+1428 - DE LASSUS Roland (1567) _ Di Orlando di Lassus il. Primo Libro de
 Madrigali a cinque voci. Novamente stampato e coretto. In Vmegm 1567. Apprcsso
 Girolamo Scotto.
 
@@ -55,5 +55,5 @@ I-Ta: 5.
 
 Boettichcr 757.
 
-—-898—
+--898-
 

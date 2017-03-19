@@ -16,9 +16,9 @@ A Z. O come sci gentile, caro augellino, o quanto è'] mio (Guarini) 42
 » » Ecco la primavera, nuntia dell‘anno amata 45
 A 3. Dispicgalc, guancic amate, quella porpora acerbetta (Cebà) 46
 n » O donna troppo cruda e troppo bella (Guarini) 47
-l—Rsc
+l-Rsc
 
-GB-me
+GB-Lbm
 
 2294 _ QUAGLIATI Paolo (1608) _ Il Primo Libro de' Madrigali a quattro voct
 di Paolo Quagliati organista de S. Maria Maggiore di Roma concertati per cantar
@@ -60,5 +60,5 @@ Ch'io non t’ami, cor mio, ch’io non sua la tua Vita e tu la mia
 . . . . »
 Come cantar poss'io d‘amor, se sdegno ne’ begli occhi ha\ete
 
-_ 1414 —
+_ 1414 -
 

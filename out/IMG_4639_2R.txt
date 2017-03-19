@@ -1,5 +1,5 @@
 D-Mbs: compl.
-GB-me: A.T.5.
+GB-Lbm: A.T.5.
 US-BE: A.
 
 GB-Bb (Harding): A.
@@ -38,11 +38,11 @@ A 7. Liete siam per memoria di quel sole (Petrarca) 21
 F-Pthilmull: compl. (prov. Wolffheim).
 l-Vnm: C.
 
-I—Vc (Torreſranca): A.
+I-Vc (Torreſranca): A.
 
-l—CAR: 5.
+l-CAR: 5.
 
-1817 — MERLO Alessandro (Alessandro Romano) (1577) _ Le Sirene di Ales-
+1817 - MERLO Alessandro (Alessandro Romano) (1577) _ Le Sirene di Ales-
 sandro Romano et Secondo Libro de suoi Madrigali a cinque voci. Nuovamente
 posto in luce. In Vincggia. Appresso l'herede di Girolamo Scotto. 1577.
 5 fase. in 8° (C.A.T.B.5.), pag. BU). Ded. :| Benvenuto Risaliti Luocotenente del Signor Giovanni
@@ -52,5 +52,5 @@ Adriano, e con lui Cipriano, dei quali io sono indegno discepulo... Venetia, 15 
 I° gta cantando la mia libertate, i lacci rotti e le faville (Bargnano) 3
 All‘hor ch’io sent’il cor (scconda parte) » 4
 
-—- 1123 —
+-- 1123 -
 

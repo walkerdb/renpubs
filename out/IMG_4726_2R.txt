@@ -8,7 +8,7 @@ a cinque voci. Novamente ristampato. In Venetia, appresso Angelo Cardano. 1600.
 
 5 fasc. in 8° obl. (C.A.'1'.H.5.), pag. 25. Indice = 1588.
 
-l-Bc: compl.
+I-Bc: compl.
 
 D-As: compl.
 
@@ -20,9 +20,9 @@ l-Rc: T.
 
 NL-D1-1gm: A.
 
-RISM, 1 1600—15 (non compl.)
+RISM, 1 1600-15 (non compl.)
 
-2117 — PALLAVIClNO Benedetto (1607) _ Di Benedetto Pallavicino maestro
+2117 - PALLAVIClNO Benedetto (1607) _ Di Benedetto Pallavicino maestro
 di capella del serenissimo signor duca di Mantova. Il Quarto Libro de Madrigali
 a cinque voci. Novamente ristampato. In Venetia appresso Angelo Gardano et
 
@@ -33,7 +33,7 @@ fratelli. 1607.
 GB-Och: compl.
 RISM, I 1607-22.
 
-2118 — PALLAVICINO Benedetto (1593) _ Di Benedetto Pallavicino il Quinto
+2118 - PALLAVICINO Benedetto (1593) _ Di Benedetto Pallavicino il Quinto
 Libro de’ Madrigali a cinque voci. Nuovamente composti, et dati in luce. In
 Venetia, appresso Giacomo Vincenti. 1593.
 
@@ -51,5 +51,5 @@ A 5. Leva con la sua mano il vel la donna mia 1
 " ” Sc \"ho donato il core e così vuol amore 10
 ” ” DOlcc, grave et acuto. Quest'i tre accenti (Rinaldi) “
 
-—IZ97—
+-IZ97-
 

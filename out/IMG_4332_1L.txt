@@ -13,12 +13,12 @@ B-Br: compl. (6. manc. (li pag. 7-14 e 21-29).
 
 D-As: compl.
 
-F—Pc: C.A.T.B5.
+F-Pc: C.A.T.B5.
 
 I-PS: C.A.T.B. difett. (C. pag. 1-6; A. pag. 1-6, 15-20; T. pag. 1-6; B. pag. 1-6, 15-22; 5. pag. 1-6).
 l-VEaf: T.
 
-GB-me: 5.
+GB-Lbm: 5.
 
 Un esemplare compl. esisteva nella Collezione Heyer di Koln.
 
@@ -59,7 +59,7 @@ A 7. Quanta gioia tu segno e stclla ardente dei saggi rc ” 15
 
 D-Mbs: compl.
 
-GB-me: compl.
+GB-Lbm: compl.
 
 Un esemplare compl. esisteva nella Collezione Heyer di Kòln.
 

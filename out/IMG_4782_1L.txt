@@ -17,7 +17,7 @@ O Musa, tu che di caduchi allori non circondi la fronte in Helicona (Tasso) 20
 Sai che là corre il mondo, ove più versi (seconda parte) » Zl
 
 I-VEal: compl.
-D—As: C.A.T.B.
+D-As: C.A.T.B.
 D-Kl: C.T.B5.
 F-Pmeyer: C.
 
@@ -62,5 +62,5 @@ Udit'amanti, udite meraviglia doleissima d’amore (Guarml) Zl
 Forse vien fuor l'aurora e queste dolci nott’c quest‘accenti
 
 D-Kl : compl.
-GB-me : C.
+GB-Lbm : C.
 

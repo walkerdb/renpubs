@@ -32,11 +32,11 @@ D-ZIs: C.T.B.
 
 B-Gu: A.B.6.
 
-US—NH: A
+US-NH: A
 
 D-DS: T
 
-GB-me T
+GB-Lbm T
 
 EIR-Dm B
 
@@ -46,7 +46,7 @@ US-NH: A.
 
 Bocttichcr 795.
 
-1421 — DE LASSUS Roland (1555) _ Di Orlando di Lassus il Primo-Libro dl
+1421 - DE LASSUS Roland (1555) _ Di Orlando di Lassus il Primo-Libro dl
 Madrigali a cinque voci, novamente dato in luce. Libro Primo. In Venetia apreSSO
 di Antonio Cardano. 1555.
 
@@ -77,5 +77,5 @@ Diviso m’ha dal bel guardo divino (seconda parte)
 Petrarca) la
 Mia benigna fortuna e'l viver lieto (
 
-—896—
+-896-
 

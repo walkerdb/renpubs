@@ -2,7 +2,7 @@ Di rose e fiori il crine ornin pur l’altre donne. S. Catherina da Siena parla 
 
 Il cielo aperto miri, martire glorioso. A S. Stefano Protomartire 20
 O non cura, o non sente questi che l’alma ardend’essala. A S. Lorenzo martire (Marino) Zl
-I—Sc: compl.
+I-Sc: compl.
 
 I-Bc: C.
 
@@ -12,7 +12,7 @@ Appresso Ricciardo Amadino.
 
 3 fasc. in 8° (C., C.Z°, B.), pag. 21,(1). Indice = 1607.
 
-GB—Lrosenthal: C.Z° (prov. Cortot).
+GB-Lrosenthal: C.Z° (prov. Cortot).
 
 13 _ AGAZZARI Agostino (1600) _ Di Agostino Agazzari gentil'huomo sanese.
 Il_ Primo Libro de Madrigali a cinque voci con un Dialogo a sei, et un’Pastorale a
@@ -43,7 +43,7 @@ A 5. Aura, che sola segretaria sei del mio foco gentile, deh quel caldo l
 » » L’aura soave vita di mia vita, che così dolcemente a l’amoroso (Cassola) 16
 » » Se li strali d’amore vinser Apollo e voi schivar vorrete 17
 » » Se voi sete il mio core temprate, .anima mia, cotanto ardore .18
-A6. Dunque" Tirsi, ben mio, se_ da la morte fostì soggìonto. Dialogo — 19
+A6. Dunque" Tirsi, ben mio, se_ da la morte fostì soggìonto. Dialogo - 19
 
 A8. Ecco fra gigli e candide viole-de la spera ardentiSSima delsòle 20
 
@@ -51,6 +51,6 @@ IſiBc: compl.
 
 PL-GD: compl.
 
-GB-me: B. ..
-I-Fm: 5. -.—ſi-
+GB-Lbm: B. ..
+I-Fm: 5. -.-ſi-
 

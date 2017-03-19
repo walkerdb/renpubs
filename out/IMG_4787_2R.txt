@@ -17,10 +17,10 @@ O bellezza gentile, de le gioie d'amor nido gradito 30
 I-FEc: compl.
 D-As: compl.
 
-l-Bc: C.l°, C.2°, T.. B.
-A—Wn: C.l°, B.
+I-Bc: C.l°, C.2°, T.. B.
+A-Wn: C.l°, B.
 
-2295 — QUAGLIATI Paolo (1623) _ La Sfera armoniosa del signor Paolo Qua-
+2295 - QUAGLIATI Paolo (1623) _ La Sfera armoniosa del signor Paolo Qua-
 gliati a gli ill.mi et ecc.mi sig.ri gli sig.ri D. Nicolo Ludovisi, e D.a Isabella
 Gesualda prcncipe, e prencipessa di Venosa. ln Roma, appresso Gio. Battista
 Robletti. 1623. Con ]icentia de' Superiori.
@@ -49,5 +49,5 @@ A 1. Solca nocchiero 15
 A Z. O com’è dolce amore? Concertato con ] Violino 30
 » ” Aure vaghe, aure gioconde che scherzate. Villanella 34
 
-_ 1415 —
+_ 1415 -
 

@@ -18,10 +18,10 @@ Fermati, ahimè. Chi sei? Rendimi il figlio, ahi lassa. Per l'innocenti. D'incer
 Sve liati eccatore sve liati e ti consola, ch’una lacrima sola. I enitenti. Parole del Panesio 68
 » @
 
-l-Bc: compl.
+I-Bc: compl.
 l-Rv: compl.
 
-2566 — SAVIONI Mario (1668) _ Madrigali morali, e spirituali a cinque voci
+2566 - SAVIONI Mario (1668) _ Madrigali morali, e spirituali a cinque voci
 concertati di Mario Savioni musico della Cappella Pontificia. Dedicati all’eminentiss.
 c reverendiss. sig. il sig. cardinal Antonio Barberino della S.R. Chiesa camer-
 lingo, etc.
@@ -64,5 +64,5 @@ Quel Dio, delle vendette riparo o scudo. Per il Santissimo Natale. Parole del Ca
 
 \
 
-—1591—
+-1591-
 

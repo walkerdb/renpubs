@@ -6,8 +6,8 @@ A 3. Spelonche, i vostri horrori dimandino al aile-mio 17
 » !) Su, su. donna guerriera, a l'erirmi. Son contento morirmi 11
 A 2. Silenlio amico e taciturni \‘enti ZS
 
-I—Bal: compl.
-l—Bc: comp].
+I-Bal: compl.
+I-Bc: comp].
 
 2708 _ TARONI Antonio (1612) _ 1] Primo Libro de Madrigali a cinque voci.
 Con due 21 otto nel fine. Di Antonio Taroni mantovano novamente con diligentia
@@ -36,7 +36,7 @@ A 8. Al parlir del mio sole pianzi la vista sua. la vita mia (Guarini)
 » » O de l‘anima mia posseditrice sola, o Filli adorna %
 » » Vivrò contento ov‘hor doglios‘o vivo. Residuo
 
-l—Bc: compl.
+I-Bc: compl.
 
 oci con
 
@@ -49,7 +49,7 @@ pati. Stampa del Gardano. In Venetia 1622. Appresso Bartholomeo Magm-
 l-Nc: compl.
 
 . . - - i
-2710 — TARONI Antonio (1612) _ Secondo Libro dl Madrigali a cquC V“,
+2710 - TARONI Antonio (1612) _ Secondo Libro dl Madrigali a cquC V“,
 
 . . . i et dau
 con due a otto nel fine. Dl Antonio Taronl mantovano novamente compoSt

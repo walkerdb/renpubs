@@ -14,8 +14,8 @@ A S. Dissimularc etiam (Virgilio) 18
 A 6. Quin cliam (seconda parte) » 18
 A 7. Me ne fugis (terza parte) » 19
 
-lì—Br: compl.
-GB-me: B.
+lì-Br: compl.
+GB-Lbm: B.
 RISM. l 1567-23.
 
 2655 _ STRIGGIO Alessandro (1569) _ Il Cicalamcnto delle donne al bucato et
@@ -44,7 +44,7 @@ A 5. Al vag’e incerto gioco di primicra 18
 » » Facciasi di che caviamo (Hot date fuor) (seconda parte)
 
 l-Fr: A.T.6.7.
-GB-me: T.
-l-Bc: B.
+GB-Lbm: T.
+I-Bc: B.
 l-Ta: 5.
 

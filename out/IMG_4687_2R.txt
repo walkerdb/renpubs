@@ -20,7 +20,7 @@ A 6. Sospir, sospiri ardenti, con gl’interrotti venti di vostri 18
 
 A-Wn : compl.
 
-1983 — NALDI Romolo (1589) _ Il Primo Libro de Madrigali a cinque ma
+1983 - NALDI Romolo (1589) _ Il Primo Libro de Madrigali a cinque ma
 di Romolo Naldi. Novamente composto et dato in luce. In Venetia appresso
 
 Angelo Gardano 1589.
@@ -53,5 +53,5 @@ A 5. Quando la bell'auror’inanzi al sole sgombra le nebbie ]
 » » A miglior parte uscito delli scogli (sesta parte) 21
 A 6. Tu che col guardo regg’i venti. Canon in diapason (settima parte) 22
 
-l-Bc: comp].
+I-Bc: comp].
 

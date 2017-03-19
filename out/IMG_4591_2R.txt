@@ -16,11 +16,11 @@ US-BE: A.T.B.5.6.
 D-Rp: C.A.T.5.
 B-Bc: C.B.6.
 l-Vnm (Canal): A.
-l-Bc: T.
+I-Bc: T.
 
 GB-Ob: nun compl.
 
-1661 — MARENZIO Luca (1587-2) _ Di Luca Marcnzio il Quarto Libro dc
+1661 - MARENZIO Luca (1587-2) _ Di Luca Marcnzio il Quarto Libro dc
 Madrigali a sci voci novamente composti ct dati in lucc. Con privilegio. In
 Venetia prcsso Giacomo Vincenti. 1587.
 
@@ -30,20 +30,20 @@ I-Bc: compl.
 D-Hs: compl.
 I-Sd: A.T.B.5.6.
 F-A: T.5.
-I—Vnm: S.
+I-Vnm: S.
 F-Pc: T.
 US-BE: 5.
 
 Un csempl. non compl. (C.A.T.5.6.) esisteva nella Collezione Heyer di Kòln.
 
-1662 — MARENZIO Luca (1593) _ ll Quarto Libro de Madrigali a sei voci
+1662 - MARENZIO Luca (1593) _ ll Quarto Libro de Madrigali a sei voci
 
 di Luca Marenzio novamente ristampato. ln Venetia appresso Angelo Gardano.
 
 1593.
-6 ſasc. in 8° (C.A.T.B.S.6.), pag. 21. Indice = 1587—1.
+6 ſasc. in 8° (C.A.T.B.S.6.), pag. 21. Indice = 1587-1.
 
-I-Rsc: compl. (l." esempl.: [Ll-1.5.6.)—
+I-Rsc: compl. (l." esempl.: [Ll-1.5.6.)-
 l-VEaf : compl
 
 D-As: compl.
@@ -53,11 +53,11 @@ F-Pthibault: compl.
 GB-Lcm: compl.
 
 D-Rp: C.A.5.6_ (prov. Haberl).
-E—TZ: C.A.B
+E-TZ: C.A.B
 
 US-Lau: B.5.
 
-GB—me: A.
+GB-Lbm: A.
 
-—IOZ7—
+-IOZ7-
 

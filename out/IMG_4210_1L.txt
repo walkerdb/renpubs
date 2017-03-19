@@ -9,7 +9,7 @@ l-MOC: comp].
 D-Mlu: compl.
 D-HR: B.
 
-461 — CALDARA Antonio (1699) _ Cantate da camera a voce sola d’Anml‘liff
+461 - CALDARA Antonio (1699) _ Cantate da camera a voce sola d’Anml‘liff
 Caldara consacrate a sua eccelenza dona Giovanna de Movra Moncada Contarini
 Opera Terza. ln Venetia da Gioseppe Sala. 1699. Si vendono a S. Gio Gisosw
 mo (.fìc) all’insegna del re David. '
@@ -32,10 +32,10 @@ L’Anniversario amoroso. Su le rive del Gange 95
 L’Amante povero. Fatto son della fortuna
 
 l-Vge (Malipiero)
-D—WD
-US—AA
+D-WD
+US-AA
 
-462 — CALESTANI Vincenzo (1617) _ Madrigali et Arie per—sœur? et cant!"i
+462 - CALESTANI Vincenzo (1617) _ Madrigali et Arie per-sœur? et cant!"i
 nel Chitarrone Leuto o Clavicembalo a una, e due voci. Di. Vmcenzlo WW
 Parto Primo nuovamente composto, et dato in luce. ln Venetia, appresso Gln…
 Vincenti. 1617.
@@ -50,5 +50,5 @@ A ]. (anti più chiara tromba trolei, palme et honon. A Isabella Pla _ _ Z
 » » Lusso, ma che dirò (seconda stanza) 5
 » » Bella virtù ch’alla grand'alma (tem Scanu)
 
-_298— ….
+_298- ….
 

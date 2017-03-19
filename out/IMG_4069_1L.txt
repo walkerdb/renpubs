@@ -20,7 +20,7 @@ GB-Lcm: compl.
 I-Vnm: C. T. B.
 RISM, I 1572-7.
 
-30 — AGOSTINI Ludovico (1570) _ Musica di don Lodovico Agostini fcrrarcäc
+30 - AGOSTINI Ludovico (1570) _ Musica di don Lodovico Agostini fcrrarcäc
 
 il Primo Libro de Madrigali a cinque voci.
 
@@ -53,5 +53,5 @@ Dolce mio ben, amor mio caro, questa bocca bella 8
 
 Questa risposta sì cortese e honesta (seconda parte) 8
 
-_.18— ___-_
+_.18- ___-_
 

@@ -32,11 +32,11 @@ Arde Filli d’un viso di così bella fiamma, che chiunque la vede 17
 Occhi, se ben talhora lagrimar mi vedete e mi sentite dire che la mia morte 13
 Ben fu possente il dardo, ch'uscì dalle dolcissime pupille 19
 Tu mi chiedi s’io t'amo, o d'ogni mio pensier sublim’oggetlo Z]
-l-Bc: comp].
+I-Bc: comp].
 1-Fc: comp].
 US-NYp: Bc.
 
-1381 — LANDI Stefano (1619) _ La Morte d'Orfeo tragicomedia pastorale con le
+1381 - LANDI Stefano (1619) _ La Morte d'Orfeo tragicomedia pastorale con le
 mUSÎChe di Stefano Landi all’illustrissimo et reverendissimo signor abbate Alessan-
 Sandro Matthei chierico di camera. Opera Seconda con privilegio. Stampa del
 Gardano in Venetia 1619. Appresso Bartolomeo Magni.
@@ -45,5 +45,5 @@ Vol. in 4“, pag. 128. Ded. ad Alessandro Mattei Chierico di Camera Abbate di N
 l’ado, 1° VI 1619.
 
 I-Rvat (Capp. Giulia).
-GB-me
+GB-Lbm
 

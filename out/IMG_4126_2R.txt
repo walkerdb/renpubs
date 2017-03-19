@@ -31,13 +31,13 @@ Che ne dite di questo vino? Aplauso alla vinata 19
 Strazz’e zavatt’, solfanei donn’. Sproposito di goffi 20
 Chl brama havere novo piacere di nuovo invito. Il Diletto moderno licenza 2]
 I-Bc: comp].
-B—Br: comp].
-D—As: compl.
+B-Br: comp].
+D-As: compl.
 D-Kl- compl.
 
-A—Wn: C.l°, C.l°, A.B.
+A-Wn: C.l°, C.l°, A.B.
 
-fa]? — BANCHIERI Adriano (1622) _ Vivezze di Flora e Primavera cantate reci-
+fa]? - BANCHIERI Adriano (1622) _ Vivezze di Flora e Primavera cantate reci-
 Ade_e concertate con Cinque voci nello Spinetto, o Chittarone. Opera 44. Di D.
 S lì?-np] Fanchieri abbateolivetano e capo de concerti nella Florida Accademia di
 B. . fic ee in Bosco dedicata all’illustissimo (sic) et rev.mo signore il cardinale
@@ -55,5 +55,5 @@ Nato amor cieco un’ a a., Che per gioco. Farfalla concertata a chori 4
 
 , apc in bocca gli volò. Apc amorosa non concertata 5
 
-—13l-—
+-13l--
 

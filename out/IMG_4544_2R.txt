@@ -19,7 +19,7 @@ Cintia il soave et odorato humore che m'aventasti al petto Zl
 
 l-VEaf : compl.
 A-Wn: compl.
-GB-me: C.A.T.B.
+GB-Lbm: C.A.T.B.
 
 1502 _ LEONI Leone (1607) _ 11 Primo Libro de Madrigali a cinque voci di Leon
 Leoni maescro di capella nel domo di Vicenza. Novamente ristampato. ln Venetia,
@@ -58,5 +58,5 @@ Clori del vago Elpino al pari asisa. Canzon del Rossignolo 17
 
 Quand‘un selvaggio e canoro usignolo (seconda parte) 18
 
-—943—
+-943-
 

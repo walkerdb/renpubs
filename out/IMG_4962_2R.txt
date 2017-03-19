@@ -10,7 +10,7 @@ l-Fr: 8.
 
 l-Vnm (Canal): 8.
 
-GB-me: 8.
+GB-Lbm: 8.
 
 Sartori 1595c e Il 1595c.
 RlSM, I 1595-12 (non compl.).
@@ -57,5 +57,5 @@ A6. Signora Giulia, dov’alberg'amorc _ _
 A3. Corrit, corrit, messcr Aron, che gli Goi. lmitationc delh hebrei
 A 5. Com‘in cielo ha più splendore. Applauso
 
-— 1763 —
+- 1763 -
 

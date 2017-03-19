@@ -1,4 +1,4 @@
-1090 — CASTOLDI Giovan Giacomo (1617) _ Balletti a cinque voci con li suoi
+1090 - CASTOLDI Giovan Giacomo (1617) _ Balletti a cinque voci con li suoi
 versi per cantare, sonare et ballare, con una Mascherata de cacciatori a sei voci. et
 un Concerto de pastori a otto. Di Gio. Giacomo Gastoldi da Caravaggio maestro di
 cappella del serenissimo signor duca di Mantova. In Anversa appresso Pietro Phale-
@@ -6,10 +6,10 @@ cappella del serenissimo signor duca di Mantova. In Anversa appresso Pietro Phal
 sio al re David 1617.
 5 fase. in 8° obl. (C.A.T.B.5.), pag. 21. Indice = 1591.
 
-GB-me: C.A.T.B
+GB-Lbm: C.A.T.B
 NL-Al : C.T.B.5.
 
-1091 — GASTOLDI Giovan Giacomo (1620) _ Balletti a cinque voci con li suoi
+1091 - GASTOLDI Giovan Giacomo (1620) _ Balletti a cinque voci con li suoi
 versi per cantare, sonare et ballare, con un Mascherata de cacciatori a sei voci,.et
 un Concerto dc pastori a otto di Gio. Giacomo Gastoldi da Caravaggio, maestro
 di capella del serenissimo signor duca di Mantova, maestro di capella del serenissimo
@@ -17,10 +17,10 @@ signor duca di Mantova. In Anversa appresso Petro Phalesio al re David 1620.
 
 5 fase. in 8° ob]. (C.A.T.B.S.), pag. 21. Indice = 1591
 
-NL—At: compl.
+NL-At: compl.
 GB-Ckc : B.
 
-1092 — GASTOLDI Giovan Giacomo (1624) _ Balletti a cinque voci, con li suoi
+1092 - GASTOLDI Giovan Giacomo (1624) _ Balletti a cinque voci, con li suoi
 verSi per cantate, sonarc et ballare, con un Mascherata de cacciatori a sei voci, et
 un Concerto de pastori a otto, di Gio. Giacomo Gastoldi da Caravaggio, maestro di
 Capella del serenissimo signor duca di Mantova. Nuovamente ristampati. In An.
@@ -29,9 +29,9 @@ versa, appresso Petro Phalesio al re David, 1624.
 5 fase. in 8° (C.A.T.B.5.), pag. 21. Indice = 1591.
 
 B-Br: T.E.
-NL—DHgm: C. (prov. Schcurlccr).
+NL-DHgm: C. (prov. Schcurlccr).
 
-3393 — GASTOLDI Giovan Giacomo (1627) _ Balletti a cinque voci, con li suoi
+3393 - GASTOLDI Giovan Giacomo (1627) _ Balletti a cinque voci, con li suoi
 
 rsn per cantare, sonare et ballare, con una Mascherata de cacc1ator1 a sei voc1, et
 un Concerto de pastori a otto, di Gio. Giacomo Gastoldi da Caravaggio, maestro
@@ -41,5 +41,5 @@ BOgardo. 1627.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. B. lndicc = 1591.
 
-GB-me : C.A.B.S.
+GB-Lbm : C.A.B.S.
 

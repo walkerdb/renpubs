@@ -38,7 +38,7 @@ F-Pn: comp],
 F-Psg: cnmpl.
 US-SM: G.B.
 
-2717 — TESSIER Guillaume (1582) _ Il Primo Libro dell’Arie franzesi, italiche
+2717 - TESSIER Guillaume (1582) _ Il Primo Libro dell’Arie franzesi, italiche
 ct SPagniuolc, a quattro, et cinque voci, composte nuovamente da Guglielmo
 Tessieri di Bretagna. In Parigi, 1582. Par Adrian le Roy, et Robert Ballard.
 In"Pl'imeurs du Roy. Avec privilege de sa magesté pour dix ans.
@@ -52,5 +52,5 @@ A 4. Tandis que le soleil arclant ;
 ” " le le veux pour amy 6
 » » Lesse moy osu 7
 
-—1689—
+-1689-
 

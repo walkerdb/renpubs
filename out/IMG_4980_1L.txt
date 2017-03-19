@@ -30,7 +30,7 @@ D-W: compl.
 F-Pc: compl. (prov. Borghese).
 D-Mbs: C.A.5.
 
-I—Vnm: 5. (mane. di pag. 1-4 e mutilo da pag. 23).
+I-Vnm: 5. (mane. di pag. 1-4 e mutilo da pag. 23).
 RISM, I 1540-18.
 
 2885 _ VERDELOT Philippe (1541) _. Le dotte, et eccellente compositionl dc !
@@ -54,5 +54,5 @@ Come potrò fidarmi dl te giamai, o disleal amore. _ Dl Leo?. Barre 13
 Non vi gloriate, donna, s'alcun vostra beltà. Dl .Balderar d Imola (Tolomei) 14
 I sospiri amorosi, chc’l mio core più ch’altri. Dt L. Barre‘
 
-— 1796 —
+- 1796 -
 

@@ -50,7 +50,7 @@ B-Br: comp].
 
 RlSM, I 1593-6.
 
-2414 — (De) RORE Cyprien (1557) _ Di Cipriano de Rete il Quarto Libro d'i
+2414 - (De) RORE Cyprien (1557) _ Di Cipriano de Rete il Quarto Libro d'i
 Madregali a cinque voci con uno Madregale a sei et uno Dialogo a otto, nova-
 mente da lui composto -et per Antonio Gardano stampato et dato in luce. Con
 gratia et privilegio. A cinque voci. In Venetia apresso di Antonio Gardano. 1557
@@ -63,5 +63,5 @@ A 5- La bella greca, ondc’l pastor ideo l
 ” ” Ingram è la mia donna. Di Wil/aer! 4
 ” ” lng'ral’ahi lasso l’amo (seconda parte) 5
 
-—]495—
+-]495-
 

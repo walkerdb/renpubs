@@ -6,7 +6,7 @@ A5. Queste care viole al mond’unich’e sole. ZZ
 
 I-Bc: compl.
 I-MOe: compl.
-I—VEaf : compl.
+I-VEaf : compl.
 I-FEc: 5.
 RISM, I 1581-5.
 
@@ -49,5 +49,5 @@ Chi v’honora, ben mio, ma come che chi vi porta amore 19
 Poi che del vostro canto, gentil signora, i’ vivo. Ad imitatione di Giaches Vuert 20
 De l’odorate spoglie sciogliete homai la mano. A Laura Pcverara 21
 
--I4— A
+-I4- A
 

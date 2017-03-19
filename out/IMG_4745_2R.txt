@@ -21,7 +21,7 @@ Già che morir pur deve, arso e ferito, il core, in sacrificio offerto 20
 
 A Wn: compl.
 
-2188 — PESCIOLINI Biagio (1563) _ Di Biagio Pesciolini da Prato maestro di
+2188 - PESCIOLINI Biagio (1563) _ Di Biagio Pesciolini da Prato maestro di
 cappella del duomo di Volterra il Primo Libro di Madrigali a cinque e 6. voci
 nuovamente da lui composti e dati in luce. In Vinegia appresso Girolamo Scotto.
 
@@ -43,10 +43,10 @@ A 5. ln qual dur’alpe, in qual soling'e strano lit‘andrò io 7
 ” ” S'amor non è che dunqu'è quel ch’i’ sento? (Petrarca) 9
 ” ” S'a mia vogli'ardo ond'è'l piant’e lamento (seconda parle) » 10
 ” ” Donne, l‘acerbo mio grave dolore tant‘è nel lato manco 11
-” ” Se’l sol si acne—la e lassa i giorni brevi (Ariosto) lZ
+” ” Se’l sol si acne-la e lassa i giorni brevi (Ariosto) lZ
 ” ” LaSso ch'io ardo el allri nnn mel crede (Petrarca) 13
 ” ” Infinita bellezz’e poca ſede (seconda parle) » 13
 ” " Quest’arder mio di che vi cal sì poco (terza parte) » 14
 
-— 1335 —
+- 1335 -
 

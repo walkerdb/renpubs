@@ -56,7 +56,7 @@ A S. Spiran rugiada e fiori le dolci parolelte B
 » » lntenerite voi, lagrime mie, quel duro core
 
 » » Sospir sospirato di foco, vattene alla mia donna (Guarini) 26
-» » Tutt‘eri foco, amore, quand’arsi prima in quel—soave sguardo 23
+» » Tutt‘eri foco, amore, quand’arsi prima in quel-soave sguardo 23
 A 6. Se pur è ver che la città deo pianto e le furie e le fiere
 
 GB-Och: compl.
@@ -65,5 +65,5 @@ PL-WRu: compl.
 
 I-Bc: BS. Partitura.
 
-GB-me: C.S.
+GB-Lbm: C.S.
 

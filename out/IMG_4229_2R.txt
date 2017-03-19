@@ -21,9 +21,9 @@ A 3. Misero giovinetto per naviganti avari. Arione. Parole del Chiabrera 47
 ” ” Vedrò la patria amata (quarta parte) 54
 ” ” Fosse ella qui presente (quinta parte) 57
 » » Qui traboccò doglioso (sesta parte) 59
-l-Bc
+I-Bc
 
-504 — CASTELLINI Alvise (1541) _ Il Primo Libro delle Villote di Alvvise
+504 - CASTELLINI Alvise (1541) _ Il Primo Libro delle Villote di Alvvise
 Castellino chiamato il Varoter venetiano da lui compostì li versi et il canto 1541
 cum gratia et privilegio Venetiis apud Antonium gardane.
 
@@ -32,7 +32,7 @@ Le quali Se ben non sono tirrate per la via di Iosquino et delli altri eccellent
 (cosa che appresso alcuno mi porria dannare) Sono pero tali, che per la novita loro potranno forse
 un POCO delettare la Excellentia vostra... ».
 
-Viva, viva’l nobil duca di Ferrar’l—lercule degno (Castellino) 3
+Viva, viva’l nobil duca di Ferrar’l-lercule degno (Castellino) 3
 Bc" “388 tutta questa bella briga che si qua raduna ,, 4
 M…?- gcntil saludi me da tutta sta contra e do viva l’amor ,, 5
 Cantar voElio una bella canzon falilela falilon ,, 6
@@ -54,5 +54,5 @@ Chi V°] sentir novelle se faza ali balcon chal ve sarà contà » 15
 Per Ultima morosa una me n’ho trovà, trovata me n’ho una » 16
 a Più me vo fidarc de donn’alcuna sa vivese do ben mi] anni » 17
 
-—331—
+-331-
 

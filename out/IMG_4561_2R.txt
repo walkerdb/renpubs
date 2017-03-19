@@ -13,12 +13,12 @@ Non sentirò mai pena, mentre con dolce ardore qua.-\ln ninfa ZO
 Poi che non posso dire, amor. il mio gioire. di lu 21
 
 1-VEaf: compl.
-GB-me: compl.
+GB-Lbm: compl.
 PL.-GD: compl.
 F-Pc: C.A.T.B.S.
-l-Bc: C.
+I-Bc: C.
 
-1546 — DE MACQUE ]can (1582) _ Sccondo Libro de Madrigalctti et Napolitane
+1546 - DE MACQUE ]can (1582) _ Sccondo Libro de Madrigalctti et Napolitane
 a sci voci di Giovanni De Macquc novamente composto, et dato in luce. In Venetia
 
 appresso Angelo Gardano. 1582.

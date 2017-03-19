@@ -18,9 +18,9 @@ A 6. Se di quei di, che vaneggiando ho speso dietro a false speranze (Tansillo) 
 A 7. Ond‘aviene, cor mio, ch'in tant'affanni hai pur lelitia e gioia. Dialogo B
 
 D-Bs: compl.
-GB—me : A.D.
+GB-Lbm : A.D.
 
-2988 — (De) WERT ]acob (1581) _ Di Giachcs de Wert il Settimo Libro de
+2988 - (De) WERT ]acob (1581) _ Di Giachcs de Wert il Settimo Libro de
 Madrigali a cinque voci, novamente, et dato i (ric) luce. In Venetia appresso
 Angelo Gardano 1581.
 
@@ -47,6 +47,6 @@ A 6. Gralic ch'a pochi il ciel largo destina (Petrarca) 16
 A 7. Tirsi morir volea, gl’occhi mirando di colei ch'adora. Dialogo (Guarini) 18
 ” » ln qual parte si ratto i vanni muove il vincitor auge]. Dialogo 19
 
-l—Bc: compl.
+I-Bc: compl.
 l‘Ls: compl.
 

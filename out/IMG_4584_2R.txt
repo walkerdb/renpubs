@@ -10,26 +10,26 @@ US-Wc: comp].
 l-PAc: C.A.T.B.
 E-Zac: A.T.B.
 I-VEaf : T.5.
-GB-me: 13.5.
+GB-Lbm: 13.5.
 F-A: 5
 
 Il N. 1624 è annullato.
 
-1625 — MARENZIO Luca (1594) _ Di Luca Marcnzio il Quinto Libro de
+1625 - MARENZIO Luca (1594) _ Di Luca Marcnzio il Quinto Libro de
 Madrigali a cinque voci. Novamente ristampato. In Venetia appresso Angelo
 
 Gardano. 1594.
 5 fasc. in 8° (C.A.T.B.5.), pag. Z9.(l). Indice = 1585
 
-l-Bc: compl.
+I-Bc: compl.
 
-l—Bsp: compl.
+l-Bsp: compl.
 B-Br: compl.
 
 D-As: compl.
 F-Pthibault: compl.
 I-Fn: C.A.T.B.
-GB-me: C.A.T.5.
+GB-Lbm: C.A.T.5.
 I-ST: C.
 
 D-Rp: C. (prov. Haberl).
@@ -38,7 +38,7 @@ l-Sd: T.
 
 US-BU: 5.
 
-1626 — MARENZIO Luca (1605) _ Di Luca Marcnzio il Quinto Libro de
+1626 - MARENZIO Luca (1605) _ Di Luca Marcnzio il Quinto Libro de
 Madrigali a cinque voci. Novamente ristampato. In Venetia appresso Angelo
 
 Cardano. 1605.
@@ -47,11 +47,11 @@ Cardano. 1605.
 
 D-LEm: compl.
 
-F—Pc: compl. (prov. Borghese).
+F-Pc: compl. (prov. Borghese).
 I-Sd: A.T.B.5.; Z° esempi.: T.
 I-Bc: T.
 
 Un csempl. compl. cra nella Collezione Heyer di Kòln.
 
-— 1013 —
+- 1013 -
 

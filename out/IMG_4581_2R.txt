@@ -31,25 +31,25 @@ Sì presso a voi, mio foco, che fate forza (Guarini) 19
 Togli, dolce ben mio, questi bei fior con lieto e human sembiante 20
 0 dolce anima mia, dunque è pur vero che cangiando pensier (Guarini) Zl
 
-l-Bc: compl.
-I—Bsp: compl.
+I-Bc: compl.
+I-Bsp: compl.
 l-Rsc: compl.
 A-Wn: compl.
 D-As: compl.
 D-Mbs: compl.
-GB-me: compl.
+GB-Lbm: compl.
 PI:-GD: compl.
 F-Pc: C.A.T.B.
 l-Sac: C.A.T.5.
 l-VEaf : C.T.B5.
-l—de: C.A.B.
+l-de: C.A.B.
 I-Fn: A5.
 
 I-Rvat: .S.
 
 Un eScmpl. comp]. era nella Collezione Heyer di Koln.
 
-l6l4_— MARENZIO Luca (1591) _ Di Luca Marenzìo il Terzo Libro de'
+l6l4_- MARENZIO Luca (1591) _ Di Luca Marenzìo il Terzo Libro de'
 Madrigali a cinque voci nuovamente ristampati. ln Venetia, appresso Giacomo
 
 Vincenti. 1591.

@@ -21,11 +21,11 @@ A 8. Ch'io scriva di costei ben m’hai lu dello. Dialogo (Bembo) 211
 
 F-Piliibauli: compl.
 
-I—Hc: C.A.T.B.
+I-Hc: C.A.T.B.
 
-l—VEaf: C..*\.5.
+l-VEaf: C..*\.5.
 
-GB-me: C.S.
+GB-Lbm: C.S.
 
 l-Rsc: T.
 
@@ -43,15 +43,15 @@ l-VEcap: compl.
 
 GB-Lwa: compl.
 
-A—Wn: C.A.T.5.
+A-Wn: C.A.T.5.
 
-2971 — (De) WERT ]acob (1583) _ Di Giachcs de Wei-t’il Primo Libro (1°
+2971 - (De) WERT ]acob (1583) _ Di Giachcs de Wei-t’il Primo Libro (1°
 Madrigali a cinque voci, novamcnte ristampati. In Venetia appresso Ang€°
 Gardano 1583.
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. Z9. Indice = 1564.
 
-l-Bc: compl.
+I-Bc: compl.
 
 l-MOc: compl.
 

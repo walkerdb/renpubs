@@ -24,12 +24,12 @@ D-F: C.5.6.
 
 D-Kl: G.B.
 
-l-Bc: 6.
+I-Bc: 6.
 
-735 — DE MONTE Filippo (1582) _ Di Filippo Di Monte maestro di capella
+735 - DE MONTE Filippo (1582) _ Di Filippo Di Monte maestro di capella
 della sac. ces. maestà dell’imperatore Rodolfo Secondo il Primo Libro dc Madri-
 gali a tre voci novamente composti, et dati in luce. In Venetia appresso Angelo
-Cardano 1582. —
+Cardano 1582. -
 
 3 fasc. in 8° obl. (C.A.B.), pag. 2.9,(1). Ded. di Angelo Gardano a Madalena Casulana di
 Mczarii: «Vedendo quasi spento il semc dc i Madrigali a tre voci (Musica tanto commoda, ct
@@ -53,5 +53,5 @@ N°11 vedete voi, donna, il mio tormento? Piacciavi dunque (P. Barignano) 11
 Volentier eanterei de' vostri honori, s‘io sperassi ,, ,, 12
 0 Chi pou-à mai ben chiuder in versi l’alto valor 13
 
-—485 _
+-485 _
 

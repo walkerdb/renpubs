@@ -36,12 +36,12 @@ A 5. Fuggan le nevi c i duri ghiacci homai scopra in vece di nubi e d'atri horro
 » » Sc beltate e ricchezza, donna gentil, cercate ad hor ad hora mirate in voi 26
 ” » Mentre il mio cor doglioso contra la donna mia pien d’ira ardea 27
 A 3- Spargete, ninfe, intorn‘a questa riva da le candide mani. Dialogo 28
-l-Bc: compl.
+I-Bc: compl.
 
 l-Fn : compl.
 l-MOe: C.A.T.5.
 
-2246 — PORTA Costanzo (1586) _ Di Constanzo Porta il Quarto Libro de
+2246 - PORTA Costanzo (1586) _ Di Constanzo Porta il Quarto Libro de
 Madrigali a cinque voci, novamente da Marsilio Cristoffori raccolti, et dati in
 luce. Al molto illustre et reverendiss. monsig. Biagio Cangi dignissimo coppiere
 dl Nostro Signore. In Venetia appresso Angelo Gardano 1586.
@@ -50,5 +50,5 @@ dl Nostro Signore. In Venetia appresso Angelo Gardano 1586.
 «...s’io, che in tutto il corso dc la mia vita son versato ct verso ne la Musica, et egualmente
 s0110 stato afiettionatissimo servitore del Sig. Ludovico suo fratello, et di tutta casa sua...
 
-—1375—
+-1375-
 

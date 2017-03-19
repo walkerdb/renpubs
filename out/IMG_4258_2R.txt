@@ -13,7 +13,7 @@ S'io di te penso e del tuo amor, Maria, 0 che dolce pensier Zl
 D-As: A.T.B.5.
 RlSM, 1 1517-15.
 
-583 — ClRULLO Giovanni Antonio (1609) _ Il Sesto Libro de’ Madrigali &
+583 - ClRULLO Giovanni Antonio (1609) _ Il Sesto Libro de’ Madrigali &
 cinque voci di Gio. Antonio Cirullo di Andria. Nuovamente da lui composto ct
 dato in luce. In Venetia, appresso Giacomo Vincenti. 1609-
 
@@ -41,7 +41,7 @@ Credete voi ch'io viva pasccndo il cor famelico » 19
 T al'I'IO mia vita, la mia cara vita dolcemente dice ” ZO
 l'BC- A.T.5.
 
-584 — CIVITA Davide (1616) _ Premitie armoniche a tre voci de Davit Civita,
+584 - CIVITA Davide (1616) _ Premitie armoniche a tre voci de Davit Civita,
 
 ebreo al serenissimo signor signor, et patron mio collendissimo il sig. D. Ferdi-
 nando Gonzaga, duca di Mantova, ct di Monferato, etc. In Venetia, appresso
@@ -54,7 +54,7 @@ gum dal tuo bel viso il bianco avorio (C'-'bà) l
 ato nod’amoroso il braccio ancor mi cinge »
 
 . .
-'n— ';
+'n- ';
 .
 
 Er!

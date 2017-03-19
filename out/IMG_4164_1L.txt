@@ -29,8 +29,8 @@ I-Bc: compl.
 
 I-Rli: compl.
 
-D—M Us : compl.
-F—Pthibault : compl.
+D-M Us : compl.
+F-Pthibault : compl.
 
 334 _ BERNARDI Stefano (1611) _ Di Stefano Bernardi veronese. Il Primo
 Libro di Madrigali a tre voci. Opera Terza. In Roma, nella stamperia dt Bartho-
@@ -58,5 +58,5 @@ A 3. Felice chi vi mira, ma più felice chi per voi sospira (Guarini) .:
 
 » » Lasso, perchè mi fuggi, s'hai della morte mia
 
-__206— -
+__206- -
 

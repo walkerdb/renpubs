@@ -3,7 +3,7 @@ Piccioletta farfalla, vaga d‘incendio pio, vola l‘anima mia (Grillo) 19
 Ah che tu vuoi ch’io viva perchè vivendo io mora 20
 Fa queste sacre carte archi, signor. e queste note strali Z.]
 l-VEaf : C.
-A—Wn: B.
+A-Wn: B.
 
 421 _ BRACHROGGE Iohann (1619) _ Di Giovanni Brachrogge, musico della
 macstà di Dania Norvegia etc. Madrigaletti a III voci. Libro Primo. Novamentc
@@ -33,11 +33,11 @@ I0 ardo in vivo foco perchè tu il prendi a gioco 18
 Mordi, mordi, ben mio, questa mia ingorda lingua 19
 0 ala tu benedetta, poi che non parti ancora. Fa la la la ZO
 Chl PUÒ mirarvi e non lodarvi fa la la la, begli occhi chiari 21
-DK—Kk
+DK-Kk
 
-RISM 1, 1619—13.
+RISM 1, 1619-13.
 
-422 .— B_RASSART Olivier (1564) _ Olivier Brassart. Il Primo Libro delli soi
+422 .- B_RASSART Olivier (1564) _ Olivier Brassart. Il Primo Libro delli soi
 adrigali a. quattro voci. Nuovamente da lui composto et dato in luce. Al illustriss.
 Ct reverendiss. card. d'Urbino dedicato. In Roma appresso Ant. Barre 1564.
 

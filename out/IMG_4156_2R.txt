@@ -6,17 +6,17 @@ M’arde la verde fera, miracolo d‘amore, et con profonda 19
 Flora, di vaghi fiori il crine adorno, con zefiro soave 20
 Dolce mio ben, amor mio caro, dunque languend'in van debb‘io 21
 
-GB-me: comp].
+GB-Lbm: comp].
 
-I—MOc: C.A.T.B.
+I-MOc: C.A.T.B.
 
 NL-DHgm: A.
 
-US—Cn: B.
+US-Cn: B.
 
-Un cscmpl. compl. esisteva in PL—GD. ma è scomparso durante l'ultima gUerra.
+Un cscmpl. compl. esisteva in PL-GD. ma è scomparso durante l'ultima gUerra.
 
-313 — BELLI Girolamo (1587) _ I Furti amorosi a sei voci. Di Girolamo Belli
+313 - BELLI Girolamo (1587) _ I Furti amorosi a sei voci. Di Girolamo Belli
 d'Argenta con nova gionta ristampati, et coretti. Con privilegio. In Venetia, presso
 Giacomo Vincenzi. 1587.
 
@@ -56,5 +56,5 @@ gli hor che Filomena col garrulo cantar si lagna e trista 25
 continuo timor che la mia spene alcun m1 levi 26
 QUando tal’hora i pargolctti amori guidan la madre 27
 
-—I9I——
+-I9I--
 

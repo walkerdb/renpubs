@@ -3,7 +3,7 @@ A 5. Hoggi nacqui, ben mio, per morir vostro. Ecco la bella aurora (Guarini) 20
 A 6. Smeraldi eran le rive, il fium’argento e'l ciel cadendo il giorno. (Galeazzi) Zl
 F-A: G.B.
 
-l-Bc: C.
+I-Bc: C.
 
 F-Pmcycr: C.
 
@@ -42,11 +42,11 @@ ltenc, mie querele, precipitose a volo a lei, che m'è cagion 2]
 Cor mio, benchè lontana, pur quest'alma t‘adora e spera rivederti ZZ
 Tra le dolcezze e l‘ire e la gioia e'] martire la giovanetla Clori B
 
-GB-me: comp].
+GB-Lbm: comp].
 I-Nc: C.A.B.5.
 I-Bc: C.T.B.
 
-153} -— MACIGNI Giovanni - MAGNI Benedetto (1617) _ Madrigali a cinque
+153} -- MACIGNI Giovanni - MAGNI Benedetto (1617) _ Madrigali a cinque
 
 vocn. Con il Basso continuo. Di Giovanni Macigni gentil'homo fiorentino con
 

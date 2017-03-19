@@ -7,7 +7,7 @@ D-Mbs: compl.
 I-Bc: B.
 
 ' " ' ' Madri ali a cinque voci.
-512 — Dc CASTRO lean 1594) _ Scelta del piu vaghi _ g . .
+512 - Dc CASTRO lean 1594) _ Scelta del piu vaghi _ g . .
 Di M. (Gioire… De Castro no(vamente posti in luce. In Venetia, appresso thctardo
 Amadino. 1594.
 
@@ -51,7 +51,7 @@ D-DS: A.
 
 US-BU: T.
 
-513 — CASULANA DE MEZARI Maddalena (1568) _ Di Madalcna Casulana
+513 - CASULANA DE MEZARI Maddalena (1568) _ Di Madalcna Casulana
 il Primo Libro dc Madrigali a quattro voci, novamente posti in luce, e con ogni
 diligentia corretti. In Vencgia, appresso Girolamo Scotto. 1568.
 

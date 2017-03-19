@@ -18,7 +18,7 @@ Lasso che pens’alcun (terza parte) 36
 Poichè tu sei, canzon (quarta parte) 37
 D-LOh: compl.
 F-Pmeyer: C.A.B.
-l-Bc: C.
+I-Bc: C.
 
 1322 _ HOSTE da Reggio (1556) _ Di l'Hoste da Reggio il Primo Libro dc Madri-
 gali a quattro voci, nuovamente con somma diligentia ristampati et coretti. Libro
@@ -67,5 +67,5 @@ la son in fin qui stato, madonn’in tutto
 
 (Della Casa)
 
-— 834 —
+- 834 -
 

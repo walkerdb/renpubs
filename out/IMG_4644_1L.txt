@@ -1,5 +1,5 @@
 D-WlLd: compl.
-GB-me: compl.
+GB-Lbm: compl.
 US-SM: C.B.
 I-Vnm: T.
 F-Pn: B.
@@ -47,5 +47,5 @@ O voi servi d‘amore, pietà del mio dolore
 Questi dc la mia musa detti fiori, Mario a voi sacro
 
 I-Bc: compl.
-l—Vnm: C.T.B.
+l-Vnm: C.T.B.
 

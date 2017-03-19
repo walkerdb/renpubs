@@ -9,7 +9,7 @@ A 6. Vieni, Imeneo, e tcco msxem ancora conducr
 A 10. Stolto mio core, ove sì lieto vai. Dialogo (Della Casa) 20
 I-VEaf: A.
 
-300 — BELLASIO Paolo (1592) _ Di Paolo Bcllasio maestro della musica nella
+300 - BELLASIO Paolo (1592) _ Di Paolo Bcllasio maestro della musica nella
 Accademia degl’illustriss. signori Filarmonici, Villanelle a tre voc1, con la intavo-
 latura del Liuto, novamente composte et date in luce. Con prmlegio. In Venetia
 
@@ -32,16 +32,16 @@ Perchè, anima mia, da chi t’ama e ti desia 14
 Tutta sete gentil, leggiadra e bella 15
 Stillava perle da begl’occhi ardenti una ninfa leggiadra 16
 Sette del mondo son le meraviglie e sette sono gli pianeti 17
-I—Bc: compl.
+I-Bc: compl.
 
-GB—me: B.
+GB-Lbm: B.
 
-Brown 1592—1.
+Brown 1592-1.
 
 BELLHAVER Vincenzo
 Cfr.: BONAGIUNTA Giulio - BELLHAVER Vincenzo.
 
-301 — BELL’HAVER Vincenzo (1567) _ Di Vicenzo Bell’haver il Primo Libro
+301 - BELL’HAVER Vincenzo (1567) _ Di Vicenzo Bell’haver il Primo Libro
 de Madrigali a cinque voci con una Canzon et doi Madrigali a sei novamente per
 Antonio Gardano stampati et dati in luce. A cinque voci. In Venetia appresso di
 Antonio Gardano. 1567.
@@ -53,5 +53,5 @@ Visconti- « Ess
 
 endo molto Illustre Signor Gioan Paulo mio fin da i primi giorni, ch’io divenni
 
-—183—
+-183-
 

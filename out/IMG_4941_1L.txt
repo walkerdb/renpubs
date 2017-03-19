@@ -10,7 +10,7 @@ I-Bc
 
 I-Rsc
 F-Pthibault
-GB-me
+GB-Lbm
 US-Cn
 
 2762 _ TROMBETTI Ascanio (1573) _ Il Primo Libro delle Napolitanc a tre
@@ -49,11 +49,11 @@ A 3.“ Asciso m'ero all‘ombra (le bei faggi e languendo narravo l
 » » Cara mi fia la bell'ombra (seconda parte) 30
 A 6. O ben felice et fortunato giorno (terza parte)
 
-l-Bc: comp].
+I-Bc: comp].
 
 D-M'bs: compl.
 
 GB-Cu: B.
 
-—I720—
+-I720-
 

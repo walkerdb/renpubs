@@ -1,11 +1,11 @@
 D-Rp: C.A.T.5.
-l-Bc: C.B.
-F—Pc: A.S.
+I-Bc: C.B.
+F-Pc: A.S.
 I-Vnm: A.De.
 l-Fc: 5.
 
-l—Nc: Be.
-Gll—me: Be.
+l-Nc: Be.
+Gll-me: Be.
 
 Sartori 1628m e ll 1628m.
 
@@ -17,7 +17,7 @@ rato etc. In Venetia 1641 apresso Bartolomeo Magni.
 
 6 fasc. in 8° (C.A.T.B.5.Bc.), Bc. pag. 69,(l). Indice = 1619.
 
-l-Bc: compl.
+I-Bc: compl.
 F-Pthibault: compl.
 GB-Lwa: comp].
 PL-WRu: compl.

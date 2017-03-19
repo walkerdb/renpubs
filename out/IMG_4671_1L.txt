@@ -8,7 +8,7 @@ ricorretto, et ristampato. In Venetia, appresso Ricciarda Amadina. 1606.
 
 D-As: A.T.B.5…
 1-Rc: C.B.5.
-l—Fd: 5.
+l-Fd: 5.
 
 Sartori 1606g c ll 16063.
 
@@ -20,7 +20,7 @@ Di novo ristampato. In Venetia, appresso Ricciarda Amadino. 1608.
 
 6 fasc. in 8° (C..-\.T.11.5.Bc.), png. 23. Indice = 1605.
 
-l-Bc: compl.
+I-Bc: compl.
 I-Bsp: compl.
 B-Br: compl.
 F-Phanson: C.A.T.5.
@@ -35,8 +35,8 @@ ristampato. In Venetia, appresso Ricciarda Amadina. 1610.
 
 6 [asc. in 8° (C.A.T.B.S.Bc.), pag. B. Indice = 1605.
 
-I—Bc: A.Bc.
-GB-me: A.
+I-Bc: A.Bc.
+GB-Lbm: A.
 
 Sartori 16103 c 11 16103.
 
@@ -44,5 +44,5 @@ Sartori 16103 c 11 16103.
 Claudio Monteverde maestro della musica del serenissima sig. duca di Menton:
 Col Basso continuo per il Clavicembano, Chitarone, od altro simile istromento,
 
-—II86—
+-II86-
 

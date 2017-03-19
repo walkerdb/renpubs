@@ -20,15 +20,15 @@
 » » Perle e rubini i fior \‘ermigli e bianchi hanno d'etcrno april 20
 A 6. chzoselto fanciullo, a cui la donna mia dona i basi Zl
 
-l—Bc: compl.
+I-Bc: compl.
 
-US—Wc: compl.
+US-Wc: compl.
 
-GB-me: C.T.
+GB-Lbm: C.T.
 
 RlSM, I 1592-21 (non compl.).
 
-2624 — SORTE Bartolomeo (1573) _ Di Bartolomeo Sorte padovano. Il Primo
+2624 - SORTE Bartolomeo (1573) _ Di Bartolomeo Sorte padovano. Il Primo
 Libro de Madrigali a quatro cinque, et sei voci, con doi Dialoghi a sette novamente
 composti et dati in luce. In Venetia apresso li figliuoli di Antonio Gardano. 1573.
 
@@ -53,5 +53,5 @@ A 4. Voi mi poncsti in foco per farmi anz'il mio di, donna, perire. Canzon (Bemb
 ” ” Che poi tu farmi, amore, s‘in me non è più’] core 14
 ” » Ohimè, dov'è il mio core? Chi mi tien dal mio core, ohimè, lontano 15
 
-—— ]62‘) —
+-- ]62‘) -
 

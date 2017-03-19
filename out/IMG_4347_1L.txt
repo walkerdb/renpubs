@@ -39,11 +39,11 @@ A 5. O anim‘amoroso, che mirate ne l‘altrui fint‘aspetto. In concerto 37
 » » Ahi chi mi fà languire, sorte pervers'e ria. ln concerto 42
 n » Disperato dolore, ch‘ogn’hor morte mi dai e non m‘uccidi. Non concertato 44
 
-l-Bc: compl.
+I-Bc: compl.
 
 PL-WRu: C.l°, B. per sonare.
 
-GB-me: B., B. per sonare.
+GB-Lbm: B., B. per sonare.
 
 845 _ DONATO Baldassarre - CAMBIO Perissone (1550) _ Di Baldissera Donato
 il Primo Libro di Canzon villanesche alla napolitana a quattro voci novamente da

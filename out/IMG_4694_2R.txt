@@ -28,15 +28,15 @@ A 5. Come fanciul ch’a penn (quarta parte) 24
 » » Ben sai che sì bel piede (quinta parte) 25
 A 6. Ovunque gli occhi volgo (sesta parte) 26
 A 8. Padre, ch’a Delfi il gran piton’ct fero. Dialogo ZB
-l-Bc: C.A.T.B.
+I-Bc: C.A.T.B.
 
-l—Rsc: A.T.B.
+l-Rsc: A.T.B.
 
 I-VEaf: A.
 
 l-CMc: B.
 
-2009 — NASCO Giovanni (1557) _ Di Giovan Nasco il Secondo Libro d'i
+2009 - NASCO Giovanni (1557) _ Di Giovan Nasco il Secondo Libro d'i
 Madrigali a cinque voci, dove si contengono tutte le Macharronce del ditto autore
 nOVEtmente per Antonio Gardano Stampato et dato in luce. Con gratia et privilegio.
 A cmquc voci. In Venetia appresso di Antonio Gardano 1557.
@@ -54,5 +54,5 @@ Chi vuol veder quantunque pUò natura (Petrarca) 8
 
 Vedrà s‘arriva a tempo (seconda parte) » 9
 
-— 1233 —
+- 1233 -
 

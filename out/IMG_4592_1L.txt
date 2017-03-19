@@ -16,7 +16,7 @@ Luca Marenzio. Novamente ristampato. In Venetia appresso Angelo Cardano-
 
 I-VEcap: compl.
 F-Pc: compl.
-GB-me: compl.
+GB-Lbm: compl.
 GB-T: compl.
 l-PAc: C.A.T.B.
 
@@ -47,5 +47,5 @@ Baci soavi e cari, cibi della mia vita. Canzon (Guarini) 16
 Baci amorosi e belli, mentre che voi (seconda parte) » 17
 Baci afiammati e’ngordi (terza parte) » 13
 
-—1028—
+-1028-
 

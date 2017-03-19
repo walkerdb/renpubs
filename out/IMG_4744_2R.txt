@@ -28,7 +28,7 @@ lnvisibilc pietra s’è fatta mula 24
 Taci, deh non aprir musica bocca 25
 F-Pc
 
-2185 — PERSONE’ Diego (1628) _ Madrigali a cinque voci del sig.r Diego
+2185 - PERSONE’ Diego (1628) _ Madrigali a cinque voci del sig.r Diego
 Personé gentil’huomo de Lecce. Libro Quarto. Opera Sesta. 1628.
 ln fine: «In Napoli, appresso Ambrosio Magnetta. 1628. Con licenza de’ Supe-
 
@@ -51,5 +51,5 @@ Ahi lacrime, ahi dolore, passa la vita e si dilcgua il core 12 (”")
 More la bella mora e non è alcun che dar 13 (“.")
 Sel tuo volto rimiro, donna crudel, cagion 14
 
-— 1333 ——
+- 1333 --
 

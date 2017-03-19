@@ -28,7 +28,7 @@ l-Rsc: C.
 
 US-CA: T.
 
-1177 — GESUALDO Carlo (1613) _ Partitura delli_sui Iſſibrì de Madrigali a
+1177 - GESUALDO Carlo (1613) _ Partitura delli_sui Iſſibrì de Madrigali a
 cinque voci dell'illustrissimo, et eccellentissimo prenape dl Venosa_, don Carlo
 Gesualdo fatica di Simone Molinaro maestro di capella nel duomo di Genova. In
 Genova, appresso Giuseppe Pavoni. 1613. Con licenza de’ Superiori.
@@ -39,12 +39,12 @@ I-Bc
 l-COc
 l-Fc
 l-Mc
-l—Nc
+l-Nc
 I-REm
 l-Rc
 l-Rsc
 A-Wm
-A—Wn
+A-Wn
 B-Br
 D-HV]
 D-MÜs

@@ -8,7 +8,7 @@ I-Rsc: T.
 
 l-Nc: B.
 
-809 _ DENTICE Scipione (1598) — Di Scipione Dentice, il Terzo Libro dc
+809 _ DENTICE Scipione (1598) - Di Scipione Dentice, il Terzo Libro dc
 Madrigali a cinque voci. In Napoli, appresso Gio. Iacomo Carlino, et Antonio
 Pacz. 1598.
 
@@ -43,11 +43,11 @@ Lucenti rai del sole, a questa nova luna hormai cedete 22
 
 Mi diede la mia ninfa un bel ligusiro, una vermiglia rosa. Con tre canti da conseno
 
-GB-me: T.5.
+GB-Lbm: T.5.
 GB-Ckc. C.
 I-Nn: A.
 
-810 — DENTICE Scipione (1602) _ Di Scipione Dentice. Il Quarto Libro :]:
+810 - DENTICE Scipione (1602) _ Di Scipione Dentice. Il Quarto Libro :]:
 Madrigali a cinque voci. In Napoli, appresso Antonio Pace. 1602. 81 vendono
 botega di Stefano Libraro, vicino S. Biase.
 

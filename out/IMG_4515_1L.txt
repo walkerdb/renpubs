@@ -39,9 +39,9 @@ A 8. Hola Caron (0- de Magny) 45
 
 » » Que dis tu que fais tu (Ronsard) ”
 
-D—W: compl.
+D-W: compl.
 
-GB-me: S., Contr., S. e 6.
+GB-Lbm: S., Contr., S. e 6.
 S-Uu: Contr. B.
 
 Bocttichcr 801.
@@ -65,12 +65,12 @@ B-Amp: S.T.
 
 D-KNu: T.B.
 
-GB—me: S. (difettoso).
+GB-Lbm: S. (difettoso).
 I-BGc: Contr.
 
 Bocttichcr 804.
 
 RISM, I 1596-7 (non compl.).
 
-__888—
+__888-
 

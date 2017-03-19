@@ -19,10 +19,10 @@ Aria di Canzon francese per sonar del primo tono %
 Aria di Canzon francese per sonar del ottavo tono Zl
 D-Mbs: compl.
 PL-Wn: C.A.
-l-Bc: C.T. (C. difcu.)
+I-Bc: C.T. (C. difcu.)
 l-Vnm: A.D.
 PL-LEtpn: T.E.
-GB-me: T.
+GB-Lbm: T.
 
 I-Fn: framm. di poche carte del T. (pag. 15-21).
 Sartori 1579 e II 1579.
@@ -40,7 +40,7 @@ Sartori 15843.
 
 Brown 1584-7.
 
-1344 — INGEGNERI Marc’Antonio (1572) _ Di Marc'Antonio Ingegneri 11 Se-
+1344 - INGEGNERI Marc’Antonio (1572) _ Di Marc'Antonio Ingegneri 11 Se-
 condo Libro de Madrigali a cinque voci. Novamente-composti et dati in luce.
 Libro Secondo. In Venetia apresso li figliuoli di Antonio Gardano. 1572.
 

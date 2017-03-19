@@ -35,12 +35,12 @@ A7. Hor sì che’] vago aprile godi, Crema gentile. A Federico de Cavalli. Ball
 » » S'Alcide forte che con la morte
 » » O valoroso. o glorioso degno prence
 
-l-Bc: compl.
+I-Bc: compl.
 RISM, I 1617-15.
 
 voci di Leon
 
-1501 — LEONI Leone (1588) _ Il Primo Libro de Madrigali a cinque.. Con privi-
+1501 - LEONI Leone (1588) _ Il Primo Libro de Madrigali a cinque.. Con privi-
 
 Leoni maestro di capella nel duomo di Vicenza novamente stampati
 legio. In Venezia appresso Angelo Cardano. 1588.
@@ -61,5 +61,5 @@ Ohimè m’inganno. Chi ti scaccia, dolcissimo ben mio (secon a pa c 6
 
 Mentr'empia mano tenta con Vittoria lasciar Vittoria spenta
 
--94Z-—
+-94Z--
 

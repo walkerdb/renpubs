@@ -39,7 +39,7 @@ A 4. Che giova saettar un che si muore, o niquitoso (Anosto) 99
 I-Tn: compl. (C. mane. di front.).
 D-W: compl.
 
-2314 — RASI Francesco (1620) — Dialoghi rappresentativi composti insieme C::
+2314 - RASI Francesco (1620) - Dialoghi rappresentativi composti insieme C::
 le parole dal cavaliere Francesco Rasi Accademico Filarmonico. NovamenÈe coti
 posti, et dati in luce. Con privilegio. ln Venetia, aPPrcsso Alessandro Vmccn-
 
@@ -51,5 +51,5 @@ A 1. Tu ch’hai l'alba ne lumi. Dialogo !: Niso, Driade e Fillide (Rau) ;
 » » E’ così dolce il duolo (quarta parte) :; 7
 » » Alma chc'ndarno prega (quinta parte)
 
-_ 1423 —
+_ 1423 -
 

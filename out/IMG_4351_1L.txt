@@ -28,10 +28,10 @@ A 5. Dolor, perchè mi meni fuor di camin (Petrarca) 3
 » » Spini ben nati che scrivend'andate (terza parte) 73
 A 6. Rozz‘e breve canzona, vnnn'a madonn’c dì (quann parte) 23
 
-GB-me: compl. (T. mane. di front. e di pag. 1-7).
+GB-Lbm: compl. (T. mane. di front. e di pag. 1-7).
 GB-LI: T.
 
-l-Bc: T.
+I-Bc: T.
 
 l-MOc: B.
 
@@ -56,5 +56,5 @@ A 7. Morte m‘ha sciolto amor (dccima parte) ” q
 
 A 5. Chi fie che di guardar donna si rante
 
-—56Z—
+-56Z-
 

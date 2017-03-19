@@ -18,7 +18,7 @@ D-BE: compl.
 
 D-Mbs: compl.
 
-GB-me: compl.
+GB-Lbm: compl.
 
 D-Bds: C.T.B.
 
@@ -38,7 +38,7 @@ D-Bds: C,
 Boetticher 747.
 MSM. I 1555-Z9.
 
-1388 — DE LASSUS Roland (1560) _ Le Quatoirsiesme Livre a quatre parties
+1388 - DE LASSUS Roland (1560) _ Le Quatoirsiesme Livre a quatre parties
 contenant dix huyct Chansons Italienncs, six Chansons francoises, et six Motets
 faictz a la nouvelle composition d'anciens d’ltalie par Rolando di Lassus conve-
 nable tant a la voix comme aux instruments. En Anvers par Tylman Susato...

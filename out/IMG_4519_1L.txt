@@ -4,7 +4,7 @@ l-Rvat (De Rossi): B.
 
 F-Pc: B.
 
-GB-me: B.
+GB-Lbm: B.
 
 Boettichcr 783.
 
@@ -18,9 +18,9 @@ Angelum Gardanum. 1582.
 
 GB-Lcm: compl.
 
-GB-me: C.A.T.
+GB-Lbm: C.A.T.
 
-D—Bds: C.T.B.
+D-Bds: C.T.B.
 
 I-Rvat (De Rossi): C.T
 
@@ -36,11 +36,11 @@ appresso Giacomo Vincenci et Ricciardo Amadino compagni 1584.
 
 4 fase. in 8° obl. (C.A.T.B.), pag. 30. lndicc = 1560-2.
 
-GB-me: compl. (prov. Borghese).
+GB-Lbm: compl. (prov. Borghese).
 Boetticher 789.
 RISM, I 1584-8.
 
-1417 — DE LASSUS Roland (l588) _ Di Orlando di Lassus il Primo Libro dc.
+1417 - DE LASSUS Roland (l588) _ Di Orlando di Lassus il Primo Libro dc.
 Madrigali a quattro voci. Nuovamente ristampati, con alcuni Madrigali, et (Enzo;:
 d'altri autori aggionti, et con ogni diligenzia coretti. In Vmeggia appresso CFC
 di Girolamo Scotto 1588.

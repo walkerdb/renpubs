@@ -5,10 +5,10 @@ Venetia appresso di Antonio Gardano 1565.
 4 fasc. in 8° obl. (C.A.T.B.), pag. 46.(1). Indice = 1544.
 
 D-As: compl.
-GB-me: compl.
+GB-Lbm: compl.
 RISM, I 1565-20.
 
-2881 — VERDELOT Philippe (1566) _ I Madrigali del Primo et Secondo Libro
+2881 - VERDELOT Philippe (1566) _ I Madrigali del Primo et Secondo Libro
 di Verdelot a quattro voci; nuovamente ristampati et da molti e importanti errori
 con ogni diligentia corretti da Claudio da Coreggio. In Vinetia presso Claudio
 da Coreggio. 1566.
@@ -31,18 +31,18 @@ Madrigali, nella maniera, che l’Auttor gli compose; o volse, come huomo di mol
 nella Musica, che fossero cantati; come per ventura potrebbe veder. chi havesse i registri. Ho
 trasposto delle note da un luogo a un’altro per arrichire il contrapunto; et ho preso carico di
 scgnar minutamcnte ogni cosa, per facilitar qursta scientia a’ principianti. Accettate la mia
-fatica, e industria cortescmncte; et da aspettate ogni giorno alcuna opera bella, et nuova d'into—
+fatica, e industria cortescmncte; et da aspettate ogni giorno alcuna opera bella, et nuova d'into-
 volaturc d’organi et d'altro: e state sani ».
 
-D—Mbs: compl.
+D-Mbs: compl.
 
 E-V: compl.
 
-GB—me: C.A.
+GB-Lbm: C.A.
 
 RISM. I 1566-22 (non compl.).
 
-2882 — VERDELOT Philippe - FESTA Costanzo (15.37) _ il Terzo Libro de
+2882 - VERDELOT Philippe - FESTA Costanzo (15.37) _ il Terzo Libro de
 Madrigali di Verdelot insieme con alcuni altri bellissimi Madrigali Cll Con-stantio
 Festa, et altri eccellentissimi auttori, novamente stampati, et con somma diligentia
 corretti. 1537. Con gratia, ct privilegio.
@@ -54,5 +54,5 @@ Venetiis apud Octavianum Scotum. 1537».
 
 Occh’infelici, ch'a mirar sì pronti fust'il volto di quella. Di Verdelot l
 
-— 1793 —
+- 1793 -
 

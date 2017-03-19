@@ -9,8 +9,8 @@ I-Bc: compl.
 I-MOs: B.
 RlSM, I 1536-7 (non compl.).
 
-2870 — VERDELOT Philippe - WILLAERT Adriano - FESTA Coslanzo (1537)
-— Il Secondo Libro de Madrigali di Verdelotto insieme con alcuni altri bellissimi
+2870 - VERDELOT Philippe - WILLAERT Adriano - FESTA Coslanzo (1537)
+- Il Secondo Libro de Madrigali di Verdelotto insieme con alcuni altri bellissimi
 Madrigali di Adriano, et di Constantio Festa; nuovamente stampati, et con somma
 diligentia corretti. 1537. Con gratia et privilegio.
 
@@ -19,7 +19,7 @@ diligentia corretti. 1537. Con gratia et privilegio.
 D-Mbs: compl.
 RISM, I 1537-10.
 
-2871 — VERDELOT Philippe - WlLLAERT Adriano (1540) _ Di Verdelotto
+2871 - VERDELOT Philippe - WlLLAERT Adriano (1540) _ Di Verdelotto
 tutti li Madrigali del Primo, et Secondo Libro a quatro voci, con la gionta de i
 Madrigali del medesmo auttorc, non più stampati. Aggiontovi anchor: altri Madri-
 gali novamente composti da messer Adriano, et da altri eccellentissimi musici,
@@ -48,5 +48,5 @@ S'io pensassi, madonna, che mia morte vi fosse sopr’ognaltra. Di Verde/at H
 Nè per gratia giamai, nè per orgoglio fia‘l mio cor satio. Di Verde/ot 15
 Piove da gli occhi della donna mia una tanta bcizadc. Di Verde/ol 16
 
-—I787—
+-I787-
 

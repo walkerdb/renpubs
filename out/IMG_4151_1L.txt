@@ -14,9 +14,9 @@ A 7. Sotto un d’aspri martiri alpestre monte 13
 A 8. Quand‘io caddi a la rete, onde prigion mi feste 20
 
 I-VEcap: compl
-I—VEaf: 2° esempl. compl.; 3° esempl. manc. del 5.
+I-VEaf: 2° esempl. compl.; 3° esempl. manc. del 5.
 
-ïaôd-i— ÊELLASIO PaoloN(1578) — Di Paolo Bellasio veronese il Primo Libro de
+ïaôd-i- ÊELLASIO PaoloN(1578) - Di Paolo Bellasio veronese il Primo Libro de
 r gai a Cinque vocx. ovamente osti i 1 _ I V' _ ,
 di Girolamo Scotto. 1578. P 11 uce n lneggia. APPTCSSO lheredc
 
@@ -54,7 +54,7 @@ Non vcd’hoggi il mio sole splender nel loco usato €;
 
 al fredd’ond’io m’agiaccio
 
-—180— A
+-180- A
 
 Alla profonda piaga ama e mortale,
 

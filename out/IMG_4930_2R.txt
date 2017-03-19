@@ -8,7 +8,7 @@ Ben per sanar la piaga de l‘obbiezto (seconda parte) ZZ
 Se così piace a voi, madonna, io vo morire 23
 l-Vnm: T.
 
-2730 — TORELLI Gaspare (1593) _ Canzonette :\ tre voci di Gasparo Torelli,
+2730 - TORELLI Gaspare (1593) _ Canzonette :\ tre voci di Gasparo Torelli,
 della città del Borgo è San Sepolcro. Nuovamente poste in luce. In Venetia, ap-
 presso Giacomo Vincenti. 1593. Ad instantia di Pietro Paolo Tozzi.
 
@@ -40,9 +40,9 @@ E tu cocchier in altra parte agira (ter/.:| parte) 20
 l'- \'oi, contrade., rimanete in pace (quarta parte) "
 
 A'Wn: compl.
-l-Bc: B.
+I-Bc: B.
 
-?731 — TORELLI Gaspare (1594) _ Di Guasparri Torelli dalla città del Borgo
+?731 - TORELLI Gaspare (1594) _ Di Guasparri Torelli dalla città del Borgo
 a San Sepolcro, il Secondo Libro delle Canzonette a tre, et a quatro voci nova-
 mente poste in luce. Al molto illustre sig. Riccardo Benedetti Riccardi. In Venetia
 appresso Ricciardo Amadino, 1594.
@@ -53,5 +53,5 @@ ts Vt 1594.
 Al Tuîta vi dono. Hor res!a il cor arso e piagato l
 ” ” 0 dolci baci, che l'ardente fiamma del mio cor vor smorzate Z
 
-—I699—
+-I699-
 

@@ -3,14 +3,14 @@ D-Mbs: compl.
 E-V: compl.
 PL-GD: compl.
 I-de: C.A.B.
-GB-me: A.D.
+GB-Lbm: A.D.
 GB-Lwa: AB.
 l-Nc: A5.
-l—Fc: 5.
+l-Fc: 5.
 
 Il N. 2989 è annullato.
 
-2990_— (De) WERT Iacob (1586) _ Di Giachcs de Wert l’Ottavo Libro de
+2990_- (De) WERT Iacob (1586) _ Di Giachcs de Wert l’Ottavo Libro de
 Madrigali a cinque voci, novamente composto, et dato in luce. In Venetia appresso
 
 Angelo Gardano 1586.
@@ -54,6 +54,6 @@ Con voi giocando amor
 I-Bc: compl.
 l-MOe: comp].
 D-Mbs: compl.
-GB-me: compl.
+GB-Lbm: compl.
 I-Fc: 5.
 

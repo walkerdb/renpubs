@@ -52,6 +52,6 @@ A gran torto si lagna giovin amante 33;
 O come nulla vale per adempir il vostro van disegno
 
 l-Fc: compl.
-GB-me: C.T.B. (difett.).
+GB-Lbm: C.T.B. (difett.).
 l-REm: T.
 

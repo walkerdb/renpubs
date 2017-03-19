@@ -7,9 +7,9 @@ S fasc. in 8° (C.A.’l'.B.5.), pag. 21. lndice = 1606.
 GB-Och: compl.
 
 l-Rc: C.B.5.
-GB—me: B.
+GB-Lbm: B.
 
-826 — D’INDIA Sigismondo (1611) _ Libro Secondo de Madrigali a cinque voci
+826 - D’INDIA Sigismondo (1611) _ Libro Secondo de Madrigali a cinque voci
 di Sigismondo D'India nobile palermitano. Novamente composti et dati in luce.
 ln Venetia. Appresso Angelo Gardano, et fratelli. 1611.
 
@@ -38,7 +38,7 @@ Stringe egli alle dolcissime paroic (terza parte) 20
 COSÌ moriro languidi c anclanti (quarta parte) 21
 GB-Och: compl.
 1-Rc: C.B.5.
-GB-me: B.
+GB-Lbm: B.
 
 US-SPsc (De Bellis): 5.
 
@@ -53,5 +53,5 @@ lomeo Magni.
 D'SPictata pictate fu la tua veramente, () Dafne (Tasso) 1
 Dove, ah dove tcn vai, unico del mio cor dolce conforto Z
 
-_539—
+_539-
 

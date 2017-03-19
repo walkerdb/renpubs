@@ -9,7 +9,7 @@ A 3. Tu baci, dislcale ]9
 » » Percoterò questo 25
 » » Ardo e son queste 28
 
-l-Bc: B. per sonare
+I-Bc: B. per sonare
 
 2054 _ ORAFI Pietro Marcellino (1652) _ La Cantica poesie e musiche del
 sig. abbate Orafi a due, tre, quattro, e cinque voci per Congregationi, Accademie,
@@ -37,9 +37,9 @@ A 5. Giuratemi, sorelle, se vedete‘l diletto (Adiuro vos filiae) ” 63
 » » Voi ch’ardete d’amor, languide figlie (Egredirnini filiae Sion) » 66
 
 PL-WRu: C.l°, C.2°.
-GB-me: T.
+GB-Lbm: T.
 
-2055 — ORISTAGNO Giulio (1588) _ Di Giulio D‘Oristagno, siciliano. Il Primo
+2055 - ORISTAGNO Giulio (1588) _ Di Giulio D‘Oristagno, siciliano. Il Primo
 Libro de Madrigali a cinque voci, novamente composti et dati in luce. In Venetla
 appresso Angelo Gardano 1588.
 
@@ -55,5 +55,5 @@ A 5. Amatemi, ben mio, per che sdegn'il mio core ogn‘altro cib'e vive sol d’
 » » Ardo e’n sì dolc’ardore mai non arse pastore, nè mai di pastorella
 » » Così stretti d’un laccio, arsi d’un foco (seconda parte)
 
-—]Z62—
+-]Z62-
 

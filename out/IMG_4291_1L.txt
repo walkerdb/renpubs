@@ -1,4 +1,4 @@
-681 — DALLA CASA Girolamo (1574) _ Di Gicronimo da Udine, musìco del-
+681 - DALLA CASA Girolamo (1574) _ Di Gicronimo da Udine, musìco del-
 l‘illustriss. S. di Venetia il Primo Libro de Madrigali a cinque et a sei voci, insieme
 un Dialogo a otto novamente composti et dati in luce. Libro Primo. In Venetia
 
@@ -35,7 +35,7 @@ A 6. Voi mi tcnesti un tempo, madonn’avinto con sì dolci nodi
 » » Alma d’amor gioiosa, hor ehe sospiri per soverchin diletto 26
 A 8. Onde nasce il dolor che mi tormenta. Dialogo
 
-GB-me: A.B.
+GB-Lbm: A.B.
 
 I-Vnm: C.
 

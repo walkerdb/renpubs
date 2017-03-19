@@ -36,13 +36,13 @@ A 6. Donna, tu sei sì bella, che pari proprio un sol, non elt‘una stella 25
 
 » » 0 gran (liscorlesia
 
-GB-me: compl.
+GB-Lbm: compl.
 PL-GD: compl.
-l-Bc: C.A.T.B.
+I-Bc: C.A.T.B.
 
 GB-Ge: C.A.B.5.
 
-2962 — (De) WERT ]acob (1561) _ Il Primo Libro _dc' Madrigali a aìuatgînzgic;
+2962 - (De) WERT ]acob (1561) _ Il Primo Libro _dc' Madrigali a aìuatgînzgic;
 di Giaches de Wert novamente posti in luce ct da lux proprio coretti. n
 appresso Girolamo Scotto. 1561.
 
@@ -54,5 +54,5 @@ Che giova posseder cittadi e regni e palagi habitar »
 
 Ma che non giov‘haver fedeli amanti (seconda parte)
 
-—I848—
+-I848-
 

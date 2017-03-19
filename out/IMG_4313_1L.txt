@@ -14,7 +14,7 @@ Ma quei come’l movessc un bel desire (terza parte) 29
 Quando mi viene inanzi il tempo e‘] loco ov'io perdci (Petrarca) 30
 Quel sol che solo a gl’occhi miei (seconda parte) ” 3]
 I-Bc: C.
-GB-me: T.
+GB-Lbm: T.
 
 739 _ DE MONTE Filippo (1585) _ Di Filippo Di Monte maestro di capelli!
 della S.C. maestà dell'imperatore Rodolfo Secondo. Il Secondo Libro dc Madſ;
@@ -35,7 +35,7 @@ F-TLm: A.
 
 F-PnzT.
 
-740 — DE MONTE Filippo (1.585) _ Il Terzo Libro de Madrigali a quattrîivf’îi'»
+740 - DE MONTE Filippo (1.585) _ Il Terzo Libro de Madrigali a quattrîivf’îi'»
 di Filippo Di Monte maestro di capella della S.C. maestà dell'imperagofà 135 o
 miliano Secondo. Novamente ristampato. In Vinegia appresso l'herede dl Gll‘O am
 Scotto. 1585.
@@ -66,5 +66,5 @@ Aspro cor e selvaggio e cruda voglia 14
 ))
 Vivo sol di speranza nmcmbrando (seconda parte)
 
-_.488—
+_.488-
 

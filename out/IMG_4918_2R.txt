@@ -38,7 +38,7 @@ F-Psg: compl.
 NL-DHgm: compl. (prov. Scheurleer).
 Stellſeld 21.
 
-2695 — TAGLIA Pietro (1555) _ Di M. Pietro Taglia, il Primo Libro de Madri-
+2695 - TAGLIA Pietro (1555) _ Di M. Pietro Taglia, il Primo Libro de Madri-
 gali a quattro voci nuovamente da lui fatti, coretti, et dati in luce: in belisSima
 stampa Con privilegio. In Milano, appresso Francesco et Simone Moscheni fra-
 
@@ -53,5 +53,5 @@ QUando talhor un fortunato velo, o il mio nemico guanto
 Ca adorata e dolce, onde spira un'auretta alma e suave Z
 Possieda chi desia argento. oro, terren (seconda parte) 3
 
-—I675—
+-I675-
 

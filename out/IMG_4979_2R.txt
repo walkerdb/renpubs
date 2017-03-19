@@ -20,7 +20,7 @@ B-Br: compl.
 
 D-Mbs: compl.
 
-l-Bc: A.
+I-Bc: A.
 
 I-Vnm: A.
 
@@ -30,7 +30,7 @@ l-VEaf : 5.
 
 RISM, I 1538-20 (non compl.).
 
-2884 — VERDELOT Philippe (1540) _ Le dotte, et eccellente compositìoni de i
+2884 - VERDELOT Philippe (1540) _ Le dotte, et eccellente compositìoni de i
 Madrigali a cinque voci da diversi perfettissimi musici fatte. Novamente raccolte,
 cc con ogni diligentia Stampate. Auttori. Di Adriano Vuillaert, et di Leonardo
 Barri suo discipulo. Di Verdelotto. Di Constantio Festa. D1 Archadelt. dl Corteg-
@@ -61,5 +61,5 @@ Donna, sc fiera stella mi fè da voi lontan, per tormi pace 15
 Quand’havran fin, amor, li affanni miei 16
 Se’l f0co in cui scmpr'ardo, fosse foco. Di Arc/rade]! 17
 
-—- 1795 —
+-- 1795 -
 

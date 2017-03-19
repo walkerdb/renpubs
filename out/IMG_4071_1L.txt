@@ -10,7 +10,7 @@ A 7. Ben più di mille strali. Per nozze Cristoforo Foccari cMaria contessa di S
 D-As: compl.
 D-Mbs: compl.
 D-Rp: A.TB.5.6.
-GB-me: 5.
+GB-Lbm: 5.
 US-Wc: 5.
 
 35 _ ALBANO Marcello (1616) _ Il Primo Libro di Canzoni, e Madrigaletti, a
@@ -52,6 +52,6 @@ menti perfetti come liuto, cimbalo, arpa et altri lstrumenti, la battuta sx port
 le accadenze di mezo si cantano à battuta giusta; le finale sx tengono un poco più delle altre.
 Le Canzoni che sono il quattro si potranno cantare à tre con lascrar la parte del Tenore
 
-I—Bc: C.1°, C.Z°.
+I-Bc: C.1°, C.Z°.
 RISM, I 1616-11.
 

@@ -17,27 +17,27 @@ A 3. Amanti. homai vivete senza timor di duri lacci o rele 11
 A4. Rivestasi la terra di fresch'herbett'e fiori 18
 » » Candida perla, ch‘in fin oro accolla, togli il più ricco 19
 " » Le tue dolci parole, che son rose c viole ZO
-l-Bc: compl.
+I-Bc: compl.
 
-PL—GD: compl.
+PL-GD: compl.
 
-714 — DEL MEL Rinaldo (1596) _ Madrigaletti a tre voci di Rinaldo Del Mel
+714 - DEL MEL Rinaldo (1596) _ Madrigaletti a tre voci di Rinaldo Del Mel
 gcntil‘huomo fiammengo. Novamente composti et dati in luce. Libro Secondo. In
 Venetia appresso Angelo Cardano. 1596.
 
 3 fase. in 8° obl. (C.T.B.), pag. 20.0). Ded. = 1586, ma datata: «Magliano Capo di Sabina.
 ZO V… 1596 ». Indice = 1586.
 
-l—Bc: compl.
+I-Bc: compl.
 
 715 __ DEL MEL Rinaldo (1604) .. Madrigaletti a tre voci di Rinaldo Del Mel
 gcnül'huomo fiammcngo, novamcnte ristampati. Libro Secondo. In Venetia, ap-
 Pſcsso Angelo Cardano 1604.
 
 3 fase. in 8° obl. (C.T.B.), pag. 20,(l). Indice = 1586.
-GB-me: C.B. (prov. Borghese).
+GB-Lbm: C.B. (prov. Borghese).
 
-7_16 _— DEL MEL Rinaldo (1594) _ Il Terzo Libro delli Madrigaletti a tre voci,
+7_16 _- DEL MEL Rinaldo (1594) _ Il Terzo Libro delli Madrigaletti a tre voci,
 gl lealdo del Mel. Novamente posto in luce. In Venetia appresso Angelo Gar-
 ano. 594.
 

@@ -6,7 +6,7 @@ A 5. Come lume di notte in alcun porto (quarta parte) (Petrarca) 17
 » » Quando più cruda sete, donn'alle mie querele più \‘i sarò fedele Zl
 A 10. Ecco, s‘in questi boschi è la mia. Ecco a 10. Choro ZZ
 
-GB-me: compl.
+GB-Lbm: compl.
 I-Bc: C.A…
 RISM, I 1578-22.
 
@@ -15,7 +15,7 @@ capella del duomo di Padova: il Secondo Libro de Madrigali a cinque vom,
 novamente composto et dato in luce. In Venetia presso Giacomo Vincenci, “
 Ricciardo Amadino, compagni. 1584.
 
-5 fasc. in 8° (C.A.T.B.5-). Pag. 20,0). Ded. a Nicolao Christoforo Radzivil Duca in plica—cl
+5 fasc. in 8° (C.A.T.B.5-). Pag. 20,0). Ded. a Nicolao Christoforo Radzivil Duca in plica-cl
 Nicssisz, Gran Marcsalcho (rit) del Scrcnissimo Re di Polonia nel Gran Ducato di Lituania!
 ((. L’affctcuosa scrvitù ch’io tengo con l'Ecccllcntissimo Sig. Duca Alberto suo fratello... Venetia.
 1° III 1584 ».
@@ -44,7 +44,7 @@ A 5. Cara, dolce, noturna, alma quiete, più chiara assai del giorno l
 A 7. Alma d'amor gioiosa, bor che sospiri. Dialogo
 
 D-Mbs: compl.
-GB-me: compl.
+GB-Lbm: compl.
 US-Ws: comp].
 I-MOc: C.A.B.5.
 I-VEaf : C.

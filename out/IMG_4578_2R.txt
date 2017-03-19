@@ -19,9 +19,9 @@ A 10. Basti fin qui le pen‘e i duri affanni » 19
 
 l-Fc: compl.
 l-MOe: cmopl.
-l-Bc: T.B.
+I-Bc: T.B.
 
-1597 — MARENZIO Luca (1580) _ l)i Luca Marcnzio il Primo Libro dc Madri-
+1597 - MARENZIO Luca (1580) _ l)i Luca Marcnzio il Primo Libro dc Madri-
 gali a cinque voci novamente composti, ct dati in luce. In Venetia appresso Angelo
 
 Gardano. 1580.
@@ -48,6 +48,6 @@ A 5. Liquide perle amor da gl‘occhi sparse in premio del mio (Sannazzaro) l
 » » Partirò dunque. Ohimè mi manca il core. Porgimi aita, amore ]7
 A 8. O tu, che fra le selve occulta vivi. Dialogo :\ 8 in risposta d‘ecco (Tasso) 18
 
-l-Bc: compl.
+I-Bc: compl.
 D-Mbs: compl.
 

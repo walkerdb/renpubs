@@ -70,5 +70,5 @@ PL-GD: compl.
 
 US-Wc: compl.
 
-GB-me : C.T.
+GB-Lbm : C.T.
 

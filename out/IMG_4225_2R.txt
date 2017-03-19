@@ -12,7 +12,7 @@ l-Nc: A.T.B.5.
 CARA Marchetto
 Cfr.: TROMBONCINO Bartolomeo - CARA Marchetto.
 
-492 — CARACCIOLO Paolo (1582) _ Di Paolo Caracciolo gentoil’huomo siciliano,
+492 - CARACCIOLO Paolo (1582) _ Di Paolo Caracciolo gentoil’huomo siciliano,
 della città di Nicosia, il Primo Libro de Madrigali a cinque voc1: novamente posti
 in luce. In Vinegia appresso l’ hercde di Girolamo Scotto. 1582.
 
@@ -52,7 +52,7 @@ cuor 24
 
 loc
 
-D—Mbs: compl.
+D-Mbs: compl.
 GB"me: compl.
-S—Uu: compl.
+S-Uu: compl.
 

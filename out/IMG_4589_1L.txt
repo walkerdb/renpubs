@@ -9,7 +9,7 @@ A 6. Occhi sereni e chiari, al cui divin splendore IZ
 » » Le quali ella spargea sì dolcemente (seconda parte) » 19
 A 10. Viene Clori gentil boschetti e prati. Dialogo (Poliziano) 20
 
-l—PESc: C.A.5.6.
+l-PESc: C.A.5.6.
 
 I-Rsc: C.T.B.5.
 
@@ -34,7 +34,7 @@ cardinal d‘Este. Novamente ristampato. In Venetia appresso Angelo Cedam-
 6 fase. in 8° (C.A.T.B.5.6.), pag. 20,(l). Ded. :\ Don Alfonso d‘Este, Duca di Ferrara, Venetia.
 10 IV 1581. lndicc = 1581.
 
-l-Bc: compl.
+I-Bc: compl.
 
 l-Fn: compl.
 
@@ -48,12 +48,12 @@ GB-Ob: compl.
 Pl.-GD: compl.
 D-Dl: C.A.T.5.6. (prov. Heyer).
 l-Rsc: C.A.B.5.6. (2° cscmpl.: C.A.B.5.).
-1—Sd: C.A.B.5.6.
+1-Sd: C.A.B.5.6.
 D-Rp: C.A.T.5.
-GB-me: C.A.B.5.
+GB-Lbm: C.A.B.5.
 E-T'Z: C.A.B.
 US-Lau: B.5.
-E—Zac: A.6.
+E-Zac: A.6.
 l-ASs: C.
 
 F-A: 5.

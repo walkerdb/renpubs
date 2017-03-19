@@ -1,15 +1,15 @@
 A8. ll tuo foco et li toi strali pieni, amor, son di dolcezza 28
 A 4. Quattro siam qui che spolando, donne car'andiam del lino. Da spolatori de lino 30
 
-l-Bc: compl.
+I-Bc: compl.
 A-Wn: compl.
-GB-me: A.T.
+GB-Lbm: A.T.
 S-Uu: B.
 
 NUVOLONI Alessandro
 Cfr: NUVOLONI Massimiliano - NUVOLONI Alessandro.
 
-2045 — NUVOLONI Massimiliano - NUVOLONI Alessandro (1608) _. Canzo
+2045 - NUVOLONI Massimiliano - NUVOLONI Alessandro (1608) _. Canzo
 nette di Massimiliano Nuvoloni organista, a tre voci, nuovamente date in luce.
 Agiontovi alcuni Capricij, et Balletti di Alessandro suo padre, hora di novo
 ristampati, con nova gionta. In Milano, per l’herede di Simon Tini, et Filippo
@@ -54,5 +54,5 @@ A 3. Donna, se struggì et ardi, io sento mille dardi. A Don Placido da Lodi A.(
 
 l-VCd : compl.
 A-Wn : compl.
-RISM. I 1608—18.
+RISM. I 1608-18.
 

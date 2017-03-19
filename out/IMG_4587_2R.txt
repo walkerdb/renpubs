@@ -42,7 +42,7 @@ I-ST: C.
 
 NL-DHgm : A.
 
-1640_— MARENZIO Luca (1601) _ Di Luca Marenzio il Nono Libro de
+1640_- MARENZIO Luca (1601) _ Di Luca Marenzio il Nono Libro de
 adrlgali a cinque voci di novo ristampato, et corretto. In Venetia, appresso
 
 Angelo Gardano. 1601.
@@ -51,5 +51,5 @@ Angelo Gardano. 1601.
 D-As: compl.
 F‘Pn: comp].
 
-— 1019 —
+- 1019 -
 

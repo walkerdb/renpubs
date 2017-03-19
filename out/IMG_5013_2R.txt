@@ -8,12 +8,12 @@ gali a cinque voci. Novamente ristampato. In Venetia appresso Angelo Gardano.
 l-VEaf : compl.
 D-Bs: compl.
 F-Pc: compl.
-l-Bc: T.D.
+I-Bc: T.D.
 l-Sd: T.
 
 Un esempl. compl., ina difetto“), Csidlevn nella Collezione Heyer di Kòln.
 
-2992 — (De) WERT ]acob (1588) _ Di Giaches de Wert il Nono Libro de Madri-
+2992 - (De) WERT ]acob (1588) _ Di Giaches de Wert il Nono Libro de Madri-
 gali a cinque et sei voci, novamente composto, et dato in luce. Con privilegio.
 In Venetia appresso Angelo Gardano. 1588.
 
@@ -49,5 +49,5 @@ D-Mbs: compl.
 
 I-Bc: C.1°, A.T.B.5.
 I-Fn: c.2°. AIB-5-
-GB—me: C.P. A-T-B-
+GB-Lbm: C.P. A-T-B-
 

@@ -45,7 +45,7 @@ Io non posso lasciarti, 0 Vita mia. Facciami gucrr'il ciel e la mia sorte ZU
 Quest'augelin che mi donò la mamma, Fiammetta bella, ti voglio donare Zl
 Sappi, cor mio. ch'io non riposo mai. La colera m’ancidc
 
-GB-me: compl.
+GB-Lbm: compl.
 PL-GD: compl.
 I-MOc: A.D.
 

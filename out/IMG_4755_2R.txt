@@ -18,9 +18,9 @@ Echo, figlia de i bosch’e de lc valli, ignudo spirto e voce errante 24
 Echo che cosa è il fin d'amore (seconda parte) 25
 
 B-Gu: A.D., A.2°, T.2°.
-GB-me: T.
+GB-Lbm: T.
 
-2214 — PHILIPS Peter (1599) _ Di Pietro Philippi inglese, organista del sere-
+2214 - PHILIPS Peter (1599) _ Di Pietro Philippi inglese, organista del sere-
 nissimo Alberto archiduca d'Austria etc. Madrigali a otto voci. Novamente
 composti, et dati in luce. In Anversa. Appresso Pietro Phalesio. 1599.
 
@@ -28,21 +28,21 @@ composti, et dati in luce. In Anversa. Appresso Pietro Phalesio. 1599.
 
 F-Pthibault: compl.
 
-GB—Och: compl.
+GB-Och: compl.
 
 GB-Ob: C.A.T. C.2°, 8.2“.
 
-2215 — PHILIPS Peter (1615) _ Di Pietro Philippi inglese, organista delli
+2215 - PHILIPS Peter (1615) _ Di Pietro Philippi inglese, organista delli
 serenissimi prencipi Alberto et Isabella archiduchi d'Austria etc. Madrigali a
 Otto voci. Novamente ristampati. In Anversa apresso Pietro Phalesio. 1615.
 
 3 fasc. in 8° obl. (C.A.T.B.C.Z°, A.Z°, T.Z°, B.2°), pag. (26). Ded. a Guillielmo Stanlei, Cavaliero
 inglese. Indice = 1598.
 
-GB-me: c.»..n. C.Z°, A.2°, T.2°. B.2°-
+GB-Lbm: c.»..n. C.Z°, A.2°, T.2°. B.2°-
 DW: C.T.B.
 
-2216 — PIAZZA Giovanni Battista (1633) _. Canzonette di Gio. Batista Piazza
+2216 - PIAZZA Giovanni Battista (1633) _. Canzonette di Gio. Batista Piazza
 detto l’Ongaretto. Libro Primo. A voce sola. Con licenza de’ Superiori, et privi-
 legio. In Venetia 1633 appresso Bartolomeo Magni.
 
@@ -55,5 +55,5 @@ Lamar mio non è solo di voler, ma desuno
 
 Quando credevo che di quel tesoro di coralli, di perle c di rubini 6
 
-— 1353 —
+- 1353 -
 

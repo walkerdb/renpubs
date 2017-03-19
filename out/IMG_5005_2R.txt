@@ -12,7 +12,7 @@ PL-WRu: C.l", A., T., B.
 
 Sartori 1632.
 
-2960 — WEELKES Thomas (1608) _ Ayercs or Phantascicke Spiriteis fonthrcc
+2960 - WEELKES Thomas (1608) _ Ayercs or Phantascicke Spiriteis fonthrcc
 voices, made and newly published by Thomas Weelkes, gentleman of his Maiesnes
 Chappell, batchelar of Musickc, and organest of the cathedral-church of. Chichester.
 London printed by William Barley, and are to be sold at his shoppe m Gracrous
@@ -57,12 +57,12 @@ ZZ.
 A 6. Deaih hath dcprivcd me.
 
 GB-Cul: compl.
-GB-me: compl.
-GB—Lcm: comp].
+GB-Lbm: compl.
+GB-Lcm: comp].
 GB-Ob: comp].
 
 WERREKOREN Mathias .
 Cfr.: HERMANN MATHIAS VerecorenSis.
 
-—I847—-—
+-I847---
 

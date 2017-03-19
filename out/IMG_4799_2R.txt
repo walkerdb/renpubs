@@ -7,7 +7,7 @@ PL-Wu: S.
 PL Wn: 5.
 Pass 1574 (errato).
 
-2326 — REGNART ]acob (1574-2) _ Di Iacomo chnart musico della S.C. maestà
+2326 - REGNART ]acob (1574-2) _ Di Iacomo chnart musico della S.C. maestà
 dell'imperatore Maximiliano Secondo. Il Primo Libro delle Canzone italiane a
 cinque voci, novamcnte post:: in lucc. In Vienna appresso ]acomo Mair. 1574.
 
@@ -16,7 +16,7 @@ cinque voci, novamcnte post:: in lucc. In Vienna appresso ]acomo Mair. 1574.
 PL-GD: compl.
 Pass 1574 (errato).
 
-2327 — REGNART ]acob (1580) _ Di lacomo chnart musico della S.C. maestà,
+2327 - REGNART ]acob (1580) _ Di lacomo chnart musico della S.C. maestà,
 dell'imperatore Maximiliano Secondo. Il Primo Libro delle Canzone italiane a
 Cinque voci. Novamente poste in luce. Noribergac 1580.
 
@@ -25,14 +25,14 @@ Cinque voci. Novamente poste in luce. Noribergac 1580.
 
 D-Mbs: compl.
 
-GB-me: compl.
+GB-Lbm: compl.
 
 US-R: compl. (prov. Wolﬄlcim).
 D-W: A.S.
 
 Pass 15803 (non compl.).
 
-2328 — REGNART ]acob (1585) _ Di ]acomo chnart musico della S.C. maestà,
+2328 - REGNART ]acob (1585) _ Di ]acomo chnart musico della S.C. maestà,
 dell'imperatore Maximiliano Secondo. Il Primo Libro delle Canzone italiane a
 Cinque voci, novamente poste in luce. Noribcrgac. 1585.
 
@@ -40,7 +40,7 @@ ln fine: « Noribergae. Imprimcbantur in oﬃcina Catharinae Gcrlachin et hacred
 thannis Montani. Anno 1585 ».
 
 5.1… in 8° (S.A.T.B.5.), pag. (23). Ded. al Principe Ridolpho d’Austria, re di Hungaria.
-Vienna, 24 IV 1574. Indice = 1574—1.
+Vienna, 24 IV 1574. Indice = 1574-1.
 
 A'Wn : compl.
 D-DS : T.

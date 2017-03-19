@@ -6,7 +6,7 @@ A-Wn: compl.
 
 [JS-R: compl.
 
-l-Bc: C.A.5.
+I-Bc: C.A.5.
 
 F-Pc: T.
 
@@ -21,19 +21,19 @@ Vincgia, appresso Girolamo Scotto, 1571.
 5 ſnsc. in 8" (C./\.T.B.5.), pag. 39,(1). lndicc = 1570.
 
 l-Rsc: T.
-GB-me: T.
+GB-Lbm: T.
 B-Bc: B.
 
 2666 _ STRIGGIO Alessandro (1573) _ 11 Secondo Libro dc Madrigali a cinque
 voci, di M. Alessandro Striggio gentil’huomo mantovano. Con prìv1legglo-ÎD
 Vincggia. Apprcsso l'hcrcde di Girolamo Scotto. 1573.
 
-5 fasc. in 8° (C..—\.T.B.5.), png. 39,(1). Indice = 1570.
+5 fasc. in 8° (C..-\.T.B.5.), png. 39,(1). Indice = 1570.
 
-I—VEaf: comp].
-l-Bc: C.A.T.B.
+I-VEaf: comp].
+I-Bc: C.A.T.B.
 
-2667 — STRIGGIO Alessandro (1579) _ 11 Secondo Libro de Madrigali a fim-l';
+2667 - STRIGGIO Alessandro (1579) _ 11 Secondo Libro de Madrigali a fim-l';
 voci, di M. Alessandro Striggio gentil’huomo mantovano. Con prmlcgglo-
 Vineggia. Appresso l'heredc di Girolamo Scotto. 1579.
 

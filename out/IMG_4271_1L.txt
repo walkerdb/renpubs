@@ -28,7 +28,7 @@ Quante lagrim'amor, quanti sospiri ho sparti et vo spargendo ;:
 
 Rompi quel duro ghiaccio anzi ch'io mora (seconda parte)
 
-GB-me: compl.
+GB-Lbm: compl.
 GB-LI: compl.
 F-CC: C.
 
@@ -38,7 +38,7 @@ Chitarra alla spagnola, et con il Basso continuo da sonare nel Clavicembalo, et 
 istromentì simili. Nuovamente composte et date in luce. In Venetia, appresso Gia‘
 como Vincenti, 1616.
 
-Vol. in 4°, pag. 39. Ded. a Giovanni Cornaro Procuratore di S. Marco, Venetia, ll III 1615—
+Vol. in 4°, pag. 39. Ded. a Giovanni Cornaro Procuratore di S. Marco, Venetia, ll III 1615-
 
 A 2. Stravaganza d’amore che la mia Filli habbia 4
 » » Filli mia, pena mi date et ogn’hor morir mi fate 6
@@ -54,5 +54,5 @@ A 2. Per pietà delle mie pene il mio bene, la mia dea 19
 
 » » Sono lacci, donne belle, queste chiome che portate
 
-—4IZ —
+-4IZ -
 

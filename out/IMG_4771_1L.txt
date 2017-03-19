@@ -49,7 +49,7 @@ A-Wn: compl.
 
 D-Mbs: compl.
 
-GB-me: B.5.
+GB-Lbm: B.5.
 
 I-Bc: B.
 

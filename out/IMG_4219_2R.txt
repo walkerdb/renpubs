@@ -16,9 +16,9 @@ A4. Quel dolce cmpio signor, chc’l mond’honora
 » » Chi vol veder un miracol d’amore in me nsguardn 28
 » » Ch’ei V’ami ct ch’ei v’adori, Alpino hoggi vi chiede . 29
 A 6. Io mi scnto morir, madonna, aita, un bascto anima mia.
-I—VEaf : compl.
+I-VEaf : compl.
 A-Wn: compl.
-GB-me: C.
+GB-Lbm: C.
 D-Es: T.
 
 477 bis _ CANGIASl Giovanni Antonio (1602) __ Il Secondo Libro (illich/(133221:-
@@ -57,5 +57,5 @@ Na vccchierella l’altro giorno 20
 10 gli risposi (seconda parte) 21
 Ella mi piglia per la man (terza parte)
 
-—311—
+-311-
 

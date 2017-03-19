@@ -5,12 +5,12 @@
 » » Ne‘ vostri dolci baci dell'api è’] dolce mele (Tasso) 20
 A 6. Leggiadra giovinetta, gl'occhi luni son due stelle Il
 » » Vieni, lmeneo, (lal cielo cui pargoletti amori, e d‘amoroso zelo B
-l-Bc: comp].
+I-Bc: comp].
 
 l-Bsp: compl.
 I-Rsc: compl.
 PL-GD: C.A.T.S.
-A—Wn: C.T.5.
+A-Wn: C.T.5.
 US-Cn: T.
 
 2636 _ SPONTONI Bartolomeo (1558) _ Di Bartolomeo Spontonc il Primo
@@ -71,5 +71,5 @@ Lascia, ninfa gentil, le spond’herbosc Stringer a l'acque 30
 
 Quivi, fm verdi frond’et rivi amati, susurar s’odn't l’api
 
-— 1638 —
+- 1638 -
 

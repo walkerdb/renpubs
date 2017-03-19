@@ -2,7 +2,7 @@ CH-Bu: comp].
 D-As: compl.
 GB-Lwa: compl.
 A-Wn: C.A.B.5.
-GB-me: B.
+GB-Lbm: B.
 D-Kl: 5.
 
 955 _ FERRETTI Giovanni (1571) _ Di Giovan Ferretti il Quarto Libro delle
@@ -50,6 +50,6 @@ Scotto, 1573.
 
 D-Mbs: compl.
 
-l-Bc: C.
+I-Bc: C.
 I-Fr: 5.
 

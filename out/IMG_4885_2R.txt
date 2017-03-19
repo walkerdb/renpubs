@@ -30,16 +30,16 @@ Zatec - Convento dei Cappuccini. G.B.
 
 D-As: C.
 
-GB-me: C. (prov, Landau).
+GB-Lbm: C. (prov, Landau).
 
-l-Bc: B.
+I-Bc: B.
 
 I-Vnm: B.
 
-US-BE: B. (manc. di pag. 1—16).
+US-BE: B. (manc. di pag. 1-16).
 RlSM, 1 1571-11 (non compl.).
 
-2595 — SCOTTO Girolamo (1541) _ Di Girolamo Scotto il Primo Libro de i
+2595 - SCOTTO Girolamo (1541) _ Di Girolamo Scotto il Primo Libro de i
 Madrigali a doi voci, novamcnte stampati. Venetiis apud ipsum authorcm. 1541.
 
 Z fase. in 8° obl. (C.T.). png. 43,0)-
@@ -56,5 +56,5 @@ Qual donna canterà, se non cant'io, che son contenta. Primi toni (Boccaccio) 9
 Gentil mia donna, i' reggio nel moveſ dc voslr’occhi. Primi toni (Petrarca) 10
 Ecco ch‘un‘altra volta. o piagge apriche. udrcte il pianto. Primi toni (Sannazzaro) ]]
 
-—1609—
+-1609-
 

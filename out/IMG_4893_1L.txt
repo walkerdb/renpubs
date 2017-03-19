@@ -7,7 +7,7 @@ A 1. Dell mira, 0 Filli 75
 » » Non sei più bella, no, non sei più bella, superbetta 80
 » » Se credete ch'io Sl
 » » Con un dolente ohimè Tirsi 81
-» » Raccogl‘in giro quei vaghi e belli 3—3
+» » Raccogl‘in giro quei vaghi e belli 3-3
 » » Bella Fillidc mia, mentre cantando il tuo bel nome udta M
 » » Vanne, Dori 85
 » » Più dolce il guardo ver me non gira 36
@@ -51,5 +51,5 @@ Se per servire il mondo hai sempre guai 18
 
 Servirò il grande Iddio
 
-GB-me : C.B.
+GB-Lbm : C.B.
 

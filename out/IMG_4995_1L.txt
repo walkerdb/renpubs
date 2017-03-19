@@ -37,9 +37,9 @@ US-R: compl.
 
 l-Rsc: C.A.B.5. (3 esempl.).
 
-l-Bc: C.A.
+I-Bc: C.A.
 
-GB-me: 5.
+GB-Lbm: 5.
 
 Un esempl. compl. esisteva nella Collezione Heyer di Kòln.
 
@@ -47,7 +47,7 @@ VIOLA Francesco
 Cfr.: FRANCESCO dalla Viola.
 
 . . . . . ' di
-2929 — VIRCHI Paolo (1584) _ Il Primo Libro dc Madrigali a cinque voci;nce
+2929 - VIRCHI Paolo (1584) _ Il Primo Libro dc Madrigali a cinque voci;nce
 Paolo Virchi organista et musico del sercnissimo .duca.d1 Ferrara;i nîinaîdìno,
 composti et dati in luce. In Venetia presso Giacomo Vincenti, ct R|cc1ar o
 compagni, 1584.
@@ -59,5 +59,5 @@ compagni, 1584.
 Qual cervo, errando, suole ſuggir sactte () dardi ’ (T Z
 Nci più lucenti albori, sen gia spargendo in questa parte n quella
 
-—1826—
+-1826-
 

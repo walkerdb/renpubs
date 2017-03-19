@@ -16,7 +16,7 @@ Se non ſuss'il pensier crudel et empin (Bembo) 24
 Perchè s’annida amore nelle luci 25
 Ogni beltà, madonna, ch‘io \‘cggio a l‘altrui donn'al volto 26
 :\rdo lungi et da presso e incontr‘al mio gran loco 27
-l-Bc: comp].
+I-Bc: comp].
 
 l-PAc: compl.
 
@@ -24,9 +24,9 @@ D-W: compl.
 
 F-Pthibaull: compl.
 
-Gli—Lhm: compl.
+Gli-Lhm: compl.
 
-Pl.—GD: C.A.T.
+Pl.-GD: C.A.T.
 
 D-Dl: B. (prof. Grimma; guasto).
 US-Charding: A.
@@ -35,7 +35,7 @@ US-Charding: A.
 
 ll N. 2100 è annullato.
 
-2101 — PALESTRINA Giovanni Pierluigi (1581) _ Il Primo Libro dc Madrigali
+2101 - PALESTRINA Giovanni Pierluigi (1581) _ Il Primo Libro dc Madrigali
 a cinque voci, di Gio. Petr'Aloysio Prenestino novamente composti et dati in luce.
 ln Venetia appresso Angelo Cardano 1581.
 

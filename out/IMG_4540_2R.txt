@@ -13,13 +13,13 @@ I-TVc
 
 B-Bc (prov. Wagencr; mutilo da pag. 162).
 
-GB-me
+GB-Lbm
 
 GB-Lcm
 
 US-Cn
 
-1492 —LEGRENZl Giovanni (1678) _ Idee armoniche estese per due e tre voci
+1492 -LEGRENZl Giovanni (1678) _ Idee armoniche estese per due e tre voci
 consacrate alla sacra real maestà di Carlo Il re della Gran Bertagna (ric) etc. di
 Giovanni Legrenzi Opera Decima terza. In Venetia. 1678. Appresso Francesco
 Magni detto Gardano con licenza de Superiori e privileggio.
@@ -56,5 +56,5 @@ A3. Noi siam tre prigionieri d’un’istessa beltà. Dialogo a 3, due Canti c b
 ” » Se l’amar è pazzia, perchè amo più, o mio cor. Arietta a 3, Alto, tenore e basso 86
 ” ” Se l'amar è pazzia. come ccrt'è (seconda parte) 89
 ” ” Sorge dall'oriente il sole :\ fulminar. Madrigale morale a 3, Alto, tenore e basso 91
-l-Bc
+I-Bc
 

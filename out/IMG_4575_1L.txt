@@ -9,9 +9,9 @@ D-Kl: comp].
 
 F-Pn: comp].
 
-F—Pthibault: comp].
+F-Pthibault: comp].
 
-l-Bc: C.T.B5.
+I-Bc: C.T.B5.
 
 US-CA: T.
 
@@ -51,7 +51,7 @@ I-Bc: compl.
 D-Mbs: comp].
 D-MUs: compl.
 F-Pthibault: compl.
-GB-me: compl.
+GB-Lbm: compl.
 US-CA: T.
 US-AM: T.
 

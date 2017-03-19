@@ -10,22 +10,22 @@ l-Nc: compl.
 
 US-Wc: C.B.5.6.
 
-l—PAc: C.A.T.B.
+l-PAc: C.A.T.B.
 
-D—Rp: C.A.5.6. (prov. Haberl).
+D-Rp: C.A.5.6. (prov. Haberl).
 
-1652 — MARENZIO Luca (1605) _ Il Primo Libro de Madrigali a sei voci
+1652 - MARENZIO Luca (1605) _ Il Primo Libro de Madrigali a sei voci
 di Luca Marenzio novamente ristampato. ln Venetia. Appresso Angelo Gardano.
 
 1603.
 6 fasc. in 8° (C.A.T.B.5.6.), pag. 22. Indico = 1581.
 
 l-VEcap: compl.
-GB—me: compl.
+GB-Lbm: compl.
 GB-T: compl.
 F-Pc: C.
 
-1653 — MARENZlO Luca (1584) _ Il Secondo Libro dc Madrigali a sei voci.
+1653 - MARENZlO Luca (1584) _ Il Secondo Libro dc Madrigali a sei voci.
 Di Luca Marcnzio, novamente composto, et dato in luce. In Venetia appresso
 
 Angelo Gardano. 1584.

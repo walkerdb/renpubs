@@ -49,7 +49,7 @@ l-FEc: C.A.T.B.5.
 D-Bds: B.
 
 LBC: Bc.
-GB—Lrosenthal : B.
+GB-Lrosenthal : B.
 
 Sartori 1605c.
 

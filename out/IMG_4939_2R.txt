@@ -2,7 +2,7 @@ A 5. Cinque noi siamo. Mascherala 36
 
 A 3. Fa lan fan fo Ian 33
 S-Ll: compl.
-l-Bc: T.
+I-Bc: T.
 
 2757 _ TROIANO Massimo (1568) _ Di Massimo Troiano da Napoli il Terzo
 Libro delle sue Rime, e Canzoni alla napolitana a tre voci colla Battaglia della
@@ -15,13 +15,13 @@ Moresca nuovamente fatta et data in luce. In Vinegi, appresso Girolamo Scotto.
 A-Wn: comp]. (C. diſ.).
 F-Pc: compi.
 
-GB-me: C.
+GB-Lbm: C.
 
-1—Bc: B.
+1-Bc: B.
 
 D-Z: B.
 
-2758 — TROIANO Massimo (1569) _ Di Massimo Troiano da Napoli musico
+2758 - TROIANO Massimo (1569) _ Di Massimo Troiano da Napoli musico
 dell'illustriss. et eccellentiss. sig. duca di Baviera, il Quarto Libro delle sue Rime,
 et Canzoni alla napolitana a tre voci. Con un‘aria alla spagnola a quattro voc1.
 Novamente posto in luce. In Vinegia, appresso Girolamo Scotto. 1569.

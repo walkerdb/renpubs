@@ -15,7 +15,7 @@ Tu vuoi, lasso, ch’io pera e fai del petto mio sì acerbo strzitio 19
 Per farmi amor d’ogni altro più contento ZO
 Cos di quanto hebbì già l’alma (seconda parte) Zl
 Voi non volete, donna, quel che da voi vorrei per far piangcr 72
-l-Bc: compl.
+I-Bc: compl.
 I-Bsp: compl.
 I-de: compl.
 D-As: compl.
@@ -25,7 +25,7 @@ D-Mbs: compl.
 
 l-MOe: C.A.T.B.5.
 
-GB-me: C.A.T.B.5.
+GB-Lbm: C.A.T.B.5.
 
 I-Vnm: C.A.
 
@@ -48,7 +48,7 @@ D-As: compl.
 
 F-Pc: compl.
 
-GB-me: compl.; 2° escmpl.: C.A.B.5.; 3° esempi.: C.A.6.
+GB-Lbm: compl.; 2° escmpl.: C.A.B.5.; 3° esempi.: C.A.6.
 Pl.-GD: compl.
 
 I-Sd: C.A.B.5.6.
@@ -68,5 +68,5 @@ GB-Lcm: 6.
 
 US-Bc: 6.
 
-._684—
+._684-
 

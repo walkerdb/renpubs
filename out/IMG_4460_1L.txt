@@ -37,7 +37,7 @@ A 8. lo grido pace, pace, e amor mi sfid’a guerra. Dialogo
 » » Eco solinga. Risposta d’Eco
 
 I-Bc: compl.
-GB-me: C.A.T.5.
+GB-Lbm: C.A.T.5.
 NL-DHgm: A.
 l-LOcl: B.
 

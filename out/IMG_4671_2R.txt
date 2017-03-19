@@ -1,10 +1,10 @@
 fatto particolarmente per li sci ultimi, et per li altri :\ beneplacito. Di nuovo
 ricorretto, et ristampato. In Venetia. Appresso Ricciardo Amadino, 1611.
 
-6 ſasc. in 8° (C..—\.T.B.5.Bc.), png. 23. Indice = 1605.
+6 ſasc. in 8° (C..-\.T.B.5.Bc.), png. 23. Indice = 1605.
 
 1-Bc: C.T.B.
-GB-me: G.B.5.
+GB-Lbm: G.B.5.
 
 Sartori 16110 c 11 1611c.
 
@@ -19,7 +19,7 @@ ristampato. ln Venetia, appresso Ricciardo Amadino. 1613.
 F-Pc: comp].
 Sartori 16131 c 11 16131.
 
-1928 — MONTEVERDI Claudio (1615) _ 11 Quinto Libro de Madrigali a cinque
+1928 - MONTEVERDI Claudio (1615) _ 11 Quinto Libro de Madrigali a cinque
 voci, di Claudio Monteverde, maestro di cappella della sereniss. republica. Col
 Basso continuo per il Clavicembano Chittarone od altro simile istromento, fatto
 particolarmente per li sei ultimi, ct per li altri a beneplacito. Di nuovo corretto
@@ -30,11 +30,11 @@ et ristampato. ln Venetia, 1615. Appresso Ricciardo Amadino.
 1-Bc: comp].
 B-Br: C.A.T.B.Bc.
 1-VEaf : A.T.5.
-GB-me: C.
+GB-Lbm: C.
 
 Sartori 1615i c Il 1615i.
 
-1929 — MONTEVERDI Claudio (1615) _ Di Claudio Monteverde maestro della
+1929 - MONTEVERDI Claudio (1615) _ Di Claudio Monteverde maestro della
 musica del sereniss. S. duca di Mantoa. 11 Quinto Libro de Madrigali a cinque
 Voci con il Basso continuo per il Clavicembano, Citharone ed altro simile istro-
 mento. In Anversa appresso Pietro Phalesio al re David 1615.
@@ -43,7 +43,7 @@ mento. In Anversa appresso Pietro Phalesio al re David 1615.
 GB-Och: comp].
 
 PL.-GD: C.A.T.B.S.
-F—Pthibault: C.A.T.B.S.
+F-Pthibault: C.A.T.B.S.
 
-—Il87—
+-Il87-
 

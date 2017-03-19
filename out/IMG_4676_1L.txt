@@ -30,7 +30,7 @@ A 6. Dicea Dameta a Cloride piangendo (Veni in hortum) Orazio Vecchi
 » » E viver e morire mi ſai quando (Cantate laudem Deo) » »
 
 l-l’Cd: compl.
-l—Bc: C.A.T.B.6.
+I-Bc: C.A.T.B.6.
 RlSM, I 1607-20.
 
 1945 _ MONTEVERDI Claudio (1611) _ Musica tolta da Madrigali di Claudio
@@ -46,7 +46,7 @@ I-Bc: Partito.
 l-CRg: Partito.
 RISM. I 1611-15 (non campi.). \
 
-1946 — MONTEVERDÌ Claudio (1608) _ Il Secondo Libro della music'a'dl
+1946 - MONTEVERDÌ Claudio (1608) _ Il Secondo Libro della music'a'dl
 Claudio Monteverde e d'altri autori a cinque voci fatta spirituale da Aqui-lino
 Coppini regio lettore di retorica, et Accademico Inquieto. Con la Partitura. All illu-
 striss. signora suor Bianca Lodovica Taverna nel monastero di S. Marta. In

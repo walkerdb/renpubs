@@ -1,6 +1,6 @@
 l-VEczlp: compl.
-D—Mbs: compl.
-GB-me: compl.
+D-Mbs: compl.
+GB-Lbm: compl.
 l-VCd: C.T.B.5.
 B-Br: C.A.5.
 D-Rp: A.B.5.
@@ -20,9 +20,9 @@ Gardano. 1574.
 
 A-Wn: compl.
 B-Br: compl.
-GB-me: compl.
+GB-Lbm: compl.
 GB-Lwn: compl.
-l—Vnm: C.A.T.5.
+l-Vnm: C.A.T.5.
 
 l-Fn: A.S.
 1-'-Pc: T.
@@ -30,7 +30,7 @@ l-Fc: 5.
 
 I] N. 2421 è annullato.
 
-2422 _ (Dc) RORE Cyprien (1565) _ Le Vive fiamme de‘ vaghi—c dilettevoli
+2422 _ (Dc) RORE Cyprien (1565) _ Le Vive fiamme de‘ vaghi-c dilettevoli
 Madrigali dell'ccccll. musico, Cipriano Rore, a quattro et cinquc.voc1,_novatncnàf
 posti in luce, per Giulio Bonagionta da S. Genesi, musico dell’illustriss. 56ng- '
 Vineggia. Con gratia e privilegio. In Vinegia appresso Girolamo Scotto. 15 -
@@ -52,5 +52,5 @@ A 4. Spcsso in parte del ciel lucent’c bella all'apparir (L- Gonzaga) :
 
 » » Musica dulci sono coelestin numina cantu
 
--—]500—
+--]500-
 

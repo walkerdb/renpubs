@@ -32,9 +32,9 @@ A-Wn: compl.
 S-LI: compl.
 D-As: C.
 US-BE: T.
-GB-me: B.
+GB-Lbm: B.
 
-I-Vnm: B. (solo pag. 3-6, 11-14 e 17—31 e Tavola).
+I-Vnm: B. (solo pag. 3-6, 11-14 e 17-31 e Tavola).
 RISM, I 1566-7 (non compl.).
 
 383 .. BONARDO Francesco Perissone (1565) _ Di Francesco Bonardo Perissortl:

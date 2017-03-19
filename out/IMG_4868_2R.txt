@@ -35,11 +35,11 @@ A 1- Tirsi morir volea. gl'ocehi mirando di colei ch'adora. Fexlaum solo 54
 ” ” Cui risposc il pastor. Festauro 53
 .\ Z. Et io, mia vita, moro. Filli e Tirsi 58
 A3. Così moriro i fortunati amanti di morte si soave. Filli, Tirsi e chmum 61
-l-Bc
+I-Bc
 
 (PB-och
 
-2547 — SANCES Giovanni Felice (1636) ... Il Quarto Libro delle Cantate, et
+2547 - SANCES Giovanni Felice (1636) ... Il Quarto Libro delle Cantate, et
 Arie a voce sola di Gio. Felice Sances commode da cantarsi sopra Spinetta, Tiorba,
 Arpa, o altro simile instrumento con due Canzonette a due, et una Arietta a tre
 VOCi nel fine dedicate all’illustrissimo signor c patron mio colendissimo il signor
@@ -55,5 +55,5 @@ Non sia chi mi riprenda, perch'ami un cor di sas…. Cantata l
 
 Dove n'andrò, che non mi segua amor. Ana 9
 
-—I575—
+-I575-
 

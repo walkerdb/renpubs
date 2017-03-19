@@ -2,7 +2,7 @@ l-Nc: compl.
 C-Tu: compl.
 D-MUs: compl.
 F-Pc: compl.
-GB-me: compl.
+GB-Lbm: compl.
 GB-Och: compl.
 US-CA: T.
 
@@ -37,18 +37,18 @@ Amorosctto neo. che tra le perle e gl'ostri del mio bel .\0l 19
 Così bella voi sete. donna, che co‘ begl’occhi il cor m‘ardcte 20
 Felice era il mio core, mentre seguiva amore 21
 
-GB-me : compl.
+GB-Lbm : compl.
 
-_2024 — NENNA Pomponio (1609) _ Di Pomponio Nenna. Cavalier di Cesare
+_2024 - NENNA Pomponio (1609) _ Di Pomponio Nenna. Cavalier di Cesare
 ll Sesto Libro de Madrigali a cinque voci. Novamente stampati. In Venetia. Ap-
 presso Angelo Gardano, et fratelli. 1609.
 
 5 fasc. in 3° (C.A.T.B.S.), pag. 21,0). Indice = 1607.
 
-l—Bc: compl.
+I-Bc: compl.
 
 l-Bsp: compl.
-I—VEcap: compl.
-["—Pc: compi.
-P—Pthibaull: compl.
+I-VEcap: compl.
+["-Pc: compi.
+P-Pthibaull: compl.
 

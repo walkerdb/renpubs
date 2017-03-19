@@ -13,9 +13,9 @@ l-Nc: compl.
 
 F-Pthibault: comp]. (prov.liorgheze-Cortot)
 (ìB-me: compl.
-l-Bc: A.
+I-Bc: A.
 
-2777 — UGOLINI Vincenzo (1615) _ Di Vincenzo Ugolini il Secondo Libro
+2777 - UGOLINI Vincenzo (1615) _ Di Vincenzo Ugolini il Secondo Libro
 de Madrigali a cinque voci. Novamente composti, e dati in luce. ln Venetia,
 appresso Giacomo Vincenti. 1615.
 
@@ -51,7 +51,7 @@ Pallidctlo mio sole, ai tuoi dolci pallori perde l’alba \‘ermiglia (Manno) 2
 
 l-VEcap: compl.
 F-Pthibault: compl.
-GB-me: compl.
+GB-Lbm: compl.
 
-— 1731 —
+- 1731 -
 

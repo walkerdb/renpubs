@@ -2,9 +2,9 @@ Olllſ'nc eh lo piango e in vano mi lamento. Misero me, che debbo far 44
 Partir convienmi, ahi lasso. o mia ninfa gentile, dicea con nuovo stile 46
 A-Wn: compi.
 D-Mbs: compl.
-D—G: Discant.
+D-G: Discant.
 
-3006— ZALLAMELLA Pandolfo (1586) _ Di Pandolfo Zallamella ravennate,
+3006- ZALLAMELLA Pandolfo (1586) _ Di Pandolfo Zallamella ravennate,
 Madrigali a Cinque voci novamente composti, et dati in luce. In Venetia presso
 Giacomo Vincenzi, et Ricciardo Amadino compagni, 1586.
 
@@ -24,7 +24,7 @@ A 5- Hur (le novelli sposi, l'alle glorie, i trofei, gli almi splendori l
 ” " Vinto da gran pielade, insegnava a mortali amor guarir i colpi de suoi strali 6
 " ” Nasce sul Ren, dieea, in un alto castello (seconda parte) 7
 » n Fiume, che bagni l'alme e sante mura, va pur superbo e voi, ninfe e pastori 8
-" " Poi che venuta a— a voi quella serena stella (seconda parte) 9
+" " Poi che venuta a- a voi quella serena stella (seconda parte) 9
 ” " Deh parla, ardito amante. che non ha di diamante la tua nemica il petto lU
 ” ” Donna piena d’orgoglio se in vista è fatta (seconda parle) 11
 ” ” Hor va. lieto e veloce, e con pietosa voce le di: dolce mia vita 12
@@ -38,8 +38,8 @@ A 5- Hur (le novelli sposi, l'alle glorie, i trofei, gli almi splendori l
 A 10. Padre del ciel, (luppo i perduti giorni (Petrarca) 20
 A'Wn: C.T.S.
 
-'3007 — ZANATTA Domenico (1695) _ Cantate :| voce sola in soprano con Vio—
-lini unisoni di Domenico Zanata veneto Opera Seconda. Consacrata all'illustris—
+'3007 - ZANATTA Domenico (1695) _ Cantate :| voce sola in soprano con Vio-
+lini unisoni di Domenico Zanata veneto Opera Seconda. Consacrata all'illustris-
 Simo, et eccelentissimo signor Orazio Correggio dignissimo podesta di Verona.
 In Venetia. Da Gioseppe Sala. 1695. Si vendono a San GIO. Grtsostomo all'insegna
 del re David.
@@ -49,5 +49,5 @@ Vol. in 8° obl., pag. 106.(l).
 Bianca dea, che nel cielo fai pompa dc candon .
 Frondi, voi che susurate e accordate di quest onde al mormorio 12
 
-—-1873—
+--1873-
 

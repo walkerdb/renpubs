@@ -18,7 +18,7 @@ A 8. Un iour l'amant et l'amie 57
 A 10. Quo properas facundc nepos 52
 D-Mbs: comp].
 
-GB-me: compl.
+GB-Lbm: compl.
 
 I-Tn: S. Contr. T.B.
 F-Pthibault: Contr. T.B., 5. e 6.

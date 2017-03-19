@@ -7,7 +7,7 @@ ln un fonte tranquillo si specchiava Ncera e Tirsi le dicea " 7
 Quella leggiadra man, ch‘hor prest'hor tarda, dall‘armonia discorde 8
 Cidippc io parto a dio, tu sarai pur contenta 9
 Cari, soavi accenti, che mi stillat‘in sen Strana dolcezza 10
-Dolce mia fiamma, dolce mia penn'e mio tormento (Til—“O) "
+Dolce mia fiamma, dolce mia penn'e mio tormento (Til-“O) "
 Questa vostra pietate. non refrigerio al core, ma dà forza " 11
 Vive perle son queste, nate, mia aurora, a tuoi lucenti rai ”
 Non son in queste rive fiori così vermigli, come le labbra (Tasso) "
@@ -21,7 +21,7 @@ Ecco l’hora. ecco ch’io (a pena il posso dire) son constretto (Marino) ?:
 A me che dolce \"amo, sì amara pena date, che sembra amara ancor
 
 l-Fd: A.T.5
-l-Bc: C.
+I-Bc: C.
 l-TSl: C.
 
 1534 _ DE MACQUE lean (1586) _ Di Giovanni Dc Macquc il Primo Libro de
@@ -56,5 +56,5 @@ Non veggio ohimè quei Icggiadretti lumi (Moscaglia) :;
 
 Al sole chiom’havea
 
-—-96Z—
+--96Z-
 

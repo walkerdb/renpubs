@@ -26,7 +26,7 @@ Sto mondo traditor mi fà stentarc. Mirate che fortuna 41
 Tu m’hai rubbato il core. Mille volte m’hai promesso 43
 Amor, pietad'hormai del mio martire. Non più torment’ahimè 45
 Se tu sapessi che cos’è vecchiezza, e eom’appress’il dì 47
-Tutto—lo giorno piang’ahimè meschino, e poi la notte 49
+Tutto-lo giorno piang’ahimè meschino, e poi la notte 49
 Vorrei sapcr da voi, donne mie belle, di far stratij 51
 Tu dormi et amor veglia e non mi senti, et io meschin 53
 D' N3P°li noi siamo fuor’usciti, e tutti d‘honorato 55
@@ -37,9 +37,9 @@ Alla-verde gelosia sta il mio amor e'l mio contento 63
 Faccla mia bella, vita mia d'oro, s’io non ti vcggio 65
 Che fai, donna crudele, che mi dai tanto dolore? 67
 
-l-Bc: T.E.
+I-Bc: T.E.
 
-692 — DATTARI Ghinolfo (1568) _ Dì Ghinolfo Dattari bolognese le Villanelle,
+692 - DATTARI Ghinolfo (1568) _ Dì Ghinolfo Dattari bolognese le Villanelle,
 ;”.cm a quattro, et a cinque voci. Novamente da lui composte, et date in luce.
 n Vlncgta, appresso Girolamo Scotto. 1568.
 

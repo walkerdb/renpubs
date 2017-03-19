@@ -1,4 +1,4 @@
-572 — CIFRA Antonio (1617) .. Madrigali a cinque voci. D'Antonio Cifra romano,
+572 - CIFRA Antonio (1617) .. Madrigali a cinque voci. D'Antonio Cifra romano,
 maestro di cappella della Santa Casa di Loreto. Libro Quarto. ln Roma appresso
 Gio. Battista Robletti. 1617. Con licenza de' Superiori.
 
@@ -33,18 +33,18 @@ Temer, donna, non dei ch'io scopra altrui giamai gl'incendi (Marino) 19
 
 l-AN: compl.
 
-l-Bc: compl.
+I-Bc: compl.
 
 l-Nc: compl.
 
 D-Rp: compl.
 
 F-Pn (prov. Thibault): compl.
-GB-me: compl.
+GB-Lbm: compl.
 
-GB—OB: compl.
+GB-OB: compl.
 
-573 — CIFRA Antonio (1621) _ Madrigali concertati a cinque con il BFSSO con-
+573 - CIFRA Antonio (1621) _ Madrigali concertati a cinque con il BFSSO con-
 tinuo. D‘Antonio Cifra romano, maestro di cappella della Santa Casa dl Lord?-
 Libro Quinto. In Roma, aPPresso Luca Antonio Soldi 1621. Con licenza de' SUPcnon'
 

@@ -8,9 +8,9 @@ A-Wn: compl.
 D-Mbs: compl.
 F-Pc: compl.
 F-Pthibault: compl.
-GB-me: compl.
+GB-Lbm: compl.
 PL-GD: comp].
-l-Bc: C.T.B.5.
+I-Bc: C.T.B.5.
 I-Rc: C.B.5.
 
 l-Fr: A.5.

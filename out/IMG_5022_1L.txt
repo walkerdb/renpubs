@@ -45,7 +45,7 @@ D-Rp: compl.
 
 D-Dl: Discanlus, A.T.B.5.
 PL-Wu: Discanlus, T.B.5.6.
-GB-me: T.5.
+GB-Lbm: T.5.
 
 PL-WRu: A.
 
@@ -62,5 +62,5 @@ rcsso Girolamo Scotto. 1571. _ .
 Vago augeletto, clic cantando vat . _ 5
 Poi che fortuna mi t'ha fatt‘amare, liabbi picta dl mc. cara stgnora
 
-—-1878—
+--1878-
 

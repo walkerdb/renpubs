@@ -10,7 +10,7 @@ n » Lasciat’hai, morte, senza sole il mondo. Madregale (Petrarca) 25
 A 7. Sutra, non sete voi la più bell'e gentil, che si.-i lra nni. Dialogo 29
 
 I-Vnm: comp].
-l—VEaf: A.T.B.5.6.
+l-VEaf: A.T.B.5.6.
 
 2003 _ NASCO Giovanni (1562) _ Le Canzon et Madregali a sei voci con uno
 Dialogo a sette di Giovan Nasco novamente per Antonio Gardano ristampate.
@@ -18,15 +18,15 @@ A sei voci. Con gratia et privilleggio. In Venetia appresso Antonio Gardano. 156
 
 6 ſasc. in 8° obl. (C.A.T.B.5.6.), pag. 27. Indice = 1557.
 
-D—Mbs: compl.
+D-Mbs: compl.
 
 A-Wn: C.A.B.5.6.
 
 D-Bds: C.A.B.5.
 
-l-Bc: A.T.
+I-Bc: A.T.
 
-GB-me: C.
+GB-Lbm: C.
 
 F-Pc: A.
 
@@ -54,5 +54,5 @@ Non è questa d'un fid‘amante infelice (quinta parte) 9
 
 Fugga'l dolor et l’intensi sospiri cangin albergh‘il
 
-— 1230 ——
+- 1230 --
 

@@ -7,7 +7,7 @@ A 10. Gabrieli Andrea - Del gran tuonante la sorella e moglie 7Z
 A 12. Gabrieli Andrea - Ecco Vincgia bella 75
 » » » » - O passi sparsi, o pensier vaghi (Petrarca) 76
 » " Gabrieli Gioi/anni - Sacri di Giove augei, sacre fenici 76
-l-Bc: comp].
+I-Bc: comp].
 
 l-Bsp: comp].
 
@@ -30,15 +30,15 @@ l-MOd: A.B.6.9.11.12.
 
 US-Cn: T.
 
-GB-me: 5.
+GB-Lbm: 5.
 
-E—MO: 7.
+E-MO: 7.
 
 Sartori l587a c Il 1587a.
 RISM, I 1587-16 (non compl.).
 Brown 1587-3.
 
-1047 — GABRIELI Andrea - GARIELI Giovanni (1589) _ Di Andrea Gabrielli
+1047 - GABRIELI Andrea - GARIELI Giovanni (1589) _ Di Andrea Gabrielli
 (.e-ic) organista il Terzo Libro de Madrigali a cinque voci, con alcuni di Giovanni
 Gabrielli (ric) organista della sereniss. Signoria di Venetia in S. Marco. Novamente
 posto in luce. In Venetia appresso Angelo Gardano. 1589.
@@ -61,5 +61,5 @@ Andrea Gabrieli -Tirsi vicino a morte, languendo si giacca 1
 “ » - Ma mentre ch’ella col suo gran (seconda parte) 14
 ” » - A] dolce volo di Cillenio apriva lieta Giunon 15
 
-—689—
+-689-
 

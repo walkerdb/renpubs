@@ -48,7 +48,7 @@ A 5. Ahi, com’a un vago sol cortese giro di duo begl‘occhi ond’io (Guarini
 A 7. Filli, morir vorrei. Deh perchè morir bramì? Perchè so che non m'ami. Dialogo ZZ
 CH-Bu: compi.
 
-l-Bc: A.T.
+I-Bc: A.T.
 
 US-BE: 5. (prov. Einstein).
 

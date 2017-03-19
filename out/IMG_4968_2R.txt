@@ -17,7 +17,7 @@ Di mia morte mi pasco e vivo in fiamme, stranio cibo e mirabil salamandra 19
 
 I-VEcap: comp].
 
-2848 — VENERI Gregorio (1620) _ Armonia di Venere Madrigali a cinque voci,
+2848 - VENERI Gregorio (1620) _ Armonia di Venere Madrigali a cinque voci,
 et in fine due, con un Echo a otto con il Basso continuo. Di Gregorio Veneri
 romano. In Bracciano, appresso Andrea Fei, stampator ducale. 1620. Con licenza
 
@@ -49,5 +49,5 @@ A S. Aure, che’n quel sereno volto spiegate le volante piume 3
 A B. D’ amarami e di rose tessea verdi corone 21
 » » _Hor chi tra queste frondi (seconda parte) 22
 
-l-Bc: C.l°, C.Z°. A.T.B.
+I-Bc: C.l°, C.Z°. A.T.B.
 

@@ -29,12 +29,12 @@ DaSPuò ch’al mio dolor no ghè ccroto Di G. Bonagiunta 30
 E voravc saver, colonna mia » » » 31
 Chi fa del cavalier e chi del duca 32
 S-Ll: comp],
-GB-me: C.
-l—Bc: T,
+GB-Lbm: C.
+I-Bc: T,
 
 RISM, I 1565-12.
 
-381 — _BONAGIUNTA Giulio (1567) _ Il Primo Libro de Canzon napolitane a
+381 - _BONAGIUNTA Giulio (1567) _ Il Primo Libro de Canzon napolitane a
 tre vo_c1, “con due. alla veneziana. Di Giulio Bonagionta da S. Genesi. Et d’altri
 autton, dl novo ristampate. In Vinegia. Appresso Gieronimo Scotto. 1567.
 
@@ -43,7 +43,7 @@ autton, dl novo ristampate. In Vinegia. Appresso Gieronimo Scotto. 1567.
 A-Wn: comp].
 D-As: C.
 
-I—Vnm: B. (difett.).
+I-Vnm: B. (difett.).
 RISM, I 1567-18.
 
 l3iî32 _ BONAÇIUNTA Giulio - BELLHAVER Vincenzo (1566) .. Canzone napo-

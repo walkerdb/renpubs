@@ -22,9 +22,9 @@ D-Kl: compl.
 
 l-FA: B.5.6.
 
-l-Bc: C.S.
+I-Bc: C.S.
 
-GB-me: T.
+GB-Lbm: T.
 
 l-Ta: 5.
 
@@ -32,7 +32,7 @@ D-ma: 6.
 
 RISM, ! 1565-16 (non comp]. c inesattn).
 
-2274 — PRIMAVERA Giovan Leonardo (1566) .- Il Terzo Libro de Madrigali
+2274 - PRIMAVERA Giovan Leonardo (1566) .- Il Terzo Libro de Madrigali
 a cinque et a sei voci dc l’eccellente musico Io. Leonardo Primavera. Novamente
 da lui composto e dato in luce. Con privilegio. In Venetia.
 In fine: « In Venetia appresso Francesco Rampazetto 1566».

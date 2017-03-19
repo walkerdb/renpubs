@@ -1,7 +1,7 @@
 Così m'amaste voi, come \"an io e non cangiasli il core 20
 Così dell’nrdor mio v'infiamm‘amorc (seconda parte) ZI
 
-GB-me : compl.
+GB-Lbm : compl.
 PL-GD : compl.
 
 1750 _ MASSAINO Tiburzio (1594) _ ll Quarto Libro dc Madrigali a cinque
@@ -36,10 +36,10 @@ Sc volge il caro sguardo ver me, mia donna bella 19
 Rivi correnti e fiumi, lucidi laghi e fonti, selvc frondose 20
 E mcntr'al moſſrmorar di verdi (seconda parle) ZI
 I-Rsc: compl
-GB-me: compl
+GB-Lbm: compl
 [' f : S
 
-l7_51 — MASSAlNO Tiburzio (1604) _ Madrigali a sei voci di Tiburtio Mas-
+l7_51 - MASSAlNO Tiburzio (1604) _ Madrigali a sei voci di Tiburtio Mas-
 samo. Libro Primo. Novamcnte composto, et dato in lucc. In Venetia. Appresso
 
 Angelo Gardano. 1604.

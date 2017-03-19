@@ -33,7 +33,7 @@ O come è gran martire a celar suo desire, quando con pura fede (Guarini) l9
 O quante volle in van, cor mio. ti chiamo, vaga di riveder gli ardenti lumi 20
 lo d‘altrui? Se volessi i' nol potrei. nè potendo il vorrei (Guarini) 11
 
-l-Bc : comp].
+I-Bc : comp].
 l-FEc : com'pl.
 
 1528 _ LUZZASCHI Luzzasco (1594) _ Il Quarto Libro de Madrigali a cinque
@@ -57,5 +57,5 @@ Tu, ribello d'amore, tu, di pietade crudo nemico e mio, deh frena 11
 Vero è ch‘amor mi punge, mi saetta e talhor sì m‘alletta col bello 12
 Dolce mia fiamma e mio tormento, dolce mia pena (Tasso) 13
 
-—958—
+-958-
 

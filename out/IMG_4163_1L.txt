@@ -38,7 +38,7 @@ Non vidde il sol giamai (Valentini) Î?)
 Dolor, ch’hai fatto del mio pett’albcrgo, esci di fuor homai
 
 E-V: compl.
-GB-me: C.T.B.
+GB-Lbm: C.T.B.
 H-SY: B.
 
 330 _ (De) BERCHEM Iachet (1556) _ Di Iachet Berchem il Primo Libro dl
@@ -51,6 +51,6 @@ Antonio Gardano, 1556.
 I-Bc: compl.
 
 I-VEaf: compl.
-A—Wn: compl.
+A-Wn: compl.
 D-Mbs: compl.
 

@@ -7,16 +7,16 @@ O mi, che sotto l’amorose insegne. Di Cipriano Rare (Guidiccioni) 38
 Si dirà poi ciascun, movendo l’ali (seconda parte) » 39
 CH-Bu: comp].
 
-GB-me: compl.
+GB-Lbm: compl.
 GB-LI: compl.
 
 D-KNu: C.A.5.
 
-I—Fn: T.
+I-Fn: T.
 
 US-SFsc (De Bellis): B.
 
-2664 — STRIGGlO Alessandro (1570) _ Il Secondo Libro de Madrigali a cinque
+2664 - STRIGGlO Alessandro (1570) _ Il Secondo Libro de Madrigali a cinque
 voci, di M. Allessandro Striggio gcntil’huomo mantovano, nuovamente posti in
 luce. In Vincgia, appresso Girolamo Scotto 1570.
 
@@ -60,5 +60,5 @@ Chi PUÒ fuggi: amor, che sol con l’arco 33
 Notti ſelìc'c care, chc’l mio cor s’appagò (Caracciolo) 3Î
 S‘io moro ahimè, hor del mio error 3)
 
-—I659—
+-I659-
 

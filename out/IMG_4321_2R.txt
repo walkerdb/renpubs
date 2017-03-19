@@ -3,21 +3,21 @@ Fresche lusinghe amorosette (seconda parte) 29
 Come esser può che ne la vostra mente possa giamai (M.]. Polisann) 30
 Se ciò non basta a mi (seconda parte) » 31
 
-l-Bc: compl.
+I-Bc: compl.
 I-MOc: compl.
 l-Nc: comp].
 A-Wn: compl.
 D-Kl: compl.
 D-Mbs: compl.
 Pl.-GD: compl.
-GB-me: C.T.B.5.
+GB-Lbm: C.T.B.5.
 l-Oc: A.T. (difettosi)
 l-Rsc: C.
 
 US-BE: C.
-F—TLm: A.
+F-TLm: A.
 
-771 — DE MONTE Filippo (1581) _ Di Filippo Di Monte maestro di capella
+771 - DE MONTE Filippo (1581) _ Di Filippo Di Monte maestro di capella
 della 8.0. maestà dell’imperadorc Rodolfo Secondo il Decimo Libro delli Madrigali,
 a cinque voci. Novamente posti in luce. In Vincggia, appresso l’hcrcde di Giro-
 lamo Scotto. 1581.
@@ -54,5 +54,5 @@ Et pcrch'ìo torni a le mie usate pene (terza stanza) 26
 Credei, mentre io dormia (quarta stanza) 27
 Nasa: il gran piacer mio da van gioire (quinta stanza) 28
 
-—503—
+-503-
 

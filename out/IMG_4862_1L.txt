@@ -55,6 +55,6 @@ I-MOc: compl.
 D-Mbs: compl.
 GB-Ckc: compl.
 F-Pn: A.
-GB-me: 5.
+GB-Lbm: 5.
 RISM, ! 1581-11.
 

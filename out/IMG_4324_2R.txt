@@ -26,7 +26,7 @@ l-Be: compl
 D-Bds : compl.
 US-CA : 5.
 
-778 — DE MONTE Filippo (1595) _ Di Filippo De Monte maestro di capella
+778 - DE MONTE Filippo (1595) _ Di Filippo De Monte maestro di capella
 della sacra-cesarea maesta de l'imperatore Rodolfo Secondo. Il Decimosettimo Libro
 delli Madrigali a cinque voci, novamente posti in luce. In Venetia appresso Angelo
 Gai-dano. 1595.
@@ -48,7 +48,7 @@ Havrat diviso il core in più fiamme d’amore 9
 
 ESSE non può che'] core. Risposta 10
 STS-cſtdo il sol da l'ondeggiante letto 11
-P“"—‘l_l>1tosa rupe, alta e tremante ruina 12
+P“"-‘l_l>1tosa rupe, alta e tremante ruina 12
 Assai fervida amante la sera mia bella 13
 POI the. cor mio, sì desiosa sete di mirar la beltade 14
 LUC? ch'allum’il ciel. se i vaghi fiori che m’ingemmano 15

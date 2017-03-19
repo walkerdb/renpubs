@@ -14,7 +14,7 @@ l'herede di Girolamo Scotto. 1581.
 
 5 fase. in 8° (C..»\.T.B.5.). pag. 23. Indice = 1569.
 
-l-Bc: compl.
+I-Bc: compl.
 l-MOe: compl.
 B-Br: compl.
 CH-Bu: compl.
@@ -24,13 +24,13 @@ A-Wn: C.A.B.5.
 PL-GD-C.A.T.
 I-Bsp: A.T.5.
 I-Rsc: C.
-GB-me: B.
+GB-Lbm: B.
 D-Kl: 5.
 
 F-Pn: 5.
 l-MAc: 5. (prov. Arch. Gonzaga).
 
-951 — FERRETTI Giovanni (1570) ... Il Terzo Libro delle NapOlitanc a cinque
+951 - FERRETTI Giovanni (1570) ... Il Terzo Libro delle NapOlitanc a cinque
 voci, nuovamente posto in luce. In Vinegia, appresso Girolamo Scotto. 1570.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. B. Ded. al cav. M. Melchiorri, Venetia, 1° VI] 1570.
@@ -50,5 +50,5 @@ Dimmi, donna crude], quest'è l‘amore che mi mostrast’hor p0| H
 
 Hor va. canzona mia. liet‘e sicura, dritt’a quel sol che mi fa gir
 
-—6ZZ—
+-6ZZ-
 

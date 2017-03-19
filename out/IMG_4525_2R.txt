@@ -50,7 +50,7 @@ I-Nn: A.
 F-Phanson : T.
 Boctticl'lcr 748.
 
-1449 — DE LASSUS Roland (15634) .. Il Terzo Libro delli Madrigali a cinque
+1449 - DE LASSUS Roland (15634) .. Il Terzo Libro delli Madrigali a cinque
 voci d’Orlando di Lassus. Nuovamente raccolto et dato in luce. ln Roma appresso
 Antonio Barré 1563.
 
@@ -64,5 +64,5 @@ L’alto Signor, dinanzi a cui non vale (Petrarca) 1
 Non ha tante serene stelle il cielo. Sestina
 In sonno eterno spero chiudcr (seconda parte) Z
 
-—905 —
+-905 -
 

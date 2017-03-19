@@ -1,4 +1,4 @@
-1235 — GIOVANNELLI Ruggero (1589) _ Gli Sdruccioli (li-Ruggiero Giovanelli
+1235 - GIOVANNELLI Ruggero (1589) _ Gli Sdruccioli (li-Ruggiero Giovanelli
 a quatro voci con una Caccia in ultimo a quattro cinquc sei .sette et otto, nova-
 mcnte composti, et dati luce (ric). Libro Secondo. In Venetia appresso Angelo
 
@@ -26,13 +26,13 @@ A 6. Ergasto con tuoi sotii (quarta parte) . …
 A7- Ergasto, tu che l‘hai (sesta parte) ZZ
 A 8. Ma hor siam giunt'al fonte (settima parte)
 
-l—Fn: compl.
+l-Fn: compl.
 
 l-MOc: comp].
 
-PL—GD: compl.
+PL-GD: compl.
 
-1236 — GIOVANNELLI Ruggero (1590) _ Sdruccioli di Ruggiero _Giovanelli,
+1236 - GIOVANNELLI Ruggero (1590) _ Sdruccioli di Ruggiero _Giovanelli,
 maestro di capella in San Luigi di Roma. Il Secondo Libro de Madrigali, :\ quattro
 voci. Novamcnte composti, et dati in luce. In Venetia, presso Giacomo Vin-
 
@@ -42,11 +42,11 @@ centi. 1590.
 
 D-W: compl.
 
-1237 — GIOVANNELLI Ruggero (1592) _ Il Secondo Libro dei S_(iruccioli di
+1237 - GIOVANNELLI Ruggero (1592) _ Il Secondo Libro dei S_(iruccioli di
 Ruggiero Giovanelli, a quattro voci. Nuovamente ristampati, cc con diligenza cor-
 retti. In Venetia, presso Giacomo Vincenti. 1592.
 
 4 fasc. in 8° (C.A.T.B.), png. Zl. Indice = 1589.
 
-l-Bc: comp].
+I-Bc: comp].
 

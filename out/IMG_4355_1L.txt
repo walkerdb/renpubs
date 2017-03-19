@@ -29,7 +29,7 @@ A 5. Cinto di nubi d'ogni intorno il cielo, visto era un tempo _;
 A 7. Hor che mi trovo fuore di pianti e di dolore cantarò in ogni luoco 30
 
 I-de: compl.
-GB-me : T.
+GB-Lbm : T.
 
 869 _ DRAGON] Giovanni Andrea (1594) .. Il Quarto Libro de'. Madrigali?
 cinque voci di Gio. Andrea Dragoni da Meldola maestro di Capella di S. Giovanni

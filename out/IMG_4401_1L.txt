@@ -7,7 +7,7 @@ A 3. Habbiti pace, 0 core, se la tua fè non vale 65
 » » Viviamo, Lilla, viviamo. Tu dammi presto 67
 » » Penso tal'liora come servire amore 68
 
-l-Bc: comp].
+I-Bc: comp].
 
 FONTEIO Giovanni
 Cfr.: NlELSEN Hans
@@ -54,5 +54,5 @@ A Z. Baciatemi, cor mio, che con sì dolce aita. Amoroso soccorso _ _ ZZ
 
 » » O soave armonia, che spiri tra le perl‘c tra le rose. Amorosa bocca cantatrice
 
-_660—
+_660-
 

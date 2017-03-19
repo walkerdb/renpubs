@@ -30,9 +30,9 @@ Madonna, il dirò pur ben che sin tardo 28
 Occhi suavi et belli, mentre fiso vi mir‘io son felice 29
 Qual maggior segno del mio ardor volete, dolce nemica min 29
 Cor mio, perchè pur piangi, a che li struggi (Guarini) 3“
-GB-me: C.
+GB-Lbm: C.
 
-1129 — GERO ]éhan (1581) _ Di lhan Gero il Primo Libro de Madrigali italiani
+1129 - GERO ]éhan (1581) _ Di lhan Gero il Primo Libro de Madrigali italiani
 ct Çanzon francese a due voci, novamcnte con ogni diligentia ristampato. In Ve-
 netia appresso Angelo Gardano 1581.
 
@@ -42,7 +42,7 @@ A-Wn: compl.
 D-As: compl.
 l-Fn : T.
 
-1130 — GERO ]éhan (1584) _ Di [han Gero a due voci novamente ristampati et
+1130 - GERO ]éhan (1584) _ Di [han Gero a due voci novamente ristampati et
 Egitto. In Venetia, appresso Giacomo Vincenti ct Ricciardo Amadino, compagni.
 
 Z fase. in 8° obl. (C.T.), png. 47. Indice = 1543.

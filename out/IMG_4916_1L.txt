@@ -43,10 +43,10 @@ A Z. Mordeva un bianco lino Aci dolen'e. Dal pianto degli amanti s’imparò a f
 » » T’invito a godere, mio core, c paventi? L’amante timido eccitato. Sopr. e T-
 A3. Voi sete, o begli occhi, le stelle. Conclusione dell’opera. A.T.B.
 
-l-Bc: compl.
+I-Bc: compl.
 I-Fn: compl.
 
-2689 — STROZZI Barbara (1651) _ Cantate Ariettc, e Duetti di Barbara strati:!
+2689 - STROZZI Barbara (1651) _ Cantate Ariettc, e Duetti di Barbara strati:!
 Opera Seconda. Consecrata alla cesarea maestà di Ferdinando Terzo. ln cnc
 appresso il Gardano con licenza e privilegio. 1651.
 
@@ -57,5 +57,5 @@ dalla mia fanciullezza mio cortese precettore... portando in fronte l‘allegrez
 
 i. »
 
-- 1670 —
+- 1670 -
 

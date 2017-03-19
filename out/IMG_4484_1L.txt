@@ -28,9 +28,9 @@ D-Rp: compl.
 
 F-Pc: compl.
 
-GB-me: compl.
+GB-Lbm: compl.
 
-PL—GD: compl.
+PL-GD: compl.
 
 S-Uu: CA.
 

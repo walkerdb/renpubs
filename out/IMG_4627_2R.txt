@@ -18,14 +18,14 @@ PL-WRu: C.A.T.B.S.
 
 l-A: Partitura
 
-l-Bc: Partitura
+I-Bc: Partitura
 
 l-Nf: Partitura
 
 B-Br: Partitura
 
 D-Mbs: Partitura
-GB-me: Partitura
+GB-Lbm: Partitura
 GB-Lcm: Partitura
 GB-Mp: Partitura
 US-Wc: Partitura
@@ -37,7 +37,7 @@ ll N. 1778 è annullato.
 | [(\/J ,
 
 &.») /
-1779 — MAZZOCCHI Domenico (1640) _ Musichcﬂſiafiîſie morali a Bria, due,
+1779 - MAZZOCCHI Domenico (1640) _ Musichcﬂſiafiîſie morali a Bria, due,
 e tre voci. Di Domenico Mazzocchi. In Roma nella stamperia di Lodovtco Gri-
 gnani. 1640. Con licenza de' Superiori.
 

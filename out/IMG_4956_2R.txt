@@ -10,11 +10,11 @@ per più comodità raccolte insieme. In Norimberga, nella stamperia delli Gcrlac
 
 A-Wn: compl.
 B-Br: compl.
-CH—Bu: compl.
+CH-Bu: compl.
 S-Uu: C.A. (difett.).
 PL-Wu: A.
 
-2818 — VECCHI Orazio (1600-1601) _ Canzonette a quattro voci di Horatio Vec-
+2818 - VECCHI Orazio (1600-1601) _ Canzonette a quattro voci di Horatio Vec-
 chi da Modena. Le quali per avanti sono in Venetia spartatamente ite in luce, ct
 ora per più comodità raccolte insieme. E con aggiunte di altre a 5. 4. e 3. voci, del
 
@@ -62,6 +62,6 @@ A 3. Sanità e allegrezza e bezi assai. ]ustiniana
 
 D-Hs: compl.
 D-Kl: compl.
-GB-me: C.T.
+GB-Lbm: C.T.
 Sartori 1600-1601.
 

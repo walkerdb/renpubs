@@ -17,7 +17,7 @@ A 4. Silvia mia \‘ita, Filli gradita (settima parte) 29
 
 I-MOe: compl.
 I-FEc: C.A.T.B.
-l-Bc: Bc.
+I-Bc: Bc.
 
 1278 _ GRANDI Alessandro (1623) _ Madrigali concertati a due, tre, et quattro,
 voci per cantar e sonar nel Clavicembalo, Chitarrone, o altro simile stromento. 1)i
@@ -29,7 +29,7 @@ Opera XI. In Venetia appresso Alessandro Vincenti. 1623.
 
 D-Hs: compl.
 PL-WRu: compl.
-GB-me: B.
+GB-Lbm: B.
 
 1279 _ GRANDI Alessandro (1626) _ Madrigali concertati a due, tre, et quattro,
 voci per cantar, e sonar nel Clavicembalo, Chitarrone, o altro Slmllc'stromentq-

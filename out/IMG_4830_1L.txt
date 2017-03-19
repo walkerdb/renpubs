@@ -20,13 +20,13 @@ A 6. L‘alto signor dinanzi a cui non vale (Petrarca) 19
 A 8. Amor. se così (lolc'è il mio dolore. Dialogo ”
 B-Br: compl.
 
-GB-me: compl.
-GB—Lwa: compl.
+GB-Lbm: compl.
+GB-Lwa: compl.
 A-Wn: T.B.5.
 
 RISM, I 1580-12.
 
-2418 — (De) RORE Cyprien (1566) _ Di Cipriano de Rore il Quinto Libro di
+2418 - (De) RORE Cyprien (1566) _ Di Cipriano de Rore il Quinto Libro di
 Madrigali a cinque voci insieme alcuni de diversi autori novamente per Antonio
 Gardano stampato et dato in luce. A cinque \oci. In Venetia appresso di Antonio
 Cardano. 1566.
@@ -52,5 +52,5 @@ A 5. Mentre lumi maggior del secol nostro. Al duca di Parma l
 
 A 6. O socij durate neque enim ignari. Di Adriano
 
-—I498—
+-I498-
 

@@ -1,7 +1,7 @@
 5 [mc. in 8° (C.A.T.B.5.), pag. ZZ. Indice = 1594.
 
 D-LEm: compl.
-GB-me: C.
+GB-Lbm: C.
 I-Bc: A.
 
 676 _ CROCE Giovanni (1596) _ Li sctte Sonetti penitenziali a sei voci di GiO:
@@ -38,9 +38,9 @@ Giacomo Vincenti. 1603. '
 
 6 fase. in 8° (C.A.T.B.5.6.), pag. 24. Ded. e lndicc=1596-
 
-GB-me : C.A.T.B.5
+GB-Lbm : C.A.T.B.5
 
-678 _ CROCE Giovanni (1595) — Triaca musicale di Giovanni Croce chiozzotto
+678 _ CROCE Giovanni (1595) - Triaca musicale di Giovanni Croce chiozzotto
 nella quale vi sono diversi Caprici a 4.5.6. et 7. voci nuovamente composta, €
 data in luceſiCon privilegio. In Venetia appresso Giacomo Vincenti. 1595.
 

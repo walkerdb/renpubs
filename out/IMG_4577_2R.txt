@@ -23,7 +23,7 @@ NL-DHgm: C.A.B.
 
 GB-DRc: B.
 
-1591 — MARENZIO Luca (1598) _ Madrigali a quatro voci. Di Luca Marenzio.
+1591 - MARENZIO Luca (1598) _ Madrigali a quatro voci. Di Luca Marenzio.
 A Paris par Adrian le Roy, et la vcufvc R. Ballard, imprimeurs du Roy en musique
 à l'enseigne du mont Parnasse. 1598. Avec privilege de sa majesté.
 
@@ -32,14 +32,14 @@ A Paris par Adrian le Roy, et la vcufvc R. Ballard, imprimeurs du Roy en musique
 F-Psg: compl.
 Lcsurc c Thibaull 319.
 
-1592 — MARENZIO Luca (1603) _ Madrigali a quattro voci di Luca Marenzio.
+1592 - MARENZIO Luca (1603) _ Madrigali a quattro voci di Luca Marenzio.
 Novamente con ogni diligenza ristampati. Libro Primo. In Venetia, appresso
 Angelo Gardano 1603.
 
 4 fase. in 8° obl. (C.A.T.B.), pag. 29,0). Indice = 1585.
 
 D-Rp: compl.
-GB-me : compl.
+GB-Lbm : compl.
 
-— 100] —
+- 100] -
 

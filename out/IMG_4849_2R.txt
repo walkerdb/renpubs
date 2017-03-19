@@ -6,7 +6,7 @@ D-As: compl.
 D-Rp: C.A.B.5.
 F-Pc: T.
 
-l-Bc: B.
+I-Bc: B.
 
 2483 _ RUFFO Vincenzo (1555) _ Di Vicenzo Ruffo il Primo Libro de Madri-
 gali a cinque voci, novamcnte (lato in luce. Libro Primo. In Venetia apresso di
@@ -14,24 +14,24 @@ Antonio Gardano. 1555.
 
 5 fsc. in 8° obl. (C.A.T.B.5.), png. 37,(l). lndicc = 1553.
 
-l-Bc: comp].
+I-Bc: comp].
 D-Mbs: compl.
 YU-MAs: compl.
-l—VEaf: B.
+l-VEaf: B.
 
-2484 — RUFFO Vincenzo (1562) _ Di Vinccntio Ruffo il Primo Libro di Madri-
+2484 - RUFFO Vincenzo (1562) _ Di Vinccntio Ruffo il Primo Libro di Madri-
 gali a cinque voci, novamente per Antonio Gardano ristampati. A cinque voci.
 In Venetia appresso di Antonio Gardano. 1562.
 
 5 fasc. in 8° obl. (C.A.T.B.5.)_ pag. 37,(1). lndicc = 1553.
 
 F-Pthibault: comp].
-Pl.—WRu: compl.
+Pl.-WRu: compl.
 1-VCd: C.T.B.5.
-l—Bc: A.T.B.5.
-F—Pm: 5.
+I-Bc: A.T.B.5.
+F-Pm: 5.
 
-2.485 — RUFFO Vincenzo (1554) _ Di Vincentio Ruffo nobile veronese, et dignis-
+2.485 - RUFFO Vincenzo (1554) _ Di Vincentio Ruffo nobile veronese, et dignis-
 3"le maestro, della capella del domo di Verona, li Madrigali a cinque voci, dedi-
 can al magnifico signor Lucha Grimaldi, Scielta Seconda. Da li suoi proprii
 eXcmplari fatta, novamente con soma diligentia corretti et post'in luce. Venetiis
@@ -46,5 +46,5 @@ Qual possanza fia mai d’amor, di gentilezza et cortesia 4
 
 Nacque nell’alm’intanto (seconda parte) » 6
 
-—]537—
+-]537-
 

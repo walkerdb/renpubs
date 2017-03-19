@@ -11,15 +11,15 @@ Re dc gli altri superbo altero fiume. A 6 (sesta parte)
 
 I-Bc: compl.
 F-Pthibault: compl.
-GB-me: compl.
+GB-Lbm: compl.
 I-VCd: C.T.B.5.
 l-Bsp: A.T.B.5.
 
-A—Wn: B.
+A-Wn: B.
 Boctticbcr 757.
 Un cscmpl. compl. era nella Collezione Heyer di Këln.
 
-1458 — DE LASSUS Roland (1570) _ Di Orlando Lasso maestro di capello del
+1458 - DE LASSUS Roland (1570) _ Di Orlando Lasso maestro di capello del
 scrcnissimo signor duca di Baviera, Libro Quarto de Madrigali a cinque voci, da
 lui novamente in Germania composti, et con ogni diligentia ristampati. Libro
 Quarto. Con gratia et privilleggio (Fiſ). In Venetia presso li figliuoli di Antonio
@@ -27,17 +27,17 @@ Gardano. 1570.
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 29,(l). lndicc = 1567.
 
-I—Fn: compl.
+I-Fn: compl.
 I-Rsc: compl.
 Ì-VEcap: compl.
 D-Mbs: compl.
 A-Wo: C.A.T.5.
 B-Br: C.A.T.5.
-E—Bd: C. (mutilo da pag. ZZ).
+E-Bd: C. (mutilo da pag. ZZ).
 l-Fc: 5.
 
 P-Pc: S.
-US—Cn: T,
+US-Cn: T,
 Boeltichcr 763.
 
 1459 _ DE LASSUS Roland (1584) _ Di Orlando di Lasso il Quarto Libro dc
@@ -46,6 +46,6 @@ appresso Angelo Gardano, 1584.
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. Z9. lndicc = 1567.
 
-GB-me : compl.
+GB-Lbm : compl.
 Boettichcr 789.
 

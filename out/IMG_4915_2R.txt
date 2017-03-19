@@ -5,7 +5,7 @@ Gll-me: C.A.T.ll.5.
 
 l-Rsc: :\.
 
-l—Bc: 5.
+I-Bc: 5.
 
 2685 _ STRIGGIO Alessandro (1579) _ Il Secondo Libro de Madrigali a sei \oci,
 di M. Alessandro Striggio gentil'huomo mantovano. Con privilegio. In Vincggia.
@@ -16,13 +16,13 @@ Appresso l'heredc di Girolamo Scotto. 1579.
 D-Kl: compl.
 l-Rsc: C.A.B.5.6.
 F-Pa: C.T.
-GB-me: C.
+GB-Lbm: C.
 l-Vlb: A.
 D-Mbs: H.
 
 F-Pn: B.
 
-2685 — STRIGGIO Alessandro (1579) _ Il Secondo Libro dc Madrigali a sei voci,
+2685 - STRIGGIO Alessandro (1579) _ Il Secondo Libro dc Madrigali a sei voci,
 di M. Alessandro Striggio gcntil'huomo mantovano con privilcggio. In Vineggia
 appresso l’hercde di Girolamo Scotto. 1582.
 
@@ -35,22 +35,22 @@ D-As: compl.
 D-Mbs: compl.
 PL-GD: compl.
 l-Sd: C.A.B.5.6.
-l—FA: C.A.5.6.
+l-FA: C.A.5.6.
 l-Vnm: A.C.
 US-BE: 5.6. (prov. Landau).
 l-ASs: C. (?).
-l—MOc: A.
+l-MOc: A.
 F-Pn: T.
-GB-me: B.
+GB-Lbm: B.
 l-MAc: 5.
 
-2687 — STRIGGIO Alessandro (1592) _ Di Alessandro Striggio gcntil'huomo
+2687 - STRIGGIO Alessandro (1592) _ Di Alessandro Striggio gcntil'huomo
 mantovano il Secondo Libro dc Madrigali a sei voci. Novamente con ogni diligenza
 ristampato. In Venetia appresso Angelo Gardano. 1592.
 
 6 fasc. in 8° (C.A.T.lz.5.6.), pag. 32. lndicc = 1571-
 
-l—Bc: compl.
+I-Bc: compl.
 
 D'RP: compl.
 

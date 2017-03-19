@@ -9,8 +9,8 @@ ll
 I-Bc: compl.
 I-de: compl.
 D-Mbs: compl.
-B—Br: A.
-GB-me: B.
+B-Br: A.
+GB-Lbm: B.
 
 2424 _ (De) RORE Cyprien (1576) _ Il Primo Libro delle Fiamme vaghi et
 dilettevoli Madrigali dell’eccellente musico Cipriano Rore, a quattro et a cinque

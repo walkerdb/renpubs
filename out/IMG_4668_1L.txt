@@ -5,13 +5,13 @@ In Venetia. 1621. Appresso Bartholomeo Magni.
 
 5 fase. in 8° (C.A.T.B.5.), pag. Zl,(l). Indice = 1590.
 
-GB-me: comp].
+GB-Lbm: comp].
 
 GB-Och: compl.
 
 D-Rp: C.A.T.5.
 
-l-Bc: T.
+I-Bc: T.
 
 1906 _ MONTEVERDI Claudio (1592) _ Di Claudio Monteverdi il Terzo Libro
 de Madrigali a cinque voci. Novamente composto et datto in luce. In Venetia,
@@ -48,7 +48,7 @@ Rimanti in pace a la dolente (: bella Fillida, Tirsi sospirando (Celiano) i?
 
 Ond'ci di morte la sua faccia impressa (seconda parte)
 
-l-Bc: comp].
+I-Bc: comp].
 
 1907 _ MONTEVERDI Claudio (1594) _ Di Claudio Monteverde il Terzo
 Libro de Madrigali :\ cinque voci. Novamente ristampato. In Venetia apr°55°
@@ -56,7 +56,7 @@ Ricciardo Amadino. 1594.
 
 5 fase. in 8° (C.A.T.B.5.), pag. Zl,(l). Indice = 1592.
 
-l-Bc: comp].
+I-Bc: comp].
 l-PS: A.T.
 D-W: T.
 GB-DRc: B.

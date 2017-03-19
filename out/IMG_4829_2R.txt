@@ -19,9 +19,9 @@ Deh hor luSs’io cn] vago della luna (Petrarca) 23
 l-Fn: compl.
 E-V: 5.
 
-RlSM, I 1562—21 (non compl.).
+RlSM, I 1562-21 (non compl.).
 
-2416 — (De) RORE Cyprien (1563) _ Di Cipriano de Rore il Quarto Libro di
+2416 - (De) RORE Cyprien (1563) _ Di Cipriano de Rore il Quarto Libro di
 Madrigali a cinque voci con uno Madrigale a sei et uno Dialogo a otto. Nova-
 mente ristampato. A cinque voci. Con gratia ec" privilegio. In Venetia appresso
 di Antonio Gardano. 1563.
@@ -30,14 +30,14 @@ di Antonio Gardano. 1563.
 
 l-VEcap: compl.
 
-A—Wn: compl.
+A-Wn: compl.
 
 D-Mbs: compl.
 
 F-Pthibault: compl. (prov. Wolffheim).
 F-VE: compl.
 
-GB-me: compl.
+GB-Lbm: compl.
 
 B-Br: C.A.5.
 
@@ -51,7 +51,7 @@ F-Pm: 5.
 
 RlSM. [ 1563-15 (non compl.).
 
-2417 — (De) RORE Cyprien (1580) _ Di Cipriano de Rore il Quarto Libro dc
+2417 - (De) RORE Cyprien (1580) _ Di Cipriano de Rore il Quarto Libro dc
 Madrigali a cinque voci, nuovamente ristampato. In Venetia appresso Angelo
 
 Gardano 1580.
@@ -60,5 +60,5 @@ Gardano 1580.
 A 5- La bella greca, onde'l pastor idco l
 » » O morte, eterno fin di luu‘i mali Z
 
-—]497—
+-]497-
 

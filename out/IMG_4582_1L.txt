@@ -12,7 +12,7 @@ Gardano. 1595.
 5 fasc. in 8° (C.A.T.B.5.), pag. 21. Ded. ai Signori Academici Filarmonici di Verona, Roma.
 1° IX 1595. Indice = 1582.
 
-l-Bc: compl.
+I-Bc: compl.
 
 l-VEcap: compl.
 
@@ -23,9 +23,9 @@ D-As: compl.
 F-Pc: compl.
 
 F-Phanson: compl.
-GB-me: C.A.T.5.
+GB-Lbm: C.A.T.5.
 
-I—Fd: C.A.B.5.
+I-Fd: C.A.B.5.
 
 I-Sac: C.
 
@@ -63,5 +63,5 @@ Spirto, a cui giova gli anni a buona fine 14
 Ecco l’aurora con l’aurata fronte, ch’a passo a passo ci rimena 15
 Quando vostra beltà, vostro valore, donna, con gl’oech‘c col pensier (Ariosto) 16
 
-— 1010 —
+- 1010 -
 

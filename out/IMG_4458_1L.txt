@@ -22,7 +22,7 @@ Lasso, perchè mi fuggi, s’hai della morte mia tanto desire? » 19
 I vecchi. quando al fin più non uscivano per boschi (Sannazzaro) ZO
 Lasso, quante fiate amor m‘assale che fra la nolt'e‘l dì (Petrarca) "
 
-GB-me: compl.
+GB-Lbm: compl.
 S-H: A. (prov. Heyer)
 I-Bc: B.
 
@@ -30,7 +30,7 @@ I-Bc: B.
 cappella in S. Luigi di Roma il Primo Libro de Madrigali a cinque voeu. Novamcotc
 da lui composti et dati in luce. In Venetia appresso Angelo Cardano. 1586.
 
-5 fasc. in 8° obl- (C—A-T-B.5.). pag. 21.0). Ded. a Don Giovanni Ricci Conte di s. Polo: « u sapltlï
+5 fasc. in 8° obl- (C-A-T-B.5.). pag. 21.0). Ded. a Don Giovanni Ricci Conte di s. Polo: « u sapltlï
 quanto Vostra Signoria Illustrissima si compiaccia non solamente di udire, ma di cantare c a
 medesima l'opcre della musica... Roma. 25 [I 1586».
 
@@ -58,5 +58,5 @@ L'alma guerrier'ardita, dal paradiso uscita, viene sì fieramente
 
 (Beccuti) 15
 
-—-774-—
+--774--
 

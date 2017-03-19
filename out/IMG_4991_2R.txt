@@ -31,7 +31,7 @@ Huomini e dei solca vincer (quarta parte) ” 33
 A l’ultimo bisogno, o miser’alma (quinta parte) ” 34
 Ridon bar per le piaggie herbette (Sesta parte) ” 35
 
-l-Bc: comp].
+I-Bc: comp].
 
 l-VEcap: comp].
 
@@ -39,13 +39,13 @@ l-VCd: C.T.B.5.
 
 RlSM. [ 1567-24.
 
-2917 — VINCI Pietro (1589) _ Di Pietro Vinci siciliano della città di Nicosia,
+2917 - VINCI Pietro (1589) _ Di Pietro Vinci siciliano della città di Nicosia,
 il Secondo Libro de Madrigali a cinque voci. Novamente ristampati. ln Vlncgla,
 appresso l'heredc di Girolamo Scotto. 1589.
 
 5 fasc. in se (C.A.T.B.S.), pag. 35,0). Indice = 1567-
 
-GB-me: T.5.
+GB-Lbm: T.5.
 l"OC: A. (5010 pag. 1-8), B. (pag. 1-8 c l9-B).
 
 2918 _ VINCI Pietro (1571) _ Di Pietro Vinci siciliano della città di Nicosia
@@ -61,5 +61,5 @@ A voi, Londonio, invio queste mie basse note. A Don .Antonio LondonioM 12 4
 Ne la dolce stagion di primavera scnza foglie vedrò. l'ìirlne dilTarqumia o a 5
 Sc fosse dolce il canto delle mie rauche note. A 'lal’clſim"a M° za
 
-— 1819 —
+- 1819 -
 

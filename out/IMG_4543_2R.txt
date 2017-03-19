@@ -88,12 +88,12 @@ F-Psg: compi.
 
 GB-Lwa: compl.
 
-GB—me: Taille, Hautccontrc, Bassecontre.
+GB-Lbm: Taille, Hautccontrc, Bassecontre.
 I-BRE: Taille
 
 F-Pn: Taille
 
-—94l—
+-94l-
 
 Madrigale
 

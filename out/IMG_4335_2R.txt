@@ -29,7 +29,7 @@ lmprimatur.
 ÙS-Wc : comp].
 
 %?”
-814 —‘DE_RING Richard (1620) _ Di Richardo Diringo inglese Canzonette a tre
+814 -‘DE_RING Richard (1620) _ Di Richardo Diringo inglese Canzonette a tre
 voci. (,on il Basso continuo. ln Anversa appresso Petro Phalcsio al re David. 1620.
 
 IRST-1612103" Obl- (C., C.Z°, B.. Be.), pag. 20,(l). Ded. a Giorgio Gagie Cavallero Inglese, Brussellcs,
@@ -37,12 +37,12 @@ IRST-1612103" Obl- (C., C.Z°, B.. Be.), pag. 20,(l). Ded. a Giorgio Gagie Caval
 Ftllt, se gl'occhi giro negl‘occhi voslri, amor leggiadro miro 1
 O_Vagh’o chiare stelle, occhi d’amore, voi scte luce e l’alma 2
 Clunt'è pur donn’il mio, non so s'io deggio dire, o partir o morirc 3
-Se ’del—partir da voi, vita mia, sento così grave tormento 4
+Se ’del-partir da voi, vita mia, sento così grave tormento 4
 Ah! gta mi discoloro, ohimè vien meno la luc’a gl’occhi miei 5
 Ah} the torm'il ben mio, s'io dico di morire è troppo gran martire 6
 :;th set'il mio core, voi volete ch’io mora 7
 s _ . , .
--ſſ.ſi'.îîì';l 23.33.22?.:.':°.:;.î:ì'.::i:"'.°°' - — °
+-ſſ.ſi'.îîì';l 23.33.22?.:.':°.:;.î:ì'.::i:"'.°°' - - °
 Ch“ ’ . . . q esta misera uta (Guarini) 9
 l'pfcnd amor a gioco, prend a schctzar col foco 10
 Fellce era il mio core mentre seguiva amore 11
@@ -57,5 +57,5 @@ I Ice.. amoroso foco m‘ardc mentr‘io vi mir’a poc'a poco 16
 Felli“ anto morir quando non miro colei che mi dà vita (Guarini) 17
 lll mt nd'c fugge e parmi nel ſugir ancor più bella 18
 
-—531—
+-531-
 

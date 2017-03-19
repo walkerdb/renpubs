@@ -20,7 +20,7 @@ D-Kl: A.“.
 
 l-REas: B.
 
-(ìIl—me: 11.
+(ìIl-me: 11.
 
 2747 _ TRESTI Flaminio (1585) _ 11 Primo Libro de Madrigali a cinque voci
 di Flaminio Trcsti da Lodi, novamente posti in luce. ln Venetia appresso Angelo
@@ -60,7 +60,7 @@ Tu. che le slringi il seno e cogli il bel (seconda parte)
 PL-GD: compl.
 F-Ssc: T.
 F-VE: T.
-GB-me: 5.
+GB-Lbm: 5.
 
-— 1710 —
+- 1710 -
 

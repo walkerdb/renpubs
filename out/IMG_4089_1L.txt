@@ -12,7 +12,7 @@ E-VAcp: compl.
 I-Rv: C.Z°, A.l°, A.2°, T.l", T.Z°, B.
 
 P-C: C.l°, C.l°.
-I—FA: C.l°.
+I-FA: C.l°.
 D-Rp: C.l°.
 l-Rsc: B.2°.
 

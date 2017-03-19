@@ -24,21 +24,21 @@ corretti. In Venetia, appresso Giacomo Vincenti 1597.
 I-Bc: compl.
 F-CH: compl.
 F-Pthibnult: compl.
-GB-me: C.
+GB-Lbm: C.
 
-2120 — PALLAVICINO Benedetto (1600) _ Di Benedetto Pallavicino maestri?
+2120 - PALLAVICINO Benedetto (1600) _ Di Benedetto Pallavicino maestri?
 di capella del serenissimo signor duca di Mantova il Quinto Libro de Madrigali
 a cinque voci. Novamente ristampato. In Venetia, appresso Angelo Gardano. 16m-
 
 5 fasc. in 8° (C.A.T.B.5.), pag. ZO. Indice = 1593.
 
-l-Bc: compl.
+I-Bc: compl.
 D-As: compl.
 F-Pc: compl.
 I-VEnf: A.T.B.5.
 NL-DHgm: A.
 
-2121 — PALLAVÌCÌNO Benedetto (1609) — Di Benedetto Pallavicino, maestro
+2121 - PALLAVÌCÌNO Benedetto (1609) - Di Benedetto Pallavicino, maestro
 di capella del serenissimo signor duca di Mantova. Il Quinto Libro de Madrigali
 a cinque voci. Novamente ristampato. In Venetia. Appresso Angelo Cardano,
 et fratelli. 1609.
@@ -48,7 +48,7 @@ GB-Och: compl.
 
 I-FA: C.T.5.
 
-l-Bc: A.T.B.
+I-Bc: A.T.B.
 
-—IZ98—
+-IZ98-
 

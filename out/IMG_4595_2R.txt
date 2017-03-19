@@ -23,12 +23,12 @@ I-Rsc: compl.
 A-Wn: compl.
 S-Uu: compl.
 1-Ls: A.T.B.
-GB-me: C.T.
-D—Mbs: C.T.
+GB-Lbm: C.T.
+D-Mbs: C.T.
 1-FA: AB.
 l-Vul: T.
 
-1677 — MARENZIO Luca (1588) _ Di Luca Marcnzio il Primo Libro de’
+1677 - MARENZIO Luca (1588) _ Di Luca Marcnzio il Primo Libro de’
 Madrigali spirituali a cinque voci, nuovamente ristampati. In Venetia, appresso
 l’herede di Girolamo Scotto. 1588.
 
@@ -36,9 +36,9 @@ l’herede di Girolamo Scotto. 1588.
 
 D-As: compl.
 F-Pthibault: compl.
-GB—Lcm: compl.
+GB-Lcm: compl.
 PL-GD: compl.
-E—Zac: A.
+E-Zac: A.
 
 GB-Ob: B.
 

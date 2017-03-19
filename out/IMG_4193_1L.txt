@@ -11,7 +11,7 @@ I-Bc
 
 F-Pc (Mutilo delle ultime 16 pag.).
 
-416 — BOYLEAU Simon (1546) .. Madrigali a quatro voci de Simon Boyleau
+416 - BOYLEAU Simon (1546) .. Madrigali a quatro voci de Simon Boyleau
 nobile francese da lui novamente composti et coretti et posti in luce. A quatro
 voci 1546. (Marca tipografica col motto: Iustus ut palma fiorebit).
 
@@ -60,6 +60,6 @@ corrispondcnti dei Madrigali a 2 voci di
 
 Cfr.: N. 2595).
 
-GB-me : compl.
+GB-Lbm : compl.
 D-Es- T.
 

@@ -15,15 +15,15 @@ Volgi, cor mio, la tua speranz‘homai in altra part'ov'il tuo destin (F. Spira)
 Et :\ noi restarà fra sdegn‘et irc (seconda parte) »
 
 l-Fn: compl.
-I—VEeap: C.A.T.B.5.
+I-VEeap: C.A.T.B.5.
 I-Rsc: T.B.5.6.
-GB-me: C.
+GB-Lbm: C.
 
 l-Fr: 5.
 
 I-VEaf : 6.
 
-1566 — MANENTI Giovan Pietro (1586) _ Li Pratolini di Giovampier Manenti
+1566 - MANENTI Giovan Pietro (1586) _ Li Pratolini di Giovampier Manenti
 bolognese musico del serenissimo gran duca di Toscana a cinque voci. Novamentc
 composti ct dati in luce. In Venetia appresso Angelo Gardano 1586.
 
@@ -54,5 +54,5 @@ L'alma vergine Astrea dal ciel discesa (quinta parte) » 17
 Indi scorsi un signor, ch’havea le chiome (sesta parte) » 18
 Al fin vedeva un vivo altero raggio (settima parte) » 19
 
-—985 —
+-985 -
 

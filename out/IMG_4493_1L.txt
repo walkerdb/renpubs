@@ -39,7 +39,7 @@ D-Hs: A.T.B.5.6.
 A-Wn: B.
 RISM, ] 1601-14.
 
-1337 — [L VERSO Antonio (1607) _ Il Terzo Libro de’ Madrigali a sei voci-di
+1337 - [L VERSO Antonio (1607) _ Il Terzo Libro de’ Madrigali a sei voci-di
 Antonio Il Verso siciliano. Novamente dato in luce. In Palermo, appresso Glo.
 
 Battista Maringo. 1607.
@@ -57,5 +57,5 @@ Al lume de le stelle Tirsi, sotto un alloro _ . (Rinuccini) 6
 Filli. mirando il cielo, dicea dogliosa e’ntanto empia dl calde 7
 Non crcsce fior tra queste valli ombrose. nè sorge
 
-_844—
+_844-
 

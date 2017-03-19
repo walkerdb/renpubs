@@ -33,16 +33,16 @@ La bella Dora. che m’innamora, amo et adoro e per lei moro "'
 Se nasc'in ciel il dio di Delo, a l’occidente giunge tepente 19
 La mia Aurora ha vermiglietti suoi labrctti 20
 
-l-Bc: comp].
+I-Bc: comp].
 
 B-Br: compl.
 
 A-Wn: C.1°, C.Z°, B.
 B-Bcz C.1°.
 
-GB—Och: C.l“.
+GB-Och: C.l“.
 
-1014 — FRANZONI Amante (1617) _ Il Tcrzo Libro delli Fioretti musicali a tre
+1014 - FRANZONI Amante (1617) _ Il Tcrzo Libro delli Fioretti musicali a tre
 Vom. Con alcune Aric poste nel fine del Basso continuo. D’Amante Franzoni
 mantovano, Academico Olimpico. Maestro di capella del serenissimo di Mantova
 m Santa Barbara. In Venetia, appresso Giacomo Vincenti. 1617.
@@ -55,5 +55,5 @@ m l Lettore Pubblico di Sacra Theologia in Ferrara, Mantova, 1° IX 1617.
 ” Amarillide amorosa, novo laccio del mio core l
 » » Quand’a l'hore mattutine l'alba dea più vaga e bella 2
 
-—665—
+-665-
 

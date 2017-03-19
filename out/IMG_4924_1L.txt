@@ -36,7 +36,7 @@ Lascia le sacre sponde, che'l bel Castalio fonte. cor le sue limpid'onde :?
 Non pur d’aria e di sito, ma di mill‘altri doni, .- gran ventura H
 Non già col picciol lume de l‘inſelici Gree, ma col celeste nume l5
 Soave hor più che mai mormora il Monticano, e'n su le sponde tra i fior 16
-Se alcun di farsi eterno un bel desio sospingc, qu—et‘alto Mont‘Alban ”
+Se alcun di farsi eterno un bel desio sospingc, qu-et‘alto Mont‘Alban ”
 
 Voi d'Helicona i seggi molli lasciate homai. Castalie dive 18
 Questa vaga ghirlanda. contesta di soavi e lieti fiori, colti da un Monte
@@ -44,7 +44,7 @@ Questa vaga ghirlanda. contesta di soavi e lieti fiori, colti da un Monte
 D-Hs: comp].
 D-Rp: C.A.T.B.
 
-2713 — TERRIERA Francesco (1606) _ Il Secondo Libro dc Madrigali a'culiill:
+2713 - TERRIERA Francesco (1606) _ Il Secondo Libro dc Madrigali a'culiill:
 voci di Francesco Terriera da Conegliano novamente composto et dato tn
 In Venetia, appresso Giacomo Vincenti. 1606.
 
@@ -57,5 +57,5 @@ strissimi Signori Conti di S. Secondo, et dalla chiara famiglia de’ Rosst, ell
 . . . . -_ ' . ' 'Austria "€"a !‘
 :lcqmslalos'l dt valoroso Campione presso all‘Eccellentlss. Don Giovanni cl »
 
-__.1686—
+__.1686-
 

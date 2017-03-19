@@ -30,7 +30,7 @@ Son questi quei begl’occhi, in cui mirando senza difesa (Bembo) 18
 Parmi veder ne la tua front’amore (seconda parte) » 19
 S'invidia nol consente, hor com'il ſer le stelle formar (Tansillo) 20
 Hor nel candido seno bianco ligustro, hnr vermiglietta rosa 21
-GB-me: 5.
+GB-Lbm: 5.
 
 1545 _ DE MACQUE ]ean (1581) _ Madrigaletti et Napolitane a sci voci di Gio-
 vanni De Macque novamente composti, et dati in luce. In Venetia appresso Angelo
@@ -49,5 +49,5 @@ Vola, vola pensier fuor del mio petto, vanne veloce (Tasso) 7
 Fuggi pur quanto sai, donna crudel. perch’io sent'ogn‘hor 8
 Se tu vuoi pur ch’io muoia, non mi dar più dolore 9
 
-—968—
+-968-
 

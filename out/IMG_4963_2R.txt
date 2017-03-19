@@ -50,6 +50,6 @@ Qchto è troppo, signora, voler danar ogn’hora, perchè questo. Di Horatio Vec
 
 I-Bc: compl.
 F-Pthibault: comp].
-GB-me: comp].
-D—AS: G.B.
+GB-Lbm: comp].
+D-AS: G.B.
 

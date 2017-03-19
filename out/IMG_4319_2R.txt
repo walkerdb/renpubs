@@ -4,7 +4,7 @@ F-Pn: A.
 D-Rp: T.
 
 ' ' ' " ' Monte maestro di capella
-768 — DE MONTE Fili o (1580) _ Di Filippo Di , _ .
+768 - DE MONTE Fili o (1580) _ Di Filippo Di , _ .
 della sacra cesarea maestàpgell’ìmperatore Rodolfo Secondo: _L Ottavo LOTO delli
 Madrigali, a cinque voci. Da lui novamente composti e dati in luce. In meggta,
 appresso l’herede di Girolamo Scotto. 1580.
@@ -62,19 +62,19 @@ Come senza timor mai non è speme
 Come fido animal ch'al suo signore (B' Tasso) 30
 Così temendo di madonna l'ire (seconda parte) » “ 31
 
-l—MOe: compl.
+l-MOe: compl.
 
-I—Nc: compl.
+I-Nc: compl.
 
 A-Wn: compl.
 
 D-Kl: comp].
 
-D—Mbs: comp].
+D-Mbs: comp].
 
 F-Psg: comp].
 
 l"L-GD: comp].
 
-—501 —
+-501 -
 

@@ -21,7 +21,7 @@ GB-Och: compl.
 
 RISM, 1 1609-27 (non compl.).
 
-2160 _ PECCI Tommaso (1616) — Del signor Tomaso Pecci. Madrigali a cinque
+2160 _ PECCI Tommaso (1616) - Del signor Tomaso Pecci. Madrigali a cinque
 voci. Quarta impressione. Stampa del Gardano. In Venetia 1616. Appresso Bar-
 tholomeo Magni.
 
@@ -55,5 +55,5 @@ O chiome erranti, chiome dorate inanellare (Man-nc?) 6
 Amor, io parto e sento nel partire al penar, al morire (Guarini) 7
 Ma che vita diss’io (seconda pane) »
 
-—I320—
+-I320-
 

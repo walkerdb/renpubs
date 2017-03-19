@@ -17,10 +17,10 @@ Tu mi miri e mi struggi, poi mi t'ascondi e fuggi. Tre soprani e un basso
 
 Tavola. A Lettori
 
-l—Bc: eompl.
+I-Bc: eompl.
 
-694 — DE BELLIS Giovanni Battista (1608) _ Di Gio. Battista De Bellis da.Itr:ì
-"Baﬃ—Sta. Il Primo Libro de' Madrigali a cinque voci. Con licenza dc Superiori.
+694 - DE BELLIS Giovanni Battista (1608) _ Di Gio. Battista De Bellis da.Itr:ì
+"Baﬃ-Sta. Il Primo Libro de' Madrigali a cinque voci. Con licenza dc Superiori.
 In Napoli, nella stampa di Gio. Battista Sottile. Per Scipione Bonino. 1608.
 
 Sfasc. in 8° (C.A.T.B.5.), pag. 2.3,(1). Ded. a D. Diomede Carrafa Duca di Madaloni, Marchese
@@ -50,5 +50,5 @@ Hor che ritorna il bel leggiadro aprile da me con tal desio. Canzonetta B
 D.
 
 Kl: compl.
-P—Pn (prov. Thibault): coinpl.
+P-Pn (prov. Thibault): coinpl.
 

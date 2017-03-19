@@ -1,6 +1,6 @@
 PL-WRu: C.T.B.
 F-Pc: C.
-GB-me: T.
+GB-Lbm: T.
 
 1802 bis _ MENCKIN Thomas (1597) _ Duum vocum Cantiuncularum Thomae
 Mancini mcgapolitani, chori musici in aula Wolfcrbytana magistri, Liber. Hel-
@@ -41,7 +41,7 @@ G.S. Helmaestadii, typis ]acobi Lucii, anno 1608.
 A 6. In aclernum manel
 A 4. Vila mia cara, vim saporita. subito ch‘io li vedi pers‘il core
 
-D—W: A.
+D-W: A.
 
 1804 _ MENON Tuttovalc (1548) _ Madrigali d'amore a quattro voci composti
 da Tuttovalc Menon, et nuovamente stampati et con diligentia corretti. Chi “O_n

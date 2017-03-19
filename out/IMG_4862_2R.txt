@@ -26,17 +26,17 @@ A4. Chi mi consola, ahimè? Son disperato. Alla napolitana 18
 A8. Per te languisco, amore. Dialogo 19
 A5. Havessi dui capilli d’essi tuoi. Alla napolitana 2"
 ” » Fuggendo il mio dolor io m’era assiso. Alla napolitana Z]
-» » Pensai, madonna, che col star lontano 7—3
+» » Pensai, madonna, che col star lontano 7-3
 A6. La bella vostra immagine (seconda parte) 7-3
 A4. O voi che sete liberi 24
 A8. Ferma, ferma, Caronte. Chi è costui che grida. Dialogo 25
-I—Ls: compl.
+I-Ls: compl.
 
 l-MOe' compl
 
 D-Mbs comp]
 
-2529 — SABINO Ippolito (1585) _ Di Hippolito Sabino il Quarto Libro de
+2529 - SABINO Ippolito (1585) _ Di Hippolito Sabino il Quarto Libro de
 Madrigali a quattro, cinque, sei, sette, et otto voci, novamente composti, et dati
 ln luce. In Venetia presso Giacomo Vincenzi, et Ricciardo Amadino, compagni.
 
@@ -49,5 +49,5 @@ A4- Lasso ch’io piango c'l mio gran duo! (Bembo) ]
 ” ” A quelle chiome con cui amor di libertà mi priva 2
 A5- Amorosetti augelli ch'al sol cantate su la verde fronda 3
 
-—I563—
+-I563-
 

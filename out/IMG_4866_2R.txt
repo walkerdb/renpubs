@@ -10,10 +10,10 @@ ln fine: «E perchè nelle Stampe non si ritrova ztagliato, non s'è potuto sign
 per la Chitarra, dico per dare la terza, o sesta minore ad clami: perciò mi rimetto al giudicio
 di chi sona ».
 
-l-Bc
-GB-me
+I-Bc
+GB-Lbm
 
-2540 — SALZILLI Crescenzio (1616) _ Amarille Libro Terzo delle Canzonette
+2540 - SALZILLI Crescenzio (1616) _ Amarille Libro Terzo delle Canzonette
 atre voci. Di Cresccntio Salzilli. In Napoli, per Lucrctio Nucci. 1616. Con licenza
 de' Superiori.
 
@@ -50,7 +50,7 @@ Amiam, che sol per fede. Coro 4"
 P°i Ch’hai schernito, crude] mia ſè, e dato il core ad altro amore 42
 Femme. homai fermate, in queste rive amate, o belle naviganti pescatrici 44
 OCChi belli, ond'il mio core lieto vive in tant’ardore 46
-I—Bc
+I-Bc
 
-GB-me
+GB-Lbm
 

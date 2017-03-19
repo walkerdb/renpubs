@@ -37,7 +37,7 @@ Amatemi, ben mio, che se d’amarmi, dolce vita mia (Tasso)
 Fann’aspra guerra in me sdegno ct amore
 
 D-Mbs: comp].
-GB-me: C.T.
+GB-Lbm: C.T.
 I-Bc: C,B,
 ſ-BGc: C.
 B-Br: C.
@@ -47,7 +47,7 @@ I-Rsc: T.
 F-Pmcycr: B.
 I-BRq: B.
 
-1700 — MARENZIO Luca (1592) _ Il Quarto Libro delle Villanclle a tre VOCif
+1700 - MARENZIO Luca (1592) _ Il Quarto Libro delle Villanclle a tre VOCif
 di Luca Marenzio. Raccolte per Attilio Gualtieri. Nuovamente ristampate. et
 con diligenza corrette. In Venetia appresso Giacomo Vincenti. 1592.
 

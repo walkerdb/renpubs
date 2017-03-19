@@ -34,7 +34,7 @@ numero binario, 0 nel numero ternario, al binario per pause servono li numeri di
 
  
 
-l—FEc: comp]. (C. manc. di pag. 5-20).
+l-FEc: comp]. (C. manc. di pag. 5-20).
 I-VEcap: compl.
 
 2506 _ SABBATINI Galeazzo (1634) _ Madrigali concertati a cinque voci con
@@ -49,7 +49,7 @@ de' Superiori, et privilegio. In Venetia, appresso Alessandro Vincenti. 1634.
 6 fasc. in 8° (C.A.T.B.5.Be.), pag. 26. Indice = 1627.
 
 PL-WRu: T.B.5.
-GB-me: B. Bc.
+GB-Lbm: B. Bc.
 
 2507 .. SABBATINI Galeazzo (1630) .. Madrigali concertati. a due, tre, ciuffi:
 e cinque voci. Con alcune Canzoni concertate, e tramezzate div-ersamentcdelî’cccd-
@@ -64,5 +64,5 @@ et privilegio. In Venetia, appresso Alessandro V1ncent1. 1630.
 A Z. O come dolcemente arde sfavilla c splende ’ _ Z
 » » A che tanto piagarmi, se chiedendo pietà depongo larmi
 
-— 1550 —
+- 1550 -
 

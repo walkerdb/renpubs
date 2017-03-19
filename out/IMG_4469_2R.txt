@@ -32,11 +32,11 @@ Non è cosa ch'io miri, dovunque gl‘occhi giri, che non mi para il volto 29
 S'io stesse in pregionia condennato, per nulla cosa cercaria scappare 30
 Non è amor che mi trapassa il core, ma son quiss‘occhi tuoi 31
 
-A—Wn: compl.
+A-Wn: compl.
 F-Pc: compl.
 I-Bc: T.E.
 D-As: C.
-GB-me: C.
+GB-Lbm: C.
 
 GOSTENA Giovanni Battista
 Cfr.: DELLA GOSTENA Giovanni Battista.

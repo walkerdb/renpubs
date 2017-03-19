@@ -39,14 +39,14 @@ A 8. In questa piaggia amena, ove giamai non verna. Dialogo g
 » » Coppia reale e bella, in cui hoggi si vede. Dialogo
 
 D-Kl: compl.
-GB—Lwa: compl.
+GB-Lwa: compl.
 D-As: C.A.T.B.6.
 D-LEst: C.A.T.B.5.
 Pl.-GD: T.B.S.6.
-l-Bc: A.6.
+I-Bc: A.6.
 
 I-Fn: A.
-GB-me: A.
+GB-Lbm: A.
 
 2823 _. VECCHI Orazio (1598) .. Convivium musicale Ho
 Ternis, quaternis, quinis, scnis, septenis, ct octoms voc1bus.

@@ -1,4 +1,4 @@
-GB—Och: compl
+GB-Och: compl
 
 D-Mbs: A.T.B.5.
 
@@ -45,9 +45,9 @@ All’apparir di quelle luci ardenti il duo] che sì m’annoia 21
 
 Non mi togl’il ben mio chi non arde d’amor come facc'io
 
-l-Bc: comp]. _
+I-Bc: comp]. _
 
-l-PS: C. (pag. 7—22), A. (pag. 9-12, 15-22), T. (pag. 17-22), (Pag. 7-22).
+l-PS: C. (pag. 7-22), A. (pag. 9-12, 15-22), T. (pag. 17-22), (Pag. 7-22).
 
 l-Nc: C.A.
 
@@ -56,7 +56,7 @@ l-Nc: C.A.
 Novamente ristampato. In Venetia. Apresso Angelo Gardano. 1603.
 S fasc. in 8° (C.A.T.B.S.), pag. 20. Ded. e Indice = 1594.
 
-GB-me: compl.
+GB-Lbm: compl.
 GB-Och: compl.
 l-de: A.B.5.
 l-Vnm (Canal): C.B.

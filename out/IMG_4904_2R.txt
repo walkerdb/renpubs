@@ -22,7 +22,7 @@ l-Vnm: C.T.B.
 l-Rvat (De Rossi): C.T.B.
 RISM, I 1583-17 (non compl.).
 
-2649 — STIVORI Francesco (1585) _ Il Primo Libro de Madrigali a cinque voci,
+2649 - STIVORI Francesco (1585) _ Il Primo Libro de Madrigali a cinque voci,
 di Francesco Stivori organista della magnifica Communità di Montagnana, nova-
 mente composti, et dati in luce. In Venetia presso Giacomo Vincenzi, et Ricciardo
 Amadino, compagni. 1585.
@@ -52,5 +52,5 @@ A 5. Io son sì stanco sotto il fascio antico cle le mie colpe (Petrarca) 1
 » » Chi desia di saper la gioia vera, il. sornmo bene. Di Domimm Lauro . 16
 ” ” Del Mincio‘l duolo, avollo in novo lutto (seconda parte) 17
 
-—1647—
+-1647-
 

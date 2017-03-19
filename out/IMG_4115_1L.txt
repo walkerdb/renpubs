@@ -5,7 +5,7 @@ R.D. GIO. Matteo Asola veronese. In Venetia, appresso Alessandro Vincenti. 1624.
 Vol. in 8°, pag. 37,(l). Indice = 1587.
 
 I-Bc
-l—Vnm
+l-Vnm
 
 177 _ _ASOLA Giovanni Matteo (1665) _ Madrigali a due voci accomodati da
 cantar in fuga diversamente sopra una parte sola. Novamente ristampati. Peri]
@@ -13,7 +13,7 @@ R.D. Gio. Matteo Asola veronese. In Venetia. Appresso Alessandro Vincenti. 1665-
 
 Vol. in 8°, pag. 37. Indice = 1587.
 
-l-Bc
+I-Bc
 
 178 _ ASOLA Giovanni Matteo (1605) _ Madrigali a sei voci del R.D. Gio: Matteo
 Asola. Novamente dati in luce. In Venetia, appresso Ricciardo Amadino. 1605.
@@ -47,5 +47,5 @@ Ma quest’Herode mio, pien di difetto (seconda parte) 17
 Vergine sacra, in cui chiaro si vede un purissimo raggio 18
 Sorgi, mio sol, da l’onde stigie, sorgi più che mai luminoso 19
 
-_110—
+_110-
 

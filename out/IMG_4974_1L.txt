@@ -13,7 +13,7 @@ Il dolce mormorio, che l'anno l'acque lente. )
 A Iacopo Franceschi. Di Anton Bicci
 [(Cavallcrto) &
 
-l—Fd: A.T.B5.
+l-Fd: A.T.B5.
 
 I-Vnm (Canal): T.
 
@@ -23,7 +23,7 @@ I-Fm: 5.
 
 RISM, I 1598-14 (non compl.).
 
-2866 _ VERDELOT Philippe (1533) — Del Primo Libro de Madrigali di Ver-
+2866 _ VERDELOT Philippe (1533) - Del Primo Libro de Madrigali di Ver-
 delotto.
 
 In fine: « Finiscono li Madrigali de Verdelot. Stampati novamente in Vinegia per
@@ -62,5 +62,5 @@ Madonna, per voi ardo et voi non mel credete, perchè non pia 25
 
 Non vi fidate, o semplicetti amanti, di losinghe d’amore
 
-—1784--
+-1784--
 

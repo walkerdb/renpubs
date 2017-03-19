@@ -1,4 +1,4 @@
-2340 -— REZZANO Livio (1587) _ Canzonette di Livio Rezzano da Como. Libro
+2340 -- REZZANO Livio (1587) _ Canzonette di Livio Rezzano da Como. Libro
 Primo a tre voci. Novamente composte, et date in luce. ln Milano, appresso
 Francesco et gli heredi di Simon Tini. 1587.
 
@@ -49,5 +49,5 @@ A 5. Fuss'io pur degn'amore, d‘esser, com’altri già, cangiato in fiore ;
 
 » » Amor l‘alma m'allaccia di dolce asprc catene
 
-—- 1448—
+-- 1448-
 

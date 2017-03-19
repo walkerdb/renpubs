@@ -2,13 +2,13 @@ A 6. Sur/.:| intervallo mai (li nnuc il …le conservi. Al marchese (li Pescara 
 A 7. Come viver potrò. Dialogo 37
 
 I-VEaf: Compl.
-l—Bc: :\.TB.
+I-Bc: :\.TB.
 
 2977 _ (De) WERT ]acob (1566) _ Di Giaches De Wert il Terzo Libro di
 Madrigali a cinque voci, novamente per Antonio Gardano ristampato. Con gratia
 et privillegio. A cinque voci In Venetia appresso di Antonio Gardano. 1566.
 
-5 fasc. in 8° obl. (C.A.T.B.5.). png. 37,(l). Dc.—(l. c Indice = 1563.
+5 fasc. in 8° obl. (C.A.T.B.5.). png. 37,(l). Dc.-(l. c Indice = 1563.
 
 l-VCd: C.T.lì.5.
 
@@ -43,5 +43,5 @@ Madrigali a cinque voci, novamente ristampato. In Venetia appresso Ange
 Gardano. 1592.
 5 fasc. in 8° nbl. (C.A.T.B.5.), png. 37,(1). Indice : 1563.
 
-GB-me: A.D.
+GB-Lbm: A.D.
 

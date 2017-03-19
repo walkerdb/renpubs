@@ -33,7 +33,7 @@ Donami un par (quarta stanza) 22
 
 F -Pmeycr : C.l°.
 
-1790 — MEDICI Lorenzo (1611) _ Canzoni a tre voci di D. Lorenzo Medici
+1790 - MEDICI Lorenzo (1611) _ Canzoni a tre voci di D. Lorenzo Medici
 da Soresina Libro Terzo di novo posto in luce, et dedicato all’illustrissima, et
 eccellentissima signora Isabetta Barbò Stampa, marchesa di Soncino, Longiano, etc.
 In Venetia, apppresso (ric) Giacomo Vincenti 1611.
@@ -52,5 +52,5 @@ A{"ma bella, mia chiara stella, vero splendore di questo core 8
 5'10 non li veggio, cor mio, vaneggio e s'io ti miro 9
 Mentre, belle signore, in questi lieti giorni errando andate 10
 
-— 1107 —
+- 1107 -
 

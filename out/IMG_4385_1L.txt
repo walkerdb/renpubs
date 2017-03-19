@@ -24,7 +24,7 @@ A 6. Dolci coli fiorit’a me sì cari, clic \"edel'il mio sol 5
 A 8. O conscia calclari candelieri. Mascherata 26
 I-Tn: comp].
 
-D—Mbs: compl.
+D-Mbs: compl.
 
 I-Bc: CA.
 
@@ -42,7 +42,7 @@ I-Bc: compl.
 I-Fn: compl.
 CH-Bu: compl.
 D-As: compl.
-GB-me: compl.
+GB-Lbm: compl.
 A-Wn: C.A.B.5.6.
 l-Bsp: A.; T. (manc. di pag. 21-24); 5.
 PL-GD: C.A.T.
@@ -51,5 +51,5 @@ l-MOc: A.
 
 I-Rc: B.
 
-F—Pn: 5.
+F-Pn: 5.
 

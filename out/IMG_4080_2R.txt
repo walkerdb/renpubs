@@ -1,7 +1,7 @@
 65 _ ANERIO Felice (1602) _ Di Felice Anerio romano Madrigali a sei voci
 Libro Secondo. In Roma, appresso Luigi Zannetti. 1602. Con licenza de’ Superiori.
 
-6 fase. in 8° (C.A.T.B.5.6), pag. 22,(l). Ded. a Monsignor Bernardino Paolini Datario di N. Si—
+6 fase. in 8° (C.A.T.B.5.6), pag. 22,(l). Ded. a Monsignor Bernardino Paolini Datario di N. Si-
 gnore: ((...questi novelli frutti colti nell’incolto giardino dell’ingegno mio... Di Casa, 26 XI 1602 ».
 
 A 6. Qual, dopo humida pioggia, l’arco del ciel ne scopre intorn’il sole 3
@@ -26,7 +26,7 @@ A 6. Qual, dopo humida pioggia, l’arco del ciel ne scopre intorn’il sole 3
 A 8. Mentr’io vado tcmprando all’aura estiva il bel nome 22
 I-PAc: C.A.T.B.
 
-66 — ANERIO Felice (1585) _ Madrigali spirituali di Felice Anerio maestro di
+66 - ANERIO Felice (1585) _ Madrigali spirituali di Felice Anerio maestro di
 cappella. del Collegio de gl’Inglesi in Roma, a cinque voci nuovamente stampati,
 et dati in luce. Libro Primo. Permissu Superiorum. In Roma appresso Alessandro
 
@@ -50,5 +50,5 @@ A 5. Signor, se la tua gratia è fuoco ardente (Fiamma) 1
 » » Deh pietà del mio mal (seconda parte) 13
 » » Occhi miei, che vedeste il gran vostro fattore 14
 
-A —41_
+A -41_
 

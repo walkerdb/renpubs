@@ -20,12 +20,12 @@ Per lieti prati vaga pastorella sceglicndo giva tra l’herbett’i fiori ZZ
 Amor, quando ci penso ch’a torto tu mi dai tanto martire 23
 
 l-Be: comp].
-GB-me: C.A.T.5.
+GB-Lbm: C.A.T.5.
 l-Bsp: T.5.
 
 RISM, I 1582-13.
 
-2222 — PICCIONI Giovanni (1582) _ Di Giovan Pizzoni il Quarto Libro delle
+2222 - PICCIONI Giovanni (1582) _ Di Giovan Pizzoni il Quarto Libro delle
 Canzoni a cinque voci da lui novamente composte. In Vinegia appresso l'hercde
 dl Hieronymo Scotto. 1582.
 
@@ -50,5 +50,5 @@ Però Si guarda ogn’un da sì crudele (quinta parte) 15
 Quan-do madonna scopre il suo bel viso 15
 [ces-adm pastorella in treccie d’oro all'hor vid'io che’l sol 17
 
-—]357—
+-]357-
 

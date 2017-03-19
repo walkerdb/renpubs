@@ -7,7 +7,7 @@ A 4. Se laccio il duo] s'avanza, se parlo accresco l'ira (Tasso) 13
 » » Cantano gli augelletti al fresco mormorio di quel corrente rio lB
 » » Bacio e l’amata bocca nel suggcr il mio bacio 19
 A 8. Vaghi pastori, ond'è che’] bel Lamone hoggi. Ad Alcssandro Naldi. Dialogo 20
-GB—me: C.
+GB-Lbm: C.
 
 687 _ DAL POZZO Vincenzo (1585) _ Di Vincenzo Dal Pozzo il Primo Libro
 de Madrigali a cinque voci, novamente composto et dato in luce. In Vinegia
@@ -41,12 +41,12 @@ A 8. Chi porrà fin al mio dolore, ehi rimedi'al mio mal. Ecco
 
 I-MOe: compl.
 
-GB-me: compl.
+GB-Lbm: compl.
 
 US-Wc: compl. (prov. Heyer)
 I-VEaf : C.T.B.
 
-688 — DAL POZZO Vincenzo (1612) _ Il Quarto Libro di Madrigali a cinque
+688 - DAL POZZO Vincenzo (1612) _ Il Quarto Libro di Madrigali a cinque
 voci di Vincenzo Dal Pozzo maestro di capella nel duomo di Faenza. Nuova-
 mente composto et dato in luce. In Venetia, appresso Ricciardo Amadino. 1612-
 

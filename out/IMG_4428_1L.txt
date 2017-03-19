@@ -13,7 +13,7 @@ Amor fà quanto vuoi, che tormentar non puoi 27
 Per che’] ciel brami noi veder lieti. Intermedio de pescatori ZB
 F-Pn: C.T.
 
-l-Bc: B.
+I-Bc: B.
 
 I-Rsc: B.
 
@@ -50,5 +50,5 @@ Dite madonna il vero. 1] mio amor non gradite, ma con finta pleta 13
 
 Se ben parto, mia vita, da voi non faccio nel partir partita
 
-—714—
+-714-
 

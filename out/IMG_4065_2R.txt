@@ -21,9 +21,9 @@ In Anversa. Appresso Pietro Phalesio. 1600.
 6 fasc. in 8° obl. (C.A.T.B.5.6.), pag. 12. Ded. di Pietro Phalcsio a Pietro Le Maire, Anversa,
 15 VII 1600. Indice = 1596.
 
-GB-me: compl.
+GB-Lbm: compl.
 GB-Och: compl.
-D—W: C.T.B.
+D-W: C.T.B.
 B-Gu: A.B.6.
 P-C: C.
 
@@ -52,5 +52,5 @@ A4. S’in oriente il sole spunta co rai lucente 14
 ” » Tu, madre a Dio, rosa celeste (seconda parte) 15
 » » Là su nell'oriente gioisci, o vaga Stella 16
 
-—II_
+-II_
 

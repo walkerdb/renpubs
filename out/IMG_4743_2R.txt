@@ -22,7 +22,7 @@ l-Fn
 l-Vnm (Canal)
 US-Wc (prov. Landau).
 
-2182 — PERI Iacopo (1619) _ Le Varie Musiche a una, due, e tre voci. Del
+2182 - PERI Iacopo (1619) _ Le Varie Musiche a una, due, e tre voci. Del
 signore Iacopo Peri. Con aggiunta d’Arie nuove, dell’istesso; et alcune spirituali
 in ultimo. Dedicate all‘illustriss. sig. cav.re Ferdinando Saracinelli cameriere segreto
 del sereniss. G.D. di Toscana, e bali di Volterra. In Firenze, per Zanobi Pignoni.
@@ -49,5 +49,5 @@ A 1. Tutto'] dì piango e poi la notte quando (Petrarca) Z
 » » Ho visto al mio dolore spargere a mille a mille (Striggio) 10
 » » 0 durezza di ferro e di diamante che mi ferend’il petto 12
 
-— 1331 —
+- 1331 -
 

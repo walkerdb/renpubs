@@ -49,8 +49,8 @@ D-Mbs: compl.
 
 PL-GD: compl.
 
-l-Bc: C.A.T.B.
-GB-me : C.A.T.
+I-Bc: C.A.T.B.
+GB-Lbm : C.A.T.
 
 _500_
 

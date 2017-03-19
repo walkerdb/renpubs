@@ -16,9 +16,9 @@ I-VEaf: C.A.B. (2° esempi.; C.B.).
 
 F-Pc: C.
 
-l-Bc: T.
+I-Bc: T.
 
-2243 — PORTA Costanzo (1599) _ Dì Constantio Porta da Cremona il Primo
+2243 - PORTA Costanzo (1599) _ Dì Constantio Porta da Cremona il Primo
 Libro di Madrigali a cinque voci novamente da lui composti et per Antonio
 Gardano stampati et dati in luce. A cinque voci. In Venetia apresso di Antonio
 Gardano. 1559.
@@ -31,7 +31,7 @@ Alma qual debb’io dir bella o gentile, anzi pur ho da dir gentile et bella ]
 Dir si porla felice il vago Isauro (seconda parte) 2-
 l' Vo piangendo i miei passati tempi i quai posi in amar (Petrarca) 3
 Sì che s’io vissi in guerra et in tempesta (seconda parte) » 4
-Rili'—‘nsando a quel, ch‘hoggi’l ciel honora, soave sguardo al chinar l’aurea testa 5
+Rili'-‘nsando a quel, ch‘hoggi’l ciel honora, soave sguardo al chinar l’aurea testa 5
 ' O che dolci accoglienz‘et cast'et pie (seconda parte) 6
 Pioggia d‘amare lagrime, angoscioso vento d’alti sospiri caggia da gli occhi 7
 Quando, Signora, i bei vostri occhi veggio, i bei vostr'occhi ove amor 8
@@ -53,5 +53,5 @@ Parlan d'amor le conche e i pcsci et l’onde (seconda parte) 23
 DOW: dc l'Appcnin sccndcndo gtva, di palme altiero più chc’l Tago (B. Tasso) 24
 0 duce d’ogni honor già giunto al segno (seconda parte) » » 25
 
-—1373—
+-1373-
 

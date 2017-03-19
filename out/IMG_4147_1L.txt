@@ -2,11 +2,11 @@ A 6. L’oliva è secca et è rivolt’altrove l’acqua 27
 
 » » Madonna io vi vo dire e’l ver io non \"i celo 2-3
 » » Chi è fermato di menar sua vita (Petrarca) 29
-D—Mbs: compl.
+D-Mbs: compl.
 
 S-Uu: compl.
 
-NI,—At: C.
+NI,-At: C.
 
 285 _ BASTINI Vincenzo (1578) _ Il Secondo Libro de Madrigali a cinque Ct
 a sei voci con uno Dialogho a otto a dui cori di Vincentio Bastini musico della
@@ -55,7 +55,7 @@ A 8. Che dcbb’io far? Dialogo
 
 I-MOc: A.T.B.5.
 
-__]72—
+__]72-
 
  
 

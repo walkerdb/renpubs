@@ -54,10 +54,10 @@ Perchè mentre mi trnovo (seconda parte) 29
 A-Wn: compl.
 D-LUh: comp].
 D-Mbs: compl.
-GB-me: C.A.B.5.
+GB-Lbm: C.A.B.5.
 F-CC: C.
 
 I-Bc: T.
 
-l—MOc: B.
+l-MOc: B.
 

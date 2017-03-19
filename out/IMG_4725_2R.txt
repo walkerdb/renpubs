@@ -2,7 +2,7 @@ Dolci mi son gl'affanni, dolci l'ire e gl’inganni che dolcemenle ZI
 
 Passa la nave mia colma d'oblio per aspro mar (Petrarca) ZZ
 Pioggia di lagrimar, nebbia di >degni (seconda pane) »
-l-Bc: compl.
+I-Bc: compl.
 
 2111 - PALLAVlCINO Benedetto (1585) _ Di Benedetto Pallavicino il Terzo
 Libro de Madrigali a cinque voci, novamente composti et dati in luce. In Venetia
@@ -30,13 +30,13 @@ A 5. Quel di ch'io persi il core, amor denlr‘a quel loco accese un dolce foco 
 » » Vago. candido fiore, to che fm verdi campi del sol nascesti ai lampi 18
 » » Fulminava d‘amor questa rubella, udile, udite amanti 19
 A 8. Ond‘nviene ch‘io l‘amo. Dialogo ZO
-l-Bc: compL
+I-Bc: compL
 
 l-M0e: comp].
 
 A-Wn: C.A.T.B.
 
-2_112 — PALLAVICINO Benedetto (1606) _ Di Benedetto Pallavicino il Terzo
+2_112 - PALLAVICINO Benedetto (1606) _ Di Benedetto Pallavicino il Terzo
 Libro de Madrigali a cinque voci. Novamente ristampato, et corretto. In Venetia,
 appresso Alessandro Raverij. 1606.
 
@@ -44,6 +44,6 @@ appresso Alessandro Raverij. 1606.
 
 ["7136313: compl.
 GB-0ch: compl.
-I—PAc: C.A.T.B.
+I-PAc: C.A.T.B.
 A-Wn: A.B.5.
 

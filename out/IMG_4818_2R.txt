@@ -12,29 +12,29 @@ D-G: C.A.T.
 A-Wn: C.A.B.
 B-Br: A.
 
-2383 — (De) RORE Cyprien (1573) _ Di Cipriano de Rore il Primo Libro de'
+2383 - (De) RORE Cyprien (1573) _ Di Cipriano de Rore il Primo Libro de'
 Madrigali a quattro voci, nuovamente ristampati et con ogni diligenza corretti.
 [n Venetia, 1573. Appresso Giorgio Angelieri.
 
 4 ſasc. in 8° ob]. (C.A.T.B.), pag. 22. Indice = 1550.
 
-l-Bc: T.B.
+I-Bc: T.B.
 
-2384 — (De) RORE Cyprien (1575) _ Di Cipriano de Rore il Primo Libro de
+2384 - (De) RORE Cyprien (1575) _ Di Cipriano de Rore il Primo Libro de
 Madrigali a quattro voci, novamente con ogni diligentia ristampato A quatro
 Voci. In Venetia appresso Angelo Gardano. 1575.
 
 4 fasc. in 8° obl. (C.A.T.B.), pag B. Indicc : 1550.
 
-GB-me: compl. (2° esempi.: B.).
+GB-Lbm: compl. (2° esempi.: B.).
 1-Fr: C.A.B. (2° cscmp1.: C.A.).
 1-Bc: G.B.
 
-l—Vc (Torrcfranca): C.
+l-Vc (Torrcfranca): C.
 
-F-Pc: T. (solo pag. 1—7).
+F-Pc: T. (solo pag. 1-7).
 
-2385 — (Dc) RORE Cyprien (1582) _ Di Cipriano de Rore il Primo Libro de
+2385 - (Dc) RORE Cyprien (1582) _ Di Cipriano de Rore il Primo Libro de
 Madrcgali a quatro voci, novamente con ogni diligentia ristampato. In Venetia
 aPPl"=$SO Angelo Gardano. 1582.
 

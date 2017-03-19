@@ -14,9 +14,9 @@ Occhi, lumi del cielo, che pur lum‘a li miei occhi miro 20
 Filli, dolce ben mio, m'ha dato tal ferita Zl
 Tirsi, dolce ben mio, gl‘occhi luoi vagh'e belli ZZ
 
-GB—Lwa: compl.
+GB-Lwa: compl.
 GB-Och: compl.
-l-Bc: C.A.B.5.
+I-Bc: C.A.B.5.
 
 1868 bis _ MODIANA Orazio (1625) _ Filomenici concenti di Madrigali con-
 certati a due, tre, quattro, et cinque voci: da cantarsi con il Clavicembalo, o altro
@@ -57,5 +57,5 @@ A 5. Nuncie di "era vita le voslr'aquile belle. Al Duca di Guastalla e Duchessa 
 
 » » Mentr‘infiammav‘amor due giovinetti cori de suoi ardori
 
-GB-me: 5.
+GB-Lbm: 5.
 

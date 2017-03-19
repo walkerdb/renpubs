@@ -2,7 +2,7 @@ A 6. Non è, lasso, martire il convenir per voi, dor-n.1, morire (Spira) 18
 » » Son rose le tue guance, Filli, ma lor vicine io non veggio 19
 A 8. Ninfe perchè lasciate? Danzian :\ gara. Dialogo 20
 
-l—Bc: A.T.5.
+I-Bc: A.T.5.
 
 657 _ CRIVELLI Giovanni Battista (1626) _ 11 Primo Libro delli Madrigali con-
 certati a due, tre, et quattro voci. Di Gio. Battista Crivelli mastro di capella. nello
@@ -36,15 +36,15 @@ A 4. Ah non si può, crudele, e chi non puote innamorato î“:
 
 l-FEc : compl.
 
-658 — CRIVELLI Giovanni Battista (1633) _ Il Primo Libro delli Madrigali con-
+658 - CRIVELLI Giovanni Battista (1633) _ Il Primo Libro delli Madrigali con-
 rertati a due, tre, et quatro voci di Gio. Battista Crivelli maestro di capclla nello
 Spirito Santo in Ferrara. Dedicati al serenissimo D. Odoardo Farnese duca d‘
 Parma et di Piacenza, etc. Novamente ristampato et con diligenza corretto. In
 Venetia, appresso Alessandro Vincenti. 1633.
 
 5 fasc. in 8° (C.A.T.B.Bc.), pag. ZZ.(1). Indice = 1626.
-l-Bc: C.A.
+I-Bc: C.A.
 
-GB-me: B. Bc.
+GB-Lbm: B. Bc.
 I-TSt: C.
 

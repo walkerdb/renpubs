@@ -27,9 +27,9 @@ V'è cieca valle a cui la fronl'c al tergo. Sonetti del dottor Avanzi da Rovigo 
 Quivi i cerri e le quercic 20
 La ninfa mia sopra una verde riva. Del Cicco d'Hadria Zl
 l-MOc: compl.
-l—Bc: B.
+I-Bc: B.
 
-2057 — NICOLETTI Filippo (1588) _ Madrigali a due voci, di Filippo Nico-
+2057 - NICOLETTI Filippo (1588) _ Madrigali a due voci, di Filippo Nico-
 letti ferrarese, novamente composti, et dati in luce. In Venetia, presso Giacomo
 
 Vincenzi. 1588.
@@ -51,5 +51,5 @@ Ma poi che’] mio deslino (terza parte) ” 9
 DI ciò cor mio (quinta parte) ” 11
 Zerbin, la debil voce (sesta parle) ” 12
 
-—IZ49—
+-IZ49-
 

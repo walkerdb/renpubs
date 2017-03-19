@@ -2,9 +2,9 @@ Non può saver cotne leggiadra voglia amor sovent‘in gentil cuor 31
 De la beltà, che Dio larga possiede, sì vivo raggio’n voi 32
 Ahimè, chi m'ha furar'il mio bel sole? Nol reggio più apparir 33
 
-GB—Lcm: compl.
-GB-me: C.T.B.
-l-Bc: A.T.
+GB-Lcm: compl.
+GB-Lbm: C.T.B.
+I-Bc: A.T.
 
 2637 _ SPONTONI Bartolomeo (1561) _ Di Bartolomeo Spontoni da Bologna
 il Primo Libro de Madregali et Canzoni a cinque voci con uno Dialogo a otto

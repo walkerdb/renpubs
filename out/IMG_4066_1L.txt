@@ -6,7 +6,7 @@ A5. Bench’alla tua beltade, sangue gentil 17
 » » Suggi, suggi, bambino, che mentre latte suggi Zl
 
 l-Rv: compl.
-D—Rp.: C.l°, C.Z°, A.B.
+D-Rp.: C.l°, C.Z°, A.B.
 D-Rtt: CP.
 
 22 _ AGLIONE Alessandro (1599) _ Canzonette spirituali a tre voci composte
@@ -46,5 +46,5 @@ A cinque voci. In Venetia apresso lì figliuoſi di Antonio Gardano. 1574.
 All’armi, all’arm’o fidi miei pensieri, correte tutt’in guardia 1”
 
 Vita mia cara, vita saporita, subito ch’io ti vidi pers’il core 2
-Chi la dirà la pena del mio core et quel dolor ,— 3
+Chi la dirà la pena del mio core et quel dolor ,- 3
 

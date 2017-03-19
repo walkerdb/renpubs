@@ -1,4 +1,4 @@
-2145 _ PASQUALI (Pascale) Francesco (1627) — Madrigali a una, due, tre,
+2145 _ PASQUALI (Pascale) Francesco (1627) - Madrigali a una, due, tre,
 quattro e cinque voci con il Basso continuo necessario alla maggior parte di cssi
 di Francesco Pasquali cosentino. Lib. Terzo, et Opera Quinta. In Roma, appresso
 Pavolo Masotti. 1627. Con licenza de’ Superiori.
@@ -37,7 +37,7 @@ A 5. Hor che l'aria c la terra arde e fiammeggia. Concertato ” 16
 
 » » Negra sei, ma sei bella, o vaga delle vaghe pastorella
 
-l-Bc: compl.
+I-Bc: compl.
 
 2146 _ PASQUALI (Pascale) Francesco (1633) .. Varie musiche a una, Z-3_-4'
 e cinque voci, concertati co‘l Basso continuo. Di Francesco Pasquali eosentlno
@@ -56,5 +56,5 @@ A l. Qual suon di bassa vena aridi accenti
 
 » » In atti mesti e gravi si dolea
 
-— 1312 —
+- 1312 -
 

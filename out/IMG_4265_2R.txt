@@ -4,7 +4,7 @@ A 4. Fortunato pastore. Madrigale . _ ZZ
 » » ltc, amari sospiri, a la bella cagion del morir mio (Guarini) 24
 D-MZ: B.
 
-604 — COMANEDO Flaminio (1615) .- Sccondo Libro de Madrigali a cinque voci
+604 - COMANEDO Flaminio (1615) .- Sccondo Libro de Madrigali a cinque voci
 di Flaminio Comanedo con il suo Basso continuo per sonar nel Clavicembalo,
 o altro simile stromento. Opera Quinta. Nuovamente composta, et data in luce.
 ln Venetia appresso Giacomo Vincenti. 1615.
@@ -37,7 +37,7 @@ Scmpre crudele? Sempre crudele e'! fine de la tua crudeltà 21
 Ben è Ver, quando è gioeondo ride il mondo, ride il ciel ZZ
 l"VEF-ap: compl.
 
-D—DS: Aff,
+D-DS: Aff,
 
 €05. _ CONFORT] Giovanni Battista (1567) _ Madrigali di Giovan Battista Con-
 fim, nuovamente dati in luce et corretti da Claudio da Correggio. A cinque voci.

@@ -37,9 +37,9 @@ D-Mbs: comp].
 GB-Lhm: compl.
 l-Nn: C.T.B.5.
 l-MOc: A.T.5.
-l-Bc: T.
+I-Bc: T.
 
-2720 — TIBURTINO Giuliano (1549) .. Musica diversa a tre voce, novamente
+2720 - TIBURTINO Giuliano (1549) .. Musica diversa a tre voce, novamente
 cOmposta per lo eccell. musico messer Giuliano Tiburtino: cioeMotetti, Messe, Ma-
 drigali a notte negre opera dilettevole, et non piu stampata. Dl novo posta in luce,
 Ct COn somma diligentia coretta. Venetiis, apud Hieronymum Scottum. 1549.

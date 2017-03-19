@@ -10,31 +10,31 @@ l-Rsc: A.T.B.
 E-Zac: B.
 
 " ' ' ' ' ' de l'eccellente
-744 — DE MONTE Filippo (1560) _ Madrigali a Cinque \oc1 _ .
+744 - DE MONTE Filippo (1560) _ Madrigali a Cinque \oc1 _ .
 musico Filippo De Monte novamente posto in luce. Libro Primo. In Vinegia,
 appresso Girolamo Scotto. 1560.
 
 5 fasc. in 8° ob]. (C..-\.T.B.5.), pag. 19. indice = 1554.
 
 B-Br: T.5.
-E—Bd: T.
+E-Bd: T.
 F-Pm: 5.
-US—CHH: S. (difett.)
+US-CHH: S. (difett.)
 
 ' ' ' ' ' ' di ca lla
-745 — DE MONTE Filippo (1570) _ D1 M. Filippo Dl Monte maestro _ pe .
+745 - DE MONTE Filippo (1570) _ D1 M. Filippo Dl Monte maestro _ pe .
 della S. C. maestà dell'imperatore Massimiliano Secondo. Il Primo Libro delli
 Madrigali, a cinque voci. In Vinegia, appresso Girolamo Scotto 1570.
 
 5 fasc. in 8" (C.A.T.B.5.), pag. 24. lndice = 1554.
 
 LBC: C.A.S.
-I—Rsc: A.
+I-Rsc: A.
 
-GB—Ckc: S,
-GB-me: T,
+GB-Ckc: S,
+GB-Lbm: T,
 
-746 — DE MONTE Filippo (1576) _ Di Filippo Di Monte maestro di capella
+746 - DE MONTE Filippo (1576) _ Di Filippo Di Monte maestro di capella
 della S. C. maestà dell'imperatore Massimiliano Secondo. Il Primo Libro delli
 Madrigali, a cinque voci. In Vineggia. Appresso l‘herede di Girolamo Scotto 1576.
 
@@ -43,7 +43,7 @@ Madrigali, a cinque voci. In Vineggia. Appresso l‘herede di Girolamo Scotto 15
 l“Bc: compl.
 
 D-Rp: C.T.B.5. (prov. Haberl).
-GB-me: C.A.
+GB-Lbm: C.A.
 
 l-FA: A.
 

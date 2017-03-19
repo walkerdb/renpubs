@@ -1,10 +1,10 @@
-GB-me: C.A.T.B.
+GB-Lbm: C.A.T.B.
 D-W: C.T.B.
 B-Gu: A.D.é.
 NL-Dl-lgm: T.
 NL-At: 5.
 
-896 — ESSENGA Salvatore (1566) _ Di Salvador Essenga il Primo Libro di Madri-
+896 - ESSENGA Salvatore (1566) _ Di Salvador Essenga il Primo Libro di Madri-
 gali :! quattro voci novamente da lui composti et per Antonio Gardano stampati et
 dati in luce. A quatro voci. In Venetia apresso di Antonio Gardano. 1566.
 
@@ -45,7 +45,7 @@ A B. Doppo l'aspra partita, occhi miei spenti, che guardarete voi. Dialogo 23
 1-Bc: T.B. (B. manc. di pag. 1-6)-
 RISM, ! 1566-8.
 
-gli” — ESSENGA Salvatore (1561) _ Di Salvadore Essenza il Secondo Libro dc
+gli” - ESSENGA Salvatore (1561) _ Di Salvadore Essenza il Secondo Libro dc
 Gadregali a.C.…que voci con alquanti sesti et dui ottavi novamente per Antonio
 ardono dati in luce. A cinque voci in Venetia appresso di Antonio Gardano. 1561.
 

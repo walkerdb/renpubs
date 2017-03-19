@@ -10,7 +10,7 @@ Dolcissimo mio bene, confort‘allc mie pene, un baccio sol ZZ
 
 1-MOe: comp].
 PL-GD: compl.
-l-Bc: T.
+I-Bc: T.
 
 643 _ COSTA Gasparo (1581) _ Il Primo Libro de Moretti et Madrigali spirituali
 a cinque voci di Gasparo Costa bolognese organista alla Madonna di San Celso 111
@@ -47,7 +47,7 @@ Et qual foco per vento all’aria (seconda parte)
 D-Kl: compi.
 
 644 _. COSTA Giovanni Maria (1640) _ Il Primo Libro de Madrigali a due, tr"
-e quatro voci, di Gio: Maria Costa genovese maestro nella real capella della—SCN“
+e quatro voci, di Gio: Maria Costa genovese maestro nella real capella della-SCN“
 nissima Republica di Genova dedicati a gl'illustrìssimi signori Filippo Mana; ct
 Agostino Pinelli con licenza de’ Superiori, et privilegio. In Venetia, apresso Ales-
 sandro Vincenti. 1640.

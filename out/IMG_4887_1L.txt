@@ -42,7 +42,7 @@ Specie tua et pulchritudine tua intende prospere procede. Quinti tom 42
 
 )) ))
 
-l-Bc: compl.
+I-Bc: compl.
 - ' ' ' ’ Mdi aliaducVOC'»
 2598 .- SCOTTO Girolamo (1562) _ ll Prtmo Libro delli a r g iulm
 

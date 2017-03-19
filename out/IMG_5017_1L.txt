@@ -31,16 +31,16 @@ A 7. Quando nasce-sli, amore? quando la terra s'i riveste
 
 )) ))
 
-I—A: compl.
+I-A: compl.
 
-l-Bc: comp].
+I-Bc: comp].
 D-Hs: compl.
 D-Mbs: compl.
 F-Pc: compl.
 F-Psg: compl.
-GB-me: comp].
+GB-Lbm: comp].
 I-TVc: C.T.B.5.6.7.
-B—Br: C.T.B.5.6.7.
+B-Br: C.T.B.5.6.7.
 E-Bd: C.A.B.5.6.7.
 GB-Lcm: C.A.B.5.6.
 l-VEaf: C.T.B.5.6.7.
@@ -62,12 +62,12 @@ D-Rp: B. (prm'. Haberl).
 WILLAERT Adriano _
 Cfr.: TlBURTlNO Giuliano - WILLAERT Adriano - DE RORE Cyprien.
 
-3002 — WYNANT Federico (1597) _ Madrigali a cinque voci .di Federico Wynant
+3002 - WYNANT Federico (1597) _ Madrigali a cinque voci .di Federico Wynant
 Flamengo Libro Primo. In Venetia, appresso Giacomo Vincenti 1597.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. Zl,(1). Ded. a Monsig. Giulio Caracciolo, Arcivescovo di TT:;
 «Qucslc mic prime, ct giovanili fatiche Musicali... csscndosi degnata (v.%) d:]ccmafnilmînſare
 Scn'ilii. et condurmi da Spagna a Italia, mi ha dato agio … casa sua dmtcn ere, c
 
-—l870—
+-l870-
 

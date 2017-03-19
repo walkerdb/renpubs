@@ -27,8 +27,8 @@ Goda hor beato il Po, goda il Metauro, spargan l’arene d‘or 27
 
 Questi come del ciel la lun‘e‘l sole saran (seconda parte) ZB
 Chi chi li chi. Cu cu ru cu. U scontienta, u bcschina, u sportunata me Lucia 29
-l-Bc: comp].
-l—Fn compl
+I-Bc: comp].
+l-Fn compl
 
 Pl.-GD: C.A.T.5.6.
 I-MOe: C.A.T.B.6.
@@ -37,10 +37,10 @@ l-Sd: C.A.B.
 F-CC: C.
 
 F-Pc: C.
-GB—mez-C.
+GB-Lbmz-C.
 US-BE: S.
 
-l_040 _— GkaRIELI Andrea (1580) _ Di Andrea Gabrieli organista della sereniss.
+l_040 _- GkaRIELI Andrea (1580) _ Di Andrea Gabrieli organista della sereniss.
 Signoria dl Venetia in S. Marco. Il Secondo Libro de Madrigali a sci voci, nova-
 
 mente corn osti et dati in luce. Con rivile io. I V t' _

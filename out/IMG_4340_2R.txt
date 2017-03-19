@@ -42,7 +42,7 @@ F-Pnzcompl.
 GB-Och: compl.
 I-Rc: C.B.5.
 
-3310 —- D'INDIA-\ Sigismondo (162,4) _ Settimo Libro de Madrigali a cinque voci
+3310 -- D'INDIA-\ Sigismondo (162,4) _ Settimo Libro de Madrigali a cinque voci
 Cl cavalier Sigismondo D‘India. Dedicati al serenissimo prencipe Mauritio cardi-
 nae di Savma. In Roma, appresso Gio. Battista Robletti. 1624. Con licenza de'
 Superiori.
@@ -52,5 +52,5 @@ Superiori.
 lle. sospiri ardenti, portate il dolor mio 3
 Non da l‘indiche vene o dai fiumi ch'al mondo 4
 
-—541_
+-541_
 

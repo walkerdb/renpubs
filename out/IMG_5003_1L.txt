@@ -2,7 +2,7 @@ ln amor che stravaganza far soavi le catene e ten-ir vane le pene. D’incerto 6
 Chi vuol provare quanto campare un poltron sa. D‘incerto 63
 
 D-W
-GB-me
+GB-Lbm
 PL-WRu
 
 2952 _ VITTORI Loreto (1639) _ La Galatea dramma del cavalier Loreto Vittori
@@ -10,13 +10,13 @@ da Spoleti dal medesimo posta in musica e dedicata all’em.mo e rev.mo sig. car
 Antonio Barberino. In Roma per Vincenzo Bianchi. Con licenza de Superiori 1639.
 Vol. in 4°, pag. 142. Ded. Sonetto di Gio. Lotti.
 
-l—Rsc
+l-Rsc
 
 I-Rvat (Barberini)
 l-Rvat (Capp. Giulia)
 F-Pc
 
-GB-me
+GB-Lbm
 
 2953 _ VIVARINO Innocenzo (1624) _ Madrigali concertati a due e tre voci et
 a voce con Violini, e Sinfonie per cantar nel Clavicembalo, Chitarone, o altro
@@ -55,5 +55,5 @@ A 3. Spiritosa dal cielo esce l‘aura e voi l'aura. Z tcnon e basso _ b Zl
 . . . . so
 » » Tu mi sprezzr, cor mio, perchè canuto ro sono. Z tenori : bas
 
-— 1842 —
+- 1842 -
 

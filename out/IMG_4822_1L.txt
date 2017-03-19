@@ -37,7 +37,7 @@ Perchè con lui cadrà quella speranza (seconda parte) ” 39
 I-Bc: compl.
 D-W: compl.
 l-Rsc: A.T.B.
-GB-me: C.
+GB-Lbm: C.
 l-Vnm: 5.
 
 Un esempl. compl., ma diſettoso era nella Collezione Heyer di Koln.
@@ -51,5 +51,5 @@ cinque voci. In Venetia apresso di Antonio Gardane. 1552.
 l-Bsp : compl.
 D-Mbs : compl.
 
-— 1482 —
+- 1482 -
 

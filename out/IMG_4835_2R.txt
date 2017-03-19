@@ -32,16 +32,16 @@ A 5. Non al suo amante più Diana piacque. Madrigale (Petrarca) 19
 » » Donna non già, ma dea mortale. Canzone (Ferdinando de‘ Medici) 20
 A 5- Della tenera ctad’a pena fuora (seconda stanza) » » » 21
 A7. Poscia, rivolto al tuo senno vivavc (terza stanza) » » » ZZ
-A 8— Qual già Diana la faretra e l’arco (quarta stanza) » » » 24
+A 8- Qual già Diana la faretra e l’arco (quarta stanza) » » » 24
 A9. Dunque chi canterà qual si convenc (quinta stanza) » » » 26
 A 10. Ma io che poss’altro che col desio (sesta stanza) » » » 28
-l-Bc: C.T.S.
+I-Bc: C.T.S.
 
 GB-Lbrn: B.
 
 I-Rse: S.
 
-24_36 — ROSSETO (Rossetti) Stefano (1560) _ Di Stephano Rossetti da Nizza il
+24_36 - ROSSETO (Rossetti) Stefano (1560) _ Di Stephano Rossetti da Nizza il
 Primo Libro dc Madregali a quattro voci insieme alquanti Madregali ariosi et con
 alcuni versi di Vergilio novamente da lui composti et per Antonio Gardano stam-
 Patl et dati in luce. A quatro voci. In Venetia appresso di Antonio Gardano. 1560.
@@ -52,5 +52,5 @@ Padre del ciel, che da i stellati chiostri cinto di gloria 1
 V chr ben, padre, il mio desir (seconda parte) 2
 "sme santa, d’ogni gratia piena, che per vera et altissima (Petrarca) 3
 
-_ 15m.—
+_ 15m.-
 

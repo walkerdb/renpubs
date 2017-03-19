@@ -18,9 +18,9 @@ A4. Che prò mi vien ch’io t‘habhia, o bella diva. Scstina (B. Tasso) 12
 A 8. Donna, l’ardente fiamma e la pena e‘l tormento cresc’in mc. Dialogo 28
 » » Signor, la vostra fiamma e la pena (seconda parte) 29
 
-GB—me : compl.
+GB-Lbm : compl.
 
-460 — CAlMO Giuseppe (1585) _ Madrigali a cinque voci di Gioseppe Caimo
+460 - CAlMO Giuseppe (1585) _ Madrigali a cinque voci di Gioseppe Caimo
 nobile milanese organista nel duomo di Milano, novamente composti, et dati in
 luce. Libro Quarto. ln Venetia presso Giacomo Vincenzi, et Ricciardo Amadino,
 Compagni, 1585. A instantia di Pietro Tini librario in Milano. (B. dat.: 1584).

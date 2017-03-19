@@ -22,11 +22,11 @@ A 5. lle, amari sospiri. a la bella cagion del morir mio (Guarini) l
 » » Rido perchè tu ridi e lu perch'io mi moro 17
 A 8. Anime pellegrine, che bramate, amando, ener amate (Guarini) 18
 » » 0 come vaneggiate, donne, pensando havermi tolto » 19
-GB-me: C.
+GB-Lbm: C.
 
 l-Vnm: 5. (prov. Heyer).
 
-2711 — TASTAVlN Geronimo (1569) .- Di Hieronimo Tastavin il Primo Libro
+2711 - TASTAVlN Geronimo (1569) .- Di Hieronimo Tastavin il Primo Libro
 de Madrigali a cinque voci, novamente da lui composti, et per Antonio Gardano
 Stampati et dati in luce. Libro Primo. In Venetia appresso di Antonio Gardano.
 l
@@ -35,7 +35,7 @@ l
 
 Amor, tu voi ch‘io dica quel ch‘io tacer vorrei. Canzon (Sannazzaro) l
 Vo che mi ved'e senta, quella che mi tormenta (seconda parte) »
-Che non è sterp'o sasso, ch‘almen tard’o— per tempo (terza parte) » 3
+Che non è sterp'o sasso, ch‘almen tard’o- per tempo (terza parte) » 3
 Perchè mi giung‘affano, sc’l mio morir l’è danno (quarta parte) » 4
 Che s’un marmo poi serra la carn'ignud’c fiale (quinta parte) » 5
 E quei pietos'accenti, che rilevar solean mie pene (sesta parte) ” 6
@@ -52,5 +52,5 @@ La bella donna, ch‘io sospir’et canto. di cui non dicd’il ciel (!=-M. Molz
 Così, mentre ch‘io arde et ciò non mostro nè nnd’al bon (seconda parte) » 17
 QUel rosignol, che sì soave piagne, forse suoi figli, o sua cara (Petrarca) 18
 
-—1685—
+-1685-
 

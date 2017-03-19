@@ -8,9 +8,9 @@ Se la mia vita trista si pasce sol della tua dolce vista 19
 Ove ne vai pastore, ch‘al volto mostri haver (loglioso il core? 20
 Mirate che capriccio che mi viene, risoluto mi son lasciar amore 21
 Non più lacci d'amore, nè sue saette e fuoco nel mio misero cor ZZ
-l-Bc: compl.
+I-Bc: compl.
 
-GB-me: Cl°, B.
+GB-Lbm: Cl°, B.
 CH-Bu: C.Z°, B.
 D-Kl: C.Z°, B.
 
@@ -39,7 +39,7 @@ Occhi vaghi e lcggiadri, dolci del mio cor ladri 23
 Per qual cagion havete, donna, del mio morir cotanta sete 30
 l-AN
 
-21165 — OROLOGIO Alessandro (1586) _ Di Alessandro Orologio il Primo
+21165 - OROLOGIO Alessandro (1586) _ Di Alessandro Orologio il Primo
 Libro de' Madrigali a cinque voci, novamente composti, et dati in luce. In
 Venetia appresso Angelo Gardano 1586.
 

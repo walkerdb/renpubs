@@ -1,4 +1,4 @@
-A 3. Dimmi. clic—.t‘liaggio fatto, o vita mia, che non mi \ſſoi vcdcr, nè più scntirc lo
+A 3. Dimmi. clic-.t‘liaggio fatto, o vita mia, che non mi \ſſoi vcdcr, nè più scntirc lo
 » » Cor mio, di gratia hormai facimo pace 2]
 » n \‘oglio pigliar sto cor ct abrusarc ZZ
 » » Non sia ncssun clic campa con spcranza 11
@@ -14,8 +14,8 @@ A 4. O passos cspamidos. Aria alla spagnola 31
 A-Wn: compl.
 F-Pc: compl.
 l-Fn: CB.
-GB-me: T.
-l-Bc: B.
+GB-Lbm: T.
+I-Bc: B.
 
 2759 _ TROMBETTI Ascanio (1586) _ Di Ascanio Trombetti musico della illu-
 striss. Signoria di Bologna. Il Primo Libro de Madrigali a quattro voci. Novamcntc
@@ -40,12 +40,12 @@ Donna, voi non sapete che la mia vita sclc, perchè sc lo sapcste 15
 Strano c diverso stilc (seconda parte) _ , 16
 Tirsi morir vnlca. gl'occhi mirando di colci cll’adora (Guaſlnl) ”
 Frcnò Tirsi il desio (seconda parte) ” 18
-Così moriro i fortunati amanti (terza partt.—) ” 19
+Così moriro i fortunati amanti (terza partt.-) ” 19
 Pingca con l‘ago un fiore. Di Girolamo Trombe… ZO
 Sc minacciosa c fiera _ . 21
 Donna, sc voi m‘odiatc, a che sì dolci, poi, baci mi date? (Rmaldl)
 
-l-Bc: compl.
+I-Bc: compl.
 I-MOc: compl.
 D-W: compl.
 

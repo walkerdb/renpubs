@@ -19,7 +19,7 @@ I-Nn: C.
 
 A-Wn: A.
 
-GB-me: A.
+GB-Lbm: A.
 
 US-BE: A.
 

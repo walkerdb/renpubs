@@ -11,7 +11,7 @@ D-Mbs: compl.
 I-Bc: G.B.
 B-Br: C.
 F-Pthibault: C.
-GB-me: C.
+GB-Lbm: C.
 1-Rsc: T.
 F-Pmcyer: B.
 I-BRq: B.
@@ -23,10 +23,10 @@ ristampato. In Vinegia, 1591. Appresso l’herede di Girolamo Scotto.
 3 fasc. in 8° (C.T.B.), pag. 46. Bed. di Attilio Gualtieri a Pomponio de Magistris, segretario di
 Camilla Peretti, Roma, 20 Ill 1591. Indice = 1587.
 
-l-Bc: compl.
+I-Bc: compl.
 A-Wn: compl.
 A-ng: compl.
-GB-me: T.E.
+GB-Lbm: T.E.
 l-Fn: T.
 
 l-Rsc: B.

@@ -6,9 +6,9 @@ preso i heredi di Pietro Phalesio al re David, 1632.
 6 fase. in 8° ob]. (C.A.T.B.5.Bc.). Indice = 1609-3.
 
 CH-ZU : C.T.B.Bc.
-NL—At: 5.
+NL-At: 5.
 
-1646 — MARENZlO Luca (1601) _ Lucae Marentii, musici celeberrimi, Madri-
+1646 - MARENZlO Luca (1601) _ Lucae Marentii, musici celeberrimi, Madri-
 galia quinque vocum, antea Venetiis, diversis temporibus, novem separatis edita
 libris, jam vero, commodioris usus caussa, uno volumine conjunctim excusa.
 Noribergae, in oﬃcina typographica Pauli Kauffmanni. 1601.
@@ -20,14 +20,14 @@ D-Hs: compl.
 
 D-Rp: compl.
 
-D—W: compl.
+D-W: compl.
 
 F-Pthibault: compl.
 
 GB-Och: compl.
 
 GB-Lcm: non compl.
-PL—GD: C.A.T.
+PL-GD: C.A.T.
 
 PL-Wn: C.S.
 
@@ -37,14 +37,14 @@ D-ma: B.
 1-BRq: A. (mane. (li front.).
 PL-LEtpn: A.
 
-RlSM, I 1601—12 (non compl.).
+RlSM, I 1601-12 (non compl.).
 
-1647 — MARENZIO Luca (1581) _ Di Luca Marcnzio maestro di capella
+1647 - MARENZIO Luca (1581) _ Di Luca Marcnzio maestro di capella
 dell'illustrissimo et reverendissimo signor cardinale d'Este. 11 Primo Libro de
 Madrigali a sei voci novamente composti, et dati in luce. In Venetia appresso
 Angelo Gardano.
 
-6 fasc. in 8° obl. (C.A.T.B.5.6—). pag. 2]_(l), Dod. :\ Dnn Alfonso d'Este, Duca di Ferrara,
+6 fasc. in 8° obl. (C.A.T.B.5.6-). pag. 2]_(l), Dod. :\ Dnn Alfonso d'Este, Duca di Ferrara,
 Venetia, 10 IV 1581.
 
 - A 5. Come inanti dc l'alba rugiadnsa 1
@@ -59,5 +59,5 @@ Venetia, 10 IV 1581.
 ” ” O dolorosa sorte, lc lagrime e i sospir non mi dan morlc (Quirino) 10
 » » Ahimè ml fu d’amore c l'esca : l'amo » 11
 
-— 1021 —
+- 1021 -
 

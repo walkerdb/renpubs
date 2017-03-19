@@ -14,7 +14,7 @@ A 7. Come falda di neve, che aggliiaceiata (Tansillo)
 
 D-Rp: comp]. (B. difett.).
 D-Bms: C.l°, A.Z°, T.Z°, B.
-l—MOe: C.l°, C.Z°, T.Z°.
+l-MOe: C.l°, C.Z°, T.Z°.
 F-Pc: C.Z°, A.Z°.
 
 F-Pn: C.Z°, A.Z°.
@@ -22,7 +22,7 @@ Boetticher 803.
 
 1405 _ DE LASSUS Roland (1560-1) _ Il Primo Libro delli Madrigali d’Orlando
 di Lassus et altri eccellenti musici a quattro voci. ln Roma per Valerio Dorico, con
-liccntia dei Superiori. 1560. —
+liccntia dei Superiori. 1560. -
 
 4 fasc. in 8° obl. (C.A.T.B.), pag. 28.(l). Ded. al Cardinal di Guisa del raccoglitore Francesco
 Tracetti, Roma, 15 I 1560.

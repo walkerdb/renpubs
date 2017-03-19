@@ -9,11 +9,11 @@ mente ristampati. Libro Primo. In Venetia appresso Angelo Gardano. 1591.
 
 I-Nc: compl.
 
-D—Rp: compl.
+D-Rp: compl.
 
 F-Pc: compl.
 
-GB-me: compl.
+GB-Lbm: compl.
 
 GB-Lwa: compl.
 
@@ -56,5 +56,5 @@ A 5. ll bianco et dolce cigno cantando more ed io piangendo (Guidiccioni) ;
 
 » » A bel de tuoi capelli l‘oro ogni pregio tiene, ch’al paragon
 
-— 1758 —
+- 1758 -
 

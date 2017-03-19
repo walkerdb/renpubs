@@ -15,12 +15,12 @@ Ogni rivo, ogni alto monte pur d'amar (terza parte) 26
 Dunque, donna, la mia fede e qunl cra (quarta parte) 27
 Perchè non posso io dir, cantando in rima (quinta parte) 28
 D-LUh: compl.
-l-Bc: A. (solo png. 4-5, 14-13, 28,(1) ).
+I-Bc: A. (solo png. 4-5, 14-13, 28,(1) ).
 l-MOe: B.
 
 RlSM 1, 1547-16.
 
-997 — FONGHETTI Paolo (1598) _ Capricii, et Madrigali di Paolo Fonghctti,
+997 - FONGHETTI Paolo (1598) _ Capricii, et Madrigali di Paolo Fonghctti,
 nuovamente composti, ct dati in luce. A due voci. In Verona, appresso Francesco
 dalle Donne, et Scipione Vargnano suo genero. 1598.
 
@@ -52,5 +52,5 @@ Il Philarmonico ZZ
 Fetonte 23
 Lo Aspettato 24
 
--—653—
+--653-
 

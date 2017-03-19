@@ -53,7 +53,7 @@ Sicut locutus est ZZ
 
 A-Wn: C.l°.
 
-2618 — SIGNORUCCI Pompeo (1602) _ Madrigali a cinque voci con un Ecco
+2618 - SIGNORUCCI Pompeo (1602) _ Madrigali a cinque voci con un Ecco
 a otto. Di Pompeo Signorucci maestro di capella, et organista del Borgo S. Sepolcro.
 Libro Primo. Nuovamente composti, e dati in luce. In Venetia, appresso Giacomo
 Vincenti. 1602.
@@ -64,5 +64,5 @@ Gillbileo colà vicino a Spoleti l'incontrai... Borgo San Sepolcro, 10 !l 1602 �
 
 A 5. Pargoletta gentile, ch‘hai nel bel viso aprile 1
 
-— 1625 —
+- 1625 -
 

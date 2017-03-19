@@ -8,11 +8,11 @@ A 3. O labrctti vczzosetti. Canzonetta. C.A.T. 9
 A 4. Ahi Filli rabbiosetta, ferma, che fai? 14
 A 5. Non mai mortale. Aria. 3 voci e 2 Viol. 16
 A 6. Amor, tu mi tormenti con sì fiero martire. 4 voci e Z Viol. 20
-GB-me: B., Bc.
+GB-Lbm: B., Bc.
 
 Sartori 11, 1637 i.
 
-560 — CICCARELLO Nunzio (1611) _ Il Primo Libro de' Madrigali a quattro
+560 - CICCARELLO Nunzio (1611) _ Il Primo Libro de' Madrigali a quattro
 voci. Di Nuntio Ciccarello da Cerreto. In Napoli, nella stampa di Gio. Battista
 Gargano et Lucretio Nucci. 1611. Con licenza de' Superiori.
 
@@ -44,7 +44,7 @@ V°"mslie rose e candide viole mi diede amor un giorno 20
 Sclve, fontane e prati e voi, giardini amati 21
 l-Ria: A,
 
-56_1 — CIERA Ippolito (1554) _ Madrigali del Labcrinto, a quatro voci Libro
+56_1 - CIERA Ippolito (1554) _ Madrigali del Labcrinto, a quatro voci Libro
 rlmo. Composti da lo ecCcll. musico: don Hippolito Ciera, novamencc post’in luce
 
 ’“ °°" Summa diligentia corretti. La bellezza bonta et leggiadria de dicti Madri ali

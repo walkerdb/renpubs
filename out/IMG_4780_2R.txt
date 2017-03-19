@@ -25,7 +25,7 @@ A-Wn: compl.
 
 D-Mbs: compl.
 
-GB-me: C.
+GB-Lbm: C.
 
 l-Vnm: B.
 
@@ -35,7 +35,7 @@ US-BE: B.
 
 RISM, I 1570-31 (non compl.).
 
-2279 — PRIULI Giovanni (1625) .. Delicxe musicali di Giovanni Prioli macstro
+2279 - PRIULI Giovanni (1625) .. Delicxe musicali di Giovanni Prioli macstro
 di capella della sacra maestà di Ferdinando Il imperatore, etc. Dedicate alla
 maestà della imperatrice Eleonora Gonzaga d’Austria.
 
@@ -62,5 +62,5 @@ A L Sospiretto te ne vai, col desio mirerai. 2 Soprani 2
 ” ” Per la via gir se ne godono (seconda parte). 2 Tenori » 5
 ” ” Chi può mirarvi e non lodarvi, fonti del mio martiro? Sopr. e B. » 6
 
-—1401—
+-1401-
 

@@ -8,7 +8,7 @@ Amore l'altro giorno sc n'andava solo soletto senza .stral ' l7
 lo vo cantar con tanta leggiadria la notte e'! giorno ]8
 Hor va, canzona mia, liet‘e sicura dritt‘a quel sul 19
 Chiara e lucente stella, perchè mi sei rubella ZU
-Come sperar poss'io rimedio al languir mio, s‘in parole m‘i— tolto 2]
+Come sperar poss'io rimedio al languir mio, s‘in parole m‘i- tolto 2]
 Mi senlo ohimè morire e pur convien partire e men vo lung‘al mio 22
 Fuggendo andai per boschi selve e monti come animal B
 Vivan sempre i pastori tra i vaghi e dolci amori 24
@@ -18,18 +18,18 @@ CH-Bu: compl
 
 D-As compl
 
-GB-me: compl.
+GB-Lbm: compl.
 PL-WRu: compl
 D-Rp: C.T.B.
 PL-Wu: A.
 
-1309 — HASSLER Hans Leo (1596) _ Madrigali a 5.6.7. cc 8. voci di Giovannc
+1309 - HASSLER Hans Leo (1596) _ Madrigali a 5.6.7. cc 8. voci di Giovannc
 Leone Haslcr, organista dell’illustriss: signor Octaviano secondo Fuggcr, barone di
 Kirchberg et Weissenhorn, etc. consiglicro della S.M. cesarea. Novamente corn-
 postì et dati in luce. Con gratia et privilegio della S.C. maestà. In Augusta,
 apresso Valentin Schònigk. 1596.
 
-6 fasc. in 8° (C.A.T.B.5.6.), pag. 33.(l). Deda a Maurilio, Lantgravio d‘Hassia, Conte di Catzene—
+6 fasc. in 8° (C.A.T.B.5.6.), pag. 33.(l). Deda a Maurilio, Lantgravio d‘Hassia, Conte di Catzene-
 lenbogen, Dietz, Ziegenhaim, et Nidda, etc., Augusta, 1° Il 1596.
 
 A 5. Lieti fiori e felici e ben nate herbe che madonna (Petrarca) ]

@@ -5,9 +5,9 @@ A 4. Cantai, hor piango e non men di dolcezza » Zl
 » » Tengan dunque ver me l’usato stile (seconda parte) » ZZ
 » » Dal più bel viso e dal più vago petto » B
 » » Da le soavi parolctte accorte (seconda parte) » 24
-I—Fn: compl.
+I-Fn: compl.
 
-GB—me: comp],
+GB-Lbm: comp],
 GB-Lwa: comp].
 I-VEaf: C.A.5.
 
@@ -54,5 +54,5 @@ A 4. Sacri colli e beati, ben nate rive e ben felici piante ]
 » » Facea col cancro il sol suo bel soggiorno 24
 » » Cangiar pensicr hormai più non mi lice 25
 
-._.62— ...—_
+._.62- ...-_
 

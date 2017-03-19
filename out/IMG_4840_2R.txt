@@ -29,7 +29,7 @@ A 5. lo moro, ecco ch’io moro, bella nemica mia (Marino) 1
 A 6. Ricdc la primavera, torna la bella Clori » Zl
 F-Pc: compl.
 
-l-Bc: A.T.5.
+I-Bc: A.T.5.
 
 2453 bis _ ROSSI Salomone (1620) _ Il Terzo Libro de Madrigali a cinque voci.
 
@@ -42,7 +42,7 @@ Dl Salomon Rossi hcbreo con una Canzon de baci nel fine, con il suo Basso
 
 Un cscmpl. di questa edizione csislcvu nella Bibl. Borghese di Roma.
 
-2.454 — ROSSI Salomone (1610) _ ll Quarto Libro de Madrigali a cinque voci
+2.454 - ROSSI Salomone (1610) _ ll Quarto Libro de Madrigali a cinque voci
 1 Salamon Rossi hebreo, con il Basso continuo, per stromenti da corpo posto
 nella parte del Canto. Novamente posto in luce. In Venetia, appresso Ricciardo
 Amadino. 1610.
@@ -53,5 +53,5 @@ Mantova. zo m 1610.
 A 5. Filli. ai baci m‘inviti e già mi stcndi, perch’io la baci. Sonetto (Marino) l
 » » Temi non ſorse (seconda parte) ” Z
 
-— 1519 -—
+- 1519 --
 

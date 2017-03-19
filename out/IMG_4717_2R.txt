@@ -30,12 +30,12 @@ A 5. Di marmo siete mi, donna, ai colpi d‘amore, al pianto mio » 11
 >! » Strana armonia d‘amore al tuo cantar forma il mio core. Cin Sinfonia se piace » 19
 ” “ Pon ſren, donna reale. al tuo chiaro splendore. Cin Sinfonia se piace » 20
 
-l—Bc: compl.
+I-Bc: compl.
 l-VEcap: A.T.B.5., B. per sonare.
-GB-me: A.
+GB-Lbm: A.
 Sartori 1617b.
 
-2979 — PACE Pietro (1613) _ Il Primo Libro de Madrigali di Pietro Pace orga-
+2979 - PACE Pietro (1613) _ Il Primo Libro de Madrigali di Pietro Pace orga-
 msta di Santa Casa di Loreto per cantare sopra il Chitarone o Tiorba o altri
 slll'omenti da una voce sola, con un Dialogo tra il Peccatore, e la Morte nuova-
 mente composto, et dato in luce. In Venetia, appresso Giacomo Vincenti. 1613.
@@ -49,5 +49,5 @@ ottimi maestri, et inventori cantatelc... Loreto. ZO XII 1612 ».
 A ]. Sei tu cor mio, che vai gridando i‘ moro? lo son. Dialogo 1
 ” ” Quel neo, quel vago neo, che ſà d‘aurate fila ombra (Marino) Z
 
-—]279—
+-]279-
 

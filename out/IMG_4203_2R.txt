@@ -12,7 +12,7 @@ Chi mi porge consiglio, amanti? Ahi per pietà ZU
 Amor tiranno, lungi dal core Vanne al malanno ZZ
 Mitigate il rigor, lumi feroci 24
 E morta la pietà, non c‘è più fedeltà 26
-PL—WRu
+PL-WRu
 
 4.44 _ BUSCA Lodovico (1668) _ Ariette da camera a voce sola del padre D. LOdO-
 VICO Busca da Torino, monaco cassinense. Opera Seconda. Dedicata all’illustrissimo,
@@ -48,5 +48,5 @@ Sontananza’crudele, 'un’alma fedele sin quando il mio rigor. Adagio, et affe
 peranza m ha tradita. Più non ti credo no. Aria 58
 So] per farmi sospirar in quel volto amor entrò. Arietta 61
 
-A —285—
+A -285-
 

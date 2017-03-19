@@ -19,7 +19,7 @@ I-Fc: compl.
 l-Rvat (Barberini): compl.
 I-Ls: B.
 
-487 — CAPRIOLI Giovan Paolo (1602) _ Canzonette a tre voci, di ‘Gio. Paolo
+487 - CAPRIOLI Giovan Paolo (1602) _ Canzonette a tre voci, di ‘Gio. Paolo
 Capriolo. Libro Primo. Nuovamente composte, e date in luce. In Venetia, appresso
 Giacomo Vincenti. 1602.
 
@@ -50,5 +50,5 @@ E viver e morire mi fai quando ti veggio 18
 Chi mi sente a cantatr per certo dice: non è di questo al mondo 19
 A l’ombra d’un bel Pino viddi la donna mia 20
 
-—319—
+-319-
 

@@ -15,7 +15,7 @@ CB-SH: compl.
 PL-Wu: compl.
 I-Bc: C.S.
 Pl.-Tu: A.T.
-GB-me: T.E.
+GB-Lbm: T.E.
 DK-Kk: T.
 
 1628 _ MARENZIO Luca (1609) _ Di Luca Marenzio musico eccellentiss. il
@@ -26,9 +26,9 @@ al re David 1609.
 5 fasc. in 8° obl. (C.A.T.B.5.), c. 56. Ded. dx Pietro Phnlesio :\ Gherardo di Hornes, Barone di
 Bassigny, Anversa, 29 I 1609. Indice = 1593.
 
-GB-me: compl.
+GB-Lbm: compl.
 GB-Ob: compl.
-GB—Och: compl.
+GB-Och: compl.
 D-W: C.T.B.
 F-Psg: T.B.5.
 D-BFa: A.T.
@@ -50,5 +50,5 @@ A 5. S'io parto i’ moro, e pur partir conviene. Mon-ò dunqu’ìl mio bene 1
 » » Ben ho del caro oggetto i scnsi privi, ma’] veggio (A. Caro) 3
 » n Dille ln mia speranz‘e’l mio desio (seconda parte) » » 9
 
-— 1014 —
+- 1014 -
 

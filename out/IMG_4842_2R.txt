@@ -18,11 +18,11 @@ Son d'un bel laccio d‘oro per man d'amor 28
 Se il mio pensier che sempre in voi sol pensa 2.9
 Almo sol, quella fronde ch‘io sola amo (Petrarca) 30
 L'ombra che cade (la quell'humil colle (scconda parte) » 31
-l-Bc: compl.
+I-Bc: compl.
 D-Mbs: compl.
 l-PCd: T.
 
-2460 — ROTA Andrea (1589) _ Di Andrea Rota macstro di cappella di Santo
+2460 - ROTA Andrea (1589) _ Di Andrea Rota macstro di cappella di Santo
 Petronio il Secondo Libro de Madrigali a cinque voci. Novamente composto, et
 dato in lucc. In Venetia appresso Angelo Gardano. 1589.
 
@@ -49,5 +49,5 @@ A 5. Ut re mi fa sol la, ogn‘armonia abbraccia con dolcezza (Celiano) l
 ” ” Nato Cupido, un’ape, piccioletta nutrice, il mel gli diede 15
 ” ” Nè bei capelli d'oro, di Felsina il decoro, e nel bel viso adorno 16
 
-— 1523 —-
+- 1523 --
 

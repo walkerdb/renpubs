@@ -32,7 +32,7 @@ D-W: compl.
 D-l: C.A.T.B.
 l-Nn: C.
 
-F—Pc: 5 (manc. di front.).
+F-Pc: 5 (manc. di front.).
 
 Il N. 2390 è annullato.
 
@@ -53,5 +53,5 @@ I‘ mi vivea di mia sorte contento senza lagrime 7
 
 Et se talhor da begli occhi soavr (seconda parte)
 
-_ 1480 —
+_ 1480 -
 

@@ -17,7 +17,7 @@ D-Mbs: compl.
 I-VCd: C.T.B.5.
 
 1-Vc (Torrcfranca): A.
-B—Br: A.
+B-Br: A.
 
 F-Pc: T.
 
@@ -30,9 +30,9 @@ gencia coretti et stampati. In Vincgia. Appresso Girolamo Scotto, 1561.
 5 fasc. in 8° nhl. (C.A.T.B.5.), pag. 27. lndice = 1558.
 
 D-As: compl.
-D—Mbs: compl.
+D-Mbs: compl.
 
-2969 — (De) WERT Jacob (1564) _ Di Giacbcs dc .Wcrt il. Primo Libro dF
+2969 - (De) WERT Jacob (1564) _ Di Giacbcs dc .Wcrt il. Primo Libro dF
 Madrigali a cinque voci, novamente con nova giunta ristampati. A cmquc voc1.
 In Venetia appresso di Antonio Cardano. 1564. .
 
@@ -55,5 +55,5 @@ selva io e cru a vogia
 i: » ASPTÇi‘ÏTSZI di sîîranza rimembrando ('scconda _parte) ,, ;?
 » » S‘al’lmr che per pigliar Laurent'Enea fe cos ond ogm (ll
 
-— 1851 —
+- 1851 -
 

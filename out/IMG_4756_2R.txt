@@ -18,7 +18,7 @@ Parlami, donna. e teco lascio il core per pegno di mia fè Zl
 
 CH-Bu: comp]
 
-2219 — PICCIONI Giovanni (1578) _ Il Primo Libro delle Canzoni a cinque
+2219 - PICCIONI Giovanni (1578) _ Il Primo Libro delle Canzoni a cinque
 voci. Di Giovanni Pizzoni maestro di musica delli sig. Accademici Desiosi di
 Conegliano. Novamente posto in luce. In Vincggia. Apprcsso l’herede di Giro-
 lamo Scotto. 1578.
@@ -56,5 +56,5 @@ Canto \: piango per voi, donna gentile, e tanta e tanta mi dà 24
 Fammi veder, amor, l’idolo mio, poichè mirando il suo leggiadro viso 25
 1° credea col baciarti, anima mia, sfogar in parte il fuoco 26
 
-— 1355 —
+- 1355 -
 

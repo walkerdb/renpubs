@@ -25,7 +25,7 @@ Angiolett'amorosa, se come vaga sei. fosti pietosa B
 
 F-Pn: comp].
 
-l-Bc: C.T.5.
+I-Bc: C.T.5.
 
 l-MOe: C.A.
 
@@ -35,7 +35,7 @@ l-Fm: S.
 
 RISM, \ 1515-3 (non compl.).
 
-1000 — (FONTANELLl Alfonso) (1596) .- Primo Libro di Madrigali senza nome.
+1000 - (FONTANELLl Alfonso) (1596) .- Primo Libro di Madrigali senza nome.
 A cmquc voci. Terza impressione. In Venetia, Stampa del Gardano, appresso
 Bartolomeo Magni. 1596.
 
@@ -43,7 +43,7 @@ Bartolomeo Magni. 1596.
 
 US-Charding: A.D.
 
-1001 — (FONTANELLI Alfonso) (1603) _ Il Primo Libro di Madrigali. Senza
+1001 - (FONTANELLI Alfonso) (1603) _ Il Primo Libro di Madrigali. Senza
 
 3:11“;- 112021.an voci. Novamente ristampato. In Venetia. Apprcsso Angelo Gar-
 
@@ -53,8 +53,8 @@ US-Charding: A.D.
 
 1-Bc: compl.
 F-Pc: compl.
-l—de: A.B.5.
+l-de: A.B.5.
 1-MOc: CA.
 
-—655 —
+-655 -
 

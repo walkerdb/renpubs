@@ -26,12 +26,12 @@ Beltà non fu eomplita in donna mai. Del Metallo 26
 A la lappia macoman. A la lappia gramini. Moresca. Del Metallo 27
 
 A-Wn: compl.
-GB-me: T.
-l—Rsc: B.
+GB-Lbm: T.
+l-Rsc: B.
 
 RISM, I 1590-24.
 
-1896 — MONTESANO Alfonso (1622) _ Madrigali a cinque voci di don A1-
+1896 - MONTESANO Alfonso (1622) _ Madrigali a cinque voci di don A1-
 fonso Montesano da Maida. Libro Primo. In Napoli, per Ottavio Beltrano. Con
 licenza de’ Superiori. 1622.
 
@@ -54,5 +54,5 @@ Cura gelata e ria, che turbi et avelcni gli usati del mio cor (Guarini) IS
 
 Crude], ma se tu mostr’il ver a gl'occhi miei
 
-—— 1175 —
+-- 1175 -
 

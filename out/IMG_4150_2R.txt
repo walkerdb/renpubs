@@ -33,10 +33,10 @@ A 5. La piaga, ch’ho nel core, mi fà languir d’amore 32
 A 6- Zeﬃro mio gentil, che per le selve vai. 4 voci e Z Violini 44
 A 1- Che veggio, ohimè che miro? Chi lasso mi ti toglie, Orfeo (D’Indìa) 48
 
-GB—Och: compl.
+GB-Och: compl.
 NL-DHgm: 5. (prov. Scheurleer).
 
-295_— BELLASIO Paolo (1591) _ Di Paolo Belasio (sic) veroncsc maestro di
+295_- BELLASIO Paolo (1591) _ Di Paolo Belasio (sic) veroncsc maestro di
 mus1ca nell'Accademia dell’illustrissimi signori Accademici Filarmonici. Madrigali
 a 3. a 4. a 5. a 6. a 7. et a 8. voci. Novamente composti, et dati in luce. Con
 PflVllegio. In Venetia, appresso Ricciardo Amadino. 1591.
@@ -51,7 +51,7 @@ Tra mille verdi herbette e mille vaghi e leggiadretti fiori 3
 » » S’ . . .
 altra fiamma giamai m’arse, madonna, ll core 4
 
-,, D,! zinc"… ° "HCl—°". dl gratlssxmi odor ulla ripiena 5
+,, D,! zinc"… ° "HCl-°". dl gratlssxmi odor ulla ripiena 5
 ” S aVVlen che reticella
 
 » » Donna . b ]. _ aurea circonde le trecie vostre bionde - . 6
@@ -60,5 +60,5 @@ A 5 . miser huom non glov’an dar lontano 8
 
 . Di questa pietra amore tragg’invisibil foco 9
 
-—l79—
+-l79-
 

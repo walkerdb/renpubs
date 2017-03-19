@@ -17,10 +17,10 @@ Venetia, per Plinio Pietrasanta, 1557.
 
 GB-Cu: B.
 F-Pc: C.
-GB-me: T,
+GB-Lbm: T,
 RISM I, 1557-21.
 
-114 — ARCHADELT jacques (1558) _ Di Archadelt il Primo Libro de Madrigali
+114 - ARCHADELT jacques (1558) _ Di Archadelt il Primo Libro de Madrigali
 a quatro voc1 novamente con ogni diligentia ristampato et corretto. In Venetia
 
 apresso di Antonio Gardano. 1558.
@@ -53,5 +53,5 @@ Q nt e madonna m13,foll’]] pc
 
 nSlero se pur dela mia morte 17
 
-'— 73-—
+'- 73--
 

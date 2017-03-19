@@ -1,4 +1,4 @@
-GB-me: C.A.
+GB-Lbm: C.A.
 PL-WRu: T.B.
 l-Rc: C.
 US-Cn: A.
@@ -16,14 +16,14 @@ I-Bsp: compl.
 I-Fc: compl.
 I-Rsc: compl.
 B-Br: compl.
-D—KI: compl.
-GB-me: compl.
+D-KI: compl.
+GB-Lbm: compl.
 D-Mbs: A.T.B.
 PL-WRu: C.A.
 I-Fn: C.
 
 I-Vnm (Canal): A.
-US—Cn: C.
+US-Cn: C.
 
 2806 _ VECCHI Orazio (1595) _ Canzonette di Horatio Vecehi da Modena
 Libro Secondo a quattro voci. Novamente ristampate. Con pnvrlegio. Quarta
@@ -35,7 +35,7 @@ lndice = 1580.
 l-PAc: compl.
 D-Rp: C. (prov. Haberl).
 
-2807 — VECCHI Orazio (1602) .. Canzonette di Horatio Vechii (la MQOÎÌÎÎ
+2807 - VECCHI Orazio (1602) .. Canzonette di Horatio Vechii (la MQOÎÌÎÎ
 Libro Secondo a quattro voci. Novamente ristampate. Con pnv1lcg10-
 ìmpressione. In Venetia, appresso Angelo Gardano. 1602.
 

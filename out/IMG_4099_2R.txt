@@ -11,7 +11,7 @@ F-Pc: c. (dif.), A. (dif.), T.
 PL-WRu: c.
 RISM, 1 1575-13.
 
-123 — ARCHADELT )acques (1579) _ Di Archadelt. Il Primo Libro de Madrigali
+123 - ARCHADELT )acques (1579) _ Di Archadelt. Il Primo Libro de Madrigali
 a quatro voci nuovamente con ogni diligentia ristampato. In Venetia, 1579. (Marca
 
 tip. di Claudio Merulo).
@@ -19,7 +19,7 @@ tip. di Claudio Merulo).
 
 US-Cn: A.
 
-124 — ARCHADELT ]acques (1581) _ Di Archadelt il Primo Libro de Madri-
+124 - ARCHADELT ]acques (1581) _ Di Archadelt il Primo Libro de Madri-
 gali a quatro voci novamente con ogni diligentia ristampato. In Venetia, appresso
 
 Alessandro Gardane. 1581.
@@ -28,7 +28,7 @@ Alessandro Gardane. 1581.
 F-Pthibault: compl.
 RISM, I 1581-6.
 
-125 — ARÇHADELT ]acqucs (1585-1) _ Archadelt Primo Libro de Madrigali a
+125 - ARÇHADELT ]acqucs (1585-1) _ Archadelt Primo Libro de Madrigali a
 qlffattro voc1, novamente ristampato. In Venetia appresso Giacomo Vincenzi: et
 R1cc1ardo Amadino, compagni. 1585.
 
@@ -43,7 +43,7 @@ Pungcnte dardo, che’] mio cor consumi 3
 
 Ragion è ben che alcuna volta io canti
 SMP-ta belt.-‘i, quanta gratia e splendore
-Ati??— lO morir dl mala morte, s’io non ve amo 5
+Ati??- lO morir dl mala morte, s’io non ve amo 5
 
 1 se la donna mia, qual’hor lasso mi vede, voless’esser più Pia 6
 Occhi mlCl lassi, mentre ch’io vi giro (Petrarca) 7

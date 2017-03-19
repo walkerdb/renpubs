@@ -20,9 +20,9 @@ Bramo veder un di per mia vendetta il cor tutto piagato Zl
 Fece l’eterna man vostra scmbianza e mia, là suso di conforme tcmprc ZZ
 Ninfe leggiadre e voi fortunati pastor, correte tutti a lodar meco insieme B
 l-MOe: comp].
-l-Bc: A.T.B.5.
+I-Bc: A.T.B.5.
 
-1354 — ISNARDI Paolo (1589) _ Il Primo Libro de Madrigali a sei voci di Paolo
+1354 - ISNARDI Paolo (1589) _ Il Primo Libro de Madrigali a sei voci di Paolo
 Isnardi musico del serenissimo signor duca di Ferrara, et mastro della musica del
 domo. Novamente composto et dato in luce. In Venetia appresso Angelo Gar-
 
@@ -50,5 +50,5 @@ lo vorrei pur morir, così mi preme la lontananza ria 16
 ll dolce mormorio, che fanno l'acque lente di questo e di quel rio (Cavalletto) 17
 Ne la stagion di Flora appariva nel cielo sul bel matin 18
 
-—855 —
+-855 -
 

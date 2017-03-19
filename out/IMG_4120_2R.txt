@@ -21,10 +21,10 @@ Intanto il sonno si partia (seconda parte) » 21
 
 I-Rsc: compl.
 I-Vnm: compl.
-I—VEaf- C.T.
+I-VEaf- C.T.
 D-Mbs: 6.
 
-202 — _BACCUSI Ippolito (1587) _ D’Hippolito Baccusi maestro di cappella nel
+202 - _BACCUSI Ippolito (1587) _ D’Hippolito Baccusi maestro di cappella nel
 domo dr "Mantova, il Quarto Libro de Madrigali a sei voci, novamente posto in
 luce. In Venetia appresso Angelo Gardano. 1587.
 
@@ -57,5 +57,5 @@ assai’ìlcz: navcd'mia, colma d’oblio, per aspro mar (Petrarca) 16
 Fu il vigna l lagrimar, nebbia di sdegni (seconda parte) » 17
 cer sempre mai laudabil cosa (Ariosto) 18
 
-—121—
+-121-
 

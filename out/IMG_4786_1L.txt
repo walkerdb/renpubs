@@ -47,6 +47,6 @@ A 3. E' diventato sto mio cor meschino una campana posta in basso loco ]
 A 4. Aure soavi... Che cerchi dolente? Conforto al mio languir. Dialogo
 
 A-Wn: compl.
-GB-me: C.
+GB-Lbm: C.
 I-Rc (Baini): A.
 

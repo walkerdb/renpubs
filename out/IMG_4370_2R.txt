@@ -19,10 +19,10 @@ Verginella amorosa, vermiglia come rosa. Villanella , ZÛ
 Che giova a lo mio core la fede Zl
 
 A-Wn: compl.
-GB-me: compi.
+GB-Lbm: compi.
 F-Pmeyer: C. (manc. di pag. 17-18).
 
-914 — FATTORINI Gabriele (1598) _ La Cieca. Il Primo Libro de Madrigali a
+914 - FATTORINI Gabriele (1598) _ La Cieca. Il Primo Libro de Madrigali a
 C'Î’ch voci, di Gabriele Fattorini. Novamente posti in luce. In Venetia appresso
 thcrardo Amadino. 1598.
 
@@ -35,7 +35,7 @@ Cicco amor. non ti cred’io. Choro di ninfe (terza parte) ” 3
 Così cieco m‘annodasti. Choro di ninfc (quarta parte) " 4
 Ma voi giocate. O sommi dei. Mirtillo (quinta parte) ” 5
 Ma ll-l pur perfido, cieco mi chiami. Choro di ninfe (sesta parte) » 6
-[ſì—bona fè, [.icori, ch‘io mi pensai. Mirtillo (settima parte) ” 7
+[ſì-bona fè, [.icori, ch‘io mi pensai. Mirtillo (settima parte) ” 7
 Sctolto cor fa piè fugace. Chnro di ninfe (ott.-n'a parte) ” 3
 O fusti svelta, maledetta pianta. Amarilli, Mirtillo (nona parte) » 9
 Dtlnquc giocar dcbb'io. Amarilli. Cnrisca. Mirtillo (decima parte) » 10
@@ -45,7 +45,7 @@ Così chi’l terg ’e chi le gote. Choro di ninfe (dodicesimn parte) » 12
 l" STcmh’un dì sedea Laura ad Aminta 1-3
 {\minta a quel parlar cortese c vago (seconda parte) 14
 
-Gentile—zza c pietade chiudea madonn'in seno 15
+Gentile-zza c pietade chiudea madonn'in seno 15
 
 Clon st sdegna s’io mostro di Pilli haver novo desio 16
 
@@ -61,5 +61,5 @@ Non ha men bianch‘il petto. nè ha ben freddo il core 2]
 
 1-Vnm (Canal): 'r,
 
-—601—
+-601-
 

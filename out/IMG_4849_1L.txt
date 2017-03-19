@@ -5,7 +5,7 @@ Doncha dre nostre perle oro (terza vane) 29
 D-Mbs: comp].
 I-Vnm: C.T.B.
 l-VEaf : G.B.
-l-Bc: T.
+I-Bc: T.
 
 2482 _ RUFFO Vincenzo (1553) _ Di Viccnzo Ruffo il Primo Libro dc Madri-
 gali a cinque voci novamente dato in luce. Con gratia et privilegio. A cinque
@@ -49,5 +49,5 @@ O caduca beltà, che Sl placesti (seconda pane) (Cassola) 34
 
 Donna, s’io piango spesso, piango vostra durezza
 
-— 1536 —
+- 1536 -
 

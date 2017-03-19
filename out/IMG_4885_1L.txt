@@ -41,11 +41,11 @@ A-Wn: compl.
 D-Mbs: compl.
 
 Zatec - Convento dei Cappuccini: C.B.
-GB-me: C.
+GB-Lbm: C.
 
 D-Z: T.
 
-l-Bc: B.
+I-Bc: B.
 
 I-Vnm: B.
 
@@ -58,5 +58,5 @@ appresso Girolamo Scotto. 1571.
 Sozpira, core, che ragione n’hai c chiama la fortuna iniqua 4
 Date le vcl‘al vento, o pensier mici dolenti, nè temete del ma:
 
-—I608—
+-I608-
 

@@ -6,11 +6,11 @@ mannus. 1603.
 
 D-Rp: compl.
 [JS-AA: comp].
-GB—me: CA.
-Pl-—\Vn: C.
+GB-Lbm: CA.
+Pl--\Vn: C.
 l-BRq: A.
-PL—LElpn: A.
-PL—WRu: A.
+PL-LElpn: A.
+PL-WRu: A.
 D-Dl: T.
 D-ma: B.
 
@@ -22,8 +22,8 @@ Nuovamente ristampati. In Anversa appresso Pietro Phalesio. 1607.
 GB-Ocli: comp].
 B-Gu: C.A.T.
 D-W: C.T.B.
-GB—me: T.E.
-DK—Kk: T.
+GB-Lbm: T.E.
+DK-Kk: T.
 
 1595 _ MARENZIO Luca (1608) _ Di Luca Marenzio il Primo Libro de Madri-
 gali a quattro voci. Novamente ristampati. ln Venetia appresso l'herede di Giro-

@@ -41,7 +41,7 @@ Amor mi fa morire e pur il vo seguire. Non è gran duolo (Dragonetto) 24
 
 D-Mbs: comp].
 D-W: comp].
-I—Vnm: A.T.B.
+I-Vnm: A.T.B.
 
 48 _ ALFONSO dalla Viola (1540) _ Il Secondo Libro di Madrigali de M. Alfonso
 
@@ -55,5 +55,5 @@ Quant’è misero l’hom che cangia voglia per donna o ma: Z
 Hor vedi, amor, che giovenetta donna tuo regno sprezza (Petrarca) Z
 S’una gran fed’et un desir eterno, madonna, può salir al vostro 3
 
-—32— -
+-32- -
 

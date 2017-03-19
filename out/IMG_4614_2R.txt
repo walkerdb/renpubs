@@ -18,7 +18,7 @@ A 5. Pien d’amoroso ardor mi strugg’e slaccio e chi mi può dar vita 10
 I-VEcap: compl.
 1-M0e: T.5.
 
-1738 — MARTORELLO Antonio (1547) _ Il Primo Libro di Madrigali a cinque
+1738 - MARTORELLO Antonio (1547) _ Il Primo Libro di Madrigali a cinque
 voci di Antonio Martorello milanese. 1547. (lustus ut palma florebit). (B. dat.:
 1567).
 
@@ -49,5 +49,5 @@ Da l'ai-dor onde fuor uscisti vengan fior (seconda parte) 15
 O Più ch'altra già mai cruda e rubella d’amor, a cui ben fu largo e cortese 16
 Quando’l crin d’or sia argento e senza (seconda parte) 16
 
-— 1073 —
+- 1073 -
 

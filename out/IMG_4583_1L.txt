@@ -1,8 +1,8 @@
 l-Nc: compl.
-D—Bds: compl
+D-Bds: compl
 l-ST: C.
 US-BE: T.
-F—Pc: 5.
+F-Pc: 5.
 
 1615 _ MARENZIO Luca (1595) _ Di Luca Marenzio il Terzo Libro de
 Madrigali a cinque voci, novamente ristampati. In Venetia appresso Angelo
@@ -11,7 +11,7 @@ Gardano. 1595.
 5 fasc. in 8° (C.A.T.B.5.), pag. 21. Ded. ai Signori Acndemici Filnrmonici (li Verona, Roma,
 1° IX 1595. Indice = 1582.
 
-l-Bc: compl.
+I-Bc: compl.
 
 I-VEcap: compl.
 
@@ -22,7 +22,7 @@ D-As: compl.
 F-Pc: compl.
 
 F-Phanson: compl.
-GB-me: C.A.T.5.
+GB-Lbm: C.A.T.5.
 
 l-Fd: C.A.B.S.
 

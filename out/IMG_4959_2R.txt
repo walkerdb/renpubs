@@ -28,7 +28,7 @@ A 7. Hor che le piaggie ridon d’ogn’imorno e spuntan fuor lc viole 18
 ” ” Homai poniamo fino al nostro canto (terza parte) 20
 I-Fn: compl.
 
-I—l..s: compl.
+I-l..s: compl.
 
 l-MOe: compl.
 
@@ -65,5 +65,5 @@ gl’hcredì di Simon Tini. 1588.
 
 F-Pn : compl.
 
-—I757—
+-I757-
 

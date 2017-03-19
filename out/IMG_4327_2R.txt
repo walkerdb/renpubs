@@ -2,13 +2,13 @@ D-Mbs: comp].
 
 ElR: Dm: compl.
 S-H: compl. (dilett.).
-GB-me: C.A.T.B $.
+GB-Lbm: C.A.T.B $.
 A-Wn: A.T.B.5.6.
 l-Mc: C.
 
 l-Oc: T. (diſ…).
 
-788 — DE MONTE Filippo (1571) _ Di Filippo Di Monte, maestro della S.C.
+788 - DE MONTE Filippo (1571) _ Di Filippo Di Monte, maestro della S.C.
 maestà dell‘imperatore Massimiliano Secondo il Secondo Libro delli Madrigali, a
 sei voci. Di nuovo da lui composti et dati in luce. In Vinegia, appresso Girolamo
 
@@ -17,9 +17,9 @@ Scotto 1571.
 
 GB-Ckc: C.
 l-Rsc: A.
-GB-me: 5.
+GB-Lbm: 5.
 
-789 — DE MONTE Filippo (1576) _ Di Filippo Di Monte maestro di capella
+789 - DE MONTE Filippo (1576) _ Di Filippo Di Monte maestro di capella
 della S.C. maestà dell’imperatore Massimiliano Secondo il Secondo Libro delli
 Madrigali, a sei voci. Di nuovo ristampati. In Vineggia. Appresso l'hcrede di
 Girolamo Scotto. 1576.
@@ -28,14 +28,14 @@ Girolamo Scotto. 1576.
 
 l-Rsc: C.A.B.5.6.
 F-Pa: C.
-GB-me: C.
-l—Bc: A.
+GB-Lbm: C.
+I-Bc: A.
 
 F-G: A.
 
 F-Pn: B.
 
-790 — DE MONTE Filippo (1582) _ Di Filippo Di Monte maestro di capella
+790 - DE MONTE Filippo (1582) _ Di Filippo Di Monte maestro di capella
 della S.C. maestà dell'imperatore Massimiliano Secondo. Il Secondo Libro delli
 Madrigali, a sei voci. Di nuovo ristampati. In Vineggia, appresso l’hcredc di
 Girolamo Scotto. 1582.
@@ -45,11 +45,11 @@ Girolamo Scotto. 1582.
 l-MOc: compl.
 
 GB-Gu (Ge): comp].
-GB-me: comp].
+GB-Lbm: comp].
 
 PL-GD: comp].
 
-l-Bc: C.A.B.
+I-Bc: C.A.B.
 
 E-TZ: C..-\.
 

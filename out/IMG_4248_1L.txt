@@ -5,7 +5,7 @@ l-VEaſ: compl.
 A-Wn: compl.
 D-Mbs: compl.
 D-ROu: compl.
-l-Bc: T.
+I-Bc: T.
 
 RISM, I 1561-13.
 
@@ -52,7 +52,7 @@ I lieti campi, i verdi ameni colli Î:
 
 Hor che con lieti e con soavi accenti. A Barbara Sanseverina Sanvitali contessa di Sala
 
-GB-me: comp]
-l-Bc: C.A.
+GB-Lbm: comp]
+I-Bc: C.A.
 F-Pc: T.
 

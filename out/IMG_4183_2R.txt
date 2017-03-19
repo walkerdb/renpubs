@@ -1,4 +1,4 @@
-389 — BONINI Severo (1615) _ Affetti spirituali a dua voci parte in istile di
+389 - BONINI Severo (1615) _ Affetti spirituali a dua voci parte in istile di
 Firenze 0 recitativo per modo di Dialogo, e parte in istile misto. Di don Severo
 Bonini da Firenze monaco di Valombrosa e organista di S. Mercuriale di Forlì.
 Dedicati all’ill.mo e rev.mo signor cardinal Valente. Opera Settima. In Venetia,
@@ -26,9 +26,9 @@ Veni sponsa. In stil di Firenze. 2 C. o 2 T. ZZ
 Salve regina. In stil di Fir. con un eco in terzo. 2 C. o 2 T. 2-3
 Laudate Dominum. In ecco. 2 C. o 2 T. 24
 Domine quando'veneris. In stil di Firenze. 2 C. o 2 T. 25
-I—Bc- compl.
+I-Bc- compl.
 
-GB-me: Bc.
+GB-Lbm: Bc.
 
 390 __ BONINI Severo (1613) _ Lamento d’Arianna cavato dalla tragedia del signor
 Ottavio Rinuccini nobil fiorentino. Posto in musica in stile recitativo da Severo
@@ -51,5 +51,5 @@ A1. Quai segni di timor nel tuo bel volto ” 7
 )) \ ' o |
 » Sl caro al cor mi scende 11 ragionar cortese
 
-_.245—
+_.245-
 

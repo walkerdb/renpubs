@@ -5,7 +5,7 @@ Errata:
 1004 _ (FONTANELLI Alfonso) (1610)...
 
 Corrige:
-1004 — (FONTANELLI Alfonso) (1619)...
+1004 - (FONTANELLI Alfonso) (1619)...
 
 A ggiuntc:
 801
@@ -33,5 +33,5 @@ US-BE: B.
 706
 L'cscmpl. di GB-Lroscnlhal ora in: US-BE: B. (prov. Corto:).
 
-—613—
+-613-
 

@@ -20,7 +20,7 @@ A quatro voci. Venetiis, apud Hieronymum Scotum 1552.
 
 I-Fc: compl.
 
-GB-me: A.
+GB-Lbm: A.
 
 US-R: T.
 
@@ -32,7 +32,7 @@ corretti. Con la giunta. Venetiis, apud Hieronymum Scotum. 1555.
 
 4 fasc. in 8° obl. (C.A.T.B.), pag. 46,(1). Indice = 1544.
 
-l-Bc: compl.
+I-Bc: compl.
 RISM. 1 1555-33.
 
 2878 _ VERDELOT Philippe (1556) _ Di Verdelot tutti li Madrigali del-Prim?
@@ -45,7 +45,7 @@ D-Mbs: compl.
 
 RISM, I 1556-27.
 
-2879 — VERDELOT Philippe (1557) _ Di Verdelot tutti li Madrigali dzl'lyniiiiil
+2879 - VERDELOT Philippe (1557) _ Di Verdelot tutti li Madrigali dzl'lyniiiiil
 et del Secondo Libro a quattro voci, di nuovo riveduti, et con somma 118°
 corretti. In Venetia, per Plinio Pietrasanta. 1557.
 

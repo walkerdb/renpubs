@@ -4,8 +4,8 @@ corrette. In Venetia, appresso Angelo Cardano. 1600.
 
 3 fase. in 8° (C.A.B.), pag. 24. Indice = 1588-1.
 
-GB-me: compl.
-NL—DHgm: A.B.
+GB-Lbm: compl.
+NL-DHgm: A.B.
 I-Bc: C.
 B-Bc: C.
 
@@ -13,9 +13,9 @@ B-Bc: C.
 Arie alla napolitana, a tre voci, di Ruggiero Giovanelli, novamente ristampate, et
 corrette. Con privilegio. In Venetia, appresso Giacomo Vincenti. 1600.
 
-3 fasc. in 8" (C.A.B.), pag. 31.(1). Indice .— 1588 l.
+3 fasc. in 8" (C.A.B.), pag. 31.(1). Indice .- 1588 l.
 
-I—MAC: C.
+I-MAC: C.
 
 1247 _ GIOVANNELLI Ruggero (1624) .. Il Primo Libro delle Villanellc ct
 Arie alla napolitana a tre voci di Ruggiero Giovannelli di novo ristampate, ct cor-

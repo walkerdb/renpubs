@@ -7,7 +7,7 @@ Dal timor d’esser tradita chiedo aim. Cantata ultima (abbate Ruggieri) 140
 Fermati, non partire, nobil trofeo. Aria 144
 No, non partir da questo cor. Aria 146
 
-I—Bc
+I-Bc
 
 I-Rsc
 
@@ -19,9 +19,9 @@ D-Dl
 
 D-W
 
-GB-me
+GB-Lbm
 
-204 — BALBI Ludovico (1586) _ I Capricci di Lodovico Balbi maestro di capella
+204 - BALBI Ludovico (1586) _ I Capricci di Lodovico Balbi maestro di capella
 del Santo di Padova, a sei voci, novamente composti, et dati in luce. In Venetia
 
 appresso Antonio Gardano 1586.
@@ -65,6 +65,6 @@ Dolci C: Ch-asplro a le celeste lode (seconda parte) 20
 , amorosr nodi, che caramente mi stringete il core 21
 
 I-MOc: comp].
-GB-me: compl.
-PL—GD: comp].
+GB-Lbm: compl.
+PL-GD: comp].
 

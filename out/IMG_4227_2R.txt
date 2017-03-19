@@ -21,7 +21,7 @@ D-As: A.T.B.5.
 
 I-Bc: A,T_5
 
-498 — CASENTINI Marsilio (1609) _ La Cieca Madrigali a cinque voci di Marsilio
+498 - CASENTINI Marsilio (1609) _ La Cieca Madrigali a cinque voci di Marsilio
 Casentìni maestro di capella di Gemona, Libro Quarto novamente composto, et dato
 in luce. Con privilegio. In Venetia, appresso Giacomo Vincenti 1609.
 

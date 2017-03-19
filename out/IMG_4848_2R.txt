@@ -12,9 +12,9 @@ Fu già tempo ch’io vissi di questa donna mia tanlo geloso (Cassola) 28
 Vana speranz’in cui sperar solia, da me partiti hor poi che più » 29
 
 D-Mbs: compl.
-l—VEaf: C.A.B.
+l-VEaf: C.A.B.
 
-2481 — RUFFO Vincenzo (1560) .. Di Vicentio Ruffo il Terzo Libro de Madre-
+2481 - RUFFO Vincenzo (1560) .. Di Vicentio Ruffo il Terzo Libro de Madre-
 gali a quatro voci novamente da lui composti et per Antonio Gardano stampati
 et dati in luce. A quatro voci. In Venetia appresso di Antonio Gardano. 1560.
 
@@ -23,7 +23,7 @@ et dati in luce. A quatro voci. In Venetia appresso di Antonio Gardano. 1560.
 Magnanimo, gentil, invitto core. A Cesare Romeo ]
 Gcnlil fiamma d'amor, laccio soave Z
 Giunto non è che da quei lumi ardenti (seconda parte) 3
-Vita de la mia vita, egli è pur vero (B- TRS—“') 4
+Vita de la mia vita, egli è pur vero (B- TRS-“') 4
 Ohimè dov’è’l mio cor, dov'è'l bel viso (seconda parte) » " 5
 S'altro amor segue, i‘ prego il ciel. Canzon (P- Barignano) 6
 S’altro amor scguo, o s’unqua (seconda stanza) ” ” 7
@@ -48,5 +48,5 @@ DOnna leggiadra e più chiara che'] sole, che l’aria rasserena 25
 Dolce nemica mia, nel cui bel grembo 26
 Deh torna a me mio sol, torn’e rimena la dsiata e dolce 27
 
-— 1535 —
+- 1535 -
 

@@ -46,7 +46,7 @@ l-Fr: C,
 
 F-Pc: C.
 
-GB-me: C.
+GB-Lbm: C.
 
 NL-Lu: C.
 
@@ -54,7 +54,7 @@ NL-Lu: C.
 
 MSM-. I 1544-22 (non comp]. ed erroneo).
 
-8_58 — D0_RATI Nicolò (1549) _ Di Niccolo Dorati il Primo Libro di Madrigali a
+8_58 - D0_RATI Nicolò (1549) _ Di Niccolo Dorati il Primo Libro di Madrigali a
 Clſlquc VOCl, novamente da lui compasti, et dati in luce. A cinque voci. In Venecia
 appresso de Antonio Gardanc. 1549.
 
@@ -65,5 +65,5 @@ appresso de Antonio Gardanc. 1549.
 :- 5- La gola e’] sonno et l'otiose piume (Petrarca) l
 ” Qual vaghezza di lauro, qual di mirto (secunda parò) »
 
-—56l —
+-56l -
 

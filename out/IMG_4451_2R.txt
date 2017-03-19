@@ -6,7 +6,7 @@ Salirò su le nubi Concertato 19
 Sovente all‘hor ch’in su gli estivi ardori giacean. Sopra l‘Aria Romancsca (Tasso) ZU
 l-VCA: Bc. (con il testo solo parziale). ZU
 
-1191 — GHIZZOLO Giovanni (1623) _ Frutti d’amore in vaghe et variate Arie, da
+1191 - GHIZZOLO Giovanni (1623) _ Frutti d’amore in vaghe et variate Arie, da
 cantarsi co'l Chitarrone Clavicembalo, o altro simile stromcnto, accomodatevi l’alfa-
 betto con le lettere per la Chittara Spagnola. Di Giovanni Ghizzolo maestro di
 capclla della veneranda Arca di S. Antonio di Padova. Libro Quinto. Et Opera
@@ -48,5 +48,5 @@ A 1. Che? Vorrò dunque amar chi non ha fede? No, che non voglio. Madrigale 27
 A 2.- So che l‘occhio sa ferir e s:. la lingua ancor mentir 29
 ” » Pastorellc lcggiadrettc, venite al prato di fiori ornato . 30
 
-—761 _
+-761 _
 

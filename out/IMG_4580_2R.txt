@@ -34,11 +34,11 @@ L&: compl.
 I-Rsc: compl.
 D-As: compl.
 Pl.-GD: compl.
-I—Sac: C.A.T.5.
+I-Sac: C.A.T.5.
 l-de: C.A.B.
 I-Fn: A.S.
 GB-Lcm: T.B.
-GB-me: A.
+GB-Lbm: A.
 I-Ra: B.
 I-VIb: B.
 
@@ -49,7 +49,7 @@ Vincenzi. 1587.
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. Zl. Indice = 1581.
 
 F -Pn : C.
-l-Bc : 5.
+I-Bc : 5.
 
 Un cscmpl. compl. era nella Collezione Heyer di Kòln.
 

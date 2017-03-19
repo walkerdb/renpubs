@@ -1,7 +1,7 @@
-l-Bc: C.
+I-Bc: C.
 GB-Lhm : ll.
 
-3021_ — ZENARO Giulio (1589) _ Di Giulio Zenaro da Salò il Primo Libro de
+3021_ - ZENARO Giulio (1589) _ Di Giulio Zenaro da Salò il Primo Libro de
 Madrigali a tre voci. Novamente composti, et dati in luce. 1n Venetia, appresso
 Giacomo Vincenzi. 1589.
 
@@ -35,7 +35,7 @@ Sento \quarciar del vechio tempio il velo e‘] mio si sta dinanzi (Beccuti) B
 .'\-\Vn : compl.
 D-th‘: cnmpl.
 
-3022 — ZENARO Giulia (1590) .. Madrigali spirituali a tre voci di Giulio Zenaro
+3022 - ZENARO Giulia (1590) .. Madrigali spirituali a tre voci di Giulio Zenaro
 da Salò nuovamente composti et dati in luce. In Venetia, presso Giacomo Vin-
 centi. 1590.
 

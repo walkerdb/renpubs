@@ -21,14 +21,14 @@ leggiadre donne e belle, che la face e d'amor l’arco spl ezzate. Parole di Gio
 Tempo fia hormai, benigno signore, di lasciar la verga. Parole di Cornelio Pruencn 16
 
 D-Rp: compl.
-GB-me: C.A.T.6.
+GB-Lbm: C.A.T.6.
 D-W: C.T.B.
 NL-At: 5.
 
 VERECORENSIS
 Cfr.: HERMANN Mathias Verecorensis (Mathias Flamengo).
 
-2894 — VESI Simone (1660) _ Le Mascherate di Simon Vesi da Forlì mastro di
+2894 - VESI Simone (1660) _ Le Mascherate di Simon Vesi da Forlì mastro di
 capella di monsignor Cornaro vescovo di Padova 3 2.3.4. con due Vlollnl se ptace
 dedicate all'illustrissimo signor Andrea Mantova. In Venetia 1660. Aprcsso Fran-
 cesco Magni detto Gardano.
@@ -45,7 +45,7 @@ A 2- lo ch’albcrgo sovrano. Dialogo: Honore e Lasclvta . 3
 A 3. Se di tre forsenati. Mascherata prima d'una Ruffiana, Corteggmno e Astrologo 7
 » » Siam tre poveri italiani. Mascherata seconda dell’Apestati . 17
 » » Star rinchiuso in sua cittadc. Mascherata tctza dc’ Vagabond: 24
-” ” Mai si trova alcun contento. Mascherata qua—.ta. un Cacciatore, Pcscador, e Uccellador 32.
+” ” Mai si trova alcun contento. Mascherata qua-.ta. un Cacciatore, Pcscador, e Uccellador 32.
 » » Olà che fate, non bevete? Mascherata quinta de’ Baccantl . 40
 A 4. ll gioco. Mascherata sesta d‘un Corteggiano, Crapulone e Giocatore . 45
 » » Chi di sentir. Mascherata settima, le Donne menano per Il naso gl Huomem SB

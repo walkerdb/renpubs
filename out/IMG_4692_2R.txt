@@ -13,10 +13,10 @@ Primo. In Vinegia, appresso Girolamo Scotto. 1565.
 4 fasc. in 8° (C.A.T.B.), pag. 3l.(l). indice = 1556.
 
 D-Z: C.T.
-GB-me: C.
+GB-Lbm: C.
 D-Mbs: A.
 
-2002 — NASCO Giovanni (1557) .. Le Canzon ct Madrigali a sei voci con uno
+2002 - NASCO Giovanni (1557) .. Le Canzon ct Madrigali a sei voci con uno
 Dialogo a sette di Giovan Nasco maestro di capella nel domo di Treviso, nova-
 mente per Antonio Gardano stampate et date in luce. A sei voci. In Venetia
 apresso di Antonio Gardano. 1557.
@@ -45,5 +45,5 @@ A 5. ll sol, quando lucca più chiaro. Canzon quarta 18
 A 4. Et ei sentend‘il raggio (seconda stanza) 19
 A 3- La vag‘augella, che sul forse (terza stanza) 20
 
-._.]qu—
+._.]qu-
 

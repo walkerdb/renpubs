@@ -34,7 +34,7 @@ Alma, che da celest'ampi soggiorni qUa già discesa a provar 27
 Da quei bei cerchi eterni, ov'hor (seconda parte) g
 
 ' _ ‘ _ " . - - .' . '
-Da quest altere doghe, me ogni gioni, ogni-real costume —'[]) 30
+Da quest altere doghe, me ogni gioni, ogni-real costume -'[]) 30
 Amor m’impenna l'ale e tant‘m alto le spiega (Tann 0
 
 Che s’altri, cui desio simil compunse (seconda parte) ”
@@ -47,7 +47,7 @@ Sento venir per nllegrezza un tuono (seconda parte) ” 38
 
 All‘acqua sagra del novello fonte, ch’a chi ne gusta infonde
 
-l-Bc: compl.
+I-Bc: compl.
 
 A-Wn: compl.
 
@@ -59,7 +59,7 @@ l-VEaf: C.A.T.B.5.
 
 Elk-Dm: C.T.B.5.6.
 
-GB-me: A.T.
+GB-Lbm: A.T.
 
 US-BE: T.
 
@@ -67,7 +67,7 @@ B-Br: B.
 
 Un cscmpl. compl. esisteva nella Collezione Heyer (li Këln.
 
-2684 -— STRlGGIO Alessandro (1573) .- Il Secondo Libro de Madrigali avsîewiî
+2684 -- STRlGGIO Alessandro (1573) .- Il Secondo Libro de Madrigali avsîewiî
 di M. Alessandro Striggio gentilhuomo mantovano con prrvxlegio. In 1 B ’
 appresso Girolamo Scotto, 1573.
 

@@ -29,11 +29,11 @@ Aura dolce, odorata, che da l'orccchia penclrnnd‘al core 25
 S'haver pur debbo da quegl’occhi morte, da cui l'esser ucciso (Celiano) 29
 I-Bc: compl.
 
-GB-me: compl.
-I-Bsp: C.A.T.B. (C. manc. di pag. 13-24 e 29—30).
+GB-Lbm: compl.
+I-Bsp: C.A.T.B. (C. manc. di pag. 13-24 e 29-30).
 I-Ls: C.A5. (C. manc. di pag. 1-6).
 
-777 — DE MONTE Filippo (1593) — Il Sestodccimo Libro de Madrigali a cinque
+777 - DE MONTE Filippo (1593) - Il Sestodccimo Libro de Madrigali a cinque
 voci di Filippo Di Monte maestro di capella della sacra ccsarea maestà dell’impe-
 ratore Rodolfo Secondo. Novamente composto, et dato in luce. In Venetia appresso
 Angelo Gardano. 1593.
@@ -51,5 +51,5 @@ Dolce mia Delia, s’io v’ho donato il mio cor, l’alm'e’l desio 8
 
 Quando la donna mia va passeggiando a questi colli intorno
 
-—508—
+-508-
 

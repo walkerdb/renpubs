@@ -23,7 +23,7 @@ La sera desiare, odiar l’aurora, soglion questi tranquilli (Petrarca) B
 [’ vo piangendo i miei passati tempi ” 24
 Sì che s’io vissi in guerra (seconda parte) » 25
 
-l-Bc: compl.
+I-Bc: compl.
 
 1759 _ MAURO (Mattia) dei Servi (1571) .. Il Primo Libro de Madrigali a
 cinque voci del reverendo padre F. Mauro de Servi fiorentino, novamente com-
@@ -54,5 +54,5 @@ A dio, Filli mia bella. Caro mio Tirs'a din. Dicean sovr’Arno 14
 Se’l foco in cui scmpr’ardo fusse foco 15
 Stiam, amor. a veder la gloria nostra (Petrarca) 16
 
-—1088—
+-1088-
 

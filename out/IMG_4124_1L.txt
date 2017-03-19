@@ -13,11 +13,11 @@ Il dolce sonno mi promise pace, ma l’amaro. Del Lupachino (AſÌOSſO) 27
 Pungente dardo, che’l mio cor consumi. Di Gine/ict Berchem 28
 I-FEc: compl.
 
-I—Vnm: compl.
+I-Vnm: compl.
 
 PL-GD: compl.
 
-RISM, I 1589—12
+RISM, I 1589-12
 
 208__ BALLIS Oliviero (1607) _ Canzonctte amorose spirituali a tre voci, di
 011v1ero Ballls_ da Crema maestro di capella nel domo di Ceneda, novamente com-
@@ -54,5 +54,5 @@ Sappi che sei di terra e sei mortale
 D-As : compl .
 D-Hs : compl.
 
-__.126— A
+__.126- A
 

@@ -23,7 +23,7 @@ A 3. Almen hor che di stelle Cadorna il cielo e l'aria 2 Ten. c B. 13
 A 4. Deli non sdegnar, cor mio, se per sfogar in parte C.A.T.B. 20
 » » Cor mio. tu ti nascondi all‘apparir del nostro amato sole (Guarini) 21
 » » Voi volete ch'io mora, nè mi togliete ancora questa misera » ZZ
-l-Bc: B.
+I-Bc: B.
 
 2193 - PESENTl Martino (1628) _ Il Primo Libro de' Madrigali a due tre et
 quattro voci. Di Martino Pesenti cieco a nativitate. Novamente ristampato, et
@@ -32,11 +32,11 @@ patron colendissimo. Con licenza de’ Superiori, et privilegio. In Venetia, app
 Alessandro Vincenti. 1628.
 
 4 fasc. in 8°: C.l° pag. 34,(l); C.l" pag, 26,(l); ll. pag. l4,(l); Bc. pag. ZZ,(l). Indice = 1621.
-l-Bc: comp],
+I-Bc: comp],
 
 l-Fn: comp].
 
-GB—me: compl.
+GB-Lbm: compl.
 
 l-Rsc: C.Z°, Bc.
 
@@ -53,5 +53,5 @@ d’Austria, Venetia, lZ VIII 1628.
 
 A Z- 0 donna troppo cruda e troppo ingrata, troppo fiera e spietata. 2. T. ]
 
-—I339—
+-I339-
 

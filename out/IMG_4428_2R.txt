@@ -7,9 +7,9 @@ Poi che rotto ha il laccio amore, che m'annodava il core 17
 0 cruda, ancor non sei satin dei dolor mici 19
 Vita de la mia vita, già mi sento morire poscia ch'è tardi 20
 Poi che satia non sei del mio martire e di vedermi morto Zl
-l-Bc: T.E.
+I-Bc: T.E.
 
-1105 — CASTOLDI Giovan Giacomo (1598) _ Canzonctte a tre voci di Gio.
+1105 - CASTOLDI Giovan Giacomo (1598) _ Canzonctte a tre voci di Gio.
 Giacomo Gastoldi maestro di capella nella chiesa ducale di Santa Barbara di Man-
 tova. Libro Secondo. Novamente con ogni diligentia ristampate. In Venetia appresso
 Ricciardo Amadino. 1598.
@@ -18,7 +18,7 @@ Ricciardo Amadino. 1598.
 
 PL-GD :compl.
 
-1106 — CASTOLDI Giovan Giacomo - SAVIOLI Alessandro (1615) _ Canzonettc
+1106 - CASTOLDI Giovan Giacomo - SAVIOLI Alessandro (1615) _ Canzonettc
 a tre voci, di Gio. Giacomo Gastoldi, maestro di capella nella chiesa ducale di
 S. Barbara di Mantova. Libro Secondo. Con quattro vaghe Canzonctte a 3 di
 Alessandro Savioli da Parma. Nuovamente in questa terza impressione con diligenza
@@ -46,5 +46,5 @@ Se ben parto, mia vita, da voi non faccio nel partir partita 13
 Se la tua gratia acquisto, huom più lieto di me non fu mai visto 14
 Amor, forz'è ch’io'l dica, so] per te lieto vivo 15
 
-—715—
+-715-
 

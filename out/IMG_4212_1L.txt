@@ -24,7 +24,7 @@ I-Bc: compl.
 
 RISM I, 1604-16.
 
-464 — CALIFANO Giovanni Battista (1584) _ Di Gio. Battista Califano del]?
+464 - CALIFANO Giovanni Battista (1584) _ Di Gio. Battista Califano del]?
 città di Napoli il Primo Libro de Madrigali a cinque voci, novamente da lul Sf)";
 posti, et dati in luce. In Venetia presso Giacomo Vincenzi, ct RICClal‘dO Ama m »
 
@@ -54,5 +54,5 @@ Liete, verdi, fiorite e fresche valli (Sannazzaro)
 
 Fammi sentir di quell’aura gentile
 
-——300——
+--300--
 

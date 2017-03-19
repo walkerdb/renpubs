@@ -30,7 +30,7 @@ Calumi sonum ſcrenles siculo leve numero. Di Cipriano
 
 I-Bc: compl.
 D-Mbs: compl.
-GB-me: compl.
+GB-Lbm: compl.
 NL-Uim: compl.
 PL-Wn: C.A.
 1-Vnm: A.D.

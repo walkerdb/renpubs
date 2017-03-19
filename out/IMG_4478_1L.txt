@@ -29,7 +29,7 @@ l
 » » Amara dipartita, che mi toglie la vita, ohimè dunque partire 19
 A 5. Fammi la pedr‘Antonia. 20
 A 3. Vitro mio, iot, iot, iot. Moresca alla svizzera. D'incerlo ”
-l-Bc: comp].
+I-Bc: comp].
 
 1292 _ GROSSI Lodovico (1590) _ Canzonctte a quattro voci di Lodovico Via-
 dana con un Dialogo a otto di ninfe e pastori, ct un’Aria di Canzon franche Peſ
@@ -61,5 +61,5 @@ A 4. Cantate, o ninfe e voi vaghi pastori l
 
 » » E viver c morire mi fai quando li vent-EIO
 
-__814—
+__814-
 

@@ -5,7 +5,7 @@ A 4. Regina mia... eccoti questa spada 18
 » » Empio volto e insidioso, ch’hai nel mel l‘amaro ascoso. Ana 21
 D-Rp: comp].
 
-l-Bc: B.
+I-Bc: B.
 
 319 _ BELLI Giulio (1585) _ Il Primo Libro de Madrigali a cinque, et a sei voci.
 Dì Giulio Belli da Longiano. Novamente composto, et dato in luce. In Venetia
@@ -35,9 +35,9 @@ A 6. Alme divin’e belle, per sempre sia felice l'Himeneo 16
 ” » Et il dardo, l'incendio et la catena (seconda parte) 19
 » » Nel petto porti, donna, lo mio core ZO
 » » Ch’io te lasci, o mio sol, ch‘io te non ami com‘esser può? 21
-GB—me- 5.
+GB-Lbm- 5.
 
-320 — BELLI Giulio (1592) _ Di Giulio Belli da Longiano. Il Secondo Libro de
+320 - BELLI Giulio (1592) _ Di Giulio Belli da Longiano. Il Secondo Libro de
 adrigali a cinque et a sei voci, novamente composti, et datti in luce. In Venetia
 appresso Ricciardo Amadino. 1592.
 
@@ -50,5 +50,5 @@ S°"m le Sue vaghissimc compositioni... Ferrara, 5 IX 1592».
 A 5. Picciol premio al mio amore del mio tormento non spense (Bevilacqua) l
 » » Sc diletto prendete, donna crude], mirando ” 2
 
-—I95—
+-I95-
 

@@ -10,7 +10,7 @@ S-Uu: comp].-
 l-Fm: Viol. 1°, Viol. 2°.
 I-Bc: Bc.
 
-532 — CAZZATI Maurizio (1661) _ Canzonctte per camera a voce sola all'altezza
+532 - CAZZATI Maurizio (1661) _ Canzonctte per camera a voce sola all'altezza
 serenissima di Ranuccio ll duca di Parma Piacenza etc. Opera XXVII di Maur-mo
 Cazzati mastro di capella in S. Petronio di Bologna, et Accademico .Eccttatoſicon
 privilegio. In Bologna, per Antonio Pisarri. Con licenza de' Superiori. (Occhtcttol
@@ -68,6 +68,6 @@ Nell'adirato seno vedova de suoi parti. Delirio amoroso. Parole del dott. Pelica
 
 Hora sì, hora no. E che parlare e questo? Ristampata e coretta. Parole di Girolimo POT“
 
-l-Bc
+I-Bc
 I-Nc
 

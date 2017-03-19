@@ -34,11 +34,11 @@ A2 Ecco l‘alma staggione che le campagne. Dialogo pastorale 27
 ” » Com‘è breve il sereno del giorno degli amanti. Canzonetla 34
 A 3. In questo duro scoglio che fate 36
 A 2 Piaga dolce d’amore, già tu piaga non sei. Di Paolo Agostini, (Marino) 38
-l’.—Pc
+l’.-Pc
 
 US-Cn
 
-RlSM, I 1623-13 (non compi—).
+RlSM, I 1623-13 (non compi-).
 
 1206 _ GI ANELLI Francesco (1592) _ Di Francesco Gianelli il Primo Libro de
 Madrigali a tre voci, novamente composti et dati in luce. In Venetia appresso
@@ -49,5 +49,5 @@ zetti... Ferrara, 15 I 1592 ». .
 
 Lascia, deh lascia il ciclo. lucìd‘aquila bianca e scendi qua ove Feton morì 1
 
--77I—
+-77I-
 

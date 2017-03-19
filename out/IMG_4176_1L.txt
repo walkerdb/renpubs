@@ -1,4 +1,4 @@
-368 — BlFFI Giuseppe (1600) _ Madrigali a sei voci, di Gioseffo Biffi da Cesena
+368 - BlFFI Giuseppe (1600) _ Madrigali a sei voci, di Gioseffo Biffi da Cesena
 composxtore del ser.mo duca di Wirtemberg etc. Da lui novamente composti et dati
 in luce. Libro Terzo. In Norimberga, appresso Paulo Kauffmann. 1600.
 
@@ -23,11 +23,11 @@ Dicea la ninfa mia, meco scherzando: mira com’ad un riso 18
 Chiedend’un bacio a la mia cara Aminta, sospirando (Caporali) 19
 Ecco, mio amore, quella che l'aurora porta ne bei sereni 20
 Donne, non siate d’humiltà rubelle (seconda parte) ”
-GB-me: C.T.6.
+GB-Lbm: C.T.6.
 D-ma: B.
 F-VE: 6.
 
-369 — BIFFI Giuseppe (1606) _ Della Ricreatione di Posillipo a tre, a quattro, eta
+369 - BIFFI Giuseppe (1606) _ Della Ricreatione di Posillipo a tre, a quattro, eta
 cinque voci, con un Madrigale a sei nel fine, artificioso. Di Gioseffo Biffi da Cesena.
 Libro Primo. In Napoli, per Gio. Battista Sottile. 1606. Con licenza de’ Superiori.
 

@@ -5,8 +5,8 @@ S’io seguo chi mi fugge e nel fuggir mi strugge 20
 Non hebbe tal bellezza il bel Narciso com’hai Clori nel viso Z]
 A-Wn: compl.
 
-GB-me: compl.
-l-Bc: C.1°, C.Z°.
+GB-Lbm: compl.
+I-Bc: C.1°, C.Z°.
 
 1296 _ GUALTIERI Antonio (1613) _ Il Secondo Libro de' Madrigali a cinque
 voci: di Antonio Gualtieri maestro di capella di Monselice. Novamente dato in luce.
@@ -20,7 +20,7 @@ A 5. Mi movono a pietade, o mio fedele amante, l'asprc tue pene ]
 » » Bocca eortese e bella, de‘ tesori d’amor dolce ricetto 3
 » » Mentre che mi amasti io te am:-i ct se me desiasti in te bramai 4
 » » Mcmrc porgclc. donna. a la mia sete freschissimo Iicore 4
-» » Dolcissimc parole, ch'il cor mi con—olate con promesse 6
+» » Dolcissimc parole, ch'il cor mi con-olate con promesse 6
 » » Non ti morder le dita, Clori bella e gradita 7
 » » Non so come chiaman-i mentre ch‘il mio cor v’ama e vi desia 8
 » » ]] vago viso amato del mio sereno viso, che apre ad ogn‘hor altrui 9
@@ -35,9 +35,9 @@ A 5. Mi movono a pietade, o mio fedele amante, l'asprc tue pene ]
 A B. Tre gratiosi amanti a la lor donn‘avanti 13
 » » Non già con ghiaccio algente si spegn’o donna in amoroso Lore (Marino) Z|
 
-GB-me : C.A.5.
+GB-Lbm : C.A.5.
 
-1297 — GUALTIERI Antonio (1625) — Madrigali concertati a una, due, et tre
+1297 - GUALTIERI Antonio (1625) - Madrigali concertati a una, due, et tre
 voci di Antonio Gualtieri maestro di capella della collegiata, et delle sette chiese
 di Monselice. Opera Ottava. Novamente composta, et data in luce. Con privilegio.
 In Venetia, appresso Alessandro Vincenti. 1625.

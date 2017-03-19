@@ -1,7 +1,7 @@
 A 4. A voi, dea marina, Hte con soave stile \‘olgete il verno. Di Adam Barba d'Arras 24
 A 7. Di che formò Volcano tanti strali al’ignudo fanciul. Dialogo. A Isabella Bicignola 25
 
-l-Bc: compl.
+I-Bc: compl.
 RlSM, I 1574-9.
 
 2629 _ SPANO Donato Antonio (1607) _ Di Donato Antonio Spano discepolo del
@@ -36,10 +36,10 @@ Un batter d'occhi, un tremolar di chiome, l'anno, madonna 19
 Più che mai vaga e bella, la mia lucente stella sen gia canmndo 2"
 ln bel, dolce soggiorno cantan le vaghe ninfe Z|
 Leggiadr'almi pastori, che tra l’herbett’e i fiori ZZ
-0 ricciolina, o signorina, o patroncina, fa li la la 2—3
+0 ricciolina, o signorina, o patroncina, fa li la la 2-3
 l-Nn: A.
 
-l—Rsc: T.
+l-Rsc: T.
 
 2630 _ SP ANO D onat’ Antonio (1608) _ Di Donat'Antonio Spano il Primo Libro
 de. Madrigali a cinque voci. In Napoli, nella stampa di Gio. Battista Sottile, per .
@@ -50,5 +50,5 @@ Scipione Bonino. 1608.
 Al Suo apparir il sole indor'i monti e corron per le valli 3
 PQ la Pinggìa del mio pianl’amaro, come sovcnt’ei suole 4
 
-— 1633 -—-
+- 1633 ---
 

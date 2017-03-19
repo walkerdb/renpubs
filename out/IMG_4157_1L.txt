@@ -4,16 +4,16 @@ Dolce mio ben, amor mio caro, dunque languend‘in van 30
 
 I-Bc: compl.
 
-I—FEc: compl.
+I-FEc: compl.
 
-D—Kl- compl.
+D-Kl- compl.
 
 US-Wc: C.A.T.5.6. (prov. Heyer).
 I-MOe: A.T.B.5.
 
 D-KNu. G.B.
 
-GB—me: C.
+GB-Lbm: C.
 
 314 _ BELLI Girolamo (1593) _ Girolamo Belli d’Argenta. Il Terzo Libro dc
 Madrigali a sei voci. In Venetia, appresso Ricciardo Amadino. 1593.
@@ -54,5 +54,5 @@ l-MOe : C.A.6.
 Primo a quattro voci, novamente poste in luce. In Venetia appresso Angt‘îlo
 
 Gardano 1584.
-__ 192 — A
+__ 192 - A
 

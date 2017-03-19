@@ -13,7 +13,7 @@ A 10. S‘in alcun tempo le tue altere sponde, famoso Tebro
 
 l-VEaf: A.S.
 
-1845 — MICHELI Domenico (1581) _ Di M. Dominico Micheli il Quinto Libro
+1845 - MICHELI Domenico (1581) _ Di M. Dominico Micheli il Quinto Libro
 dc Madrigali a cinque voci con uno Dialogo a dieci, novamente composti, et dati
 in luce. In Venetia appresso Angelo Gardano 1581.
 
@@ -54,8 +54,8 @@ A 5. Si come bella et dolce primavera, così voi, mio signore. A lnnoccnlo Malva
 A 10. Cor mio, voresti saltar ſuora, che sì nel petto mio forte ti muovi 28
 
 D-Mbs: compl.
-GB-me: compl.
+GB-Lbm: compl.
 I'MOC: G.B.
 
-— 1141 —
+- 1141 -
 

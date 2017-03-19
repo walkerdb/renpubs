@@ -13,7 +13,7 @@ I-Bc: B.
 
 Il N. 2888 è annullato.
 
-2889 — VERDELOT Philippe (1538) _ De i Madrigali di Verdelotto et dc altri
+2889 - VERDELOT Philippe (1538) _ De i Madrigali di Verdelotto et dc altri
 
 ccccllentissimi autori a cinque voci, Libro Secondo. Con gratia et privilegio. 1538.
 
@@ -45,7 +45,7 @@ Sc per ventura veggio d’apprcsso ZZ
 D-Mbs: compl.
 
 F-Pn: A. (prov. Landau).
-US—BE: A.
+US-BE: A.
 
 RISM, I 1538-21.
 

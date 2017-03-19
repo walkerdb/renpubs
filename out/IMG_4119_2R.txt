@@ -21,7 +21,7 @@ A 8. Questi, ch’inditio fan del mio tormento. Dialogo (Ariosto) 26
 
 I-VEaf : A.T.6.
 
-199 — BACCUSI Ippolito (1572) _ Di Hippolito Baccusi da Mantova maestro
+199 - BACCUSI Ippolito (1572) _ Di Hippolito Baccusi da Mantova maestro
 della musica delli illustrissimi signori di Spilimbergo il Secondo Libro de Madrigali
 a cinque voci. Con una Canzone nella gran vittoria contra i Turchi. Nuovamente
 posti in luce. In Vinegia, appresso Girolamo Scotto, 1572.
@@ -50,5 +50,5 @@ A 5 Volgl, cor mio, la tua speranz’homai in altra parte (Spira) 16
 » » Se fra quest’herb’c fiori, sotto l’ombre soavi 20
 ” ” Vag’angeletta e Spirt’alm’e gentile, scesa dal ciel 21
 
-__ —II9—
+__ -II9-
 

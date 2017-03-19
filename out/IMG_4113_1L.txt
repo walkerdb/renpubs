@@ -23,7 +23,7 @@ Anime pellegnne, che bramate amando esser amate
 F-Pn: compl.
 A-Wn: B.
 
-170 _— ARRÌGQNÌ _Giovan_Giacomo (1635) _ Concerti di camera a Z.3.4.5.6.7.8.9-
+170 _- ARRÌGQNÌ _Giovan_Giacomo (1635) _ Concerti di camera a Z.3.4.5.6.7.8.9-
 d1 Giacomo .Arrigoni orgamsta della sacra cesarea maestà di Ferdinando [l’impe-
 ratore con llcenza de Superiori. In Venetia 1635. Appresso Bartholomeo Magni-
 
@@ -55,5 +55,5 @@ A 6. Arciera vezzosetta con l’arco sol minaccia _‘33
 
 A 7. Ancor non sapcv’io bella mia Flora
 
-—-106- A
+--106- A
 

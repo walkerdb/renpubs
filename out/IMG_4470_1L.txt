@@ -31,7 +31,7 @@ Ardi c gela a tua voglia, perfido et impudico (seconda parte) (Tasso) ”
 
 D-Kl: compl.
 
-1265 — GRADENlGO Paolo (1574) _ Il Primo Libro de Madrigali a cinque voci
+1265 - GRADENlGO Paolo (1574) _ Il Primo Libro de Madrigali a cinque voci
 di Paulo Gradenigo novamcnte composti ct dati in luce. A cinque voct. ln Veneti-'l
 appresso li figliuoli di Antonio Gardano. 1574.
 
@@ -52,5 +52,5 @@ A 5. L'aura soave a cui govern’e vela (seconda parte) ”’ 11
 A 4. Chiuso gran tempo in questo cieco (terza parte) ) 13
 A 3. Come lume di notte in alcun porto (quarta parte) ”
 
-_.798—
+_.798-
 

@@ -6,7 +6,7 @@ Gardano. 1589.
 4 fasc. in 8° (C.A.T.B.), png. Z]. lndice = 1585.
 
 l-Fn: compl.
-l—MOe: compl.
+l-MOe: compl.
 B-Br: compl.
 l’L-GD: compl.
 
@@ -17,8 +17,8 @@ quatro voci nuovamente con ogni diligentia ristampati. In Venetia appresso Angel
 Gardano. 1598.
 4 fasc. in 8° obl. (C..»\.T.B.), png. ZZ.(l). Indice = 1585.
 
-l—Vnm: compl.
-l-Bc: A.T.B.
+l-Vnm: compl.
+I-Bc: A.T.B.
 NL-DHgm: C.T.
 l-MOe: T.
 
@@ -37,6 +37,6 @@ voci. Novamente ristampati. In Venetia appresso l’herede di Girolamo Scoto. -
 
 4 fasc. in 8° (C.A.T.B.), pag. ZZ. Indice = 1585.
 
-l-Bc: compl.
+I-Bc: compl.
 I-PAc: compl.
 

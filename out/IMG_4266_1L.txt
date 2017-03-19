@@ -41,7 +41,7 @@ F-Pn: C.
 I-Bc: T.
 l-MOc: B.
 
-606 —- CONTINO Giovanni (1560) _ Di Gioan Contino il Primo Libro de' Madﬂ'
+606 -- CONTINO Giovanni (1560) _ Di Gioan Contino il Primo Libro de' Madﬂ'
 gali a cinque voci: mastro della musica del duomo di Brescia. In Vincglan aPPresso
 Girolamo Scotto. 1560.
 

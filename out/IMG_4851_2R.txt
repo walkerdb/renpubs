@@ -11,7 +11,7 @@ D-Mbs: compl.
 
 D-Mu: compl.
 
-GB-me: compl.
+GB-Lbm: compl.
 
 PL-WRu: compl.
 
@@ -19,14 +19,14 @@ YU-MAs: compl.
 
 D-Rp: C.A.B.5.
 
-“’S: A. (pag. 1-7; 10-13); T. (pag. 1-7; 24—31); B. (pag. ]; 30-31); 5. (pag. 1-7).
+“’S: A. (pag. 1-7; 10-13); T. (pag. 1-7; 24-31); B. (pag. ]; 30-31); 5. (pag. 1-7).
 l-Nn: A.
 
 l-VEaf: B.
 
 RlSM. I (1555c.)-3Z (non compl.).
 
-2490 — RUFFO Vincenzo (1554) _ Madrigali a sei a sette et a otto voce, con la
+2490 - RUFFO Vincenzo (1554) _ Madrigali a sei a sette et a otto voce, con la
 giunta de cinque Canzone a diverse voce Composti da Vincentio Ruffo. Maestro
 della cappella, del domo di Verona. Dedicati alli illustriss. Signori, Academici di
 Verona. Novamente da li suoi proprii, essemplarij corretti et post’in luce, con la sua
@@ -43,8 +43,8 @@ A6. Vergine bella, che di sol vestita (Petrarca) Z
 ” " Italia mia, bcnchè’l parlar sia in darno » 6
 ” ” D'alta cagion da gran princip’havrai 7
 ” ” Valor, preggi et honor 8
-» » Gravi pen’in amor si provan molte (Ario—\\") 3
-” ” Madonna, s’i sospiri che per—voi getto …
+» » Gravi pen’in amor si provan molte (Ario-\\") 3
+” ” Madonna, s’i sospiri che per-voi getto …
 ” ” Sia benedetl’amorc e chiunque’l segu'ogn'hora, benedette sue face 11
 »» Amor, io moro e tu il vedi. O passi sparsi, amaramente spesi 11
 ” ” Sa questo altier ch’io l’amo e ch'io l'adoro (Ariosto) 12
@@ -55,5 +55,5 @@ A 5- Fiume, cui già cotanto lagrimando (seconda parte) 18
 A3. E tu, crude] e ria, ch’unqua (terza parte) 19
 A6 Così disse e di spemc al tutte prima (quarta parte) 20
 
-—1541—
+-1541-
 

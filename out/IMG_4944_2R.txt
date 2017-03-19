@@ -29,7 +29,7 @@ A 3. Sonata a doi Violni e Basso. Secondo tuono. Grave 27
 » » Gagliarda a 3 3“
 » » E’ tanto tempo hormai. Sonata a 3 3]
 » » ll Corisino. Sonala a 3 35
-l-BC: compl.
+I-Bc: compl.
 
 l-VEcap: compl.
 
@@ -38,10 +38,10 @@ F-Pn: compl.
 GB-Och: compl.
 PL-WRu: compl.
 
-D—Kl: T.Z°, B., Bc.
+D-Kl: T.Z°, B., Bc.
 Sartori 162“ e ][ 1624ſ.
 
-2771 — TURIN! Francesco (1624-2) _ Madrigali & una, due, C tre VOCl con alcune
+2771 - TURIN! Francesco (1624-2) _ Madrigali & una, due, C tre VOCl con alcune
 Sonate a due, et a tre Libro Primo. Di Francesco Tunm orgamstaidel duomo
 di Brescia. Novamente ristampato, et corretto, con l'aggiqu dalcum. Madrigali,
 et Sonate che nella prima stampa non vi sono. Con pnvrlegio. In Venetia, appresso

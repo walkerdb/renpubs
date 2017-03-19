@@ -54,7 +54,7 @@ l-VEaf : A.T.
 
 F-Pc: C.
 
-l-Bc: T.
+I-Bc: T.
 
 l-Ve (I'orrefranca): B.
 

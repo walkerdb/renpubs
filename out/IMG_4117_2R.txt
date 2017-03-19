@@ -30,19 +30,19 @@ D-Mbs: compl.
 
 RISM, I 1560-11
 
-190 — (AZZAIOLO Filippo) (1564-1) _ Il Primo Libro de Villotte alla padoana
+190 - (AZZAIOLO Filippo) (1564-1) _ Il Primo Libro de Villotte alla padoana
 COn alcune Napolitane a quattro voci, intitolate Villotte del fiore, novamente per
 Antonio Gardano ristampate. A quatro voci. In Venetia appresso di Antonio
 Gardano. 1564.
 
 4 fasc. in 8° obl. (C.A.T.B.), pag. ZZ, Indice = 1560
 
-GB—me : A.T.B.
+GB-Lbm : A.T.B.
 
 US-SFsc (De Bellis): T. (prov. Landau).
 RISM, I 1564-14 (non compl.).
 
-191 — (AZZA_IOLO Filippo) (1564-2) _ Il Primo Libro de Villotte alla padoana,
+191 - (AZZA_IOLO Filippo) (1564-2) _ Il Primo Libro de Villotte alla padoana,
 a. quattro VOCl. Con alcune Napolitane intitolate Villotte del fiore, nuovamente
 rlStampate, et con ogni diligenza corette. In Vinegia, appresso Girolamo Scotto. 1564.
 “ faSC- in 8° (CA-T.E.), pag. 30. Indice = 1560.
@@ -51,5 +51,5 @@ D-Mbs- A.
 
 RISM, I 1564-1421.
 
--—115—
+--115-
 

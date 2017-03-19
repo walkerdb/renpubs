@@ -1,6 +1,6 @@
 A-Wn: comp].
 D-Rp: comp].
-GB-me: T.B.
+GB-Lbm: T.B.
 I-Rsc: B.
 
 1697 _ MARENZIO Luca (1597) _ Il Terzo Libro delle Villanelle et Arie
@@ -13,7 +13,7 @@ l-MAC: C.
 
 I-Fn: T.
 
-I—Rsc: B.
+I-Rsc: B.
 
 D-MZp: B.
 
@@ -46,15 +46,15 @@ Amatemi. ben mio, che sc d’amarmi, dolce vita mia (TBSSO) 21
 Amor, tu vuoi ch’io segua chi mi fugge ZZ.
 I-begli occhi sercni e’l viso adorno B
 P”…an Filli cc amor seco piangea 24
-GB-me: C..T
+GB-Lbm: C..T
 
-NL—DHg-m: T.B.
+NL-DHg-m: T.B.
 
-USSR—Lsc: C.
+USSR-Lsc: C.
 
 X-Rc: T,
 
 CS-KRa: T.
 
-D—Rtt: T.
+D-Rtt: T.
 

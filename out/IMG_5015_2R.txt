@@ -9,9 +9,9 @@ A quand‘a quand'havea una vicina, ch'er'a veder la slclla diana 10
 Buccucia dolce, chiù che canamiellc. Di Pinna/1 12
 Sospiri miei d'ohime dngliorirosi et \enz'aita, deh parlilevi da me 13
 Le vecchi-: per invidia \nnn pach, dicendo quella bella mal nasciuta 14
-l-Bc: A.
+I-Bc: A.
 
-2998 — WILLAERT Adriano (1548-2) _ Canzone villanesche alla napolitana di
+2998 - WILLAERT Adriano (1548-2) _ Canzone villanesche alla napolitana di
 mcsser Adriano a quatro voci con la Canzon di Ruzante Libro Primo. In Vineggia
 appresso Girolamo Scotto. 1548.
 
@@ -23,7 +23,7 @@ F-Pn: A.
 
 R15M. I 1548-11.
 
-2999 — WILLAERT Adriano (1553) _ Canzon villanesche alla napolitana di
+2999 - WILLAERT Adriano (1553) _ Canzon villanesche alla napolitana di
 messer Adriano a quatro voci. Con la Canzon di Ruzante. A quatro voci. In
 Venetia appresso di Antonio Gardano 1553.
 
@@ -31,18 +31,18 @@ Venetia appresso di Antonio Gardano 1553.
 
 D-W: comp].
 
-GB-me: A.T.B.
+GB-Lbm: A.T.B.
 
 RlSM. I 1553-29.
 
-3000 — WlLLAERT Adriano (1563) _ Madrigali a quatro voci di ddr-iano
+3000 - WlLLAERT Adriano (1563) _ Madrigali a quatro voci di ddr-iano
 Willaert con alcune Napolitane et la Canzon de Ruzante tutte racclte 1ns1eme
 coretti et novamente Stampati. In Vinegia, appresso Girolamo Scotto. 1563.
 
 4 fasc. in 8“ ob]. (_C.A.T.B.), pag. Lul).
 
 Qual più diven'et nuova ema fu mai, in qualche stranlo chma P ?
-' " ' ‘ — - etrarca
+' " ' ‘ - - etrarca
 Quante volte (has m all'hor pien dl spmento ( )
 
 Lûgl’imc mcslc et voi. snspir dolenti, non vi posate n1ai in sm Î
@@ -56,5 +56,5 @@ Qual anima ignorante, over più saggia, qual huom mortal “
 
 Signora dolce, io te vorrei parlare secretamente
 
-—1867—
+-1867-
 

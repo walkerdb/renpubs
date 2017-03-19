@@ -26,7 +26,7 @@ Tempra l’arguto suon pieghevol (seconda parte) » 20
 
 Hor la sospende e libra fuor (terza parte) " 11
 Dch come posso, oh Dio, sfogar del l'ero esilio 22
-Ecco l’hora, ecco ch’io a pen‘il posso dire (Marino) 2—3
+Ecco l’hora, ecco ch’io a pen‘il posso dire (Marino) 2-3
 Giunto è pur, Lidia, il mio, non so se (leggio dire o partire » 24
 Legasti, anima mia, o del mio cor novo desio, la bella libertà 24
 Tu che pallido, esangue, sospiroso e dolente c muto 25
@@ -35,11 +35,11 @@ Augelin, che la voc'al canto spieghi, per pietà del mio duolo 28
 0 cor sempre dolente, che fai, che pensi, o core? 30
 Dove, misero. mai sperar deggio conforto ai dolor miei (Chiabrera) 31
 Parto e partendo sento svellermi il cor del senn 32
-l-Bc
+I-Bc
 
 ſ-Rvat (Capp. Giulia)
 
-I—Rvat (Barberini)
+I-Rvat (Barberini)
 
 A-Wnſſ
 
@@ -49,11 +49,11 @@ F-Pthibault
 
 GB-Ge
 
-GB-me: 2 copie.
+GB-Lbm: 2 copie.
 
 Un esempl. era nella Collezione Heyer di Kòln.
 
-1358 — KAPSPERGER ]ohannes Hieronymus (1623) _ Libro Secondo d’Aria: a
+1358 - KAPSPERGER ]ohannes Hieronymus (1623) _ Libro Secondo d’Aria: a
 una e più voci del sig. Gio. Girolamo Kapsperger nobile alemanno raccolte dal
 Signor Pietro Contarini nobile venetiano. In Roma appresso Luca Antonio Soldi.
 1613. Con privilegio et licenza de’ Superiori.

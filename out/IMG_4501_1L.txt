@@ -10,7 +10,7 @@ Lungo da voi, ben mio, non ho vita, nè cor'e non son io, non son (Tasso) 17
 Ferir ahi chi vi mira, donna crudel, e chi per voi sospira 18
 Misero, che farò, dirò ch’io moro. Fera stella, empia sorte ]9
 
-1—Rvat (Barberini): 3 escmpl. compl.
+1-Rvat (Barberini): 3 escmpl. compl.
 GB-Ge: compl.
 
 I-Bc: C.A.T.B.5.
@@ -25,7 +25,7 @@ In Roma, appresso Paolo Masotti. 1630. Con privilegio, e licenza de’ Superiori
 Vol. in 4°, pag. 24. Ded. di Filippo Bonifacio Kapsperger: «...offerisco 51 V. S. Illustrissima il
 presente Dialogo del Signor Giulio Rospigliosi con le Musiche (li mio Padre... Roma, ZI 1630».
 
-l—Rvat (Barberini)
+l-Rvat (Barberini)
 
 1361 _ KAPSPERGER ]ohannes Hieronymus (1610) _ Libro Primo di Villanelle
 a l. 2. et 3 voci accommodate per qualsivoglia strumento con l’intavolatura del
@@ -51,5 +51,5 @@ A 3. Se per voi s’arde e si more, Filli ingrata, questa vita e .questo core 13
 A 1. Che farò, donna ingrata? Ti seguirò costante del tuo rigor
 A Z. Poi che sentì il mio dolore, Flora gradita, al mio novo e grato ardore
 
-_wo—
+_wo-
 

@@ -21,7 +21,7 @@ A 8. Tirsi pastor cantando tra vaglt’hcrbette 20
 I-Ls: compl.
 NL-At: C. T.
 I-Vnm: 5.
-GB-me: S.
+GB-Lbm: S.
 
 2530 _ SABINO Ippolito (1586) _ Di Ippolito Sabino il Quinto Libro de Madri-
 gali a cinque, et a sei voci, novamente composti, et dati in luce. In Venetia, presso

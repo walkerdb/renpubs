@@ -28,9 +28,9 @@ A2. Dolce auretta, ch’a l’herbetta sospirando vai nel scno 5Z
 » » S‘hor non senti d’amor (terza parte) » 55
 » » E signor proverai (quarta parte) » 56
 » » Quel sol ch’ad ogni musa il canto infonde. Madrigale 57
-GB-me
+GB-Lbm
 
-401 —_— BORELLI Francesco Maria (1599) _ Di Francesco Maria Borelli da Pesaro
+401 -_- BORELLI Francesco Maria (1599) _ Di Francesco Maria Borelli da Pesaro
 organista di Loreto. Il Primo Libro de Madrigali a cinque voci. Novamente com-
 POStl, et dati in luce. In Venetia, appresso Ricciardo Amadino. 1599.
 
@@ -54,5 +54,5 @@ Sopra le chiome d’oro, ov’è strett’il mio core 13
 
 La mano... e ratto lui senza contesa (seconda parte) 14
 
-—253—
+-253-
 

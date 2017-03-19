@@ -5,7 +5,7 @@ Dati pace, 0 mio cor. Quello sguardo cli‘invaglii. Arietta, svelto 70
 
 Quella bocca ch‘infiammò quell'altrui (seconda) 72
 Perche pormi, 0 stelle, in seno cor difficile a cangiar. Arietta 74
-I—Bc
+I-Bc
 
 4.45 _ CACCINI Francesca (1625) _ La Liberazione di Ruggiero dall’isola d'Al-
 cma, Balletto composto in musica dalla Francesca Caccini ne Signorini Malaspina
@@ -24,7 +24,7 @@ I-Rsc
 l-Vnm (Canal)
 F-Pc
 
-GB-me
+GB-Lbm
 
 446 _ CACCINI Francesca (1618) _ Il Primo Libro delle Musiche a una, e due
 voci di Francesca Caccini ne’ Signorini. Dedicate all'illustriss. e reverendissimo
@@ -51,5 +51,5 @@ A l. Lasciatemi qui solo, speranze sventurate. Aria 38
 
 » » Giunto'l di che dovea’l cielo. Aria allegra
 
-—-286— ...—.
+--286- ...-.
 

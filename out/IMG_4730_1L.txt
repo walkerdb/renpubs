@@ -17,9 +17,9 @@ diversi Eccellentissimi Compositori di Musica, non credo ch’abbia il minor loc
 Pallavicino di felice memoria... Anversa, 24 11] 1606 ».
 
 F-Plhibault: compl.
-B—Gu: A.B.6.
+B-Gu: A.B.6.
 F-Psg: T.B5.
-GB-me: T.
+GB-Lbm: T.
 NL-At: 5.
 
 2134 _ PALMIERO Salustio (1607) _ Madrigali a cinque voci Libro Prim? _di
@@ -45,5 +45,5 @@ Poichè morte non può farmi morire, col mio grave martire 11
 
 Mandami un sospiro lachrimando, che te ne manderò n‘altro da poi
 
-_]304—
+_]304-
 

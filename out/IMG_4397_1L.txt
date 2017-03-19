@@ -28,7 +28,7 @@ A-ng: T. (manc. delle pag. 9-12 e 17-18). (Gli incipit delle pag. mancanti sono 
 FOGLIANO Giacomo
 FESTA Costanzo - FOGLIANO Giacomo.
 
-996 -— FOGLIANO Giacomo (1547) _ Madrigali :\ cinque voci il Primo biblio-
+996 -- FOGLIANO Giacomo (1547) _ Madrigali :\ cinque voci il Primo biblio-
 Composti per lo excellentissimo musico missier Iacomo Fogliano orgamsta dlgnls-
 simo de la citta di Modena novamente stampati et posti in luce. 1547.
 
@@ -50,5 +50,5 @@ Amor, e so che sa'r ch’io vivo in pene e in guai 11
 
 Mostra da l'oriente, o luminosa aurora, più de l’usato. Di H. Scaﬂcn
 
-—652—-
+-652--
 

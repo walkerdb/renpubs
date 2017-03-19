@@ -52,5 +52,5 @@ Lien: ninfe c pastori, hor che la primavera canlan tra i fiori
 
 I-Nc: C.A.B.5.
 I-Fn: A.T.B.5.
-GB-me: C.T.
+GB-Lbm: C.T.
 

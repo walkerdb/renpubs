@@ -19,7 +19,7 @@ Quasi gentil colomba. Della Purificatione 70
 Questa, che spiega il volo. Dell'Assontione 21
 US-R: compl.
 
-2839 — VECOLI Francesco (1575) _ Il Primo Libro de Madrigali a cinque voci,
+2839 - VECOLI Francesco (1575) _ Il Primo Libro de Madrigali a cinque voci,
 di Francesco Vecoli di Lucca nuovamente posti in luce. In Vinegia, appresso
 l'herede di Girolamo Scotto 1575.
 
@@ -51,5 +51,5 @@ A 5. Torn’il mio sol lucente, l'empie nubi scacciatc, a far dolce sercn 3
 ” ” Ecco ch’al parlar saggio e al bel volger del ciglio ZZ
 ” ” Ecco già d‘ogn'intorno disgombrate le nebic (seconda parte) 24
 
-— 1767 —
+- 1767 -
 

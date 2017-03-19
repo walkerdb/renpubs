@@ -25,11 +25,11 @@ A6. Torna Clori mia bella, lascia li sdegni e l’irc. A 3 voci con instr. 28
 
 33
 
-l-Bc: compl.
+I-Bc: compl.
 PL-WRu: compl.
 F-Pthibault: C.A.T.5.Bc.
 
-2508 — SABBATINI Galeazzo (1637) _ Madrigali concertatti a due, tre, quattro,
+2508 - SABBATINI Galeazzo (1637) _ Madrigali concertatti a due, tre, quattro,
 e cinque voci. Con alcune Canzoni concertate, e tramezzate diversamente con
 Sinfonie, e ritornelli. Di Galeazzo Sabbatini maestro di cappella di camera del-
 l'eccellentissimo signor duca della Mirandola. Opera Quinta. De’ Madrigali Libro
@@ -39,11 +39,11 @@ ln Venetia, appresso Alessandro Vincenti. 1637.
 
 6 fase. in 8° (C.A.T.B.5.Bc.), pag. 34. Indice = 1630.
 
-S—Uu: comp].
+S-Uu: comp].
 D-Rp: C.A.T.B.5. (prov. Haberl).
-GB-me: B. Bc.
+GB-Lbm: B. Bc.
 
-2509 — SABBATINI Galeazzo (1636) _ Madrigali concertati a due, tre, e quattro
+2509 - SABBATINI Galeazzo (1636) _ Madrigali concertati a due, tre, e quattro
 Voci con alcune Canzonette concertate con instromenti, di Galeazzo Sabbatini
 mastro di Capella-di camera dell‘eccellentissimo sig. duca della Mirandola etc.
 Opera Sesta de Madrigali Libro Quinto nuovamente composti, e dati in luce et a
@@ -52,5 +52,5 @@ Vincenti. 1636.
 
 Sfasc. in 8°: C.1° pag, 33,(l); C.2° e A pag. 4l,(l); T. pag. 33,(l); B. pag. 25,0); Viol. c 11.
 
-— 1551 —
+- 1551 -
 

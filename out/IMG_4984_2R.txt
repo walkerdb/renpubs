@@ -32,7 +32,7 @@ Mentre ch'io miro voi e che voi me miral’intento c fiso reggio tutto quel ben 
 
 D-Mbs: compl.
 
-2897 — VESPA Girolamo (1590) _ Il Terzo Libro de Madrigali a cinque voci di
+2897 - VESPA Girolamo (1590) _ Il Terzo Libro de Madrigali a cinque voci di
 Girolamo Vespa maestro di cappella dell’arcivescovato dt .Fcrmo, novamente com-
 posti, et dati in luce. In Venetia, appresso Ricciardo Amadmo. 1590.
 
@@ -41,7 +41,7 @@ posti, et dati in luce. In Venetia, appresso Ricciardo Amadmo. 1590.
 Da bei stellati chiostri e da l’cmpirco ciel. A Ferdinando Medici, gran duca dl Toscana I
 Per gl'occhi fere amore et per gl'occhi lo stral vibrasi al core Z
 Mira, donna gentil, entro il tuo petto, come lieta e vazosa _ 3
-Là ver quando l‘aurora, scacciando l’ombre il ci.—l, la terra mdora 4
+Là ver quando l‘aurora, scacciando l’ombre il ci.-l, la terra mdora 4
 Un bell'aurato vel all'aurea tcsta madonna in si bei nodi rivolgea 5
 In questo un sospir mio (seconda parte) :
 Cant’ct piang‘in un punto. Piango lc colpe mie _ _
@@ -57,5 +57,5 @@ Fedel amante mio, giuro per quell'ardore. Risposta. _ . ’ 16
 Mentre da i vaghi fior, colti nel bel giardin del paradiso, dl cui vornate 13
 O fammi, amor, gioire, o tu mi fa morire
 
-— 1805—
+- 1805-
 

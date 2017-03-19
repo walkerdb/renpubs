@@ -25,7 +25,7 @@ A 5. Come cantar poss’io d’amor, se sdegno ne‘ begli occhi havete (Guarini
 A 8. Eran ninfe c pastori uniti con le Gratie. (Manfredi) 20
 A 5. Amor i’ parto e sento nel partire, al penar, al morire (Guarini) 21
 
-l-Bc : compl.
+I-Bc : compl.
 F-Pc: compl.
 
 1512 _ LIBERTl Vincenzo (1609) _ De Vincenzo Liberti il Secondo Libro di
@@ -52,5 +52,5 @@ Ohimè l’antica fiamma, ch’era sopita (seconda parte) » 14
 E così a poco a poco torno farfalla (terza parte) » 15
 Madonna, udite come questa vostra dolcissima pietate » 16
 
-—948—
+-948-
 

@@ -4,9 +4,9 @@ Ninfa vaga e gentil, che fai qui sola? Dialogo pastorale » » 30
 Cantiamo dunque insiemc, poi che pastor tu stai. A 6 (seconda parte) » » 30
 lo ho visto un pastorel. in questi boschi, che saletto. Ninfa (terza parte) » » 31
 Eccomi, vita mia, al tuo comando. Cantiamo dunque insiemc (quarta parte) » » 31
-GB-me: C.
+GB-Lbm: C.
 
-2861 — VENTURI DEL NIBBIO Stefano (1594) _ Madrigali a quatro voci, di
+2861 - VENTURI DEL NIBBIO Stefano (1594) _ Madrigali a quatro voci, di
 Stefano Venturi Del Nibio. Nuovamente composti, e dati in luce. ln Venetia
 appresso Giacomo Vincenti. 1594.
 
@@ -39,9 +39,9 @@ A 2- Che domin'in cnp’ho ogn'un mi grida. Quarto ct ult. Convwante 20
 
 A 5. Chi vuol corone di rubini o d’oro 21
 
-GB-me : compl.
+GB-Lbm : compl.
 
-2862 — VENTURI DEL NIBBIO Stefano (1592) _ Di Stefano Venturi Del Nib-
+2862 - VENTURI DEL NIBBIO Stefano (1592) _ Di Stefano Venturi Del Nib-
 bio il Primo Libro de Madrigali a cinque voci. Novamente posto in luce. In
 Venetia appresso Angelo Gardano. 1592.
 
@@ -50,5 +50,5 @@ Venetia appresso Angelo Gardano. 1592.
 Uscia homai del moll'c fresco grembo della gran madre sua la nott’oseura '(Tasso) ]
 S’un sguard'un fà bcato, hor qual fuss’il mio stato (Alfonso “ Avalos) 2
 
-— 1781 —
+- 1781 -
 

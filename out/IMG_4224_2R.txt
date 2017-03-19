@@ -34,7 +34,7 @@ VCHEÌO, Signor, che senza mot’o voce. A voce sola. Peccator pentito piange i 
 Deh s’hai chiusi perciò (seconda stanza) 23
 Ma tra nube di morte (terza stanza) 24
 
-GB-me : compl.
+GB-Lbm : compl.
 
 490 _ CAPUTI Manilio (1592) _ Di Manilio Caputi Libro Primo de Madrigali
 a …I. In Napoli appresso Gioseppc Cacchi. 1592.
@@ -63,5 +63,5 @@ FillicSlol di lei ragionando (seconda parte) 11
 se… a mia, se dl belta sei vaga. Rime del Sannazzaro 12
 . 0 per vor nel core. Rime del Caputi ”
 
-—321-—
+-321--
 

@@ -9,28 +9,28 @@ grimc, che fuori stillo da gli occhi
 , cll'ardcnte luce è questa. A Lucrctia Ancisa
 
 l-VEaſ : compl.
-l—VEcap: compl.
+l-VEcap: compl.
 l-Vnm: C.A.T.5.
 A-Wn: C.A.T.5.
-GB-me: C.A.T.5.
-l-Bc: C.
+GB-Lbm: C.A.T.5.
+I-Bc: C.
 
-F—Pe: 5.
+F-Pe: 5.
 
-2984 — (De) WERT ]acob (1580) _. Di Giachcs dc Wert il Quinto iLbro de
+2984 - (De) WERT ]acob (1580) _. Di Giachcs dc Wert il Quinto iLbro de
 
 Madrigali a cinque, sei, et sette voci nOVamente ristampato. In Venetia appresso
 Angelo Cardano 1580.
 
 5 fasc. in 8° obl. (C.A.’I'.B5.), png. 28. Indice = 1571.
 
-I—Bc: compl.
+I-Bc: compl.
 D-Mbs: compl.
 F-Pc: compl.
 PL-GD: compl.
 l-MOe: A.T.B.
-F—Pn: A.
-GB—me: A.
+F-Pn: A.
+GB-Lbm: A.
 GB-Lwn: A.
 
 ' ' di Wert il Scsro Libro dc
@@ -55,7 +55,7 @@ A 5. \":nlliNîrmgichc nl sol, supcrbc rupi, che minaccmte al ciel (Tanîillo) }
 > » Non tanto il bel palazzo è sì eccellcn-le perclie vmfra ram uſ?-SSC 20
 ’ ” Qui dove nacque che gl'cn‘ori e l’armi del pietoso ronan sc
 
-— 1859 —
+- 1859 -
 
 26
 

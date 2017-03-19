@@ -20,7 +20,7 @@ I-PS: B.5.
 US-BE: C.
 F-TLm: A.
 
-770 — DE MONTE Filippo (1580) _ Di Filippo Di Monte maestro di capella
+770 - DE MONTE Filippo (1580) _ Di Filippo Di Monte maestro di capella
 della sacra cesarea maestà dell’imperatore Rodolfo Secondo. Il Nono Libro de
 Madrigali a cinque voci. Novamente posti in luce. ln Vineggia, appresso l'herede
 di Girolamo Scotto. 1580.
@@ -54,5 +54,5 @@ Chi crede, amor. de tuoi diletti ir pago e l'alma haver i:
 
 Di sì cocente fiamma m’acccsc il cor dc bei vostri occhi
 
-—502—
+-502-
 

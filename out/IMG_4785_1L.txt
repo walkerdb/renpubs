@@ -19,7 +19,7 @@ lo moro, ecco ch’io moro. Bacio chiesto con arguzia nella partenza 17
 l-Fn: compl.
 
 I-Nc: compl.
-GB-me: C.A.T.B.
+GB-Lbm: C.A.T.B.
 
 2289 - PULITI Gabriello (1612) _ Ghirlanda odorifera di varij fior tessuta, cioè
 Mascherate a tre voci Libro Primo di Gabriello Puliti da Montepulciano organista

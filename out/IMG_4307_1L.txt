@@ -13,15 +13,15 @@ A 5. Mentre la donna mia a l’api il me] dentr‘al lor regn'invola 17
 A 8. 0 tu che sei. ZO
 B-Br: compl.
 
-GB-me: compi.
+GB-Lbm: compi.
 
-l-Bc: A.T.B.5.
+I-Bc: A.T.B.5.
 
 723 _ DEL MEL Rinaldo (1584) _. Il Primo Libro de Madriagli a sei voci, di
 Rinaldo del Mel, novamente da lui composto et dato in luce. In Venetia appresso
 Angelo Gardano. 1584.
 
-(’ ſſil—‘c- in 8° (C.A.T.B.5.6.). Pas. Zl,(l). Ded. a Horatio chrici: <<…V.S. tanto si diletta e com-
+(’ ſſil-‘c- in 8° (C.A.T.B.5.6.). Pas. Zl,(l). Ded. a Horatio chrici: <<…V.S. tanto si diletta e com-
 piace nella Musica... e che si dolcemente suona d‘ogni istrumcnto.. Venetia. 8 l 1584 ».
 
 Emno i capei d'or all‘aura sparsi, ch'in mille dolci nodi (Fun‘-°") ]
@@ -58,5 +58,5 @@ Ancor che la partita Sla la sola cagion dt dolor mtei (Alfonso d A‘ſilo)
 
 PL GD: C.A.T.
 I-V'Eaf: C.
-GB-me: 5.
+GB-Lbm: 5.
 

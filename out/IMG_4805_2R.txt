@@ -6,7 +6,7 @@ D-Kl: compl.
 
 D-Mbs: comp].
 
-GB-me: compl.
+GB-Lbm: compl.
 
 US-Wc: compl. (prov. Wolffheim).
 F-Pn: C
@@ -51,5 +51,5 @@ Lalta, bella colonna illustr’c chiara, in cui mirando spesso d’Adria'l mare 
 Sc mira con begli occhi e lcti sguardi (seconda parte) 25
 Come vostra beltate avanza ogni beltà, così il mio amore 26
 
-— 1451 —
+- 1451 -
 

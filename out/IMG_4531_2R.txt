@@ -30,13 +30,13 @@ F-Psg: comp].
 
 E-Mc: comp].
 
-GB-me: S. Contr. T.E.
+GB-Lbm: S. Contr. T.E.
 
 F-O: S.T.B.5.
 
 GB-Ob: Contr.
 
-F—CH: T.
+F-CH: T.
 
 B-Br: B.
 
@@ -46,16 +46,16 @@ Lcsure e Thibault 199.
 
 Il N. 1466 è annullato.
 
-1467 — DE LASSUS Roland (1586) _ Mcslangcs dc la musique d’Orlandc de
+1467 - DE LASSUS Roland (1586) _ Mcslangcs dc la musique d’Orlandc de
 Lassus. A 4. 5. 6. 8. et 10 parties. A Paris. Par Adrian Lc Roy, .et Robert Ballard.
 Imprimeurs du Roy. 1586. Avec privilege de sa majesté pour dlx ans.
 
 5 fasc. in 8° obl. (Superius, Contratcnor, T., B.. 5. c 6.), c. 88. Indice = 1576.
 
 F-Psg: compl.
-GB-me: S.
+GB-Lbm: S.
 
-F—Pc: B.
+F-Pc: B.
 
 Bocttichcr 793.
 

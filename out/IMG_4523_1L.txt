@@ -1,7 +1,7 @@
 F-VE: C.T.
 D-Bds: A.
 
-l-Bc: T.
+I-Bc: T.
 Bocttichcr 750.
 RISM, I 1562-16.
 
@@ -50,5 +50,5 @@ F-Pc: 5.
 I-Vc (Torrcfranca): A.
 Bocttichcr 755.
 
-RISM, I 1566—11.
+RISM, I 1566-11.
 

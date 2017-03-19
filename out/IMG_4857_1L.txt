@@ -24,11 +24,11 @@ A 4. con Z Vio]. e B. per strum. Quando la donna si dimostra altiera 46
 
 l-Baf: compl.
 
-l-Bc: compl.
+I-Bc: compl.
 
 PL-WRu: compl.
 
-GB-me: B., Viol. e B. da sonare.
+GB-Lbm: B., Viol. e B. da sonare.
 
 2510 _ SABBATINI Pietro Paolo (1628) _ Il Sesto di Pietro Paolo Sabatini
 maestro di cappella dell'Archiconfratcrnita della Morte et Oration di Roma. Opera
@@ -61,5 +61,5 @@ A Z. Godiam dunque concordi. Tirsì e Laurilla "
 
 » » Crederò, ma per qual fede, sperarò, ma che ristoro
 
-— 1552 —
+- 1552 -
 

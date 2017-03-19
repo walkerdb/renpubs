@@ -53,14 +53,14 @@ D-As: compl.
 
 F-Pc: compl.
 
-GB-me: compl.
+GB-Lbm: compl.
 GB-Lcm: compl.
 
 PL-GD: compl.
 
 US-Wc: compl. (prov. Heyer). (C. solo pag. 1-6; B. solo pag. 1-14; 5. solo pag. 1-15)-
 I-Fn: C.T. (prov. Landau).
-l-Bc: C.
+I-Bc: C.
 
 I-Sc: C.
 

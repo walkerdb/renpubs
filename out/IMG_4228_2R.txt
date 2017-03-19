@@ -22,7 +22,7 @@ A3. Fortunato augellctto, che sì sublimi canti. Canzon del Rosxgnuolo 2 C. e B.
 
 l-TSt: C.l° (solc pag. 17-22, 26-53)-
 
-501 — CASENTlNl Silao (1572) _ Di Silao Casentini luchese, il Primo Libro de
+501 - CASENTlNl Silao (1572) _ Di Silao Casentini luchese, il Primo Libro de
 Madrigali a cinque voci, con uno Dialogo a sette, novamente composti et dat: ln
 luce. Libro Primo. In Venetia apresso li figliuoli di Antonio Gardano. 1572.
 
@@ -53,5 +53,5 @@ A5. Se’l dolce sguardo di costei m’ancide (Petrarca) 1
 ” ” Misero me, deh com’amor m'ha posto in questo novo laccio 25
 " ” Lasso son preso e vinto, che debb’io far (seconda parte) 26
 
-_.329—
+_.329-
 

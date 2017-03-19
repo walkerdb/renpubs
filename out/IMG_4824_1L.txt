@@ -7,11 +7,11 @@ Deh sc ti strins‘amorc unqua pietà. Di De Roſ: 37
 Qual vista sarà mai, occhi mici lassi. Di Adriano 38
 D-W: compl.
 
-GB-me: compl. (2° cscmp1.: C.).
+GB-Lbm: compl. (2° cscmp1.: C.).
 
 l-Rsc: A.T.B.
 
-l-Bc: A.D.
+I-Bc: A.D.
 
 S-Sk: C.
 
@@ -23,7 +23,7 @@ I-Vnm: 5.
 
 RISM, 1 1544-17 (non compl.).
 
-2402 — (De) RORE Cyprien - WILLAERT Adriano (1551) _ Di Cipriano dc
+2402 - (De) RORE Cyprien - WILLAERT Adriano (1551) _ Di Cipriano dc
 Rorc il Secondo Libro de Madrigali a cinque voci insieme alcuni di M. Adriano
 ct altri autori novamente ristampato. A cinque voci. In Venetia apresso di Antonio
 
@@ -34,11 +34,11 @@ D-Mbs: compl.
 
 YU-MAs: A.S.
 
-GB-me: A.
+GB-Lbm: A.
 
 RlSM. l 1551-15 (non compl.).
 
-2403 — (Dc) RORE Cyprien - WILLAERT Adriano (1552) _.Di_ Cipriano dc
+2403 - (Dc) RORE Cyprien - WILLAERT Adriano (1552) _.Di_ Cipriano dc
 Rore il Secondo Libro de Madrigali a cinque voci insieme alcum dl M. Adriatic
 ('t altri autori novamente ristampato. A cinque voci. In Venetia apresso di Antonio
 Gardane. 1552.

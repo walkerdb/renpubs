@@ -1,8 +1,8 @@
 Donna, ſuggir vorrei Zl
 Amanti, voi ch‘amorc in preggio havele 11
-A—Wn: compl.
+A-Wn: compl.
 
-GB-me: C.
+GB-Lbm: C.
 
 I-Bc: B.
 
@@ -36,7 +36,7 @@ Io ardo c sc l'ardore non mi consuma il core 26
 Ad una fresca riva guidommi amor, dov’era la mia diva 28
 D-Mbs: compl.
 
-GB-me: C.T.
+GB-Lbm: C.T.
 
 I-Bc: G.B.
 

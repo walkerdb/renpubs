@@ -6,19 +6,19 @@ Gardanc. 1543.
 
 US-Cn: A.
 US-Bp: A.
-GB-me: T.
+GB-Lbm: T.
 
-(11514 _ ARCHADELT ]acqucs (1552) — Il Secondo Libro di Madrigali d’Archa—
+(11514 _ ARCHADELT ]acqucs (1552) - Il Secondo Libro di Madrigali d’Archa-
 e t a. quatro VOC} novamente con ogni diligentia ristampato. A quatro voci. ln
 Venetia apresso (11 Antonio Gardane. 1552,
 
 4 fasc. in 8° obl. (C.A.T.B.), pag, 32,(1). Indice = 1541_
 
 I-Bc: comp].
-US—Cn: C.
+US-Cn: C.
 RISM, I 1552-21 (non compl.).
 
-C11515 — ARtCHADIELT ]acques (1560) _ Il Secondo Libro di Madrigali d’ Archa-
+C11515 - ARtCHADIELT ]acques (1560) _ Il Secondo Libro di Madrigali d’ Archa-
 e a qua ro voc1 novamente con ogni dili ent" ' -_ ]
 Venetia aprcsso di Antonio Gar dano. 1560. g la ristampato. A quatro vocx n
 
@@ -28,7 +28,7 @@ D-Mbs: compl.
 I-Bc: T.
 RISM, I 1560-15.
 
-156 _ ARCHADELT ]acques (1539—1) _ Terzo Libro de i Madrigali di Archadlîlt
+156 _ ARCHADELT ]acques (1539-1) _ Terzo Libro de i Madrigali di Archadlîlt
 et di altri eccellentissimi authori. Con la gionta de alcuni Madrigali a voce mutate
 bellissimi a quattro voci. Libro Terzo.
 

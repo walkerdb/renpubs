@@ -23,7 +23,7 @@ A cinque voci. ln Venetia apresso di Antonio Gardano 1563.
 
 D-Mbs: compl.
 F-Plhibaull: compl.
-GB-me: compl.
+GB-Lbm: compl.
 A-Wn: C.A.B.5.
 I-VCd: C.T.B.5.
 l-Rn: A.B.5.
@@ -37,7 +37,7 @@ netia, apprcsso Francesco Rampazetto.
 5 fasc. in 8° nhl. (C.A.T.B.5.), pag. 39. Indice = 1544-2.
 
 l-VEcap: compl.
-GB-me: T.5.
+GB-Lbm: T.5.
 
 2399 _ (De) RORE Cyprien (1576) _ Di Cipriano dc Ikaro-il Primo'Libromîìl,e
 Madrigali cromatici a cinque voci novamente con ogm diligentia ristamp -
@@ -46,5 +46,5 @@ A cinque voci. In Venetia appresso Angelo Gardano. 1576.
 S l'.-nc. in 8° obi. (C.A.T.B.5.), pag. 39. Indice = 1544-2.
 
 I-Fn : compl.
-GB-me : compl.
+GB-Lbm : compl.
 

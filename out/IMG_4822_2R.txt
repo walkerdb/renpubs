@@ -1,11 +1,11 @@
 D-Rp: C.A.B.5.
-l-Bc: C.A.T.
+I-Bc: C.A.T.
 B-Br: C.A.B.
 l-VEaf : C.T.
 F-Pc: C.
 
 l-Nn: A.
-GB-me: A.
+GB-Lbm: A.
 F-Phanson: T.
 
 2394 _ (De) RORE Cyprien (1554) _ Di Cipriano Rore il Primo Libro de
@@ -16,16 +16,16 @@ Venetiis, apud Hieronymum Scotum. 1554.
 
 l-VEaf: compi.
 
-2395 — (De) RORE Cyprien (1559) _ Di Cipriano Rore il Primo Libro de
+2395 - (De) RORE Cyprien (1559) _ Di Cipriano Rore il Primo Libro de
 Madrigali cromatici a cinque voci novamente con ogni diligentia ristampato et
 corretto. In Venetia, appresso Girolamo Scotto. 1559.
 
 5 fasc. in 8° nb]. (C.A.T.B.5.), pag. 39. lndicc = 1544-2.
 
 GB-Och : C.A.T.B.
-l-Bc: B.
+I-Bc: B.
 
-2396 — (De) RORE Cyprien (1562) _ Di Cipriano Rore li Madrigali cromatici
+2396 - (De) RORE Cyprien (1562) _ Di Cipriano Rore li Madrigali cromatici
 a cinque voci Libro Primo. Novamente ristampati et con somma diligenza corretti.
 In Vmegia, appresso Girolamo Scotto. 1562.
 
@@ -48,5 +48,5 @@ Non (i soven di quell‘ultima sura (seconda parte) ” 13
 Quand'io son tutto volc’in quella parte ” 14
 Così davanti ai colpi de 1.1 morte (seconda parte) ” 15
 
-_ 1433 —
+_ 1433 -
 

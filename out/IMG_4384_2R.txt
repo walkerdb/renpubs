@@ -1,37 +1,37 @@
 Felice in braccio alla mia den godca e‘] dolce mio gioir. D‘inccno 24
 
 l-VEaf : CA.B.5.6 (2° escmpl.: C.).
-l-Bc: B.
+I-Bc: B.
 l-Rc: B.
 l-Nn: B
 
-962 — FERRETTI Giovanni (1576) _ Di Giovan Ferretti il Primo Libro delle
+962 - FERRETTI Giovanni (1576) _ Di Giovan Ferretti il Primo Libro delle
 Canzoni alla napolitana a sei, voci. Novamente ristampate. Con privilegio. In Vi-
 neggia. Appresso l’herede di Girolamo Scotto. 1576.
 
 6 fasc. in 8° (C.A.T.B.5.6 ). png. 24. lndicc = 1573.
 
 D-Mbs: compl.
-l-Bc: CA.
+I-Bc: CA.
 NL-At: C.T.
 l-Rsc: C.
 
 l-Fr: S.
 D-ma: 6.
 
-963 — FERRETTI Giovanni (1581 _ Di Giovan Ferretti il Primo Libro delle
+963 - FERRETTI Giovanni (1581 _ Di Giovan Ferretti il Primo Libro delle
 Canzoni alla napolitana a sei voci. Novamente ristampato. Con privilegio. ln
 Vlneggia, appresso l'herede di Girolamo Scotto. 1581.
 
 6 [asc. in 8° (C.A.T.B.5.6 ). png. 24. lndicc = 1573.
 
-l-Bc: compl.
+I-Bc: compl.
 l-Bsp: compl.
 l-de: compl.
 A-Wn: compl.
-CH—Bu: compl.
+CH-Bu: compl.
 D-As: compl.
-GB-me: A.T.B.S.
+GB-Lbm: A.T.B.S.
 PL-GD: C.A.T.
 l-Vnm: C.A.
 D-KNu: C.B.
@@ -39,7 +39,7 @@ F-Pc: A.
 
 F-Pn: 5.
 
-9_64 _— FERRETTI Giovanni (1575) _ ll Secondo Libro delle Canzoni a sei voci,
+9_64 _- FERRETTI Giovanni (1575) _ ll Secondo Libro delle Canzoni a sei voci,
 dl Giovan Ferretti maestro di capello del duomo d‘Ancona. Novamente poste in
 luce. In Vineggia. Appresso l‘herede di Girolamo Scotto 1575.
 

@@ -15,7 +15,7 @@ appresso Alessandro Raverij. 1606.
 5 [use. in 8° (C.A.T.B.5.), pag. 35,(l). Indice = 1534.
 
 [ Nc: comp].
-GB-me: compl.
+GB-Lbm: compl.
 GB-Och: compl.
 l-PAc: C.A.T.B.
 A-Wn: ABS.
@@ -24,7 +24,7 @@ A-Wn: ABS.
 Libro de Madrigali a cinque voci, novamente ristampato, et corretto. In Venctla
 appresso Angelo Gardano et fratelli. 1607.
 
-5 fa.—c. in 8° ob]. (C.A.T.B.5.), png. B,(l).
+5 fa.-c. in 8° ob]. (C.A.T.B.5.), png. B,(l).
 
 Dcslnssi ſra'l mio gelo fiamma sì dolc'al core 2
 
@@ -52,5 +52,5 @@ Mise… le, non vedi ch'io son Finta? In \"an chiedi soccorso 3
 
 Natura nm mi [è com‘io vorrei (seconda parte)
 
-_ 1294—
+_ 1294-
 

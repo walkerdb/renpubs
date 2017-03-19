@@ -22,13 +22,13 @@ A 6. Rompas’il duro ghiaccio, che’] fonte di pietà cuopr’e nasconde 30
 » » Ardenti stelle, qualhor fu giamaì ch'e santi lumi in voi 34
 » » Et quando fu giamai gran madr’antica (seconda parte) 36
 
-l—Fn (Palatino): compl.
+l-Fn (Palatino): compl.
 I-Bc: Contralto.
 I-VEaf: T.
 
-I—PS: B
+I-PS: B
 
-89— ANNIBALE Padovano (1564) _ Di Annibale Padovano organista della illu-
+89- ANNIBALE Padovano (1564) _ Di Annibale Padovano organista della illu-
 strissima Signoria di Venetia, in San Marco il Primo Libro de Madrigali a cinque
 voci, novamente da lui composti, et per Antonio Gardano posti in luce. A cinque
 voci con gratia et privilegio. In Venetia appresso di Antonio Gardano. 1564.
@@ -54,5 +54,5 @@ A 5. Se delle voglie sue fallace segno non presta, od opra l
 ” ” Amor, che nel pensier mio vive e regna » 17
 ” ” Onde amor paventoso fugge al core (seconda parte) » 18
 
-A— 6] _
+A- 6] _
 

@@ -15,7 +15,7 @@ A Z. Caro albergo d’amore, chi di voi meglio può legar un cuore (Celiano) 28
 » » lmmobil son di vera fede scoglio (terza parte) ” 33
 » » Nè già mai per bonaccia, nè per verno (quarta parte) » 38
 » » Rimirate, luci ingrate, il dolor de la partita 39
-l—Fn
+l-Fn
 
 l-Rsc
 
@@ -23,7 +23,7 @@ B-Br
 
 GB-Lcm
 
-2948 — VITALI Filippo (1620) _ Musichc di Filippo Vitali. A una due et tre
+2948 - VITALI Filippo (1620) _ Musichc di Filippo Vitali. A una due et tre
 voci. Per cantare nel Cimbalo, o in altri stromcnti Slmlll con l'alfabeto per la
 Chitarra in quelle più a proposito per tale stromelnto. Libro Terzo. In Roma
 per Luca Antonio Soldi. 1620. Con licenza de’ Superiori.

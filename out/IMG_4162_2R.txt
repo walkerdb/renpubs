@@ -44,8 +44,8 @@ Haveasi Astolfo apparecchiato il vaso
 0 S’io potessi, donna. A requisitione d’uno amico
 
 I-BRE: compl.
-I—VEcap: compl.
-D—Mbs: compl.
+I-VEcap: compl.
+D-Mbs: compl.
 I-Bc: C.A.B.
 A-Wn: C.T.B.
 I-Vnm: C.

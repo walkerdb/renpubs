@@ -6,7 +6,7 @@ Novamente stampati et dati in luce. In Anversa. Appresso Pietro Phalesio. 1602.
 
 GB-Och: compl.
 D-W: C.T.B.
-GB—me: T.B.
+GB-Lbm: T.B.
 
 15 _ AGAZZARI Agostino (1608) _ Di Agostino Agazzari gentil’huomo sanese,
 il Primo Libro de Madrigali a cinque voci, con un Dialogo a sei, et un Pastorale a
@@ -19,7 +19,7 @@ sandro Raverij. 1608.
 I-FEc: compl.
 I-Sac: C.A.B.
 A-Wn: A.B.5.
-F—A: GB.
+F-A: GB.
 
 16 _ AGAZZARI Agostino (1608) _ Madrigali di Agostino Agazzari gentil’hUomo
 senese. Nel Collegio Alemagno maestro della musica. A cinque voci. Con un
@@ -28,7 +28,7 @@ forti appresso Nicolao Stenio. 1608.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. 21. Indice = 1600. '
 
-GB-me : T.B5.
+GB-Lbm : T.B5.
 
 17 _ AGAZZARI Agostino (1606) _ Di Agostino Agazzari Armonico Intronato.
 Il Secondo Libro de Madrigali a cinque voci. Novamente composti, et dati in luce.

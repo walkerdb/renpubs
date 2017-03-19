@@ -25,14 +25,14 @@ l-Fn: compl.
 
 D-Mbs: compl.
 F-Plhibaull: compl.
-GB—me: compl.
+GB-Lbm: compl.
 US-Wc: compl.
-F—CC: C.
+F-CC: C.
 
 l-Vc (Torreſranca): A.
 F-Pn: B
 
-[836 — MERULO Claudio (1604) _ Di Claudio Mcrulo da Correggio, organista
+[836 - MERULO Claudio (1604) _ Di Claudio Mcrulo da Correggio, organista
 del sereniss. di Parma. Il Secondo Libro de Madrigali. A cinque voci. Dedicati
 a monsignor illustrissimo di Racconigi. Novamente dall’autore dati in luce.
 ln Venetia. Appresso Angelo Gardano. 1604.

@@ -9,9 +9,9 @@ l-Fr: A.S.
 
 l-Rsc: C.
 
-GB-me: C.
+GB-Lbm: C.
 
-l—PS: T.
+l-PS: T.
 
 l-MOe: B.
 

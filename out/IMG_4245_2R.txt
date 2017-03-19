@@ -1,4 +1,4 @@
-545 — CERBELLO Giovanni Battista (1619) .. Novelli amori di _Gio. Battista
+545 - CERBELLO Giovanni Battista (1619) .. Novelli amori di _Gio. Battista
 Cabello della città di San Marco a tre voci. Libro Primo. Napoli, Costantino
 Vitale, 1619.
 
@@ -28,7 +28,7 @@ Uscia da monti fuorn un cristallino gieln (M.-inno) 18
 
 USSR-Ls: : compl.
 
-546 — CERESINI Giovanni (1607) _ Il Primo Libro de’ Madrigali a quattro voci
+546 - CERESINI Giovanni (1607) _ Il Primo Libro de’ Madrigali a quattro voci
 di Giovanni Ceresini da Cesena Academico Etereo, detto il Costante. ln Venetia,
 appresso Alessandro Raverij, 1607.
 
@@ -55,5 +55,5 @@ O che Piace: pres'io, man vezzosa, man cruda (Marino) 16
 8° gli occhi vostr'io miro, donna. m‘abaglio al lume (Marino) 17
 ROSa vermiglia tiene su le labra il mio sole 18
 
-—361—
+-361-
 

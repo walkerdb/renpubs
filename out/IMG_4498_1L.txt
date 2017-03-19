@@ -3,7 +3,7 @@ Non so qual maggior fede far più del mio gran foco zz
 Poi che sì piace a la fata] mia stella, che la mia donna (Cassola) B
 Per far il mondo pien di maraviglia, quel buon fabro. Ad Anna Visconle » 24
 Come risorge per la pioggia esliva nel polveroso campo herba novella 25
-l-Bc: compl.
+I-Bc: compl.
 
 1352 _ ISNARDI Paolo (1577) _ Il Secondo Libro de Madrigali a cinque voci di
 Paulo Isnardo ferrarese. Novamente composti et dati in luce. A cinque voci. In
@@ -39,7 +39,7 @@ Non ti lagnar, cor mio, che l’alba tosto a noi farà ritorno
 E se questo contrade tenebrose (seconda parte) _ Zl
 Dolorosi martir, fieri tormenti. duri ceppi, aspri lacci (Tansnllo)
 
-GB-me : compl.
+GB-Lbm : compl.
 I-MOe : C.A.T.5.
 
 1353 _- ISNARDI Paolo (1581) .. Il Terzo Libro de Madrigali a cinque voc‘lhtlll

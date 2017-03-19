@@ -24,7 +24,7 @@ Questi gigli novelli e quesle rose e tanti vaghi fiori, ch‘aprono 19
 Interdette speranze e van desio, pensier fallace, ingorde (Sannazzaro) 20
 
 Usin le stelle e'! ciel tutte lor prove (feconda parte) ” 11
-l—Bc: compl.
+I-Bc: compl.
 
 1-MOe-: compl.
 I-de: Compl.
@@ -41,7 +41,7 @@ I-Bc: compl.
 US-Wc: compl.
 D-KNu: C.A.5.
 
-2623 — SORIANO Francesco (1592) _ Di Francesco Soriano romano 111 55032:
+2623 - SORIANO Francesco (1592) _ Di Francesco Soriano romano 111 55032:
 Libro de Madrigali a cinque voci nuovamente da lui composti e dati lnDUCCa-n eli.
 liccntia de' Superiori. In Roma ad instanza di Ascanio, et Girolamo on B
 Per Francesco Coattino. 1592.
@@ -57,5 +57,5 @@ accio che dopo la sua morte con maggior sua gloria "nascessero... Roma. 3 V
 . . . . . . _ . . . ir
 A 5. Deh dimmi pria, Signor, che le faville ch‘io \eggio a mille a mille usc
 
-—1628—
+-1628-
 

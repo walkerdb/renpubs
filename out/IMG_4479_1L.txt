@@ -20,9 +20,9 @@ Amor, pien d'alto ardire, da due lucenli stelle vibra calde fiammelle IB
 Falseggiava l'ingrata donna di questo core le parole dolcissime 19
 Quando pietoso amore con la saetta aurata (seconda parte)
 Nel tuo bel sen si strugge, o bella Filli, il core 21
-l-Bc: compl.
+I-Bc: compl.
 
-1295 — GUALTIERI Antonio (1608) _ Amorosi diletti a tre voci. Di {Antonio
+1295 - GUALTIERI Antonio (1608) _ Amorosi diletti a tre voci. Di {Antonio
 Gualtieri maestro di capello di Monselice. Novamente composti, et dati tn luce.
 In Venetia. Apresso Angelo Cardano, ec fratelli. 1608.
 
@@ -50,5 +50,5 @@ La bella ninfa mia, dogliosa del mio mal. Proposla "
 
 Risposi alhor: cor mio. deh non tardar. Risposta
 
-_816—
+_816-
 

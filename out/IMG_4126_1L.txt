@@ -51,7 +51,7 @@ Circonstanti, Pantalon ha pigliato un gran marron.
 
 F-Pc: Parte superiore alla bastarda (manc. di front.)
 
-GB-me: Parte superiore alla bastarda.
+GB-Lbm: Parte superiore alla bastarda.
 
-—130— ..
+-130- ..
 

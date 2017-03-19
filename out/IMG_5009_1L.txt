@@ -1,5 +1,5 @@
-l—\'E;iſ: C.A.5.
-GB-me: C.
+l-\'E;iſ: C.A.5.
+GB-Lbm: C.
 
 I-Vc (Torrcfranca): A.
 I-Rsc: T.
@@ -48,7 +48,7 @@ A 7. Nel tempo, che rinnova i miei sospiri . ( ” 27
 
 ,
 
-l-Bc: compl. 'd ;
+I-Bc: compl. 'd ;
 l-MOc: compl.
 D-Mbs: compl.
 

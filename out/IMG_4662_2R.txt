@@ -32,7 +32,7 @@ l-Fn: A.T.B.5.
 
 US-SFse (De Bellis): 5.
 
-1886 — MONTELLA Giovan Domenico (1603) _ Sesto Libro de Madrigali a
+1886 - MONTELLA Giovan Domenico (1603) _ Sesto Libro de Madrigali a
 cinque voci di Gio. Domenico Montella napolitano. Neapoli Superiorum permissu
 lo. Felix Paduanus incidit. Anno Domini 1603.
 
@@ -53,5 +53,5 @@ Vieni, Clori mia bella (seconda parte)
 La mlsera farfalla par che si prenda in gioco (G' Casonc) 10
 Quella bocca di rose con tali atti ridenti 11
 
-—1169—
+-1169-
 

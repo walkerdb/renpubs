@@ -23,10 +23,10 @@ A 2. Su la sponda del Tebro humida, erbosa, diva in forma. Sonetto (Marino) ZZ
 » » Non tocc'herba il bel piè se non s'infiori (terza parte) » B
 
 l-Vnm (Canal)
-GB-me
+GB-Lbm
 US-Cn
 
-2365 — RONTANI Raffaello (1618) _ Le varie musiche a una a due, e tre voci.
+2365 - RONTANI Raffaello (1618) _ Le varie musiche a una a due, e tre voci.
 Per cantare nel Graviccmbalo, overo, nella Tiorba, et in altri stromenti simili. Di
 Rafacllo Rontani Libro Secondo Opera Sesta. In Roma, appresso Gio. Battista
 Roblctti. 1618. Con licenza de' Superiori.
@@ -39,7 +39,7 @@ Camere di Prencipi, et essendo io per gratia del lllustriss. et eccellentiss. Si
 A ]. Ombra son io d'un infelice amante. che per piaga d‘amor 3
 » » Fuggo il di (seconda parte) 3
 ” ” Qui dove il Tebro al mormorar de‘ venti (terza parte) 4
-" » Potesti pur pou—sti, ahi crudo, ahi fero, altre luci mirar (Guarini) 5
+" » Potesti pur pou-sti, ahi crudo, ahi fero, altre luci mirar (Guarini) 5
 ” ” E tu consenti (seconda parte) ” 5
 ” ” O come sei gentile, caro augellino, o quanto è il mio stato » 6
 ” ” 0 bei lumi, o chiome d‘oro, ond’io moro, tra bel loco _
@@ -52,5 +52,5 @@ A ]. Ombra son io d'un infelice amante. che per piaga d‘amor 3
 A Z Così prigion io vivo ir. lacci d’oro (terza parte) 11
 » » Fermate, homai fermate. in queste rive amate. o belle naviganti 12
 
--—I469—
+--I469-
 

@@ -56,5 +56,5 @@ GB-Lwa: compl.
 PL-WRu: compl.
 l-Vnm: C.B.
 
--— 1194 —
+-- 1194 -
 

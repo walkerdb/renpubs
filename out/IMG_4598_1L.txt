@@ -10,11 +10,11 @@ A-Wn: compl.
 
 E-Mn: C.
 
-GB-me: C.
+GB-Lbm: C.
 
-1—Bc: B
+1-Bc: B
 
-I—BRq: B.
+I-BRq: B.
 
 1690 _ MARENZIO Luca (1587) _ 11 Secondo Libro delle Canzonette alla
 napolitana a tre voci, di Luca Marenzio: raccolte per Attilio Gualtieri, et nov?
@@ -23,7 +23,7 @@ mente ristampate. Seconda impressione. In Venetia, presso Giacomo Vincenzi-
 3 fase. in 8° (C.T.B.), png. 29. Indice = 1585.
 
 D-Mbs: comp].
-GB-me: C.T.
+GB-Lbm: C.T.
 1-Bc: C.B.
 l-BGc: C.
 B-Br: C.
@@ -38,11 +38,11 @@ et con diligenza corrette. In Venetia, appresso Giacomo Vincenti. 1592.
 
 3 fasc. in 8° (C.T.B.), pag. 29. lndicc = 1585.
 
-l-Bc: comp].
+I-Bc: comp].
 A-Wn: compl.
-D—Rp: compl.
+D-Rp: compl.
 A-ng: C.T.
-GB-me: T.B.
+GB-Lbm: T.B.
 F-Pc: T.
 l-Rsc: B.
 

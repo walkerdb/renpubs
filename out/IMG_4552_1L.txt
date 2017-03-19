@@ -16,12 +16,12 @@ Cor mio, che pensi fare? Voi tu sempre penare 19
 La pastorella mia quando partir vorìa, ahimè. non lo sa (lire 20
 Mi parto, o bella Flori, ma fine non havrano i nostri amori ”
 
-A—Wn: compl.
+A-Wn: compl.
 
 1] N. 1515 è annullato.
 
 1516 _ LOCATELLO Giovanni Battista (1628) _ Primo Libro de Madrigali a
-due, tre, quattro, cinque, sei et sette voci con il Basso continuo per sonar il Clave—
+due, tre, quattro, cinque, sei et sette voci con il Basso continuo per sonar il Clave-
 cimbalo, et altri stromenti simili. Di Gio. Battista Locatello novamente composto,
 et dato in luce. Con licenza de’ Superiori, et privilegio. In Venetia, appresso Ales-
 sandro Vincenzi, 1628.
@@ -44,7 +44,7 @@ A 6. Sì i languidi ZZ
 » » Amor et amante. Dialogo :\ Z con 4 istromenti 24
 A 7. O baci aventurosi, ristoro (le miei mali. Tenor solo con 6 istrumenti (Marino) 25
 
-GB-me: B. Bc.
+GB-Lbm: B. Bc.
 
 1517 _ LUCIO Franceseo (1655) _ Arie :\ voce sola di Francesco Lucio dedicate
 al molt'illustre signor e patron mio osservandissimo il sig. Iseppo Zolio. ln Venetia
@@ -52,5 +52,5 @@ appresso Alessandro Vincenti 1.655.
 
 Vol. in 8“ chi., pag. 67. Ded.: «Compariscono al lume del sendicalo, fuori della mia intentione,
 
-—950—
+-950-
 

@@ -19,9 +19,9 @@ Pl.-GD: compl.
 
 F-Psg: compl.
 
-GB-me: 5.
+GB-Lbm: 5.
 
-803 — DE MONTE Filippo (1583) _ Di Filippo Di Monte maestro di cappella
+803 - DE MONTE Filippo (1583) _ Di Filippo Di Monte maestro di cappella
 della sac. ces. maestà dell’imperatore Rodolfo Secondo, il Primo Libro de Madri-
 gali spirituali a sei voci da lui novamente composti, et dati in luce. In Venetia
 appresso Angelo Gardano 1583.
