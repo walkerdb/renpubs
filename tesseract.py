@@ -5,8 +5,6 @@ from tqdm import tqdm
 root_path = "/Volumes/Samsung USB/nv images/out"
 images = [image for image in os.listdir(root_path) if image.endswith(".tif")]
 
-consonants = ["bcdfghjklmnpqrstvwxz"]
-
 for image in tqdm(images):
     input_path = os.path.join(root_path, image)
     output_path = "out/" + image.split(".")[0]

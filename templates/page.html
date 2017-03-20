@@ -1,0 +1,14 @@
+
+<div>
+  <div>
+    <textarea cols="100" rows="75">{{ text }}</textarea>
+    <img src={{imgUrl}} width="40%" height="auto"/>
+  </div>
+  <div>
+    {% if prevPage %}
+      <button>prev</button>
+    {% endif %}
+    <a href={{"/" + nextPage}}><button>next</button></a>
+  </div>
+
+</div>
