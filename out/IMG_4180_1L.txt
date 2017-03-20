@@ -25,7 +25,7 @@ A Z. Dolcissimo sospiro, ch'csci da quella bocca (Rinuccini) 4
 " " La mia Stellina d'oro, quando mi guarda e ride 5
 " " Mentre per uscir fuor l'alma s'invia (seconda parte) $
 
-" " Il sguardo tuo crudel ha pcnctrato
+" " Il sguardo tuo crudel ha penctrato
 
 " " Simiglia al lume un sole, una siren'al canto 8
 " " D'amoroso gioir avidi i petti di Filli e di Fileno 9
