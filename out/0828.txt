@@ -35,7 +35,7 @@ La Cromatica 13
 La Novellina 15
 La Morale ' . ' . "
 Ch'io non l'ami, cor mio, ch'io non sm. Madrigale a 5 (Guarini) 19
-La Bassicana a 5 2]
+La Bassicana a 5 21
 La Poggina 23
 L'Accorta 25
 La Gentile 27

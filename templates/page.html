@@ -1,7 +1,7 @@
 
 <div>
   <div>
-    <textarea cols="100" rows="75">{{ text }}</textarea>
+    <textarea id="text" onkeyup="auto_grow(this)" cols="100">{{ text }}</textarea>
     <img src={{imgUrl}} width="40%" height="auto"/>
   </div>
   <div>
@@ -10,5 +10,13 @@
     {% endif %}
     <a href={{"/" + nextPage}}><button>next</button></a>
   </div>
+
+  <script>
+    function auto_grow(element) {
+      element.style.height = "5px";
+      element.style.height = (element.scrollHeight)+"px";
+    }
+    auto_grow(document.getElementById("text"))
+  </script>
 
 </div>

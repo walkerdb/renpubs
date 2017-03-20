@@ -11,7 +11,7 @@ A l. [' vo piangendo i miei passati tempi (Petrarca) 3
 " " Lagrime estreme, che (la gl'occhi uscite 9
 " " Dite, che v'ho fatt'io, fallaci mie speranze 9
 " " Vivo, ahi lasso, o pur moro 10
-" " Sparsa d'immorlal luce, eccelsa fede 1]
+" " Sparsa d'immorlal luce, eccelsa fede 11
 " " O come invan credei passar l'hore screne 12
 A Z. T'inaspri :| miei lamenti 13
 A 1. Ancora il re nasce piangendo in terra 14
