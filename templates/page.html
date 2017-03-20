@@ -1,22 +1,41 @@
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.4.0/css/bulma.min.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.25.0/codemirror.min.css"/>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.25.0/codemirror.js"></script>
+  <link rel="stylesheet" href="static/main.css"/>
+</head>
 
+<body>
 <div>
   <div>
-    <textarea id="text" onkeyup="auto_grow(this)" cols="100">{{ text }}</textarea>
-    <img src={{imgUrl}} width="40%" height="auto"/>
-  </div>
-  <div>
-    {% if prevPage %}
-      <button>prev</button>
-    {% endif %}
-    <a href={{"/" + nextPage}}><button>next</button></a>
-  </div>
+    <div>
+      {% if prevPage %}
+      <a href={{"/" + prevPage}}>
+        <button>prev</button>
+      </a>
+      {% endif %}
+      {% if nextPage %}
+      <a href={{"/" + nextPage}}>
+        <button>next</button>
+      </a>
+      {% endif %}
+    </div>
+    <div class="columns">
+      <div class="column"><textarea id="text" cols="100" style="margin-top: 50px; margin-left: 50px">{{ text }}</textarea></div>
+      <div class="column"><img src={{imgUrl}} style="height: 900px; width: auto"/></div>
+    </div>
+    <script>
+      var options = {
+        lineWiseCopyCut: true,
+        autoFocus: true,
+        lineNumbers: true
+      };
 
-  <script>
-    function auto_grow(element) {
-      element.style.height = "5px";
-      element.style.height = (element.scrollHeight)+"px";
-    }
-    auto_grow(document.getElementById("text"))
-  </script>
+      var textArea = CodeMirror.fromTextArea(document.getElementById("text"), options)
 
+    </script>
+  </div>
 </div>
+</body>
+</html>
