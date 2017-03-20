@@ -39,7 +39,7 @@ A 4. Ben gravemente " " 10
 A 2. Onde dubbia ho la mente " " }}
 " " E in certa speme " " "
 A 3. Che dianzi unqua non seppi " " "
-A l. Nè ancor sapcrlo posso " " 12
+A 1. Nè ancor sapcrlo posso " " 12
 A 3. Che raggion non consente " "', 12
 "
 

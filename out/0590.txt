@@ -42,7 +42,7 @@ A ]. Vieni, Clori, che l'aurora nel bellissimo oriente. Tirsi e Clorì. Tirsi �
 A Z. 0 Tirsi, mio bene. 0 cara mia Clorì. Clorì e Tirsi …
 A ]. Deh ccssino homai inutili garre. Tirsi 151
 A Z. Su dunque tuonino e già risuonino bellici carmi. Clorì e Tirsi 155
-A l. Protervia di destin crudo e severo arder per chi non crede. Dialogo 16;
+A 1. Protervia di destin crudo e severo arder per chi non crede. Dialogo 16;
 A 2. 0 noi felici, o fortunati : pieno 18
 GB-Gu (Ge)
 

@@ -31,7 +31,7 @@ A ]. Sciolgasi in lagrime. Solo, largo A, 45
 A 3. Mortali che fate? Sospirate A.T.B. 45
 A 3. Alma smarrita, dove ti rivolgo? Dialogo. L'Anima tra il Cielo e il Mondo. Poesia
 dell'Accademico Incerto C.A.B. 47
-A l. Alzati all'erta, vieni. Aria C. 48
+A 1. Alzati all'erta, vieni. Aria C. 48
 A 3. Martiri, sospiri il sen non proverà C. A.B. 49
 
 I-Bc: compl.

@@ -25,7 +25,7 @@ A Z. Nasce l'huomo 2 canti o tenori 1
 " " No questo no " canti "
 " " ll regc dc l'ombre " " 12
 " " Fuggo lieto tanti inganni " " 13
-" " 0 Maria " " "
+" " O Maria " " "
 " " O pane del cielo " canti o tenori [6
 " " Chi darà il pianto " " " " 17
 " " Goder vo ricchezze " canti 19
@@ -33,7 +33,7 @@ A Z. Nasce l'huomo 2 canti o tenori 1
 " " Non voglio scguire " canti () tenori 22
 " " Vattene lusinghiero " " " " B
 " " Sì così è Canto e tenore 26
-" " 0 gran felicità " " " 28
+" " O gran felicità " " " 28
 " " Fulmini contro me Canto e alto Î.
 " " O potenza de la soln penitenza Z canti o tenori 32
 " " Vai dicendo sempre mai Canto e tenore. 33

@@ -11,11 +11,11 @@ A1. Tutlo'l di piango e poi la notte quando (Petrarca) 6
 " " Se tu parti da me l-'illide amata, se privi gl'occhi miei 21
 " " Ma se restì al mio ben, al mio contento, se sovra i fior 22
 " " Chi più cara t'havrà, chi tanto l'ama, chi l'accorrà 23
-A l. Con sorrisi cortesi. con dolci sguardi accesi (Chiabrera) 24
+A 1. Con sorrisi cortesi. con dolci sguardi accesi (Chiabrera) 24
 A 3. Caro e soave legno. unico pregio mio, dolce mia speme (Rinuccini) 25
 A 1. Un di soletto \'idd'il diletto, ond'ho tanto martire (Chiabrera) 29
 A 3. O dolce anima mia, dunque è pur vero che cangiando (Guarini) 30
-A l. O miei giorni fugaci. o breve vita, ohimè già sei (Rinuccini) 34
+A 1. O miei giorni fugaci. o breve vita, ohimè già sei (Rinuccini) 34
 " " Anima ohimè che pensi. ohimè che fai, a che pur miri " 35
 l-Fn
 
@@ -30,7 +30,7 @@ del sereniss. G.D. di Toscana, e bali di Volterra. In Firenze, per Zanobi Pignon
 
 Vol. in 4", pag. (9), 31. Ded. di Zanobi Pignoni.
 
-A l. Qual cadavero spiranle, () begli occhi 1
+A 1. Qual cadavero spiranle, () begli occhi 1
 " " Hor che gli augelli cantando volano per gl'arboscelli 2
 " " Che veggio, ohimè, che sento l'idolo 3
 " " Tra le lagrime e i sospiri \'lssi 5
@@ -47,7 +47,7 @@ A 1. Tutto'] dì piango e poi la notte quando (Petrarca) 2
 " " Lasso ch'i' ardo et altri non me] crede " 3
 " " Quest'ardor mio di che vi cal sì poco (seconda parte) " 9
 " " Ho visto al mio dolore spargere a mille a mille (Striggio) 10
-" " 0 durezza di ferro e di diamante che mi ferend'il petto 12
+" " O durezza di ferro e di diamante che mi ferend'il petto 12
 
 - 1331 -
 

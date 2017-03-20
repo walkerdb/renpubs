@@ -10,7 +10,7 @@ A 1. Tu che dolce apprendesli. Dialogo ll: Fileno, Dori, Neera " 15
 " " Senti Doricle (terza parte) " 19
 " " Fra l'alme avventurose (quarta parte) " 21
 A Z. Fra quanti mai (quinta parte) " 21
-A l. Deh come il cor commovc (sesta parte) " 25
+A 1. Deh come il cor commovc (sesta parte) " 25
 A 2. O del sol messaggia, aurora. Canzonetta (settima parte) " 27
 A 1. O ciel, che volgi intorno. Dialogo III: Galatea, Aminta, Altea " 29
 " " O caduclie speranze (seconda parte) " 31
@@ -18,7 +18,7 @@ A 1. O ciel, che volgi intorno. Dialogo III: Galatea, Aminta, Altea " 29
 A 3. O del terreno regno (quarta parte) " 35
 A 1. Si lcmpri il nostro duolo (quinta parte) " 38
 A 3. Se'l celeste, almo soggiorno (sesta parte) " 39
-A l. Prendi la cetra homai. Dialogo lV: Sìreno, Fillide e Clorì " 42
+A 1. Prendi la cetra homai. Dialogo lV: Sìreno, Fillide e Clorì " 42
 " " Tu che qual'hor d'intorno (seconda parte) " 44
 " " Come auge], che solingo (terza parte) " 46
 A Z. Chi sprezza l'empia sorte (quarta parte) " 47

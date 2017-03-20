@@ -34,7 +34,7 @@ A 1. Canta, mi dice amore, hora ch'il tuo bel sol riposa e dorme 3
 " " Hor che a noi fa ritorno con nova luce il giorno. Aria " 9
 " " Hor che la vaga e rosseggiante aurora toglie dal ciel. Madrigale in eco 20
 " " Su, su, prendi la cetra, o pastore, meco canta d'amore. Aria 12
-" " 0 bel lauro, in te regna la gradita sembianza d'ogni forma 13
+" " O bel lauro, in te regna la gradita sembianza d'ogni forma 13
 " " Sul trono, ove seder solea l'orgoglio. Sonetto per Santa Isabella regina di Port " 14
 " " Nel alto di fortuna, ove in scoglio (seconda stanza) oga o 14
 " " L'alta fronte immortal 16

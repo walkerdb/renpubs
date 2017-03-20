@@ -37,7 +37,7 @@ A 2. Non fuggit- 1
 " " Vien pargoletto
 " " Mentre fan di ' 2
 se stesse ghirlandelte 3
-" " 0 che bella pietate 4
+" " O che bella pietate 4
 " " Voi sarete al mio core 5
 " " Caro Prcscpc 5
 A 3. Correte, anime belle 6

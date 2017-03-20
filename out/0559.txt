@@ -42,7 +42,7 @@ n " Stelle, in cui di clemenza (quarta parte) 79
 " n Tutta danni, tutta inganni (quarta parte) 86
 " " Non si volve fumo (quinta parte) 86
 " " Mentre nasce da le fasce (sesta parte) 87
-" " 0 dell'arbor di Gesse 89
+" " O dell'arbor di Gesse 89
 " " Di David d'lsraele
 
 " " Ecco quasi bell'aurora 3?

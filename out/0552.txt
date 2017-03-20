@@ -1,4 +1,4 @@
-A l. Qual fiera si crudel, qual sasso immobile 42
+A 1. Qual fiera si crudel, qual sasso immobile 42
 
 " " O primavera, gioventù dell'anno, bella madre de fiori (Guarini) 43
 " " O dolcezz'amarissimc d'amore (seconda parte) " 44
@@ -15,7 +15,7 @@ A l. Qual fiera si crudel, qual sasso immobile 42
 " " Vili prima saran le perl'e l'ostro (seconda parte) " 55
 " " Che'l tempo spenga mai quest'ardor (terza parte) " 56
 " " Anzi crescerà sempre il mio gran foco (quarta parte) " ff
-" " 0 quanto in sua beltà splende simile 58
+" " O quanto in sua beltà splende simile 58
 A 2. Dove potrò mai gir tanto lontano. Sopra l'aria di Ruggiero 59
 " " Dove mai fugirò che non sia invano (seconda parte) (0
 " " Dove n'andrò che quella bianca mano (terza parte) 61

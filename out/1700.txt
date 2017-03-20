@@ -14,7 +14,7 @@ B
 " " Estant couché pres des ruchettes 15
 " " Ah vous voilà sans haut de chausse "
 " " Le petit enfant amour 18
-" " 0 beau laurier que n'ayvje 19
+" " O beau laurier que n'ayvje 19
 " " Pleurez, o démons piloiables 20
 " " Si la grave musique peut chasser 11
 " " Amour las de ses vieilles armes 22

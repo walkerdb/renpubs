@@ -30,7 +30,7 @@ A3. Col fior de fiori in mano il mio Lesbin rimiro 2 T. e B. (Achillini) 10
 " " Da voi non fugge il core (seconda parte) " 12
 " " Carcerati nel core i miei casti pensieri C.T.B. 14
 " " Hor che la notte ombrosa. Dialogo: Tirsi, Aminta e Filli. C.T.B. 15
-A l. Che fai, Tirsi, che fai? Aminta. 15
+A 1. Che fai, Tirsi, che fai? Aminta. 15
 " " Aminta, ombra son io. Tirsi. 17
 " " Questo folle pensiero 13
 " " Bella Filli pargoletta. Tirsi. 19

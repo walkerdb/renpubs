@@ -4,7 +4,7 @@ u " Odi, Filli, che tuona. Filli, destati homai. Madrigale
 
 A Z. Se bel rio, se bell'auretta tra l'erbclta sul mattin. Aria
 
-A l. Care e crude catlene, dolci et amati nt'di. Madrigale
+A 1. Care e crude catlene, dolci et amati nt'di. Madrigale
 
 " " Furo i nodi sì cari, sì grati e sì soavi (seconda parte)
 
@@ -15,13 +15,13 @@ n " Biondo arcier, che (l'alto monte aureo fonte sorger fai. Aria
 
 (Chiabrera) 3
 
-A l. Ch'io non t'ami, cor mio? Ch'io non sia la tua vita e tu la mia. Al come Ottavio
+A 1. Ch'io non t'ami, cor mio? Ch'io non sia la tua vita e tu la mia. Al come Ottavio
 [Tornielli canonico della Cathedrale di Novara (Guarini) 8
 
 " )) Aura, ch'intorno giri ai rugiadosi fiori del pargoletto amore. Madrigale
 
 A Z. Vaghe faville da le pupille vibra lo scherzo e'] gioco. Aria
-A l.. Tirsi. mio caro Tirsi. e lu ancor m'abandoni. Madrigali in siile rccitat
+A 1.. Tirsi. mio caro Tirsi. e lu ancor m'abandoni. Madrigali in siile rccitat
 " " Ombrose e care selve se sospirando in flebili susuri. Madrigale in
 
 ico (Guarini) 11
@@ -31,7 +31,7 @@ stile recitativo
 
 A 2. Ninfe vezzose, vaghe, amorose. ch'in fresche valli tra bei crislalli. Aria 13
 
-A l. lo dunque ingrato, Filli, s'altra per me Ianguio? Madrigale
+A 1. lo dunque ingrato, Filli, s'altra per me Ianguio? Madrigale
 " " Dal profondo del core spira e sospira ogn'hor l'anima mia. Madrigale
 A Z. Ne bell'or dc ragi estivi l'aura homai libera spiri. Aria
 

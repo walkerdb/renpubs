@@ -56,7 +56,7 @@ A ]. Dimmi, già che novello a te vengo, gran madre degl'heroi. Proposta. Al Car
 " " Altro che sospirar non fò la nottet e'l dì 13
 " " Per due vezzosi lumi altr'alma si consumi . - _ 14
 " " Vorrai Laurilla mia, viver solett'ancora. Dialogo di Tirsi e Laurilla. Tirsi 15
-" " 0 mio bramato Trisi. Laurilla (seconda parte) ]6
+" " O mio bramato Trisi. Laurilla (seconda parte) ]6
 A Z. Godiam dunque concordi. Tirsì e Laurilla "
 
 " " Crederò, ma per qual fede, sperarò, ma che ristoro

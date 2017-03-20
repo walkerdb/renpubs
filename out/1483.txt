@@ -40,7 +40,7 @@ A 1. Augclletti canori, ch'in questo prato adorno destate i fiori 3
 " " Nerinda bella. posiamci un poco in questo prato di fiori ornato 18
 " .. Residuo 19
 " " Residuo 20
-" " 0 come a questi poggi, a questa sponda gira benigno il sole 21
+" " O come a questi poggi, a questa sponda gira benigno il sole 21
 A 2- Qui con fronte di giglio e man di rosa 22
 " " QUÌ più lucente ancor la nott'ombrosa 23
 " " Luci sercnc e chiare, voi mi ferite, ma prov'il petto non dolor 24

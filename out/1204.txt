@@ -13,12 +13,12 @@ ln fine: "Cortese Lettore. Non vi meravigliate se in questa Opera vi troverete a
 già stampati nel Libro Ottavo; solo li ò stampati in questa opera per più comodità dc Vermosi.
 e presto se piace a Dio averete altre Opere Nove. Vivete felici ".
 
-A l. Bel paslor, dal cui bel guardo spira loco (Rinuccini) 4
+A 1. Bel paslor, dal cui bel guardo spira loco (Rinuccini) 4
 " " Zefiro torna e di soavi accenti " 7
 " " Sc vittorie sì belle han le guerre d'amor "
 " " Armato il cor d'amantina fede (Rinuccini) 13
 " " Ardo e scoprir, ahi lasso, io non ardisco 15
-" " 0 sia tranquillo il mar 16
+" " O sia tranquillo il mar 16
 A 3. Alcun non mi consigli se ben il cor perdei 19
 " " Perchè lo stral di morte esce (seconda parte) 19
 " " Di far sempre gioire amor speranza dà 20
@@ -47,9 +47,9 @@ A 3. Alcun non mi consigli se ben il cor perdei 19
 " " Su pastorelli vczzosi, correte . 35
 " " Su augelletti canori, selogliete (seconda parte) 36
 " " Su fonticelli loquaci (terza parte) 37
-" " 0 mio bene, 0 mia vita, non mi far più languir 38
+" " O mio bene, 0 mia vita, non mi far più languir 38
 " " O belli occhi, o bei rai (seconda parte) 39
-" " 0 mio core, 0 mia face (terza parte)
+" " O mio core, 0 mia face (terza parte)
 
 I-Bc: compl.
 GB-Lwa: compl.

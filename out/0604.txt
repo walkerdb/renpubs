@@ -29,7 +29,7 @@ A 2. Tu, mia Filli, m'hai ferito. Dialogo. "
 " " Poi ch'a baciar m'invita il susurro de l'onde (Marino) 12
 " " Baciannc, Aminta mio, lo bacio (seconda parte) "
 " " Sì, sì, con voglie accese (terza parte) 16
-" " 0 mia vita. o mio core, 0 mio spirto d'amore lB
+" " O mia vita. o mio core, 0 mio spirto d'amore lB
 " " Filli cara et amata, dimmi per cortesia, questa tua bella bocca 20
 " " Dunque, Aminta mio caro. non credi (seconda parte) 22
 " " Come fugace è l'aura e com'è sordo il mare 24
@@ -37,7 +37,7 @@ A 2. Tu, mia Filli, m'hai ferito. Dialogo. "
 A 3. Mille scherzi e canti belli fan gl'augelli salutando 27
 " " Al dolce mormorar dc bei ruscelli ninfe \'ezzose E
 " " O fortunato martire, o desiati tormenti, non fia già mai 32
-A l. Ladra d'amore, lu m'hai rubbato a tradimento il core ;:
+A 1. Ladra d'amore, lu m'hai rubbato a tradimento il core ;:
 
 " " Deh dolce anima mia, moro e son nelle pene, non vedendo
 

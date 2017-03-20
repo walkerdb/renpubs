@@ -28,7 +28,7 @@ miei Madrigali che hehhero principio in Casa sua... Venelia, 15 11 1621 ".
 
 A 1. Quel \"ivo ardor, che'] tuo bel vim accoglie, sola gentil. T. solo 1
 A 2. E' partito il mio bene, ho perduto il mio core, ohimè. 2 T. (Marino) 3
-" " 0 Dio. quel dolce a dio, che piangendo (seconda parte) " 4
+" " O Dio. quel dolce a dio, che piangendo (seconda parte) " 4
 " " Amorosetti fiori, che far soli.-te hor ghirlandette, hor laccio. 2 C. 6
 " " Dove. ah dove len vai, unico del mio cor dolce conforto? 2 T. 7
 " " Chi vuol haver felice e lieto il core, non Segua il crudo. 2 T. (Guarini) S
@@ -44,7 +44,7 @@ A 5. Vezzosc aurette, i cui lcggiadri errori ornando il ciel. Gagliarda a Z voct
 
 [c 3 istromenti sc piace
 
-A l. Tuo danno sia, se mi lasciasli, chè l'alma mia. Aria. Canto solo ?;
+A 1. Tuo danno sia, se mi lasciasli, chè l'alma mia. Aria. Canto solo ?;
 A 2. Sonata a doi Violini 30
 A 3. Sinfonia a 3. 2 Violini e Basso 31
 " " E' tanto tempo hormai. Sonata a 3. 2 Violini e Basso 35

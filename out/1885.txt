@@ -33,7 +33,7 @@ A 5. Hor de novelli sposi, l'alle glorie, i trofei, gli almi splendori 1
 " " Perchè tanto gioisce l'alma. antica cittade (seconda parle) 13
 " " Se specchio son a la suprema luce, dove si specchia di mia luce il lume 14
 " " Sembianza l'uno specchio a l'altro rende (seconda parte) 15
-" " 0 doglie, o morte acerba. non bastava il dolor senza la morte 16
+" " O doglie, o morte acerba. non bastava il dolor senza la morte 16
 " " Se quanto può Minerva di bellezze e virtude, che sì mirabilmente 17
 " " Ma perchè scorgo tanto mir stil più debil, quanto maggior vostro 18
 " " Se da sembianza amore et amor pace e pace eterna vita, qual contrario 19

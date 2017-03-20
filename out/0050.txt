@@ -31,7 +31,7 @@ A 1. Con la bell'alba i zeffiretti intorno spiran " ]]
 " " Son le sue guancie (seconda parte) 11
 A 2. Gloria con trionfo a chi la mira (terza parte) 11
 A 3. Gioite, amanti, tra suoni e canti (quarta parte) 12
-A l. 0 che ventura ond'amor ſura (quinta parte) 12
+A 1. 0 che ventura ond'amor ſura (quinta parte) 12
 " " Ei del suo regno (sesta parte) 12
 A 3. Rendiamo, al ciel cantando le sue bellezze vaghe 13
 A Z. Quando l'alba in oriente l'almo sol s'appresta h' 14
@@ -49,7 +49,7 @@ A 2. Dalla villa e dal contado son venute. Aria di contadine " 19
 " " Era tanto il piacer che ne sentia (seconda parte) 22
 " " Lo mira su dal ciel (terza parte) 22
 " " Tu t'affatichi in darno (quarta parte) 23
-A l. Tra fresch'erba tenerina Clori all'alba matutina 24
+A 1. Tra fresch'erba tenerina Clori all'alba matutina 24
 " " Disse Clori (seconda parte) 24
 A 2. E se ben come fanciullo pargolcggio (terza parte) 24
 
