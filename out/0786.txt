@@ -1,4 +1,4 @@
-1222 _ GIOVANNELLI Ruggero (1607) _ Di Ruggero Giovanelli maestro di
+1222 - GIOVANNELLI Ruggero (1607) - Di Ruggero Giovanelli maestro di
 capella in S. Pietro di Roma il Secondo Libro de Madrigali a cinque voci, nova-
 mente ristampati, et con ogni diligenza corretti. Con privilegio. In Venetia, appresso
 Angelo Gardano et fratelli. 1607.
@@ -9,7 +9,7 @@ I-Bc: compl.
 
 US-Wc: compl.
 
-1223 _ GIOVANNELLI Ruggero (1599-1) _ Di Ruggiero Giovanelli maestro di
+1223 - GIOVANNELLI Ruggero (1599-1) - Di Ruggiero Giovanelli maestro di
 capella in S. Pietro di Roma il Terzo Libro de Madrigali a cinque voci, novamentc
 da lui composti, et dati in luce. In Venetia, appresso Angelo Gardano. 1599.
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 22. Ded. al Cardinal Aldovrandino, Ferrara, 10 I 1599.
@@ -41,7 +41,7 @@ GB-Lbm: C.A.T.5.
 NL-DHgm: A.
 l-LOcl: B.
 
-1224 _ GIOVANNELLI Ruggero (1599-2) _ Di Ruggiero Giovannelli .macSlſO
+1224 - GIOVANNELLI Ruggero (1599-2) - Di Ruggiero Giovannelli .macSlſO
 di capella in S. Pietro di Roma. Il Terzo Libro de Madrigali-a cmquc_voc1._1'î<;;;'
 mente da lui composti, et dati in luce. In Venetia, appresso Giacomo Vincenti -
 5 fasc. in aſ- (C.A.T.B.S.), pag. zz. Ded. al Cardinal Aldobrandino, Ferrara, 14 x1 1598-

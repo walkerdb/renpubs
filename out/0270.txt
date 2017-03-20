@@ -1,4 +1,4 @@
-414 _ BOSCHETTI Girolamo (1593) _ Di Girolamo Boschetti mantovano maestro
+414 - BOSCHETTI Girolamo (1593) - Di Girolamo Boschetti mantovano maestro
 di capella della Madonna Santissima de Monti di Roma. Il Secondo Libro de Madri-
 gali a quattro voci, et doi a sei, con un Eco nel fine a 8. Novamente da lui com-
 posti, et dati in luce. In Venetia appresso Angelo Gardano. 1593.
@@ -34,7 +34,7 @@ I-Bc: compl.
 I-Bsp: compl.
 B-Br: compl.
 
-415 _ BOTTACCIO Paolo (1609) _ I Sospiri con altri, Madrigali a cinqutî, ct
+415 - BOTTACCIO Paolo (1609) - I Sospiri con altri, Madrigali a cinqutî, ct
 otto voci. Di Paolo Bottaccio novamente composti, et dati in luce. Libro Primo.
 
 In Venetia. Appresso Angelo Gardano, et fratelli. 1609.

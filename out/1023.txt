@@ -1,4 +1,4 @@
-1623 _ MARENZIO Luca (1588) _ Di Luca Marcnzio il Quinto Libro de
+1623 - MARENZIO Luca (1588) - Di Luca Marcnzio il Quinto Libro de
 Madrigali a cinque voci. Novamente ristampato. In Venetia, appresso l'herede
 di Girolamo Scotto. 1588.
 
@@ -15,7 +15,7 @@ F-A: 5
 
 Il N. 1624 è annullato.
 
-1625 - MARENZIO Luca (1594) _ Di Luca Marcnzio il Quinto Libro de
+1625 - MARENZIO Luca (1594) - Di Luca Marcnzio il Quinto Libro de
 Madrigali a cinque voci. Novamente ristampato. In Venetia appresso Angelo
 
 Gardano. 1594.
@@ -38,7 +38,7 @@ l-Sd: T.
 
 US-BU: 5.
 
-1626 - MARENZIO Luca (1605) _ Di Luca Marcnzio il Quinto Libro de
+1626 - MARENZIO Luca (1605) - Di Luca Marcnzio il Quinto Libro de
 Madrigali a cinque voci. Novamente ristampato. In Venetia appresso Angelo
 
 Cardano. 1605.

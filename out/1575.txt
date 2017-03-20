@@ -5,7 +5,7 @@ A6. Qui giace, ahi lasso, il gran signor del cielo 19
 l-MOc: compl.
 l-Vnm : 5.
 
-2531 - SABINO Ippolito (1587) _ Di Ippolito Sabino il Seto (ric) Libro dc
+2531 - SABINO Ippolito (1587) - Di Ippolito Sabino il Seto (ric) Libro dc
 Madrigali a cinque, et a sei voci. Nuovamente composti, et dati in luce. In Venetia
 presso Giacomo Vincenzi. 1587.
 
@@ -38,7 +38,7 @@ l-MOe: B
 
 RISM. I 1587-13.
 
-2552 - SABINO Ippolito (1588) _ Di Hippolito Sabino il Scsto Libro de Madri-
+2552 - SABINO Ippolito (1588) - Di Hippolito Sabino il Scsto Libro de Madri-
 g l a cinque, et a sei voci. Nuovamente composti, et dati in luce. In Venetia
 PrCSSO Giacomo Vincenzi. 1588.
 

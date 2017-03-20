@@ -26,7 +26,7 @@ Ardea tutt'a voi prcsso et hor ch'io son lontan, madonn'io sento. Septimi toni 3
 Piangete, donne, ct con voi piang'amorc. Septimi toni (Petrarca) 31
 Io son dc l'aspettar ltomai sì \'into. Septimi toni " 32
 Amor, quando fioria mia spene. Quinti toni " 33
-Che dcbb'io far? che mi consigli, amore? Quinti toni " _ '"
+Che dcbb'io far? che mi consigli, amore? Quinti toni " - '"
 Lagrimando dimostro quanto si dolga. Quarti toni (Boccacclo) 35
 Discolorato hai morte il più bel volto. Quarti toni (Petrarca) 36
 Ecco ch'un'altra volta, o piaggio apriche. Primi toni (Sannazzaro) 37
@@ -44,7 +44,7 @@ Specie tua et pulchritudine tua intende prospere procede. Quinti tom 42
 
 I-Bc: compl.
 - ' ' ' ' Mdi aliaducVOC'"
-2598 .- SCOTTO Girolamo (1562) _ ll Prtmo Libro delli a r g iulm
+2598 .- SCOTTO Girolamo (1562) - ll Prtmo Libro delli a r g iulm
 
 di Girolamo Scotto, nuovamente ristampati. Et da lui proprio con nuovtîog
 ampliati, et con ogni diligentia coretti. In Vinegta appresso Girolamo SCO "

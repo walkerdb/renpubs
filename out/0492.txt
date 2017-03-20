@@ -29,7 +29,7 @@ VU-sz : A.S.
 l-Vmc: A.
 I-Vnm: B.
 
-734 _ DE MONTE Filippo (1599) _ La Fiammetta Canzone di Filippo De Monte.
+734 - DE MONTE Filippo (1599) - La Fiammetta Canzone di Filippo De Monte.
 maestro di capella della sacra cesarea maestà dell'imp. Rodolfo II. Insieme altre
 Canzoni et Madrigali vaghissimi a sette voci, con uno Echo a otto. Novamcntc
 composta, et data in luce. Libro Primo. In Venetia, appresso Angelo Gardano 1599-
@@ -51,11 +51,11 @@ A 7. Già fu chi m'hcbbc cara e volentieri giovinetta mi prese. Canzon della Fia
 " " Chi crederia che'n sì soave aspetto (seconda parte) "
 
 " " Tu sei pur a me foco e tu non ardi (terza parte) " :
-" " A dio, Filli mia bella. A dio Damon, diss'ella. Dolce cor mio non vedi _ . 9
+" " A dio, Filli mia bella. A dio Damon, diss'ella. Dolce cor mio non vedi - . 9
 " " Donna, ch'io t'ami più che la mia vita se tu nol sai, crudele (Guarini)
 
 " " Ma che bisogna far fede cotanta de l'amor mio (seconda parte) " 10
-" " Una ninfa gentile, degna de l'amor ma come sei tu del suo . _ {è
+" " Una ninfa gentile, degna de l'amor ma come sei tu del suo . - {è
 " " O primavera, gioventù de l'anno, bella madre de fiori (Guarini) 13
 " " Tu torni ben ridente, ma reco altro non torna (seconda parte) "
 

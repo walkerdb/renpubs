@@ -4,7 +4,7 @@ A B. chzoseue, leggiadr'e care ninfe, ove ne gite. Dialogo 16
 " " Ond'ei di morte la sua faccia impressa (seconda parte) "
 A-Wn: C:\
 
-2320 _ RATTI Lorenzo (1615) _ Di Lorenzo Ratti nepote, e discepolo di
+2320 - RATTI Lorenzo (1615) - Di Lorenzo Ratti nepote, e discepolo di
 Vincenzo Ugolini. Il Primo Libro de' Madrigali a cinque voci nuovamente com-
 posti, et dati in luce. In Venetia, appresso Giacomo Vincenti. 1615.
 
@@ -49,7 +49,7 @@ Ma poi si dolce il lusinghier mi giunge (seconda parte) " 21
 l-Ne: compl.
 F-Pthibault : compl.
 
-2321 - RAVAL Sebastian (1593) _ Il Primo Libro di Canzonette a quattro voci,
+2321 - RAVAL Sebastian (1593) - Il Primo Libro di Canzonette a quattro voci,
 cOf'nposte per il sig. Sebastiano Raval, gentil'huomo Spagnuolo dell'Ordine di
 ubtdtentta di San Gio. Battista Gierosolimitano. In Venetia, appresso Giacomo
 

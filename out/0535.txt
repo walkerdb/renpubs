@@ -18,7 +18,7 @@ l-MOe: A.
 
 l-Ne: B.
 
-807 b_is _ DENTICE Scipione (1612) _ Di Scipione Dentice il Primo Libro de
+807 b_is - DENTICE Scipione (1612) - Di Scipione Dentice il Primo Libro de
 Madrigali a cinque voci. In Genova, appresso Giuseppe Pavoni. 1612. Con licenza
 de' Superiori.
 
@@ -26,7 +26,7 @@ de' Superiori.
 
 l-Rgìazotto: B.
 
-808 _- DENTlCE Scipione (1596) _ Di Scipione Dentice il Secondo Libro de
+808 _- DENTlCE Scipione (1596) - Di Scipione Dentice il Secondo Libro de
 Madrigali a Cinque voci. Novamente composto, et dato in luce. ln Venetia appresso
 Angelo Gardano. 1596.
 

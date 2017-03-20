@@ -28,7 +28,7 @@ A 5. Amor i' parto e sento nel partire, al penar, al morire (Guarini) 21
 I-Bc : compl.
 F-Pc: compl.
 
-1512 _ LIBERTl Vincenzo (1609) _ De Vincenzo Liberti il Secondo Libro di
+1512 - LIBERTl Vincenzo (1609) - De Vincenzo Liberti il Secondo Libro di
 Madrigali a cinque voci novamente composti, et dati in luce. All'illust.mo et reve-
 rendiss.mo sig. cardinale Barberino vescovo di Spoleti. In Venetia, appresso Ric-
 ciardo Amadino. 1609. '

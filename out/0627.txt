@@ -26,7 +26,7 @@ F-Pc: compl.
 
 l-Rsc: 5.
 
-941. - FERRETTI Giovanni (1568) _ Canzonc alla napolitano a cinque voci,
+941. - FERRETTI Giovanni (1568) - Canzonc alla napolitano a cinque voci,
 del-leccellcntissimo musico Giovan Ferretti. Nuovamente posto in luce, et con ogni
 diligenza corretti. In Vinegia, appresso Girolamo Scotto 1568.
 
@@ -36,7 +36,7 @@ GB-Lbm: G.B. (2° esempl.: C.).
 I-Bc: A.
 F-VS: 5
 
-941 bis __ FERRETTI Giovanni (1569) _ Di Giovan Ferretti il Primo Libro delle
+941 bis __ FERRETTI Giovanni (1569) - Di Giovan Ferretti il Primo Libro delle
 Canzoni alla napolitana a cinque voci. Nuovamente ristampato. In Vinegia, appresso
 Girolamo Scotto, 1569.
 

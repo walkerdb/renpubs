@@ -7,7 +7,7 @@ F-Pc: compl.
 
 A-Wn: T.
 
-1126 _ GERO ]e'an (1545) _ Il Primo Libro de Madrigali italiani et Canzoni
+1126 - GERO ]e'an (1545) - Il Primo Libro de Madrigali italiani et Canzoni
 francese a due voc1 di Ihan Gero novamente ristampato et diligentemente corretto.
 [han Gero a due voci. Venetiis 1545.
 
@@ -15,7 +15,7 @@ francese a due voc1 di Ihan Gero novamente ristampato et diligentemente corretto
 
 GB-Lbm: compl.
 
-1127 - GERO ]éan (1552) _ Il Primo Libro de Madrigali italiani et Canzoni fran-
+1127 - GERO ]éan (1552) - Il Primo Libro de Madrigali italiani et Canzoni fran-
 cese a due voci di Iehan Gero novamente ristampato, et corretto. A due voci.
 Venetiis, apud Hieronymum Scotum 1552.
 
@@ -25,7 +25,7 @@ I-Bc: compl.
 D-Mbs: compl.
 D-Mu: Altera pars.
 
-1128 _ GERO ]éhan (1562) _ Di lhan Gero il Primo Libro de Madrigali italiani,
+1128 - GERO ]éhan (1562) - Di lhan Gero il Primo Libro de Madrigali italiani,
 et Canzon francese a due voci, novamente ristampato: et con somma diligentia
 corretto. In Vinegia, appresso Girolamo Scotto, 1562.
 

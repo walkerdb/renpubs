@@ -14,7 +14,7 @@ l-Fc: compl.
 I-MOc: compl.
 I-Bc: C.A.T.5.
 
-1529 _ LUZZASCHI Luzzasco (1595) _ Quinto Libro de' Madrigali a cinque
+1529 - LUZZASCHI Luzzasco (1595) - Quinto Libro de' Madrigali a cinque
 voci, di Luzzasco Luzzaschi organista del serenissima signor duca di Ferrara. In
 Ferrara, appresso Vittorio Baldini, stampator ducale. 1595.
 
@@ -45,7 +45,7 @@ Non guardar, che se guardi l'idolo del mio core. ti struggerai 23
 l-MOe: compl.
 GB-Lbm: C.T.
 
-1530 - LUZZASCHI Luzzasco (1596) _ Sesto Libro de' Madrigali a cinque voci
+1530 - LUZZASCHI Luzzasco (1596) - Sesto Libro de' Madrigali a cinque voci
 dl Luzzasco Luzzaschi organista del serenissima signor duca di Ferrara. In Fer-
 rara, appresso Vittorio Baldini, stampator ducale, 1596.
 

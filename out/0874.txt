@@ -10,7 +10,7 @@ I-Nc: compl.
 
 RISM, I 1616-14.
 
-1366 _ LACORCIA Scipione (1620) _ Di Scipione Lacorcia il Terzo Libro de
+1366 - LACORCIA Scipione (1620) - Di Scipione Lacorcia il Terzo Libro de
 Madrigali a cinque voci. In Napoli per Costantino Vitale. 1620. Con licenza de
 Superiori.
 
@@ -33,7 +33,7 @@ Misero, che faro, dirò ch'io moro Di Hmorrc della Marra {:
 
 Langue Clori gentile e seco langue'l fiore
 
-O miseria d'amanti, fuggir quel che si brama _ _ 19
+O miseria d'amanti, fuggir quel che si brama - _ 19
 Ite, amari sospiri, a la bella cagion del morir mio (Guarini) 20
 Ancidetemi, cruda, a che tanto languire. Ad Antonio Miroballo ZZ?
 
@@ -45,7 +45,7 @@ GB-Lbm: compl.
 1-Bc: C.T.B.
 RISM, I 1620-18.
 
-1367 - LAGUDIO Paolo (1563) _ Di Paolo Lagudio il Primo Libro di Madrlgîll
+1367 - LAGUDIO Paolo (1563) - Di Paolo Lagudio il Primo Libro di Madrlgîll
 a cinque voci nuovamente da lui composti, et con ogni diligenza Post] … lucc. n
 Vinegia, appresso Girolamo Scotto. 1563.
 

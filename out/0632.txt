@@ -5,7 +5,7 @@ A-Wn: C.A.B.5.
 GB-Lbm: B.
 D-Kl: 5.
 
-955 _ FERRETTI Giovanni (1571) _ Di Giovan Ferretti il Quarto Libro delle
+955 - FERRETTI Giovanni (1571) - Di Giovan Ferretti il Quarto Libro delle
 Napolitane a cinque voci. Nuovamente posto in luce. In Vinegia, appresso Giroamo
 
 Scotto, 1571 .
@@ -42,7 +42,7 @@ Ohimè mesehino che so innamorato. Ch'a na vicin'haggio
 
 CH-Zz: C.
 
-956 _ FERRETTI Giovanni (1573) _ Di Giovan Ferretti il Quarto Libro ldell;
+956 - FERRETTI Giovanni (1573) - Di Giovan Ferretti il Quarto Libro ldell;
 Napolitane a cinque voci. Nuovamente ristampate. In Vinegra, appresso 0er am
 Scotto, 1573.
 

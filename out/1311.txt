@@ -1,4 +1,4 @@
-2124 _ PALLAVICINO Benedetto (1611) _ Di Benedetto Pallavicino. Maestro
+2124 - PALLAVICINO Benedetto (1611) - Di Benedetto Pallavicino. Maestro
 di capella del serenissimo signor di mantova (fic), et Monferrato. Il Sesto Libro
 de Madrigali a cinque voci. Novamente ristampato. In Venetia. Appresso Angelo
 Gardano, et fratelli. 1611.
@@ -9,7 +9,7 @@ l-MOe: compl.
 GB-Och: compl.
 I-Bc: A.T.B.
 
-2125 - PALLAVIClNO Benedetto (1612) _ Di Benedetto Pallavicino maestro
+2125 - PALLAVIClNO Benedetto (1612) - Di Benedetto Pallavicino maestro
 di capella del serenissimo signor duca di Mantova il Scsto Libro de Madrigali a
 cinque voci. In Anversa appresso Pietro Phalesio al re David. 1612.
 
@@ -17,7 +17,7 @@ cinque voci. In Anversa appresso Pietro Phalesio al re David. 1612.
 
 GB-Och : compl.
 
-2126 - PALLAVICINO Benedetto (1604) _ Di Benedetto Pallavicino il Settimo
+2126 - PALLAVICINO Benedetto (1604) - Di Benedetto Pallavicino il Settimo
 Libro de Madrigali a cinque voci novamente posto in luce. In Venetia, appresso
 
 Ricciardo Amadino. 1604.

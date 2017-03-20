@@ -2,7 +2,7 @@ PL-WRu: C.T.B.
 F-Pc: C.
 GB-Lbm: T.
 
-1802 bis _ MENCKIN Thomas (1597) _ Duum vocum Cantiuncularum Thomae
+1802 bis - MENCKIN Thomas (1597) - Duum vocum Cantiuncularum Thomae
 Mancini mcgapolitani, chori musici in aula Wolfcrbytana magistri, Liber. Hel-
 macstadii cxcudebat ]acobus Lucius, anno 1597.
 
@@ -32,7 +32,7 @@ Seguono 16 pezzi per Z strumenti, scnza lcsm e senza lilolo.
 D-Kl : compl.
 Brown 1597-8.
 
-1803 _ MENCKIN Thomas (1608) .. Thomae filio, musico guclphico, et Doro-
+1803 - MENCKIN Thomas (1608) .. Thomae filio, musico guclphico, et Doro-
 theae Elzeniae, necnymphis, faciebat et canebat Thomas Mancinus pater. S.M.A.
 G.S. Helmaestadii, typis ]acobi Lucii, anno 1608.
 
@@ -43,7 +43,7 @@ A 4. Vila mia cara, vim saporita. subito ch'io li vedi pers'il core
 
 D-W: A.
 
-1804 _ MENON Tuttovalc (1548) _ Madrigali d'amore a quattro voci composti
+1804 - MENON Tuttovalc (1548) - Madrigali d'amore a quattro voci composti
 da Tuttovalc Menon, et nuovamente stampati et con diligentia corretti. Chi "O_n
 conoscc, et chi non scguc amor vive in amaro, et infelice muore. A quattro vom:
 In Ferrara nella stampa di Giovanni De Buglhat et Antonio Huchcr compagni

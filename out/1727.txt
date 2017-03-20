@@ -4,7 +4,7 @@ A 3. Fa lan fan fo Ian 33
 S-Ll: compl.
 I-Bc: T.
 
-2757 _ TROIANO Massimo (1568) _ Di Massimo Troiano da Napoli il Terzo
+2757 - TROIANO Massimo (1568) - Di Massimo Troiano da Napoli il Terzo
 Libro delle sue Rime, e Canzoni alla napolitana a tre voci colla Battaglia della
 gatta, e la cornacchia, ec una Amascherata alla turchesca a cmque voci, et una
 Moresca nuovamente fatta et data in luce. In Vinegi, appresso Girolamo Scotto.
@@ -21,7 +21,7 @@ GB-Lbm: C.
 
 D-Z: B.
 
-2758 - TROIANO Massimo (1569) _ Di Massimo Troiano da Napoli musico
+2758 - TROIANO Massimo (1569) - Di Massimo Troiano da Napoli musico
 dell'illustriss. et eccellentiss. sig. duca di Baviera, il Quarto Libro delle sue Rime,
 et Canzoni alla napolitana a tre voci. Con un'aria alla spagnola a quattro voc1.
 Novamente posto in luce. In Vinegia, appresso Girolamo Scotto. 1569.
@@ -34,7 +34,7 @@ di Baviera; ...queste poche Villanclle nate in Germania... Monico di Germania, 2
 A 3. Doglios'ohimè piangend'e sospirando 3
 " " Non dubitar, cor mio, ch'io mai ti lasci 4
 " " Voglio far un gran mare col mio pianto e un forte vento col mio sospirare 5
-" " Amor, che fai tu. che non dai _ 6
+" " Amor, che fai tu. che non dai - 6
 " " Amor m'impenna l'ale e tanto in alto le |:iega l'animoso (Tansillo) 7
 " " Sotto l'insegna del gran sdegn'un giorno B
 " " Fugile amore, () voi, cortesi amanti 9
@@ -43,7 +43,7 @@ A 3. Doglios'ohimè piangend'e sospirando 3
 " " Più presto vorria te, core mio bello Il
 " " O bocca, saporita più che mele, e labra di coralli, post'in oro . 13
 " " Vivo sol di speranza. o vita mia, e se non fosse la Speranza ohlmcnc 14
-" " O rondinella, che il Danubbio passi ' _ 15
+" " O rondinella, che il Danubbio passi ' - 15
 " " Villanclla, quanto sei bella. Tu mi dai la mort'ahimè perche sei crudele 16
 " " Come son viv'ohimè, dolce bcn mio? Com'esser può che tu mi SII 17
 " " Chi vol veder quant'ha bcllezza'l mondo 18

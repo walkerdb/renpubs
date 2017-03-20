@@ -34,7 +34,7 @@ I-Bc: T,
 
 RISM, I 1565-12.
 
-381 - _BONAGIUNTA Giulio (1567) _ Il Primo Libro de Canzon napolitane a
+381 - _BONAGIUNTA Giulio (1567) - Il Primo Libro de Canzon napolitane a
 tre vo_c1, "con due. alla veneziana. Di Giulio Bonagionta da S. Genesi. Et d'altri
 autton, dl novo ristampate. In Vinegia. Appresso Gieronimo Scotto. 1567.
 
@@ -46,7 +46,7 @@ D-As: C.
 I-Vnm: B. (difett.).
 RISM, I 1567-18.
 
-l3iî32 _ BONAÇIUNTA Giulio - BELLHAVER Vincenzo (1566) .. Canzone napo-
+l3iî32 - BONAÇIUNTA Giulio - BELLHAVER Vincenzo (1566) .. Canzone napo-
 noane a tre voci Secondo Libro di Giulio Bonagiunta da S. Genesi et d'altri auttori,
 I Vatnente poste m luce con due Canzone alla giustinìana di Vicenzo Bell'haver.
 n Vmegia 1566 appresso Girolamo Scotto.

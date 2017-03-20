@@ -12,7 +12,7 @@ l-Vnm: C.A.T.B.5.
 GB-lcm: A.T.5.
 l-de: A.B.Bc.
 
-1019 - FREDDI Amadio (1605) _ Di Amadio Freddi padovano il Primo Libro
+1019 - FREDDI Amadio (1605) - Di Amadio Freddi padovano il Primo Libro
 de Madrigali a sei voci. Nuovamente composti, et dati in lucc. ln Venetia appresso
 Ricciardo Amadino. 1605.
 
@@ -44,7 +44,7 @@ D-Hs: compl.
 F-Pmeyer: C
 A-Wn: B.
 
-1020 - (De) FRED1ANI Frediano (1585) _ Il Secondo Libro delle Villanelle a
+1020 - (De) FRED1ANI Frediano (1585) - Il Secondo Libro delle Villanelle a
 quattro ma, di Frediano de' Frediani cittadino di Luca, servitore del screnissimo
 Signor duca di Savoia. Al sereniss. sig. Guglielmo Gonzaga, duca di Mantova. ln
 Brescra, a lnstanza di Tomaso Bozzola, 1585. Con licenza de' Superiori.

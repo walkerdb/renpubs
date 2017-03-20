@@ -1,4 +1,4 @@
-1119 _. GENTILE Ortensio (1616) _ Il Primo Libro de Madrigali a cinque voci
+1119 _. GENTILE Ortensio (1616) - Il Primo Libro de Madrigali a cinque voci
 di Ortensio Gentile con un Madrigale, in modo di Sinfonia, et una Romanesca a
 quattro. Dedicato al serenissimo signor il sig. duca D. Ferdinando Gonzaga duca
 di Mantova, et di Monferato, etc. In Venetia, apresso Giacomo Vincenti. 1616.
@@ -38,7 +38,7 @@ A 4. Torna. deh torna, pargoleuo mio. torna che senza te. Romanesca con il basso
 GB-Lwa: compl.
 GB-Och: compl.
 
-1120 - GENVINO Francesco_(l605) _ Libro Secondo di Madrigali a cinquclgsCi
+1120 - GENVINO Francesco_(l605) - Libro Secondo di Madrigali a cinquclgsCi
 di Francesco Genvino napolitano. In Napoli, appresso Gio. Battista Sottile. -
 Con licenza de' Superiori.
 

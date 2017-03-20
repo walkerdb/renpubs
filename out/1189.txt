@@ -3,7 +3,7 @@ US-Wc: compl.
 D-Rp: C.A.T.5.
 l-Rc: C.B.5.
 
-1903 _ MONTEVERDI Claudio (1590) _ Il Secondo Libro de Madrigali a
+1903 - MONTEVERDI Claudio (1590) - Il Secondo Libro de Madrigali a
 cinque voci di Claudio Monteverde cremonese discepolo del signor Ingegneri.
 Novamente posti in luce. In Venetia appresso Angelo Gardano. 1590.
 
@@ -16,7 +16,7 @@ E dicea l'una sospirand'allhora (seconda parte) " 2
 Bevea Fillide mia e nel ber, dolcemente baci al dolce liquor (Casone) 3
 Dolcissimi legami di parole amorose (Tasso) 4
 Non giacinli o narcisi, ma piccioletti fior siamo (Casone) 5
-intorno a due vermiglie : vaghe labra _ 6
+intorno a due vermiglie : vaghe labra - 6
 Non sono in qucste rive fiori così vermigli (TRS-W) 7
 Tutte le bocche belle in questo nero volto 8
 Donna, nel mio ritorno il mio pensiero (Tasso) 9
@@ -35,7 +35,7 @@ Cantai un tempo e se fu dolc'il canto, questo mi laccrò (Bembo) 21
 A-Wn: T.D.S.
 GB-Lbm: 5.
 
-1904 - MONTEVERDI Claudio (1607) _ Il Secondo Libro de Madrigali a
+1904 - MONTEVERDI Claudio (1607) - Il Secondo Libro de Madrigali a
 Cinque voci di Claudio Monteverde cremonese novamente con ogni diligenza
 °°ſſett0, ct ristampato. In Venetia, appresso Alessandro Raverii. 1607.
 

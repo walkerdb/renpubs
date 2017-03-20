@@ -3,7 +3,7 @@ Sostien vago stromento e lo percote con dotta man 22
 
 I-Bc : compl.
 
-488 _ CAPUANA Mario (1647) _ Sacre armonie a tre voci con Basso continuo
+488 - CAPUANA Mario (1647) - Sacre armonie a tre voci con Basso continuo
 per sonar il Clavicembalo o altro stromento di Mario Capuana maestro di cappella
 dell'illustrissimo senato, e del duomo della città di Noto. Opera Prima. Nuovamente
 ristampata. Con privilegio. In Venetia, appresso Alessandro Vincenti. 1647.
@@ -40,7 +40,7 @@ A 3. Le tue guancie hor che s'infiorano. A.T.B. e due Violini
 I-Bc : compl.
 PL-WRu : T.B.Bc.
 
-489 _ CAPUTI Giovanni Battista (1640) _ Canzonette Spirituali a tre voci. Con
+489 - CAPUTI Giovanni Battista (1640) - Canzonette Spirituali a tre voci. Con
 il Basso continuo. Di Gio. Battista Caputi napolitano. Qpera Seconda. In Napoli,
 appresso Ottavio Beltrano, 1640. Con licenza de' Superiori.
 

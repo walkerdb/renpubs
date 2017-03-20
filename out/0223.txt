@@ -1,4 +1,4 @@
-347 _ BERTANI Lelio (1585) _ Di Lelio Bertani, maestro della musica del domo
+347 - BERTANI Lelio (1585) - Di Lelio Bertani, maestro della musica del domo
 di Brescia, il Primo Libro de' Madrigali a sei voci, novamente stampati. In Venetia
 
 appresso Angelo Gardano. 1585.
@@ -33,7 +33,7 @@ D-HR: B.
 GB-Lbm: 5.
 l-Vnm: 5.
 
-348 - BERTANI Lelio (1607) _ Di Lelio Bertani, maestro della musica del domo
+348 - BERTANI Lelio (1607) - Di Lelio Bertani, maestro della musica del domo
 dl Brescia, il Primo Libro de Madrigali, a sei voci. Novamente ristampati. In
 Venetia. Appresso Angelo Gardano, et fratelli. 1607.
 
@@ -41,7 +41,7 @@ Venetia. Appresso Angelo Gardano, et fratelli. 1607.
 
 A-Wn : A.B.5.
 
-349 _ BIERTANI Lelio - ANTEGNATI Costanzo (1585) _ Madrigali spirituali,
+349 - BIERTANI Lelio - ANTEGNATI Costanzo (1585) - Madrigali spirituali,
 e.tre voc1 di Lelio Bertani, maestro della musica, et di Costanzo Antegnati orga-
 nlsta nel duomo di Brescia. Alli molto reverendi padri osservandissimi, il R. padre
 

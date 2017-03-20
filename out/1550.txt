@@ -5,7 +5,7 @@ I-VEaf: B.
 F-Pm: 5.
 RISM, I 1557-25.
 
-2488 _ RUFFO Vincenzo (1555) _ Di Vicenzo Ruffo il Terzo Libro di Madrigali
+2488 - RUFFO Vincenzo (1555) - Di Vicenzo Ruffo il Terzo Libro di Madrigali
 a cinque voci, con la giunta di cinque Madrigali del medesimo, et di alcuni altri
 diversi autori, novamente dato in luce. A cinque voci. In Pesaro appresso Barto-
 
@@ -32,7 +32,7 @@ Veggio ben quanto l'odio si rinforza 12
 S'io \'i son importun'ad hora (seconda parte) 13
 Valle, che di lamenti miei sei piena (Petrarca) "
 O di rara bellezz'unica et sola. Di Vincenzo Ferro 15
-D'amor le generose et alt'imprese _ _ 16
+D'amor le generose et alt'imprese - _ 16
 Cor mio, perchè pur piangi, a che ti struggi? Di Vincenzo Ferro (Guarini) 17
 Qual mai più vagh'et bella donna. Di Arc/mdel! "
 Perchè piangi, alma, se col pianto mai fin non speri. Di Vincenzo Ferro
@@ -46,7 +46,7 @@ Nacque nell'alm'intanto (seconda parte) 24
 Quand'io pens'al gravoso mio martire. Di Fram-erro Rosselli 25
 Dunque. morte crude], in tutt'hai sciolto. Di Ioan Pionnier 27
 
-lo chi con mille frodi m'ho difeso. Di Fr. Roue/Ii . _ _ _ D
+lo chi con mille frodi m'ho difeso. Di Fr. Roue/Ii . - _ - D
 Pianget'occhi miei lassi, piangete il vosrr'errore. Di Andrea Gabriel! (POÌ'ZHM) 30
 Fugga'l dolor et l'intensi sospiri cangin albergo
 

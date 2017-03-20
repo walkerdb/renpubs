@@ -1,4 +1,4 @@
-695 _ DE BELLIS Giovanni Battista (1614) .. Di D. Gio. Battista De Bellis da
+695 - DE BELLIS Giovanni Battista (1614) .. Di D. Gio. Battista De Bellis da
 Itri organista. Il Secondo Libro de Madrigali a cinque voci. In Napoli, nella
 stampa di Gio: Battista Gargano, et di Lucretio Nucci 1614. Con licenza de'
 Superiori.
@@ -33,7 +33,7 @@ I-Bc: compl.
 
 F-Pn (prov. Thibault): compl.
 
-696 _ DE BELLIS Giovanni Battista (1632) _ Di Gio. Battista Dc Bellis il Terzo
+696 - DE BELLIS Giovanni Battista (1632) - Di Gio. Battista Dc Bellis il Terzo
 Libro di Madrigali a cinque voci. Con licenza de' Superiori. In Napoli, appresso
 Ottavio Beltrano 1623.
 

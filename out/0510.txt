@@ -7,7 +7,7 @@ l-Be: C.A.
 I-PS: A. (solo pag. 9-31).
 l-Rsc: C.
 
-769 _ DE MONTE Filippo (1586) _. Di Filippo di Monte maestro di capella
+769 - DE MONTE Filippo (1586) _. Di Filippo di Monte maestro di capella
 della sacra cesarea maestà dell'imperatore Rodolfo Secondo. L'Ottavo Libro delli
 Madrigali, a cinque voci. Novamente ristampati. In Vinegia appresso l'herede di
 Girolamo Scotto. 1586.
@@ -20,7 +20,7 @@ I-PS: B.5.
 US-BE: C.
 F-TLm: A.
 
-770 - DE MONTE Filippo (1580) _ Di Filippo Di Monte maestro di capella
+770 - DE MONTE Filippo (1580) - Di Filippo Di Monte maestro di capella
 della sacra cesarea maestà dell'imperatore Rodolfo Secondo. Il Nono Libro de
 Madrigali a cinque voci. Novamente posti in luce. ln Vineggia, appresso l'herede
 di Girolamo Scotto. 1580.

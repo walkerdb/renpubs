@@ -1,4 +1,4 @@
-2132 .. PALLAVICINO Benedetto (1603) _ Di Benedetto Pallavicino servitore
+2132 .. PALLAVICINO Benedetto (1603) - Di Benedetto Pallavicino servitore
 del serenissima signor duca di Mantova. 11 Primo Libro de Madrigali a sei voci.
 Novamente ristampati, et corretti. In Venetia, appresso Giacomo Vincenti. 1603.
 
@@ -8,7 +8,7 @@ Novamente ristampati, et corretti. In Venetia, appresso Giacomo Vincenti. 1603.
 F-Pn: enmpl
 F-Pmcyer: C.
 
-2133 _ PALLAVICINO Benedetto (1606) _ Di Benedetto Pallavicino scrvitorc
+2133 - PALLAVICINO Benedetto (1606) - Di Benedetto Pallavicino scrvitorc
 del sereniss. signor duca di Mantova Madrigali a sei voci novamente stampati.
 In Anversa appresso Pietro Phalesio 1606.
 
@@ -22,7 +22,7 @@ F-Psg: T.B5.
 GB-Lbm: T.
 NL-At: 5.
 
-2134 _ PALMIERO Salustio (1607) _ Madrigali a cinque voci Libro Prim? _di
+2134 - PALMIERO Salustio (1607) - Madrigali a cinque voci Libro Prim? _di
 donno Salustio Palmiero della città d'Acerenza. Novamente composti, et dati m
 luce. In Venetia, appresso Giacomo Vincenti. 1607.
 

@@ -21,7 +21,7 @@ l-Fn: compl.
 I-Nc: compl.
 GB-Lbm: C.A.T.B.
 
-2289 - PULITI Gabriello (1612) _ Ghirlanda odorifera di varij fior tessuta, cioè
+2289 - PULITI Gabriello (1612) - Ghirlanda odorifera di varij fior tessuta, cioè
 Mascherate a tre voci Libro Primo di Gabriello Puliti da Montepulciano organista
 nel duomo della molto illustre citta di Trieste, Accademico Armonico detto
 l'Allcgro, al molto illustre, et eccellentissimo signor Tranquillo. Negri d'Alboaa-
@@ -43,7 +43,7 @@ Ancor ch'al parturire al si stent'al murire. Dottor Gratian da Francolm. Trasmut
 [di Ciprian di Rom.-Ancor che col partire 7
 Non favorite queste donne ing-rate con tante spasseggiate. Amanti . 8
 O la bella brigada, hù hù spazzacami nu sem dalla vallada. Spazzacamin 9
-Vccchictti inamorai nu semo, care fic. Pantaloni inamorai _ 10
+Vccchictti inamorai nu semo, care fic. Pantaloni inamorai - 10
 Con quel vostro chiù chiù a fè, cor mio, non canterete più. Gobbi 11
 All'insalata, o donne. Ecco a voi dc nostri orti portiam. Ortolani 12
 

@@ -1,5 +1,5 @@
 ' ' ' ' Venosa. Libro
-- GESUALDO Carlo (1611) _ Madrigali a Cinque voc1 del
+- GESUALDO Carlo (1611) - Madrigali a Cinque voc1 del
 113260. Novamente ristampato. ln Venetia. Appresso Angelo Gardano, et fra-
 telli. 1611.
 
@@ -18,7 +18,7 @@ I-Bc: C.
 
 l-Rsc: C.
 
-'1167 - GESUALDO Carlo (1619) _ Madrigali a cinque voci 'del Venosa Libro
+'1167 - GESUALDO Carlo (1619) - Madrigali a cinque voci 'del Venosa Libro
 Terzo. Novamente ristampato. Stampa del Gardano in Venetia 1619. Appresso
 Bartholomeo Magni. '
 
@@ -33,7 +33,7 @@ I-Bc: T.B.
 
 US-CA: T.
 
-1168 - GESUALDO Carlo (1596) _ Madrigali a cinque voci. Libro Quarto. In
+1168 - GESUALDO Carlo (1596) - Madrigali a cinque voci. Libro Quarto. In
 Ferrara, per Vittorio Baldini stampator ducale. 1596.
 5 fasc. in 8° (C.A.T.B.5.), pag. 23. Ded. di Hettore Gesualdo a D. Carlo Gesualdo: "Questi son
 
@@ -47,7 +47,7 @@ A 5. Luci serene e chiare, voi m'incendele voi. ma prova il core 1
 " " Che fai meco, mio cor, misero e solo? Deh vanne homai 5
 " " Questa crudele e pia piange al mio pianto 6
 " " Hor ch'in gioia eredea viver contento, m'apre la gioia 7
-" " O sempre crud'amore nella gioia (seconda parte) _ _ 8
+" " O sempre crud'amore nella gioia (seconda parte) - _ 8
 " " Cor mio. deh non piangete, ch'altra pena non sento (Guarini) 9
 " " Dunque non m'offendete se sanar (seconda parte) " 10
 " " Sparge la morte al mio signor nel viso tra squallidi pallori 10

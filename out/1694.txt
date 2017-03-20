@@ -9,7 +9,7 @@ A 2. Silenlio amico e taciturni \'enti 25
 I-Bal: compl.
 I-Bc: compl.
 
-2708 _ TARONI Antonio (1612) _ 1] Primo Libro de Madrigali a cinque voci.
+2708 - TARONI Antonio (1612) - 1] Primo Libro de Madrigali a cinque voci.
 Con due 21 otto nel fine. Di Antonio Taroni mantovano novamente con diligentia
 ristampati. In Venetia appresso Ricciardo Amadino. 1612.
 
@@ -27,10 +27,10 @@ A 5. Crudelissimi baci, ahimè non \"accorgete che sotto'l dulce vostro 1
 " " Credete voi ch'i' viva, pascend'il cor famelico " "
 " " lo moro. ecco ch'io moro, bella nemica mia. t'offesi assai (Marino) 11
 " " Eccomi pronl'ai baci. Baciami, Ergasto mio " B
-" " Fuggi. fuggi. dolor. (la questo petto, hor che \'i torna la gioiosa spene _ . l'.
+" " Fuggi. fuggi. dolor. (la questo petto, hor che \'i torna la gioiosa spene - . l'.
 " " Ardo sì, ma non t'amo, perfida e dispietata (Guarini) h
 " " Ardi e gela a tua voglia, perfido et impudico. Risposta (Tasso) 16
-" " Che sia partito il sole, ahi posso dir. poichè partita sei _ _ :;
+" " Che sia partito il sole, ahi posso dir. poichè partita sei - _ :;
 A 8. Al parlir del mio sole pianzi la vista sua. la vita mia (Guarini)
 
 " " O de l'anima mia posseditrice sola, o Filli adorna %
@@ -40,7 +40,7 @@ I-Bc: compl.
 
 oci con
 
-2709 _ TARONI Antonio (1622) _ Primo Libro de Madrigali a cinque vristam'
+2709 - TARONI Antonio (1622) - Primo Libro de Madrigali a cinque vristam'
 
 due a otto nel fine di Antonio Taroni mantovano novamente con diligentia
 pati. Stampa del Gardano. In Venetia 1622. Appresso Bartholomeo Magm-
@@ -49,7 +49,7 @@ pati. Stampa del Gardano. In Venetia 1622. Appresso Bartholomeo Magm-
 l-Nc: compl.
 
 . . - - i
-2710 - TARONI Antonio (1612) _ Secondo Libro dl Madrigali a cquC V",
+2710 - TARONI Antonio (1612) - Secondo Libro dl Madrigali a cquC V",
 
 . . . i et dau
 con due a otto nel fine. Dl Antonio Taronl mantovano novamente compoSt

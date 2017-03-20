@@ -1,4 +1,4 @@
-2136 _ PARABOSCO Girolamo (1546) _ Parabosco Madrigali a cinque voci di
+2136 - PARABOSCO Girolamo (1546) - Parabosco Madrigali a cinque voci di
 Girolamo Parabosco discipulo di M. Adriano novamente da lui composti et posti
 in luce. A cinque voci. In Venetia apresso di Antonio Gardane. 1546.
 
@@ -47,7 +47,7 @@ I-Bc: A.T.
 l-MOe: H.
 GB-Lbm: B.
 
-2137 _ PARATICO Giuliano _ Canzonette a tre voci, di Giuliano Paratico
+2137 - PARATICO Giuliano - Canzonette a tre voci, di Giuliano Paratico
 bresciano. In Brescia, presso Pie. Maria Marchetti. (anteriore al 1588).
 
 3 fax. in 8° (C.T.B.), pag. 24.

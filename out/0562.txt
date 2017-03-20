@@ -1,4 +1,4 @@
-844 _ DONATI Ignazio (1630) _ Le Fanfalughe a due, tre, quattro, et cinque
+844 - DONATI Ignazio (1630) - Le Fanfalughe a due, tre, quattro, et cinque
 voci del signor D. lgnatio Donati maestro di capella del domo di Lodi. Raccolte
 (la me Alessandro Vincenti. Con licenza de' Superiori, ct privilegio. Dedicate al
 molto reverendo padre F. Carlo Milanuzii da Santa Natoglia baccelliere in Sacra
@@ -45,7 +45,7 @@ PL-WRu: C.l°, B. per sonare.
 
 GB-Lbm: B., B. per sonare.
 
-845 _ DONATO Baldassarre - CAMBIO Perissone (1550) _ Di Baldissera Donato
+845 - DONATO Baldassarre - CAMBIO Perissone (1550) - Di Baldissera Donato
 il Primo Libro di Canzon villanesche alla napolitana a quattro voci novamente da
 lui composte et date in luce et per Antonio Gardane con ogni diligentia stampate.
 Aggiontovi anchora alcune Villote di Perissone a quatro con la Canzon €

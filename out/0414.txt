@@ -1,4 +1,4 @@
-612 - CONVERSI Girolamo (1585) _ Il Primo Libro delle Canzoni a cinque voci
+612 - CONVERSI Girolamo (1585) - Il Primo Libro delle Canzoni a cinque voci
 di Girolamo Conversi da Correggio novamente ristampate. In Vincgia, appresso
 l'herede di Girolamo Scotto, 1585.
 
@@ -8,7 +8,7 @@ l-MOe: compl.
 F-Pc: T.
 I-Bc: B.
 
-613 _ CONVERSI Girolamo (1589) _ Il Primo Libro delle Canzoni a cinque voci
+613 - CONVERSI Girolamo (1589) - Il Primo Libro delle Canzoni a cinque voci
 di Girolamo Conversi da Coreggio. Novamente ristampate. ln Vinegia appresso
 l'herede di Girolamo Scotto. 1589.
 
@@ -17,7 +17,7 @@ l'herede di Girolamo Scotto. 1589.
 B-Br: compl.
 US-Wc : C.T.
 
-614 _ CONVERSI Girolamo (1584) _ Il Primo Libro de Madrigali a sei voci. di
+614 - CONVERSI Girolamo (1584) - Il Primo Libro de Madrigali a sei voci. di
 Gironimo Conversi da Correggio. Novamente ristampati. In Vinegia appresso ibe-
 rede di Girolamo Scotto. 1584.
 

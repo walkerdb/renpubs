@@ -1,4 +1,4 @@
-339 _tARCHADELT ]acques (1617-2) _ Archadelt il Primo Libro de' Madrigali.
+339 _tARCHADELT ]acques (1617-2) - Archadelt il Primo Libro de' Madrigali.
 qua ro voc1 novamente ristampato, et corretto. In Venetia, appresso Ricciardo
 
 Amadino. 1617.
@@ -7,7 +7,7 @@ Amadino. 1617.
 I-Bc: B.
 RISM, I 1617-10.
 
-140 _ ARCHADELT ]acques (1620) _ Archadelt il Primo Libro de' Madrigali
+140 - ARCHADELT ]acques (1620) - Archadelt il Primo Libro de' Madrigali
 a quattro voc1 novamente ristampato, e corretto. In Bracciano appresso Andrea
 Fei stampator ducale. 1620. Con Licenza de' Superiori. Ad istanza di Gio Dome-
 nico Franzmi. .
@@ -16,7 +16,7 @@ nico Franzmi. .
 
 D-MÜs: A.
 
-141 _ AR_CH{\DELT ]acqucs - GIOVANNI DOMENICO da Nola (1625) -
+141 - AR_CH{\DELT ]acqucs - GIOVANNI DOMENICO da Nola (1625) -
 Archadelt 11 Primo Libro de' Madrigali a quattro voci, novamente ristampato con
 la giunta di alcuni di Gio. Domenico di Nola; et di più la presente mano per più
 comodità. A1 molto illustr. et signor mio osservandissimo il signor Gio Francesco

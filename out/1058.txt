@@ -16,7 +16,7 @@ GB-Lbm: C.
 F-Pmcyer: B.
 I-BRq: B.
 
-1705 _ MARENZIO Luca (1591) _ Di Luca Marcnzio il Quinto Libro delle
+1705 - MARENZIO Luca (1591) - Di Luca Marcnzio il Quinto Libro delle
 Villanellc a tre voci con una a quattro. Raccolto da Attilio Gualtieri. Novamente
 ristampato. In Vinegia, 1591. Appresso l'herede di Girolamo Scotto.
 
@@ -31,7 +31,7 @@ l-Fn: T.
 
 l-Rsc: B.
 
-1706 _ MARENZlO Luca (1600) _ Il Quinto Libro delle Vìllanelle et Aric
+1706 - MARENZlO Luca (1600) - Il Quinto Libro delle Vìllanelle et Aric
 alla napolitana a tre voci di Luca Marenzio di novo ristampate, et con diligcl'lza
 corrette. In Venetia. Appresso Angelo Gardano. 1600.
 

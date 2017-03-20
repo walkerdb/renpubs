@@ -9,7 +9,7 @@ F-Pthibault: compl.
 GB-Lbm: compl.
 Un cscmpl. compl. era nella Collezione Heyer (li Koln.
 
-1915 _ MONTEVERDI Claudio (1605) _ Il Quarto Libro de Madrigali a
+1915 - MONTEVERDI Claudio (1605) - Il Quarto Libro de Madrigali a
 cinque voci. Di Claudio Monteverde maestro della musica del sereniss. sig. duca
 di Mantova. Novamente con ogni diligentia ristampato. In Venetia, appresso
 Ricciardo Amadino. 1605.
@@ -23,7 +23,7 @@ D-Bds: B.
 I-Fr: 5.
 GB-Lroscnlhal: B.
 
-1916 - MONTEVERDI Claudio (1607) _ 11 Quarto Libro de Madrigali a cinque
+1916 - MONTEVERDI Claudio (1607) - 11 Quarto Libro de Madrigali a cinque
 voci. Di Claudio Monteverde maestro della musica del sereniss. sig. duca di
 Mantova. Novamente con ogni diligentia ristampato. In Venetia, appresso Ric-
 
@@ -33,7 +33,7 @@ ciardo Amadino. 1607.
 l-V15c:tp: compl.
 D-Bds: G.B.
 
-1917 _ MONTEVERDI Claudio (1611) _ Il Quarto Libro de Madrigali a cinque
+1917 - MONTEVERDI Claudio (1611) - Il Quarto Libro de Madrigali a cinque
 voct. Di Claudio Monteverde maestro della musica del serenissimo sign0ſ duca
 dl. Mantova. Novamente con ogni diligentia ristampato" In Venetia, appresso
 Rlcciardo Amadino. 1611.

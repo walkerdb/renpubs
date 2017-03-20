@@ -30,7 +30,7 @@ PL-WRu: compl.
 
 GB-Lbm: B., Viol. e B. da sonare.
 
-2510 _ SABBATINI Pietro Paolo (1628) _ Il Sesto di Pietro Paolo Sabatini
+2510 - SABBATINI Pietro Paolo (1628) - Il Sesto di Pietro Paolo Sabatini
 maestro di cappella dell'Archiconfratcrnita della Morte et Oration di Roma. Opera
 Ottava. In Bracciano. Per Andrea Fei stampator ducale. 1628.
 
@@ -54,7 +54,7 @@ A ]. Dimmi, già che novello a te vengo, gran madre degl'heroi. Proposta. Al Car
 " " Ardenti miei sospiri, spirti del cor lang-uenti. Con lettere per Chitarra "
 " " O ciel, che mi nasconde l'orgogliosa guerriera 11
 " " Altro che sospirar non fò la nottet e'l dì 13
-" " Per due vezzosi lumi altr'alma si consumi . _ _ 14
+" " Per due vezzosi lumi altr'alma si consumi . - _ 14
 " " Vorrai Laurilla mia, viver solett'ancora. Dialogo di Tirsi e Laurilla. Tirsi 15
 " " 0 mio bramato Trisi. Laurilla (seconda parte) ]6
 A Z. Godiam dunque concordi. Tirsì e Laurilla "

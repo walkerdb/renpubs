@@ -13,7 +13,7 @@ PL-GD: C.A.T.S.
 A-Wn: C.T.5.
 US-Cn: T.
 
-2636 _ SPONTONI Bartolomeo (1558) _ Di Bartolomeo Spontonc il Primo
+2636 - SPONTONI Bartolomeo (1558) - Di Bartolomeo Spontonc il Primo
 Libro, di Madrigali a quattro voci, nuovamente da lui composti. Et con somma
 diligenza stampati, et corretti. In Vinegia, appresso Girolamo Scoto. 1558.
 
@@ -54,7 +54,7 @@ Se ben di sette stell'ardent'e belle ti cing'il biondo crin (B- Tassa) 3
 
 Se non mi fosse nata paur'e gelosia al cor,amorc, della donna mia 21
 
-Donna, se l'aspra pena e quel grave martire, ch'alla morte mi mena _ 22
+Donna, se l'aspra pena e quel grave martire, ch'alla morte mi mena - 22
 
 E dove non potea la debil voce, suppliva il pianto (AriostO) B
 Ma i venti, che portavano le vele (seconda parte) " 24

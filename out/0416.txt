@@ -6,7 +6,7 @@ GB-Lbm: C.A.5.
 I-VEaf: C.B.
 I-Sac: T.
 
-616- CORFINI Iacopo (1568) _ Di Iacopo Corfini organista del domo di Lucca
+616- CORFINI Iacopo (1568) - Di Iacopo Corfini organista del domo di Lucca
 il Secondo Libro de Madrigali a cinque voci, novamente da lui composti, et per
 Antonio Gardano posti in luce. A cinque voci. In Venetia appresso di Antonio
 
@@ -44,7 +44,7 @@ A 8. Voi sete, occhi, cagion della mia vita. Dialogo
 
 I-Bc: A.T.B.5.
 
-617... CORFINI Iacopo (1575) _ Di Iacopo Corfini organista del duomo di LucCa
+617... CORFINI Iacopo (1575) - Di Iacopo Corfini organista del duomo di LucCa
 il Primo Libro de Madrigali a sei voci. Nuovamente posti in luce. In Vincggia'
 Appresso l'herede di Girolamo Scotto 1575.
 

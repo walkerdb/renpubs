@@ -1,4 +1,4 @@
-2245 _ PORTA Costanzo (1573) _ Di Costantio Porta il Terzo Libro de Madri-
+2245 - PORTA Costanzo (1573) - Di Costantio Porta il Terzo Libro de Madri-
 gali a cinque voci novamente composti et dati in luce. A cinque voci in Venetia
 apresso lì figliuoli di Antonio Gardano. 1573.
 
@@ -41,7 +41,7 @@ I-Bc: compl.
 l-Fn : compl.
 l-MOe: C.A.T.5.
 
-2246 - PORTA Costanzo (1586) _ Di Constanzo Porta il Quarto Libro de
+2246 - PORTA Costanzo (1586) - Di Constanzo Porta il Quarto Libro de
 Madrigali a cinque voci, novamente da Marsilio Cristoffori raccolti, et dati in
 luce. Al molto illustre et reverendiss. monsig. Biagio Cangi dignissimo coppiere
 dl Nostro Signore. In Venetia appresso Angelo Gardano 1586.

@@ -6,7 +6,7 @@ A 3. O belle lagrimette, che da gl'occhi e dal viso. Madrigale (Marino) 24
 A 4. O sante cicatrici del santo innamorato " 6
 l-Rsc
 
-569 _ CIFRA Antonio (1605) _ Il Primo Libro de Madrigali a V. voci. D'Antoni?
+569 - CIFRA Antonio (1605) - Il Primo Libro de Madrigali a V. voci. D'Antoni?
 Cifra romano, novamente composti e dati in luce. In Roma, appresso Luigi Zanetti-
 1605. Con licenza de' Superiori.
 
@@ -40,7 +40,7 @@ Quando i vostri begli occhi un caro velo semplicett'e bianco (SannazzarO) B
 1-Nc: compl.
 l-Sac : A.S.
 
-570 - CIFRA Antonio (1608) _ D'Antonio Cifra maestro di cappella del Semi
+570 - CIFRA Antonio (1608) - D'Antonio Cifra maestro di cappella del Semi
 nario Romano il Secondo Libro de' Madrigali a cinque voci, nuovamente composn'
 ct dati in luce. ln Venetia, appresso Giacomo Vincenti, 1608.
 

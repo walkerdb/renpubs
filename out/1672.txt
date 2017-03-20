@@ -1,4 +1,4 @@
-2670 _ STRIGGIO Alessandro (1596) _ Il Quarto Libro de Madrigali a cinque
+2670 - STRIGGIO Alessandro (1596) - Il Quarto Libro de Madrigali a cinque
 voci del sig. Alessandro Striggio gentil'huomo mantovano, novamente posto in
 luce. Con privilegio. In Venetia appresso Angelo Cardano. 1596.
 
@@ -30,7 +30,7 @@ Candida era la rosa, ma la tinse (seconda parte) " 11
 l-MOc: compl.
 l-Vnm: T.
 
-2671 _ STRIGGIO Alessandro (1597) _ Il Quinto Libro dc Madrigali a cinque
+2671 - STRIGGIO Alessandro (1597) - Il Quinto Libro dc Madrigali a cinque
 voci del signor Alessandro Striggio gcntil'huomo mantovano. Novamente posto …
 luce. Con privilegio. In Venetia appresso Angelo Gardano. 1597.
 

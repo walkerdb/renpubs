@@ -28,7 +28,7 @@ GB-Lbm: C.T.
 
 RISM, I 1592-21 (non compl.).
 
-2624 - SORTE Bartolomeo (1573) _ Di Bartolomeo Sorte padovano. Il Primo
+2624 - SORTE Bartolomeo (1573) - Di Bartolomeo Sorte padovano. Il Primo
 Libro de Madrigali a quatro cinque, et sei voci, con doi Dialoghi a sette novamente
 composti et dati in luce. In Venetia apresso li figliuoli di Antonio Gardano. 1573.
 
@@ -46,7 +46,7 @@ A 4. Voi mi poncsti in foco per farmi anz'il mio di, donna, perire. Canzon (Bemb
 " " Venite, amanti, insiemc a pianger forte sopr'al mio corpo morto 8
 " " Tristo colui ch'amor crudelle afferra (seconda parte) 9
 " " O fortunato augello, poi che morir ti lice per man di quella fiera lO
-" " La rondinella garul'e leggiera era venuta _ 11
+" " La rondinella garul'e leggiera era venuta - 11
 " " Cantan fra rami gl'augelletti vaghi, azuri e bianchi, rossi, verdi (Ariosto) 12
 " " lo non saprei mai dir perchè mi doglia del foco che m'incende (Cassola) 13
 " " Ma chi'l dirà per me (seconda parte) " 13

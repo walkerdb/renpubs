@@ -1,6 +1,6 @@
 S'un mcdesimo ardor, s'un desir pare (Ariosto) 10
 
-Se quel crudel dolore e l'aspra pena _ 11
+Se quel crudel dolore e l'aspra pena - 11
 Hor che la fralc e mortal gonna (Pensabene) 11
 
 A me l'arco, gli strai d'oro pungenti (seconda parte) " 13
@@ -31,7 +31,7 @@ GB-Lbm: C.T.
 l-VEaf : A.T.
 I-Nn: C.
 
-2010 _ NATALI Pompeo (1656) _ Madrigali a tre voci pare di D. Pompeo
+2010 - NATALI Pompeo (1656) - Madrigali a tre voci pare di D. Pompeo
 Natali dedicati all'illustrissimo signor Ulderico Fiume conte di Sterpeto. In Roma,
 per Mauritio Balmonti. 1656. Con licenza de' Superiori.
 

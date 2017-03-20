@@ -8,7 +8,7 @@ l-Mc: C.
 
 l-Oc: T. (diſ…).
 
-788 - DE MONTE Filippo (1571) _ Di Filippo Di Monte, maestro della S.C.
+788 - DE MONTE Filippo (1571) - Di Filippo Di Monte, maestro della S.C.
 maestà dell'imperatore Massimiliano Secondo il Secondo Libro delli Madrigali, a
 sei voci. Di nuovo da lui composti et dati in luce. In Vinegia, appresso Girolamo
 
@@ -19,7 +19,7 @@ GB-Ckc: C.
 l-Rsc: A.
 GB-Lbm: 5.
 
-789 - DE MONTE Filippo (1576) _ Di Filippo Di Monte maestro di capella
+789 - DE MONTE Filippo (1576) - Di Filippo Di Monte maestro di capella
 della S.C. maestà dell'imperatore Massimiliano Secondo il Secondo Libro delli
 Madrigali, a sei voci. Di nuovo ristampati. In Vineggia. Appresso l'hcrede di
 Girolamo Scotto. 1576.
@@ -35,7 +35,7 @@ F-G: A.
 
 F-Pn: B.
 
-790 - DE MONTE Filippo (1582) _ Di Filippo Di Monte maestro di capella
+790 - DE MONTE Filippo (1582) - Di Filippo Di Monte maestro di capella
 della S.C. maestà dell'imperatore Massimiliano Secondo. Il Secondo Libro delli
 Madrigali, a sei voci. Di nuovo ristampati. In Vineggia, appresso l'hcredc di
 Girolamo Scotto. 1582.

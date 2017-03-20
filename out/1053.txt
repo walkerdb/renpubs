@@ -3,7 +3,7 @@ D-Rp: compl.
 GB-Lbm: T.B.
 I-Rsc: B.
 
-1697 _ MARENZIO Luca (1597) _ Il Terzo Libro delle Villanelle et Arie
+1697 - MARENZIO Luca (1597) - Il Terzo Libro delle Villanelle et Arie
 alla napolitana, a tre voci, di Luca Marentio novamente ristampate, et corrette.
 In Venetia, appresso Giacomo Vincenti 1597.
 
@@ -17,7 +17,7 @@ I-Rsc: B.
 
 D-MZp: B.
 
-1698 _ MARENZIO Luca (1600) _ Il Terzo Libro delle Villanelle et Arie alla
+1698 - MARENZIO Luca (1600) - Il Terzo Libro delle Villanelle et Arie alla
 napolitana a tre voci di Luca Marenzio di novo ristampate, et con diligenza
 corrette. In Venetia, appresso Angelo Gnrdano. 1600.
 

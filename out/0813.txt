@@ -1,4 +1,4 @@
-1275 _ GRANDI Alcssandro (162,2) _ Madrigali concertati a due, tre, e quattro
+1275 - GRANDI Alcssandro (162,2) - Madrigali concertati a due, tre, e quattro
 voci per cantar, e sonar nel Clavicembalo, Chittarone, o altro simile stromento di
 Alessandro Grandi vice maestro di capella, della serenissima Signoria di Venetia
 in San Marco. Nuovamente in questa quarta impressione corretti et ristampati.
@@ -12,7 +12,7 @@ l-MOc: compl.
 D-Hs : compl.
 1-Bc:
 
-1276 - GRANDI Alessandro (1626) _ Madrigali concertati a due, tre, e quattro
+1276 - GRANDI Alessandro (1626) - Madrigali concertati a due, tre, e quattro
 voci per cantar, e sonar nel Clavicembalo, Chitarrone, o altro simile stromento
 di Alessandro Grandi nuovamente in questa quarta impressione corretti, et ristam-
 pati. Con privilegio. In Venetia, appresso Alessandro Vincenti. 1626.
@@ -28,7 +28,7 @@ F-Pc: C.A.T.B.
 PL-WRu: A.T.B., B principale.
 I-BGc: B.
 
-1277 - GRANDI Alessandro (1622) _ Madrigali concertati a due, tre, et quattro
+1277 - GRANDI Alessandro (1622) - Madrigali concertati a due, tre, et quattro
 voci per cantar e sonar nel Clavicembalo, Chitarrone, o altro simile stromento
 di Alessandro Grandi vice maestro di capella della serenissima Signoria di Venetia
 in San Marco. Nuovamente composti et dati in luce. Con privilegio. Libro Secondo.

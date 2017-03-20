@@ -23,7 +23,7 @@ US-BE: T.
 
 RISM, [ 1591-21 (non compl.).
 
-1666 _ MARENZIO Luca (1595-1) .. Di Luca Marcnzio, il Quinto Libro de
+1666 - MARENZIO Luca (1595-1) .. Di Luca Marcnzio, il Quinto Libro de
 Madrigali a sei voci. Novamcnte ristampato. In Venetia appresso Angelo Gar-
 dano. 1595.
 
@@ -42,7 +42,7 @@ F-Pc: C.
 GB-Lbm: A.
 RISM, ! 1595-8 (non compl.).
 
-1667 - MARENZIO Luca (1595-2.) _ Di Luca Marcnzio il Quinto Libro dc
+1667 - MARENZIO Luca (1595-2.) - Di Luca Marcnzio il Quinto Libro dc
 Madrigali :\ sci voci. Novamcnte ristampato. In Venetia, 1595. Appresso l'hcredc
 di Girolamo Scoto.
 

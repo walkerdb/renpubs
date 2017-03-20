@@ -1,4 +1,4 @@
-2763 .. TROMBETTI Girolamo (1590) _ Di Girolamo Trombetti musico della
+2763 .. TROMBETTI Girolamo (1590) - Di Girolamo Trombetti musico della
 illustriss. Signoria di Bologna il Primo Libro de Madrigali a cinque voci nova-
 mente composti, et dati in luce. In Venetia appresso Angelo Cardano. 1590.
 
@@ -36,7 +36,7 @@ US-BE: A.T.B.5.
 I-Bc: A.T.
 RISM. l 1590-26.
 
-2763 bis _ TROMBONCINO Bartolomeo - CARA Marchetto (1520?) _ Frottolc
+2763 bis - TROMBONCINO Bartolomeo - CARA Marchetto (1520?) - Frottolc
 
 dc misscr Bortolomio Tromboncino ct dc misser Marcheto Carra con tenori et
 

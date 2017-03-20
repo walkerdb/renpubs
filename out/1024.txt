@@ -1,4 +1,4 @@
-1627 _ MARENZIO Luca (1593) _ Di Luca Marenzio, musico eccellentissimo.
+1627 - MARENZIO Luca (1593) - Di Luca Marenzio, musico eccellentissimo.
 Madrigali a cinque voci, ridotti in un corpo. Nuovamente posti in luce, et con
 ogni diligentia corretti. In Anversa. Appresso Pietro Phalesio ct Giovanni Bcllero.
 1593.
@@ -18,7 +18,7 @@ Pl.-Tu: A.T.
 GB-Lbm: T.E.
 DK-Kk: T.
 
-1628 _ MARENZIO Luca (1609) _ Di Luca Marenzio musico eccellentiss. il
+1628 - MARENZIO Luca (1609) - Di Luca Marenzio musico eccellentiss. il
 Primo, Secondo, Terzo, Quarto et Quinto Libro de Madrigali a cinque vocÌ
 nuovamente ristampati et in un corpo ridotti. In Anversa appresso Pietro Phalesio
 al re David 1609.
@@ -33,7 +33,7 @@ D-W: C.T.B.
 F-Psg: T.B.5.
 D-BFa: A.T.
 
-1629 _ MARENZIO Luca (1594) _ Di Luca Marcnzio il Sesto Libro dc
+1629 - MARENZIO Luca (1594) - Di Luca Marcnzio il Sesto Libro dc
 Madrigali a cinque voci, novamente posto in luce. Con privilegio. In Venetia
 appresso Angelo Gardano. 1594.
 

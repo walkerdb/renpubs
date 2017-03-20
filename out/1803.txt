@@ -1,4 +1,4 @@
-2880 .. VERDELOT Philippe (1565) _ Di Verdelot tutti li Madrigali del Primo
+2880 .. VERDELOT Philippe (1565) - Di Verdelot tutti li Madrigali del Primo
 et del Secondo Libro a quatro voci. Novamente ristampati. A quatro voci. In
 Venetia appresso di Antonio Gardano 1565.
 
@@ -8,7 +8,7 @@ D-As: compl.
 GB-Lbm: compl.
 RISM, I 1565-20.
 
-2881 - VERDELOT Philippe (1566) _ I Madrigali del Primo et Secondo Libro
+2881 - VERDELOT Philippe (1566) - I Madrigali del Primo et Secondo Libro
 di Verdelot a quattro voci; nuovamente ristampati et da molti e importanti errori
 con ogni diligentia corretti da Claudio da Coreggio. In Vinetia presso Claudio
 da Coreggio. 1566.
@@ -42,7 +42,7 @@ GB-Lbm: C.A.
 
 RISM. I 1566-22 (non compl.).
 
-2882 - VERDELOT Philippe - FESTA Costanzo (15.37) _ il Terzo Libro de
+2882 - VERDELOT Philippe - FESTA Costanzo (15.37) - il Terzo Libro de
 Madrigali di Verdelot insieme con alcuni altri bellissimi Madrigali Cll Con-stantio
 Festa, et altri eccellentissimi auttori, novamente stampati, et con somma diligentia
 corretti. 1537. Con gratia, ct privilegio.

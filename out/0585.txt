@@ -16,7 +16,7 @@ PL-GD: T.B.5.
 
 A-Wn: C5.
 
-879 - DUETO Antonio (1585) _ Del R.M. Antonio Dueto, piamontese: il Secondo
+879 - DUETO Antonio (1585) - Del R.M. Antonio Dueto, piamontese: il Secondo
 Libro de Madrigali a cinque voci: novamente composto et dato in luce. In Venetia
 appresso Angelo Gardano 1585.
 
@@ -46,7 +46,7 @@ POI ch'il mio largo pianto, ti piace tanto, asciutti mai quest'occhi 21
 A-Wn: C.S.
 F-Ssc: T.
 
-880 - DUETO Antonio (1583) _ Del R.M. Antonio Dueto piemontese maestro di
+880 - DUETO Antonio (1583) - Del R.M. Antonio Dueto piemontese maestro di
 capella nel duomo della serenissima Republica di Genova. Il Primo Libro de Madri-
 
 gali a sei voci, novamente com osti et dati ' l . I V t'

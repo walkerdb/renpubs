@@ -22,7 +22,7 @@ I-Rsc: 5.
 
 I-Rvat (Casimiri): 5.
 
-1609 _ MARENZIO Luca (1583) _ Di Luca Marenzio il Secondo Libro de
+1609 - MARENZIO Luca (1583) - Di Luca Marenzio il Secondo Libro de
 Madrigali a cinque voci, novamente ristampati. In Venetia appresso Angelo
 
 Gardano. 1583.
@@ -42,7 +42,7 @@ GB-Lbm: A.
 I-Ra: B.
 I-VIb: B.
 
-1610 _ MARENZIO Luca (1587) _ Di Luca Marenzio il Secondo Libro de
+1610 - MARENZIO Luca (1587) - Di Luca Marenzio il Secondo Libro de
 Madrigali a cinque voci. Novamente ristampati. In Venetia, presso Giacomo
 Vincenzi. 1587.
 

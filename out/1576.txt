@@ -1,4 +1,4 @@
-2533 _ SABINO Ippolito (1589) _ Di Hippolito Sabino il Settimo Libro de
+2533 - SABINO Ippolito (1589) - Di Hippolito Sabino il Settimo Libro de
 Madrigali a cinque, et a sei voci. All'illustrissimo et eccellentissimo principe di
 Molfetta. Nuovamente composte, et date in luce. In Venetia, appresso Giacomo
 Vincenti, 1589.
@@ -41,7 +41,7 @@ Libro Primo. In Venetia appresso li figliuoli di Antonio Gardano. 1575.
 6 ſasc. in 8° (C.A.T.B.5.6.), pag. 28,(1). Sonetto di S.N. Nuvolonc. Ded. al Marchcsc'fîlcl vix;
 "...le primitic di queste mie fatiche... per la bontà et clemenza che ha usato lanllU
 
-. . . . _ h _a
+. . . . - h _a
 
 S. Marchese suo genitore verso il padre mio, et che giornalmente egli riceve dalla... Marc °
 sua Madre... Casale, 25 I 1575 ".
@@ -52,7 +52,7 @@ A 6. Hot taccian gli scrittor. Al Marchese del Vasto A iosto) 1
 
 " " Fortuna mi tirò fuor del cammino ( ſ 3
 
-" " Hor che le dolci, angeliche parole _ '
+" " Hor che le dolci, angeliche parole - '
 
 " " Ove fuggi, crudele? Ahi che fuggendo da me l'alma dal cor fugglſ 5
 

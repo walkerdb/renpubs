@@ -1,4 +1,4 @@
-3018 - ZAPPASORGO Giovanni (1588) _ Napolitano a tre voci Libro Primo.
+3018 - ZAPPASORGO Giovanni (1588) - Napolitano a tre voci Libro Primo.
 Di Giovanni Zappasorgo trivigiano. Nuovamente ristampato. In Vincggia appresso
 l'hcredc di Hicronymo Scotto. 1588.
 
@@ -7,7 +7,7 @@ l'hcredc di Hicronymo Scotto. 1588.
 I-Bc: C.
 GB-Lhm: B.
 
-3019 _ ZAPPASORGO Giovanni (1576) _ Il Secondo Libro delle napolitane a
+3019 - ZAPPASORGO Giovanni (1576) - Il Secondo Libro delle napolitane a
 a tre voci, di Giovanni Zappasorgo trivigiano, novamcnte poste in luce. In Vincg-
 gia, appresso l'hcredc di Girolamo Scotto. 1576.
 
@@ -46,7 +46,7 @@ l-BGc: C.
 I-Bc: B.
 l-Vnm: B.
 
-3020 _ ZAPPASORGO Giovanni (1582) _- 11 Secondo Libro delle napolitanc _3
+3020 - ZAPPASORGO Giovanni (1582) _- 11 Secondo Libro delle napolitanc _3
 
 . . . - ' la
 tre voci di Giovan Zappasorgo trivtglano novamcnte nstampatc. ln Vmcgg

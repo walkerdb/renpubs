@@ -9,7 +9,7 @@ F-Psg: T.B.5.
 GB-Lbm: T.B.
 US-Bp: C.
 
-2123 _ PALLAVICINO Benedetto (1600) _ Di Benedetto Pallavicino maestro
+2123 - PALLAVICINO Benedetto (1600) - Di Benedetto Pallavicino maestro
 di capella del serenissimo sig. duca di Mantova, et di Monferrato, il Scsto Libro
 de Madrigali a cinque voci novamente composto, et dato in luce. In Venetia,
 appresso Angelo Gardano. 1600.

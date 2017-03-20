@@ -21,7 +21,7 @@ D-As: C.A.T.B.
 D-Kl: C.T.B5.
 F-Pmeyer: C.
 
-2281 _ PRIULI Giovanni (1607) _ Di Giovanni Priuli. Il Secondo Libro dc
+2281 - PRIULI Giovanni (1607) - Di Giovanni Priuli. Il Secondo Libro dc
 Madrigali. A cinque voci. Novamente posto in luce. In Venetia, appresso Angelo
 Gardano, et fratelli. 1607.
 
@@ -55,7 +55,7 @@ Quest'è pur il mio core, quest'è pur il mio ben (Guarini) 17
 lo mi scnto morir, quando non miro colei ch'è la mia vita " 18
 
 Langue madonna, amor tu'l vedi e puoi scco tu non languir 19
-Amor deh se rimedi'a tanta pena esser (sceonda parte) _ _ 20
+Amor deh se rimedi'a tanta pena esser (sceonda parte) - _ 20
 
 Udit'amanti, udite meraviglia doleissima d'amore (Guarml) 21
 

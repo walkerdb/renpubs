@@ -32,7 +32,7 @@ I-VEaf : A.
 I-Vnm (Canal): T.
 RISM, I 1595-7.
 
-299 _ BELLASIO Paolo (1590) - Di Paolo Bellasio il Primo Libro de Madrigali
+299 - BELLASIO Paolo (1590) - Di Paolo Bellasio il Primo Libro de Madrigali
 a sei voci, con un Dialogo a dieci novamente composti, et dati luce (fic). Con
 
 privilegio. In Venetia appresso Angelo Gardano. 1590.
@@ -46,7 +46,7 @@ A 6. Ogni augelletto col suo cant'invita la mansueta gregge alla pastura ;
 " " L'aer percosso da lor dolci rai (seconda parte) " 5
 " " Nel bianc'avorio e schictto cari baci cogliendo 5
 " " Non è sì chiara l'alba quand'al sol spiega il rugiadoso velo 7
-" " Perch'altre frond'e fiori, Lucretia, il vostro seno _ . 3
+" " Perch'altre frond'e fiori, Lucretia, il vostro seno - . 3
 " " Gl'occhi miei vaghi di bellezze nove dal bel leggiadro VlSO 9
 " " La mia donna mi fugge et ella è che si. strugge 10
 " " Come cristallo in monte l'orgoglio in vor s'indura ,. . (Tasso) 11

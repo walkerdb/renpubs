@@ -1,4 +1,4 @@
-1963 _ MORTARO Antonio (1602) _ Fiammelle amorose a tre voci, di Antonio
+1963 - MORTARO Antonio (1602) - Fiammelle amorose a tre voci, di Antonio
 Mortaro da Brescia. Libro Primo. Novamente ristampate. In Venetia, appresso
 Ricciardo Amadino, 1602.
 
@@ -7,7 +7,7 @@ Ricciardo Amadino, 1602.
 GB-Lbm: compl.
 B-Be: C.
 
-1964 - MORTARO Antonio (1590) _ 1] Secondo Libro delle Fiammelle amo-
+1964 - MORTARO Antonio (1590) - 1] Secondo Libro delle Fiammelle amo-
 rose, a tre voci, di Antonio Mortaro da Brescia. Novamente composte, et date in
 luce. In Venetia, appresso Ricciardo Amadino 1590.
 
@@ -38,7 +38,7 @@ D-Kl: C.T.
 
 l-VCd: B.
 
-1965 - MORTARO Antonio (1594) _ Il Secondo Libro delle Fiammelle amorose
+1965 - MORTARO Antonio (1594) - Il Secondo Libro delle Fiammelle amorose
 a tre voci, di Antonio Mortaro da Brescia, novamente ristampate. In Venetia
 appresso Ricciardo Amadino, 1594.
 

@@ -9,7 +9,7 @@ PL-GD: 5.
 
 L'A. esisteva in D-Bds, ma fu distrutto durante l'ultima guerra.
 
-356 _ BIANCHI Catterino (1588) _ Primo Libro delle Canzonette a cinque voci,
+356 - BIANCHI Catterino (1588) - Primo Libro delle Canzonette a cinque voci,
 con una Moresca a sei. Di Catterino Bianchi, novamente posti in luce. In Venetia,
 1588. Appresso Ricciardo Amadino.
 
@@ -39,7 +39,7 @@ A 6. Tlchl roche tichi toch. Apatalcna zoia mia. Moresca 21
 
 I-VEaf: compl,
 
-331150713- BIANCI-II Giovanni Battista (1675) _ Madrigali a due, e tre voci con il
+331150713- BIANCI-II Giovanni Battista (1675) - Madrigali a due, e tre voci con il
 n. asso continuo 'del padre bacciliere Gio. Battista Bianchi da Genova agosti-
 lano.- Dedicatl all'illustrissima signora Livia Grilla Opera Prima. In Bologna
 per Glacomo Monti. 1675. Con licenza de' Superiori.

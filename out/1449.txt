@@ -7,7 +7,7 @@ PL-Wu: S.
 PL Wn: 5.
 Pass 1574 (errato).
 
-2326 - REGNART ]acob (1574-2) _ Di Iacomo chnart musico della S.C. maestà
+2326 - REGNART ]acob (1574-2) - Di Iacomo chnart musico della S.C. maestà
 dell'imperatore Maximiliano Secondo. Il Primo Libro delle Canzone italiane a
 cinque voci, novamcnte post:: in lucc. In Vienna appresso ]acomo Mair. 1574.
 
@@ -16,7 +16,7 @@ cinque voci, novamcnte post:: in lucc. In Vienna appresso ]acomo Mair. 1574.
 PL-GD: compl.
 Pass 1574 (errato).
 
-2327 - REGNART ]acob (1580) _ Di lacomo chnart musico della S.C. maestà,
+2327 - REGNART ]acob (1580) - Di lacomo chnart musico della S.C. maestà,
 dell'imperatore Maximiliano Secondo. Il Primo Libro delle Canzone italiane a
 Cinque voci. Novamente poste in luce. Noribergac 1580.
 
@@ -32,7 +32,7 @@ D-W: A.S.
 
 Pass 15803 (non compl.).
 
-2328 - REGNART ]acob (1585) _ Di ]acomo chnart musico della S.C. maestà,
+2328 - REGNART ]acob (1585) - Di ]acomo chnart musico della S.C. maestà,
 dell'imperatore Maximiliano Secondo. Il Primo Libro delle Canzone italiane a
 Cinque voci, novamente poste in luce. Noribcrgac. 1585.
 

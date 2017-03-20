@@ -1,4 +1,4 @@
-1013 _ FRANZONI Amante (1607) _. Il Secondo Libro delli Fioretti musicali a
+1013 - FRANZONI Amante (1607) _. Il Secondo Libro delli Fioretti musicali a
 tre voci d'Amante Franzoni mantovano. Co'l Basso continuo per il Clavecimbalo,
 Chitarrone, et stromenti simili. Raccolto dal R. don Francesco Dognazzi, servitore
 dell'altezza serenissima di Mantoa, novamente composto, et dato in luce. In Venetia,
@@ -42,7 +42,7 @@ B-Bcz C.1°.
 
 GB-Och: C.l".
 
-1014 - FRANZONI Amante (1617) _ Il Tcrzo Libro delli Fioretti musicali a tre
+1014 - FRANZONI Amante (1617) - Il Tcrzo Libro delli Fioretti musicali a tre
 Vom. Con alcune Aric poste nel fine del Basso continuo. D'Amante Franzoni
 mantovano, Academico Olimpico. Maestro di capella del serenissimo di Mantova
 m Santa Barbara. In Venetia, appresso Giacomo Vincenti. 1617.

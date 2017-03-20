@@ -6,7 +6,7 @@ l-VEaf: T.B.
 D-Mbs: T.B.
 RISM, I 1582-11.
 
-1743 _ MASNELLI Paolo (1586) _ Di Paolo Masenelli (sic) organista del scrc-
+1743 - MASNELLI Paolo (1586) - Di Paolo Masenelli (sic) organista del scrc-
 nissimo signor duca di Mantova. Il Primo Libro de Madrigali a cinque YOCl,
 novamente composti, et dati in luce. In Venetia presso Giacomo Vincenzt, et
 Ricciardo Amadino, compagni. 1586.
@@ -39,7 +39,7 @@ A 7. Deh fosse il ver che miei ſosser quest'occhi. Dialogo
 
 D-As: compl.
 
-1744 _ MASNELLI Paolo (1596) .. Di Paolo Masnelli veronese, organista del
+1744 - MASNELLI Paolo (1596) .. Di Paolo Masnelli veronese, organista del
 duomo di Verona, et dell'Academia de' signori Filarmonici. Madrigali a cmqlle
 Libro Secondo. ln Venetia appresso Ricciardo Amadino. 1596.
 

@@ -28,7 +28,7 @@ D-Mbs: compl.
 
 RISM. l 1569-32.
 
-2332 _ RENALDI Giulio (1567) _ Di Giulio Renaldi padoano il Primo Libro dc
+2332 - RENALDI Giulio (1567) - Di Giulio Renaldi padoano il Primo Libro dc
 Madrigali a quatro a cinque ct a sei voci, con doi Dialoghi a sette-novarrteſlle
 da lui composti, cc per Antonio Gardano stampati ct dati in luce. Libro Prima-
 ln Venetia appresso di Antonio Gardano. 1567.
@@ -43,7 +43,7 @@ A 4. Mentre vorrci contarvi quel dolore, ch'in mczo al cor per vor sopporto 4
 " " Poi che'] chieder mercè più non m'aita contr'il ficro dolor che mi tormenta 7
 " " Non puote a Dio servir glamai con fede chi non serve a costui dcvot'c puro 8
 " " Almo mio sol, che le gelate menti di dolce foco ingombri 9
-" " Ben sai ch'in me conversi non ti convien haver (seconda parte) _ 10
+" " Ben sai ch'in me conversi non ti convien haver (seconda parte) - 10
 " " Quando fra gl'alli monti humid'c bruna, da noi partend'il sol, l'ombra discendc 11
 " " Nel tempo poi che l'alte stell'erranti (seconda parte)
 

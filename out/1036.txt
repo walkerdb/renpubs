@@ -12,7 +12,7 @@ l-Fl: 5.
 
 US-BE: 5.
 
-1659 _ MARENZIO Luca (1594) - Di Luca Marcnzio il Terzo Libro de
+1659 - MARENZIO Luca (1594) - Di Luca Marcnzio il Terzo Libro de
 Madrigali a sei voci. Novamente ristampato. In Venetia appresso Angelo
 
 Gardano. 1594.
@@ -30,7 +30,7 @@ I-Bc: C.B.
 US-Lau: B.T.
 D-MOs: T.
 
-1660 _ MARENZIO Luca (l587-l) _ Di Luca Marenzio il Quarto Libro de
+1660 - MARENZIO Luca (l587-l) - Di Luca Marenzio il Quarto Libro de
 Madrigali a sei voci novamente ristampato, et da molti errori diligentissima-
 mente emendato. ln Venetia appresso Ricciardo Amadino. 1587.
 

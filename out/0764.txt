@@ -1,4 +1,4 @@
-1184 _ GHIBELLINI Eliseo (1581) _ Il Primo Libro de Madregali a cinque voci
+1184 - GHIBELLINI Eliseo (1581) - Il Primo Libro de Madregali a cinque voci
 Heliseo Ghibellini da Osimo maestro di capella in la chiesa della rever. Compagnia
 del Santiss. Sacramento di Ancona. Novamente dato in luce. In Venetia appresso
 Angelo Gardano 1581.
@@ -39,7 +39,7 @@ I-MOe: C.A.T.5.
 I-Bc: 5.
 o Ghirlandi
 
-1185 _ GHIRLANDI Marco (1627) _ Madrigaletti a tre v'oci. Di Mare del
+1185 - GHIRLANDI Marco (1627) - Madrigaletti a tre v'oci. Di Mare del
 da Castiglione Fiorentino. Libro Primo. Con licenza-di Superiori. Stampa
 Gardano. In Venetia 1627. Appresso Bartolomeo Magni.
 

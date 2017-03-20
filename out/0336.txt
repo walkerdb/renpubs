@@ -5,7 +5,7 @@ I-Bc- A.B. (mane. di front.).
 D-W: T.
 RISM, I 1609-19.
 
-499 _ CASENTINI Marsilio (1611) _ Di Marsilio Casentini maestro di Capella
+499 - CASENTINI Marsilio (1611) - Di Marsilio Casentini maestro di Capella
 della magnifica Communità di Gemona il Quinto Libro de' Mdrigali (ric) a cmqile
 voci nuovamente composto, et dato in luce. Con privilegio. In Venetia, apppresso (m')
 Giacomo Vincenti. 1611.
@@ -25,12 +25,12 @@ Tu languisci, cor mio, e questo tuo languire 7
 Non ti bastava, cruda, d'esserti fatta con lo sguardo (A- Gatti) 8
 Fugge dal tuo bel viso il bianco avorio e le vermiglie rosc (CCbà) 9
 Ch'io non t'ami, cor mio, ch'io non sia la tua vita (Guarini) 10
-Partiti e ti consola, ch'infinita è la schiera de gl'infelici amanti _ 11
+Partiti e ti consola, ch'infinita è la schiera de gl'infelici amanti - 11
 10 parto, amati lumi. Rimirate il dolor della partita (RÎHUCCÌM) 12
 Egra d'amor giacca... a cui l'anima spinta 13
 Languisco e moro, ahi cruda, ma tu, fera cagion 14
 Tu pur ardi, ben mio, et ardo teco anch'io 15
-Mi fur fiamme e ferite gli vostri sguardi, già luci gradite _ 16
+Mi fur fiamme e ferite gli vostri sguardi, già luci gradite - 16
 Care mie selve a dio, ricevete questi ultimi sospiri (Guarini) 17
 O Mirtillo, Mirtillo, anima mia, se vedessi (seconda parte) " 18
 Nasci fanciullo invitto, mostra a l'inclite prove te vero figlio (Marine) 19
@@ -40,7 +40,7 @@ I-Bc: compl.
 
 RISM, I 1611-13.
 
-500 - CASENTlNI Marsilio (161…) _ (Madrigali concertati a Z et 3 di Marsilio
+500 - CASENTlNI Marsilio (161…) - (Madrigali concertati a Z et 3 di Marsilio
 Casentini Lib. 7.)
 
 4 (?) fasc. in 8° (C.1°, C.Z°, B., e Bc.?), pag. 53.

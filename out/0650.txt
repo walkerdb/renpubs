@@ -14,7 +14,7 @@ I-Bc: compl.
 
 I-Rsc : compl.
 
-988 _ FIORINO Gasparo (1574) _ Libro Secondo Canzonelle a tre e a quattro
+988 - FIORINO Gasparo (1574) - Libro Secondo Canzonelle a tre e a quattro
 voci di Gaspare Fiorino della città di Rossano, musico. In lode et gloria d'alcune
 signore et gentildonne genovesi. Questa sen va di ricche merci carca. Concordes
 virtute et natura miraculis (marca tip. del Gardano).
@@ -37,7 +37,7 @@ A 3. Quando s'accors'amorc eh'iniqua morte. A Vittoria Doria, marchesa di Galate
 [marchesa d'Oria H
 
 " " S'io foss'imperador ricco e possente. A Placida Doria di Nicolo Spinola :;
-" " Donna qual meraviglia se Giove. A Gierolima d'Oria di Gio. Spinola _ 18
+" " Donna qual meraviglia se Giove. A Gierolima d'Oria di Gio. Spinola - 18
 " " Quel non so che di vago et di lucente. A Maria Pallavicina di Augustino Lomellina ]9
 
 " " Se quella serenissima Camilla ch'in aiuto. A Camilla Lomellina di Nicolo d'Oria

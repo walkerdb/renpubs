@@ -1,4 +1,4 @@
-2085 _ PAIEN Giovanni (1572) _ Di Gioan Paien il Primo Libro de Madrigali
+2085 - PAIEN Giovanni (1572) - Di Gioan Paien il Primo Libro de Madrigali
 a due voci, dove si contengono le Vergine, novamente ristampati. In Venetia
 
 apresso li figliuoli di Antonio Gardano. 1572.
@@ -7,7 +7,7 @@ apresso li figliuoli di Antonio Gardano. 1572.
 1-llRE: compl.
 1-Bc: T.
 
-2086 _ PAIEN Giovanni (1597) _ Di Gioan Paicn il Primo Libro dc Madrigali
+2086 - PAIEN Giovanni (1597) - Di Gioan Paicn il Primo Libro dc Madrigali
 a due voci, dove si contengo (.ric) le Vergine, novamente ristampati. In Venetia
 
 appresso Angelo Gardano. 1597.
@@ -15,7 +15,7 @@ appresso Angelo Gardano. 1597.
 
 1-.\'n: C.
 
-2087 _ PALAZZOTTO-TAGLIAVIA Giuseppe (1617) _. Madrigali a cinque
+2087 - PALAZZOTTO-TAGLIAVIA Giuseppe (1617) _. Madrigali a cinque
 voci. di don Gioseppe Palazzotto, e Tagliavia. Libro Primo. All'illustrissimo, ct
 eccellentissimo signor duca d'Ossune. ln Napoli, appresso Costantino Vitale. 1617.
 Con licenza de' Superiori.

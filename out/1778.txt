@@ -11,7 +11,7 @@ I-Bc: C.
 
 RISM, 1 1575-16.
 
-2840 _ VECOLI Pietro (1581) _ Madrigali di Pietro Vccoli musico del serenis
+2840 - VECOLI Pietro (1581) - Madrigali di Pietro Vccoli musico del serenis
 simo duca di Savoia. Il Primo Libro a cinque voci. Al molto illustre signor Gioan
 Francesco Provana conte di Beynctte, signor di Faolc, governator di Savigliano,
 et capitano de' cavalli per sua altezza. Con licentia de' Superiori. In Torino,
@@ -41,7 +41,7 @@ Deh dolce vita mia, dite per vostra fè, dite per Dio, non son io "
 Nè per nova altra sorte mi vi torrà giamai (seconda parte) :;
 
 Laura mia dolce, vita de mia vita, che così dolcemente a l'amoroso foco 14
-E' sì dolce il gioire che di dolcezza sento (seconda parte) _ _
+E' sì dolce il gioire che di dolcezza sento (seconda parte) - _
 
 Baci soavi e cari, cibi de la mia vita, ch'hor m'involate (Guarini) };
 

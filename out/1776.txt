@@ -7,7 +7,7 @@ D-Rp: B.
 RISM, 1 1597-21 (non compl. ed erroneo).
 Brown 1597-14 (non compl. ed erroneo).
 
-2836 _ VECCHI Orazio - CAPILUPI Geminiano (1597) _ Canzonctte a tre voci
+2836 - VECCHI Orazio - CAPILUPI Geminiano (1597) - Canzonctte a tre voci
 di Horatio Vecchi, et di Gemignano Capi Lupi da Modena. Novamente poste in
 luce. Noribergae excudcbat Paulus Kaufmann. 1597.
 
@@ -25,7 +25,7 @@ D-Rp: B.
 
 RISM, I 1597-22 (non compl. ed erroneo).
 
-2837 _ VECCHI Orazio - CAPILUPI Geminiano (1606) - Canzoncttcſimit
+2837 - VECCHI Orazio - CAPILUPI Geminiano (1606) - Canzoncttcſimit
 dreyen Stimmen Horatii Vecchi unnd Gemignani Capi Lupi, zuvor mit Italiani-
 schen Texten jetzo aber zu besserm gebrauch denen welche Italianisch nicht
 verstehen mit Teutschen Texten belegt und inn Truck gcgeben durch Valentin
@@ -48,7 +48,7 @@ D-Bs: T.
 
 RISM, ] 1606-3 (non compl.).
 
-2838 _ VECCHI Orfeo (1602) _ La donna vestita di. sole, coronata dll-(figé
+2838 - VECCHI Orfeo (1602) - La donna vestita di. sole, coronata dll-(figé
 calcante la luna, in 21. Madrigali cantata da Orfeo Vecchi. In Milano, per
 
 di Simon Tini, et Gio. Francesco Besozzi 1602.

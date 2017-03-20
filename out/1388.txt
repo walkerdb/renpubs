@@ -1,4 +1,4 @@
-2249 _ PORTINARO Francesco (1563) _ Il Primo Libro de Madrigali a quattro
+2249 - PORTINARO Francesco (1563) - Il Primo Libro de Madrigali a quattro
 voci. Di Francesco Portenaro con due Madrigali a sei voci. Nuovamente stampato.
 In Venetia. Appresso Girolamo Scotto. 1563.
 
@@ -40,7 +40,7 @@ GB-Ll: compl.
 
 RISM. I 1563-13.
 
-2250 _ PORTINARO Francesco (1550) _ Di Francesco Portinaro il Primo Libro
+2250 - PORTINARO Francesco (1550) - Di Francesco Portinaro il Primo Libro
 de Madrigali a cinque voci novamente da lui composti et dati in luce, ct per
 Antonio Gardane con ogni diligentia stampati. A cinque voci. In Venetia aprcsso
 di Antonio Gardanc. 1550.

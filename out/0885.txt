@@ -3,7 +3,7 @@ Quand'amor su l'arco eterno per ſerir tende lo stra]. Poesia di Gabriello Chiab
 
 PL-WRu
 
-1380 _ LANDI Stefano (1619) _ Madrigali a cinque voci Libro Primo. Con Basso
+1380 - LANDI Stefano (1619) - Madrigali a cinque voci Libro Primo. Con Basso
 per sonare. Di Stefano Landi maestro di cappella del illustrissimo et reverendissimo
 monsignor Marco Cornaro vescovo di Padova. Stampa del Gardano in Venetia
 1619. Appresso Bartolomeo Magni.
@@ -36,7 +36,7 @@ I-Bc: compl.
 1-Fc: compl.
 US-NYp: Bc.
 
-1381 - LANDI Stefano (1619) _ La Morte d'Orfeo tragicomedia pastorale con le
+1381 - LANDI Stefano (1619) - La Morte d'Orfeo tragicomedia pastorale con le
 mUSÎChe di Stefano Landi all'illustrissimo et reverendissimo signor abbate Alessan-
 Sandro Matthei chierico di camera. Opera Seconda con privilegio. Stampa del
 Gardano in Venetia 1619. Appresso Bartolomeo Magni.

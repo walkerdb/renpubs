@@ -18,7 +18,7 @@ GB-Lwa: compl.
 GB-Och: compl.
 I-Bc: C.A.B.5.
 
-1868 bis _ MODIANA Orazio (1625) _ Filomenici concenti di Madrigali con-
+1868 bis - MODIANA Orazio (1625) - Filomenici concenti di Madrigali con-
 certati a due, tre, quattro, et cinque voci: da cantarsi con il Clavicembalo, o altro
 stromento musicale: di l). Horatio Modiana canonico, et mastro di capella nella
 Collegiata di Guastalla, il Pellegrino nell'Accademia de' Filomeni di Casalmag-
@@ -37,7 +37,7 @@ Accademia de' Filomeni di Casalmaggiore.
 
 A 2. Anime pellegrine che bramate amando esser amate. Due Canti e Tenori (Guarini) ;
 " " Pur venisti, cor mio, e pur t'ho qui presente. Duc Tenori o Canti " 4
-" " Crudn. perchè fuggite? Perchè cotanto orgoglio? Canto o Tenore, e Allo o Basso . _ 5
+" " Crudn. perchè fuggite? Perchè cotanto orgoglio? Canto o Tenore, e Allo o Basso . - 5
 " " Poichè non mi credete quand'io vi giuro. Due Canti o Tenori (Guarini) 6
 " " Oimè se tanto amate (li sentir dir oimè. Due Tenori o Canti "' B
 " " Perchè fuggi. ah crudele? Non \'edi al tuo fuggire. Canto e Tenore (Manno) 9
@@ -50,7 +50,7 @@ A 5. Nuncie di "era vita le voslr'aquile belle. Al Duca di Guastalla e Duchessa 
 
 " " lo non v'amo, mia vita? Oimè, s'a questa lingua non credelc
 
-. . _ . . . , - ' 16
+. . - . . . , - ' 16
 " " Lasso, perchè ml fuggi, s hai de la morle mia tanto desm? (Gu-l…") 17
 " " Parlo () non parlo? Se parle la corporea salma " lﬂ
 " " Fuggi. fuggi. o mio core. Non vedi la man bella ch'è congiurata " 19

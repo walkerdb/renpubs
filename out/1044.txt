@@ -1,4 +1,4 @@
-1673 _ MARENZIO Luca (1609) _ Di Luca Marenzio, il Sesto Libro dc
+1673 - MARENZIO Luca (1609) - Di Luca Marenzio, il Sesto Libro dc
 Madrigali a sei voci. Novamente ristampati. In Venetia. Appresso Angelo
 Gardano, et fratelli. 1609.
 
@@ -10,7 +10,7 @@ GB-T: compl.
 I-PAc: C.A.T.B.
 US-Cn: T.
 
-1674 _ MARENZIO Luca (1610) _ Di Luca Marenzio musico cccellentiss. il
+1674 - MARENZIO Luca (1610) - Di Luca Marenzio musico cccellentiss. il
 Sesto Libro de Madrigali a sei voci novamente stampati et dati in luce. In Anversa
 appresso Pietro Phalesio al re David. 1610.
 
@@ -25,7 +25,7 @@ F-Psg: T.B.5.
 B-Amp: T.
 NL-At: 5.
 
-1675 _ MARENZIO Luca (1608) _ Lucae Marentii musici celeberrimi, Madri-
+1675 - MARENZIO Luca (1608) - Lucae Marentii musici celeberrimi, Madri-
 gali sex vocum, antea Venetiis, diversis temporibus, sex separatis edita librlS,
 jam vero, commodioris usus caussa, uno volumine conjunctim excusa. Noribergaen
 typis et sumtibus Pauli Kauffmanni. 1608.
@@ -40,7 +40,7 @@ A-Wn: C5.
 l-BRq: A.
 Pl.-Llîlpn: A.
 
-1676 _ MARENZIO Luca (1584) .. Madrigali spirituali di Luca Marenzio a
+1676 - MARENZIO Luca (1584) .. Madrigali spirituali di Luca Marenzio a
 cinque voci novamente stampato et dato in luce. Libro Primo cum privilegio-
 In Roma per Alessandro Gardano 1584. Con licentia dc i Superiori.
 

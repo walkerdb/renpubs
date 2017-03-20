@@ -11,7 +11,7 @@ Inaudito martire, disuzato morire (seconda parte) 23
 Taccio per compiacervi, idolo mio crudele, ma invece di lamcnli 24
 l-Vnm: A.T.B
 
-2543 _ SANCES Giovanni Felice (1657) _ Trattenimenti musicali per camera a
+2543 - SANCES Giovanni Felice (1657) - Trattenimenti musicali per camera a
 2.3. 4. e 5. di Gioan Felice Sances, vice maestro di capella della sacra cesarea
 maestà di Ferdinando Terzo dedicati alla medema maestà Libro Primo. Opera
 Sesta. In Venetia 1657. Appresso Francesco Magni.
@@ -37,7 +37,7 @@ n " Esscr fido in amor A 3 voci e Z Viol. 51
 
 ln: D-Bds esistevano le parti di: C.H.5.Bc.
 
-2544 _ SANCES Giovanni Felicg (1649) .- Capricci poetici dl. Gioan Felice
+2544 - SANCES Giovanni Felicg (1649) .- Capricci poetici dl. Gioan Felice
 Sances musico della sacra cesarea maestà di Ferdinando Terzo a una, doi, e tre voci
 dedicati all'ill.mo et ecc.mo sig.r cav.r Nicolo Sagredo ambasciator veneto apresso
 sua maestà cesarea. In Venetia 1649 alla stampa del Gardano.
@@ -47,6 +47,6 @@ consocrai. Confido, che sì come m'ha favorito la fortuna (li poter rassegnarmel
 'W'-"Sla Cone Ccsarca ltumilissimo servitore... ".
 
 A 1- Chi nel regno almo d'amore brama l'ore (rar. Aria 3
-" " Vibrate pur. Aria _ 4
+" " Vibrate pur. Aria - 4
 " " Ho il cor fcrito e morirò. Aria (Saracmcllr) 6
 

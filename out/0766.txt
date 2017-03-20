@@ -61,10 +61,10 @@ A 1. Donna, chi'n voi d'amor le faci ha spente? Dialogo d'Amante et Donna. Amant
 [(Guarini) 24
 
 " " Il tuo sfrenato ardire ogni diletto sgombra. Donna 24
-A 2. Spieghi amor dunque a un bel pensier le piumme. Donna e Amante _ . 25
+A 2. Spieghi amor dunque a un bel pensier le piumme. Donna e Amante - . 25
 A 1. Perchè piangi. paStore? Dialogo di Ninfa e Pastorc. Ninfa (Guarini) 26
 " " Piango ch'io son senz'alma e senza core. Pastore €;
-A 2. Moriam dunque ben mio che così voglio anch'io. Ninfa e Pastore _ _ 28
+A 2. Moriam dunque ben mio che così voglio anch'io. Ninfa e Pastore - _ 28
 " " Qual di nova bellezza chiaro raggio risplende. Canto di Sirenc (Guanm) 29
 A 1. Delle ninfe terrene la beltà non m'offenda. Risposta di Nettuno "
 
@@ -75,7 +75,7 @@ A 2. Bella ninfa fuggitiva, sciolta e priva del mortal tuo nobil velo. Aria 3 Gi
 B-Br
 GB-Lbm
 
-1188 - GHIZZOLO Giovanni (1613) _ 11 Tcrzo Libro delli Ma
+1188 - GHIZZOLO Giovanni (1613) - 11 Tcrzo Libro delli Ma
 
 Arie. A una, et due voci. Per suonare, et cantare nel Chitarrone, I
 cembalo. Di Giovanni Ghizzolo. Con uno Epitalamio. Opera Nona. n

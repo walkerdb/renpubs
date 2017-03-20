@@ -30,7 +30,7 @@ I-Bc: compl.
 I-de: Compl.
 La sola parte di T. esisteva nella Collez. Cortal.
 
-2622 _ SORIANO Francesco (1588) _ Di Francesco Soriano maestro di capelli!
+2622 - SORIANO Francesco (1588) - Di Francesco Soriano maestro di capelli!
 in Santa Maria Maggiore. Il Primo Libro de Madrigali a cinque vola, novamente
 ristampati. Et dal reverendo pre Giovanni Croce chiozzotto coretti. In Venetia.
 presso Giacomo Vincenzi. 1588.
@@ -41,7 +41,7 @@ I-Bc: compl.
 US-Wc: compl.
 D-KNu: C.A.5.
 
-2623 - SORIANO Francesco (1592) _ Di Francesco Soriano romano 111 55032:
+2623 - SORIANO Francesco (1592) - Di Francesco Soriano romano 111 55032:
 Libro de Madrigali a cinque voci nuovamente da lui composti e dati lnDUCCa-n eli.
 liccntia de' Superiori. In Roma ad instanza di Ascanio, et Girolamo on B
 Per Francesco Coattino. 1592.
@@ -54,7 +54,7 @@ S. Gio. Battista Montanari, il quale vivendo ne lasciò i semi nel campo del mio
 ' ' ' 1592 ".
 accio che dopo la sua morte con maggior sua gloria "nascessero... Roma. 3 V
 
-. . . . . . _ . . . ir
+. . . . . . - . . . ir
 A 5. Deh dimmi pria, Signor, che le faville ch'io \eggio a mille a mille usc
 
 -1628-

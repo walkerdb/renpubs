@@ -30,7 +30,7 @@ I-Nc: compl.
 A-Wn: compl.
 l-FA: T.
 
-1588 _ MARENZIO Luca (1587-1) _ Madrigali a quatro voci di Luca Marenzio-
+1588 - MARENZIO Luca (1587-1) - Madrigali a quatro voci di Luca Marenzio-
 Nuovamente con ogni dilgenza ristampati. Libro Primo. In Venetia appresso
 Ricciardo Amadino. 1587
 
@@ -40,7 +40,7 @@ D-Rp: compl.
 GB-Och: compl.
 PL-GD: compl.
 
-1589 _ MARENZIO Luca (1587-2) _ Madrigali a quatro voci di Luca Marenzio.
+1589 - MARENZIO Luca (1587-2) - Madrigali a quatro voci di Luca Marenzio.
 Nuovamente con ogni diligenza ristampati. Libro Primo. In Venetia, presso Gia-
 como Vincenzi. 1587.
 

@@ -7,7 +7,7 @@ Quell'augellin, che canta sì dolcemente - Qui laudes
 I-CO: A.T.
 B-Gu: B.
 
-1948 _ MONTEVERDI Claudio (l609) _ L'Orfeo favola in musica da Claudio
+1948 - MONTEVERDI Claudio (l609) - L'Orfeo favola in musica da Claudio
 Monteverde rappresentata in Mantova l'anno 1607 et novamente data in luce. Al
 serenissimo signor F. Francesco Gonzaga prencipe di Mantova, ct di Monfe-
 rato, etc. In Venetia appresso Ricciardo Amadino. 1609.
@@ -30,7 +30,7 @@ I-Rsc
 
 I-PLc
 
-1949 _ MONTEVERDI Claudio (1615) _ L'Orfeo favola in musica da Claudio
+1949 - MONTEVERDI Claudio (1615) - L'Orfeo favola in musica da Claudio
 Monteverde maestro di capella della sereniss. republica. Rappresentata in Mantſio'ia
 l'anno 1607. Et novamcnte ristampata. In Venetia 1615 appresso Ricciardo Amadmo.
 
@@ -41,7 +41,7 @@ GB-Lbm
 GB-Och
 PL-WRu
 
-1950 _ MONTEVERDl Claudio (1607) _ Scherzi musicali a tre voci, di Claudio
+1950 - MONTEVERDl Claudio (1607) - Scherzi musicali a tre voci, di Claudio
 Monteverde, raccolti da Giulio Cesare Monteverde suo fratello, et novamfmtc
 posti in luce. Con la dichiaratione di una lettera, che si ritrova stampata nel Quinto
 Libro de suoi Madrigali. Dedicati al serenissima S. don Francesco Gonzaga pren-

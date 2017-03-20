@@ -14,7 +14,7 @@ GB-Lbm: Cl°, B.
 CH-Bu: C.Z°, B.
 D-Kl: C.Z°, B.
 
-2064 _ OROLOGIO Alessandro (1596) _ Canzonctte a tre voci di Alessandro
+2064 - OROLOGIO Alessandro (1596) - Canzonctte a tre voci di Alessandro
 Orologio intavolate per suonar di Liuto et nuovamente stampate. In Venetia,
 appresso Giacomo Vincenti. 1596.
 
@@ -39,7 +39,7 @@ Occhi vaghi e lcggiadri, dolci del mio cor ladri 23
 Per qual cagion havete, donna, del mio morir cotanta sete 30
 l-AN
 
-21165 - OROLOGIO Alessandro (1586) _ Di Alessandro Orologio il Primo
+21165 - OROLOGIO Alessandro (1586) - Di Alessandro Orologio il Primo
 Libro de' Madrigali a cinque voci, novamente composti, et dati in luce. In
 Venetia appresso Angelo Gardano 1586.
 

@@ -5,7 +5,7 @@ I-Bc: B.
 l-Rc: B.
 l-Nn: B
 
-962 - FERRETTI Giovanni (1576) _ Di Giovan Ferretti il Primo Libro delle
+962 - FERRETTI Giovanni (1576) - Di Giovan Ferretti il Primo Libro delle
 Canzoni alla napolitana a sei, voci. Novamente ristampate. Con privilegio. In Vi-
 neggia. Appresso l'herede di Girolamo Scotto. 1576.
 
@@ -19,7 +19,7 @@ l-Rsc: C.
 l-Fr: S.
 D-ma: 6.
 
-963 - FERRETTI Giovanni (1581 _ Di Giovan Ferretti il Primo Libro delle
+963 - FERRETTI Giovanni (1581 - Di Giovan Ferretti il Primo Libro delle
 Canzoni alla napolitana a sei voci. Novamente ristampato. Con privilegio. ln
 Vlneggia, appresso l'herede di Girolamo Scotto. 1581.
 
@@ -39,7 +39,7 @@ F-Pc: A.
 
 F-Pn: 5.
 
-9_64 _- FERRETTI Giovanni (1575) _ ll Secondo Libro delle Canzoni a sei voci,
+9_64 _- FERRETTI Giovanni (1575) - ll Secondo Libro delle Canzoni a sei voci,
 dl Giovan Ferretti maestro di capello del duomo d'Ancona. Novamente poste in
 luce. In Vineggia. Appresso l'herede di Girolamo Scotto 1575.
 

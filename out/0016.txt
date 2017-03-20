@@ -5,7 +5,7 @@ I-Sc: compl.
 
 I-Bc: C.
 
-12 _ AGAZZARI Agostino (1615) _ Di Agostino Agazzari Armonica Intronato il
+12 - AGAZZARI Agostino (1615) - Di Agostino Agazzari Armonica Intronato il
 Secondo Libro de Madrigaletti, a tre voci. Novamente ristampati. In Veneti-a, 1615".
 Appresso Ricciardo Amadino.
 
@@ -13,7 +13,7 @@ Appresso Ricciardo Amadino.
 
 GB-Lrosenthal: C.Z° (prov. Cortot).
 
-13 _ AGAZZARI Agostino (1600) _ Di Agostino Agazzari gentil'huomo sanese.
+13 - AGAZZARI Agostino (1600) - Di Agostino Agazzari gentil'huomo sanese.
 Il_ Primo Libro de Madrigali a cinque voci con un Dialogo a sei, et un'Pastorale a
 otto, a l'ultimo. Novamente stampato, et dato in luce. In Venetia, appresso Angelo
 

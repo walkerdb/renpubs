@@ -6,7 +6,7 @@ I-VEaf: compl.
 D-Bds: C.
 RISM, 1 1590-22.
 
-1485 _ LAURO Francesco (1590) _ Canzonette a tre voci di Francesco Lauro
+1485 - LAURO Francesco (1590) - Canzonette a tre voci di Francesco Lauro
 veronese. Novamente composte, et date in luce. Libro Primo. In Venetia, appresso
 Ricciardo Amadino. 1590.
 
@@ -37,7 +37,7 @@ A dio, mi vo partir, ti lascio, Aminta. Non dubitar, cor mio
 
 I-Vnm (Canal): C.
 
-1486 _ (De) LAYOLLE Francesco (1540c.) _ Cinquanta. Canzoni. A quatro VOCI
+1486 - (De) LAYOLLE Francesco (1540c.) - Cinquanta. Canzoni. A quatro VOCI
 di M. Franciesco De Layolle horganista fiorentino. Impresse m Lione per Iacopo
 Moderno di Pinguento a presso Nostra Donna di Confort.
 
@@ -45,7 +45,7 @@ Moderno di Pinguento a presso Nostra Donna di Confort.
 
 Lasso, la dolce vista del bcl dolce et soave (Petrarca) :
 Donn'io non son di quei sì fier'amanti (Petrarca) 5
-Perchè quel che mi trasse ad amar prima _ 6
+Perchè quel che mi trasse ad amar prima - 6
 ll vedervi, madonna, d'ogn'altra la più bella, d'ogni pietà rcbclla P ]" iano) 6
 Qual sarà mai sì lacrimabil pianto, che pareggi'l dolor . ( 017- 7
 Di mio fede] servir ct lungh'affanni sarà premio'l morire L Martelli) B

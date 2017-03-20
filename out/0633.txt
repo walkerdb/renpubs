@@ -1,4 +1,4 @@
-957 _ FERRETTI Giovanni (1579) _ Di Giovan Ferretti il Quarto Libro delle
+957 - FERRETTI Giovanni (1579) - Di Giovan Ferretti il Quarto Libro delle
 Napolitane a cinque voci. Novamente ristampate. In Vineggia. Appresso l'heredc
 di Girolamo Scotto 1579.
 
@@ -9,7 +9,7 @@ PL-GD: C.A.T.
 l-Rsc: C.
 D-Mbs: B.
 
-958 - FERRETTI Giovanni (1583) _ Di Giovan Ferretti il Quarto Libro delle
+958 - FERRETTI Giovanni (1583) - Di Giovan Ferretti il Quarto Libro delle
 Napolitanc a cinque voci. Nuovamente ristampate. In Vinegia appresso l'herede di
 Girolamo Scotto. 1583.
 
@@ -29,7 +29,7 @@ D-KI: 5.
 
 ["-P,: 5.
 
-959 - FERRETTI Giovanni (1585) _ Di Giovan Ferretti il Quinto Libro delle
+959 - FERRETTI Giovanni (1585) - Di Giovan Ferretti il Quinto Libro delle
 (Sanzo… alla napolitana a cinque voci novamente poste in luce. In Vincgia appresso
 lherede di Girolamo Scotto. 1585.
 

@@ -1,4 +1,4 @@
-2.444 _ ROSSI Salomone (1614) _ Il Primo Libro de Madrigali a quattro VOCI
+2.444 - ROSSI Salomone (1614) - Il Primo Libro de Madrigali a quattro VOCI
 dl Salamon Rossi hebrco con il Basso continuo, et un Dialogo a 8 novamentc
 posti in luce. Opera Nona. In Venetia 1614. Appresso Ricciardo Amadino.
 
@@ -29,7 +29,7 @@ A 8. Amor, se pur (leggio morir senza pietà del dolor mio. Dialogo 20
 l-VEcap: compl.
 l-Rsc: C.
 
-2445 _ ROSSI Salomone (1600) _ Il Primo Libro de Madrigali a cinque vou,
+2445 - ROSSI Salomone (1600) - Il Primo Libro de Madrigali a cinque vou,
 di Salamon Rossi hebrco con alcuni di detti Madrigali per cantar nel Ghrnarone,
 con la sua intavolatura posta nel soprano. Novamente composti, et dati. in luce.
 In Venetia, appresso Ricciardo Amadino, 1600. _
@@ -53,7 +53,7 @@ A 5. Pur venistl, cor mio, e pur tho qui presente e pur ti vcggto (Guann) 2
 " " Arsi un tcmp'ed amai, e di che fiamma e con che fed'amore " B
 " " 0 donna troppo crud'e troppo bella, da voi vien la mia sorte " 9
 " " Rimanti in pace, alla dolente e bella Fillida Tirsi, sospirando, dlSSC 10
-" " Ond'ci di morte la sua faccia impressa (seconda parte) _ _ ) "
+" " Ond'ci di morte la sua faccia impressa (seconda parte) - _ ) "
 " " Dimmi che più non ardo? dirmi che più non amo? A voi bcgl'occhi (Ma…lo "
 " " Silvia s'al suon dc tuoi soavi accenti, s'al vago lampeggiar 13
 " " Dolori amari e soli, pianti, sospiri (seconda parte) H

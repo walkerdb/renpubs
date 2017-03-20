@@ -1,4 +1,4 @@
-2255 _ PORTINARO Francesco (1569) _ Di Francesco Portinaro le Vergini a
+2255 - PORTINARO Francesco (1569) - Di Francesco Portinaro le Vergini a
 sci voci con alcuni Madrigali a cinque et a sei con dui Dialoghi a 7 et uno a 8
 novamente per Antonio Gardano ristampate. All'illustrissimo imperatore Massimi-
 liano Secondo. Libro Quinto. In Venetia appresso di Antonio Gardano. 1569.
@@ -38,7 +38,7 @@ A 8; Dimmi, virtù, ti prcg'ov'lmi tua stanZa. Dialogo 29
 Ì-VEaf : 0.5.6.
 D-Rp : A.B.5.
 
-2256 - PORTO Allegro (1622) _ (Madrigali di Allegro Porto ebreo. Libro Primo.
+2256 - PORTO Allegro (1622) - (Madrigali di Allegro Porto ebreo. Libro Primo.
 A cinque voci.)
 
 5 fasc. in 8° (C.A.T.B.S.). pag. 25,(1). Ded. (a Gio. Sforza Conte di Portia): "..havendo lei

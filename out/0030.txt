@@ -13,7 +13,7 @@ D-Rp: A.TB.5.6.
 GB-Lbm: 5.
 US-Wc: 5.
 
-35 _ ALBANO Marcello (1616) _ Il Primo Libro di Canzoni, e Madrigaletti, a
+35 - ALBANO Marcello (1616) - Il Primo Libro di Canzoni, e Madrigaletti, a
 tre, et a quattro voci. Di Marcello Albano. In Napoli, appresso Gio: Giacomo
 Carlino 1616. Con licenza de' Superiori.
 

@@ -21,7 +21,7 @@ A-Wn: C.A.T.
 F-Pn: A. (prov. Landau).
 I-MOc: B
 
-2901 _ VICENTINO Nicola (1572) _ Madrigali a cinque voci di l'Arcimusico
+2901 - VICENTINO Nicola (1572) - Madrigali a cinque voci di l'Arcimusico
 don Nicola Vicentino pratico et theorico et inventore delle nuove armonie. Nuova-
 mente posti in luce, da Ottavio Resino suo disccpolo. Libro Quinto. In Milano.
 Appresso Paolo Gottardo Pontio. 1572.
@@ -48,7 +48,7 @@ Non pur quell'una, bella, ignuda mano, che con grave mio danno (Petrarca) 16
 "
 
 Sarà che cessi, o che s'allenti mai (seconda parte)
-Occhi lucenti e belli, com'csser può ch'in un mcdesm'instante nascan _ 20
+Occhi lucenti e belli, com'csser può ch'in un mcdesm'instante nascan - 20
 Quando fra l'altre donne, ad hora ad hora, amor Vien nel bel viso di costa (Petrarca) 21
 
 Da lei ti vien l'amoroso pensiero (seconda parte) " 22

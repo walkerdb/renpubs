@@ -8,7 +8,7 @@ E-Bim
 
 RISM, 1 1546-18
 
-442 _ BUSATTI Cherubino (1638) _ Arie a voce sola commode da cantarsi nel
+442 - BUSATTI Cherubino (1638) - Arie a voce sola commode da cantarsi nel
 Clavicembalo. Chitarone, et altro simile stromento, con le lettere dell'alfabeto per
 la Chitarra spagnola. Di Cherubino Busatti organista di S. Sebastiano in Venetia.
 
@@ -40,7 +40,7 @@ Angela siete, o come lieto ascolto nome gentil
 
 I-Rsc
 
-443 _ BUSATTI Cherubino (1644) _ Settimo Libro d'Ariette a voce sola dl
+443 - BUSATTI Cherubino (1644) - Settimo Libro d'Ariette a voce sola dl
 Cherubino Busatti dedicate all'illustrissimo, et eccellentissimo Signor, marchlcsc
 Ottavio Gonzaga con licenza di Superiori, et privilegio. In Venetia, apresso ACS"
 sandro Vincenti. 1644.

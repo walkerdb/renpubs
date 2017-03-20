@@ -1,4 +1,4 @@
-427 __ BROGNQNlCO Orazio (1612) _ Primo Libro de Madrigali a tre voci di
+427 __ BROGNQNlCO Orazio (1612) - Primo Libro de Madrigali a tre voci di
 Oratiol6Blrognon1co Academico Filarmonico. In Venetia, appresso Giacomo Vin-
 centi. Z.
 
@@ -50,7 +50,7 @@ D-Kl: compl.
 I-Bc: C.B.
 GB-Lbm: A.B.
 
-428 _ BROGNONÌCO Orazio (1614) _ La Bocca Secondo Libro de Madrigali a
+428 - BROGNONÌCO Orazio (1614) - La Bocca Secondo Libro de Madrigali a
 
 tre voci di Oratio Brognonico Academico Filarmonico. In Venetia, appresso Gla-
 como Vincenti. 1614.
@@ -61,7 +61,7 @@ O bocca, o dolce bocca, fido ricetto all'amoroso dio 1
 O bocca micidiale, che nel dolce d'amor mesci il veleno 2
 Piaggia amorosa e bella, ove serpeggia ogn'ora l'umidetta :
 Care perle beate, rubinetti loquaci e vor, porporc amate 5
-Un steccato amoroso, cinto di bei rubini . . _ 6
+Un steccato amoroso, cinto di bei rubini . . - 6
 O di porpora nido, aura d'odori, di perle e C1! rubini 7
 Senza il tuo dolce mele, amor è amaro . . . . 8
 O bocca feritrice, che co' strali d'amor l'anime impiaghi 9

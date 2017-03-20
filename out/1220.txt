@@ -15,7 +15,7 @@ l-FA: T.
 
 D-MZ: B.
 
-1970 _ MOSCAGLIA Giovanni Battista (1575) _ Il Primo Libro de Madrigali
+1970 - MOSCAGLIA Giovanni Battista (1575) - Il Primo Libro de Madrigali
 a quattro a cinque et a sei voci di Gio. Battista Moscaglia intitolati gl'AmorOSi
 Gigli, con dua Dialoghi a 8. Nuovamente composti et dati in luce. Libro Primo.
 ln Venctia appresso li figliuoli di Antonio Gardano. 1575.
@@ -46,7 +46,7 @@ A 5. Quando il soave mio fido conforto. Canzon 8
 " " Privo in luuo son io (seconda parte) " ÊO
 " " Bianca, bella, gentil, leggiadra mano 11
 " " A pingerti, o scolpir, seria ogn'un vano (seconda pane) 22
-" " Sc nel tornar tanto piacer prcndesle _ 22
+" " Sc nel tornar tanto piacer prcndesle - 22
 A 6. Cantan fra i rami gli augelletti vaghi, azurri e bianchi (Ariosto) 24
 " " Quando fia mai quel dì che i sette colli 25
 " " O fortunato e lieto per me giorno (seconda parte) 26

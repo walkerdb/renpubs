@@ -8,7 +8,7 @@ I-Bc: compl.
 
 B-Br: C.A.T.B.Bc.
 
-1933 _ MONTEVERDI Claudio (1615) _ Il Sesto Libro de Madrigali a cinque
+1933 - MONTEVERDI Claudio (1615) - Il Sesto Libro de Madrigali a cinque
 voci con uno Dialogo a sette, con il suo Basso continuo per poterli concertare nel
 Clavacembano, et altri stromenti. Di Claudio Monteverde maestro di cappella
 della sereniss. republica di nuovo corretti, et ristampati. Con privilegio. In Vene-
@@ -19,7 +19,7 @@ tia, 1615 appresso Ricciardo Amadino.
 I-Bc: compl.
 D-Hs : compl.
 
-1934 - MONTEVERDI Claudio (16211) _ Del signor Claudio Monteverde mae-
+1934 - MONTEVERDI Claudio (16211) - Del signor Claudio Monteverde mae-
 stro di cappella della serenissima republica di Venetia. Il Sesto Libro de Madrigali
 a cinque voci con un Dialogo a sette. Con il Basso continuo per potersi concertare
 nel Clavicembalo et altri stromcnti novamente ristampati con privilegio. Stampa
@@ -38,7 +38,7 @@ F-Pn: C_
 
 l-FEC: Bc.
 
-1935 - MONTEVERDI Claudio (1639) _ Di Claudio Monteverde maestro della
+1935 - MONTEVERDI Claudio (1639) - Di Claudio Monteverde maestro della
 musica del sereniss. S. duca di Mantoa. Il Sesto Libro de Madrigali a cinque voci
 Con un Dialogo a sette. Con il Basso continuo per potersi concertare nel Clavi-
 cembano et altri stromenti novamente ristampati. In Anversa, presso i heredi di

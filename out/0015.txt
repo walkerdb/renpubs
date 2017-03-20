@@ -14,7 +14,7 @@ Così stolta stai sepolta 20
 Ecco un lampo al tuo scampo 21
 D-As: compl.
 
-10 _ AGAZZARI Agostino (1615) _ Di Agostino Agazzari Armonico Intronato
+10 - AGAZZARI Agostino (1615) - Di Agostino Agazzari Armonico Intronato
 il Primo Libro de' Madrigaletti a tre voci. Novamente ristampati. In Venetia, 1615.
 Appresso Ricciardo Amadino.
 
@@ -22,7 +22,7 @@ Appresso Ricciardo Amadino.
 
 I-F n : compl.
 
-11 _ AGAZZARI Agostino (1607) _ Di Agostino Agazzari Armonico Intronato.
+11 - AGAZZARI Agostino (1607) - Di Agostino Agazzari Armonico Intronato.
 Il Secondo Libro de Madrigaletti, a tre voci. Novamente composti, et dati in luce.
 In Venetia, appresso Ricciardo Amadino. 1607.
 

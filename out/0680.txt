@@ -4,7 +4,7 @@ A 3. Doloroso mio corc, come poi lu soffrir [ami martiri. Canzona 36
 " " O dolore, o ferita, o mio core: 0 mio bene. Canzona 33
 I-Bc
 
-1023 _ FRESCOBALDI Girolamo (1608) _ Di Girolamo Frescobaldi il Primo
+1023 - FRESCOBALDI Girolamo (1608) - Di Girolamo Frescobaldi il Primo
 Libro de Madrigali a cinque voci nuovamente composti et dati in luce. In Anversa
 appresso Pietro Phalcsio 1608.
 
@@ -38,7 +38,7 @@ Cor mio, chi mi l'invola :;
 So ch'haveslc in lasciarmi 19'
 
 Qui dunque ohimè, qui dove spero gioia 20
-. . . . _ ,.
+. . . . - ,.
 
 Sc lontana vor sete. anima del cor mio, come vncr poss io?
 
@@ -47,7 +47,7 @@ Come perder poss'io, donna, la speme mia
 GB-Ob: C.T.B.5.
 (l-Rsc : fotocopia).
 
-1024 - GABELA Giovanni Battista (1585) _ Il Primo Lib-ro de' Madrigali il! ci???
+1024 - GABELA Giovanni Battista (1585) - Il Primo Lib-ro de' Madrigali il! ci???
 voci di Gio. Batt. Cabella. In Ferrara, per Vittorio Baldini stampator duca e. '-
 5 fasc. in 8° (C.A.T.B.5.), pag. ZO,(1). De(l. al Cavalier Camillo Abbati (la Cesena: ((...qucste mlc
 prime fatiche... Ferrara, 10 VI 1585 ".

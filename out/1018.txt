@@ -4,7 +4,7 @@ l-ST: C.
 US-BE: T.
 F-Pc: 5.
 
-1615 _ MARENZIO Luca (1595) _ Di Luca Marcnzio il Terzo Libro dc
+1615 - MARENZIO Luca (1595) - Di Luca Marcnzio il Terzo Libro dc
 Madrigali a cinque voci, novamente ristampati. In Venetia appresso Angelo
 
 Gardano. 1595.
@@ -40,7 +40,7 @@ NL-DHg-m: A.
 
 Un esempl. compl. era nella Collezione Heyer di Kôln.
 
-1616 _ MARENZIO Luca (1584) _ Di Luca Marcnzio il Quarto Libro de
+1616 - MARENZIO Luca (1584) - Di Luca Marcnzio il Quarto Libro de
 Madrigali a cinque voci novamente composti, et dati in luce. In Venetia appresso
 Giacomo Vincenci, et Ricciardo Amadino, compagni. 1584.
 

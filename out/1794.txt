@@ -23,7 +23,7 @@ I-Fm: 5.
 
 RISM, I 1598-14 (non compl.).
 
-2866 _ VERDELOT Philippe (1533) - Del Primo Libro de Madrigali di Ver-
+2866 - VERDELOT Philippe (1533) - Del Primo Libro de Madrigali di Ver-
 delotto.
 
 In fine: " Finiscono li Madrigali de Verdelot. Stampati novamente in Vinegia per
@@ -53,7 +53,7 @@ Sì lieta e grata morte dagl'occhi di madonn'al cor mi viene
 Vita de la mia vita, quanto gran tort'havete {:
 Gloriar mi posso io, donne, d'haver un sì leggiadr'e fid'amante 18
 Piove da gli occhi de la donna mia una tanta beltade 19
-Con l'angelico riso a me negast'i dolci baci santi . _ 20
+Con l'angelico riso a me negast'i dolci baci santi . - 20
 Se voi porgesti una sol fiala, donna, con lieto volto i desiau 21
 S'io pensasse, madonna, che mia morte vi fosse sopr'ogn'altra 22
 Deh perchè sì veloce passa, madonn'al cor quel dolce sguardo 23

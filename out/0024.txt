@@ -1,4 +1,4 @@
-27 _ AGOSTINI Ludovico (1571) _ Enigmi musicali di don Ludovico Agostini
+27 - AGOSTINI Ludovico (1571) - Enigmi musicali di don Ludovico Agostini
 ferrarese. Il Primo Libro a sei con Dialoghi a sette otto et dieci novamente corn-
 posti et dati in luce. A sei voci. In Venetia apresso li figliuoli di Antonio Gar-
 
@@ -42,7 +42,7 @@ I-MOc: C.A.T.B.
 I-Rsc: T.B.5.6.
 US-BE: C.
 
-28 _ AGOSTINI Ludovico (1567) _ Musica di Lodovico Agostini ferrarese, sopra
+28 - AGOSTINI Ludovico (1567) - Musica di Lodovico Agostini ferrarese, sopra
 le rime bizzarre di M. Andrea Calmo, et altri autori. A 4 voci. In'Milano, appò
 
 Cesare Pozzo, 1567.

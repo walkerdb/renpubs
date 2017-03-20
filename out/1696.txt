@@ -14,7 +14,7 @@ Pon {ren al gran dolor. che ti transporta. che per soverchie voglie " B
 Cadut'è la tua gloria e tu nol vedi, nè degno eri, menlr'ella visse " 19
 NL-At: C.
 
-2712 _ TERRIERA Francesco (1596) _ Madrigali a cinque voci di Francesco
+2712 - TERRIERA Francesco (1596) - Madrigali a cinque voci di Francesco
 Terriera da Conegliano nuovamente composti, e dati in luce, Libro Primo. ln
 Venetia, appresso Giacomo Vincenti. 1596.
 
@@ -44,7 +44,7 @@ Questa vaga ghirlanda. contesta di soavi e lieti fiori, colti da un Monte
 D-Hs: compl.
 D-Rp: C.A.T.B.
 
-2713 - TERRIERA Francesco (1606) _ Il Secondo Libro dc Madrigali a'culiill:
+2713 - TERRIERA Francesco (1606) - Il Secondo Libro dc Madrigali a'culiill:
 voci di Francesco Terriera da Conegliano novamente composto et dato tn
 In Venetia, appresso Giacomo Vincenti. 1606.
 

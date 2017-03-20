@@ -25,7 +25,7 @@ Pastore]! (l'amor, non mi fuggir, ah dio E
 B-Br: compl.
 E-V: compl.
 
-2474 _ RUFFO Vincenzo (1546) _ Vincenzo Ruffo il Primo Libro de Madrigali
+2474 - RUFFO Vincenzo (1546) - Vincenzo Ruffo il Primo Libro de Madrigali
 a notte negre di Vincenzo Ruffo a quatro voci novamente con ogm dlllgentlîl
 stampato et corretto. A quatro voci. In Venetia apresso di Antonio Gardane1546-
 
@@ -34,7 +34,7 @@ stampato et corretto. A quatro voci. In Venetia apresso di Antonio Gardane1546-
 I VEaf: C.A.B.
 I-Bc: A.D.
 
-2475 _ RUFFO Vincenzo (1552) _ Di Vincenzo Ruffo il Prirno lſiibro dc gici-$;
+2475 - RUFFO Vincenzo (1552) - Di Vincenzo Ruffo il Prirno lſiibro dc gici-$;
 gali cromatici a quatro voci con la gionta di alquanti Madrigali del mem:i In
 autore novamente con ogni diligenita ristampato et corretto. A quatro v -
 Venetia apresso di Antonio Gardane. 1552.
@@ -45,7 +45,7 @@ l
 Z
 3
 
-. . . . . _ ,
+. . . . . - ,
 Amor che mi consrgli? Vor che fugga costei, over la segua.
 lniustissim'amor, perchè sì raro corrispondenti fa:
 

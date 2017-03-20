@@ -2,7 +2,7 @@ Amor, che sempr'a gloriose imprese l'arco tuo intendi
 [talia mia, benchè'l parlar sia indarno
 
 27
-. . _ _ (Petrarca 28
+. . - _ (Petrarca 28
 Rettor del ctcl, IO chieggro che la pietà (seconda parte) ) 19
 
 ))
@@ -11,7 +11,7 @@ I-Tn: compl.
 D-Mbs: compl.
 F-CC: C.
 
-2344 _ RlCCIO Teodoro (1567) _ Di Theodoro Riccio maestro della capella di
+2344 - RlCCIO Teodoro (1567) - Di Theodoro Riccio maestro della capella di
 Santo Nazaro di Brescia. Il Primo Libro de Madrigali a sei voci, con tre a sette
 ct tre a otto et uno a dodeci, novamente dati in luce. A sei voci. In Venetia
 appresso di Antonio Gardano. 1567.

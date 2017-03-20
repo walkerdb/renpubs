@@ -30,7 +30,7 @@ A 8. Felici d'Adrin. Dialogo
 I-VEaf : C.
 I-Bc : T.
 
-1036 _ GABRIELI Andrea (1572) _ Di Andrea Gabrieli organista della illu.strls-
+1036 - GABRIELI Andrea (1572) - Di Andrea Gabrieli organista della illu.strls-
 sima S. di Venetia in S. Marco il Secondo Libro di Madrigali a cinque VOC], msm-nc
 doi a sei et uno Dialogo a otto. Novamente con ogni diligentia ristampato. A cm-
 quc voci. In Venetia apresso li figliuoli di Antonio Gardano. 1572.
@@ -43,7 +43,7 @@ GB-Lwa: compl.
 GB-Lbm: C.A.T.5.
 I-Vnm (Canal): B.
 
-1037 _ GABRIELI Andrea (1588) _ Di Andrea Gabrieli organista della screnisscìzſLl:
+1037 - GABRIELI Andrea (1588) - Di Andrea Gabrieli organista della screnisscìzſLl:
 Signoria di Venetia in S. Marco il Secondo Libro di Madrigali a cmquc vtîcl- Gar-
 un Dialogo a otto, novamente ristampato. In Venetia appresso Ange 0
 dan'o. 1588.

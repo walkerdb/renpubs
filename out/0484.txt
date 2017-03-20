@@ -17,7 +17,7 @@ GB-Lbm: compl.
 
 I-Bc: A.T.B.5.
 
-723 _ DEL MEL Rinaldo (1584) _. Il Primo Libro de Madriagli a sei voci, di
+723 - DEL MEL Rinaldo (1584) _. Il Primo Libro de Madriagli a sei voci, di
 Rinaldo del Mel, novamente da lui composto et dato in luce. In Venetia appresso
 Angelo Gardano. 1584.
 
@@ -50,7 +50,7 @@ Verdi piaggie e gradite, mai sempr'ornate di perpetui fiori [8
 
 Lascivi pesci, che scherzando gite (seconda parte) 19
 
-Deh ditemi per dio, se fu nel mondo o fia (terza parte) _ 20
+Deh ditemi per dio, se fu nel mondo o fia (terza parte) - 20
 Mentre lieta e ridente la vaga e bella Clori meco racconta i suoi felici 21
 
 . . . . . . ' v s

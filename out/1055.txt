@@ -8,7 +8,7 @@ F-Pc: T.
 l-Rsc: B.
 GB-Lbm: B.
 
-1701 _ MARENZIO Luca (1596) _ Il Quarto Libro delle Villanelle et Arie
+1701 - MARENZIO Luca (1596) - Il Quarto Libro delle Villanelle et Arie
 alla napolitana, a tre voci, di Luca Marentio raccolte per Attilio Gualtieri, nova-
 mente ristampate, et corrette. ln Venetia, appresso Giacomo Vincenti. 1596.
 
@@ -21,7 +21,7 @@ I-Bc: B.
 l-Rsc: B.
 D-MZp: B.
 
-1702 - MARENZIO Luca (1600) _ Il Quarto Libro delle Villanelle et Arie
+1702 - MARENZIO Luca (1600) - Il Quarto Libro delle Villanelle et Arie
 alla napolitana a tre voci di Luca Marenzìo di novo ristampate, et con diligenza
 corrette. In Venetia, appresso Angelo Cardano. 1600.
 

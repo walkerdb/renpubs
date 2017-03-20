@@ -1,4 +1,4 @@
-1003 _ (FONTANELLI) (1609) _ Secondo Libro de Madrigali senza nome. A
+1003 - (FONTANELLI) (1609) - Secondo Libro de Madrigali senza nome. A
 cinque voci. Novamente ristampato. In Venetia appresso Angelo Gardano, et
 
 fratelli. 1609.
@@ -9,7 +9,7 @@ F-Pc: compl.
 NL-Uim: compl.
 F-Pn: T.
 
-1004 _ (FONTANELLI Alfonso) (1610) _ Secondo Libro de Madrigali senza
+1004 - (FONTANELLI Alfonso) (1610) - Secondo Libro de Madrigali senza
 nome. A cinque voci. Novamente ristampati. Stampa del Gardano in Venetia 1619.
 Appresso Bartolomeo Magni.
 
@@ -18,7 +18,7 @@ Appresso Bartolomeo Magni.
 GB-Lwa: compl.
 US-CA: T.
 
-1005 _ FONTE] Nicolo (1635) _ Bizzarrie poetiche poste in musica da Nicolo
+1005 - FONTE] Nicolo (1635) - Bizzarrie poetiche poste in musica da Nicolo
 Fontei orcianese a 1.2.3. voci dedicate all'ill.mo sig.r Gio: Paulo Vidmano de
 liberi signori di S. Paterniano, e Sumereccho nella Carinthia. In Venetia 1635
 appresso Bartholomeo Magni.

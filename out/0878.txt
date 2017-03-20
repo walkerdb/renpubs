@@ -1,4 +1,4 @@
-1371 _ LAMBARDI Francesco (1607) _ Villanclle a tre et a quattro voci, et
+1371 - LAMBARDI Francesco (1607) - Villanclle a tre et a quattro voci, et
 Arie di Francesco Lambardi musico della real cappella di palazzo di Napoli. Libro
 Primo. Napoli, nella stampa di Gio. Battista Sottile: per Scipione Bonino. Con
 licenza de' Superiori. 1607.
@@ -40,7 +40,7 @@ I-Nc: C.A.
 I-Nn: A.
 E-Mn: T.
 
-_ LAMBARDI Francesco 1614) _ Il Secondo Libro de Villanelle a tre. a
+_ LAMBARDI Francesco 1614) - Il Secondo Libro de Villanelle a tre. a
 3133310, et a cinque. Con alcune ; modo di Dialoghi, et nella parte del Tenorî- diu;
 Arie nel fine. Di Francesco Lambardi organista della regale cappella in Napo |. "
 Lettori. Havendo il dottor Pietro Mazzara fatto stampare cinque dl queste Vlllâme c

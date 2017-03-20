@@ -2,7 +2,7 @@ l-Vnm: C.A.T.5
 I-Bc: A.B.5.
 l-Fc: 5.
 
-2400 _ (De) RORE Cyprien (1593) _ Di Cipriano dc Rore il Primo Libro di
+2400 - (De) RORE Cyprien (1593) - Di Cipriano dc Rore il Primo Libro di
 Madrigali cromatici a cinque voci. Novamente ristampato. In Venetia appresso
 
 Angelo Gardano. 1593.
@@ -10,7 +10,7 @@ Angelo Gardano. 1593.
 
 B-Br: compl.
 
-2401 - (De) RORE Cyprien - WILLAERT Adriano (1544) _ Di Cipriano il
+2401 - (De) RORE Cyprien - WILLAERT Adriano (1544) - Di Cipriano il
 Secondo Libro de Madrigali a cinque voci insieme alcuni di M. Adriano et altri
 autori a misura comune novamente posti in luce a cinque voci. Venetijs apud
 

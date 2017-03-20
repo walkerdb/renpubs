@@ -1,4 +1,4 @@
-195 _ AZZAIOLO Filippo (1569) _ Di Filippo Azzaiolo bolognese il Terzo Libro
+195 - AZZAIOLO Filippo (1569) - Di Filippo Azzaiolo bolognese il Terzo Libro
 delle Villotte del fiore alla padoana con alcune Napolitane e Bergamasche a quatro
 voci et uno Dialogo a otto novamente stampate et date in luce. A quatro voci.
 In Venetia appresso di Antonio Gardano. 1569.
@@ -33,7 +33,7 @@ I-Bc: T.B.
 
 RISM, I 1569-24.
 
-196 - BACCUSI Ippolito (1594) _ Di Ippolito Baccusi, maestro di cappella nel
+196 - BACCUSI Ippolito (1594) - Di Ippolito Baccusi, maestro di cappella nel
 domo d1 Verona. Il Primo Libro de Madrigali a tre voci, novamente datti in luce.
 In Venetia appresso Ricciardo Amadino, 1594.
 
@@ -56,7 +56,7 @@ Poi com'gc'nòt-ll prima che chiara altamente la voce (Tasso) Il
 
 Se m'odâl'm' . non .aspettar (seconda parte) " 13
 
-A _ .! e n c1ò diletto (terza parte) " 14
+A - .! e n c1ò diletto (terza parte) " 14
 gglungl a quest'ancor (quarta parte) " 15
 
 - -117_

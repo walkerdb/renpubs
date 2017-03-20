@@ -1,4 +1,4 @@
-2965 _ (De) WERT )acob (1570) _ Di Giaches cle Wert il Primo Libro de Madre-
+2965 - (De) WERT )acob (1570) - Di Giaches cle Wert il Primo Libro de Madre-
 gall a quatro voci novamente ristampato. A quatro voci. In Venetia appresso li
 figliuoli di Antonio Gardano. 1570.
 
@@ -8,7 +8,7 @@ figliuoli di Antonio Gardano. 1570.
 NL-At: T.
 A-Wn: B.
 
-2966 _ (De) WERT ]acob (1583) _ Di Giaches dc Wert il Primo Libro de Madri-
+2966 - (De) WERT ]acob (1583) - Di Giaches dc Wert il Primo Libro de Madri-
 gali a quattro voci, novamente ristampato. In Venetia appresso Angelo Gardano
 1583.
 
@@ -24,7 +24,7 @@ PL-GD: compl.
 
 B-Br: C.T.B.
 
-2967 _ (De) WERT ]acob (1558) _ Di Giaches dc VVert il Primo Libro dc
+2967 - (De) WERT ]acob (1558) - Di Giaches dc VVert il Primo Libro dc
 Madrigali a cinque voci. Novamente posti in luce: et da lui proprio corretti alla
 stampa. In Vincgia, appresso Girolamo Scoto. 1558.
 
@@ -56,7 +56,7 @@ A 5. Qual l'eclissato sol, che quasi privo (quinta parte)
 " " Quando ved'il pastor calar i raggi del gran pianct'al " 20
 " " Ahi crud'amor, ma tu all'hor più m'informe (seconda parte) ' " 21
 " " Cura. che di timor ti nutr'e cresci e tosto fcd'a tuoi (Gio.Della 0353) 22
-" " lvi scnza ripos'i giorni mena (seconda parte) _ " " " 23
+" " lvi scnza ripos'i giorni mena (seconda parte) - " " " 23
 " " O sonno, o della quct'humid'ombrosa notte placido figlio " " " 24
 " " Ov'è'l silcntio, ch'il dì fugg'il lume (seconda parte) " " "
 

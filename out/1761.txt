@@ -1,7 +1,7 @@
 US-SFsc (De Bellis): A.
 l-Fn: T.
 
-2817 _ VECCHI Orazio (1593) .- Canzonctte a quattro voci di Horatio Vecchi
+2817 - VECCHI Orazio (1593) .- Canzonctte a quattro voci di Horatio Vecchi
 da Modena le quali per avanti sono in Venetia spartatamente ite in luce, et ora
 per più comodità raccolte insieme. In Norimberga, nella stamperia delli Gcrlachii.
 
@@ -14,7 +14,7 @@ CH-Bu: compl.
 S-Uu: C.A. (difett.).
 PL-Wu: A.
 
-2818 - VECCHI Orazio (1600-1601) _ Canzonette a quattro voci di Horatio Vec-
+2818 - VECCHI Orazio (1600-1601) - Canzonette a quattro voci di Horatio Vec-
 chi da Modena. Le quali per avanti sono in Venetia spartatamente ite in luce, ct
 ora per più comodità raccolte insieme. E con aggiunte di altre a 5. 4. e 3. voci, del
 
@@ -57,7 +57,7 @@ A 3. Sanità e allegrezza e bezi assai. ]ustiniana
 
 " " Amor, opra che puoi, che'! mio contento. Aria
 
-" " Io spero e tem'ct ard'e mi disfaccio. Aria _ _ _
+" " Io spero e tem'ct ard'e mi disfaccio. Aria - _ _
 " " Non vo pregare chi non m'ascolta, chè la mia diva d'amor ml pnva. Ana
 
 D-Hs: compl.

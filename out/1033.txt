@@ -1,6 +1,6 @@
 [1 N. 1650 è annullato.
 
-1651 _ MARENZIO Luca (1596) _ Di Luca Marcnzio il Primo Libro de
+1651 - MARENZIO Luca (1596) - Di Luca Marcnzio il Primo Libro de
 Madrigali a sei voci. Novamente ristampato. ln Venetia, 1596. Appresso l'hcredc
 di Girolamo Scoto.
 
@@ -14,7 +14,7 @@ l-PAc: C.A.T.B.
 
 D-Rp: C.A.5.6. (prov. Haberl).
 
-1652 - MARENZIO Luca (1605) _ Il Primo Libro de Madrigali a sei voci
+1652 - MARENZIO Luca (1605) - Il Primo Libro de Madrigali a sei voci
 di Luca Marenzio novamente ristampato. ln Venetia. Appresso Angelo Gardano.
 
 1603.
@@ -25,7 +25,7 @@ GB-Lbm: compl.
 GB-T: compl.
 F-Pc: C.
 
-1653 - MARENZlO Luca (1584) _ Il Secondo Libro dc Madrigali a sei voci.
+1653 - MARENZlO Luca (1584) - Il Secondo Libro dc Madrigali a sei voci.
 Di Luca Marcnzio, novamente composto, et dato in luce. In Venetia appresso
 
 Angelo Gardano. 1584.

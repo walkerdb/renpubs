@@ -1,4 +1,4 @@
-1071 _ GASTOLDI Giovan Giacomo (1631) _ Balletti a tre voci, con li suoi versi
+1071 - GASTOLDI Giovan Giacomo (1631) - Balletti a tre voci, con li suoi versi
 per cantare, sonare et ballare. Di Gio. Giacomo Gastoldi da Caravaggio, macstro
 di capella del serenissimo signor duca di Mantova. Novamente ristampati. En
 Anversa, presso i heredi di Pietro Phalesio al re David. 1631.
@@ -9,7 +9,7 @@ B-Gu: compl.
 GB-Och: compl.
 NL-DHgm: B. (prov. Schcurlccr).
 
-1072 _ GASTOLDI Giovan Giacomo (1641-1) _ Balletten, seer lustigh om singhcn
+1072 - GASTOLDI Giovan Giacomo (1641-1) - Balletten, seer lustigh om singhcn
 end spelen. Gestelt door Giacomo Castoldi, met drie stemmen. Ende nu verrijckt
 met de vierde Partye, door Godefrid Oldenraet, organist der Stadt Zutphcn: doch
 zijn alsoo ghcscclt, dat de drie voorste Partyen in haren ecrsten stant zijn ghe-
@@ -48,7 +48,7 @@ ll Tormentato. Dc Wocstijn dic hccſt ghcvocdt 24
 Il Costante. Israël drccl sìjn vyandt menich macl 25
 Il Fortunato. Och! wat plaghcn Godt toc sond' 26
 L'Invaghito. ln drocvc tijdcn. Woud' Godt verblijden 27
-Il Passionato. Ons is ccn kint gcborcn _ 28
+Il Passionato. Ons is ccn kint gcborcn - 28
 Korn Musiciens alhir ontrcnt. Di LUP' 29
 
 O Vader goct wy danclrcn u. Dì Camel. Piet. Fred

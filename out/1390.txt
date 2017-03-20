@@ -24,7 +24,7 @@ I-Bc: C.A.T.B.
 GB-Lbm: T.
 I-VEaf : 5.
 
-2252 _ PORTlNARO Francesco (1557) _ Di Francesco Portinaro macstro della
+2252 - PORTlNARO Francesco (1557) - Di Francesco Portinaro macstro della
 nobile et vìrtuosa Accademia de signori Constanti Vicentini, il Terzo Libro dl
 Madregali a cinque et a sei voci, con tre Dialoghi a sette et uno a otto novarncrlte
 da lui composti et per Antonio Gardano stampati et dati in luce. A Cinque-
@@ -38,7 +38,7 @@ primo principe ;
 " " Agli avi vostri, all'immortal parente 4
 " " Passer mai solitario in alcun tetto (Petrarca) 5
 " " Qual convenevol loda, o qual honore 6
-" " E' sì grat'c soave il piacer che si prende _ 7
+" " E' sì grat'c soave il piacer che si prende - 7
 " " Che giova saettar un che si more (Arrosto) 8
 " " Sc ſu felic'al mondo ct fortunata Laura che del gran Tosco et immortale 9
 " " Quella che fu da degno (seconda parte) 10

@@ -9,7 +9,7 @@ A 4. Se laccio il duo] s'avanza, se parlo accresco l'ira (Tasso) 13
 A 8. Vaghi pastori, ond'è che'] bel Lamone hoggi. Ad Alcssandro Naldi. Dialogo 20
 GB-Lbm: C.
 
-687 _ DAL POZZO Vincenzo (1585) _ Di Vincenzo Dal Pozzo il Primo Libro
+687 - DAL POZZO Vincenzo (1585) - Di Vincenzo Dal Pozzo il Primo Libro
 de Madrigali a cinque voci, novamente composto et dato in luce. In Vinegia
 appresso l'herede di Girolamo Scotto. 1585.
 
@@ -31,7 +31,7 @@ A 5. Occhi miei belli, o parolette accorte, più non vi veggio 3
 " " Frenò Tirsi il desio ch'havea (seconda parte) " 14
 " " Così moriro i fortunati amanti (terza parte) " 15
 " " Com'al spuntar de la vermiglia aurora gioisce il mondo 16
-" " Amor, che dcggio far, deggio morire? Ahi, non fia ver _ 17
+" " Amor, che dcggio far, deggio morire? Ahi, non fia ver - 17
 " " Questa ordi il laccio, questa sì bella man (Strozzi) 18
 " " Hor che l'aura mia dolce altrove spira (l'asso) 19
 " " O fortunate selve, o liete piagge (seconda parte) " 2-11)
@@ -46,7 +46,7 @@ GB-Lbm: compl.
 US-Wc: compl. (prov. Heyer)
 I-VEaf : C.T.B.
 
-688 - DAL POZZO Vincenzo (1612) _ Il Quarto Libro di Madrigali a cinque
+688 - DAL POZZO Vincenzo (1612) - Il Quarto Libro di Madrigali a cinque
 voci di Vincenzo Dal Pozzo maestro di capella nel duomo di Faenza. Nuova-
 mente composto et dato in luce. In Venetia, appresso Ricciardo Amadino. 1612-
 

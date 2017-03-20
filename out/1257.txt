@@ -1,4 +1,4 @@
-2033 _ NERITI Vincenzo (1593) .- Canzonette a quattro voci di Vincenzo
+2033 - NERITI Vincenzo (1593) .- Canzonette a quattro voci di Vincenzo
 Neriti da Salò musico et capellano della sacra cesarea maestà dell'imperatore
 Rodolfo Secondo. Libro Primo. Novamente dato in luce. In Venetia appresso
 Angelo Gardano. 1593.
@@ -34,7 +34,7 @@ GB-Lwa: eompl.
 
 A-Wn: C.A.
 
-2034 - NERlTI Vincenzo (1595) _ Di Vincenzo Neriti da Salo maestro di
+2034 - NERlTI Vincenzo (1595) - Di Vincenzo Neriti da Salo maestro di
 capella nella chiesa di Salò il Secondo Libro di Canzonette a quattro voci, con
 due a otto nel fine. Novamente composte et date in luce. All'illustrissimo signor
 marchese Pallavicino. In Venetia appresso Angelo Gardano. 1595.

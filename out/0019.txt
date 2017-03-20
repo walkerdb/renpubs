@@ -13,7 +13,7 @@ D-Rp: C.T.B.5.6.
 I-Sc: A. (dif.), T.'5.
 A-Wn: B.
 
-20 _ AGAZZARI Agostino (1600) _ Di Agostino Agazzari gentil'huomo sanesc.
+20 - AGAZZARI Agostino (1600) - Di Agostino Agazzari gentil'huomo sanesc.
 Madrigali harmoniosi e dilettevoli a sei voci nuovamente stampati et dati in luce.
 
 In Anversa. Appresso Pietro Phalesio. 1600.
@@ -29,7 +29,7 @@ P-C: C.
 
 D-DS: T.
 
-21 _ AGAZZARI Agostino (1620) _ Stille soavi di celeste aurora a 3, 4, 5 voci
+21 - AGAZZARI Agostino (1620) - Stille soavi di celeste aurora a 3, 4, 5 voci
 con Basso per sonare. Opera Decima nona. Di Agostino Agazari Armon. Intr.
 Stampa del Gardano in Venetia 1620. Appresso Bartholomeo Magni.
 

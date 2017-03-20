@@ -1,6 +1,6 @@
 A 5. I bcgl'occhi e le chiome di voi, mio vivo sole
 
-w _ _ 16
+w - _ 16
 " " Nel mar de lo mio pianto va scherzando fortuna 17
 " " Cantate, muse, 1 scmpiterni honori di quell'illustre. A Mons. Giuliano della Rovere 18
 " " Il suo nome risuona (seconda parte) 19
@@ -8,7 +8,7 @@ A 8. Amor, come farai, se cieco sei. Dialogo 20
 
 B-Gu: A.T.B.
 
-371 __ BIZZARRO ACCADEMICO CAPRICCIOSO (1620) _ Trastulli estivi con-
+371 __ BIZZARRO ACCADEMICO CAPRICCIOSO (1620) - Trastulli estivi con-
 certati a due, tre et quattro voci con il Basso continuo per sonar. Libro Prima del
 Bizarro Accademico Capriccioso Opera Prima. Novamente composta, et data in luce.
 Con privilegio. ln Venetia, appresso Alessandro Vincenti. 1620.

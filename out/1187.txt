@@ -1,4 +1,4 @@
-1898 _ MONTEVERDI Claudio (1584) _ Canzonctte a tre voci: di Claudio
+1898 - MONTEVERDI Claudio (1584) - Canzonctte a tre voci: di Claudio
 Monteverde cremonese, discepolo del sig. Marc'Antonio Ingegnieri, novamentc
 poste in luce. Libro Primo. In Venetia presso Giacomo Vincenzi, et Ricciardo
 Amadino, compagni. 1584.
@@ -33,7 +33,7 @@ F-Pthibault: C.T.
 I-Bc: C.
 GB-Lbm: B.
 
-1899 - MONTEVERDI Claudio (162.3) _ Lamento d'Arianna del signor Claudio
+1899 - MONTEVERDI Claudio (162.3) - Lamento d'Arianna del signor Claudio
 Monteverde maestro di capella della serenissima republica. Et con due Lettere
 amorose in genere representative. Con privilegio. Stampa del Gardano. In Venetia
 1623. Appresso Bartolomeo Magni.

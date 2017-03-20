@@ -1,4 +1,4 @@
-14 _ AGAZZARI Agostino (1602) _ Di Agostino Agazzari gentil'huomo sanese,
+14 - AGAZZARI Agostino (1602) - Di Agostino Agazzari gentil'huomo sanese,
 Madrigali a cinque voci con un Dialogo a sei et un Pastorale a otto, a l'ultimo.
 Novamente stampati et dati in luce. In Anversa. Appresso Pietro Phalesio. 1602.
 
@@ -8,7 +8,7 @@ GB-Och: compl.
 D-W: C.T.B.
 GB-Lbm: T.B.
 
-15 _ AGAZZARI Agostino (1608) _ Di Agostino Agazzari gentil'huomo sanese,
+15 - AGAZZARI Agostino (1608) - Di Agostino Agazzari gentil'huomo sanese,
 il Primo Libro de Madrigali a cinque voci, con un Dialogo a sei, et un Pastorale a
 
 8 a l'ultimo. Novamente con ogni diligenza ristampato. In Venetia, appresso Ales-
@@ -21,7 +21,7 @@ I-Sac: C.A.B.
 A-Wn: A.B.5.
 F-A: GB.
 
-16 _ AGAZZARI Agostino (1608) _ Madrigali di Agostino Agazzari gentil'hUomo
+16 - AGAZZARI Agostino (1608) - Madrigali di Agostino Agazzari gentil'hUomo
 senese. Nel Collegio Alemagno maestro della musica. A cinque voci. Con un
 Dialogo a sei, et un Pastorale a otto. Novamente ristampati, et dati in luce. Franco-
 forti appresso Nicolao Stenio. 1608.
@@ -30,7 +30,7 @@ forti appresso Nicolao Stenio. 1608.
 
 GB-Lbm : T.B5.
 
-17 _ AGAZZARI Agostino (1606) _ Di Agostino Agazzari Armonico Intronato.
+17 - AGAZZARI Agostino (1606) - Di Agostino Agazzari Armonico Intronato.
 Il Secondo Libro de Madrigali a cinque voci. Novamente composti, et dati in luce.
 In Venetia, appresso Ricciardo Amadino, 1606.
 

@@ -22,7 +22,7 @@ A 6. Alfin poi ch'hebbe vint'e presa l'alma (seconda parte) 23
 " " Il mio nuovo gran mal'è sì soave (seconda parte) 30
 I-Bc: B.6.
 
-2189 _ PESCIOLINI Biagio (1571) _ Il Secondo Libro de Madrigali a sei-VOCI
+2189 - PESCIOLINI Biagio (1571) - Il Secondo Libro de Madrigali a sei-VOCI
 di Biagio Pesciolini da Prato di Toschana, maestro di capella nella prcpositurîl
 di Prato. Novamente composti et dati in luce. In Venetia apresso li figliuoli dl
 Antonio Gardano. 1571.
@@ -42,7 +42,7 @@ A 6. Venul'era madonna al mio languire con quel bel (Sannazzaro) 1
 " " Dch perchè non poss'io (seconda parte) 10
 " " Son questi quei bcgl'occh'in cui mirando (BembO) 11
 " " A che più slral, amor, s'io mi ti rendo 11
-" " Colse iacint'e gigli, ros'e viol'amor _ _ 13
+" " Colse iacint'e gigli, ros'e viol'amor - _ 13
 " " O nott'o cielo, o mar, o piagg'o monti (Q'-l…") 14
 " " E se fiamm'amorosa (seconda parte) " 15
 " " Chi vuol udir i miei sospir (terza parte) " 16

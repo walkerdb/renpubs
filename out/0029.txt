@@ -26,7 +26,7 @@ PL-Wu: compl.
 D-Rp: C.B. (T. framm.)
 D-MZ: B.
 
-34 _ AICHINGER Gregor (1590) _ Sacrae Cantiones quatour (sic) quinque, sex,
+34 - AICHINGER Gregor (1590) - Sacrae Cantiones quatour (sic) quinque, sex,
 octo, et decem vocum, cum quibusdam alijs quae vocantur Madrigali, cum vivae
 voci, tum omnibus musicorum instrumentis accomodatae. Auctore Gregorio Aichin-
 ger organista illustris ac generosi domini Iacobi Fuggeri, etc. Venetijs apud Ange-

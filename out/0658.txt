@@ -1,4 +1,4 @@
-993 _ FLECHA Mateo (1568) _ D. F. Matheo Fleccia carmelita capelano dela
+993 - FLECHA Mateo (1568) - D. F. Matheo Fleccia carmelita capelano dela
 imperatrice nostra signora. Et musico de la M. cesarea il Primo Libro de Madri-
 gali a quatro et cinque voci con uno sesto et un Dialogo a otto novamente da lui
 composti et per Antonio Gardano stampati et dati in luce. Primo Libro. In Venetia
@@ -44,7 +44,7 @@ A 8. Amor, ond'è che tanto disarmato, lasciando Papho e Gnido. Dialogo
 A-Wn : compl.
 D-Mbs: compl.
 
-994 _ FLORIO Giorgio (1586) _ Il Primo Libro dc Madrigali a sei voci, di Giorgio
+994 - FLORIO Giorgio (1586) - Il Primo Libro dc Madrigali a sei voci, di Giorgio
 Florio maestro di capella del domo di Trevigi, novamente posto m lucc. In Vcnctlîl
 
 appresso Angelo Gardano 1589.

@@ -15,7 +15,7 @@ A 7. Qual frutto è quel che d'amor sorg'e nasce. Dialogo 23
 " " Hormai lassar de\'resti. Dialogo 29
 I-Bc: compl.
 
-2625 _ SORTE Bartolomeo (1579) - Di Bartolomeo Sorte padovano il Secondo
+2625 - SORTE Bartolomeo (1579) - Di Bartolomeo Sorte padovano il Secondo
 Libro de Madrigali a cinque voci. Novamente composti et dati in luce. In Venetia
 appresso Angelo Gardano. 1579.
 
@@ -44,7 +44,7 @@ A l'apparir de la vermiglia aurora fuori del letto di Titone uscita 20
 
 Ella in quel dir pallida venn'e strinse (seconda parte)
 
-' _ _ , , ,. . - te
+' - _ , , ,. . - te
 Sacran le genta vm tutte divot'altari e vardon gl msensr. Al molto illustre !}be 21
 [Martinenso
 

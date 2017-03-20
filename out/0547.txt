@@ -1,4 +1,4 @@
-825 _ D'INDIA Sigismondo (1610) _ Libro Primo de Madrigali a cinque voci. Di
+825 - D'INDIA Sigismondo (1610) - Libro Primo de Madrigali a cinque voci. Di
 Sigismondo D'India palermitano. Novamente ristampato. In Venetia appresso
 Angelo Gardano, et fratelli. 1610.
 
@@ -9,7 +9,7 @@ GB-Och: compl.
 l-Rc: C.B.5.
 GB-Lbm: B.
 
-826 - D'INDIA Sigismondo (1611) _ Libro Secondo de Madrigali a cinque voci
+826 - D'INDIA Sigismondo (1611) - Libro Secondo de Madrigali a cinque voci
 di Sigismondo D'India nobile palermitano. Novamente composti et dati in luce.
 ln Venetia. Appresso Angelo Gardano, et fratelli. 1611.
 
@@ -42,7 +42,7 @@ GB-Lbm: B.
 
 US-SPsc (De Bellis): 5.
 
-827 7 D'INDIA Sigismondo (1615) _ Di Sigismondo D'India il Terzo Libro dc
+827 7 D'INDIA Sigismondo (1615) - Di Sigismondo D'India il Terzo Libro dc
 Madrigali a cinque voci. Con il suo Basso continuo da sonar con diversi instro-
 menti da corpo a beneplacito; ma necessariamente per gli otto ultimi. Novamente
 Stampati. Con privilegio. Stampa del Gardano. In Venetia. 1615. Appresso Bartho-

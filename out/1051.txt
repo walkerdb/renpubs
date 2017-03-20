@@ -1,4 +1,4 @@
-1692 _ MARENZIO Luca (1597) _ Il Secondo Libro delle Villanelle et Arie
+1692 - MARENZIO Luca (1597) - Il Secondo Libro delle Villanelle et Arie
 alla napolitana, a tre voci, di Luca Marentìo raccolte per Attilio Gualtieri. Nova-
 mente ristampate, et corrette. In Venetia, appresso Giacomo Vincenti 1597.
 
@@ -9,7 +9,7 @@ l-Fn: T.
 I-Rsc: B.
 D-MZp: B.
 
-1693 _ MARENZIO Luca (1000) _ Il Secondo Libro delle Villanelle et Arie
+1693 - MARENZIO Luca (1000) - Il Secondo Libro delle Villanelle et Arie
 alla napolitana ;] tre voci di Luca Marentio di novo ristampate, et con diligenza
 corrette. In Venetia, appresso Angelo Gardano 1600.
 
@@ -22,7 +22,7 @@ I-Rc: T.
 CS-KRa: T.
 D-Rtt: T.
 
-1694 - MARENZIO Luca (1585) _ Il Terzo Libro delle Villanelle a tre voci
+1694 - MARENZIO Luca (1585) - Il Terzo Libro delle Villanelle a tre voci
 composte dal S. Luca Marcntio nel modo che hoggidì si usa cantare in Roma.
 Raccolte da Christoforo Ferrari e di nuovo date in luce. Con privilegio, et licentia
 de' Superiori. In Roma appresso Alessandro Gardano 1585.

@@ -21,7 +21,7 @@ l-VEaf : compl.
 A-Wn: compl.
 GB-Lbm: C.A.T.B.
 
-1502 _ LEONI Leone (1607) _ 11 Primo Libro de Madrigali a cinque voci di Leon
+1502 - LEONI Leone (1607) - 11 Primo Libro de Madrigali a cinque voci di Leon
 Leoni maescro di capella nel domo di Vicenza. Novamente ristampato. ln Venetia,
 appresso Alessandro Raverij. 16117.
 
@@ -29,7 +29,7 @@ appresso Alessandro Raverij. 16117.
 
 A-Wn: ABS.
 
-1503 _ LEONI Leone (1591) _ Bella Clori. Secondo Libro de Madrigali a cinque
+1503 - LEONI Leone (1591) - Bella Clori. Secondo Libro de Madrigali a cinque
 voci, di Leon Leoni, maestro di capella nel duomo di Vicenza. Academico Olimpico.
 Con privilegio. In Venetia appresso Angelo Gardano. 1591.
 

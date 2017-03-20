@@ -15,7 +15,7 @@ S-Skma: C.
 S-Sk: T.
 GB-Lbm: A.
 
-852 _ DONATO Baldassarre (1568-2) _ Di Baldessar Donato il Secondo Libro dc
+852 - DONATO Baldassarre (1568-2) - Di Baldessar Donato il Secondo Libro dc
 Madrigali a quattro voci novamente da lui composti et per Antonio Gardano stam-
 pati ct dati in luce. A quatro voci. ln Venetia appresso di Antonio Gardano. 1568.
 
@@ -27,7 +27,7 @@ D-Bbs: compl.
 I-Vnm: A.D.
 NL-At: T.
 
-853 _ DONATO Baldassarre (1553) _ Di Baldassarra Donato il Primo _Libro d'i
+853 - DONATO Baldassarre (1553) - Di Baldassarra Donato il Primo _Libro d'i
 Madregali a cinque et a sei voci con tre Dialoghi :\ sette novamente dati in lisi;-
 Con gratia et privilegio. A cinque voci. ln Venetia appresso di Antonio Gardancl -
 

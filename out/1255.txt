@@ -6,7 +6,7 @@ l-Nc: compl.
 GB-Lbm: compl.
 GB-T: compl.
 
-2028 _ NENNA Pomponio (1609) _ Di Pomponio Nenna. Cavalier di Cesare
+2028 - NENNA Pomponio (1609) - Di Pomponio Nenna. Cavalier di Cesare
 il Settimo Libro de Madrigali a cinque voci. Novamente stampati. In Venetia.
 Appresso Angelo Gardano, et fratelli. 1609.
 
@@ -16,7 +16,7 @@ Appresso Angelo Gardano, et fratelli. 1609.
 F-Pc: compl.
 1-AN: 5.
 
-2029 - NENNA Pomponio (1613) _ Di Pomponio Nenna. Cavalier di Cesare
+2029 - NENNA Pomponio (1613) - Di Pomponio Nenna. Cavalier di Cesare
 il Settimo Libro de Madrigali a cinque voci. Novamente ristampati. In Venetia.
 
 Acre Bartholomei Magni. 1613.
@@ -24,7 +24,7 @@ $ fasc. in 8° (C.A.T.B.5), pag. 19,(1). Indice = 1608.
 
 I-Bc: compl.
 
-_2030 - NENNA Pomponio (1616) _ Di Pomponio Nenna cavalier di Cesarc
+_2030 - NENNA Pomponio (1616) - Di Pomponio Nenna cavalier di Cesarc
 ll Settimo Libro de Madrigali a cinque voci. Terza impressione. Stampa del
 Cardano. In Venetia 1616. Appresso Barrholomeo Magni.
 
@@ -35,7 +35,7 @@ I-Sac: T5.
 I-V'1'ccrasa: T.
 l-SPE: B.
 
-_2031 _- NENNA Pomponio (1624) _ Di Pomponio Ncnna cavalier di Cesarc
+_2031 _- NENNA Pomponio (1624) - Di Pomponio Ncnna cavalier di Cesarc
 ll Settimo Libro de Madrigali a cinque voci. Quarta impressione. Stampa del
 Cardano. In Venetia 1624. Appresso Bartolomeo Magni.
 

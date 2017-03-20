@@ -4,7 +4,7 @@ US-Wc: T.
 l-Ne: B.
 GB-Och: B.
 
-1001 bis _ (FONTANELLI Alfonso) (1616) _ Il Primo Libro de Madrigali senza
+1001 bis - (FONTANELLI Alfonso) (1616) - Il Primo Libro de Madrigali senza
 nome. A cinque voci. Tertia impressione. Stampa del Cardano. In Venetia 1616.
 Appresso Bartholomeo Magni.
 
@@ -12,7 +12,7 @@ Appresso Bartholomeo Magni.
 
 US-CA: T.
 
-1002 _ (FONTANELLI Alfonso) (1604) _- Secondo Libro de Madrigali senza
+1002 - (FONTANELLI Alfonso) (1604) _- Secondo Libro de Madrigali senza
 nome. A cinque voci. Novamente posto in luce. In Venetia. Appresso Angelo
 
 Gardano. 1604.
@@ -42,10 +42,10 @@ Ecco tra bei fioretti (seconda parte) "
 Colei. che già sì bella, mille piaghe mi diede 15
 Qual saria, donna, un dolce ohimè d'amore 16
 Dovrò dunque morire, pria che di nuovo io miri voi, bramata "
-Amor, s'al dardeggiar di que' bei lumi _ _ 18
+Amor, s'al dardeggiar di que' bei lumi - _ 18
 Era l'anima mia più press'all'ultim'liora (Guarini) 19
 
-Arsi un tempo e l'ardore fu già soave al core, hor prend'amor a gioco _ _ 21
+Arsi un tempo e l'ardore fu già soave al core, hor prend'amor a gioco - _ 21
 Padre del ciel, s'un tempo si follemente ho pianto (Guarini)
 
 l-VEcap: compl.

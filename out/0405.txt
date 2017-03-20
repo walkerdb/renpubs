@@ -22,7 +22,7 @@ Di che cantar deggio, di Clori o d'Atalanta 20
 l"831131" chi ti crede, inganar chì si fida, o malvaggia 21
 l-Moc: compl.
 
-599 _ COMA Annibale (1568) _ Dì Anniballe Coma mantovano il Primo Libro
+599 - COMA Annibale (1568) - Dì Anniballe Coma mantovano il Primo Libro
 dc Madrigali a cinque voci, con uno Dialogo a otto, novamente da lui composti,
 Ct. per Antonio Gardano stampati et dati in luce. A cinque VOCi' In Venetia appresso
 di Antonio Gardano. 1568.

@@ -1,4 +1,4 @@
-1500 _ LEONETTI Giovanni Battista (1617) _ Il Primo Libro de Madrigali a
+1500 - LEONETTI Giovanni Battista (1617) - Il Primo Libro de Madrigali a
 cinque voci di Gio. Battista Leonetti organista in Santo Agostino di Crema. Col
 Basso continuo per il Clavicembalo. Nuovamente composti, et dati in luce. In
 Venctia, appresso Giacomo Vincenti. 1617.
@@ -40,7 +40,7 @@ RISM, I 1617-15.
 
 voci di Leon
 
-1501 - LEONI Leone (1588) _ Il Primo Libro de Madrigali a cinque.. Con privi-
+1501 - LEONI Leone (1588) - Il Primo Libro de Madrigali a cinque.. Con privi-
 
 Leoni maestro di capella nel duomo di Vicenza novamente stampati
 legio. In Venezia appresso Angelo Cardano. 1588.
@@ -54,7 +54,7 @@ Hor che sì dolcemente in queste frondi Zefiro vago col.suo fiato .spira ;
 
 Solingo e vag'augello, ch'hai sì ben spars'i .tuoi leggiadr'accentt 3
 
-Alquante fila de sue belle chiome tesse la mia guerriera. _ 4
+Alquante fila de sue belle chiome tesse la mia guerriera. - 4
 
 È fors'il mio ben queslo, a cui sì dolcemente |n grembo'giacao d n ) 5
 Ohimè m'inganno. Chi ti scaccia, dolcissimo ben mio (secon a pa e 6

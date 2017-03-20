@@ -19,7 +19,7 @@ I-MOe: compl.
 I-FEc: C.A.T.B.
 I-Bc: Bc.
 
-1278 _ GRANDI Alessandro (1623) _ Madrigali concertati a due, tre, et quattro,
+1278 - GRANDI Alessandro (1623) - Madrigali concertati a due, tre, et quattro,
 voci per cantar e sonar nel Clavicembalo, Chitarrone, o altro simile stromento. 1)i
 Alessandro Grandi vice maestro di capella della serenissima Signoria di Venetia in
 San Marco. Nuovamente ristampati, et corretti. Con privilegio. Libro Secondo
@@ -31,7 +31,7 @@ D-Hs: compl.
 PL-WRu: compl.
 GB-Lbm: B.
 
-1279 _ GRANDI Alessandro (1626) _ Madrigali concertati a due, tre, et quattro,
+1279 - GRANDI Alessandro (1626) - Madrigali concertati a due, tre, et quattro,
 voci per cantar, e sonar nel Clavicembalo, Chitarrone, o altro Slmllc'stromentq-
 Di Alessandro Grandi novamente ristampati, et corretti. Con licenza de Supera"-
 et privilegio. Libro Secondo. Opera XI. In Venetia, appresso Alessandro …

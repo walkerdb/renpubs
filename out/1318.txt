@@ -1,4 +1,4 @@
-2139 _- PARI Claudio (1611) _ Il Pastor fido Secondo Libro de' Madrigali a
+2139 _- PARI Claudio (1611) - Il Pastor fido Secondo Libro de' Madrigali a
 cinque voci di Claudio Pari borgognone. In Palermo. Appresso Gio. Battista
 Maringo. 1611.
 
@@ -36,7 +36,7 @@ I-Bc: B.
 
 Un C. esisteva nell'archivio del Teatro Massimo di Palermo, ora irreperibile.
 
-2140 .. PARI Claudio (1616) _ Il Terzo Libro de' Madrigali a cinque voci di
+2140 .. PARI Claudio (1616) - Il Terzo Libro de' Madrigali a cinque voci di
 Claudio Pari borgognonc, fatti con più sorte di stile, et inventioni nove da {ICSS-"°°
 usate; e con obligo grande di fughe, osservatione del contrapunto, ct imitatlonc
 
@@ -46,7 +46,7 @@ delle parole. In Palrmo (ric), per Gio. Battista Maringo. 1616.
 Grande: (( questo dono, come quello che vien da Musico a Musico et da Originale Oltramontano
 a chiarissimo germe tl'Oltramontano splendore... Palermo, 3 I 1617 ".
 
-. _ . . 1
+. - . . 1
 Crud'Amanlli, che col nom'ancora, d'amar ahi lasso (Guarini) 2
 O Mirtillo, Mirtillo, anima mia, se vedessi qui dentro " 3
 Era l'anima mia già presso l'ultim'hore e languia "

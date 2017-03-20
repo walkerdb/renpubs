@@ -12,7 +12,7 @@ D-Rp: compl
 D-DS: A
 US-BU' T
 
-726 _ DEL MEL Rinaldo (1588) _ Madrigali di Rinaldo Del Melle gentilhuomo
+726 - DEL MEL Rinaldo (1588) - Madrigali di Rinaldo Del Melle gentilhuomo
 fiamengo a sei voci novamente composti et dati in luce. In Anversa. Apple-"°
 Pietro Phalesìo et Giovanni Bellero. 1588.
 

@@ -21,7 +21,7 @@ CH-BU: compl.
 D-Kl: compl.
 GB-Lbm: C.
 
-662 - CROCE Giovanni (1598) _ Canzonette a quattro voci di Giovanni CIOCC
+662 - CROCE Giovanni (1598) - Canzonette a quattro voci di Giovanni CIOCC
 chiozzotto vice maestro di cappella della sereniss. Signoria di Venetia in S-oMaſ'fT
 Nuovamente ristampate et con ogni diligenza corrette. Libro Primo. Con prtvtleglo-
 In Venetia, appresso Giacomo Vincenti 1598.
@@ -32,7 +32,7 @@ PL.-GD: compl.
 GB-Lbm: C.
 I-Bc: B.
 
-663 - CROCE Giovanni (1604) _ Canzonette a quattro voci di Giovanni Croce
+663 - CROCE Giovanni (1604) - Canzonette a quattro voci di Giovanni Croce
 chiozzotto maestro di capella della sereniss. Signoria di Venetia in San Mîlfœ'
 Novamcnte ìn questa quarta impressione, con ogni diligenza corrette. Libro Primo-
 Con privilegio. In Vcnetia, appresso Giacomo Vincenti. 1604.

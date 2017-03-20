@@ -1,4 +1,4 @@
-267 _ BASSANI Giovanni Battista (1683) _ La Moralità. Cantate a 2, e 3 voci
+267 - BASSANI Giovanni Battista (1683) - La Moralità. Cantate a 2, e 3 voci
 composte e dedicate all'illustrissimo et eccellentissimo signore conte Scipione Rossi
 prencipe di S. Secondo, etc. da Gio. Battista Bassani Accademico Filarmonico. Opera
 Quarta. In Bologna, 1683. Per Giacomo Monti. Con licenza de' Superiori. Ad
@@ -38,7 +38,7 @@ I-Bc: compl.
 I-CO: compl.
 I'ASC: Colo, C-zo9 B'
 
-268 _ BASSANI Giovanni Battista (1690) _ La Moralità armonica Cantate 3.2,
+268 - BASSANI Giovanni Battista (1690) - La Moralità armonica Cantate 3.2,
 e 3 voci di Gio: Battista Bassani maestro di cappella nella catliedrale, e dell lllustrlSS-
 Accademia della Morte di Ferrara, et Accade-anco Filarmonico. Cpeîa Quarta. (lin
 Bologna, per Pier-Maria Monti, 1690. Con licenza .de Superiori. Sl vendono a

@@ -1,4 +1,4 @@
-1645 _ MARENZlO Luca (1632) _ Di Luca Marenzio musico eccellentiss. il
+1645 - MARENZlO Luca (1632) - Di Luca Marenzio musico eccellentiss. il
 Sesto, Settimo, Ottavo et Nono Libro il suo testamento de Madrigali a cinque
 voci nuovamente stampati et in un corpo ridotti. Con Basso continuo. In Anversa,
 preso i heredi di Pietro Phalesio al re David, 1632.
@@ -8,7 +8,7 @@ preso i heredi di Pietro Phalesio al re David, 1632.
 CH-ZU : C.T.B.Bc.
 NL-At: 5.
 
-1646 - MARENZlO Luca (1601) _ Lucae Marentii, musici celeberrimi, Madri-
+1646 - MARENZlO Luca (1601) - Lucae Marentii, musici celeberrimi, Madri-
 galia quinque vocum, antea Venetiis, diversis temporibus, novem separatis edita
 libris, jam vero, commodioris usus caussa, uno volumine conjunctim excusa.
 Noribergae, in oﬃcina typographica Pauli Kauffmanni. 1601.
@@ -39,7 +39,7 @@ PL-LEtpn: A.
 
 RISM, I 1601-12 (non compl.).
 
-1647 - MARENZIO Luca (1581) _ Di Luca Marcnzio maestro di capella
+1647 - MARENZIO Luca (1581) - Di Luca Marcnzio maestro di capella
 dell'illustrissimo et reverendissimo signor cardinale d'Este. 11 Primo Libro de
 Madrigali a sei voci novamente composti, et dati in luce. In Venetia appresso
 Angelo Gardano.

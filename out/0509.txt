@@ -4,7 +4,7 @@ F-Pn: A.
 D-Rp: T.
 
 ' ' ' " ' Monte maestro di capella
-768 - DE MONTE Fili o (1580) _ Di Filippo Di , _ .
+768 - DE MONTE Fili o (1580) - Di Filippo Di , - .
 della sacra cesarea maestàpgell'ìmperatore Rodolfo Secondo: _L Ottavo LOTO delli
 Madrigali, a cinque voci. Da lui novamente composti e dati in luce. In meggta,
 appresso l'herede di Girolamo Scotto. 1580.
@@ -41,7 +41,7 @@ Caro pegno del cielo 19
 
 Ahi chi m'ancidc l'alma - d' 20
 
-Se le lunghe fatiche e i tanti passi _ (L|onar ]) 2]
+Se le lunghe fatiche e i tanti passi - (L|onar ]) 2]
 
 Quando nel cor m'entrasti, o fera gelosia, tost'il Piaccr m'ha…
 

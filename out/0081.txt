@@ -1,4 +1,4 @@
-112 _ ARCHADELT ]acques (1556) _ Archadelt Primo cinquanta, et sei Madri-
+112 - ARCHADELT ]acques (1556) - Archadelt Primo cinquanta, et sei Madri-
 gali, a quatro voci, de lo eccellente musico, messer Giaches Archadelt, cantor
 della capella del Papa, ultimamente ristampati et corretti. Libro Primo. Venetiis,
 apud Hieronymum Scotum. 1556.
@@ -8,7 +8,7 @@ apud Hieronymum Scotum. 1556.
 I-Bc: compl.
 RISM I, 1556-24.
 
-113 _ ARCHADELT ]acques (1557) _ Archadelt Primo cinquanta et sei Madri-
+113 - ARCHADELT ]acques (1557) - Archadelt Primo cinquanta et sei Madri-
 gali a quattro voci dello eccellente musico Giaches Arcadelt cantore della capella
 del Papa. Di nuovo riveduti, et con somma diligentia corretti. Libro Primo.
 Venetia, per Plinio Pietrasanta, 1557.
@@ -20,7 +20,7 @@ F-Pc: C.
 GB-Lbm: T,
 RISM I, 1557-21.
 
-114 - ARCHADELT jacques (1558) _ Di Archadelt il Primo Libro de Madrigali
+114 - ARCHADELT jacques (1558) - Di Archadelt il Primo Libro de Madrigali
 a quatro voc1 novamente con ogni diligentia ristampato et corretto. In Venetia
 
 apresso di Antonio Gardano. 1558.

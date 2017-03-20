@@ -7,7 +7,7 @@ D-W: compl.
 
 RISM, I 1550-18.
 
-248 _ BARGNANI Ottavio (1599) _ Canzonette, Arie, et Madrigali a tre, eta
+248 - BARGNANI Ottavio (1599) - Canzonette, Arie, et Madrigali a tre, eta
 quattro voci. Di Ottavio Bargnani da Brescia. Novamente composte, et date ln
 luce. In Venetia apresso Ricciardo Amadino 1599.
 
@@ -44,7 +44,7 @@ A-Wn: C.A.
 
 RISM, I 1599-12.
 
-249 _ BARGNANI Ottavio (1601) _ Il Primo Libro de Madrigali a cinque YOCÌ
+249 - BARGNANI Ottavio (1601) - Il Primo Libro de Madrigali a cinque YOCÌ
 di Ottavio Bargnani nobile cittadino bresciano all'illustrissìmo, et I'CVCl'CſldlSSlmO
 
 _ . . - * ' c, Il
@@ -55,7 +55,7 @@ Venetia, appresso Angelo Gardano. 1601.
 
 Bissone e Ottavio Rossi a l'Autore.
 
-. . ' _ _ 1
+. . ' - _ 1
 Amor i' parto e sento nel partire, al penar, al morire (Guarini) 2
 ' . . ' . ))
 Voi pur da me partite, anima dura, ne Vl duole

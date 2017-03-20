@@ -28,7 +28,7 @@ I-Bc: compl.
 A-Wn: compl.
 F-Pc: compl.
 
-3016 - ZAPPASORGO Giovanni (1573) _ Napolitanc a tre voci, Libro Primo.
+3016 - ZAPPASORGO Giovanni (1573) - Napolitanc a tre voci, Libro Primo.
 Di Giovanni Zappasorgo trivigiano. Nuovamente poste in luce. In Vincgia, ap-
 presso l'herede di Girolamo Scotto. 1573.
 
@@ -38,7 +38,7 @@ D-Mbs: compl.
 F-Pc: T.E.
 D-Z: T.
 
-3017 _ ZAPPASORGO Giovanni (1578) _ Napolitanc a tre voci Libro Primo.
+3017 - ZAPPASORGO Giovanni (1578) - Napolitanc a tre voci Libro Primo.
 Di Giovanni Zappasorgo trivigiano. Novamente ristampate. In Vinegia, appresso
 l'herede di Girolamo Scotto. 1578.
 

@@ -1,4 +1,4 @@
-1908 _ MONTEVERDI Claudio (1600) _- Di Claudio Monteverde il Terzo Libro
+1908 - MONTEVERDI Claudio (1600) _- Di Claudio Monteverde il Terzo Libro
 de Madrigali a cinque voci novamente ristampato. In Venetia, appresso Ricciardo
 Amadino 1600.
 
@@ -6,7 +6,7 @@ Amadino 1600.
 
 I-Bc: compl.
 
-1909 - MONTEVERDI Claudio (1604) _ Di Claudio Monteverde il Terzo
+1909 - MONTEVERDI Claudio (1604) - Di Claudio Monteverde il Terzo
 Libro de Madrigali a cinque voci. Novamente ristampato. In Venetia, appresso
 Ricciardo Amadino. 1604.
 
@@ -19,7 +19,7 @@ I-Bc: C.T.5.
 GB-Lbm : B.
 GB-Lroscnthal : B.
 
-1910 - MONTEVERDI Claudio (1607) _ Di Claudio Monteverde il Terzo
+1910 - MONTEVERDI Claudio (1607) - Di Claudio Monteverde il Terzo
 Libro de Madrigali a cinque voci. Novamente ristampato. In Venetia, appresso
 Ricciardo Amadino. 1607.
 
@@ -33,7 +33,7 @@ l-Fd: T.5.
 
 GB-Lrosenthal: B.
 
-1911 - MONTEVERDI Claudio (1611) _ Il Terzo Libro de Madrigali a cinque
+1911 - MONTEVERDI Claudio (1611) - Il Terzo Libro de Madrigali a cinque
 voci di Claudio Monteverdi maestro della musica del serenissima signor duca di
 Mantova. Novamente con ogni diligenza ristampato. In Venetia, appresso Ric-
 ciardo Amadino. 1611. '
@@ -42,7 +42,7 @@ ciardo Amadino. 1611. '
 
 I-Bc: compl.
 
-1912 - MONTEVERDI Claudio (1615) _ Di Claudio Monteverde maestro della
+1912 - MONTEVERDI Claudio (1615) - Di Claudio Monteverde maestro della
 musica del sereniss. S. duca di Mantova. Il Terzo Libro de Madrigali a cinque
 voci con il Basso continuo per il Clavicembano. Cittharone od altro simile istro-
 mento. In Anversa appresso Pietro Phalesio al re David 1615.

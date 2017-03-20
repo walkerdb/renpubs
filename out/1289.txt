@@ -1,4 +1,4 @@
-2078 _ PACE Pietro (1617) _ Madrigali a quattro et a cinque voci parte con
+2078 - PACE Pietro (1617) - Madrigali a quattro et a cinque voci parte con
 sinfonia se piace, e parte senza, avertendo però che quelli delle Sinfonie non si
 possano cantare senza sonarli ma gli altri sì, di Pietro Pace organista nella Santa
 Casa di Loreto. Opera Decima quinta. ln Venetia, appresso Giacomo Vincenti.
@@ -35,7 +35,7 @@ l-VEcap: A.T.B.5., B. per sonare.
 GB-Lbm: A.
 Sartori 1617b.
 
-2979 - PACE Pietro (1613) _ Il Primo Libro de Madrigali di Pietro Pace orga-
+2979 - PACE Pietro (1613) - Il Primo Libro de Madrigali di Pietro Pace orga-
 msta di Santa Casa di Loreto per cantare sopra il Chitarone o Tiorba o altri
 slll'omenti da una voce sola, con un Dialogo tra il Peccatore, e la Morte nuova-
 mente composto, et dato in luce. In Venetia, appresso Giacomo Vincenti. 1613.

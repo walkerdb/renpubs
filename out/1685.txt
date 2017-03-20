@@ -29,7 +29,7 @@ A3. le voy mille clairlez el mille choses belles 40
 " " lamais n'avoir et tousiours (lesirer sont les effects 74
 " " Ricco amante son io per voi, tesoro mio (Bisaccioni) 73
 " " Pere de nous, qui es là haut es cieux 78
-A 4. Rozette, pour un peu d'absence vostre coeur vous avez changé _ 30
+A 4. Rozette, pour un peu d'absence vostre coeur vous avez changé - 30
 " " Tandis que'n pleurs ie me consume maudissant (seconde partie) 8]
 " " Ou sont tant de promesses sainctes (troisième partie) 82
 " " Celuy qui a gaigne' ma place ne vous peut (quatrième partie) 83
@@ -38,7 +38,7 @@ F-Psg: compl.
 NL-DHgm: compl. (prov. Scheurleer).
 Stellſeld 21.
 
-2695 - TAGLIA Pietro (1555) _ Di M. Pietro Taglia, il Primo Libro de Madri-
+2695 - TAGLIA Pietro (1555) - Di M. Pietro Taglia, il Primo Libro de Madri-
 gali a quattro voci nuovamente da lui fatti, coretti, et dati in luce: in belisSima
 stampa Con privilegio. In Milano, appresso Francesco et Simone Moscheni fra-
 

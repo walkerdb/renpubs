@@ -13,7 +13,7 @@ A 4. Quell'occhi ladri e quella bocca bella d'lppolita ZÛ
 D-Kl: compl.
 I-Bc: B.
 
-2035 _ NERITl Vincenzo (1599) _ Di Vincenzo Nerìti maestro di capella nella
+2035 - NERITl Vincenzo (1599) - Di Vincenzo Nerìti maestro di capella nella
 chiesa maggiore di Salò, il Terzo Libro di Canzonette a quattro voci, con un
 Dialogo a sette, et una a otto nel fine, novamente composte, et date in luce.
 A1 molto illustre sig. Antonio Maria Uggicri. In Venetia, appresso Angelo
@@ -31,7 +31,7 @@ A 4. Rise di me e d'amore Filli, mentre fui cieco e scnza core 1
 " " E chi coprir sì bene sa i dardi (terza parte) " B
 " " Ben che lontan io sia non pensar, vita mia, che lontano sia'l core. Al Prencipe del
 [del Sacro Romano Imperio Don Francesco Gonzaga Marchese di Castiglione 9
-" " O care labra, voi sì belle sete, ch'ogni beltà vincete _ 10
+" " O care labra, voi sì belle sete, ch'ogni beltà vincete - 10
 " " Dolorosa partita, che mi togl'il mio sol, anzi la vita. Madrigaletto. A Pietro Antonlo
 [Pietra "
 " " Se quand'io vi baciai senz'anima reslai, pensate, donna, quel ch'all'hor farei 11

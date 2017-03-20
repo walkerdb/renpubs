@@ -1,4 +1,4 @@
-2113 _ PALLAVICINO Benedetto (1607) _ Di Benedetto Pallavicino il Terzc
+2113 - PALLAVICINO Benedetto (1607) - Di Benedetto Pallavicino il Terzc
 Libro de Madrigali a cinque voci. Novamente ristampato, et corretto. In Venetia,
 appresso Angelo Gardano et fratelli. 1607.
 
@@ -6,7 +6,7 @@ appresso Angelo Gardano et fratelli. 1607.
 
 1-Bc: compl.
 
-2114 _ PALLAVICINO Benedetto (1588) _ Di Benedetto Pallavicino il Quarto
+2114 - PALLAVICINO Benedetto (1588) - Di Benedetto Pallavicino il Quarto
 Libro de Madrigali a cinque voci, novamente composto, et dato in luce. In Venetia
 appresm Angelo Gardano. 1588.
 

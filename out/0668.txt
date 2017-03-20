@@ -12,7 +12,7 @@ I-Bc: compl.
 FONTEIO Giovanni
 Cfr.: NlELSEN Hans
 
-1008 _ FORNACI Giacomo (1617) _ Amorosi respiri musicali di don Giacomo
+1008 - FORNACI Giacomo (1617) - Amorosi respiri musicali di don Giacomo
 Fornaci da Civita di Chieti in quali si contengono Scherzi, Aric Canzoni, Sonetti,
 e Madrigali, per cantare nel Chitarrone, Clavicembalo, et altri instromenti simili.
 A una, due, e tre voci. Nuovamente composti, et dati in luce. Libro Primo Opera
@@ -40,11 +40,11 @@ A 1. Ecco pronta a i baci. Baciami, Ergasto mio. Amorosi ardori (Marino) 2
 " " Tirsi morir volea, gl'occhi mirando di colei ch'adora. Amorosa brama " 16
 " " Frenò Tirs'il desio ch'havea. Amorosa corrispondenza (seconda parte) " I;
 " " Così moriro i fortunati amanti. Amoroso fine (terza parte) " :9
-" " Non vi bastava il dardo del disdegnoso sguardo. Amorosa piaga _ 20
+" " Non vi bastava il dardo del disdegnoso sguardo. Amorosa piaga - 20
 " " Vaghi fiori odorati, quanto di me sarete più beati. Amoroso languire (Ccl:ano) 21
 )
 
-A Z. Baciatemi, cor mio, che con sì dolce aita. Amoroso soccorso _ _ 22
+A Z. Baciatemi, cor mio, che con sì dolce aita. Amoroso soccorso - _ 22
 " " Ahi disleal e cruda, voi mi negate la fede. Amorosa prova '(Guarml)
 " " Al dolce suon di tromba, che dolcezza rimbomba ne petti. Amorosa battaglia
 

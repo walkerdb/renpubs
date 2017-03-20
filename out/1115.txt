@@ -2,7 +2,7 @@ l-Fn: T.
 I-Bc: B.
 RISM, I 1569-29.
 
-1786 _ MAZZONI Fancesco (1570) _ Di don Francesco Mazzoni abruzzese
+1786 - MAZZONI Fancesco (1570) - Di don Francesco Mazzoni abruzzese
 il Secondo Libro delle Canzoni alla napolitana a tre voci, nuovamente date in
 lucc. ln Vincgia, appresso Girolamo Scotto. 1570.
 
@@ -37,7 +37,7 @@ A'Wn: compl.
 
 I-Bc: TB.
 
-1787 - _MEDlCl Giulio (1619) _ Amorosi concenti musicali a tre voci. Con il
+1787 - _MEDlCl Giulio (1619) - Amorosi concenti musicali a tre voci. Con il
 Basso continuo per il Clavicembalo Libro Primo di Giulio Medici trevigiano.
 Novamente composti et dati in luce. ln Venetia, appresso Giacomo Vincenti. 1619.
 

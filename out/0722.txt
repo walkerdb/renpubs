@@ -17,7 +17,7 @@ I-Bc: B.
 
 I-Rsc: B.
 
-1103 _ GASTOLDI Giovan Giacomo (1595) _ Canzonette a tre voci con un
+1103 - GASTOLDI Giovan Giacomo (1595) - Canzonette a tre voci con un
 Balletto nel fine. Di Gio. Giacomo Gastoldi da Caravaggio maestro di cappella
 nella chiesa ducale di Santa Barbara di Mantova. Libro Primo. Novamente corrette,
 et in migliore forma ristampate. In Venetia appresso Ricciardo Amadino. 1595.
@@ -27,7 +27,7 @@ et in migliore forma ristampate. In Venetia appresso Ricciardo Amadino. 1595.
 D-Hs: compl.
 D-Kl: C.Z°, B.
 
-1104 _- GASTOLDI Giovan Giacomo (1595) _ Canzonctte a tre voci di Gio-
+1104 _- GASTOLDI Giovan Giacomo (1595) - Canzonctte a tre voci di Gio-
 Giacomo Gastoldi maestro di cappella nella chiesa ducale di Santa Barbara dl Man-
 tova. Libro Secondo. In Mantova, per Francesco Osanna stampator ducale. 1595-
 
@@ -45,7 +45,7 @@ Donna, s'cgli è pur vero che'] vostro ed il mio core arda 8
 Mentre puro e sincero s'timai (seconda parte) 9
 E sì grande il diletto ch'io sento, che capir nol può'l mio-petto 10
 Colei, per cui mi struggo in vivo foco, di me si prende gioco Il
-le foco son, voi ghiaccio, donna crude], voi sciolta _ ' IZ
+le foco son, voi ghiaccio, donna crude], voi sciolta - ' IZ
 Dite madonna il vero. 1] mio amor non gradite, ma con finta pleta 13
 
 Se ben parto, mia vita, da voi non faccio nel partir partita

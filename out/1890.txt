@@ -1,4 +1,4 @@
-3014 _ ZANOTTI Camillo (1590) _ Madrigalia tam italica, quam latina, nova
+3014 - ZANOTTI Camillo (1590) - Madrigalia tam italica, quam latina, nova
 prorsus, quinquc, sex, et duodccim vocibus discriminata. Auctorc Camillo Zanotto
 cescnatensi, sacrac cacsarcac maicstatis chori musici magistro secundario etc. Cum
 gratia et privilegio imperiali. 1590.
@@ -33,7 +33,7 @@ A 6. Nunc tandem nobis felix Hymenaee. Dom Ioan. Pernsteinio et Mariae Manrique 
 " " Nata tibi proles spes solamen. Domino Adamo Slavata 17
 " " Ceu verno rosei splendent sub tempore flores. Dom. Petro Ursino dc Rosis {:
 
-" " Te ducc Boemiacis Pacstana rosaria terris (secunda pars) _ _
+" " Te ducc Boemiacis Pacstana rosaria terris (secunda pars) - _
 A 12. Tu post cxpletos tlialamos. Dialog… in gratiam Principts Gurltclmt Ursmi de
 ' [Rosis cr ciusdcmquc uxons 20
 
@@ -51,15 +51,15 @@ PL-WRu: A.
 
 a tre voci, Libro Primo.
 
-' ' _ N litanc
-3015 _ ZAPPASORGO Giovanni (1571) apo n lucc. In Vincgia, ap-
+' ' - N litanc
+3015 - ZAPPASORGO Giovanni (1571) apo n lucc. In Vincgia, ap-
 
 Di Giovanni Zappasorgo trivìgiano. Nuovamente poste i
-rcsso Girolamo Scotto. 1571. _ .
+rcsso Girolamo Scotto. 1571. - .
 î fasc. in 8° (C.T.B.), pag. 31,(1). Ded. ad Antonio Villabruna, Vmegla, 15 X 1571.
 
 ' (Petrarca)
-Vago augeletto, clic cantando vat . _ 5
+Vago augeletto, clic cantando vat . - 5
 Poi che fortuna mi t'ha fatt'amare, liabbi picta dl mc. cara stgnora
 
 --1878-

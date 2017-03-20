@@ -16,7 +16,7 @@ A 5. Baci amorosi e cari, deh non mi Siate avan
 " " Fingo di non amare, ma finger non può'] core 13
 " " A te vaga, gentil, leggiadra Clori 19
 " " Unica mia speranza, il tuo gentil parlar 20
-" " Canta Laura ct io la gravc _ . 21
+" " Canta Laura ct io la gravc - . 21
 A 7. Cicco e crudel amore, mia fiera stella in vago e dubio. Dialogo
 
 D-Kl: compl.
@@ -25,7 +25,7 @@ GB-Lwa: compl.
 
 US-NH: 7.5.
 
-247 _ BARGES Antonio (1550) _ Di Antonio Barge" mae… dî cappella, ana
+247 - BARGES Antonio (1550) - Di Antonio Barge" mae… dî cappella, ana
 Casa Grande di Venetia il Primo Libro de Villette a quatro VOCI con un altra
 Canzon della Galina novamente da lui composte et date in luce, sito per Anton?
 Gardane con ogni diligentia stampatc. A quatro voc1. In Venetia aPſCSSO '

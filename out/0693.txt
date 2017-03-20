@@ -1,4 +1,4 @@
-1042 _ GABRIELI Andrea (1588) _ Di Andrea Gabrieli, organista della serenis-
+1042 - GABRIELI Andrea (1588) - Di Andrea Gabrieli, organista della serenis-
 sima Signoria di Venetia in S. Marco. Il Secondo Libro de Madrigali a sei ".C":
 Novamente ristampato, et corretto. In Milano, appresso Francesco, e l'heredi di
 
@@ -9,7 +9,7 @@ CH-Bu: compl.
 l-PAc: C.A.T.B
 NL-At: C.T.
 
-1043 - GABRIELI Andrea (1589) _ Madrigali et Ricercati di Andrea Gabrieli a
+1043 - GABRIELI Andrea (1589) - Madrigali et Ricercati di Andrea Gabrieli a
 quattro voci; novamente stampati et dati in luce. Con privilegio. In Venetia, appresso
 
 Angelo Cardano. 1589.

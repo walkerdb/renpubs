@@ -1,4 +1,4 @@
-2656 _ STRIGGIO Alessandro (1584) _ Il Cicalamento delle donne al bucato
+2656 - STRIGGIO Alessandro (1584) - Il Cicalamento delle donne al bucato
 e la Caccia di Alessandro Striggio, a quattro cinque sei et sette voci, con il Gioco
 di primiera a cinque voci, del medesimo nuovamente agionto. In Vinegia appresso
 l'hcrede di Girolamo Scotto. 1584.
@@ -10,7 +10,7 @@ l-Rsc: C.A.B.S.6.
 D-Mbs: 5.7.
 l-V nm : 6.7.
 
-2656 bis - STRIGGIO Alessandro (1560-1) _ Madrigali a cinque voci d'Alessan-
+2656 bis - STRIGGIO Alessandro (1560-1) - Madrigali a cinque voci d'Alessan-
 dro Striggio gentil'huomo mantovano servitore dell'illustriss. et eccellentiss. Cosmo
 de Medici duca di Firenze, et di Siena. Libro Primo. In Vcnegia, appresso Girolamo
 Scotto. 1560.

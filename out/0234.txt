@@ -14,7 +14,7 @@ ranno, e le superiori si cantaranno, e vivete Felici ".
 
 PL-WRu
 
-363 _ BIANDRA' Giovan Pietro (1626) _ Madrigali a quatro e 5 voci con Basso
+363 - BIANDRA' Giovan Pietro (1626) - Madrigali a quatro e 5 voci con Basso
 continuo di Gio. Pietro Biandrà romano, maestro della Academia delli Spennatl
 di Faenza detto il Zelante. Opera Seconda. Dedicati al molto ill.re sig.r cavalicI
 Giulio Paci. In Venetia 1626. Appresso Bartolomeo Magni.
@@ -39,7 +39,7 @@ A 5. Crud'Amarilli, che col nome ancora (Guarini) 3
 " " Parlerà nel mio volto (terza parte) " 10
 " " Ecco la cieca, eccola giust'apunto " 11
 " " Ascoltatcmi voi (seconda parte) " 12
-" " Ma che sarà di me (terza parte) _ " 13
+" " Ma che sarà di me (terza parte) - " 13
 " " Cieco amor, non ti cred'io (quarta parte) " ì;
 ." " Ma voi giocate troppo (quinta parte) " 16
 " " Ma tu pur perfido e cieco (sesta parte) "
@@ -48,7 +48,7 @@ A 5. Crud'Amarilli, che col nome ancora (Guarini) 3
 " " Sciolto cor fà piè fugace (ottava parte) " 18
 " " O fusti svelta, maledetta pianta (nona parte) " g
 " " Una farfalla cupida e vagante. Resposta al sig. Domenico Brunetto " 29
-" " Coralletti vermigli _ _ _ 30
+" " Coralletti vermigli - _ - 30
 " " Lascia le pecorelle. Resposta al Sig. Ignatio Donati ' . \ 31
 " " Mille nodi amorosi legan soavemente due leggiadretti sposi (Ceba) 32
 " " Dov'hai tu nido, amore. Resposta al Sig. Angelo Peracini (Guarini) 34

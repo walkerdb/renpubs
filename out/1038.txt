@@ -1,4 +1,4 @@
-1663 _ MARENZIO Luca (1603) _ Di Luca Marenzio il Quarto Libro de
+1663 - MARENZIO Luca (1603) - Di Luca Marenzio il Quarto Libro de
 Madrigali a sei voci. Novamente ristampati. In Venetia, appresso l'herede di
 Gicrolamo Scoto. 1603.
 
@@ -8,7 +8,7 @@ I-Nc: compl.
 US-Wc: compl.
 I-Rsc: C.
 
-1664 _ MARENZIO Luca (1605) _ Libro Quarto de Madrigali a sei voci di
+1664 - MARENZIO Luca (1605) - Libro Quarto de Madrigali a sei voci di
 Luca Marenzio. Novamente ristampato. In Venetia appresso Angelo Cardano-
 1605.
 
@@ -20,7 +20,7 @@ GB-Lbm: compl.
 GB-T: compl.
 l-PAc: C.A.T.B.
 
-1665 _ MARENZIO Luca (1591) _ ll Quinto Libro de Madrigali :\ sei voci di
+1665 - MARENZIO Luca (1591) - ll Quinto Libro de Madrigali :\ sei voci di
 Luca Marenzio. Novamente dato in luce. In Venetia appresso Angelo Gar-
 
 dano. 1591.

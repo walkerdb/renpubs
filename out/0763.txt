@@ -1,4 +1,4 @@
-1182 - GHIBELLINI Eliseo (1552) _ Di Heliseo Ghibel il Primo Libro de
+1182 - GHIBELLINI Eliseo (1552) - Di Heliseo Ghibel il Primo Libro de
 Madrigali a tre voci a note negre novamente per Antonio Gardone ristampato et
 da molti errori emendato. A tre voci In Venetia apresso di Antonio Gardane. 1552.
 
@@ -9,7 +9,7 @@ I-Bc: T.
 l-VEaf : B.
 B-Br: B.
 
-1183 - GHIBELLINl Eliseo (1554) _ Hcliseo Ghibel il Primo Libro, dc Madri-
+1183 - GHIBELLINl Eliseo (1554) - Hcliseo Ghibel il Primo Libro, dc Madri-
 gali, a quatro voci, di Helisco Ghibel da Osimo, novamcnte posto in luce. Venetiis
 apud Hieronymum Scotum 1554.
 

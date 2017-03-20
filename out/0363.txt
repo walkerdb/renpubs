@@ -12,7 +12,7 @@ l-CO: C.B. Viol. 1°, Viol. 2°.
 
 l-SPc: C.
 
-538 - CAZZATI Maurizio (1677) _ Duetti per camera del sig. D. Mauritio
+538 - CAZZATI Maurizio (1677) - Duetti per camera del sig. D. Mauritio
 Cazzati maestro di capella di camera, e di chiesa della sereniss. Anna Isabella,
 duchessa di Mantova, Monferrato, etc. Opera LXVI. All'illustrissimo sig. il signore
 Paolo Giovanni Benedei. In Bologna. 1677. Per Giacomo Monti.
@@ -38,7 +38,7 @@ Tempo è hormai. Amante piangente 36
 Quando imploro il vostro bello. Amante non gradito. Alto e basso 39
 1-3:
 
-53.97 CECCHINO Tommaso (1612) _ Amorosi concetti Madrigali a voce sola
+53.97 CECCHINO Tommaso (1612) - Amorosi concetti Madrigali a voce sola
 faclll per cantare et sonare nel Clavicembalo Chitarone o Liuto. Di Tomaso Cec-
 Chino veronese. Libro Primo nuovamente composti, ct dati in luce. In Venecia,
 appresso Ricciardo Amadino 1612.
@@ -55,6 +55,6 @@ un dolcissimo sospiro si desta nel mio core. C. 0 T. 1
 : : Q ? dio- ninfa de fiori, primavera gentile (seconda parte) " 3
 " " caue le mie vaghe-Stelle, spietate. Sl, ma belle . . 4
 . l'O dolce ben mio, se saetta sel tu, segno son lo. Alla Sig. Saetta. N. 5
-: :: Tomer. donna, non dei ch'io scopra _altrui giamai _ . (Marino) 6
+: :: Tomer. donna, non dei ch'io scopra _altrui giamai - . (Marino) 6
 AnZi temo che del l'incendi lUOl scoprlr a danni mlci. Risposta " 7
 

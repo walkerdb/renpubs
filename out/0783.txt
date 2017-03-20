@@ -8,7 +8,7 @@ PL-GD: compl.
 1-de: C.A.B. (A. dilett.).
 GB-Lbm: A.
 
-1212 - GIOVANNELLI Ruggero (1588) _ Di Ruggiero-Gioi'anelli maestro di
+1212 - GIOVANNELLI Ruggero (1588) - Di Ruggiero-Gioi'anelli maestro di
 cappella in S. Luigi di Roma il Primo Libro de Madrigali a Cinque vocn. Nova-
 mcnte ristampati. In Venetia appresso Angelo Cardano. 1588.
 
@@ -17,7 +17,7 @@ mcnte ristampati. In Venetia appresso Angelo Cardano. 1588.
 GB-Lbm : C.A.T.B.
 1-3qu 5.
 
-1213 - GIOVANNELLI Ruggero (1589) _ Di Ruggiero Giovanelli maestro di
+1213 - GIOVANNELLI Ruggero (1589) - Di Ruggiero Giovanelli maestro di
 capella in S. Luigi di Roma il Primo Libro di Madrigali a cinque voci, 'nuova-
 mente ristampati. In Milano, appresso Francesco, et gli heredi di Simon Tim. 1589.
 
@@ -27,7 +27,7 @@ CH-Bu: compl.
 NL-At: C.T.
 US-BE: A.
 
-1214 - GIOVANNELLI Ruggero (1590) _ Di Ruggiero Giovannelli maestro di
+1214 - GIOVANNELLI Ruggero (1590) - Di Ruggiero Giovannelli maestro di
 Capella in S. Luigi di Roma il Primo Libro de Madrigali a cinque voci, novamente
 rlStampati. In Venetia appresso Angelo Gardano. 1590.
 
@@ -35,7 +35,7 @@ rlStampati. In Venetia appresso Angelo Gardano. 1590.
 
 B-Br: compl.
 
-1215 - GIOVANNELLI Ruggero (1594) _ Di Ruggiero Giovannelli maestro di
+1215 - GIOVANNELLI Ruggero (1594) - Di Ruggiero Giovannelli maestro di
 Capella in S. Luigi di Roma il Primo Libro de Madrigali a cinque voci. Novamencc
 ristampati. In Venetia appresso Angelo Gardano. 1594.
 

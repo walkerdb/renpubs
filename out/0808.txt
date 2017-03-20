@@ -12,7 +12,7 @@ l-Mb: C.l", B.
 
 l-Rsc: Bc.
 
-1267 _ GRANDI Alessandro (1626) _ Arie, et Cantade a doi, e tre voci concertate
+1267 - GRANDI Alessandro (1626) - Arie, et Cantade a doi, e tre voci concertate
 con doi Violini di Alcssandro Grandi novamente composte, et date in luce. Con
 privilegio. In Venetia, appresso Alessandro Vincenti, 1626.
 
@@ -48,7 +48,7 @@ A 3. Silentio o fauni, tacete o ninfe "
 
 l-VCd: Viol. 2° (con i soli incipit dei tcsti).
 
-1268 _ GRANDI Alessandro (1620) _ Cantadc et Arie a voce sola del signot
+1268 - GRANDI Alessandro (1620) - Cantadc et Arie a voce sola del signot
 Alessandro Grandi nuovamente ristampate, et con ogni diligentta corrette, ctidl
 nova aggiunta accresciutc. Con privilegio. In Venetia, appresso Alessandro Vln-
 

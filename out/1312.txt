@@ -6,7 +6,7 @@ F-Pmeyer: C.
 
 D-Bds: B.
 
-2127 _ PALLAVlCINO Benedetto (1606) _ Di Benedetto Pallavicino il Settimo
+2127 - PALLAVlCINO Benedetto (1606) - Di Benedetto Pallavicino il Settimo
 Libro de Madrigali a cinque voci. Novamente ristampato. In Venetia, appresso
 Ricciardo Amadino. 1606.
 
@@ -15,7 +15,7 @@ Ricciardo Amadino. 1606.
 l-\'Ec;ip: compl.
 A-Wn: A.B.5.
 
-2128 _ PALLAVlCINO Benedetto (1611) _ Di Benedetto Pallavicino il Settimo
+2128 - PALLAVlCINO Benedetto (1611) - Di Benedetto Pallavicino il Settimo
 Libro de Madrigali a cinque voci. Novamente ristampato. In Venetia, appresso
 Ricciardo Amadino. 1611.
 
@@ -26,7 +26,7 @@ I-Bc: T. (difell.), B.
 US-\Vc: C.
 US-CA: B.
 
-2129 _ PALLAVICINO Benedetto (1613) _ Di Benedetto Pallavicino maestro
+2129 - PALLAVICINO Benedetto (1613) - Di Benedetto Pallavicino maestro
 di capella del screniss. signor duca di Mantova il Settimo et l'ultimo Libro dc
 Madrigali a cinque voci. ln Anversa appresso Pietro Phalesio al re David. 1613.
 
@@ -35,13 +35,13 @@ Madrigali a cinque voci. ln Anversa appresso Pietro Phalesio al re David. 1613.
 F-Plhibaull: compl.
 GB-Och: A.B.5.
 
-2130 _ PALLAVlCſNO Benedetto (1612) _ Di Benedetto Pallavicino l'OttaVO
+2130 - PALLAVlCſNO Benedetto (1612) - Di Benedetto Pallavicino l'OttaVO
 Libro de Madrigali a cinque voci, con alcuni a otto. Novamente posto in luce-
 1n Venetia, appresso Ricciardo Amadino. 1612.
 5 fasc. in 8° (C.A.T.B.5.), pag. l7.(1). Ded. di D. Benedetto Pallavicino Monaco Camaldolcsc
 all'abbate Francesco Mocenigo, Della Badia, 16 IV 1612.
 
 A 5. Deh valoroso un tempo e forte core, sosterrai che vil donna
-n " E mira e lucca e stringe e bacia e fugge lagrimoso bambino _ 3
+n " E mira e lucca e stringe e bacia e fugge lagrimoso bambino - 3
 n " Negalemi pur. cruda. de bei vostri occhi il sole (Guarini)
 

@@ -1,4 +1,4 @@
-2158 _ PECCI Tommaso (1605) _ Del signor Tomaso Pecci Madrigali a cinque
+2158 - PECCI Tommaso (1605) - Del signor Tomaso Pecci Madrigali a cinque
 voci. Novellamente ristampati. In Venetia. Appresso Angelo Gardano. 1605.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. 21,(1). Indice = 1602.
@@ -7,7 +7,7 @@ D-As: A.T.B.5.
 D-Bds: B.
 RISM, l 1605-15.
 
-2159 _ PECCI Tommaso (1609) _ Del signor Tomaso Pecci Madrigali a cinque
+2159 - PECCI Tommaso (1609) - Del signor Tomaso Pecci Madrigali a cinque
 voci novamente ristampati. In Venetia. Appresso Angelo Gardano, et fratelli. 1609.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. 21,(1). Indice = 1602.
@@ -21,7 +21,7 @@ GB-Och: compl.
 
 RISM, 1 1609-27 (non compl.).
 
-2160 _ PECCI Tommaso (1616) - Del signor Tomaso Pecci. Madrigali a cinque
+2160 - PECCI Tommaso (1616) - Del signor Tomaso Pecci. Madrigali a cinque
 voci. Quarta impressione. Stampa del Gardano. In Venetia 1616. Appresso Bar-
 tholomeo Magni.
 
@@ -35,7 +35,7 @@ l-Sac: B.
 
 RISM. 1 1616-16.
 
-2161 _ PECCI Tommaso (1612) _ Del signor Tomaso Pecci Madrigali a cinun
+2161 - PECCI Tommaso (1612) - Del signor Tomaso Pecci Madrigali a cinun
 voci. Libro Secondo. In Venetia, appresso l'herede di Angelo Gardano. 1612-
 5 "15€- in 3° (C-A-T-B-î), pag. 21,0). Bed. di Ermonidc Pecci a Don Francesco Mai"-'E
 " Questi componimenti di musica di Tommaso mio figliuolo. ..se non havessi saputo da mol:l
@@ -48,7 +48,7 @@ Sospir, che del bel petto di madonn'csci fore " 3
 
 Quel neo, quel vago neo, che fa d'auralc fil'ombrc " 4
 
-Quell'usignol gentile tra quelle folte fronde fà d'amor _ 5
+Quell'usignol gentile tra quelle folte fronde fà d'amor - 5
 
 O chiome erranti, chiome dorate inanellare (Man-nc?) 6
 

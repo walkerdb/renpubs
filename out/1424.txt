@@ -20,7 +20,7 @@ l-Rsc
 
 GB-Lbm
 
-2294 _ QUAGLIATI Paolo (1608) _ Il Primo Libro de' Madrigali a quattro voct
+2294 - QUAGLIATI Paolo (1608) - Il Primo Libro de' Madrigali a quattro voct
 di Paolo Quagliati organista de S. Maria Maggiore di Roma concertati per cantar
 con l'instromento, con un libro separato dove stà il Basso seguito per sonarll,
 dedicati all'illustrissimo, et reverendissimo prcncipe, il signor cardinale Odoardo
@@ -41,7 +41,7 @@ Soprano, overo Tenore all'Ottava bassa, come si usa con il Basso scguito per son
 
 cmlal
 
-. . . . . . _ ma 5
+. . . . . . - ma 5
 
 l lieti amanti e le fanclulle tenere givan di prat'm prato (Sann'tlzarca; 6
 . . . . r

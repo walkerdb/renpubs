@@ -24,7 +24,7 @@ I-Vnm: compl.
 I-VEaf- C.T.
 D-Mbs: 6.
 
-202 - _BACCUSI Ippolito (1587) _ D'Hippolito Baccusi maestro di cappella nel
+202 - _BACCUSI Ippolito (1587) - D'Hippolito Baccusi maestro di cappella nel
 domo dr "Mantova, il Quarto Libro de Madrigali a sei voci, novamente posto in
 luce. In Venetia appresso Angelo Gardano. 1587.
 
@@ -51,7 +51,7 @@ q Linate, trombe, ﬂebili tamburi, arme sosPese "
 
 grimosr soldati, amici mesti
 
-P _ (seconda parte) 15
+P - (seconda parte) 15
 assai'ìlcz: navcd'mia, colma d'oblio, per aspro mar (Petrarca) 16
 
 Fu il vigna l lagrimar, nebbia di sdegni (seconda parte) " 17

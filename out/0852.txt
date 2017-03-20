@@ -1,4 +1,4 @@
-1336 _ IL VERSO Antonio (1601) _ Madrigali a sei voci di Antonio Il Verso
+1336 - IL VERSO Antonio (1601) - Madrigali a sei voci di Antonio Il Verso
 siciliano. Novamente da lui composti, ct dati in luce. Libro Secondo. In Venetia,
 appresso Ricciardo Amadino. 1601. '
 
@@ -39,7 +39,7 @@ D-Hs: A.T.B.5.6.
 A-Wn: B.
 RISM, ] 1601-14.
 
-1337 - [L VERSO Antonio (1607) _ Il Terzo Libro de' Madrigali a sei voci-di
+1337 - [L VERSO Antonio (1607) - Il Terzo Libro de' Madrigali a sei voci-di
 Antonio Il Verso siciliano. Novamente dato in luce. In Palermo, appresso Glo.
 
 Battista Maringo. 1607.
@@ -50,10 +50,10 @@ Palermo, 1° I 1607.
 ]
 Ardo per voi, mio core, di così dolce ardore 2
 Vezzosissima Filli, almen poi che non credi 3
-Come farfalla ch'a l'acceso lume _ 4
+Come farfalla ch'a l'acceso lume - 4
 Lusinghiera fallace, mi doni e mi tradisci e baciando le labre (Tasso) 5
 
-Al lume de le stelle Tirsi, sotto un alloro _ . (Rinuccini) 6
+Al lume de le stelle Tirsi, sotto un alloro - . (Rinuccini) 6
 Filli. mirando il cielo, dicea dogliosa e'ntanto empia dl calde 7
 Non crcsce fior tra queste valli ombrose. nè sorge
 

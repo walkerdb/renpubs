@@ -8,7 +8,7 @@ A3. Corri, corri, infelice mio core, al penar C.A.T. e Bc. 13
 
 D-Kl: [ Pane, B. per sonare.
 
-2703 _ TARDITI Orazio (1647) _ Canzonette amorose a doi, e tre voci per
+2703 - TARDITI Orazio (1647) - Canzonette amorose a doi, e tre voci per
 cantar' sopra il Clavicembalo o Tiorba del signor Horatio Tarditi raccolte d'Alles-
 sandro Vincenti dedicate alla molto illustre, e virtuosissima signora la signora
 Anna Renzi nuovamente ristampate. In Venetia appresso Alessandro Vincenti.
@@ -21,7 +21,7 @@ l-llc: compl.
 l-Fn: compl.
 GB-Lbm: compl.
 
-2704 - TARDITI Orazio (1647) _ Canzonctte amorose Libro Secondo a doi, e
+2704 - TARDITI Orazio (1647) - Canzonctte amorose Libro Secondo a doi, e
 tre voci concertate per cantare nel Cimbalo, Spinetta, Tiorba, o altro simile instru-
 mento. Di Horatio Tarditi dedicate tlall'auttore a diversi suoi amici e padroni,
 come si vede in faccia di ciascheduna di esse. In Venetia, appresso Alessandro

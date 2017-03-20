@@ -3,7 +3,7 @@ D-W: C.T.B.
 GB-Ojsc: A.
 B-Gu: Bc.
 
-191} _ MQNTEVERDI Claudio (1621) _ Il Tcrzo Libro de Madrigali a cinque
+191} - MQNTEVERDI Claudio (1621) - Il Tcrzo Libro de Madrigali a cinque
 VOC]. Del stg.or Claudio Monteverde maestro di capella della sereniss. republica.
 
 Novamente con ogni diligenza ristampato. Stampa del Gardano. In Venetia 1621.
@@ -20,7 +20,7 @@ I-Bc: T.
 
 GB-Lbm: 5. (2. copie).
 
-1914 _ MONTEVERDI Claudio (1603) _ ll Quarto Libro de Madrigali a cinque
+1914 - MONTEVERDI Claudio (1603) - ll Quarto Libro de Madrigali a cinque
 voci, di Claudio Monteverde maestro della musica del sereniss. sig. duca di Man-
 tova. Nuovamente composto, dato in luce. In Venetia appresso Ricciardo Ama-
 

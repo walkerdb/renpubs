@@ -1,4 +1,4 @@
-1111 _ CASTOLDI Giovan Giacomo (1588) _ 11 Primo Libro de Madrigali a
+1111 - CASTOLDI Giovan Giacomo (1588) - 11 Primo Libro de Madrigali a
 cinque voci, di Gio: Giacomo Gastoldi da Caravaggio maestro di cappella nella
 chiesa di Santa Barbara di Mantova. Novamente composti, et dati in luce. In
 Venetia, 1588. Appresso Ricciardo Amadino.
@@ -33,7 +33,7 @@ l-MOe: compl.
 D-As: compl.
 US-BE: A. (mane. di front.).
 
-1112 - CASTOLDI Giovan Giacomo (1589) _ Il Secondo Libro-de Madrigali]a
+1112 - CASTOLDI Giovan Giacomo (1589) - Il Secondo Libro-de Madrigali]a
 cinque voci, di Gio: Giacomo Gastoldi da Caravaggio maestro (.il cappella nela
 chiesa ducale di S. Barbara di Mantova. Con un Dialogo a dica, et una Mas-cher?
 a sette, novamente composti, et dati in luce. In Venetia, 1589. Appresso Riccmr 0
@@ -43,7 +43,7 @@ Amadino.
 tiene presso la persona del Screnissimo Signor Duca Vincenzo di Mantova... magnanimo u
 fiero, il quale addatta talhora il Canto, al suono dell'armi... Mantova, 20 I 1539 ".
 
-A 5. Dolce d'amor Sirena, che le note e i sospiri mesci _ 1
+A 5. Dolce d'amor Sirena, che le note e i sospiri mesci - 1
 " " A nobil mensa del celeste ardore, che da due lumi amorose… 3
 " " Filli vezzosa e lieta hor guarda, hor geme, hor tace . 4
 " " Danzavan liet'al suon de la sampogna tra ninfe e-tra paston 4

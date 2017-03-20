@@ -11,7 +11,7 @@ Quella rosa gradita. Risposta d'incerto (seconda parte) 20
 O dolc'e caro Aminta, levati homai dal tuo fronzulo letto. Dialogo d'Aminta e Tibrina 21
 I-Vgc: C.
 
-257 _ BASELLI Costantino (1600) _ Il Secondo Libro delle Canzonette a tre voci-
+257 - BASELLI Costantino (1600) - Il Secondo Libro delle Canzonette a tre voci-
 Di Costantino Baselli con alcune de diversi eccellenti musici. Novamente composte,
 et date in luce. In Venetia, appresso Ricciardo Amadino, 1600.
 
@@ -46,7 +46,7 @@ A-Wn: compl.
 
 RISM, I 1600-12.
 
-258 BASELLI Costantino (1640) _ Grati, gratiosi, giocondi, gioiosi, et graditi
+258 BASELLI Costantino (1640) - Grati, gratiosi, giocondi, gioiosi, et graditi
 Canti sopra il nascimento del Gran Moror dell'universo, ct della regina del cielo
 
 . . 9 ' ' ' C

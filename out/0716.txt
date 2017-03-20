@@ -1,4 +1,4 @@
-1086 _ GASTOLDI Giovan Giacomo (1607) _ Balletti a cinque voci, con li suoi
+1086 - GASTOLDI Giovan Giacomo (1607) - Balletti a cinque voci, con li suoi
 versi per cantare, sonare, e ballare, con una Mascherata de cacciatori a sei voci, et
 un Concerto de pastori a otto. Di Gio. Giacomo Gastoldi da Caravaggio maestro di
 cappella del serenissimo signor duca di Mantova. Nona impressione. In Venetia,
@@ -8,7 +8,7 @@ appresso Ricciardo Amadino. 1607.
 
 I-Bc: C.
 
-1087 _ CASTOLDI Giovan Giacomo (1612) _ Balletti a cinque voci con li suoi
+1087 - CASTOLDI Giovan Giacomo (1612) - Balletti a cinque voci con li suoi
 versi per cantare, sonare et ballare, con un Mascherata de cacciatori a sei voci, et
 un Concerto de pastori a otto di Gio. Giacomo Gastoldi da Caravaggio macstro di
 capella del serenissimo signor duca di Mantova. In Anversa appresso Pietro Phalcsio
@@ -18,7 +18,7 @@ al re David, 1612.
 
 NL-DHgm: T. (prov. Schcurlccr).
 
-1088 _ CASTOLDI Giovan Giacomo (1613) _ Balletti a cinque voci, con li suoi
+1088 - CASTOLDI Giovan Giacomo (1613) - Balletti a cinque voci, con li suoi
 versi per cantare, sonare, e ballare, con una Mascherata de cacciatori a sei voci, et
 un Concerto de pastori a otto. Di Gio. Giacomo Gastoldi da Caravaggio. Maestro
 di capella del serenissimo signore duca di Mantova. Decima impressione. In Venetia.
@@ -30,7 +30,7 @@ D-Rp: compl.
 D-th: C.T.S.
 I-Bc: C.
 
-1039 _ GASTOLDI Giovan Giacomo (1614) _ Balletti a cinque voci, co_n ll _s"°'
+1039 - GASTOLDI Giovan Giacomo (1614) - Balletti a cinque voci, co_n ll _s"°'
 versi per cantare, sonare et ballare, con una Mascherata de cacciatori-a sei VOCI, E:
 un Concerto de pastotri a otto. Di G. Giacomo Gastoldi 'da Caravagglf), maﬄſi° d
 capella del serenissimo signor duca di Mantova. In Parigi. iAppresso Pietro Ba afa,

@@ -19,7 +19,7 @@ D-Hs: T.B.5.
 
 Il N. 1489 è annullato.
 
-1490 _ LEGNAME Nicolo (1608) _ Amilla Libro Secondo di Canzonette a tre
+1490 - LEGNAME Nicolo (1608) - Amilla Libro Secondo di Canzonette a tre
 voci di Nicolo Legname padovano sonatore di Lauto. Novamente composte, ct date
 in luce. ln Venetia, appresso Alessandro Raverij, 1608.
 

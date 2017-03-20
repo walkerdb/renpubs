@@ -12,7 +12,7 @@ l-MOe: compl.
 I-VEnf : compl.
 PL-GD: C.A.T.5.
 
-(,37 _ COSSONI Carlo Donato (1669) _ Il Libro Primo delle Canzonette amorose
+(,37 - COSSONI Carlo Donato (1669) - Il Libro Primo delle Canzonette amorose
 a voce sola di Carlo Donato Cossoni primo organista in S. Petronio di Bologna
 Accademico Faticoso Opera Settima. All'illustrissimo Signor Vincenzo Maria Car-
 rati. In Bologna, per Giacomo Monti. 1669. Con licenza de' Superiori, e privilegIO-

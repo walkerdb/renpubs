@@ -26,7 +26,7 @@ I-Bc: T.
 
 RISM I, 1551-14.
 
-975 _ FESTA Costanzo (e FOGLIANO Giacomo) (1556) _ Di Constantio Festa
+975 - FESTA Costanzo (e FOGLIANO Giacomo) (1556) - Di Constantio Festa
 il Primo Libro di Madrigali a tre voci novamente da Antonio Gardano ristampati
 et corretti. A tre voci. In Venetia apresso di Antonio Gardano 1556.
 
@@ -38,7 +38,7 @@ I-Bc: B.
 I-VEaf: B.
 RISM, I 1556-26.
 
-976 _ FESTA Costanzo - FOGLIANO Giacomo (1559) _ Di Constantio 'Festa il
+976 - FESTA Costanzo - FOGLIANO Giacomo (1559) - Di Constantio 'Festa il
 Primo Libro di Madrigali a tre voci: novamente ristampato, ct da molti errori occore};
 nelle prime stampe emendato, aggiontovi ancora alcuni Madrigali a tre VOCl
 Iacomo Fogliano. In Vincgia, appresso Girolamo Scoto. 1559.

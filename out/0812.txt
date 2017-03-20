@@ -9,7 +9,7 @@ A 3. Cantiam dunque, cantiam lo dio d'amore. Tutti (undecima parte) H
 
 GB-Lbm: compl.
 
-1272 _ GRANDI Alessandro (1616) _ Madrigali concertati a due, tre, e quattro
+1272 - GRANDI Alessandro (1616) - Madrigali concertati a due, tre, e quattro
 voci per cantar, e sonar nel Clavicembalo, Chittarrone, o altro simile stromento di
 Alessandro Grandi maestro di cappella nel duomo di Ferrara. Novamente ristam-
 pati, et corretti. Dedicati a gli illustrissimi signori Academici intrepidi di Ferrara.
@@ -20,7 +20,7 @@ In Venetia, apresso Giacomo Vincenti. 1616.
 I-Bc: compl.
 l-Bsp: compl.
 
-1273 _ GRANDI Alessandro (1617) _ Madrigali concertati a due, tre, e quattro
+1273 - GRANDI Alessandro (1617) - Madrigali concertati a due, tre, e quattro
 voci per cantar, e sonar nel Clavicembalo, Chittarrone, o altro simile stromcnto dl
 Alcssandro Grandi maestro di cappella nel duomo di Ferrara. Novamente ristam-
 pati, et corretti. Dedicati a gli illustrissimi signori Academici Intrepidi dl Ferrara.
@@ -32,7 +32,7 @@ A-Wn: compl.
 I-Bc: C.A.B.
 F-Pc: B. principale
 
-1274 _ GRANDI Alessandro (1619) _ Madrigali concertati a due, tre e quartz;
+1274 - GRANDI Alessandro (1619) - Madrigali concertati a due, tre e quartz;
 voci per cantar, e sonar nel Clavicembalo, Chittarone', o altro simile'stromcnto
 Alessandro Grandi musico della serenissima Signoria dl Venetia ma. Mercier;
 Novamente in questa tcrza impressione corretti, et ristampati. Con privilegio-

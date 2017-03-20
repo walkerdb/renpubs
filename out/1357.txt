@@ -1,4 +1,4 @@
-2203 _ PETRATTI Francesco (1620) _ Il Primo Libro d'Aric a una, et due
+2203 - PETRATTI Francesco (1620) - Il Primo Libro d'Aric a una, et due
 voci con un Dialogo in fine. Di Francesco Petratti cremonese nuovamente dati
 in luce. In Vencita, appresso Alessandro Vincenti. 1620.
 
@@ -38,7 +38,7 @@ RISM. 1 1620-21.
 PETREO Magno
 Cfr.: PEDERSON Mogens.
 
-2204 - PETROBELLI Francesco (1652) _ Scherzi amorosi a due, e tre voci
+2204 - PETROBELLI Francesco (1652) - Scherzi amorosi a due, e tre voci
 di Francesco Petrobelli maestro di capella della catedrale di Padova dedicati
 all'ill.mo et ec.mo signor marchese Pio Enea de gl'Obizzi. Opera Quarta. Stampa
 del Gardano In Venetia 1652 apresso Francesco Magni.

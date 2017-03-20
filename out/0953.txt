@@ -1,4 +1,4 @@
-1506 _ LEONI Leone (1597) _ Il Terzo Libro de Madrigali a cinque voci, di Leon
+1506 - LEONI Leone (1597) - Il Terzo Libro de Madrigali a cinque voci, di Leon
 Leoni maestro di capella nel duomo di Vicenza. Accademico Olimpico. Di nuovo
 corretti, et ristampati. In Venetia appresso Ricciardo Amadino, 1597.
 
@@ -7,7 +7,7 @@ lndice = 1595.
 
 I-Vnm: A.T.B.5. (Prov. Heyer).
 
-1507 _ LEONI Leone (1598) _ Il Quarto Libro de Madrigali a cinque voci, di
+1507 - LEONI Leone (1598) - Il Quarto Libro de Madrigali a cinque voci, di
 Leon Leoni maestro di capella nel duomo di Vicenza, Accademico Olimpico.
 Novamentec omposti, et dati in luce. ln Venetia appresso Ricciardo Amadino, 1598.
 5 fasc. in 8° (C.A.T.B.5.), pag. ZO,(1). Ded. a Pellegrino Redolfi: "..sendo il suo nobilissimo
@@ -36,7 +36,7 @@ A 5. Occhi selvaggi e fieri, con sguard'irato e torto 1
 A 9. ll ciel vi \acia lieti, almi pastori. Dialogo Damon et Pastori 20
 D-LEm: compl.
 
-1508 - LEONI Leone (1602) _ Bell'Alba Quinto Libro de Madrigali a cinque
+1508 - LEONI Leone (1602) - Bell'Alba Quinto Libro de Madrigali a cinque
 voci di Leon Leoni maestro di capella nel duomo di Vicenza. Accademico Olimpico.
 Novamente composti, ct dati in luce. In Venetia, appresso Ricciardo Amadino, 1602.
 5 fasc. in 8° (C.A.T.B.5.), pag. Zl,(1). Ded. a Vicenza Gonzaga Duca di Manica, et Marchese

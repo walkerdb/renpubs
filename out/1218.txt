@@ -23,7 +23,7 @@ D-Kl: T.B.
 
 GB-Gu (Ge) : T.
 
-1966 _ MORTARO Antonio (1599) .. Il Secondo Libro delle Fiammelle arna-
+1966 - MORTARO Antonio (1599) .. Il Secondo Libro delle Fiammelle arna-
 rose a tre voci. Di Antonio Mortaro da Brescia. Novamente ristampato. In Venetia,
 appresso Ricciardo Amadino. 1599.
 
@@ -31,7 +31,7 @@ appresso Ricciardo Amadino. 1599.
 
 GB-Lbm : compl.
 
-1967 _ MORTARO Antonio (1592) _ Il Terzo Libro delle Fiammelle amorose
+1967 - MORTARO Antonio (1592) - Il Terzo Libro delle Fiammelle amorose
 di Antonio Mortaro da Brescia. A tre voci. Novamente composte, et. datte in
 luce. In Venetia, appresso Ricciardo Amadino. 1592. A instanzia d1 Tomaſ-°
 Bozzola.
@@ -41,10 +41,10 @@ Bozzola.
 A 3. Dolcissimo ben mio, io moro pur per voi ;
 " " Perchè sei bella fuggi, nè d'amor stimi 3
 " " S'io porto il cor piagato per tropp'amar '
-" " Solea semprc gioire, hor mi sento morire _ 5
+" " Solea semprc gioire, hor mi sento morire - 5
 " " Crcdo ch'all'hor nasceste, ninfa cara e gentile, quando ch'il vago 6
 " " Sempre amor mi tormenta con suo amoroso 7
-" " Perchè'l mio ben togliete, amanti _ B
+" " Perchè'l mio ben togliete, amanti - B
 " " Se volete ch'io moia son contento, se poi vedrò contenta vou 9
 " " Da lucente cristallo Clori bevea 10
 

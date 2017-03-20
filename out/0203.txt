@@ -7,7 +7,7 @@ D-Rp: compl.
 
 I-Bc: B.
 
-319 _ BELLI Giulio (1585) _ Il Primo Libro de Madrigali a cinque, et a sei voci.
+319 - BELLI Giulio (1585) - Il Primo Libro de Madrigali a cinque, et a sei voci.
 Dì Giulio Belli da Longiano. Novamente composto, et dato in luce. In Venetia
 
 appresso Angelo Gardano. 1589.
@@ -37,7 +37,7 @@ A 6. Alme divin'e belle, per sempre sia felice l'Himeneo 16
 " " Ch'io te lasci, o mio sol, ch'io te non ami com'esser può? 21
 GB-Lbm- 5.
 
-320 - BELLI Giulio (1592) _ Di Giulio Belli da Longiano. Il Secondo Libro de
+320 - BELLI Giulio (1592) - Di Giulio Belli da Longiano. Il Secondo Libro de
 adrigali a cinque et a sei voci, novamente composti, et datti in luce. In Venetia
 appresso Ricciardo Amadino. 1592.
 

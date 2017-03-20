@@ -34,7 +34,7 @@ D-Bs: B.
 
 GB-Lbm: 5.
 
-2247 _ PORTA Ercole (1612) _ Hore di recreatione musicale a una, et due VOC!
+2247 - PORTA Ercole (1612) - Hore di recreatione musicale a una, et due VOC!
 di Hcrcole Porta maestro di capella, et organista della collegiata di S. Giovanni
 in Persiceto per cantare, et sonate nel Chittarone, o altri instrumenti. Nuovamcntc
 composte, et date in luce. ln Venetia, appresso Giacomo Vincenti 1612.
@@ -47,7 +47,7 @@ A 1. ln un sospir'accolta, spirai l'alma dolente in bocca a la mia vita.
 Vita riconosciuta dall'amata (Angelico) ;
 " " Ch'io mora? Eccomi pronto al morir se tu vuoi. Spera tardi pietà 3
 A Z. Hot che vaga giovinetta, che qual rosa por-pareggia, che qua] porpora 4
-" " O da che bella man mori ferito, felicissimo core. Morte felice _ 5
+" " O da che bella man mori ferito, felicissimo core. Morte felice - 5
 A 1. Perchè tanto accarezzi, scmplicetta crudel, quel cane immondo? (A.nglﬄ) 6
 " " Per non sembrar crudele, ah crude], mi negate. Amor grande non può celarsr 7
 A 2. Se volete ch'io moia son contento, se poi vedrò contenta voi 8

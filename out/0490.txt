@@ -5,7 +5,7 @@ Sembri sirena infra Iapige sponde (terza parte) " " 26
 l-VEaf: T.5.
 RISM, [ 1596-13.
 
-731 _ DE MARINIS Giovanni (1601) _ Il Secondo Libro de Madrigali a sei
+731 - DE MARINIS Giovanni (1601) - Il Secondo Libro de Madrigali a sei
 voci di Giovanni De Marinis da Bari, all'illustre sig. Lorenzo Poma novamcntc
 composti, et dati in luce. In Venetia, appresso Angelo Gardano. 1601.
 
@@ -41,7 +41,7 @@ La bella man vi stringo e voi le ciglia per dolor stringete. Di Nicola De Greci:
 A-Wn: B.
 RISM, I 1601-13.
 
-732 _ DE METRIO Antonio (1618) _ Madrigali a cinque voci del dottor Antonio
+732 - DE METRIO Antonio (1618) - Madrigali a cinque voci del dottor Antonio
 De Metrio. Libro Primo. Ristampato all'ultimo di marzo. In Napoli, appresso
 Costantino Vitale. 1618. Con licenza de' Superiori.
 

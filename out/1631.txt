@@ -23,7 +23,7 @@ F-Pc: compl.
 GB-Lcm: compl.
 RISM, [ l57l-ll.
 
-2612 - SESSA d'Aranda (1583) _ Del Sessa d'Aranda il Primo Libro de Madri-
+2612 - SESSA d'Aranda (1583) - Del Sessa d'Aranda il Primo Libro de Madri-
 
 gali a quattro voci, novamcnte ristampati. In Venetia appresso Angelo Gardano
 1583.
@@ -32,7 +32,7 @@ gali a quattro voci, novamcnte ristampati. In Venetia appresso Angelo Gardano
 
 PL-GD: compl.
 
-2613 _ SESSA d'Aranda - WEELKES Thomas (1605) _ Del Sessa d'Aranda il
+2613 - SESSA d'Aranda - WEELKES Thomas (1605) - Del Sessa d'Aranda il
 Primo Libro de Madrigali a quattro voci, con uno di Thomas chlkes inglese.
 Al ser.mo lantgravio d'Hassia etc. Maurizio. Nuovamente ristampati. In Elmstat
 appresso Giacomo Luzio. 1605.

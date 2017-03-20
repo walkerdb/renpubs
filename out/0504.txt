@@ -17,7 +17,7 @@ l-MOe: B.
 
 US-NYp: 5.
 
-759 _ DE MONTE Filippo (1571) _ Di Filippo Di Monte maestro di capclla
+759 - DE MONTE Filippo (1571) - Di Filippo Di Monte maestro di capclla
 della S.C. maestà dell'imperatore Massimiliano Secondo il Quarto Libro delli
 Madrigali a cinque voci. Nuovamente posti in luce. In Vinegia, appreso Girolamo
 Scotto. 1571.
@@ -30,7 +30,7 @@ Amor et io si pien di meraviglia " 3
 Qual miracolo è quel quando (seconda parte) " 4
 Ben credev'io che nel tuo regno, amore (Sannazzaro) 4
 Amor benigno e destra ogni fortuna, il viver lieto $
-Nè spero altro che morte (seconda parte) _ 6
+Nè spero altro che morte (seconda parte) - 6
 Hor che'] mio \"ivo sole altrove splende (Guarini) 6
 Da sì contrarie tempr'aggira (seconda parte) " 7
 S'amor non è, che dunque è quel ch'io sento? (Pam-ca) 8

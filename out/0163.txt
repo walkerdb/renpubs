@@ -1,4 +1,4 @@
-255 _ BARTOLINI Orindio (1606) _ Di Orindio Bartolini da Siena il Primo
+255 - BARTOLINI Orindio (1606) - Di Orindio Bartolini da Siena il Primo
 Libro de Madrigali a cinque voci novamente composto, et dato in luce. In Venetia,
 appresso Alessandro Raverij. 1606.
 
@@ -31,7 +31,7 @@ V1vo raggio d'amore, che da bcgl'occh'uscendo, tratto dal petto 21
 GB-Och: compl.
 A-Wn : A.B.'5.
 
-256 - BA_SELLI Costantino (1600) _ Il Primo Libro delle Canzonette a tre voci,
+256 - BA_SELLI Costantino (1600) - Il Primo Libro delle Canzonette a tre voci,
 dl Costantino Baselli con alcune altre de diversi eccellenti musici. Novamente com-
 poste, et date in luce. In Venetia, appresso Ricciardo Amadino. 1600.
 

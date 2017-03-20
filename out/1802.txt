@@ -1,4 +1,4 @@
-2875 _ V_ERDELOT Philippe (1549) .. Verdelot tutti li Madrigali del Primo, et
+2875 - V_ERDELOT Philippe (1549) .. Verdelot tutti li Madrigali del Primo, et
 Secondo Libro a quatro voci, nuovamente ristampati. Et con somma diligentia
 corretti. Venetiis, apud Hieronymum Scotum 1549.
 
@@ -12,7 +12,7 @@ F-Pc: B.
 
 RISM. I 1549-33 (non compl.),
 
-2876 _ VERDELOT Philippe (1552) _ Verdelot tutti li Madrigali del Primo ct
+2876 - VERDELOT Philippe (1552) - Verdelot tutti li Madrigali del Primo ct
 Secondo Libro a quatro voci novamente ristampati et con somma diligentia corretti.
 A quatro voci. Venetiis, apud Hieronymum Scotum 1552.
 
@@ -26,7 +26,7 @@ US-R: T.
 
 RISM, l 1552-26 (non compl.).
 
-2877 _ VERDELOT Philippe (1555) _ Verdelot tutti li Madrigali del Primo, ct
+2877 - VERDELOT Philippe (1555) - Verdelot tutti li Madrigali del Primo, ct
 Secondo Libro, a quattro voci, novamente ristampati, et con somma diligentia
 corretti. Con la giunta. Venetiis, apud Hieronymum Scotum. 1555.
 
@@ -35,7 +35,7 @@ corretti. Con la giunta. Venetiis, apud Hieronymum Scotum. 1555.
 I-Bc: compl.
 RISM. 1 1555-33.
 
-2878 _ VERDELOT Philippe (1556) _ Di Verdelot tutti li Madrigali del-Prim?
+2878 - VERDELOT Philippe (1556) - Di Verdelot tutti li Madrigali del-Prim?
 et del Secondo Libro a quattro voci, novamente ristampati et con somma diligentla
 corretti. A quattro voci. In Venetia apresso di Antonio Gardano. 1556.
 
@@ -45,7 +45,7 @@ D-Mbs: compl.
 
 RISM, I 1556-27.
 
-2879 - VERDELOT Philippe (1557) _ Di Verdelot tutti li Madrigali dzl'lyniiiiil
+2879 - VERDELOT Philippe (1557) - Di Verdelot tutti li Madrigali dzl'lyniiiiil
 et del Secondo Libro a quattro voci, di nuovo riveduti, et con somma 118°
 corretti. In Venetia, per Plinio Pietrasanta. 1557.
 

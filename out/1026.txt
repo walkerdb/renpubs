@@ -1,4 +1,4 @@
-1632 _ MARENZIO Luca (1614) _ Di Luca Marcnzio il Scsto Libro de
+1632 - MARENZIO Luca (1614) - Di Luca Marcnzio il Scsto Libro de
 Madrigali :\ cinque voci novamente ristampato. Con privilegio. Stampa del
 Gardano in Venetia. 1614. Acre Bartholomaei Magni.
 
@@ -8,7 +8,7 @@ l-VEcap: compl.
 GB-Lbm: compl.
 I-Vnm (Canal): 5.
 
-1633 _ MARENZIO Luca (1595) _ Di Luca Marenzio il Scttimo Libro dc
+1633 - MARENZIO Luca (1595) - Di Luca Marenzio il Scttimo Libro dc
 Madrigali a cinque voci, novamente composto et dato in luce. In Venetia
 appresso Angelo Gardano. 1595.
 

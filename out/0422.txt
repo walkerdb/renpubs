@@ -1,4 +1,4 @@
-625 _ CORSINI Lorenzo (1640) _ Musiche di Lorenzo Corsini romano. Libro
+625 - CORSINI Lorenzo (1640) - Musiche di Lorenzo Corsini romano. Libro
 Quinto. Dedicate all'eminentissimo e reverendissimo signor card. Antonio Barberini.
 In Roma, nella stamperia di Andrea Fei. L'anno 1640.
 
@@ -40,7 +40,7 @@ A 3. Mal graditi sospiri, non sperate più pace. Canzonettn 68
 
 I-Rvat (Cnpp. Giulia)
 
-626 _ CORTECCIA Francesco (1544) _ Libro Primo de Madriali a quartu.) YO"
+626 - CORTECCIA Francesco (1544) - Libro Primo de Madriali a quartu.) YO"
 di Francesco Corteccia maestro di capella dello illustrissimo et ecccllcnnssuno
 duca Cosimo de Medici duca secondo di Firenze. Venetiis apud I-Iieronymum
 Scotum 1544.

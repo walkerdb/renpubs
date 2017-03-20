@@ -1,4 +1,4 @@
-368 - BlFFI Giuseppe (1600) _ Madrigali a sei voci, di Gioseffo Biffi da Cesena
+368 - BlFFI Giuseppe (1600) - Madrigali a sei voci, di Gioseffo Biffi da Cesena
 composxtore del ser.mo duca di Wirtemberg etc. Da lui novamente composti et dati
 in luce. Libro Terzo. In Norimberga, appresso Paulo Kauffmann. 1600.
 
@@ -27,7 +27,7 @@ GB-Lbm: C.T.6.
 D-ma: B.
 F-VE: 6.
 
-369 - BIFFI Giuseppe (1606) _ Della Ricreatione di Posillipo a tre, a quattro, eta
+369 - BIFFI Giuseppe (1606) - Della Ricreatione di Posillipo a tre, a quattro, eta
 cinque voci, con un Madrigale a sei nel fine, artificioso. Di Gioseffo Biffi da Cesena.
 Libro Primo. In Napoli, per Gio. Battista Sottile. 1606. Con licenza de' Superiori.
 

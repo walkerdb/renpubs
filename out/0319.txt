@@ -4,7 +4,7 @@ A4. Quel dolce cmpio signor, chc'l mond'honora
 17
 " " Pressate alme madonne, pressate amor, mentre che belle 18
 " " Tu, ch'hai nei crin le stelle et loro effetto 19
-" " S'io vi miro talhor intentamente, donn-…i . _ . (r…-i 20
+" " S'io vi miro talhor intentamente, donn-…i . - . (r…-i 20
 "" Questi ardenti sospiri preganvi d'acquetare 1 miei ma mi 20
 " " Se non è tra dannati martir che'] mio martir 'no] raprcsc 21
 " " Madonna, il vostro far da me partita è la cagion . 22
@@ -21,7 +21,7 @@ A-Wn: compl.
 GB-Lbm: C.
 D-Es: T.
 
-477 bis _ CANGIASl Giovanni Antonio (1602) __ Il Secondo Libro (illich/(133221:-
+477 bis - CANGIASl Giovanni Antonio (1602) __ Il Secondo Libro (illich/(133221:-
 nette a tre voci di Gio. Antonio Cangiassi organlsta dl S' Frances-CI? d t 1602.
 Novamente composte, et datte in luce. In MilanO, aPPſTSSO Agostmo ra a e. '
 Con licenza de' Superiori.
@@ -30,7 +30,7 @@ Con licenza de' Superiori.
 
 Scacchier'è diventato lo mio core di turchin e di bianc'è fatto i
 Sta vecchia canaruta è tanto stat'astuta. 3
-Splendor in su a giocare _ 4
+Splendor in su a giocare - 4
 Quante facende fa la mia signora, st'alla finestra ogn'hora 5
 Che ditte di facende (seconda parte) 6
 itcm'o vita mia, non sete voi quella che con gran fede 7

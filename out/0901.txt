@@ -1,4 +1,4 @@
-1410 _ DE LASSUS (1569-1) Di Orlando di Lassus il Primo Libro de' Madrigali
+1410 - DE LASSUS (1569-1) Di Orlando di Lassus il Primo Libro de' Madrigali
 a quatro voci nuovamente et con ogni diligentia ristampato. Libro Primo. In Venetia,
 appresso Claudio da Coreggio. 1569.
 
@@ -8,7 +8,7 @@ D-Bds: A.T.
 Bocttichcr 761.
 RISM, ] 1569-27.
 
-1411 _ DE LASSUS Roland (1569-2) _ Di Orlando di Lassus il Primo Libro di
+1411 - DE LASSUS Roland (1569-2) - Di Orlando di Lassus il Primo Libro di
 Madrigali a quattro voci novamente con ogni diligentia ristampati. In Venetia,
 appresso li figliuoli di Antonio Gardano. 1569.
 
@@ -18,7 +18,7 @@ A-Wn: C.
 Bocttichcr 760.
 RISM, I 1569-28.
 
-1412 - DE LASSUS Roland (1573) _ Di Orlando di Lassus il Primo Libro de
+1412 - DE LASSUS Roland (1573) - Di Orlando di Lassus il Primo Libro de
 Madrigali a quattro voci, nuovamente ristampati, con alcuni Madrigali et Canzoni
 d'altri auttori aggionti, et con ogni diligenza coretti. In Vincggia. Appresso l'herede
 
@@ -29,7 +29,7 @@ PL-GD: compl .
 Boctticher 770.
 RISM, I 1573-18.
 
-1413 - DE LASSUS Roland (1576) _ Di Orlando di Lassus il Primo Libro di
+1413 - DE LASSUS Roland (1576) - Di Orlando di Lassus il Primo Libro di
 Madrigali a quatro voci novamente con ogni dilligentia ristampati. A quatro voci.
 In Venetia appresso Angelo Gardano. 1576.
 
@@ -43,7 +43,7 @@ Boelticher 775.
 
 MSM, ! 1576-6 (non compl.).
 
-1414 - DE LASSUS Roland (1581) _ Di Orlando di Lassus il Primo Libro di
+1414 - DE LASSUS Roland (1581) - Di Orlando di Lassus il Primo Libro di
 Madrigali a quattro voci, novamente con ogni diligentia ristampati. Venetiis apud
 Angelum Gardanum. 1581.
 

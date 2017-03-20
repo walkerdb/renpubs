@@ -12,7 +12,7 @@ I-Vnm: C.T.B.
 B-Br: C.T.B.
 ["-Pn: A.
 
-742 _ DE MONTE Filippo (1588) _ Di Filippo Di Monte maestro di cappçlla
+742 - DE MONTE Filippo (1588) - Di Filippo Di Monte maestro di cappçlla
 della sac. ces. maestà dell'imperatore Rodolfo II il Quarto Libro dc Madrigali a
 quattro voci, novamcnte ristampato. In Venetia appresso Angelo Gardano 1588.
 
@@ -22,7 +22,7 @@ I-Bc: compl.
 D-W: compl.
 l-Nc: C.T.B.
 
-743 _ DE MONTE Filippo (1554) _ Madrigali a cinque voci de l'ccccllcn_te
+743 - DE MONTE Filippo (1554) - Madrigali a cinque voci de l'ccccllcn_te
 Filippo De Monte novamente posto in luce. Libro Primo. In Roma per Valerio
 et Luysi Dorici fratelli. 1554.
 
@@ -35,7 +35,7 @@ Ma per me lasso tornano i più gravi (seconda parle) " 4
 Non reggio ove scampur mi possa omai " 5
 E l'imagini lor son sì cosparte (seconda parte) " 6
 Colonna di smcraldo mirate, occhi sublimi, e di diamante 7
-Informa, alta colonna di mille e mille (seconda parle) _ 8
+Informa, alta colonna di mille e mille (seconda parle) - 8
 Creduto l'un-ria che fosse statua finta o d'alabastro (A"os'o) 9
 Ogni mio ben, crude] morte m'ha tolto (seconda parte) " 10
 

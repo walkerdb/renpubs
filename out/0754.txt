@@ -1,4 +1,4 @@
-1163 _ GESUALDO Carlo (1595) .. Madrigali a cinque voci. In Ferrara, per
+1163 - GESUALDO Carlo (1595) .. Madrigali a cinque voci. In Ferrara, per
 Vittorio Baldinistampator ducale. 1595. (Libro 3°).
 
 5 fasc. in 8° (C.A.T.B.5.), pag. ZZ. Ded. di Hellorc Gesualdo a D. Carlo Gesualdo, Prencipe di
@@ -25,14 +25,14 @@ A 5. Voi volete ch'io mora, nè mi togliete ancora (Guarini) 1
 " " Se piange, ahimè, la donna del mio core 15
 " " Ancidetemi pur, gricvi martiri, che'l viver sì m'annoia 16
 " " Se vi miro pietosa, 0 bel idolo mio, vive il mio con: 17
-" " Deh se già fu crudele al mio martire _ _ 18
+" " Deh se già fu crudele al mio martire - _ 18
 " " Dolcissimo sospiro, ch'esci da quella bocca (Rinuccinl) E
 
 A 6. Donna, se m'ancidete, la mia vita sarete
 
 l-Nc: C.A.
 
-1164 - GESUALDO Carlo (1603) _ Madrigali a cinque voci. Libro Terzo. Nova-
+1164 - GESUALDO Carlo (1603) - Madrigali a cinque voci. Libro Terzo. Nova-
 mente ristampato. In Venetia. Appresso Angelo Gardano. 1603.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. 20. Bed. e Indice = 1595.
@@ -42,7 +42,7 @@ GB-Lbm: compl.
 GB-Och : compl.
 I-de: ABS.
 
-1165 - GESUALDO Carlo (1604) _ Madrigali a cinque voci. Libro Terzo. Nova-
+1165 - GESUALDO Carlo (1604) - Madrigali a cinque voci. Libro Terzo. Nova-
 vente ristampato. In Venetia. Appresso Angelo Gardano. 1604.
 
 5 fasc. in 8° (C A.T.B.5.), pag. 20 Bed. e Indice = 1595.

@@ -1,4 +1,4 @@
-1263 _ GORZANIS Giacomo (1571) _ Di Giacomo Gorzanis leutonista et citta-
+1263 - GORZANIS Giacomo (1571) - Di Giacomo Gorzanis leutonista et citta-
 dino della magnifica città di Trieste. Il Secondo Libro delle Napolitane a tre voci.
 Nuovamente poste in luce. In Vincgia, appresso Girolamo Scotto, 1571.
 
@@ -41,7 +41,7 @@ GB-Lbm: C.
 GOSTENA Giovanni Battista
 Cfr.: DELLA GOSTENA Giovanni Battista.
 
-_1264 _ GRABBE johann (1609) _ Di Gioanni Grabbe, wesphalo. Organista del
+_1264 - GRABBE johann (1609) - Di Gioanni Grabbe, wesphalo. Organista del
 tllustrissimo et eccellentissimo signor conte di Lippe il Primo Libro de Madrigali
 a cinque voci. Novamente romposti, et dati in luce. In Venetia. Appresso Angelo
 Gardano, et fratelli. 1609.

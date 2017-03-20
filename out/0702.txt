@@ -15,7 +15,7 @@ D-Hs: compl.
 GB-Ob: compl.
 A-Wn: C.A.B.5.
 
-1053 _ GALENO Giovanni Battista (1598) _ Il Primo Libro de Madrigali a sette
+1053 - GALENO Giovanni Battista (1598) - Il Primo Libro de Madrigali a sette
 voci, di Gio: Battista Galeno novamente composti, et dati in luce. In Venetia,
 appresso Ricciardo Amadino. 1598.
 

@@ -7,7 +7,7 @@ A 8. Paslor, come nel vim (loglioco e meeto hor li lampeggia. Dialogo 20
 A-Wn: C.T.5.
 RISM, I 1585-33.
 
-2650 _ STIVORI Francesco (1603) _ Madrigali ct Canzoni a otto voci, di Fran-
+2650 - STIVORI Francesco (1603) - Madrigali ct Canzoni a otto voci, di Fran-
 cesco Stivorio organista del serenissimo Ferdinando, arciduca d'Austria. Libro
 
 Terzo de suoi Concerti novamente composto et dato in luce. In Veneria, appresso
@@ -42,7 +42,7 @@ D-As: C.l", A.1°, Al", T.l°, T.Z°, B.l°, B.l°, 5.618.
 GB-Lbm: C.l°, A.l°, B.l°, B.Z°.
 Sartori, ]603d.
 
-2651 - STlVORI Francesco (1598) _ Madrigali e Dialoghi a otto voci, per caätîll;
+2651 - STlVORI Francesco (1598) - Madrigali e Dialoghi a otto voci, per caätîll;
 et concertar con ogni sorte dc istrumentì. Di Francesco Srivorio orgamsta Cln
 magnifica Communità di Montagnana, novamcnte composti, et dati m luce-
 Venetia, appresso Ricciardo Amadino. 1598. 'a

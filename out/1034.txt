@@ -25,7 +25,7 @@ F-A: 5.
 
 Un escmpl. non compl. (C.A.T.5.6.) esisteva nella Collezione Heyer di Kòln.
 
-1654 _ MARENZIO Luca (1596) - Di Luca Marenzio il Secondo Libro dc
+1654 - MARENZIO Luca (1596) - Di Luca Marenzio il Secondo Libro dc
 Madrigali a sei voci. Novamente ristampato. ln Venetia, 1596. Apprcsso l'hcrch
 di Girolamo Scotto.
 
@@ -40,7 +40,7 @@ E-TZ: C.A.B.
 
 YU-Lu: G.B.
 
-1655 _ MARENZIO Luca (1600) _ 11 Secondo Libro de Madrigali a sei voci
+1655 - MARENZIO Luca (1600) - 11 Secondo Libro de Madrigali a sei voci
 di Luca Marenzio di novo ristampato, et con diligenza corretto. In Venetia,
 appresso Angelo Gardano. 1600.
 

@@ -1,4 +1,4 @@
-565 - CIFRA Antonio (1615) _ Li Diversi Scherzi di Antonio Cifra romano.
+565 - CIFRA Antonio (1615) - Li Diversi Scherzi di Antonio Cifra romano.
 Maestro di cappella della Santa Casa di Loreto. A una, a_due, a tre, et (Hart-ro l\,rôolcsl.
 Libro Quarto. Opera Vigesima. In Roma, appresso GIO. Batttsta Ro ettt. .
 Con licenza de' Superiori.
@@ -9,14 +9,14 @@ in gran parte ad instanza mia)... di così virtuoso mio amico... Roma, 1° VII 1
 A 1. Ite, amari sospiri, alla bella cagion del morir mio. Madrigale (Guarini) 3
 " " Sì presso a voi, mio foco, che fate forza. Madrigale . " 4
 " " La violetta, chc'n su l'herbetta. Aria (Chiabrera) 5
-" " Ahi chc'n breve hora come l'aurora (seconda parte) ". _ 6
+" " Ahi chc'n breve hora come l'aurora (seconda parte) ". - 6
 " " 0 che soave bacio da la mia donna hebb'io (Guarini) 7
 " " Prima che mai cangiar voglia o pensiero, cangerò vita " 3
 " " Tu se' pur aspro a chi t'honora, Silvio " 9
 AL Mentre ch'io v'amo e voi m'llavete a schivo. Aria (li Romanesca 10
 " " Sc mio son pur perchè di me (seconda stanza) 10
 " " Perchè di voi sì vago e di me privo (terza stanza) 11
-" " Da voi sol pende il mio vital (quarta stanza) . _ 11
+" " Da voi sol pende il mio vital (quarta stanza) . - 11
 " " Così m'ha fatto amor d'aspn martiri. Aria di Romanesca (Guarini) 12
 " " Che son vostro e son vostri (seconda stanza) " 12
 " " E di quest'amarissimi sospiri (terza stanza) " 13
@@ -46,7 +46,7 @@ GB-Lbm
 US-Cn
 RISM. I 1615-15 (non campi.).
 
-566 - CIFRA Antonio (1616) _ Scherzi sacri di Antonio Cifra romano. Maestro
+566 - CIFRA Antonio (1616) - Scherzi sacri di Antonio Cifra romano. Maestro
 d' Capella della Santa Casa di Loreto. A una, a due, a tre, et quattro voci. Libro
 rimo Opera Vigesima seconda. In Roma, appresso Gio. Battista Robletti. 1616.
 Con licenza de' Superiori.

@@ -1,4 +1,4 @@
-1245 _ GIOVANNELLI Ruggero (1600-1) _ Il Primo Libro delle Villanelle et
+1245 - GIOVANNELLI Ruggero (1600-1) - Il Primo Libro delle Villanelle et
 Arie alla napolitana a tre voci di Ruggiero Giovannelli di novo ristampate, ct
 corrette. In Venetia, appresso Angelo Cardano. 1600.
 
@@ -9,7 +9,7 @@ NL-DHgm: A.B.
 I-Bc: C.
 B-Bc: C.
 
-1246 .. GIOVANNELLI Ruggero (1600-2) _ Il Primo Libro delle Villanelle ct
+1246 .. GIOVANNELLI Ruggero (1600-2) - Il Primo Libro delle Villanelle ct
 Arie alla napolitana, a tre voci, di Ruggiero Giovanelli, novamente ristampate, et
 corrette. Con privilegio. In Venetia, appresso Giacomo Vincenti. 1600.
 
@@ -17,7 +17,7 @@ corrette. Con privilegio. In Venetia, appresso Giacomo Vincenti. 1600.
 
 I-MAC: C.
 
-1247 _ GIOVANNELLI Ruggero (1624) .. Il Primo Libro delle Villanellc ct
+1247 - GIOVANNELLI Ruggero (1624) .. Il Primo Libro delle Villanellc ct
 Arie alla napolitana a tre voci di Ruggiero Giovannelli di novo ristampate, ct cor-
 rette. In Venetia. Appresso Bartholomeo Magni 1624.
 
@@ -26,7 +26,7 @@ rette. In Venetia. Appresso Bartholomeo Magni 1624.
 I-Bc: compl.
 D-Mbs: compl.
 
-1248 _ GIOVANNI BATTISTA da Gagliano (1623) _ Varie musiche di Giovan-
+1248 - GIOVANNI BATTISTA da Gagliano (1623) - Varie musiche di Giovan-
 batista da Gagliano Libro Primo novamente composto, ct dato in luce. Con pnvr-
 legio. In Venetia, appresso Alessandro Vincenti. 1623.
 

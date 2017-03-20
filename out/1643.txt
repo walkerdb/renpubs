@@ -4,7 +4,7 @@ A 7. Di che formò Volcano tanti strali al'ignudo fanciul. Dialogo. A Isabella B
 I-Bc: compl.
 RISM, I 1574-9.
 
-2629 _ SPANO Donato Antonio (1607) _ Di Donato Antonio Spano discepolo del
+2629 - SPANO Donato Antonio (1607) - Di Donato Antonio Spano discepolo del
 S.or Giovanni de Macque maestro della regia cappella di Napoli. Il Primo Libro
 de Madrigaletti ariosi, et Villanelle a quattro voci. ln Napoli, nella stampa di
 Gio. Battista Sottile, per Scipione Bonino. Con licenza de' Superiori.
@@ -41,7 +41,7 @@ l-Nn: A.
 
 l-Rsc: T.
 
-2630 _ SP ANO D onat' Antonio (1608) _ Di Donat'Antonio Spano il Primo Libro
+2630 - SP ANO D onat' Antonio (1608) - Di Donat'Antonio Spano il Primo Libro
 de. Madrigali a cinque voci. In Napoli, nella stampa di Gio. Battista Sottile, per .
 Scipione Bonino. 1608.
 

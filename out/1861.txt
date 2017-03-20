@@ -23,7 +23,7 @@ F-Pc: T.
 
 Un esempl. Compl., ma diſeumo. esisteva nella Collezmne Heyer di Rol".
 
-2968 _ (Dc) WERT ]acob (1561) _ Madrigali del fiore a cinque voci, :Libro
+2968 - (Dc) WERT ]acob (1561) - Madrigali del fiore a cinque voci, :Libro
 Primo. Composti da Giachcs, de Wert, nuovamente posti in luce, ct con ogm dll]-
 gencia coretti et stampati. In Vincgia. Appresso Girolamo Scotto, 1561.
 
@@ -32,7 +32,7 @@ gencia coretti et stampati. In Vincgia. Appresso Girolamo Scotto, 1561.
 D-As: compl.
 D-Mbs: compl.
 
-2969 - (De) WERT Jacob (1564) _ Di Giacbcs dc .Wcrt il. Primo Libro dF
+2969 - (De) WERT Jacob (1564) - Di Giacbcs dc .Wcrt il. Primo Libro dF
 Madrigali a cinque voci, novamente con nova giunta ristampati. A cmquc voc1.
 In Venetia appresso di Antonio Cardano. 1564. .
 
@@ -43,7 +43,7 @@ A '5- Quella donna real. Can7.on prima ;
 " " Bastava ben ch'ella otteness'il (terza parte) :
 " " Ma dell'error già la vendetta .(quarla .parte) . d 5
 " " Qual volta, donna, mi si raprcscnta ll bel VISO loggia ro (Penna) 6
-" " Passa la nave mia colma d'oblio per aspro mar " _ 6
+" " Passa la nave mia colma d'oblio per aspro mar " - 6
 " " Pioggia di lagrimar, nebbia di sdegnl (seconda parte) (Della ca") 7
 " " O sonno, o della quct'humid'ombrosa notte " "_ 8
 " " Ov'è'l silentio, chc'l dì fugge (seconda 'pari-.'). 8

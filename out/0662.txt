@@ -7,7 +7,7 @@ I-Bc: compl.
 
 Brown 1598-3.
 
-998 _ FONTANA Vincenzo (1545) _ Canzone villanesche di Vincenzo Fontana
+998 - FONTANA Vincenzo (1545) - Canzone villanesche di Vincenzo Fontana
 a tre voci alla napolitana novamcnte poste in luce Libro Primo. Vicenzo Fontana.
 Venetiis apud Antonium Gardane. 1545. Villote di V. Fontana a 3.
 
@@ -40,7 +40,7 @@ Occhi mici lassi, mentre ch'io vi giro nella finestra z
 
 D-Mbs : compl.
 
-999 _ (FONTANELLI Alfonso) (1595) _ Primo Libro di Madrigali scnza nome-
+999 - (FONTANELLI Alfonso) (1595) - Primo Libro di Madrigali scnza nome-
 
 A cinque voci. ln Ferrara, appresso Vittorio Baldini stampator ducale. 1595.
 

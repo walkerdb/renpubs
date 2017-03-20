@@ -15,7 +15,7 @@ I-Sac: C.A.B.
 A-Wn: C.B.5.
 F-A: B.
 
-18 _ AGAZZARI Agostino (1613) _ Di Agostino Agazzari Armonico IntronatO-
+18 - AGAZZARI Agostino (1613) - Di Agostino Agazzari Armonico IntronatO-
 
 Il Secondo Libro de Madrigali a cinque voci novamente ristampati. In Venetia,
 appresso Ricciardo Amadino. 1613.
@@ -26,7 +26,7 @@ I-Bc: compl.
 I-Rsc: B.5.
 Un esempl. compl. esisteva nella Collezione Heyer di Kôln.
 
-19 _ AGAZZARI Agostino (1596) _ Di Agostino Agazzari gentil'huomo sanesc
+19 - AGAZZARI Agostino (1596) - Di Agostino Agazzari gentil'huomo sanesc
 il .Primo Libro de Madrigali a sei voci. Novamente composto, et dato in luce. In
 
 Venetia appresso Angelo Gardano. 1596.

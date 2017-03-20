@@ -6,7 +6,7 @@ Cosa non vada più come solca, poi che quel nodo è sciolto. ln tutte le parte d
 
 1-MOe: compl.
 
-2191 _ PESENTI Benedetto (1591) _ Il Primo Libro de Madrigali a cinque
+2191 - PESENTI Benedetto (1591) - Il Primo Libro de Madrigali a cinque
 voci di D. Benedetto Pesenti novamente posti in luce. In Venetia, appresso Ric-
 ciardo Amadino. 1591.
 
@@ -53,7 +53,7 @@ Una gentil e vaga pastorella, tanto leggiadr'e bella quanto natura può
 GB-Lbm: C.A.T.5.
 NL-DHgm : B.
 
-2192 _ PESENTI Martino (162,1) _ Il Primo Libro de' Madrigali a due tre
+2192 - PESENTI Martino (162,1) - Il Primo Libro de' Madrigali a due tre
 et quattro voci con il Basso continuo per sonar di Martino Pesenti cieco. Nuor-
 mente composto, et dato in luce. Con privilegio. In Venetia, appresso Alessan °
 Vincenti. 162].

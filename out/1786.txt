@@ -1,4 +1,4 @@
-2849 _ VENERI Gregorio (1631) _ Madrigale a cinque canone di Gregorio
+2849 - VENERI Gregorio (1631) - Madrigale a cinque canone di Gregorio
 Veneri romano maestro di cappella di Prato.
 In fine: " In Firenze, appresso Zanobi Pignoni. 1631. Con licenza de' Superiori".
 
@@ -8,7 +8,7 @@ Negatemi pur, cruda, de bei vostr'occhi il sole (Guarini)
 
 I-Bc
 
-2850 _ VENERI Gregorio (1621) _ Li Varìi Scherzi di Gregorio Veneri romano
+2850 - VENERI Gregorio (1621) - Li Varìi Scherzi di Gregorio Veneri romano
 a una a due a tre voci per cantare nel Cimbalo o in altri stromenti simili con
 l'alfabeto per la Chitarra in quelle più à proposito per tale stromento. Libro Prima.
 Opera Quinta. In Roma per Luca Antonio Soldi. 1621 con licenza de' Superiori-
@@ -38,8 +38,8 @@ A 1. Quando la bella Filli a suoi canori accenti apre il bel labro :
 " " Ecco il mio sole, ch'estinguer (tel-La parte) 17
 " " Su, lieti amanti, venit'ai canti (quarta parte) . 18
 " " Quegli occhi, ohimè, che fur due fiamme ardenti per abruciarml 19
-" " Gli amanti, ch'udiran li miei lamenti (seconda parte) _ 20
-" " Pupillette vezzosette, se mirat'il cor beate. Con lettere per la Chitarra _ 20
+" " Gli amanti, ch'udiran li miei lamenti (seconda parte) - 20
+" " Pupillette vezzosette, se mirat'il cor beate. Con lettere per la Chitarra - 20
 " " Pianget'occhi, piangete della mia donna la crudeltà. Con lettere per la Chitagllitam 22
 " " O begl'occhi vezzosi, o mio ricco thesoro, mirate ch'io moro. Con lett. pc;. a a B
 " " Falsi sospiri e finti sguardi son l'armi vostr'amore. Con lettere per la C ltarſ 24
@@ -53,7 +53,7 @@ per la Chitarra 27
 " " Tu non vuoi, Lilla crudele, ch'io l'ami più. Con lettere per 1
 " " Dolce riso, che nel viso del bell'. Con lettere per la Chitarra
 
-_ _ . . ch'tam
+_ - . . ch'tam
 A 2. Non son già sguardi, ohimè son dardi quer che da gh OCChl- C°" lett. per la 1
 
 - 1776 -

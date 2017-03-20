@@ -24,7 +24,7 @@ A-Wn: compl.
 GB-Lbm: compl.
 RISM, I 1541-11.
 
-159 _- ARCHADELT ]acques - FESTA Costanzo (1543) _ Il Terzo Libro d'i
+159 _- ARCHADELT ]acques - FESTA Costanzo (1543) - Il Terzo Libro d'i
 Madrigali d'Archadelt a quatro voci insieme alcuni di Const. Festa et altri dieci
 
 a voci mudate, novamente ristampato et coretto. A quatro voci. Venetijs apud
@@ -54,6 +54,6 @@ Lîssîolîcdîîsîlî ;; crede; la crudel fiamma che ml'abrucia. Di Festa 18
 Amanti, tutt'il belndiil e geme, Ch'c SO] dal" V"? ml Puo" 19
 Btamo morir e voi vedete in questo e in quel 20
 
-_ _ per non patir plu morte 20
+_ - per non patir plu morte 20
 Se 1 ms… bei sembianti e'l vago volto 21
 

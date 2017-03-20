@@ -23,7 +23,7 @@ D-As: compl.
 I-Bc: Cl". H.
 RISM, I 1603-12.
 
-2154 _ PECCI Tommaso (1604) _ Canzonette a tre voci del signor Tomaso
+2154 - PECCI Tommaso (1604) - Canzonette a tre voci del signor Tomaso
 Pecci gentil'huomo sanese. Novamente ristampate et corrette. Libro Primo. 111
 Venetia, appresso Giacomo Vincenti. 1604.
 
@@ -32,7 +32,7 @@ Venetia, appresso Giacomo Vincenti. 1604.
 D-As: compl.
 RISM, 1 1604-18.
 
-2155 _ PECCI Tommaso (1607) _ Canzonette a tre voci del signor Tomaso
+2155 - PECCI Tommaso (1607) - Canzonette a tre voci del signor Tomaso
 Pecci gentil'huomo sanese Academico Filomello nuovamente ristampate, et cor-
 rette. Libro Primo. In Venetia, appresso Giacomo Vincenti. 1607.
 
@@ -42,7 +42,7 @@ l-Rsc: C.l", B.
 l-Sc: B. (solo pag. 3-8, 13-18 e 21).
 RISM, [ 1607-23.
 
-2156. _ PECCI Tommaso (1624) - Canzonette a tre voci, con il Basso continu?-
+2156. - PECCI Tommaso (1624) - Canzonette a tre voci, con il Basso continu?-
 Del sig.r Tomaso Pecci gentil'l'iuomo snnese. In Anversa appresso Petro Phalcslo
 al re David. 1624.
 

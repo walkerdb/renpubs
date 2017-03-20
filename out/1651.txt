@@ -43,7 +43,7 @@ A-Wn: C.T.S.
 PL-GD: T.B.5.
 "le: 5,
 
-2640 _ SPONTONI Lodovico (1586) _ Di D. Lodovico Spontoni il Primo Libro
+2640 - SPONTONI Lodovico (1586) - Di D. Lodovico Spontoni il Primo Libro
 de Madrigali a cinque voci novamente composti, et dati in luce. In Venetia, presso
 Giacomo Vincenzi. 1586.
 

@@ -8,7 +8,7 @@ l-VEaf : T.
 Un esempl. compl. era nella Collezione Heyer di Kòln.
 RISM, I 1572-9.
 
-200 _ BACCUSI Ippolito (1572) _ Di Hippolito Baccusi da Mantova, macho
+200 - BACCUSI Ippolito (1572) - Di Hippolito Baccusi da Mantova, macho
 della musica delli illustri signori di Spilimbergo, il Secondo Libro de Madrigali
 a sei .voc1. Con una Canzone nella gran vittoria contra i Turchi. Nuovamente
 posti in luce. In Vinegia, appresso Girolamo Scotto. 1572.
@@ -46,7 +46,7 @@ I-Bc: compl.
 I-VEaf : C.A.B.6.
 RISM, I 1572-8.
 
-201 _ BACCUSI Ippolito (1579) - Madrigali di Hippolito Baccusi. Libro Terzo
+201 - BACCUSI Ippolito (1579) - Madrigali di Hippolito Baccusi. Libro Terzo
 a sei voci novamente composti et dati in luce. In Venetia appresso Angelo Gar-
 
 dano. 1579.

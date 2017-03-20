@@ -5,7 +5,7 @@ A-Wn: compl.
 I-Bc: T.B.
 I-Fn: C.
 
-2859 _. VENTURI Pompilio (1579) _ Il Secondo Libro delle Vilanelle a tre voci,
+2859 _. VENTURI Pompilio (1579) - Il Secondo Libro delle Vilanelle a tre voci,
 di M. Pompilio Venturi da Siena, fatte in lode di molte signore, et gentildonne
 romane. Nuovamente poste in luce. In Vinegia, appresso Girolamo Scotto, 1579.
 
@@ -13,7 +13,7 @@ romane. Nuovamente poste in luce. In Vinegia, appresso Girolamo Scotto, 1579.
 
 I-Tci : B.
 
-2860 _ VENTURI Pompilio (1583) _ Il Tcrzo Libro delle Villanelle a tre voci,
+2860 - VENTURI Pompilio (1583) - Il Tcrzo Libro delle Villanelle a tre voci,
 di Pompilio Venturi da Siena novamente posto in luce. In Vinegia appresso l'herede
 di Girolamo Scotto. 1583.
 

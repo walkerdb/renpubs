@@ -5,7 +5,7 @@ A S. Fuggi, se sai fuggire, fera al mio cor crudele 22
 l-MOe: compl.
 US-BE: A.
 
-894 _ EREMITA Giulio (1584) _ Madrigali di Giulio Heremita, Libro Primo. A
+894 - EREMITA Giulio (1584) - Madrigali di Giulio Heremita, Libro Primo. A
 sei voci. In Ferrara, nella stamperia di Vittorio Baldini. 1584.
 
 6 fasc. in 8° (C.A.T.B.5.6.), pag. 21,(1). Ded. a D. Alfonso II D'Este, Duca di Ferrara, etc.:
@@ -41,7 +41,7 @@ I-FEc: T.
 
 GB-Lbm: 6.
 
-895 - EREMITA Giulio (1602) _ Di Giulio Heremita musico eccellentiss. il Primo
+895 - EREMITA Giulio (1602) - Di Giulio Heremita musico eccellentiss. il Primo
 Libro de Madrigali a sei voci. Novamente posti in luce. In Anversa. Apprcsso
 Pietro Phalesio. 1602.
 

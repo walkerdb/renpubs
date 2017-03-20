@@ -9,7 +9,7 @@ l-Rv: compl.
 D-Rp.: C.l°, C.Z°, A.B.
 D-Rtt: CP.
 
-22 _ AGLIONE Alessandro (1599) _ Canzonette spirituali a tre voci composte
+22 - AGLIONE Alessandro (1599) - Canzonette spirituali a tre voci composte
 dal padre frate Alessandro Aglione di Spoltore del Ordine di Predicatori. Nova-
 mente da lui composte, et date in luce. In Venetia, appresso Giacomo Vincenti. 1599.
 
@@ -38,7 +38,7 @@ Vattene, spirto mio, vattcn'in cielo 20
 Stommi qui al monumento. 21
 I-Bc: C.
 
-23 _ AGOSTINO Ludovico (1574) _ Canzoni alla napolitana a cinque voci di
+23 - AGOSTINO Ludovico (1574) - Canzoni alla napolitana a cinque voci di
 D. Ludovico Agostini ferrarese. Libro Primo novamente composte et date in luce.
 A cinque voci. In Venetia apresso lì figliuoſi di Antonio Gardano. 1574.
 

@@ -1,4 +1,4 @@
-631 _ CORTELLINI Camillo (1584) _ Di Camillo Cortellini detto il Violino,
+631 - CORTELLINI Camillo (1584) - Di Camillo Cortellini detto il Violino,
 musico dell' illustriss. Signoria di Bologna, il Secondo Libro de Madrigali a cinque
 voci, novamente da lui composti, e datti in luce. In Bologna, per Giovanni Rossi,
 1584. Con licenza de' Superiori.
@@ -33,7 +33,7 @@ A S. lo felice pastore quel di (seconda parte) 14
 I-Bc: T.
 Un esempl. compl. esisteva nella Collezione Heyer di Kòln.
 
-632 _ CORTELLINI Camillo (1586) _ Di Camillo Cortellini, il Violino, music?
+632 - CORTELLINI Camillo (1586) - Di Camillo Cortellini, il Violino, music?
 della illustriss. ma Signoria di Bologna, il Terzo Libro de' Madrigali a cinque voci
 Con la copia di tutti i Madrigali in versi nella parte del Basso. In Ferrara, per
 Vittorio Baldini, stampator ducale. Con licenza de' Superiori. 1586.

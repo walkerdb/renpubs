@@ -31,7 +31,7 @@ I-Bc: compl.
 
 l-VEcap : compl.
 
-1015 _ FRANZONI Amante (1605) _ I nuovi Fioretti musicali a tre VOC-I
+1015 - FRANZONI Amante (1605) - I nuovi Fioretti musicali a tre VOC-I
 d'Amante Franzoni mantovano co'l suo Basso generale per il Clavicembalo, Chl-
 tarrone, et altri simili stromenti. Raccolti dall'ìllustrissimo signor Fulvio Gonzaga
 marchese, prencipe del sacro imperio e signor di Vescovato. Novamente composti.
@@ -40,7 +40,7 @@ et dati in luce. In Venetia, appresso Ricciardo Amadino. 1605.
 4 fasc. in 8° (C., C.Z°, B., Be.), pag. 3l,(1). A benigni lettori.
 
 [0 soffrirò, cor mio, ogni soverchio ardore che m'ard'il pett'e mi ;
-Morirò, cor mio, se non soccorri alla mia stanca vita _ 3
+Morirò, cor mio, se non soccorri alla mia stanca vita - 3
 Poss'io prima morire di doglia e di martire e contro mi sia'l ciel 4
 Io non credea giamai che viver si potesse in tanti guai 5
 Dunque, fuggi Licori i miei soavi amori? h' brera) 6
@@ -48,7 +48,7 @@ I bei legami che stanm'intorno perch'io sempre ami (C la 7
 Infelice pastore. nat'al piant'al dolore, è pur venuto il giorno 8
 
 O nata in ciel, fra le dee nodrîta, o volto che par sempre
-Mentre il tuo puro argento, o luna. scopri. _ _
+Mentre il tuo puro argento, o luna. scopri. - _
 Quando parla mia vita e quando ride parmi veder aperto Il paradiso
 
 Di Gio. Giacoma Gadaldi

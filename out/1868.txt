@@ -2,7 +2,7 @@ A>Wn: C.A.T.5.
 NL-Al: C.
 RISM, I 1568-20.
 
-2982 _ (De) WERT Iacob (1583) _ Di Giaches de VVert il Quarto Libro dc
+2982 - (De) WERT Iacob (1583) - Di Giaches de VVert il Quarto Libro dc
 
 Madrigali a cinque voci, novamente ristampati. In Venetia appresso Angelo
 Gardano 1583.
@@ -15,7 +15,7 @@ PL-GD: compl.
 GB-Lbm: A.D.
 F-Pn: A.
 
-2983 _ (De) WERT ]acob (1571) _ Di Giaches de Wert il Quinto Libro. dc
+2983 - (De) WERT ]acob (1571) - Di Giaches de Wert il Quinto Libro. dc
 Madrigali a cinque, sei, et sette voci: novamente composti et dati in lUCe. Libro
 Quinto. In Venetia apresso li figliuoli di Antonio Gardano. 1571.
 
@@ -39,7 +39,7 @@ A 5. Avorio e gemma et ogni pietra dura, che meglio da l'intaglio (AſîOSÌO) 1
 " " Et che non spero mai render all'alma (seconda parte) 16
 " " Lieto Phebo del mar, più che l'usato, in si fosca stagion 17
 " " Misera me, che deggio far lontana dal mio signor 18
-" " Vous qui voies le pas que ic chemine sans cesse. Canzon franeesa _ ) 19
+" " Vous qui voies le pas que ic chemine sans cesse. Canzon franeesa - ) 19
 " " 0 ne miei danni più chc'l giorno chiara, crude] malign'c. Capitolo (Ariosto 20
 
 " " Rimembral'il piacer, ch'all'hor havesli (seconda parte) " 21
