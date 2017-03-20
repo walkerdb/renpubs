@@ -34,7 +34,7 @@ Pulchra es amica mea 9
 Laudate Dominum lO
 lubilate Deo 10
 Vidi coniunctos virus 12
-0 salutaris ostia 14
+O salutaris ostia 14
 Confilemini Domino. ln echo "
 Ecce panis angelorum 16
 Vidi Ierusalem 16

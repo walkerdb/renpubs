@@ -22,7 +22,7 @@ S'io pensassi, madonna, che mia morte \'i fosse sopr'ogn'altra. Tertii toni 22
 Poi che la vist'angelica, serena, per subita partenza. Tertii toni (Petrarca) B
 Sc'l mio bel sol è spento, che luc'et \'ita solea. Tertii toni 24
 La vita fugge et non s'arresta un'hora. Tertii toni (Petrarca) 25
-0 S'io potessi, donna, dir quel che nel mirarv'io provo. Primi toni 26
+O S'io potessi, donna, dir quel che nel mirarv'io provo. Primi toni 26
 Ogn'hor per \'oi sospiro, donna, poi ch'io non oso. Primi toni 27
 Sc del mio amor temete, certo gran tort'havetc. Primi toni 28
 Quand'io pens'al martire, amor. che tu mi dai. Septimi toni (Bembo) 29
@@ -35,7 +35,7 @@ Lagrimando dimostro quanto si dolga con ragion il core. Quinti toni (Boccaccio) 
 Discolorato hai morte il più bel volto che mai si viddc. Quarti toni (Petrarca) 36
 Ecco ch'un'altra volta, o piaggio apriche, udrite il pianto. Primi toni (Sannazzaro) 37
 AVC. sanctissima Maria, mater Dei, regina coeli. Primi toni 38
-0 quam pulchra es et quam decora. Septimi toni 39
+O quam pulchra es et quam decora. Septimi toni 39
 
 I-Bc: compl.
 
