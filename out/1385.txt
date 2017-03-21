@@ -33,7 +33,7 @@ A 5. Fuggan le nevi e i duri ghiacci homai scopra in vece di nubi e d'atri horro
 " " Quindi vaga talhor in me far suole (seconda parte) 24
 " " Con aure dolci per li ameni fiori, ch'escono da l'humor d'arbori e piante 24
 " " Spiega la terra di smiraldi il manto (Seconda parte) 25
-" " Sc beltate e ricchezza, donna gentil, cercate ad hor ad hora mirate in voi 26
+" " Se beltate e ricchezza, donna gentil, cercate ad hor ad hora mirate in voi 26
 " " Mentre il mio cor doglioso contra la donna mia pien d'ira ardea 27
 A 3- Spargete, ninfe, intorn'a questa riva da le candide mani. Dialogo 28
 I-Bc: compl.

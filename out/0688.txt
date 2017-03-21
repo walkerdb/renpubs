@@ -4,7 +4,7 @@ A 5. Dimmi, cieco ch'aventi fiamm'e strali
 " " Ove son le promesse, ove la fede (seconda parle) 5
 " " Alma serena et bella, se del vostro splendor (Cassola) 6
 " " Amor, che de mortali ogni cor vede, ha ritrovato 7
-" " Sc sol pensando in voi chiara si vede 8
+" " Se sol pensando in voi chiara si vede 8
 " " Quando spirti divini suonan in voce 9
 " " Dch qual pruova maggior, donna, volete del mio cruclel martire 10
 " " Vaghi nugclletti, che per valli e monti accompagnate 11

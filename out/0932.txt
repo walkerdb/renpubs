@@ -1,7 +1,7 @@
 A 3. Non te fidare de satiro che magnia 5
 
 " " Basta, madonna mia, che lu pensavi di vender le vesiche al m::cellaro 7
-" " Sc tu non mi voi ben, o faccia penta 9
+" " Se tu non mi voi ben, o faccia penta 9
 " " Come t'haggio lassata, o vita mia, se socchi belli ]]
 " " Chi me l'havesse dctt'o vita mia, che senza tene 13
 " " Son morto e moro e pur cerco morire, nè per tanto morir 15
@@ -51,5 +51,5 @@ A 4. S'io ve dico ca sete la chiu bella - 2
 " " Saccio na cosa ch'è di legn'e tonda e con fcrreto 4
 
 ' ' sta
-" " Per ch'hai lasciato de non t'aﬂacclare per far sapere ca Sl malate
+" " Per ch'hai lasciato de non t'aflacclare per far sapere ca Sl malate
 

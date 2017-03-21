@@ -46,7 +46,7 @@ GB-Lbm: compl.
 I-Nc: C.A.B.5.
 I-Bc: C.T.B.
 
-153} -- MACIGNI Giovanni - MAGNI Benedetto (1617) - Madrigali a cinque
+153} - MACIGNI Giovanni - MAGNI Benedetto (1617) - Madrigali a cinque
 
 vocn. Con il Basso continuo. Di Giovanni Macigni gentil'homo fiorentino con
 
@@ -54,7 +54,7 @@ alcuni di Benedetto Magni suo maestro. Libro Primo novamente composti et dati
 
 in luce. Stampa del Gardano in Venetia 1617. Appresso Bartholomeo Magni.
 
-6 fasc. in 8° (C.A.T.B.S.), pag. Zl,(1). Sonetto dell'Autore a la sua donna.
+6 fasc. in 8° (C.A.T.B.S.), pag. 21,(1). Sonetto dell'Autore a la sua donna.
 
 Torno piangendo a riverir quel sasso (Marino) 1
 Ma chi mi vieta ahimè (seconda parte) " 2

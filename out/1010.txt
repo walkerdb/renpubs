@@ -7,7 +7,7 @@ mannus. 1603.
 D-Rp: compl.
 [JS-AA: compl.
 GB-Lbm: CA.
-Pl--\Vn: C.
+Pl-\Vn: C.
 I-BRq: A.
 PL-LElpn: A.
 PL-WRu: A.

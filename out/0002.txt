@@ -42,7 +42,7 @@ Dresden, Sàchsische Landesbibliothek
 Dillingen, Kreis- und Studienbibliothek
 Darmstadt, Hessische Landes- und Hochschulbibliothek
 Eichstätt, Staatliche Bibliothek
-Eichstätt, Bischôﬂiche Ordinariatsarchiv
+Eichstätt, Bischôfliche Ordinariatsarchiv
 Frankfurt/M., Stadt- und Universitätsbibliothek
 Freiberg, Bibliothek der Oberschule Geschwister Scholl
 Flensburg, Bibliothek des Staatlichen Gymnasium
@@ -66,8 +66,8 @@ München, Universitätsbibliothek
 Münster, Santini-Bibliothek
 Münster, Universitätsbibliothek
 Mainz, Stadtbibliothek
-Mainz, Bibliothek des Bisch'òﬂichen Priesterseminars
-Paderborn, Erzbisch'òﬂiche Akademische Bibliothek
+Mainz, Bibliothek des Bisch'òflichen Priesterseminars
+Paderborn, Erzbisch'òfliche Akademische Bibliothek
 Regensburg, Proskesche Musikbibliothek
 Regensburg, Fùrstl. Thurn und Taxissche Hofbibliothek
 Rostock, Universitàtsbibliothek
@@ -76,5 +76,5 @@ Tiìbìngen, Universitàîtsbibliothek
 Ulm, Von Schermar'sche Familienstiftung
 Wolfenbüttel, Herzog-August-Bibliothek
 
--xv1-- -
+-xv1- -
 

@@ -48,7 +48,7 @@ A 5. Leva con la sua mano il vel la donna mia 1
 " " Donna. se voi m'odiaie, a che sì dolce poi baci mi date (Rinaldi) 7
 " " T'amo mia vila, la mia cara vita mi dice (Guarini) 8
 " " Dolcemenle dormiva la mia Clori e intorno al suo bel volto (Tasso) 9
-" " Sc \"ho donato il core e così vuol amore 10
+" " Se \"ho donato il core e così vuol amore 10
 " " DOlcc, grave et acuto. Quest'i tre accenti (Rinaldi) "
 
 -IZ97-

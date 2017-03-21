@@ -2,7 +2,7 @@ A 5. A te le selve, i boschi si vestono di ricch'altere fronde 15
 
 " " Se fia che per te lasci questa spietat'Autilla. ch'a duri miei tormenti 16
 " " Donna mia. casta e bella, voi che devol'andate porgendo preghi 16
-" " Sommess'accenli e tacite parole, rotti singulti e ﬂebili sospiri 18
+" " Sommess'accenli e tacite parole, rotti singulti e flebili sospiri 18
 " " Avcnturosi colli, cui l'aura di dolcissime parole aviva i lieti fiori 19
 " " Oui dove, con serena e lieta fronte, par eh'ogn'hor rida il gralioso aprile 20
 " " Per le cime de' pini e de gl'allori (seconda parte) 21
@@ -53,5 +53,5 @@ A 2- Chiome dorate, mie catene gradite, ch'imprigionando l'anima 36
 " " spuntò nascendo già dalle feconde (terza parte) 41
 " " Tal apparve costei, tal le sue bionde (quarta parte) 42
 
---823 -
+-823 -
 

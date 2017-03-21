@@ -7,7 +7,7 @@ netia, appresso Giacomo Vincenti. 1616.
 A 5. Faciam, cara mia File, un concento, una musica gentile 1
 " " O miracol d'amore. Io che già fui disciolto hor lasso peno 2
 " " Ondeggiavan a l'aura le bionde chiome d'oro quand'io vidi 3
-" " Sc dipingere amore brami, saggio pittore, dipingi il pargoletto 4
+" " Se dipingere amore brami, saggio pittore, dipingi il pargoletto 4
 " " Amorosi pastori e accorte ninfe. vezzose pastorelle 5
 " " Canta mia musa homai lieta e ridente i miei felici 6
 " " I sospiri, i dolor, le cure e i pianti (seconda parte) 7
@@ -29,7 +29,7 @@ I-Bc: C.
 l.,lbro de Madrigali a quatro, a cinque, et a sei voci. Novamente composti et dati
 tn luce. Dresdae, typis Elect. Saxoniae, anno 1589.
 
-5 fasc. in 8° obl. (C.l°, C.Z°, A.T.B5.), pag. Zl,(1). Ded. Christiano Duci Saxoniae: ((..et ego,
+5 fasc. in 8° obl. (C.l°, C.Z°, A.T.B5.), pag. 21,(1). Ded. Christiano Duci Saxoniae: ((..et ego,
 qui musicam, inquc eius exercitio lllustriss. Cels. tuae subjectissimum servum me profiteor...
 
 Dresdae, 1° V 1589".

@@ -45,7 +45,7 @@ A 1. Ite, sospiri miei, a ritrovar colei che nel suo petto 5
 A2. Non lun-en Febo ancora recato al mondo il di che del suo albergo (Rinuccini) 7
 " " Deh Filli, vientene ove tra i platani rive bellissime 8
 A 1. Figlio dormi, dormi figlio, china'l ciglio, caro figlio 9
-A 2-- D'una guancia alma, ridente, ch'arrossir fà in ciel l'aurora (Rinuccini) 10
+A 2- D'una guancia alma, ridente, ch'arrossir fà in ciel l'aurora (Rinuccini) 10
 A 3. O fronte serena, o treccic dorate, che'l cor mi legate 11
 A 1. Aure vagh'aure gioconde, che volate, che scherzato dolcemente 12.
 A 2. Che fai tu, che di tu, vita mia? Per quai piagge a coglier fior 13

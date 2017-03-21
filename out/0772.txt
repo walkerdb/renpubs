@@ -16,7 +16,7 @@ lo disleale? Ah cruda voi negale la fede per non mi dar mercede. Ad Agostino
 
 8
 " " Udite, lagrimosi spirti d'Averno, udite nova sorte di pena " 9
-" " Ridcva, ahi crud'aﬂ'clto, la mia [era bellissima perch'io lagrimando " ll]
+" " Ridcva, ahi crud'afl'clto, la mia [era bellissima perch'io lagrimando " ll]
 n " O fortunato Aminta, o te felice tanto più, quanto più misero fosti (Tasso) 11
 " " O dolc'anima mia, dunque è pur vero che cangiando pensiero (Guarini) 11
 " " Ben è soave cosa quel bacio che si prende da una vermiglia " [3
@@ -24,7 +24,7 @@ n " O fortunato Aminta, o te felice tanto più, quanto più misero fosti (Tasso)
 " " Dunque a dio, care selve, care mie selve a dio ricevete quest'ultimi " IS
 " " O sfortunat'Aminta, tu in guisa d'ape che ferendo more (Tasso) [6
 " " Ma come Silvia il riconrbb'e vide le belle guancie (seconda parte) " 17
-A 8. Ecco la primavera che ne rimena il sole a rinovar le rose. (Cavalletto) lﬂ
+A 8. Ecco la primavera che ne rimena il sole a rinovar le rose. (Cavalletto) lfl
 " " Al suon (le nostri canti dal seno (le gl'amanti hoggi fuga ogni noia 20
 I-FEc: compl.
 D-Kl: compl.

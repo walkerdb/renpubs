@@ -31,7 +31,7 @@ A 5. D'una sì bella e chiara fiamma ardente "
 " " Lasciando il più bel 15
 " " Questa alta tua beltà, ch'al mondo è rara 16
 " " Non pur benigno il cielo ]7
-" " Crespo, dorato crin, occhi lucenti lﬂ
+" " Crespo, dorato crin, occhi lucenti lfl
 " " Tra di leggiadre donne un lieto coro 19
 " " Non fu ad Hettor sì grave il don d'Aiace "
 " " Gentil mia donna, a cui natura e'l cielo B
@@ -52,5 +52,5 @@ A 8. Onde nasce il dolor che mi tormenta 37
 
 E-V : compl.
 
--638--
+-638-
 
