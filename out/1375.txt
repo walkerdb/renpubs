@@ -1,6 +1,6 @@
-A3... Poi che'] so] "a nel mare, Clori, non mi far più lasso penare 7
+A3... Poi che'l so] "a nel mare, Clori, non mi far più lasso penare 7
 
-"" Crescon le verdi herbett'c i vaghi fiori alla ruggiada 8
+"" Crescon le verdi herbett'e i vaghi fiori alla ruggiada 8
 " " Non passo mai vicino a questo fonte, ch'io non dica piangendo 9
 " " La vaga tortorclla, che presa diedi alla mia pastorella 10
 "" Pascete. o mi capretti, i vaghi colli. Io starò assiso 11
@@ -16,7 +16,7 @@ A3... Poi che'] so] "a nel mare, Clori, non mi far più lasso penare 7
 " " Udite, fior felici, herbc gioconde, che già fost'al suo crin 22
 " " Hai cantato, pastor, per questa valle, hor piangi mò con dolorosi 24
 " " Solo ha ragion Polindo, che con l'arco e'] mio strale 25
-" " Più dc ligustri bianca e della neve, più de le rose malutine 26
+" " Più de ligustri bianca e della neve, più de le rose malutine 26
 " " Misero Alceri, fuggi la pastorella altiera onde ti struggi 28
 " " Qual vita è più felice di quella d'un pastore, che corre 29
 " " Dal cespuglio, ove il cor lasso ti diedi, ten fuggi, o Pafo 30
@@ -54,5 +54,5 @@ Sta bcnedett'amor, l'arco e la frezza 20
 
 me parto da voi collo 21
 
-SU Vlselti dc veluo sin de sforza 22
+SU Vlselti de veluo sin de sforza 22
 

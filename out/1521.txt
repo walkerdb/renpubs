@@ -2,7 +2,7 @@ A5. L'aura gentil che rasserena i poggi (Petrarca) 5
 
 " " Nel qual provo dolcezze (seconda parte) " 6
 " " ll cantar novo e'l pianger de gl'augelli " 7
-" " Così mi svcglio a salutar l'aurora (seconda parte) " 8
+" " Così mi sveglio a salutar l'aurora (seconda parte) " 8
 " " Quel rossignol che sì soave piagne forse suoi figli " 9
 " " Amor piangeva et io con lui talvolta " 10
 " " E se tornando a l'amorosa vita (seconda parte) " 11
@@ -20,9 +20,9 @@ A 4. Levate hormai che'l cor amor n'ingombra (seconda parte) 19
 A 5. Zefiro spira e'l vago giorno induce (sesta parte) 24
 " " Lasciate adunque, o bei pastori, il sonno (settima parte) 25
 " " Canzon, tu poi mostrar qual sia la mia voglia (ottava parte) 26
-" " I' piansi, hor canto, che'] celeste lume quel vivo sol (Petrarca) 27
+" " I' piansi, hor canto, che'l celeste lume quel vivo sol (Petrarca) 27
 " " Sì profund'era e di sì larga vena (seconda parte) " 28
-" " Dulces exuvie dum fata dc us que sinebant. Versi di Vergilio 29
+" " Dulces exuvie dum fata de us que sinebant. Versi di Vergilio 29
 
 B.
 l-Vc (Torrefranca): B.

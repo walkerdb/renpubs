@@ -41,7 +41,7 @@ A 2. Io mi sento morir, quando non miro colei ch'è la mia vila (Guarini) 1
 " " Negatcmi pur, cruda, de bei vostr'occlli il solc "
 
 " " Rose, rose beate, lascivette figliole de la terra " 2
-" " Ardemmo insieme. bella donna, ed io dc sì subito ardore " 3
+" " Ardemmo insieme. bella donna, ed io de sì subito ardore " 3
 " " O com'è gran martire a celar suo desire. quando con pura " 4
 " " O stelle ardenti, o stelle vive (l'amor fiammelle 5
 " *" Spinc care e soavi, che piagando sanate 6

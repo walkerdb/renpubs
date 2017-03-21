@@ -5,8 +5,8 @@ A 3. Quando ch'al cibo (Porcello)
 " " Sagnur Pasquì (Cane) 21
 " " Quando ch'ha fatto (Gallina) 22
 " " Vorrei esser pittor. Balletto 23
-" " Noi tre totcschi. Canzonctta in Gagliarda 24
-" " Buon dî, Lucia. Canzonctta in Gagliarda 25
+" " Noi tre totcschi. Canzonetta in Gagliarda 24
+" " Buon dî, Lucia. Canzonetta in Gagliarda 25
 26
 
 A 4. Filli, dolce mio foco, non è'] mio mal un gioco. Arictta
@@ -35,7 +35,7 @@ gal1 a.Clnque voci. Con un Dialogo a otto. Novamente composti, et dati in luce. 
 Venetia, appresso Ricciardo Amadino, 1602.
 
 S_fasc. in 8° (C.A.T.B.5.), pag. 21,(1). Ded. a Monsignor Giuliano Fcltrio Della Rovere Abbate
-dl S. Lorenzo in campo, et Refferendario dell'un'e l'altra scgnatura di N.S.: " ...pcr esser ella
+di S. Lorenzo in campo, et Refferendario dell'un'e l'altra scgnatura di N.S.: " ...pcr esser ella
 ardentrsmma conservatrice di questa nostra Abbazia di S. Maria de gli Angeli in Pesaro... prima
 mia muta de Madrigali... Pesaro, 1° II 1602".
 

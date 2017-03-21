@@ -42,7 +42,7 @@ n " Deh cara vita mia, morir mi sento per la pena et tormento 13
 " " PaSSa la nave mia colma d'oblio per aspro mar (Petrarca) 15
 " " Pioggia di lagrimar, nebbia di sdegni (seconda parte) " 17
 A 6 Donn'importuna e fella il mio tesor mi tolsc 18
-" " Ninfe leggiadr'c voi, almi pastori, correte a gara 19
+" " Ninfe leggiadr'e voi, almi pastori, correte a gara 19
 " " In dir che sete bella scemo le vostre lodi. Prudentia (Tansillo) ZÛ
 " " I capei de l'aurora, gl'occhi del sol (seconda parte) " 21
 

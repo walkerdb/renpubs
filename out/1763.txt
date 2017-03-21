@@ -32,7 +32,7 @@ A 5. Voi, che già stanchi sete di mirar l'alta abete. Proemio 3
 " " Che nuova Cinthia è questa, che invece d'are'adopera 4
 " " Ma maggior meraviglia è (seconda parte) 5
 " " Ahi tormentosi abissi, ov'io pur grido, ahi dispietata sorte 6
-" " Ti diè natura il foco, vczzosetta mia Clori 7
+" " Ti diè natura il foco, vezzosetta mia Clori 7
 " " Corre la nave mia, colma di gioia 8
 " " Questo, legato in oro, durissimo diamante 9
 " " Lunghi danni e tormenti, stratii, affanni 10
@@ -47,7 +47,7 @@ A 6. Donna, se voi m'odiate, a che sì dolci poi baci mi date (Rinaldi) 17
 " " Hot che farcm, mio core (seconda parte) 19
 " " Vanne la nave mia, pront'e sicura, col vent) de sospiri 20
 " " Felice schiera di leggiadr'e belle, lucenti sulle 21
-" " Non più pen'e tormenti, ma dolcezz'c contenti 22
+" " Non più pen'e tormenti, ma dolcezz'e contenti 22
 " " Non mi toccare, non t'accostare. Villotta B
 " " Sapete voi, bifolci, a cui somiglia. Villotta 74
 " " O giardinierol Che vuoi tu, o passaggiero? 25
@@ -55,7 +55,7 @@ A 6. Donna, se voi m'odiate, a che sì dolci poi baci mi date (Rinaldi) 17
 " " Quest'è un'altra bevanda (tema pan-:) 28
 " " Questa ghirlanda, che di noi facciamo. Bando de l'asino go
 " " Ciascun di voi s'elegga (seconda parte) 32
-" " O Bacco, apportator dc l'allegrezza - _ 34
+" " O Bacco, apportator de l'allegrezza - _ 34
 " " Hor ch'ogni vento tace e sol fresc'aura (Zuccari...) 35
 " " Miri e stupisca il mondo, stupisca il cielo 36
 

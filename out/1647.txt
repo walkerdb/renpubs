@@ -10,8 +10,8 @@ AZ. Chi non sa quanto ginizchn del mio amor, rider non può. Canzonetta 13
 " " O piaggia felice, albergo beato. Ciaccona 15
 " " O selva romila, lu godi il bel vim (seconda parte) 16
 " " Ohimè ch'io li miro, ma spargo (la lumi (terza parle) 17
-" " Sospiro sì, ma nulla gici-ami il sospìrar. Canzonctta 20
-A 3. 10 vo morir. Non sia nessun di vita mi ragioni. Canzonctta 22
+" " Sospiro sì, ma nulla gici-ami il sospìrar. Canzonetta 20
+A 3. 10 vo morir. Non sia nessun di vita mi ragioni. Canzonetta 22
 " " T'ingannì, o mio core, se speri pietà da chi ti ferì. Canzonetta 24
 " " O come è cieco amore. Per bcllezz'înfinila già mi rapisli. Arietta 26
 " " Che vuoi più tu da me. Lilla crudele 23
@@ -38,11 +38,11 @@ A 5 Amor, d'ogni mia pena io ti ringrazio, sì dolc'è'l tuo martire 1
 " " L'aura soave, che dal chiaro viso (Petrarca) 3
 " " Vaghi pensier, che così passo, passo " 4
 " " Tre son le Grazie ancelle, se non è falso de la fama il grido (Tasso) 5
-" " Perchè de la mia fede fors'era in dubbio qucst'altcra donna 6
+" " Perchè de la mia fede fors'era in dubbio quest'altcra donna 6
 " " Madonna, mi lcgasti et hor sciolto m'havere 7
 " " Fiamme son le tue voci e fiamme e lampi la fronte e gl'occhi 8
 " " Così tutla sei lu fiamma d'amore (:econda parte) 9
-" " Com'esser può che il foco ond'io m'incend'c sfaccio 10
+" " Com'esser può che il foco ond'io m'incend'e sfaccio 10
 " " Basla pur troppo il foco ch'cnlro a begl'occlii havete 11
 " " Nel dolce sen della sua bclla Clori Tirsi, che del suo fine (Tasso) IZ
 " " QUand'clla: ohimè, ben mio. aspetta, sospirò (seconda parte) " 13

@@ -11,7 +11,7 @@ A 5. Faciam, cara mia File, un concento, una musica gentile 1
 " " Amorosi pastori e accorte ninfe. vezzosc pastorellc 5
 " " Canta mia musa homai lieta e ridente i miei felici 6
 " " I sospiri, i dolor, le cure e i pianti (seconda parte) 7
-" " Ben dc la cara bocca, vero seggio d'amore, mi risuonan 8
+" " Ben de la cara bocca, vero seggio d'amore, mi risuonan 8
 " " Dolcemente dormia bella e vezzosa Clori in mezzo un prato 9
 " " Soglion l'antiche carte favoleggiar clt'Orfeo col canto ...
 " " Fu già bandito amore per inganni e rapine da tutto il territorio 11

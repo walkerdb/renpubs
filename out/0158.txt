@@ -21,11 +21,11 @@ A 3. Debbo dunque morir sì sconsolato. Canzone-lta
 " " S'io miro il tuo bel viso, amore, e un paradiso_ Canzonetta. A Lucretia R0 5
 " " Fuggite, amanti, amore, se libero volete liavere. Canzonetta 6
 " " Ardenti mici sospiri e dolorosi, andate presto. Canzonetta 7
-" " Donna, vostr'occhi gai geriscon sempre mai. Canzonctta 8
+" " Donna, vostr'occhi gai geriscon sempre mai. Canzonetta 8
 A 4. S'io parte i' moro e pur partir conviene. Canzonetta 9
 " " Dolcissima mia vita, da te faccio partita. Canzonetta 10
-" " Porto celato il mio nobil pensiero denlr'a qucst'alma. Canzonetta "
-" " Leggiadre ninfe, che la notte e'] giorno gite cantando. Canzonctta 12
+" " Porto celato il mio nobil pensiero denlr'a quest'alma. Canzonetta "
+" " Leggiadre ninfe, che la notte e'] giorno gite cantando. Canzonetta 12
 " " S'io fuggo ogn'hor da te è perchè. Risposta a Non ti. fuggir da me 13
 " " Donna gentil, voi sete il mio bel sole. Canzonetta 14
 " " Provate la mia fiamma, fiamma de la mia fiamma. Del Mai-anzio (Celiano) 15
@@ -45,10 +45,10 @@ A-Wn: C.A.
 RISM, I 1599-12.
 
 249 - BARGNANI Ottavio (1601) - Il Primo Libro de Madrigali a cinque YOCÌ
-di Ottavio Bargnani nobile cittadino bresciano all'illustrissìmo, et I'CVCl'CſldlSSlmO
+di Ottavio Bargnani nobile cittadino bresciano all'illustrissìmo, et I'CVCl'CſldisslmO
 
 _ . . - * ' c, Il
-mon51gnor Mann Giorgio, vescovo dl Bresc1a, duca, marchese, conte, et
+mon51gnor Mann Giorgio, vescovo di Bresc1a, duca, marchese, conte, et
 
 Venetia, appresso Angelo Gardano. 1601.
 5 fasc in 8° obl (C.A.T.B.5.), pag. 21. Ded., Brescia, 1° VII 1601. Duc madrigali di Gio. Pao]o

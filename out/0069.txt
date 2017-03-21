@@ -17,7 +17,7 @@ A 5. Qui voi sterili et egre sarcst'anchc voi sempre, 11
 " " La tua font'Arno, ohimè, le placid'onde, che dolce mormorando 27
 " " Nè bel raggio di sole, nè ciel seren pien d'ogni vaga stella 2,8
 " " Fresche, fiorite, vaghe et verdi piaggie, che di smeraldi 29
-A 6. Rompas'il duro ghiaccio, che'] fonte di pietà cuopr'e nasconde 30
+A 6. Rompas'il duro ghiaccio, che'l fonte di pietà cuopr'e nasconde 30
 " " Perch'al viso d'amor portava insegna, moss'una pellegrina (Petrarca) 32
 " " Ardenti stelle, qualhor fu giamaì ch'e santi lumi in voi 34
 " " Et quando fu giamai gran madr'antica (seconda parte) 36
@@ -47,7 +47,7 @@ A 5. Se delle voglie sue fallace segno non presta, od opra 1
 " " Ond'io spero che'n fin dal cielo (seconda parte) " lO
 " " Lasso me, ch'ad un tempo e taccio e grido e temo (Bembo) 11
 " " Cerco fermar il sole, arder la neve (seconda parte) " 12
-" " Itc, rime dolenti, al duro sasso che'] mio caro thesoro (Petrarca) 13
+" " Itc, rime dolenti, al duro sasso che'l mio caro thesoro (Petrarca) 13
 " " Sol di lei ragionando viva e morta (seconda parte) " 14
 " " Padre del ciel, dopo i perduti giorni " 15
 " " Hor volge, signor mio, l'undecimo anno (seconda parte) " 16

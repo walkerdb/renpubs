@@ -29,7 +29,7 @@ De Monte - " " Donnez au Seigneur gloire
 
 " " - " " Susann'un ìour, d'amour solicitée (Guéroult)
 Dt Rare - " " Sì traviat'è'l folle mio desio (Petrarca)
-" " - " " Et poi che'] frcn (seconda parte) "
+" " - " " Et poi che'l frcn (seconda parte) "
 D-Mbs: compi
 
 Boettichcr 764.

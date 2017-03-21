@@ -18,7 +18,7 @@ A3. 0 saette d'amor, ch'a mill'a mill'a quinci movete 6
 " " Il dolce sonno mi promise pace, ma l'amaro veggiar (Ariosto) 14
 " " Ecco ch'io lass'il core a chi nutrisc'il suo del mio dolore 14
 " " Quando benigna stella degno mi fè mirar vostra beltade 15
-A 6. La Parque avoit desia resolu dc couper le fillet 15
+A 6. La Parque avoit desia resolu de couper le fillet 15
 " " Bien heureux est celuy et disie plus qu'heureux 16
 
 GB-Lbm: compl. (C. manc. di c. 13v.-l4r.).

@@ -16,7 +16,7 @@ A 4. Las voulez vous qu'une personne chante 1
 " " ln dubbio di mio stato, hor piango, hor canto (Pctrarca) 10
 A 5. Est il possible a moy pouvoir trouver 11
 " " Alma Venus que sola Venus 11
-" " Elle sen va dc moy la mieux aimc'e (Marat) 15
+" " Elle sen va de moy la mieux aimc'e (Marat) 15
 " " Le rossignol plaisant et gratieux 15
 " " Veulx tu ton mal 17
 " " Le voulez vous? len sui slres bien contente. Risposta 19
@@ -26,7 +26,7 @@ A 5. Est il possible a moy pouvoir trouver 11
 " " Vous qui aymcs les dames B
 " " Ardcnt amour souvent m'a faict instance 24
 " " Iattcns le temps ayant ferme csperancc 25
-" " Susanne ung iour d'amour solicite'c (Guéroult) 26
+" " Susanne ung iour d'amour solicite'e (Guéroult) 26
 " " Ung triste coeur rempli de fantasie ."... 23
 A 6. Tytirc tu patule recubans sub tegmine {agi (Virgil...) 19
 D-Kl: compl.

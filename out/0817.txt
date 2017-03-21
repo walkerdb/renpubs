@@ -36,7 +36,7 @@ A 1. Ahi se pur vostro son, deh perchè tanto diversi son. Ruggiero. Tenore 43
 " " Che se'l cor ho ferito e vostr'è'l core (quarta parte) 47
 " " Vostro fui, vostro son e sarò vostro fin che vedrò. Ruggiero. Tenore (B. Tasso) 49
 " " Vili prima saran le perle e l'ostro (seconda parte) " 50
-" " Che'l tempo spenga mai qucst'ardor (terza parte) " SZ
+" " Che'l tempo spenga mai quest'ardor (terza parte) " SZ
 " " Anzi crescerà sempr'il mio gran foco (quarta parte) " 53
 " " Qui tra l'ombre del bosco al ſont'al rio te sovente. Ruggiero. Soprano 55
 " " Qui tra l'onda corrente arsi'l cor mio (seconda parte) 56
@@ -45,7 +45,7 @@ A 1. Ahi se pur vostro son, deh perchè tanto diversi son. Ruggiero. Tenore 43
 " " Bella Clori sdegnosetta, ch'a bei rai di tua beltà. Aria prima. Soprano 61
 
 " " Fillide bella, ch'i dardi scocchi. empia e rubella. Aria seconda " 62
-" " Ahi ladra. ahi furba, che'] mio cor turba. mentr'io. Aria terza " 64
+" " Ahi ladra. ahi furba, che'l mio cor turba. mentr'io. Aria terza " 64
 
 "' " Bel neo d'amore riposl'in quel volto che l'alma. Aria quarta " 66
 " " Non & beltà che con l'età non perd'il suo bel fiore. Aria quinta " 68

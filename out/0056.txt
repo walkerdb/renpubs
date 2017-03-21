@@ -8,7 +8,7 @@ A 2. Ben nel petto Massentio un marmo tiene 3
 " " Padre del ciel, diletto sia sempre 7
 " " Hor ch'il sol luce in cielo 8
 " " O beata regina delle stelle 9
-" " Dunque con gl'occhi io vcggio 11
+" " Dunque con gl'occhi io veggio 11
 " " Tu sei foco, io son cera 12
 " " Fatto amante Francesco de le piaghe 13
 A 3. Parte veloce un serafin dal cielo 14
@@ -35,7 +35,7 @@ I-Bc : compl.
 
 75 - ANERIO Giovanni Francesco (1617) - Selva armonica. Dove si contengono
 Motetti, Madrigali, Canzonette, Dialoghi, Aric a una, dOÌ, tre, et quattro voci.
-Di Gio. Francesco Anerio romano. Maestro dl cappella della Madonna Santissima
+Di Gio. Francesco Anerio romano. Maestro di cappella della Madonna Santissima
 delli Monti di Roma. In Roma, appresso Gio. Battista Robletti. 1617. Con licenza
 de' Superiori.
 

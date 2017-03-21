@@ -11,7 +11,7 @@ A 3. All'arm'all'arm'amore sfida ed io ch'arme non ha 2
 " " Non sa che sia dolor chi non ha'l mal d'amor 6
 " " Voi pur da me partite, anima mia, nè vi duo] di partire (Guarini) 6
 " " Mille dolci parolette vezzosette mi dicesti al mio ritorno 6
-" " Chi mi confort'ahimè, chi più consolami hor che'] mio sol (Chiabrera) 7
+" " Chi mi confort'ahimè, chi più consolami hor che'l mio sol (Chiabrera) 7
 " " Deh sc tue belle ciglia hora (seconda parte) " 7
 " " Felice chi vi mira, ma più felice chi per voi sospira (Guarini) 8
 " " Ardc il mio petto misero altra fiamma lucente (Chiabrera) 8
@@ -24,7 +24,7 @@ A 1. La pastorella mia spietata e rigida, che nott'e giorn'al mio " 10
 " " Dunque non scoprirò quel fiero ardor, che mi consuma il sen? 16
 " " O lumi, o chiarc stcllc, ch'al lampeggiar de vostri dolci sguardi 18
 " " O bocca dolc'e cara di perle e di rubin (seconda parte) 20
-" " O guancic, ameni prati, ove fra bianch'c (terza parte) 21
+" " O guancic, ameni prati, ove fra bianch'e (terza parte) 21
 " " O guancie, o bocca, o lumi, per voi qual cera (quarta parte) 22
 A Z. Ah che pur giunt'è l'hora che degg'ohimè partire 24
 I-Bc: compl.

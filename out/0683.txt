@@ -27,7 +27,7 @@ A 2. Tu quasi torre " " 20
 " " Quinci ottenuto havcndo " " 21
 A 6. Ma chi più di te misero " " 21
 A 3. Tu quell'ulcro islcsso " " 21
-" " Ma com'è che'] paterno letto " " 22
+" " Ma com'è che'l paterno letto " " 22
 A 6. T6 manifesta al fine " " 22
 
 ZZ
@@ -55,7 +55,7 @@ ll facessi stampare, ma sopra tutto ch'io gli dedicassi alla S.V. Cl...".
 Zendil donn'e segnuri. ben vedeu la nostra cumbania chie se greghi (Molino) 2
 Tria "gerundas musechi nu la semo vegnui che per cundarve "
 
-O mia canzun. va in man dc ehy saveu allegramendc " 9
+O mia canzun. va in man de ehy saveu allegramendc " 9
 Chie val haver cavallo e rumper lanza e cul mio spa in beccun " 12
 Aldi vel prego amandi, da lunzi una donna con la so vardari " 15
 Manoli chie faremo? Respundemo cacicchi cun legria. Dialogo " 19

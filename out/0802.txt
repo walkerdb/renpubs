@@ -9,7 +9,7 @@ A 2. A pover'impiagati, donne, deh per pietaate 2
 " " Un infermo d'amor dimanda aita. Amante pazzo 4
 A 1. Amor, sempr'ho da striderc 4
 " " O dotti medici, fate un collegio 6
-" " Un mi chiama ignorante e che'] cervel mi vola 6
+" " Un mi chiama ignorante e che'l cervel mi vola 6
 A2. A scemi di cervello, donne, deh per pictate 6
 " " Ove sta l'hospedale. Amante cieco 6
 A 1. Date la voce olà, che passa amore 3

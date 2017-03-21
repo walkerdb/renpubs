@@ -10,15 +10,15 @@ A 4. S'in me potessi, morte, quant'il duolo o almen quant'io vorrei 1
 " " Ch'i' ho cercato già vic più di mille 2
 " " Altri che voi, so ben che non m'intcnde 3
 " " Chiusa fiamm'e più ardente e se pur cresce (Petrarca) 4
-" " Non perch'io non m'avvcggia quanto mia laude " 5
+" " Non perch'io non m'avveggia quanto mia laude " 5
 " " Beati angeli voi, se così vagh'e belli set'in cielo 6
 " " Perch'io vi veggia, donna, gioir del mio dolore 7
 " " Non spcr'il ciel, che più per l'alta gioia 8
 " " Lasso, dicea, ch'io non ho difesa contro d'amor 9
 " " Lasso, che pur da l'un e l'altro sole mi pung'amor 10
 " " Io chiegg'a mort'incontr'a mort'aita ]]
-" " Gentil mia donna, i' vcggio nel mover de vostr'occhi (Petrarca) 12
-" " Qucst'ardcr mio, di che vi cal sì poco " 13
+" " Gentil mia donna, i' veggio nel mover de vostr'occhi (Petrarca) 12
+" " Quest'ardcr mio, di che vi cal sì poco " 13
 " " Nè mai stato gioioso, amor, o la volubile fortuna 14
 " " Quanta dolcezza unquanco fu in cor d'avventurosi amanti 15
 " " Io penso se là suso onde'l mottor eterno 16

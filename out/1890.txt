@@ -29,9 +29,9 @@ A 6. Nunc tandem nobis felix Hymenaee. Dom Ioan. Pernsteinio et Mariae Manrique 
 " " Nunc ergo caleant juvenilcs pectore flammae (secunda pars) 13
 " " Naupacti \'ictus quondam Antonius undis. Dom. Manrique 14
 " " Manriques a(lerat don Ivan fortissimus heros (sccunda pars) 15
-" " Musica, Adamo, novo te salvum dicit. Dom. Adamo dc nova domo 16
+" " Musica, Adamo, novo te salvum dicit. Dom. Adamo de nova domo 16
 " " Nata tibi proles spes solamen. Domino Adamo Slavata 17
-" " Ceu verno rosei splendent sub tempore flores. Dom. Petro Ursino dc Rosis {:
+" " Ceu verno rosei splendent sub tempore flores. Dom. Petro Ursino de Rosis {:
 
 " " Te ducc Boemiacis Pacstana rosaria terris (secunda pars) - _
 A 12. Tu post cxpletos tlialamos. Dialog... in gratiam Principts Gurltclmt Ursmi de
@@ -60,7 +60,7 @@ rcsso Girolamo Scotto. 1571. - .
 
 ' (Petrarca)
 Vago augeletto, clic cantando vat . - 5
-Poi che fortuna mi t'ha fatt'amare, liabbi picta dl mc. cara stgnora
+Poi che fortuna mi t'ha fatt'amare, liabbi picta di mc. cara stgnora
 
 --1878-
 
