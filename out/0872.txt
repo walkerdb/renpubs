@@ -7,7 +7,7 @@ A Z. Già vezzosa l'alba ritorna 4
 A 3. Se beltà col crin disciolto 8
 " " Fresco rusccl di puro argento 9
 A Z. A l'antro, al poggio, alla selva 10
-A ]. Pompa mortale, tu non m'allett'il scn 11
+A 1. Pompa mortale, tu non m'allett'il scn 11
 " " Crudo arcier, pene dai con le luci 12
 A 2. Vaghi gigli al bel candore 13
 A 3. Fabbricator d'inganni, ch'a fieri danni 14

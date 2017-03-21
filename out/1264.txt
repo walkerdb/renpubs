@@ -3,7 +3,7 @@ A Z. Ecco ch'un'altra volta, o piaggc apriche, udrete il pianto (Sannazzaro) 11
 " " Se nasce in cielo il dio di Delo, a l'occidente giunge repente 14
 " " O bella Clori, Clori mia bella, fiamma novella di mille cori H
 A 3. Mesta ti scorgo e pallida figura, darmi gli ultimi baci 16
-A ]. Anima eletta, che col tuo fattore-ti godi assisa (Sannazzaro) 17
+A 1. Anima eletta, che col tuo fattore-ti godi assisa (Sannazzaro) 17
 A 3. Con esperancas espero que'] galardon se me dè. Spagnuola
 
 A 2. Così di ben amar porto tormento. Con una Sinfonia (Petrarca) 19
@@ -20,7 +20,7 @@ diligentia stampate ct corrette Libro Primo a quatro voci Venetiis apud Antonium
 Gardane. 1546.
 
 4 fasc. in 8° obl. (C.A.T.B.), pag. 30,(8). Ded. di Girolamo Parabosco a Gottardo Occagna:
-((…Esscnd'io adunque a questi giorni stato richiesto da V. S. di alcune mascharate et havendo
+((...Esscnd'io adunque a questi giorni stato richiesto da V. S. di alcune mascharate et havendo
 per mille negotij importantissimi... l'animo in più di mille parti diviso io non poteva veramente
 in modo alcuno servire la S. V. del mio... quasi per miracolo mi sono venute alle mani queste
 composte per lo eccellente M. Lodovico Novello... ".
@@ -36,7 +36,7 @@ A 4. Quattro hebbree madonne siamo, belle assai, giovani et fresche. Da hebbrec 
 " " Saorina, saorctti, mostarda, o donne belle, per un soldo. Da vendi saorina
 
 " " Donna, siam quatro eremiti, qui venuti per narrare. Da eremiti d'amore 9
-" " D'oro fabri, o donne belle, siamo noi mastri perfetti. Da nrcfici …
+" " D'oro fabri, o donne belle, siamo noi mastri perfetti. Da nrcfici ...
 " " Lavoriamo in tal gioiello quando a notte. Residuum 11
 " " Di ballar maestri siamo, donne care, vaghe e snelle. Da maestri di ballar 12
 " " Tient'allora noi faccemo barba bianca. Residuum 13

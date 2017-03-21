@@ -1,5 +1,4 @@
 A 1. Ascoltate, o selve, o venti, ascoltate o voi donn'e 1
-
 " " Tu piangi al mio partire, tu piangi, anima mia. Madrigale (Saracinelli) 2
 " " Bocc'amorosa, perchè ritrosa ohimè mi privi. Aria 3
 " " Come in ciel balen, ogni mio ben fuggi quando il cor. Aria 4
@@ -31,12 +30,12 @@ I-Fc
 I-Vnm
 CS-Pu
 
-Sartori 1616a e II 16163.
+Sartori 1616a e II 1616a.
 RISM, I 1616-12 (non compl.)
 
 436 - BRUNETTI Domenico (1606) - L'Euterpe di Domenico Brunetti bolo-
 gnese, Opera musicale di Madrigali, Canzonette, Arie, Stanze, e Scherzi diversi, in
-Dialoghi, € Echo, a una, due, tre et quattro voci, da cantarsi in Theorba, Arpicordo,
+Dialoghi, e Echo, a una, due, tre et quattro voci, da cantarsi in Theorba, Arpicordo,
 Ct altri stromenti. All'ill.mo et rev.mo sig. Scipione card.1e Borghese, nepote di
 N-S. Paolo V. In Venetia, appresso Ricciardo Amadino. 1606.
 
@@ -44,14 +43,11 @@ Vol. in 4°, pag. 44. Ded., Venetia, 20 VI 1606. Altra ded.- " ...Questo primo p
 Ingegno... Bologna, 1° IX 1606 ".
 
 A 1. O gioioso morir, caro e felice, se in sen chiudessi 1
-" " S M3 per che tanto a me sperar (seconda parte) 2,
+" " Ma per che tanto a me sperar (seconda parte) 2,
 " " Sospir, che del bel petto dl madonn'csci fuorc (Marino) 3
 " " lo vedo ohimè gioire altri del mio desire 4
 " " Porto nel fianco il dardo, che per mia acerba sorte 5
 " " D'altro non è il morire che'] dipartir dell'alma 6
 " " Pur ten gisti, mia vita, ahi dura dipartita 7
-" " La semplicetta Filli al suo penoso Aminta un di chiedca 8
+" " La semplicetta Filli al suo penoso Aminta un di chiedea 8
 " " Stanchi miei lumi, folli costumi, vani sospiri 9
-
-__279__
-

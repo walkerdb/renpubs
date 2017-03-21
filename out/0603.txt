@@ -12,7 +12,7 @@ A 5. Viver vorrei, madonna 2
 " " Cara ladra de cori 7
 " " Ohimè se tanto amate (Guarini) 8
 " " Uscite voi, sospiri 9
-" " Poichè crudel havete …
+" " Poichè crudel havete ...
 " " Come farfalla, ch'a l'acceso lume 11
 " " Ecco ch'io vengo meno 12
 " " E voi crudele 13
@@ -20,7 +20,7 @@ A 5. Viver vorrei, madonna 2
 .. " Forse fu'l dì fatale 15
 " " Scherzi dolci e lascivi 16
 " " Filli, io vo morire, poi che li piace 17
-A 10. c…, leggiadra Fillì 18
+A 10. c..., leggiadra Fillì 18
 " " O mie felici amori (sccnnda parte) 18
 " " Aura dolce, amorosa 20
 " " Ogn'hor hai teco (seconda parte) 20

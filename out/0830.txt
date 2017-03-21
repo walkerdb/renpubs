@@ -7,7 +7,7 @@ composti, ct dati in luce. In Venetia appresso Angelo Gardano 1584.
 A 5. Donna, se perch'io \"an |
 " " Poi del mio dolore 2
 " " lo viddi duo begl'occhi ]agrimar per pietaie 3
-… " S'io esca vivo de' dubbiosi scogli (Petrarca) 4
+... " S'io esca vivo de' dubbiosi scogli (Petrarca) 4
 " " Amor, se vuoi ch'io torni al giogo antico " 5
 " " Soavissimi baci, baci non già ma strali (Marino) 6
 " " Laura, ch'a laura chiara rassomigli 7

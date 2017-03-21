@@ -35,7 +35,7 @@ A 1. Qual cadavero spiranle, () begli occhi 1
 " " Che veggio, ohimè, che sento l'idolo 3
 " " Tra le lagrime e i sospiri \'lssi 5
 A Z. O core infiammato, ama felice 7
-A ]. Freddo core, che in amore 8
+A 1. Freddo core, che in amore 8
 " " Care stelle crud'c belle 9
 A Z. A] fonte, al prato, al bosco, a l'ombra, al fresco (Chiabrera) 1
 A 1. Tutto'] dì piango e poi la notte quando (Petrarca) 2

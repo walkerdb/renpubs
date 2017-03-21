@@ -44,7 +44,7 @@ A6. Vergine bella, che di sol vestita (Petrarca) 2
 " " D'alta cagion da gran princip'havrai 7
 " " Valor, preggi et honor 8
 " " Gravi pen'in amor si provan molte (Ario-\\") 3
-" " Madonna, s'i sospiri che per-voi getto …
+" " Madonna, s'i sospiri che per-voi getto ...
 " " Sia benedetl'amorc e chiunque'l segu'ogn'hora, benedette sue face 11
 "" Amor, io moro e tu il vedi. O passi sparsi, amaramente spesi 11
 " " Sa questo altier ch'io l'amo e ch'io l'adoro (Ariosto) 12

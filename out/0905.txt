@@ -40,7 +40,7 @@ GB-Lbm: compl.
 
 I-Fr: C.S.
 
-l-VEaf: A. (mane. di front.).
+l-VEaf: A. (manc. di front.).
 I-O: T.
 
 l-Lg: 5.

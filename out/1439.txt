@@ -1,4 +1,4 @@
-A ]. Sia pur la donna mia (sesta parte) (Rasi) 9
+A 1. Sia pur la donna mia (sesta parte) (Rasi) 9
 
 " " Hor frena'l duolo (sellima parte) "
 
@@ -24,7 +24,7 @@ A 1. Prendi la cetra homai. Dialogo lV: Sìreno, Fillide e Clorì " 42
 A Z. Chi sprezza l'empia sorte (quarta parte) " 47
 A 1. Non più del bel Permesso (quinta parte) " 50
 A Z. Se'l ciel di te pietoso (sesta parte) " 51
-A ]. Come polrò già mai (settima parte) " 53
+A 1. Come polrò già mai (settima parte) " 53
 " " Qui dov'i dolci liumnri (ottava parte) " 53
 A 2. Da quel dì (nona parte) " 55
 PL-WRu

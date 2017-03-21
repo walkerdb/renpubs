@@ -22,7 +22,7 @@ A4. Ne l'odorat'et lucid'oriente (Bembo) 1
 " " Sl come là dove'l mio buon Romano " 7
 " " L'una ha'l governo in man de le contrade " 3
 " " Et vanno argumentando che si deve " 9
-" " Però vorrei ch'andaste a quelle fiere " …
+" " Però vorrei ch'andaste a quelle fiere " ...
 " " Aceingetevì dunque all'alta impresa " "
 " " Così detto disparve et le suc chiome " 11
 " " Le piramide et Memphi poi lasciate " 13

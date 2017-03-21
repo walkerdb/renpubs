@@ -33,10 +33,10 @@ A 4. Nova forza nuov'arte 3
 " " Odi quel augelino 4
 " " Lidia, ti lasso, ahi laSso, ma in pegn'il cor ti las>o (Marino) 5
 " " O che piacer pres'io, man vezzosa, man cruda. 0 che diletto " 6
-" " Fra notturni riposi il mio bel sol vitl'io (om…) 7
+" " Fra notturni riposi il mio bel sol vitl'io (om...) 7
 " " Che dar più vi poss'in, caro mio ben? Prendete, eccovi il core 8
 " " Piangc madonna et io godo del pianto suo (Marino) 9
-" " Giunto è pur, Lidia, il mio non so se deggia dire " …
+" " Giunto è pur, Lidia, il mio non so se deggia dire " ...
 " " Partir convienmi, ahi lasso, o mia ninfa gentile 11
 " " Partirò dunque (seconda parte) 12
 " " Almen un sol tuo sguardo (terza parte) 13

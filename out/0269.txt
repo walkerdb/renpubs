@@ -17,7 +17,7 @@ A 1. Padre diletto. Amore 3
 " " Prendili dunque. Vulcano 3
 Interm. III
 A 3. Vaga dea degl'amori. Coro di Grafic 4
-A ]. Gratic del ciel. Vcnerc 4
+A 1. Gratic del ciel. Vcnerc 4
 " " Ecco quel dio. Amore 4
 " " Ohimè mcschin, ohimè. Marte 5
 " " O di qucsto mio cor. Venera: 6
@@ -30,7 +30,7 @@ A 1. O del notturno. 6
 " " Il ver ti narro. Apollo 8
 " " Andar vi voglio. Vulcano 8
 Intcrm. V
-A ]. Nacqui già della 8
+A 1. Nacqui già della 8
 " " Chi brama, o chi. Mercurio 9
 " " Su pastorcllo 10
 " " Pastorcllc vczzoscltc, che sì belle e sì dilette 11

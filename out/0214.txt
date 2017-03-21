@@ -54,7 +54,7 @@ A 3. Felice chi vi mira, ma più felice chi per voi sospira (Guarini) .:
 " " Così la verginella mentre cura (terza parte) . . 12
 " " Quell'augellin, che canta sì dolcemente (Guarini) 13
 " " Io dislcale? Ah cruda, voi negate la fede . f ,. . . " 14
-" " Cor mio, mentr'io V1 miro Visibilmente mi tras orm … \01 " 15
+" " Cor mio, mentr'io V1 miro Visibilmente mi tras orm ... \01 " 15
 
 " " Lasso, perchè mi fuggi, s'hai della morte mia
 

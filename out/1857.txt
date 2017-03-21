@@ -29,7 +29,7 @@ A 3. Come come lels begin ;
 " " Come strah Jack 7
 " " Tan tararan lan tant 8
 " " The Gods have heard my 9
-" " Though my carriagc …
+" " Though my carriagc ...
 " " The ape (he monkey 11
 " " No no though I shrinkc still 11
 " " Aye me alas 13
@@ -38,7 +38,7 @@ A 3. Come come lels begin ;
 " " Lord when l lhinkc 16
 " " Say wanlon will you love me . 'l 17
 
-" " I bci ]iguslri e rosc, ch'in voi natura pose, donna E"… 18
+" " I bci ]iguslri e rosc, ch'in voi natura pose, donna E"... 18
 
 " " Strike it up Tabor 19
 

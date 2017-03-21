@@ -4,7 +4,7 @@ A 5. Sommo signor, io piango e de le colpe mie 15
 " " Simile a questo mar, vasto e profondo 17
 " " . Con le pioggie e coi venti (seconda parte) 18
 " " Signor, le colpe mie danna e correggi ' 1
-A 8. Iam da sommo in quo tam diu. Ecco (Beal…) 23
+A 8. Iam da sommo in quo tam diu. Ecco (Beal...) 23
 
 I-Rsc: compl.
 A-Wn: C.A.T.B.

@@ -2,7 +2,7 @@ Venite al fonte, venite, fuggite l'estivo arlur
 
 " n Hor che gl'augelli cantando s'odono tra gl'arboscelli 8
 " " Chi nel fior di giovinezza vuol gioir d'alnla dolcezza 9
-" " Gioitc, gioite di mille tormenti, () voi che ferite …
+" " Gioitc, gioite di mille tormenti, () voi che ferite ...
 " " O bei lumi, o lumi ardenti, io da voi lungi andrò Il;
 A 3. Dolce fiamma al cor mi sento, che m'incenue e m'arde sì 15
 " " Non sperar, mio cor tradito, liltertad'in ter 'a più 17

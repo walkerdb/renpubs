@@ -12,12 +12,12 @@ A 2. Vano è'l desio, che di mia morte havete. 2 C. 0 T. 1
 "" Vedi, Cintia, colà come s'infiora l'cstiva hcrbetta. 2 C. 0 T. 3
 "" In grembo a l'herbe, ove più folti i fiori. 2 T. 5
 " " Ardo, ma non ardisco il chiuso ardore dc l'alma aprir. Z T. (Marino) 7
-A ]. Qui dove un seggio appresta. Dialogo con 2 Violini se piace. Eurino solo
+A 1. Qui dove un seggio appresta. Dialogo con 2 Violini se piace. Eurino solo
 
 "" Già, già reco m'assido. Doria (seconda parte) 8
 A2. Quante la bella aurora sì l'herbe (terza parte) 9
 " " Quanti del solc al raggio rendon (quarta parte) 9
-A ]. Baciami dunque homai, o mio core (quinta parte) 9
+A 1. Baciami dunque homai, o mio core (quinta parte) 9
 " " Ecco che già ti bacio (sesta parte) 9
 A Z. Baci cari et amati, più dolci e più soavi (settima parte) 10
 "" O baci amorosctti, gioia del cor e speme (ottava parte) 11

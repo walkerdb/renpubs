@@ -17,7 +17,7 @@ Scacchier'è deventato lo mio core, di turchin e di bianc'è fatto "
 Deh pastorella cara, ti prego non dormire. D'incerto 22
 A-Wn: compl.
 
-385… BONELLI Aurelio (1602) - Il Primo Libro de Ricercari et Canzoni a quattro
+385... BONELLI Aurelio (1602) - Il Primo Libro de Ricercari et Canzoni a quattro
 voci, con rlue Toccate e doi Dialoghi a otto. Di Aurelio Bonelli bolognese, organista
 di S. Michele in Bosco. In Venetia, appresso Angelo Gardano. 1602.
 
@@ -32,7 +32,7 @@ A 4. Ricercar del primo tuono 1
 " " Ricercar del sesto tuono 7
 " " Ricercar del settimo tuono 8
 " " Ricercar del ottavo tuono 9
-" " Licori. Canzon prima …
+" " Licori. Canzon prima ...
 " " Arete. Canzon seconda u
 " " Urania. Canzon terza 12
 " " Istrina. Canzon quarta 13
@@ -43,7 +43,7 @@ A 4. Ricercar del primo tuono 1
 A 8. Cleopatra. Toccata 18
 lanta. Toccata . .
 
-ii ii îtriiîne pellegrine, che bramate amando. Madrigale (Guan…) %
+ii ii îtriiîne pellegrine, che bramate amando. Madrigale (Guan...) %
 A 9. S' un dì, mosso a pietà de miei martiri. Madrigale ,
 
 D-As: compl.

@@ -39,7 +39,7 @@ n " Canta gli ardor spietati di chi lo trahe di vita (sesta parte) 19
 " " Bionde chiome, o lacci d'oro ontl'i cor stretti e legati son beati 20
 A 2. Due vaghe stelle lucenti e belle all'idol mio vidd'io lampeggiar 21
 " " Hor che l'alba lampeggia e rosseggia con suoi splendori 22
-A ]. Dolce Filli, tutta bella, tutta snella, vieni al prato odora… B
+A 1. Dolce Filli, tutta bella, tutta snella, vieni al prato odora... B
 " " Se già'l tuo sguardo ferito m'ha, onde tutto ardo per tua beltà 24
 A Z. Lungi da te men vo e non morrò, mio caro ben 25
 " " Godi, Filli, al mio languir. ferma al suon dc miei sospir 26
