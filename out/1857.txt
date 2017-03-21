@@ -6,7 +6,7 @@ A 5. Canzona decima terza
 
 " " Canzona decima sesta
 
-A6. Ardo per voi, mia vila. Madrigale a sei concerlalo con gli slrumcnli
+A6. Ardo per voi, mia vila. Madrigale a sei concerlalo con gli slrumenli
 " " O rubella d'amor. Madrigale :\ sei concertato con gli slrumenli
 PL-WRu: C.l", A., T., B.
 
@@ -23,7 +23,7 @@ Waltham.
 
 A 3. Come come lels begin ;
 " " Iockey thine hornc ;
-" " Some mcn desire 4
+" " Some men desire 4
 " " Tomorrow is the marriage day 5
 " " Upon a hill the benny boy 6
 " " Come strah Jack 7

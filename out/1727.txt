@@ -42,11 +42,11 @@ A 3. Doglios'ohimè piangend'e sospirando 3
 " " Vim mia bella, lu sei (amo bella, cli'innamorar m'hai fatto di tal sorte ]]
 " " Più presto vorria te, core mio bello Il
 " " O bocca, saporita più che mele, e labra di coralli, post'in oro . 13
-" " Vivo sol di speranza. o vita mia, e se non fosse la Speranza ohlmcnc 14
+" " Vivo sol di speranza. o vita mia, e se non fosse la Speranza ohlmenc 14
 " " O rondinella, che il Danubbio passi ' - 15
 " " Villanclla, quanto sei bella. Tu mi dai la mort'ahimè perche sei crudele 16
 " " Come son viv'ohimè, dolce bcn mio? Com'esser può che tu mi SII 17
-" " Chi vol veder quant'ha bcllezza'l mondo 18
+" " Chi vol veder quant'ha bellezza'l mondo 18
 
 " " O sovra ogn'altra donna gratiosa e bella 19
 

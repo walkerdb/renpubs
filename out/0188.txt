@@ -8,7 +8,7 @@ A . . . .
 " " Se di pungente spina nasce odorato fiore 14
 A 6. Amor, che vidde un giorno ben mille spirti eletti 15
 " " Donna, ch'a mill'amanti avventate ad ogn'hor cocenti ardori 15
-" " Deh perchè lagrimar, lasso, non dcggio? "
+" " Deh perchè lagrimar, lasso, non deggio? "
 A 7. Sotto un d'aspri martiri alpestre monte 13
 " " Tal'hor io gemo (seconda parte) 19
 A 8. Quand'io caddi a la rete, onde prigion mi feste 20

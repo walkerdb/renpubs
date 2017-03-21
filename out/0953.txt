@@ -20,7 +20,7 @@ A 5. Occhi selvaggi e fieri, con sguard'irato e torto 1
 " " Vorei scoprirc il premio, ch'ho del [edel servirc 4
 " " lo crido: pace, pace, e amor mi sfid'a guerra 5
 " " Luci nate col sole, se chiuse i cori ardcte e aperte gl'uccidele ('
-" " Quel tuo sdcgnoso aspetto, d'amor, di pietà privo 7
+" " Quel tuo sdegnoso aspetto, d'amor, di pietà privo 7
 " " Gentil bacio soave, se ben io t'ho rapito 8
 " " Vaga e gentil mia rosa, che toccarai la mano di quella 9
 " " La mia bella guerriera nell'amoroso campo mi sfida lU
@@ -30,7 +30,7 @@ A 5. Occhi selvaggi e fieri, con sguard'irato e torto 1
 " " Fugge quest'empia fiera nei deserti d'amore H
 " " Voi, nemica crudele, di pietad'e d'amor, quanto potete 15
 " " Fuggi pur, fuggi pure, Clori perfida e ria 1°
-" " Si ch'ardo, ma non t'amo et è l'ardore di sdcgn'e non d'amore 17
+" " Si ch'ardo, ma non t'amo et è l'ardore di sdegn'e non d'amore 17
 " " Se vinto son lu'l sai, am.;r, ma fia giamni vinta costei 13
 " " Donna, s'al partir mio le parole perdei, sì che dir non potei 19
 A 9. il ciel vi \acia lieti, almi pastori. Dialogo Damon et Pastori 20
