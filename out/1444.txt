@@ -30,7 +30,7 @@ Madrigali .
 " " Ricercar sopra una stessa fuga. D.S.R. del nono tuono 20
 " " Ricercar del decimo tuono 22
 " n Ricercar del primo mono B
-A 8. Vita de la mia vita, havete pur gran torto a non mi dar aita. ln ottava 24
+A 8. Vita de la mia vita, havete pur gran torto a non mi dar aita. In ottava 24
 
 Hic: compl. (C. manc. di front,).
 Sartori 1593n.

@@ -3,11 +3,11 @@ A6. Deh porgi mano a l'affannato ingegno (Petrarca) 8
 " " Risponde quanto'l ciel et io possiamo. Risposta " 9
 " " Occhi mici, oscurato é'l vostro sole " 10
 " " Dunque perchè mi date (seconda parte) " 11
-" " O del gran Giove. ln lode del Duca di Manloa 12
-" " Godi, città felice. ln lode della Casa Gonzaga 13
+" " O del gran Giove. In lode del Duca di Manloa 12
+" " Godi, città felice. In lode della Casa Gonzaga 13
 " " S'amor con beltà sol d'alma fanciulla ]4
 " " Nè ardir egl'ha senza il bel vostro \'iso 15
-AS. Sedea nel mezo Giove. ln lode del Priore di Barletta 16
+AS. Sedea nel mezo Giove. In lode del Priore di Barletta 16
 " " Giove stette gran pezo (seconda parte) 17
 " " Non così tosto (term parte) 18
 A6. Non al suo amante più Diana piacque (Petrarca) 19
@@ -16,7 +16,7 @@ A6. Non al suo amante più Diana piacque (Petrarca) 19
 " " Onde poi che parole (seconda parte) 21
 " " Questa, vane donzelle. A Portia della Valle 21
 " " Ma voi, Portia gentil (seconda parte) 22
-" " Novella musa. ln lode di Zanna Vialarda 23
+" " Novella musa. In lode di Zanna Vialarda 23
 " " Spira d'ambrosia il crin (seconda parte) 24
 "" Gratia, senno, valor ond'advicn (terza parte) 25
 " " Verdeggiavano intorno i boschi e i prati 26
