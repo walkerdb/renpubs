@@ -18,7 +18,7 @@ A4. Ne l'odorat'et lucid'oriente (Bembo) 1
 " " La qual in somma è questa ch'ognun viva " 3
 " " A questo confortando il popol lutto " 4
 " " Fedeli miei, che sotto l'Euro havcle " '
-" " Et sc pur fia che le mie insegne same " 6
+" " Et se pur fia che le mie insegne same " 6
 " " Sl come là dove'l mio buon Romano " 7
 " " L'una ha'l governo in man de le contrade " 3
 " " Et vanno argumentando che si deve " 9
@@ -45,7 +45,7 @@ A4. Ne l'odorat'et lucid'oriente (Bembo) 1
 " " Et per bocca di lui chiaro vi dico " 30
 " " E la vostra bellezza quasi un horto " 31
 " " Ahi quanto indegni son di lor fortuna " 32
-" " Qual fora un huom sc l'una ct l'altra luce " 33
+" " Qual fora un huom se l'una ct l'altra luce " 33
 " " Non vi mando qua giù l'eterna cura " 34
 " " Pascc la pecorella i verdi campi " 35
 " " Il pregio d'honesrate amato ct colto " 36

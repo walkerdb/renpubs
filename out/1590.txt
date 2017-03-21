@@ -16,7 +16,7 @@ Al. Amorosa fenice bramo a l'ardente luce. Scherzo 20
 " " Fuggi, fuggi, dolente core. Questa ch'ami con tant'amore. Schena (Cattaneo) 26
 " " O voi tutti ch'amate, la mia Clori mirate. Scherzo 27
 
-"" Dimmi, pastor dolente, qual noiom pensier t'aﬄigge tanto? Dialogo primo:
+"" Dimmi, pastor dolente, qual noiom pensier t'affligge tanto? Dialogo primo:
 
 [Clori e Aminta 28
 " " Clori mia bella m'è dolce più. Dori aspr'e lella, Dialogo secondo: Aminta e Tirsi 30
@@ -26,7 +26,7 @@ Al. Amorosa fenice bramo a l'ardente luce. Scherzo 20
 " " Voi dite di partire, io dico di morire. A Gio. Battista Niguarda 33
 " " Bella mia Cloride' cor di quezt'aninta. Scherzo 34
 " " Non lascio te, ma lascio me stesso nel partire 35
-" " lo amo e nulla chiedo, che tanto basta sc beltà divina 36
+" " lo amo e nulla chiedo, che tanto basta se beltà divina 36
 A3. Alma mia, dove ten vai? Alma mia, chi fuggi tu? Canzonetta (Rinuccini) 33
 " " Occhi belli, occhi chiari di madonna e d'amor, o mio thesoro 39
 " " Taci, lingua, e tacct'occhi, perchè lo sguardo non palesasse 11

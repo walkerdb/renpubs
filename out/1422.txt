@@ -23,7 +23,7 @@ voluto dedicarle a V5. a la quale so ch'egli porta tanta osservaza... Roma, 15 V
 A 3. E' diventato sto mio cor meschino una campana posta in basso loco 1
 "" Occhi, dov'è'l mio bene e la mia cara spene 2
 " " Novo caso d'amore, che'l volto di costei con dolci accenti 3
-" " Quando il pensier m'assalc in voi, madonna, è tale 4
+" " Quando il pensier m'assale in voi, madonna, è tale 4
 " " Vorria campare sol per mirare il caro viso di chi m'ha ucciso â
 
 " " Vola, vola, pensier, a la mia stella e gira intorno
@@ -36,8 +36,8 @@ A 3. E' diventato sto mio cor meschino una campana posta in basso loco 1
 " " Piansero le scudellc, il mortaio, li spiedi e le padelle 12
 " " Quando talhor udiva ch'uscisse dal tuo strale colpo tanto mortale U
 " " Bene mio, tu m'hai lasciato senza speranza e senza conforto ];
-" " Lo spirto aﬄitto e stanco prima farà dal corpo dipartita {4
-" " Tu m'hai pur colto, ame-rc, poi che al mio aﬄitto core 17
+" " Lo spirto afflitto e stanco prima farà dal corpo dipartita {4
+" " Tu m'hai pur colto, ame-rc, poi che al mio afflitto core 17
 " " Tanto ha in odio madonna la mia vita, che non vuol ch'io sospiri 8
 " " Dammi la mano, o mia vezzosa Filli, mentre tra queste fronde {9
 " " Poi che, donna crude], bramate tanto il mio morir, son di morir contento 20

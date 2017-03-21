@@ -46,7 +46,7 @@ A 3. Se bramate ch'io mora, gl'è van credet'a me vostro desirc 12
 " " Pereh'un bacio chiegg'io, bocca spietata, mord'il dit'e minacci (Marino) 14
 " " Per questa vita giuro che la mia vita sete 15
 " " Sognasti d'esser mia, ma fu sogno mentito 16
-" " Son, sc ridi tal hor, donna, i tuoi denti perle 17
+" " Son, se ridi tal hor, donna, i tuoi denti perle 17
 " " Che volete voi dire con sì bel dono, o bella donatrice 18
 
 -617 -

@@ -11,7 +11,7 @@ A 5. Volesti dir, amore, forsi senza parole 1
 " " O voi, de boschi habitatrici dive, che nei vicini colli albergo havete 4
 " " Se tu mi lasci, perfida, tuo danno, non ti pensar che sia (Tasso) 5
 " " Miser sei tu, che per novell'amore (seconda parte) " 6
-" " Io felice sarei, sc gl'occhi ond'io sempr'ardo 7
+" " Io felice sarei, se gl'occhi ond'io sempr'ardo 7
 " " Itc, soavi fiori, nel bel gremb'a colei 8
 " " Ma s'ella vi discaccia (seconda parte) 9
 " " Con le sue belle braccia la mia donna pietosa 10

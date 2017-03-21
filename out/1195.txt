@@ -26,7 +26,7 @@ A 5. Cruda Amarilli, che col nome ancora tl'amar ahi lasso (Guarini) 1
 " " Era l'anima mia già press'a l'ultim'horc " 3
 " " Ecco, Silvio, colei ch'in odio hai tanto. eccola in questa guisa " 4
 " " Ma se con la pietà non è in te spenta (seconda parte) " 5
-" " Dorinda, ah dirò mia, sc mia non sei (terza parte) " 6
+" " Dorinda, ah dirò mia, se mia non sei (terza parte) " 6
 " " Ecco, piangendo piega le ginocchie a terra (quarta parte) " 7
 " " Ferir quel petto, Silvio, non bisogna (quinta parte) " 8
 " " Ch'io l'ami e l'ami più de la mia vita, se tu nol sai ' " ll)
@@ -41,7 +41,7 @@ A 5. Cruda Amarilli, che col nome ancora tl'amar ahi lasso (Guarini) 1
 A 6. E così a poc'a poco torno farfalla scmplicett'al foco " 21
 A 9. Questi vaghi concenti, che l'augclletl'intorno vanno temprando 22
 
-(Deh sc potessi anch'io così dolce dolermi)
+(Deh se potessi anch'io così dolce dolermi)
 
 I-VEaf: compl.
 D-Kl: compl.

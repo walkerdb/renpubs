@@ -23,7 +23,7 @@ A 2. Misero, che fia di me 17
 " " Peccai, Signor, peccai 18
 " " Hai vinto, ragionc 20
 A 3. Se per haver contento 21
-" " Deh per pictalc 22
+" " Deh per pictale 22
 A 1. Non cercar 23
 " " Che poter pensi 24
 

@@ -11,7 +11,7 @@ A 5. Filli, mirando il ciclo, (licca dogliosa e'n tanto empia (Rinuccini) 1
 " " Perchè ſuggirmi, ahi lasso, s'havcle del mio fin tanto desio 5
 " " Soave libertale, già per sì longa etnie (Chiabrera) 6
 " " Spasmo s'io non ti reggio, moro se un non m'ami (Rinaldi) 7
-" " Un sguardo, un sguardo no, troppa pietalc e per misero (Chiabrera) 8
+" " Un sguardo, un sguardo no, troppa pietale e per misero (Chiabrera) 8
 " " Lumi, miei cari lumi, che lampeggiale un sì felice sguardo (Guarini) 9
 " " Dolcissimo sospiro, ch'esci da quella bocca (Rinuccini) 10
 " " Ben può fortuna aversa celarli a gl'occhi miei 11
@@ -21,7 +21,7 @@ A 5. Filli, mirando il ciclo, (licca dogliosa e'n tanto empia (Rinuccini) 1
 " " Occhi, quella pietà che mi mostrate (Celiano) 15
 " " Per non mi (lir ch'io moin, (licemi ch'io non l'ami (Rinaldi) 16
 " " Dove, misero, mai sperar (leggio conforto a dolor miei (Chi:-brera) 17
-" " Occhi, voi sospiralc e fontane di lagrime spargete " 18
+" " Occhi, voi sospirale e fontane di lagrime spargete " 18
 " " Ahi, m'è forz'il partire e s'io parlo. Aria di partenza 19
 A 8. O lu, che vinci l'alba e l'alba sci. Dialogo (Rinaldi) 20
 A-Wn: compl.

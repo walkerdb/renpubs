@@ -4,7 +4,7 @@ A 1. O qual gioia nel petto mi sta 7
 " " O lingua, che girata sovra i mobil rubini 10
 " " Amor, non posso più se non m'aiti tu 11
 " " S'altr'in amar non s'ha se non pena e dolor 11
-" " Amor, sc per affliggermi crudel 13
+" " Amor, se per affliggermi crudel 13
 " " Non mai così lucente i monti il sol indora 14
 " " Nidi cari e lucenti 16
 " " Poichè vol amor che fin habbia il dolor 17

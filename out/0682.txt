@@ -14,7 +14,7 @@ A 3. Sacro e possente dio " " 1
 A 4. O del gran Giove nata gloriosa " " 2
 " " E te Fcb'ancor chiamo " " 2
 A 6. Hor qui benigni ancor celesti " " 3
-" " Giacc da morb'aﬄitto " " 3
+" " Giacc da morb'afflitto " " 3
 A 3. Già de li frutti suoi " " 4
 " " Come spesso d'augci veloce " " 4
 A 5. Ma la miscra turba " " 4
@@ -31,8 +31,8 @@ A 4. Qual è colui " " 8
 A 3. Ch'homai di Giove il figlio " " 5
 " " Et per compagn'ha seco " " 9
 A 6. Però che dal gran tempio " " 9
-" " il qua] per folte sclve " " 9
-A 5. Qual tauro aﬄitto suolc " " 10
+" " il qual per folte sclve " " 9
+A 5. Qual tauro afflitto suole " " 10
 " " Così fuggir sperando " " 10
 A 4. Ben gravemente " " 10
 " " Che sì come non sono facili " " 11

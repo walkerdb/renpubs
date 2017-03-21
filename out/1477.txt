@@ -13,7 +13,7 @@ A 2. 'Alle gioie, pastori, ai diletti, a gl'amori 24
 " " Bavianne, Aminta mio (seconda parte) " 37
 " " Pargolctta vezzosa, pargoletta amorosa 39
 " " Baci, sospiri e voci alternavan duc bocch'insiem (Casonc) 41
-" " Bella Filli crudele, sc bramate che mora 42
+" " Bella Filli crudele, se bramate che mora 42
 " " Se non hai di ferro il core 44
 " " Di che ti lagni, o Filli 46
 " " Filli, cor del mio core, bar che non è. D'incerto (Marino) 48
