@@ -20,7 +20,7 @@ Ond'io spero ch'in fin al ciel (seconda parte) " 9
 Quel vago impalidir, che'l dolce riso d'un'amorosa " 10
 Conobbi alhor sì com'in paradiso (seconda parte) " "
 
-Qual donn'attcnde a gloriosa fama di scnno, di valor " 11
+Qual donn'attcnde a gloriosa fama di senno, di valor " 11
 Ivi'l parlar, che nullo stil aguaglia (seconda parte) " 13
 
 Sì traviato è'l folle mio desio :: seguitar costei " "
@@ -51,7 +51,7 @@ Poscia in pensar che senz'udir caggionc (seconda parte) î
 L'augcl sacro di Giove a quel valore ch'in voi signor 31
 Ond'il bel nome vostro (seconda parte) Il
 
-Ite rime dolenti, ite sospiri del maggior rivo alle supcrbc sponde 32.
+Ite rime dolenti, ite sospiri del maggior rivo alle superbc sponde 32.
 E se qualche pietà vi par l'inspiri (seconda parte) 34
 
 S'amor la viva fiamm'hor mai non smorza, la qual tant'anni 35
@@ -64,7 +64,7 @@ Ma'l bel pensier che suo mal grad'ogn'hora (seconda parte)
 D-Mbs: compl.
 D-Rp: compl.
 D-W: compl.
-l-Rsc': A.T.B.
+I-Rsc': A.T.B.
 I-Bc: A.B.
 YU-MAs: A.S.
 D-Hs: C.

@@ -1,10 +1,10 @@
 A 1. Occhi miei, poi ch'osaste alzarvi troppo arditi 8
 " " Dimmi, caro ben mio, il baccio che m'hai (lato. segno (li vita 9
-A Z. Nel spuntar dell'aurora, quando che vago e lieto il sole
+A 2. Nel spuntar dell'aurora, quando che vago e lieto il sole
 
-A 1. Non fu man che mi strinse, ma laccio che m'avinsc "
-A Z. Svegliati pastorella, non dormire, se ti piace ascoltar 11
-" " Ti chiamo e non rispondi, crude] perchè t'ascondi? "
+A 1. Non fu man che mi strinse, ma laccio che m'avinse "
+A 2. Svegliati pastorella, non dormire, se ti piace ascoltar 11
+" " Ti chiamo e non rispondi, crudel perchè t'ascondi? "
 A 1. O vaga, eterna aurora, che ne tuoi puri chiostri. Alla Beata Vergine "
 " " Ardentissimo amore, amantissimo ardore, che col srave. Al Spirito Santo - 15
 " " Che fai qui pastorella, vaga, vezzosa e bella? Colgo questo (Torelll) 16
@@ -23,7 +23,7 @@ A 1. O vaga, eterna aurora, che ne tuoi puri chiostri. Alla Beata Vergine "
 
 " " Care, benedette, nere pompe neglette, in donna accorte
 
-l-Fn (prov. Landau)
+I-Fn (prov. Landau)
 
 540 - CECCHINO Tommaso (1613) - Canti spirituali a una, due, et tre voci
 appropriati per cantare, et sonare nel Clavicembalo Chittarone o altro stromento.
@@ -32,7 +32,7 @@ Opera Terza. Raccolta da Stefano Canonici da Bologna et di novo posta in luce-
 Con privilegio. In Venetia, appresso Giacomo Vincenti. 1613.
 
 Vol. in 8°, pag. Z9.(1). Ded. di Stefano Canonici bolognese a Monsignor Berlingiero Gessi Vdc
-di Rimini et Nontio Apostolico alla Serenissima Signoria di Venetia: ((...csscndomi v'enl-lto
+di Rimini et Nontio Apostolico alla Serenissima Signoria di Venetia: ((...cssendomi v'enl-lto
 mani la presente Opera Spirituale del Sig. Tomaso Ceechino Veronese spirito invero vlnuoSO.
 di honorate qualità dotato; Et conoscendola per opera degna di eterna memoria, ho IW!)loto
 (con buona gratia dell'istesso Aultore) darla alle stampe... Venetia, ZS IX 1613 ".
@@ -43,7 +43,7 @@ ovo
 alle
 et
 
-A 1. 0 Capo mio spinoso, doglioso, tormentoso. Dialogo sopra una imagine di N. Sig.
+A 1. o Capo mio spinoso, doglioso, tormentoso. Dialogo sopra una imagine di N. Sig.
 
 [(Per Tenore e BG) 1
 " " O lucî di Giesù. sante et amate. Nel medesimo soggctto: a gl'Occhi. Canto 0

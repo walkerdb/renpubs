@@ -1,5 +1,5 @@
 D-As: C.A.T.ll.6.
-l-Rc: ll.
+I-Rc: ll.
 
 2688 - STROZZI Barbara (1644) - Il Primo de' Madrigali di Barbara Strozzi
 a due, tre, quattro, e cinque voci consacrati alla serenissima granduchessa di
@@ -25,7 +25,7 @@ A 3. Non ci lusinghi. Libertà 21
 A 4. Mi tien Filli fin qui. Con le belle non ci vuol fretta. S.A.T.B. 22
 " " Nel bel fior di gioventù alle gioie aprire il seno. Godere in gioventù 24
 A 5. Volano frettolozi i giorni. L'amante modesto 27
-" " Chi di noi vaglia più e di gioia maggior. ll contrasto dei 5 sensi D
+" " Chi di noi vaglia più e di gioia maggior. il contrasto dei 5 sensi D
 " " Pietosissimo amore, tu mai non abbandoni. Priego d'amore 31
 " " Amore, noi ricorriamo a te. (ìli amanti falliti il
 
@@ -36,8 +36,8 @@ A 2. Lascia di Libia il ciel l'ardila quaglia. La quaglia, sonetto burlesco
 A3. Come può, non come suol quell'altro. Pacc arrabiata. C.T.B.
 
 A 5. lo cedo, amor, all'ingiurie degli anni. Vecchio amante che rende la piazza 36
-A Z. Mordeva un bianco lino Aci dolen'e. Dal pianto degli amanti s'imparò a far la carta 42
-" " F. tornato il mio bene, sono uscita di pene. ll ritorno 1
+A 2. Mordeva un bianco lino Aci dolen'e. Dal pianto degli amanti s'imparò a far la carta 42
+" " F. tornato il mio bene, sono uscita di pene. il ritorno 1
 " " 1] gran Giove d'altre belle. La vittoria. Z soprani "
 
 " " T'invito a godere, mio core, e paventi? L'amante timido eccitato. Sopr. e T-
@@ -51,7 +51,7 @@ Opera Seconda. Consecrata alla cesarea maestà di Ferdinando Terzo. ln cnc
 appresso il Gardano con licenza e privilegio. 1651.
 
 In fine: " In Venetia 1651 Stampa del Gardano. Appresso Francesco Magn
-Vol. in 4°, Png. 73. Bed. a Ferdinando Terzo: " lnanimim di molti [.'rofcssorì d'l'l'm'i:
+Vol. in 4°, Png. 73. Ded. a Ferdinando Terzo: " lnanimim di molti [.'rofcssorì d'l'l'm'i:
 bell'arte, e particolarmente dal Sig. Francesco Cavalli, uno dè più celebri di questo "°° "rg"
 dalla mia fanciullezza mio cortese precettore... portando in fronte l'allegrezza SPES..." Pc
 

@@ -28,7 +28,7 @@ D-Mbs: compl.
 
 I-Bc: CA.
 
-l-ANd: B.
+I-ANd: B.
 
 1-Fr: 5.
 
@@ -44,10 +44,10 @@ CH-Bu: compl.
 D-As: compl.
 GB-Lbm: compl.
 A-Wn: C.A.B.5.6.
-l-Bsp: A.; T. (manc. di pag. 21-24); 5.
+I-Bsp: A.; T. (manc. di pag. 21-24); 5.
 PL-GD: C.A.T.
-l-Vnm: C.A.
-l-MOc: A.
+I-Vnm: C.A.
+I-MOc: A.
 
 I-Rc: B.
 

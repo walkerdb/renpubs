@@ -42,7 +42,7 @@ A 1. Rott'ho la fè spietata ;
 " " Arcier ch'armato 7
 " " Quest'è pur quella notte 9
 " " Lilla, sorda a miei prieghi "
-" " Vientene, 0 mia crude] ]]
+" " Vientene, o mia crudel ]]
 " " Filli, per altro amante 15
 n " Vaghe ninfe 17
 " " la non bramo la vita 19

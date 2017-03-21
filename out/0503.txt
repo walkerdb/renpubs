@@ -1,10 +1,10 @@
 GB-Ckc: C.T.
 
-l-Rsc: A.B.
+I-Rsc: A.B.
 
 US-Wc: C.B.
 
-l-VEaf: T. . "
+I-VEaf: T. . "
 Un mmpl. compl. era nella Collezione Heyer di Koln.
 
 755 - DE MONTE Filippo (1573) - Di Filippo Di Monte maestro dg caîlclllſi
@@ -16,13 +16,13 @@ Vinegia, appresso Girolamo Scotto, 1573.
 
 Hit: 8.5.
 
-l-Rsc: A.
+I-Rsc: A.
 
 GB-Ckc: C.
 
 GB-Lbm: B.
 
-7 - " o 1578 - Di Fili 0 De Monte maestro cli capclla
+7 - " o 1578 - Di Fili o De Monte maestro cli capclla
 dcîll'a SEF nhlſîîlà'rìelllîlilrîgeralore )MassimilianEpSccondo. Il Terzo Lit-m:"I dei/111
 Madrigali a cinque voci, con uno a sette nel fine, novamente ristampati. n |
 Reggia. Appresso l'hcrede di Girolamo Scotto. 1578.
@@ -33,7 +33,7 @@ Sfax. in 8° (C.A.T.B.5.), pag. uu). Indice = 1570.
 
 I-PS: A.; B. (solo front.); 5.
 US-BE: C
-l-FA: A.
+I-FA: A.
 
 757 - DE MONTE Fili 1580 - Di Filippo De Monte maestro (ll c'apclla (lella
 S-C- maestà dell'imperatgi'):lî'îassiiniliano Secondo. Il Terzo L1bro delli Madrigali

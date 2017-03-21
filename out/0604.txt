@@ -1,13 +1,13 @@
-A Z. O crudeli e infedeli occhi belli 20
+A 2. O crudeli e infedeli occhi belli 20
 
 " " Vita dell'alma mia, pur giunta è l'ora B
 " " Occhi vaghi, occhi lieti, occhi lucenti, scherzate, gioite 25
 " " Perchè piangi pastore? Piango ch'io son senz'alma. Dialogo (Guarini) 27
 A 3. Disperato sperante, spero misero sì, ma veggio e sento 30
 " " O ben mio, dove sei tu. ben mio, ma perch'ahimè, non dico ove son io 32
-A Z. 0 mia vita, non fuggire. Morirò se tu mi fuggi 36
-l-Fn
-l-Rsc
+A 2. o mia vita, non fuggire. Morirò se tu mi fuggi 36
+I-Fn
+I-Rsc
 I
 
 907 - FACONIERI Andrea (1619) - Musiche d'Andrea Falconieri napolitano a
@@ -24,12 +24,12 @@ A 1. Traditrice lusinghiera, bocca fera odiatricc 2
 " " L'amante vero non sa mentire, non ha pensiero 6
 " " Labbra vivaci, dolci animate 7
 " " Bella Clori, non partire, non sdegnar chi sì t'adora 8
-" " La mia Filli, il mio bel sole, tra le nevi", tra lc viole 10
+" " La mia Filli, il mio bel sole, tra le nevi", tra le viole 10
 A 2. Tu, mia Filli, m'hai ferito. Dialogo. "
 " " Poi ch'a baciar m'invita il susurro de l'onde (Marino) 12
 " " Baciannc, Aminta mio, lo bacio (seconda parte) "
 " " Sì, sì, con voglie accese (terza parte) 16
-" " O mia vita. o mio core, 0 mio spirto d'amore lB
+" " O mia vita. o mio core, o mio spirto d'amore lB
 " " Filli cara et amata, dimmi per cortesia, questa tua bella bocca 20
 " " Dunque, Aminta mio caro. non credi (seconda parte) 22
 " " Come fugace è l'aura e com'è sordo il mare 24
@@ -41,9 +41,9 @@ A 1. Ladra d'amore, lu m'hai rubbato a tradimento il core ;:
 
 " " Deh dolce anima mia, moro e son nelle pene, non vedendo
 
-l-Rsc (prov. Borghese).
+I-Rsc (prov. Borghese).
 
-908 - FALCONIERI Andrea (1616) - Libro Primo di Villanellc a .1' 2. et 3. YOU-
+908 - FALCONIERI Andrea (1616) - Libro Primo di Villanelle a .1' 2. et 3. YOU-
 Con l'alfabeto per la Chitarra spagnola. D'Andrea Falconieri napolitano. Dedicate
 all'ill.mo et rever.mo sig.r card. De Medici. In Roma, appresso Gio. Battista
 Roblcttì. 1616. Con liCenza de' Superiori.

@@ -15,7 +15,7 @@ In Venetia. 1618. Appresso Bartholomeo Magni.
 
 I-Bc: compl.
 I-Bsp: compl.
-l-MOc: compl.
+I-MOc: compl.
 B-Br: compl.
 C-Tu: compl.
 GB-Lwa: compl.

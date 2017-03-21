@@ -1,7 +1,7 @@
 Damon, in su l'aprir (le l'oriente. :( Cloride cantava 6
 
 Altiera donna, assai degna d'impero non \°'accorgete che per voi tutto ardo 7
-Dunquc, s'clla per voi tanto si slrugge (seconda parte) 8
+Dunque, s'clla per voi tanto si slrugge (seconda parte) 8
 Amor, per suo diletto, volò nel dolce seno, ov'io venuto son 9
 Sappi, signor, che Lidia son io, del re di Lidia in grand'altezza nata 10
 I' vo fuggendo in questa part'e in quella l'ardente fiamma 11
@@ -36,7 +36,7 @@ D-Kl: compl.
 US-Wc (prov. Heyer): compl.
 I-Ls: A.T.B.5.
 
-l-MOc: C.A.T.
+I-MOc: C.A.T.
 
 a città di Nicosia
 Libro dc
@@ -58,7 +58,7 @@ musicali... trà di loro si contengono a parole dui sestme del Reverendo Fiamma
 lei mi furono gia cortesissimamente donate...".
 
 3
-Queste amorose note, concento d'armonia, che dolce in vor mfuse ll ciel 4
+Queste amorose note, concento d'armonia, che dolce in vor mfuse il ciel 4
 
 . . . . . . . ,. s irar
 Cmgl [1 mio cr|n intorno d'una frondosa verga, su ch io senta p

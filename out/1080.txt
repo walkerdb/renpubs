@@ -11,7 +11,7 @@ Dolce Filli mia cara, cara e dolce mia vita. Aria di Giorn.-[fo Gmnni, et si can
 a doi soprani 27
 Al suon di venticelli cantava la bella Clori. Aria di Angelo da Napoli (Minturno) 25
 
-l-FEc: compl. (B. manc. della c. IZ).
+I-FEc: compl. (B. manc. della c. IZ).
 
 1734 - MARTELLI Giovanni Battista (1564) - la Nuova, et armonica compo-
 sitionc a quattro voci di F. Martello da Monteleone. Libro Primo. In Roma per
@@ -21,11 +21,11 @@ Antonio Blado stampatore camerale. Con privilegio. 1564.
 maestro, che Messer Gio. Tho. Cimello, il quale gioisce sotto la servitù sua... Roma, 1" XII 1564"-
 
 O felice Colonna, in cui s'appoggia del mio caro signor 3
-Occhi, [aci d'amore accesc e belle, per quel santo splendore (ParabOSCO) 4
+Occhi, [aci d'amore accese e belle, per quel santo splendore (ParabOSCO) 4
 In dubio di mio stato, hor piango, hor canto (Petrarca) 5
 Et io da che comincia la bell'alba " 6
 Amor mi strugge'l cor, fortuna il priva " 7
-Che spcro io più, se non di pianto in pianto 8
+Che spero io più, se non di pianto in pianto 8
 Mia benigna fortuna e'l viver lieto (Petrarca) 9
 Crudel, di che peccato a dolcr t'hai (Ariosto) 10
 Di furto anchor oltr'ogni vitio rio di te, crudel " 11
@@ -45,7 +45,7 @@ Tu vedrai Italia e l'honorate rive (Petrarca) 24
 Canzon, di sera in oriente il sole vedrai (Sannazzaro) 24
 Acciò che in questi tronchi aspri e selvaggi 25
 Ove so che parran incolti e loschi i canti miei 26
-O mondo, o pensier vani, 0 mia sorte ventura 26
+O mondo, o pensier vani, o mia sorte ventura 26
 Padre del ciel, dopo i perduti giorni (Petrarca) 27
 
 I-Bc: A.

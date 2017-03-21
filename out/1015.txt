@@ -8,13 +8,13 @@ A 8. Sc'l pensier che mi Strllggc com'è pungente (Petrarca) 20
 
 D-Mbs: compl.
 GB-Lwa: compl.
-l-MOe: A.T.B.
+I-MOe: A.T.B.
 
 I-Bc: A.B.
 
-l-Fd: A.B.
+I-Fd: A.B.
 
-l-Nc: A.S.
+I-Nc: A.S.
 
 I-Fc: 5.
 
@@ -35,7 +35,7 @@ I-Rsc: compl.
 D-As: compl.
 Pl.-GD: compl.
 I-Sac: C.A.T.5.
-l-de: C.A.B.
+I-de: C.A.B.
 I-Fn: A.S.
 GB-Lcm: T.B.
 GB-Lbm: A.

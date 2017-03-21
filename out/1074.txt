@@ -23,9 +23,9 @@ A che piangete, o cigni, la mort'e'l fin del vago fior novello 21
 
 Datevi adunque pace, che chi lo fece il colse (seconda parte) 22
 
-l-FEc: compl.
-l-MOc: BS.
-l-Vnm: T
+I-FEc: compl.
+I-MOc: BS.
+I-Vnm: T
 
 1726 - MAROTTA Erasmo (1600) - Aminta musicale di Erasmo MÎH'Otra
 Siciliano della città di Randazzo. Il Primo Libro de Madrigali a cinque VOCI. C°"
@@ -37,7 +37,7 @@ Angelo Gardano, 1600.
 dall'infinita l\umanilà di V. A. lllustrissima con l'havermi [atto degno del suo servitio, al quale
 per mera inclinationc mi son dedicato tutto'l tempo di mia vita... Onde havcndo sotto la ſ_CllCC
 protettinnc di V. S. IllustriSsima dato opera alla Musica... composti alcuni Madrigali intitolati da
-mc Aminta Musicale, ct con ragione per esser parole dell'Aminta... per esser nati in casa sua...
+me Aminta Musicale, ct con ragione per esser parole dell'Aminta... per esser nati in casa sua...
 Roma, 1° 1 1600 ".
 
 A 5. Ho visto al pianto mio rispondcr per pietadc i sassi (Tasso) 1

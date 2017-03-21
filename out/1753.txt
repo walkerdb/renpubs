@@ -32,9 +32,9 @@ Tra le chiome de l'oro amor ordisce 20
 Tra verdi campi, .1 la stagion novella, vinc'ogni fior Z)
 I-Bc: compl.
 
-l-Ps: C.T.B.
+I-Ps: C.T.B.
 
-l-MOe: C.T.
+I-MOe: C.T.
 
 D-Mbs: B.
 
@@ -44,7 +44,7 @@ PTCSSO Angelo Gardano 1581.
 
 4 fasc. in 8° (C.A.T.ll.), pag. 22. Indice = 1580.
 
-l-Fn: C.T.B.
+I-Fn: C.T.B.
 GB-Lbm: C.A.
 I-Bc: T_B,
 1-Vnm: C.

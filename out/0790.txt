@@ -5,8 +5,8 @@ quattro voci. Novamente con ogni diligenza ristampati. In Venetia appresso Angel
 Gardano. 1589.
 4 fasc. in 8° (C.A.T.B.), png. Z]. lndice = 1585.
 
-l-Fn: compl.
-l-MOe: compl.
+I-Fn: compl.
+I-MOe: compl.
 B-Br: compl.
 l'L-GD: compl.
 
@@ -17,10 +17,10 @@ quatro voci nuovamente con ogni diligentia ristampati. In Venetia appresso Angel
 Gardano. 1598.
 4 fasc. in 8° obl. (C.."\.T.B.), png. ZZ.(1). Indice = 1585.
 
-l-Vnm: compl.
+I-Vnm: compl.
 I-Bc: A.T.B.
 NL-DHgm: C.T.
-l-MOe: T.
+I-MOe: T.
 
 1233 - GIOVANNELLI Ruggero (1602) - Gli Sdruccioli di Ruggiero-Giovane"i
 macstro di capella in San Luigi di Roma. Il Primo Libro de Madrigali, a quatro

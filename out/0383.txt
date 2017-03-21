@@ -3,7 +3,7 @@ Maestro di cappella della Santa Casa di Loreto. A una, a_due, a tre, et (Hart-ro
 Libro Quarto. Opera Vigesima. In Roma, appresso GIO. Batttsta Ro ettt. .
 Con licenza de' Superiori.
 
-Vol in 8°, pag. 30. Ded. di Bruno Stefanelli a Mons. Farnese- "..il quarto libro... (csscndo fatta
+Vol in 8°, pag. 30. Ded. di Bruno Stefanelli a Mons. Farnese- "..il quarto libro... (cssendo fatta
 in gran parte ad instanza mia)... di così virtuoso mio amico... Roma, 1° VII 1615 ".
 
 A 1. Ite, amari sospiri, alla bella cagion del morir mio. Madrigale (Guarini) 3
@@ -27,7 +27,7 @@ AL Mentre ch'io v'amo e voi m'llavete a schivo. Aria (li Romanesca 10
 " " E scotcndo del vel l'humido lembo (seconda parte) " 17
 " " Fà nove crcspc l'aura al crin disciolto. Aria di Romanesca " 13
 " " Stassi l'avaro sguardo in sé (seconda stanza) " 19
-" " Dolce color di rosc in quel bel (terza stanza) " 20
+" " Dolce color di rose in quel bel (terza stanza) " 20
 " " Ma ne la bocca onde esce pura (quarta stanza) ." 21
 " " Dove. speranza mia. dov'hora sei? Aria di Ruggiero (Anosto) 21
 " " O pur t'hanno trovata i lupi rei (seconda stanza) " 22
@@ -38,7 +38,7 @@ A 4. Presso un fiume tranquillo disse a Filcna Eurillo. Madrigale (Marino) 26
 " " Rispose d'amor piena ad Eurillo Filena (seconda parte) " 29
 I-Rsc
 
-l-R
+I-R
 
 vat (Chigi): manc. di pag. 25-30.
 GB-Lbm

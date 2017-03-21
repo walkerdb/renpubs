@@ -1,5 +1,5 @@
 D-Rp: C. (prov. Haberl).
-l-Sd: T.
+I-Sd: T.
 
 Un esempl. compl. esisteva nella Collezione Heyer (li Kòln.
 
@@ -9,7 +9,7 @@ Girolamo Scoto. 1608.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. Zl.(1). Indice = 1580.
 
-l-PAc: C.A.T.B.
+I-PAc: C.A.T.B.
 
 1607 - MARENZIO Luca (1608) - Il Primo Libro de Madrigali a cinque voci
 di Luca Marenzio. Novamente con ogni diligenza ristampati. In Venetia, ap-
@@ -17,7 +17,7 @@ presso Alessandro Ravel-1j. 1608.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. l9,(1). Indice = 1580.
 
-l-VEcap: compl.
+I-VEcap: compl.
 F-Pthibault: compl.
 US-Wc: compl.
 I-VTcerasa: T.
@@ -35,14 +35,14 @@ darle... Roma, ZS X 1581 ".
 A 5. Deggio dunque partire, lasso, dal mio bel sol che mi dà vila 1
 " " lo partirò, ma il core si resterà (seconda parte) 2
 " " Ma voi, caro ben mio, caso che'! corpo (terza parte) 2
-" " Perchè di pioggia'] cicl non si destillc a la riva del Tebro 4
+" " Perchè di pioggia'] cicl non si destille a la riva del Tebro 4
 " " Amor, io non potrei haver da te se non ricca mercede (Ariosto) 5
 " " Amor," poi che non vuole la bella donna, a cui nol dir giurai (Parabosco) 6
 " " Chi strinse mai più bella mano (seconda parte) " 7
 " " Quando sorge l'aurora ridon l'hcrbett'e i fiori 8
 " " Fillida mia più ch'i ligustri bianca (Sannazzaro) 9
 " " Al vago del mio sole lucido raggio. che'l bel Mincio honora 10
-" " ltcne a l'ombra degl'amcni faggi pasciute pastorellc (Sannazzaro) 11
+" " ltcne a l'ombra degl'amcni faggi pasciute pastorelle (Sannazzaro) 11
 " " La bella ninfa mia, ch'al Tebro infiora co' piè le sponde (Molza) 11
 
 " " O voi, che sospirate a miglior notti (Petrarca) 13

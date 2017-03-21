@@ -17,7 +17,7 @@ A 5. Deh perchè non poss'io di quel bel viso, di quelle pure guancie 4
 " " E come mai dal ciel non vide il sole (sesta parte) 19
 A 7. Lucilla io vuò morire. Deh non morir, cor mio. Dialogo 20
 
-l-MOe: compl.
+I-MOe: compl.
 PL-GD: compl.
 F-CC: C.
 

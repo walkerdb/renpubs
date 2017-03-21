@@ -15,7 +15,7 @@ O voi, che per fuggìr il caldo cstivo 15
 Pastorella d'amor, non mi fuggir 16
 Sento dentr'al cor mio una piaga crudel 17
 Cantan fra rami gli augelletti vaghi, azurri e bianchi (Ariosto) 18
-Dolor se'l mio dolor altri no] crede (Cassola) 19
+Dolor se'l mio dolor altri nol crede (Cassola) 19
 Lasso, prima ch'io spiri i pensier tutt'al vento 20
 Com'havrà vit'amor la vita mia, se chi mi può dar vita (Cassola) 21
 La rondinella garul'e leggiera era venuta 21
@@ -30,12 +30,12 @@ Ma perchè vola il tempo e fuggon gl'anni (seconda parte) " 27
 l" Picciol tempo passa ogni gran pioggia " 23
 Ma de chi debbo lamentarmi, ahi lassa (AſîOStO) 29
 10 son qual sempre fui, tal esser voglio " 30
-l-Fn: compl.
+I-Fn: compl.
 
 YU-MAs: compl.
 F-Pmeycr: C.T.
 GB-Lbm: C.
-l-Tn: T,
+I-Tn: T,
 
 I-Bc: B
 

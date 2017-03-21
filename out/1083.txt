@@ -4,7 +4,7 @@ A 5. Pien d'amoroso ardor mi strugg'e slaccio e chi mi può dar vita 10
 " " Et io la fiamm'ogn'hor cli'arder mi suole, fuggo per mio costume 12
 " " O felice fortuna, che l'amara cangiaste in dolce sorte 14
 " " Gl'alti Pensier già lasci (seconda parte) 15
-" " ll sol si mostr'a noi chiaro e sereno il giorno e poi la notte 16
+" " il sol si mostr'a noi chiaro e sereno il giorno e poi la notte 16
 " " Bella si mostra a noi la fredda luna (seconda parte) 17
 " " Ogni stella n'appar la notte bella (terza parte) 18
 " " Splenda pur ben il sol a mezzo il giorno (quarta parte) 19
@@ -41,7 +41,7 @@ Amor allhora che primier amante (seconda parte) " 9
 Calma d'affanni, la mia navicella era dubiosa spenc. Di Henricu: Selmi"; 10
 Se m'amaste, crudel, come v'am'io, non havria alcuno più felice stato 11
 S'a Voi do l'alma mia, felice diva, lasciaretela poi andar errando 12
-COSÌ cocent'è'l foco che'n cor m'accesc il bel guardo sereno (Cassola) 13
+COSÌ cocent'è'l foco che'n cor m'accese il bel guardo sereno (Cassola) 13
 E quando credo le mie fiamme ardenti (seconda parte) " 13
 Amor se'l mio martir così t'invoglia a far ogn'hor di me sì largo stratio 14
 Pura e gentil fanciulla, che ne Vel-d'anni del tuo primo fiore 15

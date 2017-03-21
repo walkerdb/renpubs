@@ -11,19 +11,19 @@ di lei, con vaga invenlione (m' (lotti Collegii publicamente s'aggirano... Roma,
 A L Spirti celesti e santi, spiegat'i vanni d'oro 3
 A 3. Sorge lucente la vaga aurora 4
 A 1. Cinta di rose, l'odorata Flora 5
-A Z.. Sonino, seherLino e l'aure sferzino 6
+A 2.. Sonino, seherLino e l'aure sferzino 6
 A 1. Rugiadose van l'aurette involando 7
 A 2. Dal molle seno della pura fonte 8
-" " Inchinatevi, 0 fiori, salutatela, herbette 9
+" " Inchinatevi, o fiori, salutatela, herbette 9
 A 3. Quel sol, che luce parve 10
-A Z. Cinto il sole di rai, dal mar un giorno uscì 11
+A 2. Cinto il sole di rai, dal mar un giorno uscì 11
 " " Felici gl'animi. che greggie guidano IZ
 " " Ardir, alla guerra, poi che'l tamburo 1-3
 " " Vienne, pace gentil, ch'llumil te sol 14
 A 1. In te la vita frale, spirto terreno 15
-A Z. Navicella, che a bel vento porgi fede e lasci (Ciampoli) 16
+A 2. Navicella, che a bel vento porgi fede e lasci (Ciampoli) 16
 A 1. Rondinella peregrina, che nel pianger 17
-A Z. Fonte d'eterno gaudio, eccelso re la
+A 2. Fonte d'eterno gaudio, eccelso re la
 " " A te lodi, a te gloria (seconda parte) 18
 A 1. Mentre del mondo ch'è lusinghier 19
 A 2. Lalba, cinta di fiori, suo ciel un di lasciò la
@@ -33,7 +33,7 @@ A 2. Non mi lasciar mai più, dolcissimo Giesù 22
 A 1. Bel fior, ch'a l'alba aprì poi langue 24
 I-Bc
 
-l-Rsc (prov. dall'Archivio della Chiesa Nuova).
+I-Rsc (prov. dall'Archivio della Chiesa Nuova).
 I-Rvat (Barberini).
 I-Rvat (Capp. Giulia)
 - r

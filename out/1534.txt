@@ -5,7 +5,7 @@ A 8. Scendan con noi dal cielo hoggi le Gratie. Dialogo
 
 (Guarini) ]7
 
-l-MOe: compl.
+I-MOe: compl.
 PL-GD: compl.
 US-Wc: compl.
 
@@ -51,7 +51,7 @@ A 4. Udite. amanti. udite meraviglia dolcissima d'amore. C.A.T.B. (Guan!!!)
 " " Credetemi voi, che non sentite amore. Non si prova morire "
 " " Anime pellegrinc, che bramate amando esser amate, se volete "
 " " Giovinetta fastosa. delitie hor d'ogni cor. Canzonetta. Con 2 Violini _
-A Z. Vivo in foco amoroso, non crudel, non penoso. Con 2 Violini (Guarini)
+A 2. Vivo in foco amoroso, non crudel, non penoso. Con 2 Violini (Guarini)
 
 " " Rattenete le destre, sospendete l'ofiese. La Gelosia placata. Dialogo
 Licori e Titiro. Sopr. e Ten., coro di 3 voci e Z Violini

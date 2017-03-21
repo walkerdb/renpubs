@@ -1,8 +1,8 @@
 A 1. Qual fiera si crudel, qual sasso immobile 42
 
 " " O primavera, gioventù dell'anno, bella madre de fiori (Guarini) 43
-" " O dolcezz'amarissimc d'amore (seconda parte) " 44
-" " Ma se le mie spcranze hoggi non (terza parte) " 45
+" " O dolcezz'amarissime d'amore (seconda parte) " 44
+" " Ma se le mie speranze hoggi non (terza parte) " 45
 " " E s'altri non m'inganna (quarla parte) " 46
 " " O lungamente sospirato invano (quinta parte) " 47
 " " Sovente all'hor ch'in su gli estivi ardori. Sopra il basso dell'aria di Genova (Tasso) 48
@@ -56,7 +56,7 @@ Ardo, lassa, o non ardo? Ahi qual io sento strano. Pensieri di novella amante "
 
 Ma se non è piacer, nè meno affanno (seconda ottava) 15
 
-Ma sc quest'è pensier, deh perchè pensc (terza ottava) 16
+Ma sc quest'è pensier, deh perchè pense (terza ottava) 16
 
 Colpa mia l'ora ben s'amar pensassi (quarta ottava)
 

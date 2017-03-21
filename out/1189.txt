@@ -1,7 +1,7 @@
 GB-Och: compl.
 US-Wc: compl.
 D-Rp: C.A.T.5.
-l-Rc: C.B.5.
+I-Rc: C.B.5.
 
 1903 - MONTEVERDI Claudio (1590) - Il Secondo Libro de Madrigali a
 cinque voci di Claudio Monteverde cremonese discepolo del signor Ingegneri.
@@ -26,7 +26,7 @@ Mentre io mirava fiso de la mia donna gl'occhi ardenti " 12
 Ecco mormorar l'onde e tremolar le fronde " 13
 -Dolcemente dormiva la mia Clori e inlorn'al suo bel vnho " 14
 Sc tu mi lassi, perfida. tuo danno, non ti pensar che sia " 15
-La bocc'onde l'asprissimc parole solean uscir (E. BcntiVOglÌO) 16
+La bocc'onde l'asprissime parole solean uscir (E. BcntiVOglÌO) 16
 Crudel, perchè mi fuggi, s'hai de la morte mia tanto desio (Guarini) 17
 Questo specchio ti dono, rosa, tu damì lior che l'età consente 18
 On m'è grave'l morire, anzi il viver m'annoia 19

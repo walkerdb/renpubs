@@ -14,9 +14,9 @@ A 1. Tien del cor l'impero cantatrice beltà. Cantata 2
 " " Quell'haver sempre da piangere è un mcstier che non mi va 22
 " " Soccorretemi tutti, ho perduto il mio bene 24
 " " Occhi miei, di che godete s'hoggi mirate il sol 26
-" " Tu sei pur bella, 0 cara, non sei già sol, nè .xlella 29
+" " Tu sei pur bella, o cara, non sei già sol, nè .xlella 29
 " " Chi scherza con amore perde la libertà 30
-A Z. Un riso m'inamora, u'n guardo mi saetta. Arietta 32
+A 2. Un riso m'inamora, u'n guardo mi saetta. Arietta 32
 " " Sdegnoso il guardo miro (seconda parte) 36
 " " O d'un bel crin vagante lOſli anelletti d'oro. Madrigaletto 41
 A 1. Non fia che più mi fidi in quella ch'adnrai ſalsa bellezza. Arietta 48

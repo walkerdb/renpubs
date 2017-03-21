@@ -5,9 +5,9 @@ telli. 1611.
 
 5 fasc. in 8° obl. (C.A.T.B.5.). pag. 20. Ded. e lndice = l595.
 
-l-Nc: compl
+I-Nc: compl
 
-l-Fn: C.T.B.5.
+I-Fn: C.T.B.5.
 
 D-HVl: C.T.B.5.
 
@@ -16,7 +16,7 @@ D-Mbs: A.T.B.5.
 US-SFsc (De Bellis): C.5.
 I-Bc: C.
 
-l-Rsc: C.
+I-Rsc: C.
 
 '1167 - GESUALDO Carlo (1619) - Madrigali a cinque voci 'del Venosa Libro
 Terzo. Novamente ristampato. Stampa del Gardano in Venetia 1619. Appresso
@@ -42,7 +42,7 @@ erano lasciati andare per le tavole trascurati, gli ho con infinita a\'idna racc
 
 A 5. Luci serene e chiare, voi m'incendele voi. ma prova il core 1
 " " Tall'hor sano desio vuol che morendo ancida 3
-" " lo tacerò, ma nel silcntio mio lc lagrime e i sospiri 4
+" " lo tacerò, ma nel silcntio mio le lagrime e i sospiri 4
 " " In van dunque, o crudele (seconda parte) 4
 " " Che fai meco, mio cor, misero e solo? Deh vanne homai 5
 " " Questa crudele e pia piange al mio pianto 6

@@ -25,12 +25,12 @@ A 5. Amorosi pastori e accorle ninfe, vezzose pastorelle 1
 " " Fillide, i tuoi capelli son vaghe fila d'oro 4
 " " Così un bacio si caro, o me beato. Filli S
 " " Fillide mia gentil, vezzosa e cara 6
-" " Comc saetti. amore, se pargoletto sei 7
+" " Come saetti. amore, se pargoletto sei 7
 " " Lc Gracie, che (l'amore son ministre 8
 " " Con le candide man candida neve Lidia 9
 " " Neve non fu (seconda parle) lll
 " " La neve che mi colse (terza parte) "
-" " Hor mi mostr'ltor m'ascnnde la ninfa mia gentile 12
+" " Hor mi mostr'ltor m'asennde la ninfa mia gentile 12
 " " Al sorger de l'aurora, quando clie'l verde maggio 13
 " " Se mi lenele il core, come vivrò donqu'io "
 " " Giovenetta d'amor, vaga e leggiadra Ì;
@@ -44,7 +44,7 @@ A 5. Amorosi pastori e accorle ninfe, vezzose pastorelle 1
 
 A 8. O morte che mi chiama
 
-l-V nm (Canal): T.
+I-V nm (Canal): T.
 
 MOLINARO Simone
 Cfr.: DELLA GOSTENA Giovanni Battista - MOLINARO Simone.

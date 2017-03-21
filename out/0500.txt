@@ -18,7 +18,7 @@ A-Wn: C.A.T.B.
 
 I-PS: A.; 5. (solo pag. 3-6 e 12-24).
 
-l-Rsc: C.
+I-Rsc: C.
 US-BE: C.
 F-TLm: A.
 

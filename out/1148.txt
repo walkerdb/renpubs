@@ -7,7 +7,7 @@ D-Rp: T.E.Bc.
 GB-Lbm: A.T.
 
 I-Ma (Pogliaghi): C. (manc. di front.; solo pag. 1-24).
-l-VTcerasa: T.
+I-VTcerasa: T.
 
 1841 - MICHELI Domenico (1564) - Di Domenico Micheli il Primo Libro
 cle Madrigali a cinque voci, novamente da lui composti, ct per Antonio Cardano
@@ -51,8 +51,8 @@ A 8. E' quest'il pett'amor, a cui mi resi quel dì. Dialogo ZZ:
 " " Anchor ch'io possa dire che d'haver vit'il cor soltanto. Dialogo
 
 F-Plhibault: compl.
-l-VEaf: C.A.5.
-l-MOe: T.5.
+I-VEaf: C.A.5.
+I-MOe: T.5.
 
-l-O: T.
+I-O: T.
 

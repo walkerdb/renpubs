@@ -8,7 +8,7 @@ A 5. Faciam, cara mia File, un concento, una musica gentile 1
 " " O miracol d'amore. Io che già fui disciolto hor lasso peno 2
 " " Ondeggiavan a l'aura le bionde chiome d'oro quand'io vidi 3
 " " Sc dipingere amore brami, saggio pittore, dipingi il pargoletto 4
-" " Amorosi pastori e accorte ninfe. vezzosc pastorellc 5
+" " Amorosi pastori e accorte ninfe. vezzose pastorelle 5
 " " Canta mia musa homai lieta e ridente i miei felici 6
 " " I sospiri, i dolor, le cure e i pianti (seconda parte) 7
 " " Ben de la cara bocca, vero seggio d'amore, mi risuonan 8
@@ -21,7 +21,7 @@ A 5. Faciam, cara mia File, un concento, una musica gentile 1
 " " Man nemica v'oppresse, amico e divo spirto (seconda parte) 15
 A 6. Nelle guancie leggiadre et amorose, che vincon di splendor 16
 " " Candide più che cigno e vie più molli (seconda parte) 17
-" " Quando nel bel sercn stellato e vago d'una notte felice lB
+" " Quando nel bel seren stellato e vago d'una notte felice lB
 " " Per doglia e gelosia la bella donna mia di lacrime imperlava 20
 I-Bc: C.
 

@@ -13,7 +13,7 @@ Quando nel cor m'entrasti, o fera gclosia, tost'il piacer turbasti 16
 S': l'amorose mie calde parole. s'al pianto, s'a i sospir vivi e cocenti 17
 
 E questo fium'ogn'hor torbid'ct lento (seconda parte) 18
-O dolci parolette. o dolce riso, 0 dolcissimo sguardo (Cassola) 19
+O dolci parolette. o dolce riso, o dolcissimo sguardo (Cassola) 19
 Amor crudel, infido, anzi fidel amor pietoso, com'eSser può sc nel tarlario 20
 Non pur quell'una bella, ignuda mano (Petrarca) 21
 
@@ -28,12 +28,12 @@ Goda hor beato il Po, goda il Metauro, spargan l'arene d'or 27
 Questi come del ciel la lun'e'l sole saran (seconda parte) 28
 Chi chi li chi. Cu cu ru cu. U scontienta, u bcschina, u sportunata me Lucia 29
 I-Bc: compl.
-l-Fn compl
+I-Fn compl
 
 Pl.-GD: C.A.T.5.6.
 I-MOe: C.A.T.B.6.
-l-PAc: C.A.T.B.
-l-Sd: C.A.B.
+I-PAc: C.A.T.B.
+I-Sd: C.A.B.
 F-CC: C.
 
 F-Pc: C.

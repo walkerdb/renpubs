@@ -1,6 +1,6 @@
 Lasso, qual fia ginmai. D'inccrlo 33
 
-Aprimi, amor, lc [abbia, csci soave di lor. D'inccno 34
+Aprimi, amor, le [abbia, csci soave di lor. D'inccno 34
 Dolci irc, dolci sdcgni ct dolci paci. Di Hubert Nair/1 (Petrarca) 35
 Dolce pensier. che spesso mi rimembri. Di Huber! Nair/x 36
 Deh sc ti strins'amorc unqua pietà. Di De Roſ: 37
@@ -9,7 +9,7 @@ D-W: compl.
 
 GB-Lbm: compl. (2° cscmp1.: C.).
 
-l-Rsc: A.T.B.
+I-Rsc: A.T.B.
 
 I-Bc: A.D.
 
@@ -45,7 +45,7 @@ Gardane. 1552.
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 38. Indice = 1544.
 
-l-Bsp: compl.
+I-Bsp: compl.
 
 D-As: compl.
 
@@ -63,6 +63,6 @@ E-V: 5.
 
 F-Pm: 5.
 
-l-Vnm: 5. (manc. di pag. 1-7).
+I-Vnm: 5. (manc. di pag. 1-7).
 RISM. I 1552-24 (non compl.).
 

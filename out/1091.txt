@@ -37,9 +37,9 @@ Sovra la riva d'un corente fiume amor m'induss'ove cantar sentia (Sacchetti) 27
 L'alto signor, dinanzi a cui non vale nasconder nè fuggir (Petrarca) 28
 L'una piaga arde e versa foco e fiamma (seconda parte) " 29
 
-l-MOe: C.A.T.5.
+I-MOe: C.A.T.5.
 ["-CC: C.
-l-Fn: 5.
+I-Fn: 5.
 
 17118 - MASSAINO Tiburzio (1578) .- 11 Secondo Libro de Madrigali a cinque
 vou di Tiburtio Massaino all'illustriss. signor Pavolo Orsino. Nuovamente posti

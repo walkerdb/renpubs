@@ -1,4 +1,4 @@
-A Z. Lumi, miei cari lumi, che lampegiate un sì veloce (Guarini) 13
+A 2. Lumi, miei cari lumi, che lampegiate un sì veloce (Guarini) 13
 
 " " Ha di bambina'l volto quella che dal mio petto 14
 " " O come è gran martire a celar suo desire (Guarini) 15
@@ -13,8 +13,8 @@ A 3. lo t'amo, donna, e ne frequenti incendi delle tue vive stelle 22
 " " Misero in fra gl'amanti già solo non son io (Guarini) 28
 " " Chi prende amore a gioco prende :\ sclterzar cul ſoco 30
 
-l-Rsc: compl.
-l-Sac: T.l", T.Z°.
+I-Rsc: compl.
+I-Sac: T.l", T.Z°.
 
 2052 - OLIVIERI Giuseppe (1620) - La Pastorella Armilla variamente cantata
 a una, a due, e tre voci da Gioseppe Olivieri con il Basso continuo per sonar:

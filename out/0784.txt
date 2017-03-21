@@ -6,10 +6,10 @@ ristampati. In Venetia, appresso Angelo Gardano. 1600.
 
 I-Bc: compl.
 I-Fc: compl.
-l-Rsc: compl.
+I-Rsc: compl.
 US-Wc: compl.
 NL-DHgm: A.
-l-VEaf : 5.
+I-VEaf : 5.
 
 1217 - GIOVANNELLI Ruggero (1603) - Di Ruggiero Giovanelli maestro di
 capella in San Pietro di Roma. Il Primo Libro de Madrigali a cinque voci. In Venc-
@@ -25,7 +25,7 @@ legio. In Venetia appresso Angelo Gardano. 1593.
 
 5 fasc. in 8° (C.A.T.B.5.), png. 21,(1). Ded. a Diego Zappatta, Roma, 24 VII 1593.
 
-Occhi mici, che miraste il vostro sol scrcn a voi prcsente
+Occhi mici, che miraste il vostro sol scren a voi prcsente
 
 Dolccmente dormiva la mia Clori e intorn'al suo bel volto ('I-355°) 2
 Se di farmi morire con crudeltà pensate. ceno che v'ingannate - _ 3

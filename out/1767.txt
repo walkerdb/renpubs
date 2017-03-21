@@ -23,18 +23,18 @@ A 6. O che vezzosa aurora, che, con la vaga luce, così bel sol n'adduce 1
 " " S'odon le gierarchie nel ciel cantare, gli angeli alati nel celeste coro 15
 " " S'ammirano i pastor, mugghian gl'armcmi (seconda parte) 16
 " " Dolce cantav'all'apparir del sole, un giovane pastore, che ferito d'amore 17
-A 7. Hor che le piaggie ridon d'ogn'imorno e spuntan fuor lc viole 18
+A 7. Hor che le piaggie ridon d'ogn'imorno e spuntan fuor le viole 18
 " " Un'altra volta senza altr'inlervallo (feconda parte) 19
 " " Homai poniamo fino al nostro canto (terza parte) 20
 I-Fn: compl.
 
 I-l..s: compl.
 
-l-MOe: compl.
+I-MOe: compl.
 
-l-de: compl.
+I-de: compl.
 
-l-Vc: compl.
+I-Vc: compl.
 
 D-As: compl.
 
@@ -50,10 +50,10 @@ PL-GD: C.A.T.
 
 D-Mbs: C.T.6.
 
-l-ASs: C.
+I-ASs: C.
 
-l-Rc: C. (manc. di front. e di pag. 6).
-l-Vnm (Canal): A.
+I-Rc: C. (manc. di front. e di pag. 6).
+I-Vnm (Canal): A.
 
 Un escmpl. compl., ma difettoso nel B., era nella Collezione Heyer di Kôln.
 

@@ -7,12 +7,12 @@ campagna "
 " " Hor che l'alba, hor che l'aurora. Allegrezza del nuovo maggio 20
 " " Semplicctte verginelle, che già mai l'arte vi die 22
 " " Mirate: nel cielo notturno danzando. lnvito all'amoroso riposo (Ludovico (l'Aglie') "
-" " Hor che fan \'ezzosi balli su nel ciel. ll verno 26
+" " Hor che fan \'ezzosi balli su nel ciel. il verno 26
 \. " O dolci brine matutine, ecco in seno. Le rugiade 23
-A Z. Su. ninfe leggiadre, uscite, venite. Presa di cacciatori (l.. d'AgÌÌC') 30
+A 2. Su. ninfe leggiadre, uscite, venite. Presa di cacciatori (l.. d'AgÌÌC') 30
 " " O begl'occhi, o pupillette, che brunette. Laude amorosa (Chiabrera) 32
 " " Tra bei cristalli d'omlìrose valli. Al sonno 34
-" " ll più bel Fiore ch'aprisce amorosc. In morte di pastorello giovinetto la sua dama 36
+" " il più bel Fiore ch'aprisce amorose. In morte di pastorello giovinetto la sua dama 36
 " " A le viole azzurre, a le vermiglie. Mentre coglie viole ":;
 
 " " Una vecchia sdenlal'e lun-usa. gabella e rognosa. La vecchia innamorata
@@ -39,7 +39,7 @@ Fugge e interrotta \'eggio la mia sperata hor disperata impresa 15
 Fuggo e pietosi trovo nelle selve i pastor 16
 Hor ruvida gonella care mie pompe "
 Voi, schiere mie, pascete l'herbc e io pasco il cnr 18
-Questa selva felice, secrelaria fede] 19
+Questa selva felice, secrelaria fedel 19
 Ecco fiammeggia il cielo de le suc pompe 20
 La bella gcniuice de fior fè gli arboscelli 21
 Clori mia, se ristringi i labri tumidctti 22

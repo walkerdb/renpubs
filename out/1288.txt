@@ -6,10 +6,10 @@ amoroso e mondano... ln giorni di Quaresima furono instituite nell'Oratorio de P
 di Loreto simili sorti di Musiche, e Sinfonie, per occupare gl'habitatori di questa Città in essercitiì
 altretanto di diletto 5; sensi, quanto di profitto allo spirito... Loreto, 1° I 16l7 ".
 
-A 1. Pargoletto è il soggetto, non paroletto il nome. C. 0 T. 1
-" " A pena aperto il crine a l'aure matutine. C. 0 T. 2
-" " Mio pianto, ed è pur vero, miser, che Figlio sei. C. 0 T. 2
-" " Anima mia, che fai? Che fai caduta vile al sacro. C. 0 T. 3
+A 1. Pargoletto è il soggetto, non paroletto il nome. C. o T. 1
+" " A pena aperto il crine a l'aure matutine. C. o T. 2
+" " Mio pianto, ed è pur vero, miser, che Figlio sei. C. o T. 2
+" " Anima mia, che fai? Che fai caduta vile al sacro. C. o T. 3
 A 2. A languidetti rai del mio languido sole. Z C. o Z T. 4
 " " Tra le furie ct le faci de l'agitato core. Z C. o Z T. 5
 " " De l'avorio e nevi intatte i caldetti che'l bambino. Z C. o 2 T. 6
@@ -26,19 +26,19 @@ n " Accogli un peccalor mesto e devoto. Ruggiero. Lagrime di S. Pietro. Z C. e T
 " " Come al buon re ch'offerse il patrio (terza parte) 12
 " " Così gradisci gli humili miei prieghi (quarta parte) 12
 A 3. Langue. di pena atroce incoronata in croce, ed il pietoso sangue. Sangue di Christo.
-[3 C. 0 T. 13
+[3 C. o T. 13
 A 2. Di colomba amorosa ha le labra di rosa, le belle guancic intatte. Z C 13
 A 3. Luci al mondo, luci care ct amate (seconda parte) 3 C. H
 A 5. 11 mio sol, la tua front'e il mio cielo (terza parte) 15
 A 1. Dal sasso del mio core cava. dolce Giesù, fuoco d'amore (GriIIO) 16
-A Z. Merito, ohimè, più pene che non sono del mar (seconda parte) " 16
+A 2. Merito, ohimè, più pene che non sono del mar (seconda parte) " 16
 A 3. Quinci bramo dar mar di lagrime sì grate (term parte) " 17
 A 5. A questi piè m'atterro in croce affissi (quarta parte) " 18
 A 1. Canti terreni amori chi terreno ha il pensier. Dialogo: Fede, Speranza e Carità. Fede 19
 " " Ma chi sia. Carità (seconda parte) 19
 " " Cantiam pur. Speranza (terza parte) 19
 A 6. Spirane, dunque, eterno Padre il canto (quarta parte) ig
-A Z. Noi siam al ciel rapite. Fede (quinta parte) 21
+A 2. Noi siam al ciel rapite. Fede (quinta parte) 21
 A 2. Così faciamo e'n questa valle oscura. Fede (sesta parte) 21
 A 1. E come senza amor (settima parte) 21
 A 2. Come stcmprata cetra che suonasi (ottava parte) 21

@@ -9,7 +9,7 @@ Amor, dì pur se sai. Non è il più insopportabile martire 20
 E' ſuoc'o ghiaccio clte'l mio cor consuma, son dardi o raggi clt'avventar costumn.
 [Dialogo a 6 21
 
-l-MOe: compl.
+I-MOe: compl.
 D-Rp: compl.
 PL-GD: compl.
 D-KNu: CB.

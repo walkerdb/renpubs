@@ -4,7 +4,7 @@ Libro Secondo. In Venetia appresso Angelo Gardano. 1596.
 
 4 fasc. in 8° obl. (C.A.T.B.), pag. Zl. Ded. a Luca Cavalcanti, Roma, 5 Xl 1596.
 
-l-Be: compl.
+I-Be: compl.
 NL-DI-Igm: C.T.
 
 1239 - GIOVANNELLI Ruggero (1603) - Gli Sdruccioli di Ruggero Giovanelli
@@ -15,7 +15,7 @@ Scoto. 1603.
 
 4 l'.-nc. in 8° (C.A.T.B.), pag. 23. Indice = 1589.
 
-l-l-'r: A.
+I-l-'r: A.
 
 1240 - GIOVANNELLI Ruggero (1613) - Gli Sdruccioli di Ruggiero Giovanelli
 a quattro voci. Con una Caccin in ultimo a quattro, cinque, sei, sette et otto.
@@ -26,12 +26,12 @@ Scoto.1613.
 
 I-PAc : compl.
 
-1241 .- GIOVANNELLI Ruggero (1588-1) - ll Primo Libro delle Villanelle ct
+1241 .- GIOVANNELLI Ruggero (1588-1) - il Primo Libro delle Villanelle ct
 Aric alla napoletana, a tre voci. Di Ruggiero Giovannelli, nouament'e composte, "
 date in luce. Con privilegio. In Venetia, appresso Giacomo Vmccnzr. 1588.
 
 3 fasc. in 8° (C.A.B.), png. 31,(1). Ded. di Fulvio Figliucci alla signora Violante Ricci: (f...alszunct'
-gratiosc Villancllc da me raccolte del Sig.r Ruggiero Giovanelli, spirto m vero vmuo
+gratiose Villanclle da me raccolte del Sig.r Ruggiero Giovanelli, spirto m vero vmuo
 dolcissimo... Venetia, 20 V]! 1588.
 
 Stelle, ch'ornando il ciclo, della no...: indornle'l fosco \'elo
@@ -43,7 +43,7 @@ Donna, tu sci sì bella che pari proprio un sol, non ch'una stella
 
 . . 11
 r ...
-Porgimi, cara Filli, l'amate e belle rosc (Zucca ' ) 13
+Porgimi, cara Filli, l'amate e belle rose (Zucca ' ) 13
 
 Donna gentil. saper da voi desio che fà hoggi il cor naro 14
 S'ancidcr vuoi, amorc, attoscami e fà poi ch'io prend 11 tosco 16

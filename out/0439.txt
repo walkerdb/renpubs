@@ -1,7 +1,7 @@
 Ah quanto in vano tenti di far pietoso il ciel a luni desiri (Zoagli) 3
 
 Mira, Tirsi gentile, mira da quel che sono a quel che lui n 4
-Dch pcrchè scmpre viva memoria in queste piante (seconda parte) " 5
+Dch perchè scmpre viva memoria in queste piante (seconda parte) " 5
 Clori. mentr'io rimiro de' tuoi begl'occh'i lumi e lo splendore " 6
 Fugge dal tuo bel viso il bianco avorio e le vermiglio rose (Cebà) 7
 Teneva al sol i biondi crini sparsi madonna all'hor che mentre (Zoagli) 8
@@ -12,7 +12,7 @@ Ne l'inferno del petto dal voscr'orgoglio condannat'in pene " 12
 Misera e quando mai si vide il ciel volger (seconda parte) n 13
 Cor mio, menlr'io ti bacio, per dolcissima via spiro fra 1:1er " 14
 lle. amari sospiri, a la bella cagion del morir mio (Guarini) 15
-Anima mia, perdona a chi lc cruda sol dove pietosa esser non può " 16
+Anima mia, perdona a chi le cruda sol dove pietosa esser non può " 16
 Chc sc tu se'l cor mio, come se pur mal grado (seconda parte) " 17
 Crude]. perch'io non v'ami m'havete il sol de' bei \'ostr'occhi tolto " 18
 Ma. lasso, nel mio core tant'amor è più amore (seconda parte) " 19
@@ -20,9 +20,9 @@ In vano vi credete di dar mon'al mio core col tormentarlo \" 20
 lo mi sento morir quando non miro colei ch'ê la mia vita " 21
 21
 
-l-TSt: C,
+I-TSt: C,
 
-l-PS: A. (pag. 7-14); T. (pag. 3-21); B.; 5. (pag. 9-12 e 17-22).
+I-PS: A. (pag. 7-14); T. (pag. 3-21); B.; 5. (pag. 9-12 e 17-22).
 
 648 - COSTANTINI Alessandro (1626) - Componimenti musicali del cavalier
 Alessandro Costantini. Opera Terza. ln Roma, appresso Gio. Battista Roblctti. 1626.

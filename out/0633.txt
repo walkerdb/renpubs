@@ -6,7 +6,7 @@ di Girolamo Scotto 1579.
 
 D-Kl: compl.
 PL-GD: C.A.T.
-l-Rsc: C.
+I-Rsc: C.
 D-Mbs: B.
 
 958 - FERRETTI Giovanni (1583) - Di Giovan Ferretti il Quarto Libro delle
@@ -16,13 +16,13 @@ Girolamo Scotto. 1583.
 Sfasc. in 8° (C.A.T.B.5.), pag. 24. lndice = 1571.
 
 I-Bc: compl.
-l-Bsp: compl.
+I-Bsp: compl.
 A-Wn: compl.
 B-Br: compl.
 CH-Bu: compl.
 D-As: compl.
 GB-Lwa: compl.
-l-Ps: C.T.B.
+I-Ps: C.T.B.
 GB-Lbm: A.B.5.
 D-Rp: T. (Prov. Haberl).
 D-KI: 5.
@@ -33,7 +33,7 @@ D-KI: 5.
 (Sanzo... alla napolitana a cinque voci novamente poste in luce. In Vincgia appresso
 lherede di Girolamo Scotto. 1585.
 
-5 fasc. in 8° (C.A.T.B.5.), pag. B,"). Ded. :\ Francesco Rovclnscn, Venetia, 15 X 1585.
+5 fasc. in 8° (C.A.T.B.5.), pag. B,"). Ded. :\ Francesco Rovclnsen, Venetia, 15 X 1585.
 
 O alma, che farai, quando lonlan dal mio bel sol aarui 3
 Tulle le slell'insìeme conducano mia vit'a l'hor'cslreme 4

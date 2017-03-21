@@ -3,11 +3,11 @@ Ne le dolc'aure estive, nel vago mormorar d'onda marina
 (chbo) 7
 
 Occhi dolc'e soavi, ond'io scmpre sospiro, voi pur ambo le chiavi 8
-Lumc del ciel, che ne superni giri ten port'il cuore (V. Colonna) 9
+Lume del ciel, che ne superni giri ten port'il cuore (V. Colonna) 9
 
 O benedetta luce, :| cui d'intorno (seconda parte) " 10
 Quando l'errame et stanco peregrino per liermi boschi 11
-Quando da bei voslr'occhi \'olget'a rimirar sovent'altrui 12
+Quando da bei voslr'occhi Volget'a rimirar sovent'altrui 12
 Parto da voi et so con quanta pena faccio da voi partita 13
 Una leggiadra rosa coglier vorrei, ma'] spin che la diffende 14
 Lidia mira Narciso long'il vicino rio, com'ei vive dell'acqur- 15
@@ -20,7 +20,7 @@ Aria di Canzon francese per sonar del ottavo tono 21
 D-Mbs: compl.
 PL-Wn: C.A.
 I-Bc: C.T. (C. difcu.)
-l-Vnm: A.D.
+I-Vnm: A.D.
 PL-LEtpn: T.E.
 GB-Lbm: T.
 

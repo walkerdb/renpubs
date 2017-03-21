@@ -8,10 +8,10 @@ Lo Stampatore a chi legge: (( ...Le musiche furono tutte del Sig. Marco da Gagli
 parte di Clori, la quale fu opera del Sig. Jacopo Peri... ".
 
 I-Bc
-l-MOe
-l-Nc
+I-MOe
+I-Nc
 
-1577 - MARCO da Gagliano (1602) - Di Marco da Gagliano fiorentino. ll Primo
+1577 - MARCO da Gagliano (1602) - Di Marco da Gagliano fiorentino. il Primo
 Libro de Madrigali a cinque voci. Novamente stampato. In Venetia. Appresso
 Angelo Gardano. 1602.
 
@@ -34,7 +34,7 @@ L'ardente tua facclla, gl'acuti strali e l'arco 11
 Di marmo siete voi, donna. ai colpi d'amore, al pianto mio (Marino) 12
 Filli, mentre ti bacio, dalle tue labr'amorosett'e care (A. Ongaro) 13
 Scherza madonna e dice, hor l'un'in me girand'hor l'altra stella (Cebà) 14
-Dico a lc muse: dice o dee, qual cos'a la mia dea simiglia 15
+Dico a le muse: dice o dee, qual cos'a la mia dea simiglia 15
 Come potrò mai fare, cor mio, di non vi amare 16
 Un sguardo, un sguardo no, troppa pietate è per misero amante (Chiabrera) 17
 SChcrzo con l'aure e tento d'annoverar quest'onde. Del Caval. Gio. del Turca 18

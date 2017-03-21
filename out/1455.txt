@@ -12,7 +12,7 @@ A 5. I begli occhi ch'al sol invidia fanno con sue vaghezze (Sannazzaro) 1
 "" Intanto il Sonno si partia pian piano (terza parte) " 5
 " " Mentr'a mirar vostr'occhi intento io sono, madonna, ogni dolor 6
 " " Onde la mente innamorata e vaga (seconda parte) 7
-" " Fin qua giù dal ciel l'ode), o bella, 0 viva, il sereno volto 8
+" " Fin qua giù dal ciel l'ode), o bella, o viva, il sereno volto 8
 " " Su la Marecchia e lungo il Reno (seconda parte) 9
 " " Ecco ch'un'altra volta, o piaggie apriche, udrete (Sannazzaro) 10
 " " E se di vero amor qualche scintilla (seconda parte) " 11
@@ -26,7 +26,7 @@ A 5. Al felice ritorno di voi, mio sol, torna il mio cor in vita 17
 " " Luce vaga, gentile come quella del sole (seconda parte) 19
 A 6. Così de l'altre luci tu via maggior (terza parte) 20
 " " Dunque n'andrei al cielo, che ben (quarta parte) 20
-l-MOe: A.
+I-MOe: A.
 
 2336 - (De) REULX Anselme (1543-1) - Di Anselmo Reulx Madrigali a quattro
 voci nuovamente dal proprio auttor composti et mandati in luce. Venetiis apud
@@ -36,7 +36,7 @@ Hieronymum Scotum. 1543.
 
 Per ch'al viso d'amor portava insegna (Petrarca) 2
 E Son tant'i tormenti, che nel core 2
-SPinsc amor e dolor ove ir non debbe (Petrarca) 3
+SPinse amor e dolor ove ir non debbe (Petrarca) 3
 Gentil mia donna, io veggio nel mover de vostr'occhi " 3
 Se una fede amorosa, un cor non finto " 4
 S'amor novo consiglio non m'apporta " 4

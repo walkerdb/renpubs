@@ -23,7 +23,7 @@ T " " Ben sai tu ch'io t'adoro, bel idolo d'amore 42
 " " Poichè a miei pianti neghi romper il giaccio 46
 " " Occhi miei tristi, Ohimè di voi che fia. Dialogo con gl'occhi 48
 
-; A Z. Dolc'è languir per vago e bel ciglio seren 5'4
+; A 2. Dolc'è languir per vago e bel ciglio seren 5'4
 
 l " " Torna sereno, di gioia pieno, ridente il di 56
 " " Morìr lieto e contento, viver di vita spento. Aria 58

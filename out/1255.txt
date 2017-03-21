@@ -2,7 +2,7 @@ Ove stavi tu avvolto, so>pir che spiri ardore
 Fuggite pur, fuggite, crudel, da chi v'adora
 Amoroseno neo, che tra le perle e gl'ostri del mio bcl sol (i mosu-i
 
-l-Nc: compl.
+I-Nc: compl.
 GB-Lbm: compl.
 GB-T: compl.
 
@@ -33,7 +33,7 @@ Cardano. In Venetia 1616. Appresso Barrholomeo Magni.
 GB-Lbm: compl.
 I-Sac: T5.
 I-V'1'ccrasa: T.
-l-SPE: B.
+I-SPE: B.
 
 _2031 _- NENNA Pomponio (1624) - Di Pomponio Ncnna cavalier di Cesarc
 ll Settimo Libro de Madrigali a cinque voci. Quarta impressione. Stampa del

@@ -14,7 +14,7 @@ A 5. Dolor, perchè mi meni fuor di camin (Petrarca) 3
 " " Qual loco hoggi nel mondo non risuona la fama d'Adrian 14
 " " Quel rossignuol, che sì soave piugne (Petrarca) 15
 " " O ch'è liev'ingannar chi s'assicura (seconda parte) " 15
-" " Da begli occhi ch'adoro veder parmi tal'hora un auge] nuov'uscir 17
+" " Da begli occhi ch'adoro veder parmi tal'hora un augel nuov'uscir 17
 " " Mortai, volger'ogn'hora la vostra vista (seconda pane) 18
 " " Re de l'alma stagion ch'allegr'il mondo, cinto di ſrond'et fior 19
 " " Rimans'adietr'il sesto decim'anno de miei sospiri (Petrarca) 20
@@ -33,7 +33,7 @@ GB-LI: T.
 
 I-Bc: T.
 
-l-MOc: B.
+I-MOc: B.
 
 859 - DORATI Nicolò (1559) - Di Nicolo Dorati li Madrigali a cinque,.a sei,-%
 sette et otto voci. Libro Secondo novamente da lui posti in luce, et delli suor prOPſ']

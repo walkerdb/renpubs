@@ -20,7 +20,7 @@ Canzon, vatten a lei che meco (sesta parte) 27
 Caro, leggiadro, aventuroso pegno, che fosti in van 28
 Ond'in t'atloro e reverisco (seconda parle) 29
 
-l-Vnm: C.T.H.
+I-Vnm: C.T.H.
 
 2723 - TIGRINI Orazio (1582) - D'Oratio Tigrini aretino il Primo Libro de
 Madrigali a sei voci, novamente composti, et dati in luce. In Venetia appresso
@@ -60,7 +60,7 @@ lo piango e tu sospiri e soffri e taci 21
 Mentre nel sen di Giove Giuno due alme uniscc 22
 Gloria, bontade, honore, grandezza, senno (seconda parte)
 
-l-llc: compl.
+I-llc: compl.
 
 -I694-
 

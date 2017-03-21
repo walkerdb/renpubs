@@ -16,7 +16,7 @@ D-As: compl.
 F-Pc: C.A.T.B5.
 
 I-PS: C.A.T.B. difett. (C. pag. 1-6; A. pag. 1-6, 15-20; T. pag. 1-6; B. pag. 1-6, 15-22; 5. pag. 1-6).
-l-VEaf: T.
+I-VEaf: T.
 
 GB-Lbm: 5.
 

@@ -23,7 +23,7 @@ D-As: compl.
 D-Mbs: compl.
 I-Bc: C.A.T.B.
 
-l-Vc (Torrefranca): A.
+I-Vc (Torrefranca): A.
 Bocceicber 747.
 
 1422 - DE LASSUS Roland (1557) - Di Orlando di Lassus il Primo Libro di
@@ -40,10 +40,10 @@ GB-Lbm: compl.
 
 I-Fr: C.S.
 
-l-VEaf: A. (manc. di front.).
+I-VEaf: A. (manc. di front.).
 I-O: T.
 
-l-Lg: 5.
+I-Lg: 5.
 
 US-Cn: B.
 
@@ -55,7 +55,7 @@ presso Francesco Rampazetto. 1562.
 
 5 fasc. in 3° obl. (C.A.T.B.S.), pag. zz. Indice = 1555.
 
-l-Re: C.A.T.B.
+I-Re: C.A.T.B.
 
 ["-CH: 5.
 

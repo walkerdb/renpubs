@@ -2,7 +2,7 @@ Mirerò sin ch'io vivo 13
 
 Se per desio ch'io pera 14
 
-Dunquc lasciate ch'io rieda a l'usate (seconda parte) 15
+Dunque lasciate ch'io rieda a l'usate (seconda parte) 15
 L'altr'hier mi chiese un vezzosetlo fiore et io le chiesi un bacio 16
 lnterdctte speranze e van desio, pensier fallace, ingord'e cieche (Sannazzaro) 17
 
@@ -31,9 +31,9 @@ F-Pthibault: compl.
 
 GB-Lbm: compl.
 
-l-VEaf : Sopr., Mezzosopr., Contr., T.B.
+I-VEaf : Sopr., Mezzosopr., Contr., T.B.
 D-Rp: Sopr., Mezzosopr., Contr. T.B.
-l-Sd: Sopr., Mezzosopr.
+I-Sd: Sopr., Mezzosopr.
 
 3029 - ZOlLO Cesare (1627) - Il Primo Libro de' Madrigali a cinque voci del
 signor Cesare Zoilo romano. Di nuovo in questa terza impressione. coretto. ln
@@ -45,7 +45,7 @@ Grillo, Cavalier dell'habilo de Christo et Cantor della Real Cappella di Sua Mae
 Europa unico per la melodia della voce... Napoli, 20 lll 1627. lndice = 1620.
 
 GB-Lbm : compl.
-l-Nc : C.A.B.5.
+I-Nc : C.A.B.5.
 
 3030 _- ZOlLO Cesare (1628) - Il Primo Libro de Madrigali a cinque voc1 (il;
 Cesare Zoilo con il suo solito Basso continuo a beneplacrto in questaAsecoêlsso

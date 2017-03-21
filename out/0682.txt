@@ -18,7 +18,7 @@ A 6. Hor qui benigni ancor celesti " " 3
 A 3. Già de li frutti suoi " " 4
 " " Come spesso d'augci veloce " " 4
 A 5. Ma la miscra turba " " 4
-A Z. Et le tenebre spose " " 5
+A 2. Et le tenebre spose " " 5
 A 4. Si raddopiano gl'inni " " 5
 A 2. Levaci tu " " 5
 A 3. Et da questa cittade " " 6
@@ -31,7 +31,7 @@ A 4. Qual è colui " " 8
 A 3. Ch'homai di Giove il figlio " " 5
 " " Et per compagn'ha seco " " 9
 A 6. Però che dal gran tempio " " 9
-" " ll qua] per folte sclve " " 9
+" " il qua] per folte sclve " " 9
 A 5. Qual tauro aﬄitto suolc " " 10
 " " Così fuggir sperando " " 10
 A 4. Ben gravemente " " 10
@@ -39,7 +39,7 @@ A 4. Ben gravemente " " 10
 A 2. Onde dubbia ho la mente " " }}
 " " E in certa speme " " "
 A 3. Che dianzi unqua non seppi " " "
-A 1. Nè ancor sapcrlo posso " " 12
+A 1. Nè ancor saperlo posso " " 12
 A 3. Che raggion non consente " "', 12
 "
 
@@ -50,7 +50,7 @@ A 4. Ma fermament'in me 13
 A 6. Quand'a lui già " "
 
 Choro H[ 14
-A Z. O voglia'l ciel " : 14
+A 2. O voglia'l ciel " : 14
 A 3. E quel tant'habbia sol " " 14
 A 2. Queste non fia :) _, 14
 

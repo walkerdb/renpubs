@@ -2,7 +2,7 @@ A 5. Errai, misera amante, nelle 19
 A 8. O misero mio core, poi che si parte amore 20
 A S. Fuggi, se sai fuggire, fera al mio cor crudele 22
 
-l-MOe: compl.
+I-MOe: compl.
 US-BE: A.
 
 894 - EREMITA Giulio (1584) - Madrigali di Giulio Heremita, Libro Primo. A

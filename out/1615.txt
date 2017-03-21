@@ -8,7 +8,7 @@ A 4. Fior ch'all'intatta nev'a i bei ligustri 13
 " " Non Siate però tumid'e fastose, donne, per dir che l'huom (Ariosto) 16
 " " Deh perchè vogli'anclior di me dolermi "
 
-" " Et oltr'al mio destino. io ci ſui spinta da lc parole altrui " 17
+" " Et oltr'al mio destino. io ci ſui spinta da le parole altrui " 17
 " " 1 giuramenti, le promesse vanno (lc vent'in aria " 18
 " " Guardatevi da questi, che sul fiore de lor verd'anni " 18
 " " Così fan questi gioveni che tanto (seconda parte) " 19

@@ -10,7 +10,7 @@ Tra più dolci amorosi avolgimenti vipera al suo amatore il capo tronca 21
 Se'l lauro è sempre verde e per fredda stagion foglia non perde 22
 Deh se pur secco forse a tutti com'a me (seconda parte) 22
 Quand'io miro me stessa i' son pur bella, ma che mi giova Lì
-l-Fc: compl.
+I-Fc: compl.
 I-MOc: compl.
 I-Bc: C.A.T.5.
 
@@ -22,7 +22,7 @@ Ferrara, appresso Vittorio Baldini, stampator ducale. 1595.
 si è compiaciuta sempre la sua buona mercè d'ascoltarli... Ferrara, 31 Vlll 1595 ".
 
 Aura, ch'crrando intorno, di fronda in fronda vai, di fiore in fiore 3
-ltenc a volo 0 miei sospiri ardenti, portate il dolor mio al tanto (Tasso) 4
+ltenc a volo o miei sospiri ardenti, portate il dolor mio al tanto (Tasso) 4
 Lungi da te, cor mio, strugomi di dolore e di desio e a te vicino 5
 Se la mia vita sete, come viver poss'io d'altro ben, d'altro amor 6
 O miracol d'amore. lo bramo mirar voi, dolce mia vita 7
@@ -42,7 +42,7 @@ Come viva il mio core, come quest'alma spiri, deh dillo tu 20
 Godete, anima bella, poichè fede et amor concordi insieme 21
 Può ben fortuna far ch'io m'allontnni, ma non già ch'io non v'ami 22
 Non guardar, che se guardi l'idolo del mio core. ti struggerai 23
-l-MOe: compl.
+I-MOe: compl.
 GB-Lbm: C.T.
 
 1530 - LUZZASCHI Luzzasco (1596) - Sesto Libro de' Madrigali a cinque voci

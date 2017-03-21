@@ -1,5 +1,5 @@
 A 8. Hor che sepolto. Madrigale spirituale del Rovelli 173
-A 4. Verginellc fcsteggianti. Choro di soprani. Madrigale .xpirittlale (li Mons. Giovanni
+A 4. Verginelle fcsteggianti. Choro di soprani. Madrigale .xpirittlale (li Mons. Giovanni
 
 Ciampoli 174
 " " O tempeste furibonde. Choro di bazsi (seconda parte) 183
@@ -8,19 +8,19 @@ A 8. Aprite il seno. Tutti insieme (terza parte) 189
 Nel S.: Ninfe gioite, cantate (l'amore. Passacaglio. Dialogo a 3. Silvia, Fileno, Eurilla. Dell'autore.
 Eccettuati li segnati '" tutti sono con due soprani.
 
-l-Rc (Baini): compl.
+I-Rc (Baini): compl.
 I-Rvat (Barberini): compl.
 D-VHl: compl.
 
-l-Ls: C.A.T.B.5.
+I-Ls: C.A.T.B.5.
 
 PL-WRu: C.A.T.B.S.
 
-l-A: Partitura
+I-A: Partitura
 
 I-Bc: Partitura
 
-l-Nf: Partitura
+I-Nf: Partitura
 
 B-Br: Partitura
 
@@ -48,15 +48,15 @@ A 1. A travestirsi di passibil velo. Sonetto di Claudio Achillini 1
 " " Quivi su freddi stecclti (\'econda parte) 1
 " " Udite, o terra, o ciel (terza parte) 2
 " " Ma perchè vuole (quarta parte) 2
-" " Giunto alla cuna. Ottavc di Mons. Rospigliosi 3
+" " Giunto alla cuna. Ottave di Mons. Rospigliosi 3
 " " Tu li strali pungenti (seconda parte) 5
 " " Resta, amor santo (terza parte) 5
 " " Homai le luci erranti. Sonetto dell'abbate Saracini 7
 " " ln van pur troppo (seconda parte) 8
 " " Ma non temer (terza parte) 8
 " " No me mueve mi Dios. Sonetto di San Francesco Xaverio 9
-" " Muevesmc tu scfior (seconda parte) 10
-" " Mucvesmc alfin mio (terza parte) 10
+" " Muevesme tu scfior (seconda parte) 10
+" " Mucvesme alfin mio (terza parte) 10
 " " Ni tienes que me dar (quarta parte) 10
 
 _1099_

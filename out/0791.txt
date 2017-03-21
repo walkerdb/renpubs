@@ -26,9 +26,9 @@ A 6. Ergasto con tuoi sotii (quarta parte) . ...
 A7- Ergasto, tu che l'hai (sesta parte) 22
 A 8. Ma hor siam giunt'al fonte (settima parte)
 
-l-Fn: compl.
+I-Fn: compl.
 
-l-MOc: compl.
+I-MOc: compl.
 
 PL-GD: compl.
 

@@ -6,7 +6,7 @@ A che tormi'l ben mio, s'io dico di morire 21
 
 I-Bc: compl.
 GB-Mp: compl.
-l-Sac: C.A.T.5.
+I-Sac: C.A.T.5.
 D-Mbs: T.B.5.
 I-Vnm: C.S.
 US-BE: T.
@@ -39,7 +39,7 @@ B-Br: compl.
 D-As: compl.
 F-Pc: compl.
 GB-Lbm: C.A.T.5.
-l-Sac: C.
+I-Sac: C.
 D-Rp: C. (prov. Haberl).
 NL-DHgm: A
 

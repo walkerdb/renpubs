@@ -15,7 +15,7 @@ In hoc ego sperabo " " 29
 Beati omnes, qui timent Di ]acotin 30
 Ecce sic benedicetur homo (seconda parte) " " 31
 
-l-VEaf : compl.
+I-VEaf : compl.
 RISM, I 1542-18.
 
 94 - ARCHADELT )acques (1543) - Primo Libro di Madrigali d'Archadelt a
@@ -38,7 +38,7 @@ Ave Vll'gO gloriosa, stella sole clarior Di Lhcreticr 9
 Et iterum venturus est cum gloria 10
 Gabriel angelus apparuit Di Mat/n'a; 11
 Agnus Dei, qui tollis pcccnta mundi Di Lain/lc 12
-In hoc ego spcrabo Dl iMON/tl 13
+In hoc ego sperabo Dl iMON/tl 13
 Domine, ante te omne desiderium meum " " 14
 Beati omnes, qui timent 15
 

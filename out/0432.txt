@@ -8,7 +8,7 @@ Dunque de\'i partire, ahi vana speme all'hor si fan 7-2
 Le stelle'l cielo e gli elementi a prova (Petrarca) 24
 Crespo, aureo crin, cui par ch'intorno vole 26
 
-l-MOe: compl.
+I-MOe: compl.
 I-VEnf : compl.
 PL-GD: C.A.T.5.
 
@@ -31,7 +31,7 @@ T
 
 [dame sul mostaccio. C. o . 17
 
-Occhi belli, da voi bramo mercè. Chiede da begl'occhi mercè. C. 0 T. 23
+Occhi belli, da voi bramo mercè. Chiede da begl'occhi mercè. C. o T. 23
 
 Rido una volta in cento, parlo una volta il dì. Vita d'amante infelice. C. 30
 
@@ -45,7 +45,7 @@ C.
 [di veder ciò che vogliono...
 
 Mi basta d'amare vezzosa beltà, nè so che mi fare. Non si cura che bella donna sappia il
-[suo affetto. C. 0 T- 57
+[suo affetto. C. o T- 57
 Per farle palese l'incendio che al core (seconda parte)
 Cinto da falci horror d'un ciel notturno. Amante geloso C. &
 Fermate, cessate, mie cure gelose (seconda parte)

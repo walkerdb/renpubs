@@ -40,7 +40,7 @@ A 2. E' partito il mio bene, ho perduto il mio core, ohimè. 2 T. (Marino) 3
 
 A 3. Hor che tra gl'odorati boschetti e vaghi pnti sen va soletta. C.T.B. _
 A 6. Fugacc bellezza, che desli nci cori fierìssimi ardori. C.T.B. e 3 strumenti.
-A 5. Vezzosc aurette, i cui lcggiadri errori ornando il ciel. Gagliarda a Z voct (Z_C-) Z'
+A 5. Vezzose aurette, i cui lcggiadri errori ornando il ciel. Gagliarda a Z voct (Z_C-) Z'
 
 [c 3 istromenti sc piace
 
@@ -49,7 +49,7 @@ A 2. Sonata a doi Violini 30
 A 3. Sinfonia a 3. 2 Violini e Basso 31
 " " E' tanto tempo hormai. Sonata a 3. 2 Violini e Basso 35
 
-" " ll Corisino. Sonata a 3. Z Violini e Basso
+" " il Corisino. Sonata a 3. Z Violini e Basso
 
 I-FFL: T.l°, T.l°, B.
 Sartori l6Zld.

@@ -4,7 +4,7 @@ A 1. O qual gioia nel petto mi sta 7
 " " O lingua, che girata sovra i mobil rubini 10
 " " Amor, non posso più se non m'aiti tu 11
 " " S'altr'in amar non s'ha se non pena e dolor 11
-" " Amor, sc per affliggermi crude] 13
+" " Amor, sc per affliggermi crudel 13
 " " Non mai così lucente i monti il sol indora 14
 " " Nidi cari e lucenti 16
 " " Poichè vol amor che fin habbia il dolor 17
@@ -39,7 +39,7 @@ A 2. Vezzosetti sospiri, dalle labra di Filli a mille uscite 55
 " " Son giochi, scherzi e vezzi care gioie d'amore e sì fra lor 59
 I-Bc.
 
-l-Mc (Noseda): manc. di pag. 15-18 (: 43-46.
+I-Mc (Noseda): manc. di pag. 15-18 (: 43-46.
 
 1569 bis - MARASTONI Antonio (1624) - Concerti a due, tre, et quattro voci
 con il Basso continuo d'Antonio Marastoni nuovamente composti, et dati in luce.

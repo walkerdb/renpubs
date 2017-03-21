@@ -20,7 +20,7 @@ quattro voci, novamente ristampato. In Venetia appresso Angelo Gardano 1588.
 
 I-Bc: compl.
 D-W: compl.
-l-Nc: C.T.B.
+I-Nc: C.T.B.
 
 743 - DE MONTE Filippo (1554) - Madrigali a cinque voci de l'ccccllcn_te
 Filippo De Monte novamente posto in luce. Libro Primo. In Roma per Valerio
@@ -37,13 +37,13 @@ E l'imagini lor son sì cosparte (seconda parte) " 6
 Colonna di smcraldo mirate, occhi sublimi, e di diamante 7
 Informa, alta colonna di mille e mille (seconda parle) - 8
 Creduto l'un-ria che fosse statua finta o d'alabastro (A"os'o) 9
-Ogni mio ben, crude] morte m'ha tolto (seconda parte) " 10
+Ogni mio ben, crudel morte m'ha tolto (seconda parte) " 10
 
 Sc troppo alto desir mi punge il core
 
 ]]
 . . a
-Lasso, ch'io ardo et altri non me] crede (Pclmc )
+Lasso, ch'io ardo et altri non mel crede (Pclme )
 
 Quest'arder mio di che vi cal sì poco (seconda parte) " . . g
 Ohimè. che belle lagrime fur quelle ch'il nembo (Lorenzo de' Med...) 14
@@ -54,7 +54,7 @@ Non spero del mio affanno (seconda parte) ]7
 Una nova sirena in mezzo l'acque in vista viddi sì leggiadra
 1' mi vivca di mia sorte contento (P...-""")
 O natura pictosa e fera madre (seconda parle) " ll)
-Ove ch'i' posi gl'occhi lassi 0 giri "
+Ove ch'i' posi gl'occhi lassi o giri "
 
 . ))
 Amor e'l ver ſur meco :| dir (seconda parte)

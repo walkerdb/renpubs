@@ -7,7 +7,7 @@ AZ. Miserabil mio core, il crudo amore io non posso ſuggir. Dialogo 2
 " " Ch'io non v'ami? lo non v'amo. Ch'nmar voi non poss'io 6
 " " Amatemi, ben mio, perchè sdegna il mio core ogn'nltro cibo 8
 " " No, no, che più non v'amo, perfida, iniqua e ria 9
-" " Se nel baciar scnt'io tanta dolcezza, amore 11
+" " Se nel baciar sent'io tanta dolcezza, amore 11
 " " Aurilla, pur t'abbraccio e pur dolce ti bacio IZ
 " " Mentre ride costei, fuor da la bella bocca 14
 " " Ben mio, mentre ti bacio non so dir 16
@@ -24,7 +24,7 @@ A4. Donna, i tuoi lumi sono tanti strali d'amore 27
 " " A gli nrdori offerisco il petto mio, donna bella e gentile 32
 NL-DHgm: C.
 
-l-de: (P).
+I-de: (P).
 
 2523 - SABINO Ippolito (1599) - Duo composti sopra il canto delli Madrigali
 

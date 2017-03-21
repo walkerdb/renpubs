@@ -1,11 +1,11 @@
 . . . l 2
-Almc d'amore rubellc, che con leggiadri suo...
+Alme d'amore rubellc, che con leggiadri suo...
 
 Candido e verde fiore, che di speranza e fede lli
 Ardita zanzaretta morde colei, che'l mio cor strugge 15
 Ardo per te, mio bene, ma l'ardore spira 16
 Ancide sol la morte e lu, mio core . 17
-Quel no crude], che la mia speme ancnsc - 18
+Quel no crude], che la mia speme ancnse - 18
 Moro, lasso, al mio duolo e chi mi può dar ."... 19
 Volan quasi farfalle a i vostri almi Splendori 20
 Al mio gioir il ciel si fà sereno - 21
@@ -24,7 +24,7 @@ D-Mbs: A.T.B.S.
 I-Bc: C.T.B.
 
 US-SFsc (De Bellis): C5.
-l-Rsc: C.
+I-Rsc: C.
 
 US-CA: T.
 
@@ -36,13 +36,13 @@ Genova, appresso Giuseppe Pavoni. 1613. Con licenza de' Superiori.
 Vol. in 8", pag, 246_
 
 I-Bc
-l-COc
-l-Fc
-l-Mc
-l-Nc
+I-COc
+I-Fc
+I-Mc
+I-Nc
 I-REm
-l-Rc
-l-Rsc
+I-Rc
+I-Rsc
 A-Wm
 A-Wn
 B-Br

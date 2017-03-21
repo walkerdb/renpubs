@@ -13,7 +13,7 @@ d'Este Alfonso II, duca di Ferrara. 601, 775, 1306, 1576, 1775, 2294, 2322, 2947
 807, 894, 1457, 1510, 1524, 1540, 1974, Farnese Ottavio. 82, 550, 1835, 1970, 2331,
 2460, 2670. 2847, DB, 2973, 2974.
 d'Este Alfonso, principe di Modena. 834, Farnese Pietro. 2206.
-935, 2444, 2558, 2772, Farncsc Ranuccio. 244, 832, 2297, 2747.
+935, 2444, 2558, 2772, Farncse Ranuccio. 244, 832, 2297, 2747.
 d'Este Alfonso IV, duca di Modena. 531, Farnese Ranuccio Il. 532.
 935_ Farnese Gonzaga Margherita. 2988.
 d'Este Barbara, 1960, Fcilding Basilio. 559, 936, 1568.

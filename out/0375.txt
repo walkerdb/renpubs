@@ -38,7 +38,7 @@ A 6- COme vuol mia fortuna, amor e'l cielo, crrando vado 28
 " " Alzate il cant'o Muec in quest'estremo e meco insieme dite. Alla Contessa di Sala 29
 [Pc: A.
 
-l-VEaf : A,
+I-VEaf : A,
 
 555 - CHAMATERO' Ippolito (1569) - Di Hippolito Chamatcro maestro di
 caPella, nel domo di Udine, il Secondo Libro delli Madrigali a cinque voci, nuo-
@@ -48,7 +48,7 @@ vaſl'lcnte posti in luce. In Vinegia appresso Girolamo Scotto. 1569.
 A qual'fnquc animal alberga in terra (Petrarca) 3
 Et to da ch'incomincia la bcll'aha "(seconda parte) " 3
 Quando la sera scaccia il chiaro (terza parte) " 5
-N°" credo che pascessc mai per selva (quarta parte) " 6
+N°" credo che pascesse mai per selva (quarta parte) " 6
 
 Ëma ch'io torni a voi, lucenti stelle (quinta parte)
 n let foss'io da che si parte il sole (nesta parte)

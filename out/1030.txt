@@ -5,7 +5,7 @@ I-Bc: 5.
 
 GB-Lbm: 5.
 
-l-Sac: C. (mUlilo da pag. H).
+I-Sac: C. (mUlilo da pag. H).
 I-Sd: T.
 
 Un cscmpl. compl., mn difcnoxo, era nella Collezione Heyer di Kòln.
@@ -19,7 +19,7 @@ Raverii. 1608.
 I-VEcap: compl.
 I-Bc: G.B.
 
-l-Rsc. C.
+I-Rsc. C.
 F-Plhibault: compl.
 US-CAli: B.
 

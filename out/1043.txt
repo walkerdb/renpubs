@@ -36,8 +36,8 @@ L?! dove sono i pargoleui amori 'Tnssn) 20
 O verdi selve, o (lolci fonti, \) rivi " 21
 
 "ke: compl.
-l-VEaf: compl.
-l-VBcap: compl.
+I-VEaf: compl.
+I-VBcap: compl.
 D-As: compl.
 D-Rp: compl.
 F-Pthibault: compl.
@@ -50,5 +50,5 @@ E-TZ: C.A.B.
 A-Wn: A.B.5.
 I-Bc: A.T.
 US-Lau: BS.
-l-Rc: B.
+I-Rc: B.
 

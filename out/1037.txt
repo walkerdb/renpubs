@@ -7,20 +7,20 @@ A 6. Arsi gran tempo e del mio foco indegno (Tasso) 15
 " " O che sono e non inteso bacio della mia diva (Guarini) 19
 A 9. Donna il celeste lume 20
 
-l-Bsp: compl.
-l-Fn: compl.
+I-Bsp: compl.
+I-Fn: compl.
 GB-Och: compl.
 PL-GD: compl.
 I-Sd: A.T.B.5.6.
 US-BE: A.T.B.5.6.
 D-Rp: C.A.T.5.
 B-Bc: C.B.6.
-l-Vnm (Canal): A.
+I-Vnm (Canal): A.
 I-Bc: T.
 
 GB-Ob: nun compl.
 
-1661 - MARENZIO Luca (1587-2) - Di Luca Marcnzio il Quarto Libro dc
+1661 - MARENZIO Luca (1587-2) - Di Luca Marenzio il Quarto Libro dc
 Madrigali a sci voci novamente composti ct dati in lucc. Con privilegio. In
 Venetia prcsso Giacomo Vincenti. 1587.
 
@@ -36,7 +36,7 @@ US-BE: 5.
 
 Un csempl. non compl. (C.A.T.5.6.) esisteva nella Collezione Heyer di Kòln.
 
-1662 - MARENZIO Luca (1593) - ll Quarto Libro de Madrigali a sei voci
+1662 - MARENZIO Luca (1593) - il Quarto Libro de Madrigali a sei voci
 
 di Luca Marenzio novamente ristampato. ln Venetia appresso Angelo Gardano.
 
@@ -44,7 +44,7 @@ di Luca Marenzio novamente ristampato. ln Venetia appresso Angelo Gardano.
 6 ſasc. in 8° (C.A.T.B.S.6.), pag. 21. Indice = 1587-1.
 
 I-Rsc: compl. (l." esempl.: [Ll-1.5.6.)-
-l-VEaf : compl
+I-VEaf : compl
 
 D-As: compl.
 

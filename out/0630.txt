@@ -15,7 +15,7 @@ l'herede di Girolamo Scotto. 1581.
 5 fasc. in 8° (C.."\.T.B.5.). pag. 23. Indice = 1569.
 
 I-Bc: compl.
-l-MOe: compl.
+I-MOe: compl.
 B-Br: compl.
 CH-Bu: compl.
 D-As: compl.
@@ -28,7 +28,7 @@ GB-Lbm: B.
 D-Kl: 5.
 
 F-Pn: 5.
-l-MAc: 5. (prov. Arch. Gonzaga).
+I-MAc: 5. (prov. Arch. Gonzaga).
 
 951 - FERRETTI Giovanni (1570) ... Il Terzo Libro delle NapOlitanc a cinque
 voci, nuovamente posto in luce. In Vinegia, appresso Girolamo Scotto. 1570.

@@ -24,7 +24,7 @@ I-Fd: compl.
 
 I-MOc: C.A.T.5.
 
-l-de: C.A.B.
+I-de: C.A.B.
 
 1537 - DE MACQUE lean (1583) - Madrigali :\ cinque voci novamente posti in
 "luce. In Venetia, appresso Angelo Cardano, 1583.

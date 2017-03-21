@@ -4,7 +4,7 @@ sei voci. Di nuovo ristampati. In Venetia appresso Angelo Gardano. 1592.
 
 6 fasc. in 8° obl. (C.A.T.B.5.6.), pag. 23. Indice = 1569.
 
-l-Rsc: T.B.5.6.
+I-Rsc: T.B.5.6.
 
 787 - DE MONTE Filippo (1569) - Di Filippo Di Monte maestro di capclla
 della S.C. maestà dell'imperatore Massimiliano Secondo. Il Secondo Libro delli
@@ -24,7 +24,7 @@ Io son già stanco di pensar sì come (Petrarca) 9
 E che i piè miei non son fiaccati (seconda parte) " ...
 Aura soavc, che sì dolcemente (Mozzarella) "
 Al tristo suon ch'ogn'hor tra voi (seconda parte) " 12
-Marte supcrbo io reggio "
+Marte superbo io reggio "
 Correte, fiumi, a le vostre alte fonti (Bembo) ;;
 "
 
@@ -62,6 +62,6 @@ I-Bc: compl.
 
 I-de: compl.
 
-l-Rsc: compl. (2° esempi.: B. mane. di pag. 1-8).
+I-Rsc: compl. (2° esempi.: B. mane. di pag. 1-8).
 I-Vnm: compl. (prov. Heyer).
 

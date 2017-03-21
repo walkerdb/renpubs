@@ -1,11 +1,11 @@
 783 - DE MONTE Filippo (1574) - Di Filippo Di Monte maestro di capella
-della S.C. maestà dell'imperatore Massimiliano Secondo. ll Primo Libro, delli
+della S.C. maestà dell'imperatore Massimiliano Secondo. il Primo Libro, delli
 Madrigali, a sei voci. Nuovamente ristampato. In Vinegia. Appresso l'herede di
 Girolamo Scotto. 1574.
 
 6 fasc. in 8° (C.A.T.B.5.6.), png. B. Indice : 1569.
 
-l-VEaf : compl.
+I-VEaf : compl.
 
 D-Dl: compl.
 
@@ -13,7 +13,7 @@ I-MOc: C.A.T.B.5.
 
 GB-Lbm: C.A.T.B.5.
 
-l-Rsc: A.T.B.5.6.
+I-Rsc: A.T.B.5.6.
 
 I-Bc: A.
 
@@ -28,9 +28,9 @@ nymo Scotto. 1582.
 
 6 fasc. in 8° (C.A.T.B.5.6.), png. 23,(1). lndìcc = 1569.
 
-l-MOc: compl.
+I-MOc: compl.
 
-l-de: compl.
+I-de: compl.
 
 D-Mbs: compl.
 
@@ -38,11 +38,11 @@ GB-Lbm: compl.
 
 PL-GD: compl.
 
-l-Sd: C.A.B.5.6.
+I-Sd: C.A.B.5.6.
 
 I-Bc: C.A.B.5.
 
-l-Nc: C.A.5.6.
+I-Nc: C.A.5.6.
 
 E-TZ: C.A.B.
 
@@ -52,7 +52,7 @@ A-Wn: C.
 
 I-Rsc: C.
 
-l-Vnm: A. (2. copie, una di pm" Canal).
+I-Vnm: A. (2. copie, una di pm" Canal).
 F-Pc: A.
 
 F-TLm: A.
@@ -61,7 +61,7 @@ F.-Pa: T.
 
 F-Pn: B.
 
-l-Rc: B.
+I-Rc: B.
 
 D-Rp: B. (prov. Haberl).
 US-BE: S.

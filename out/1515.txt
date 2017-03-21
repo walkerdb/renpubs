@@ -1,6 +1,6 @@
 Fontana di dolore, albergo d'ira (Petrarca) 6
 
-Datemi pace, 0 duri miei pensieri. Sonetto " 7
+Datemi pace, o duri miei pensieri. Sonetto " 7
 Mentre la prima mia novell'ctade 8
 Mia benigna fortuna e'l viver lieto (Petrarca) 9
 Crudele, acerba, inexorabil morte (seconda parte) " 9
@@ -11,7 +11,7 @@ Da l'empia gelosia (quarta parte) 12
 Sì mi vince tal'hor (quinta parte) 13
 O effetto rio, che'l più felice (sesta parte) 14
 Amor, non volev'io (settima parte) 15
-Non mi sferr'il crude] (ottava parte) 16
+Non mi sferr'il crudel (ottava parte) 16
 Poi che la vista del mio caro (nona parte) 17
 10 non ho lingu'e senza gl'occhi (decima parte) 18
 L'alta cagion del mio fermo (undicesima parte) 19
@@ -20,7 +20,7 @@ Fuggir devriassi se fuggir (tredicesima parte) 21
 Satio di tormenlarm'amore (quattordicesima parte) 22
 
 D-Usche: compl.
-l-VEaf : C.A.B.
+I-VEaf : C.A.B.
 I-Bc: T.
 
 RISM, 1 1557-24.
@@ -47,7 +47,7 @@ lligentia ristampata. A quatro voci. Con gratia et privilegio. In Venetia appres
 
 li figliuoli di Antonio Gardano. 1571.
 ' fm in 8° obl. (C.A.T.B.), pag. zz. Indice = 1557.
-l-Tn: compl.
+I-Tn: compl.
 
 A-Wn: compl.
 D-M\7os: compl.

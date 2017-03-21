@@ -11,21 +11,21 @@ A 6. Es lan grave mt (lolor ſſ\' lan cslrano cl lormcnlo ?]
 " " Sommo Signor L Dio. m'llavrai scmpr'in oblio. Canzon (Fiamma) 26
 " " Andrà scmprc sì alli-cm il mio nemico (seconda stanza) " 26
 " " Fa che'l mio (lun) sccmpin non faccia (terza slanza) " 27
-" " lo dalla mia viriuu: non spcro hai-cr (quarta stanza) " 28
+" " lo dalla mia viriuu: non spero hai-cr (quarta stanza) " 28
 " " Quando havra gioia ; pace l'alma (quinta stanza). " 9
 A ll. MiraCol novo. ()\"è tua luc'o sole? Titon, m-'hai sparita. Primo coro _;(1)
 " " Da noi è (liparlila. Secondo coro
 
-l-MOc: compl.
+I-MOc: compl.
 
 D-Kl: compl.
 
 D-Mbs: compl.
 
-l-Ls: C. (solo pag. 3-6), _-\.'l'.5.6.
-l-VEaf: C.S.
+I-Ls: C. (solo pag. 3-6), _-\.'l'.5.6.
+I-VEaf: C.S.
 
-l-Fn: C.
+I-Fn: C.
 
 I-Bc: A.
 
@@ -40,7 +40,7 @@ appresso l'hercde di Girolamo Scotto. 1583.
 
 6 fasc. in 8° (C.A.T.B.5.6.), pag. 3l,(1). lndicc = 1579.
 
-l-Ls: compl.
+I-Ls: compl.
 GB-Lbm: compl.
 D-Mln: C.T.6.
 RISM. I 1533-20.

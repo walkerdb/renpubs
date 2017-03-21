@@ -17,8 +17,8 @@ Piange madonna et io godo del pianto suo (Marino) 17
 Non è di gentil core chi non ardc (l'amorc (F. Degl'Atti) 18
 Occhi, fiamme del cor. stelle ch'adoro. Di Dome-niro Visconti 19
 Gia lagrimai d'amore e'n lunghi affanni 20
-l-Fn: compl.
-l-llc: C.A.B.5.
+I-Fn: compl.
+I-llc: C.A.B.5.
 F-Pn: T.
 
 RISM, ! l6l6-Zl.
@@ -36,7 +36,7 @@ Chi sete voi. che >aettat'a morte, occhi non già, ma strali - _ ;
 Quando mia cruda sorte mi ſè da voi partire (Guarini) 3
 lo t'amo e t'amerò mentr'harò vita 4
 Ah dispietat'e l'era. dite perchè piangete ' - 5
-La mia leggiadra Filli, col piant'in pcrl'aceolto, l-agnava i vaghi hor 6
+La mia leggiadra Filli, col piant'in perl'aceolto, l-agnava i vaghi hor 6
 
 O com'in van credei passar l'hnre tranquille
 Non già con ncv'algenle si spegne, o donna
@@ -44,8 +44,8 @@ Non già con ncv'algenle si spegne, o donna
 (Marino) 7
 (Guarini) 8
 
-Tu parti a pena giunto, fuggitivo crude] 9
-Quando l'alba novella s'adorna'l crin di rosc 10
+Tu parti a pena giunto, fuggitivo crudel 9
+Quando l'alba novella s'adorna'l crin di rose 10
 Mira, cor mio, deh mira come d'orrido \'elo eoliano) 11
 Questi leggiadri, odorosetti fiori fur già ninfe e pastori ( 11
 Ohimè tu piangi, o Filli, et io del tuo languir 13

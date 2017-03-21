@@ -16,7 +16,7 @@ Prendi, vaga Licori. Dona una rosa H
 L'aura de merli tuoi. A Massimiliano Ernesto, arciduca d'Austria 15
 Ecco di mill'e mille. E corone e trionfi. A Massimiliano Ernesto, arciduca d'Austria 16
 lo moro, ecco ch'io moro. Bacio chiesto con arguzia nella partenza 17
-l-Fn: compl.
+I-Fn: compl.
 
 I-Nc: compl.
 GB-Lbm: C.A.T.B.
@@ -30,12 +30,12 @@ centi. 1612. -
 
 3 fasc. in 8° (C.l°, C.2°, B.), pag. 21,(1). Ded. a Tranquillo Negri d'Albona: "Questa Ghirlanda,
 che di varij fior quest'anni passati da Scherzo tessei, solo per mia ricreatione, e dilctto, sonandolâ
-tal volta nel Liuto, nella Cetra, et in altri strumenti... per lc cortesic ch'io in casa sua h
+tal volta nel Liuto, nella Cetra, et in altri strumenti... per le cortesic ch'io in casa sua h
 ricevuto, e da lei, e dalli Signori Marcliiò, et Horatio suoi fratelli... com'anco quelle del SiS"or
 suo Padre, e del Signor Capitan Gio: Battista suo Zio... Venetia, 10 I 1612".
 
 Vedove sconsolate in bruna veste, tutte dolenti e mestc. Vedove sconsolatc. ;
-O che pena, 0 che dolore, o ch'affanno habbiamo al core. Donne mal maritate 3
+O che pena, o che dolore, o ch'affanno habbiamo al core. Donne mal maritate 3
 Noi siamo tre cantori, ch'andiam sempre cantando. Cantori sventurati '
 Noi siam spose contente, donne, come vedete, ch'andiam. Spose contente 5
 Ohimì- Dio, chi mi soccorrc da quest'empi e rei villani. Villani ch'hanno legata la crcanza
@@ -48,6 +48,6 @@ Con quel vostro chiù chiù a fè, cor mio, non canterete più. Gobbi 11
 All'insalata, o donne. Ecco a voi de nostri orti portiam. Ortolani 12
 
 ' ' ' ore
-Amor con ogn'impcrio e gran possanza s'e mosso con furor. Cavallero assaltato d am 13
+Amor con ogn'imperio e gran possanza s'e mosso con furor. Cavallero assaltato d am 13
 O donna, ch'al mio danno i ciel ti denno le belle trezzc. Poeti btschizzantl
 

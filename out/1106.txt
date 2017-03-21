@@ -5,11 +5,11 @@ gna per Giacomo Monti. 1680. Con licenza de' Superiori.
 
 4 fasc. in 8° (C.l°, C.2°, B., Bc.), pag. 44.
 
-A Z. Non mi lusingar più, cieco mondo 2. Canti (Benigni) 4
+A 2. Non mi lusingar più, cieco mondo 2. Canti (Benigni) 4
 " " Fino a quando, cgri mortali " " 8
 " " A che pensi, mio core C. (: A. IZ
 A 3. Crudelissimi chiod'ingiusti e fieri C.T.B. 16
-A Z. Chi trovato havesse un core C. e A. 18
+A 2. Chi trovato havesse un core C. e A. 18
 " " A1 penlirsi, o mio cor C. e B. 23
 " " Spuma il giorno in oriente e superbo " " " (Benigni) 23
 A 3. Forsennata humanità 2 C. e B. 33
@@ -17,19 +17,19 @@ A 3. Forsennata humanità 2 C. e B. 33
 " " Ecco, popolo mio, come trattasti tu :\.TB. '"
 I-Bc: compl
 
-l-Bof: compl
+I-Bof: compl
 
-l-Fc: compl
+I-Fc: compl
 
-l-Ls: compl.
+I-Ls: compl.
 
 I-MOe: compl.
 
-l-Sd: compl.
+I-Sd: compl.
 
 F-Pn: compl
 
-l-FEc: C.1°.
+I-FEc: C.1°.
 
 I-Rsc: Bc.
 

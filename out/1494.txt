@@ -13,7 +13,7 @@ Così gl'aﬄitt'e stanchi pensier miei (seconda parte) " B
 D-As: compl.
 E-V: compl.
 YU-Lu: compl.
-l-Fr: C5.
+I-Fr: C5.
 
 2397 - (De) RORE Cyprien (1563) - Di Cipriano Rore il Primo Libro dc
 Madrigali cromatici a cinque voci novamente con ogni diligentia ristampato.
@@ -26,7 +26,7 @@ F-Plhibaull: compl.
 GB-Lbm: compl.
 A-Wn: C.A.B.5.
 I-VCd: C.T.B.5.
-l-Rn: A.B.5.
+I-Rn: A.B.5.
 D-Rp: ABS.
 F-Pm: 5.
 
@@ -36,11 +36,11 @@ netia, apprcsso Francesco Rampazetto.
 
 5 fasc. in 8° nhl. (C.A.T.B.5.), pag. 39. Indice = 1544-2.
 
-l-VEcap: compl.
+I-VEcap: compl.
 GB-Lbm: T.5.
 
 2399 - (De) RORE Cyprien (1576) - Di Cipriano de Ikaro-il Primo'Libromîìl,e
-Madrigali cromatici a cinque voci novamente con ogm diligentia ristamp -
+Madrigali cromatici a cinque voci novamente con ogni diligentia ristamp -
 A cinque voci. In Venetia appresso Angelo Gardano. 1576.
 
 S l'.-nc. in 8° obi. (C.A.T.B.5.), pag. 39. Indice = 1544-2.

@@ -15,10 +15,10 @@ A 4. Piangete, occhi miei lassi, e intenerit'il core di colei che s'indura 1
 " " In dolci lacci e in soave foco 8
 " " Ahi tu parli, o mio bene, io qui rimango 9
 " " Nel tuo bel sen si strugge, () bella Filli, il core 10
-" " O dolcezze amarissimc d'amore, quant'è pur duro perderti (Guarini) "
+" " O dolcezze amarissime d'amore, quant'è pur duro perderti (Guarini) "
 " " Qui pur vedroll'al suon (seconda parte) " 11
 " " O lungamente sospirato invano (terza parte) " U
-" " Vaghc luci amorosc, moro s'io non vi miro "
+" " Vaghc luci amorose, moro s'io non vi miro "
 " " Mia vita s'egli è vero ch'altra che voi 15
 " " Dolccmente dormiva la mia Clori e'ntorno al suo bel volto (Tasso) 16
 " " Cor mio, mcntrio vi miro visibilmente mi lrasform'in voi (Guarini) 17
@@ -26,8 +26,8 @@ A 4. Piangete, occhi miei lassi, e intenerit'il core di colei che s'indura 1
 " " Ed è pur ver ch'io parta, o m'allontani (la quei sereni rai 19
 A 8. Amor, se pur (leggio morir senza pietà del dolor mio. Dialogo 20
 
-l-VEcap: compl.
-l-Rsc: C.
+I-VEcap: compl.
+I-Rsc: C.
 
 2445 - ROSSI Salomone (1600) - Il Primo Libro de Madrigali a cinque vou,
 di Salamon Rossi hebrco con alcuni di detti Madrigali per cantar nel Ghrnarone,
@@ -59,5 +59,5 @@ A 5. Pur venistl, cor mio, e pur tho qui presente e pur ti veggto (Guann) 2
 " " Dolori amari e soli, pianti, sospiri (seconda parte) H
 
 . . . . . . . uni-ini)
-" " Ohimè se tanto amate d| sentir dir chime. Per ll Chittaronc (G
+" " Ohimè se tanto amate d| sentir dir chime. Per il Chittaronc (G
 

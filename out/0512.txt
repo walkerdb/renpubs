@@ -13,12 +13,12 @@ PL-GD: compl.
 I-Bc: C.T.B.5.
 I-Rc: C.B.5.
 
-l-Fr: A.5.
+I-Fr: A.5.
 
 I-Oc: A.B. (difettosi)
 US-BE: C.
 F-TLm: A.
-l-MOc: B.
+I-MOc: B.
 
 772 - De MONTE Filippo (1586) - Di Filippo De Monte maestro di capclla
 della sacra cesarea maesta de l'imperatore Rodolfo Secondo. L'Undecimo Libro

@@ -4,7 +4,7 @@ I-Bc: compl.
 I-Rli: compl.
 I-Rv: compl.
 
-l-MAC: B. (manc. di front.).
+I-MAC: B. (manc. di front.).
 
 1998 - NASCO Giovanni (1556) - Di Giovan Nasco, il Primo Libro, di Canzon
 villaneschc, alla napolitana, a quattro voci, novamente da lui composto, et con

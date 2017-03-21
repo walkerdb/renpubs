@@ -5,7 +5,7 @@ Venetia, appresso Alessandro Vincenti. 1627.
 
 5 fasc. in 8° (C.1°, C.2°, T.B.Bc.), pag. Z9,(1). Indice = 1625.
 
-l-VEaf: compl.
+I-VEaf: compl.
 I-Bc: T.E.Bc.
 GB-Lbm: B.Bc.
 
@@ -37,7 +37,7 @@ A 2. Stringimi quanto vuoi, bella nemica. Doì C. o T.
 " " Tu pur mi fuggi, Clori, ma fuggi quanto sai - 9
 " " Ch'io mora, ohimè ch'io mora. C. o T. e B. (Marmo) lll
 A 3. Ecco Filli, cor mio, ecco mi parto ohimè. CA. e T. , - lì
-" " Sc gl'occhi voslr'io miro, donna, m'ahbaglio. Doi C. 0 T. e l-l. \Mﬂſlno) 13
+" " Sc gl'occhi voslr'io miro, donna, m'ahbaglio. Doi C. o T. e l-l. \Mﬂſlno) 13
 " " Premevo un giorno alla mia Filli il piè ed ella 16
 " " Vanne, mesto sospir, nuntio d'amore, alla fera cagion - 16
 A 4. Se già t'amai, crudele, hora l'odio e disprezzo. C.A.T.B. (Ga...) "
@@ -49,5 +49,5 @@ A 4. Se già t'amai, crudele, hora l'odio e disprezzo. C.A.T.B. (Ga...) "
 [C.A.T.B. con doi Violini
 
 1-MAC: compl.
-l-VEaf: compl.
+I-VEaf: compl.
 

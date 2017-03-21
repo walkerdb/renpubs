@@ -9,11 +9,11 @@ A 12. Gabrieli Andrea - Ecco Vincgia bella 75
 " " Gabrieli Gioi/anni - Sacri di Giove augei, sacre fenici 76
 I-Bc: compl.
 
-l-Bsp: compl.
+I-Bsp: compl.
 
 1-BRd: compl.
 
-l-Sd: compl.
+I-Sd: compl.
 
 A-Wn: compl.
 
@@ -21,12 +21,12 @@ D-F : compl.
 
 D-Rp: compl.
 
-l-Vnm: C.A.T.B.5.6.7.8 9.10.11.
+I-Vnm: C.A.T.B.5.6.7.8 9.10.11.
 D-As: A.T.B.5.6.7.8.9.10.11.12.
-l-FEc: C.A.T.B.5.6.7.8.
+I-FEc: C.A.T.B.5.6.7.8.
 D-Mbs: C.A.T.B.S.6.
 
-l-MOd: A.B.6.9.11.12.
+I-MOd: A.B.6.9.11.12.
 
 US-Cn: T.
 

@@ -13,7 +13,7 @@ Stabile A. Vancggio, od è pur vero ch'io mi senta nel core 6
 Nanino G. M. Giocond'e crudo fato, chc'n si oscura 7
 " " n Amor, deh dimmi come sia nel cor di co...-tei l'orgogli'e'l 8
 Stabile A. D'amor le riche gemme, onde quasi 9
-Nanino G. M. Godeano in ciel fra le più chiare stcllc 10
+Nanino G. M. Godeano in ciel fra le più chiare stclle 10
 Non ti dolcr ch'il bel del par.-idi... (seconda parte) 11
 Stabil: A. Qunnd'io son tutto volto in quella parte (Petrarca) 12
 Così davanti ai colpi de la morte (seconda parte) " 13
@@ -25,13 +25,13 @@ Stabile A. Volete pur ch'io mora, o dolce mia nemica 17
 Nanino G. M. Aventuroso più d'ogni altro colle 20
 " " " Selva. che di concenti, piaceri e gioia 21
 I-Bc: compl.
-l-Bsp: compl.
+I-Bsp: compl.
 B-Br: compl.
 D-Mbs: compl.
 GB-Lbm: compl.
 GB-Lwa: compl.
 PL-GD: compl.
-l-Nc: C.A.B.5.
+I-Nc: C.A.B.5.
 Î-de: C.A.B.
 Î-VEaf: 5.
 
@@ -44,10 +44,10 @@ In Venetia appresso Angelo Gardano. 1587.
 5 fasc. in 8° obl. (C.A.B.T5.), pag. Zl,(1). Indice = 1581.
 
 I-Bc: compl.
-l-MOe: compl.
+I-MOe: compl.
 F-Pc: compL
 I*VCd: C.T.5.
 I-Rc: T.E.
-l-Fn: C,
+I-Fn: C,
 F-CC: C,
 

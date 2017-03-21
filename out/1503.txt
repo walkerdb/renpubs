@@ -16,7 +16,7 @@ Onde il bel nome vostro sovra l'ali (seconda parte) 39
 lle rime dolenti, ite sospiri del maggior rivo alle superbe sponde 40
 E se qualche pietà vi par l'inspiri (seconda parte) 41
 S'amor la viva fiamm'liomai non smorza, la qual tant'anni 42
-Novo consiglio, o dii del ciel, io cliieggio (seconda parte) 43
+Novo consiglio, o dii del ciel, io chieggio (seconda parte) 43
 Scarco di doglia e pien di gioia in vista 44
 Ma'l bel pensier che suo mal grand'ogn'hora (seconda parte) 45
 Di virtù, di costumi e di valore, d'honestà singular 46
@@ -25,9 +25,9 @@ O morte, eterno fin di tutt'i mali 48
 Alcun non può saper da chi sia amato quando ſclice'n su (Ariosto) 49
 I-Bc: compl.
 
-l-FEc: compl.
+I-FEc: compl.
 PL-Wn: C.A.S.
-l-Nn: A.
+I-Nn: A.
 
 2410 - (De) RORE Cyprien (1560) - Di Cipriano Rorc il Terzo Libro di Madri-
 gali dove si contengono le Vergini, et altri Madrigali novamente con ogni diligentia
@@ -36,16 +36,16 @@ ristampato. A cinque voci. In Venetia appresso di Antonio Gardano. 1560.
 5 ſase. in 8° obl. (C.A.T.B.5.), pag. 45,(1). lndicc = 1552.
 
 I-Bc: compl.
-l-VBcap: compl.
+I-VBcap: compl.
 A-Wn: compl.
 D-As: compl.
 D-MbS: compl.
 F-Pthibault: compl.
 US'WC: compl.
 B-Br: C.A.5.
-l-Rn: A.B.5.
+I-Rn: A.B.5.
 D-RP: A.B.S.
-l-Fn: A.S.
+I-Fn: A.S.
 
 lſiV: B.
 

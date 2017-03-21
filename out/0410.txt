@@ -1,4 +1,4 @@
-S'hoggi son scnz'honor le nostre sponde 3
+S'hoggi son senz'honor le nostre sponde 3
 
 S'oggi s'acheta ogn'amoroso accento (seconda parle) 'l
 O ſoll'e miser ben ch'a giuramenti crede di donna 5
@@ -39,7 +39,7 @@ D-Mbs: compl.
 D-Rp: A.B.5.
 F-Pn: C.
 I-Bc: T.
-l-MOc: B.
+I-MOc: B.
 
 606 -- CONTINO Giovanni (1560) - Di Gioan Contino il Primo Libro de' Madﬂ'
 gali a cinque voci: mastro della musica del duomo di Brescia. In Vincglan aPPresso

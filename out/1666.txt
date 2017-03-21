@@ -8,7 +8,7 @@ GB-Lbm: compl.
 
 US-R: compl.
 
-l-Rn: 5.
+I-Rn: 5.
 
 RISM. ] 1564-19 (non campi.).
 
@@ -22,15 +22,15 @@ gionta ristampato. In Vinegia 1566. Appresso Girolamo Scotto.
 
 D-Mbs: compl.
 
-l-Vnm: C.T.B.5.
+I-Vnm: C.T.B.5.
 
 I-Bc: C.A.
 
 GB-Lbm: T.E.
 
-l-\'e (anrcfmncn): A.
+I-\'e (anrcfmncn): A.
 
-l-Tn: 5.
+I-Tn: 5.
 
 RISM. | 1566-21 (non Cnmpl.).
 

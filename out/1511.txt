@@ -17,7 +17,7 @@ A 5. Fem gentil, che con leggiadro nodo 9
 
 D-Rp: compl.
 I-Bc: C.A.B5.
-l-VEaf : C.A.T.
+I-VEaf : C.A.T.
 B-Br: C.
 
 1-Rsc: S.
@@ -49,7 +49,7 @@ A 5. Alma Susanna, ben felice è il core 7
 " " Amor, che t'ho fatt'io et a mia div'insieme 14
 " " Poi che m'invita amore a lagrima: 15
 " " Candido e vago fiore 16
-" " Da lc belle contrade d'oriente 17
+" " Da le belle contrade d'oriente 17
 " " E sc pur mi mamicnc amor 18
 " " Alma real, se come fida stella 19
 " " Rex Asiac ct Ponti poluit ccleberrimus olim 20

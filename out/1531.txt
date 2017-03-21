@@ -10,7 +10,7 @@ A5. Lidia, i' li veggio pur. Clic vale i rai (Marino) 13
 A 8. Filli, ai baci m'inviti. Dialogo (Marino) 20
 " " Temi non forse (seconda parte) " 21
 
-l-FEc: Bc (con i soli incipit dei testi).
+I-FEc: Bc (con i soli incipit dei testi).
 
 2457 - ROSSO Giovanni Maria (1567) .. Madrigali a quatro voci di Gio. Maria
 Rosso maestro di capella del duomo di Mantova novamente posti in luce da
@@ -46,7 +46,7 @@ A 4. Vorrei, donna, scoprirvi qual sia il foco che m'ard'e'l fire 1
 " " Mi converrà morire se pietosa di me, dolce mia vita 18
 " " Tosto che gli occli'appersi nel vostro bianco sen 19
 A 3.- Che fai hora, cor mio. Dialogo 2-0
-l-Vnm: C.T.B.
+I-Vnm: C.T.B.
 
 (De la) ROTA Adriano
 Cfr.: DELLA ROTA Adriano.

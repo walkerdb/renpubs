@@ -5,14 +5,14 @@ Se ciò non basta a mi (seconda parte) " 31
 
 I-Bc: compl.
 I-MOc: compl.
-l-Nc: compl.
+I-Nc: compl.
 A-Wn: compl.
 D-Kl: compl.
 D-Mbs: compl.
 Pl.-GD: compl.
 GB-Lbm: C.T.B.5.
-l-Oc: A.T. (difettosi)
-l-Rsc: C.
+I-Oc: A.T. (difettosi)
+I-Rsc: C.
 
 US-BE: C.
 F-TLm: A.
@@ -22,7 +22,7 @@ della 8.0. maestà dell'imperadorc Rodolfo Secondo il Decimo Libro delli Madriga
 a cinque voci. Novamente posti in luce. In Vincggia, appresso l'hcrcde di Giro-
 lamo Scotto. 1581.
 
-Sfax. in 8° (C.A.T.B.5.), pag. 31. Ded. a Rodolfo Il: " ...Ho cercato et cerco tuttavia co] variar-
+Sfax. in 8° (C.A.T.B.5.), pag. 31. Ded. a Rodolfo Il: " ...Ho cercato et cerco tuttavia col variar-
 
 stile dar qualche contento :\ quelli a chi havessero poco piaciuto l'altre mie compositioni...
 ""-'na. 26 VI 1581 ".
@@ -50,7 +50,7 @@ SÉ'PIO. l'acerbo caso onde'l lucido sol de giorni tuoi 22
 Già havea l'eterna man d'ogni sua stella fatto il sereno cicl 24
 l'arca dicesse con aperte braccia (seconda stanza) 25
 
-Et pcrch'ìo torni a le mie usate pene (terza stanza) 26
+Et perch'ìo torni a le mie usate pene (terza stanza) 26
 Credei, mentre io dormia (quarta stanza) 27
 Nasa: il gran piacer mio da van gioire (quinta stanza) 28
 

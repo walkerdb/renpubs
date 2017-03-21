@@ -1,6 +1,6 @@
 GB-Lbm: C.A.
 PL-WRu: T.B.
-l-Rc: C.
+I-Rc: C.
 US-Cn: A.
 I-Bc: T.
 
@@ -32,7 +32,7 @@ impressione. In Venetia appresso Angelo Cardano. 1595.
 4 fasc. in 8° (C.A.T.B.), pag. ZI,(I). Ded. :| Camillo Pellegrini, Venetia, 10 VI 1595-
 lndice = 1580.
 
-l-PAc: compl.
+I-PAc: compl.
 D-Rp: C. (prov. Haberl).
 
 2807 - VECCHI Orazio (1602) .. Canzonette di Horatio Vechii (la MQOÎÌÎÎ

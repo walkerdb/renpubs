@@ -9,10 +9,10 @@ et osservanza di parole sono ammirabili, et con la medesima confidenza, che hebb
 gl'ho dati alle stampc per il Terzo Libro. Ferrara, 19 "I 1595 "
 
 A 5. Voi volete ch'io mora, nè mi togliete ancora (Guarini) 1
-" " Moro 0 non moro homai (seconda parte) " 1
+" " Moro o non moro homai (seconda parte) " 1
 " " Ahi disperata vita. che fuggend'il mio bene 3
 " " Languisco e moro, ahi cruda, ma tu, fera cagion de la mia sorte 4
-" " Del bel de bei vostr'occhi vissc questa alma (Tasse) 5
+" " Del bel de bei vostr'occhi visse questa alma (Tasse) 5
 " " Ahi dispietata e cruda, dite perchè pingente 6
 " " Dolce spirto d'amore in un sospir accolto (Guarini) 7
 " " Sospirava il mio core, per uscir di dolore, un sospir 3
@@ -24,18 +24,18 @@ A 5. Voi volete ch'io mora, nè mi togliete ancora (Guarini) 1
 " " Crudelissima doglia, allor che più gioisco, a lagrimar m'invoglia 14
 " " Se piange, ahimè, la donna del mio core 15
 " " Ancidetemi pur, gricvi martiri, che'l viver sì m'annoia 16
-" " Se vi miro pietosa, 0 bel idolo mio, vive il mio con: 17
+" " Se vi miro pietosa, o bel idolo mio, vive il mio con: 17
 " " Deh se già fu crudele al mio martire - _ 18
 " " Dolcissimo sospiro, ch'esci da quella bocca (Rinuccinl) E
 
 A 6. Donna, se m'ancidete, la mia vita sarete
 
-l-Nc: C.A.
+I-Nc: C.A.
 
 1164 - GESUALDO Carlo (1603) - Madrigali a cinque voci. Libro Terzo. Nova-
 mente ristampato. In Venetia. Appresso Angelo Gardano. 1603.
 
-5 fasc. in 8° (C.A.T.B.5.), pag. 20. Bed. e Indice = 1595.
+5 fasc. in 8° (C.A.T.B.5.), pag. 20. Ded. e Indice = 1595.
 F-Pc: compl.
 GB-Lbm: compl.
 
@@ -45,7 +45,7 @@ I-de: ABS.
 1165 - GESUALDO Carlo (1604) - Madrigali a cinque voci. Libro Terzo. Nova-
 vente ristampato. In Venetia. Appresso Angelo Gardano. 1604.
 
-5 fasc. in 8° (C A.T.B.5.), pag. 20 Bed. e Indice = 1595.
+5 fasc. in 8° (C A.T.B.5.), pag. 20 Ded. e Indice = 1595.
 Un esemplare compl. esisteva nella Biblioteca Borghese di Roma.
 
 ._.746-

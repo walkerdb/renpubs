@@ -39,7 +39,7 @@ PL-LEtpn: A.
 
 RISM, I 1601-12 (non compl.).
 
-1647 - MARENZIO Luca (1581) - Di Luca Marcnzio maestro di capella
+1647 - MARENZIO Luca (1581) - Di Luca Marenzio maestro di capella
 dell'illustrissimo et reverendissimo signor cardinale d'Este. 11 Primo Libro de
 Madrigali a sei voci novamente composti, et dati in luce. In Venetia appresso
 Angelo Gardano.
@@ -54,9 +54,9 @@ Venetia, 10 IV 1581.
 " " Qaul vive salamandra in fiamma ardente e ne gioisce poi 5
 " " Ben mi eredetti già d'esser felice da prim'entrando (V. Quirino) 6
 " " Mentre fia caldo il sol, fredda la neve, humid'il mar 7
-" " Al suon de le dolcissimc parole et agl'ultimi accenti 8
+" " Al suon de le dolcissime parole et agl'ultimi accenti 8
 " " Nel più fiorito aprile cantano in vario suon dolc'e gentile 9
-" " O dolorosa sorte, lc lagrime e i sospir non mi dan morlc (Quirino) 10
+" " O dolorosa sorte, le lagrime e i sospir non mi dan morlc (Quirino) 10
 " " Ahimè mi fu d'amore e l'esca : l'amo " 11
 
 - 1021 -

@@ -2,7 +2,7 @@ Picciola Verga e bella d'allora trionfale, cresci a la pianta. Sopra il Lauro se
 A te pur ceda d'Anfion la lira al suon, d'Orfeo e d'Arione il canto. A Luzzascho Luzzaschi 22
 Meraviglia non è dunque se fai parer (seconda parte) 23
 
-l-MOe : compl.
+I-MOe : compl.
 I-VEaf: compl.
 
 AGOSTINI Paolo
@@ -43,7 +43,7 @@ F.-Pthibaulc : compl.
 33 _. AICHINGER Gregor (1603) - Ghirlanda di Canzonette spirituali a tre voci
 di Gregorio Aichinger. In Augusta appresso GIO. Pretorio. 1603,
 
-3 fasc. in 8° (C.T.B.), pag. 21. Ded. a Iacomo Fuccari l?arone di Kirchpcrg et WCÌSScnhorn etc.
+3 fasc. in 8° (C.T.B.), pag. 21. Ded. a Iacomo Fuccari l?arone di Kirchperg et WCÌSScnhorn etc.
 Preposito di Costanza et Canonico di Ratispona: "...la, della quale son servitore già un gran
 tempo... Augusta, 14 IX 1603 ".
 

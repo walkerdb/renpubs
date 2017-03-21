@@ -24,7 +24,7 @@ A 4. Miscro, clic far deggio? La mia donna di me si prende gioco 1
 " " Si mi diceste et io quel dolcissimo si mandai al core (Guarini) 4
 " " Chi provato non ha la gelosia, non può saper che cosa sia dolore S
 " " Non son le fiamme spente, ninfa, come credete che vicino e lonlan 6
-A 5. Del profond'ocean nell'ampio seno ascoso, il so] di vivi raggi 7
+A 5. Del profond'ocean nell'ampio seno ascoso, il sol di vivi raggi 7
 " " Già dal balcon dell'oriente al sole (seconda parte) 8
 " " La verginella Clori nel sen del caro Aminta dicea (lal duolo 8
 " " convien ch'ovunque sia sempre cortese sia un cor gentil (Ariosto) 10
@@ -33,7 +33,7 @@ A 5. Del profond'ocean nell'ampio seno ascoso, il so] di vivi raggi 7
 " " Fate che lo mio cor sia alberg'et stanza (seconda parte) 13
 " " Sì pietoso m'apparve alla sembianza il caro idolo mio 14
 " " Crudel silentio e rio, che tal m'annuntii (seconda parte) ]S
-" " E questo il legno che del sacro sangue rispcrso fu (Sannazzaro) 16
+" " E questo il legno che del sacro sangue risperso fu (Sannazzaro) 16
 " " O pietà somma, o rara e nova legge (seconda parte) " ]7
 A 6. Lasciatemi morire, importuni sospir. ch'al miser core 18
 " " Poscia che mi si cela il mio bel sole da cui sperava ancora 19

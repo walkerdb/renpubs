@@ -35,7 +35,7 @@ GB-Och: compl.
 A-Wn: C.A.B.5.
 D-Rp: C.T.B.
 D-W: C.A.
-l-Vnm: C.
+I-Vnm: C.
 I-Rv: A.
 
 I-Vlb: B.

@@ -25,7 +25,7 @@ D-Bds: compl.
 
 I-Fr: C.5.
 
-l-Vc (Torrcfranca): A.
+I-Vc (Torrcfranca): A.
 NL-Dngn: T.
 
 F-Pm: 5.
@@ -40,7 +40,7 @@ Francesco Rampazctto 1566.
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. ZZ. lndicc = 1559.
 
-l-Rsc: compl.
+I-Rsc: compl.
 I-VEcap: compl.
 I-VCd: C.T.B.5.
 D-Bds: A.T.5.

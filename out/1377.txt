@@ -37,7 +37,7 @@ ZZ
 I-Bc: compl.
 
 D-WlL: compl.
-l-Vnm: C.T.B.
+I-Vnm: C.T.B.
 RISM, l 1530-11.
 
 2236 - PORDENON Mare'Antonio (1564) .- Di Marc'Antonìo Pordenon il

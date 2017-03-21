@@ -28,7 +28,7 @@ O csecrabile a\'aritia, ingorda (Ariosto) 29
 D-Mbs: compl.
 A-Wn: C.A.
 GB-Lbm: C.T.
-l-VEaf : A.T.
+I-VEaf : A.T.
 I-Nn: C.
 
 2010 - NATALI Pompeo (1656) - Madrigali a tre voci pare di D. Pompeo

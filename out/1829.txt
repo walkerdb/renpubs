@@ -13,7 +13,7 @@ L'aura mia sacra al mio stanco riposo " 21
 Ella si tac'e di pietà depinta (seconda parte) " 22
 Giunto m'ha amor fra belle e crude braccia " B
 Nulla posso levar (seconda parte) " 24
-Datemi pace 0 duri miei pensieri " 75
+Datemi pace o duri miei pensieri " 75
 ln te i sccrcti suoi messaggi (seconda parte) " 25
 Per mezz'i boschi inhospiti e selvaggi " 27
 
@@ -33,9 +33,9 @@ Ridon bar per le piaggie herbette (Sesta parte) " 35
 
 I-Bc: compl.
 
-l-VEcap: compl.
+I-VEcap: compl.
 
-l-VCd: C.T.B.5.
+I-VCd: C.T.B.5.
 
 RISM. [ 1567-24.
 
@@ -58,7 +58,7 @@ ordinario et del Consiglio Scereto del Rc Catolico nello Stato di Milano, Bergam
 
 . ' ' 3
 A voi, Londonio, invio queste mie basse note. A Don .Antonio LondonioM 12 4
-Ne la dolce stagion di primavera scnza foglie vedrò. l'ìirlne dilTarqumia o a 5
+Ne la dolce stagion di primavera senza foglie vedrò. l'ìirlne dilTarqumia o a 5
 Sc fosse dolce il canto delle mie rauche note. A 'lal'clſim"a M° za
 
 - 1819 -

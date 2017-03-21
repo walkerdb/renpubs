@@ -21,7 +21,7 @@ NT.-At: T.
 
 F-Pthibault: B.
 
-l-Vnm: 5.
+I-Vnm: 5.
 
 1540 - DE MACQUE ]ean (1597) - Di Giovanni De Macque, il Terzo Libro de
 Madrigali a cinque voci. In Ferrara, per Vittorio Baldini, stampator ducale. 1597.
@@ -39,7 +39,7 @@ E s'alhor non si coglie sì che del mezzo (seconda parte) 8
 Il vezzoso Narciso per la sua crudeltate in varie tempre 9
 Di questi fior, ond'io ho pien il gremb'el seno. Iride bella 10
 
-Sian lc rose i rubini, perle i ligustri (seconda parte) 11
+Sian le rose i rubini, perle i ligustri (seconda parte) 11
 Corron d'argent'i fiumi, Zefiro dolc'e grato spira soave fiato 12
 Quel rossignol che plora sì dolcemente e tra le verdi fronde 13
 Non son questi sospir ardenti refrigerio del core, ma son 14
@@ -56,5 +56,5 @@ l vo\p|angcndo i mei passati tempi (Petrarca) 22
 
 Si che s'io viss'in guerra et in tempesta (seconda parte) " B
 
-l-MOe: C.T.B.5.
+I-MOe: C.T.B.5.
 

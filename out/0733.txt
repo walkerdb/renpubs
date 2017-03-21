@@ -16,7 +16,7 @@ Sciolto il vago crin d'oro a l'aur'assiso si slava il min 21
 Ninfe del mare. ninfe sorelle. Madrigale per musica 22
 La bella Clor'il mio conforto "(seconda parte) B
 D-Kl: compl.
-l-Nc: B.
+I-Nc: B.
 
 I_121 - GENVINO Francesco (1612) .- Madrigali a cinque di Francesco Genvino.
 Libro Terzo. In Napoli, apprcsso Gio. lacomo Carlino. 1612. Con licenza de'
@@ -48,7 +48,7 @@ Questa vermiglia rosa, ch'al matutino gielo spargc lieta 21
 lnterdette speranzc e van desio, pensier fallace (Sannazzaro) 22
 Sc natura vi pose nelle labra di rose quanto ha di dolce B
 
-l-Nc: C.A.T.B.
+I-Nc: C.A.T.B.
 
 _725_
 

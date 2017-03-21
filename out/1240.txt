@@ -6,11 +6,11 @@ A 6. Chi potrcbbc stimnr che le mie braccia (terza stanza) " 24
 n " Lasciat'hai, morte, senza sole il mondo. Madregale (Petrarca) 25
 " " Pianger l'aer e la terra (seconda parte) " 26
 " " Ite, rime dolenti, al duro snsso, Madregale " 27
-" " So] di lei raggionando (seconda parte) " 23
+" " Sol di lei raggionando (seconda parte) " 23
 A 7. Sutra, non sete voi la più bell'e gentil, che si.-i lra nni. Dialogo 29
 
 I-Vnm: compl.
-l-VEaf: A.T.B.5.6.
+I-VEaf: A.T.B.5.6.
 
 2003 - NASCO Giovanni (1562) - Le Canzon et Madregali a sei voci con uno
 Dialogo a sette di Giovan Nasco novamente per Antonio Gardano ristampate.
@@ -48,7 +48,7 @@ Deh hor foss'io col vago della lunga (Petrarca) 5
 
 Te mentre scherzi, fan le gratie adorna, te mentre ridi. Canznn 6
 Miser amante, da me fuggc'l riso (seconda parte) 6
-A le se canti son le musc intorno (terza parte) :
+A le se canti son le muse intorno (terza parte) :
 Mentre rivolgi gli occhi a me sdegnosa (quarta parte) 8
 Non è questa d'un fid'amante infelice (quinta parte) 9
 

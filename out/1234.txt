@@ -30,7 +30,7 @@ Sopra il vago Esquilin un tempio sorge 10
 Quivi che più di pura (seconda parte) :;
 
 Da bei vostr'occhi e dal soave riso nacqu'in me tal desirc
-Credete] voi, che non sentite amore, non si prova morire (Guarini) "
+Credetel voi, che non sentite amore, non si prova morire (Guarini) "
 Di Venere tentò gran tempo il figlio
 
 Ond'ci di sdegn'acceso a guerra (seconda parte)
@@ -53,7 +53,7 @@ F-Pc: compl.
 
 PL-GD: compl.
 
-l-Fn: C.
+I-Fn: C.
 
 F-CC: C.
 

@@ -15,7 +15,7 @@ A 6. Vergine bella, che di sol vestita, coronata di stelle (Petrarca) 1
 " " Vergine, tal'è terra e post'ha in doglia (ottava stanza) " 8
 " " Vergine, in cui ho tutta mia speranza (nona stanza) " 9
 " " Vergine humana ct nemica d'orgoglio (decima stanza) " 10
-" " ll dì s'appressa e non puot'esser lunge (undicesima stanza) " 11
+" " il dì s'appressa e non puot'esser lunge (undicesima stanza) " 11
 " " Solo e pensoso i più deserti campi vo misurand'a passi tardi " IZ
 " " Sì ch'io mi cred'homai che mont'e piaggie (seconda parte) " 13
 " " O di chiara virtut'albergo vero 14

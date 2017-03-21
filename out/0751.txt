@@ -11,8 +11,8 @@ Bcll'angioletta da le vaghe piume, prestanc al grave pondo (Tasso) 18
 Felice primavera de bei pensier fiorisce nel mio core " 19
 Danzan le ninfe honeste e i pastorelli (seconda parte) " 20
 Queste fur già ninfe e pastori "
-l-MOe: compl.
-l-Nc: CA.
+I-MOe: compl.
+I-Nc: CA.
 
 1154 - GESUALDO Carlo (1603) - Madrigali a cinque voci. Libro Primo nova-
 mente ristampato. In Venetia. Appresso Angelo Gardano. 1603.
@@ -25,7 +25,7 @@ GB-Oeh: compl.
 
 I-de: A.B.5.
 
-l-Fn: T.B.
+I-Fn: T.B.
 
 Un csempl. compl., ma difettoso, era nella Collezione Heyer di Koln.
 
@@ -34,7 +34,7 @@ mente ristampato. In Venetia, appresso Angelo Cardano, et fratelli. 1607.
 
 S fasc. 1" 8° (C.A.T.B.5.), pag. 20.(1). Ded. = 1594, ma datata: Ferrara, 10 V 1607.
 
-l-Nc: compl.
+I-Nc: compl.
 
 ["-Pc: compl.
 GB-Lbm: compl.

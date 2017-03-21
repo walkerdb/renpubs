@@ -10,7 +10,7 @@ A 6. Ben riconosco in voi (seconda parte) " 24
 " " ln un momento ogni mio ben m'hai tolto (seconda parte) " 26
 " " La rete fu di queste fila d'oro in che'l mio pensier (Ariosto) 27
 " " Mai non vo più cantar cnm'in solca (Petrarca) Z."
-l-Rsc: T.B.5.6.
+I-Rsc: T.B.5.6.
 
 GB-Lbm: C.
 
@@ -39,7 +39,7 @@ Ecco che pur. s'aggiorna. Non sempre è notte e le tenebre rie rischiara 12
 Era il giorno ch'al sol si scoloraro per la pietà (Petrarca) 13
 
 _Trovommi amor del tutto disarmato (seconda parte) " 14
-Ahi dispietata morte, ahi crude] vita, l'una m'ha posto in doglia " 15
+Ahi dispietata morte, ahi crudel vita, l'una m'ha posto in doglia " 15
 O pargoletti inusitati e novi, licti hor cantate in su le verdi fronde 16
 P'." solitari boschi alle dolce ombre viddi i bei lumi intorno rasserenarc 17
 Liquide perle amor dagli occhi sparse in premio del mio ardore (Sannazzaro) 18

@@ -10,9 +10,9 @@ A 3. Lacrimosa pietà, chi più consolami, bar che l'altrui dolor 22
 " " Godete, amanti, de vostri amori i dolci frutti appresso i fiori 23
 I-Bc
 
-l-Rvat (Barberini)
+I-Rvat (Barberini)
 
-l-Rvat (Capp. Giulia)
+I-Rvat (Capp. Giulia)
 
 B-Br
 
@@ -28,7 +28,7 @@ GB-Lcm
 US-Wc
 
 1362 - KAPSPERGER [ohannes Hieronymus (1619) - Libro Secondo di Villa-
-ncllc a 1. 2. et 3. voci. Con l'alfabeto per la Chitarra spagnola. Del Sig. Gio.
+nclle a 1. 2. et 3. voci. Con l'alfabeto per la Chitarra spagnola. Del Sig. Gio.
 Girolamo Kapspergcr nobile alemanno. Raccolte dal sig. Ascanio Ferrari. In Roma,
 appresso Gio. Battista Robletti. 1619. Con licenza de' Superiori.
 
@@ -53,7 +53,7 @@ A 2. Che fai tu, che di tu, vita mia? Per quai piagge a coglier fior 13
 A 1. Rigida Eurilla, che scintilla nel tuo cor d'amor non senti 15
 A 2- Con un dolente ohimè, Tirsi fermando il piè sovra l'avara tomba 16
 A 3. Gioite, gioite di mille tormenti, o voi che ferite con dardi possenti 17
-A Z. Per pietà delle mie pene il mio bene, il mio amor mi dona un fiore 18
+A 2. Per pietà delle mie pene il mio bene, il mio amor mi dona un fiore 18
 " " Belle ninfe al prato, al prato. Non tardate ecco l'aurora 19
 " " Non sa che sia dnlor chi non ha'l mal d'amor 20
 

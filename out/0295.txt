@@ -1,9 +1,9 @@
-A 1. Io reggio i campi verdeggiar fecondi. Ottavc rom. 56
+A 1. Io reggio i campi verdeggiar fecondi. Ottave rom. 56
 
 . . . . . . - 58
-" " La pastorella mm fm ] fiori e ll giglio. Ottme rom. 62
-" " Rendi alle mie spcranze il verde e l hori. Ottave rom. 65
-" " Dov'io credea le mie speranze havere. Romanescn .
+" " La pastorella mm fm ] fiori e il giglio. Ottme rom. 62
+" " Rendi alle mie speranze il verde e l hori. Ottave rom. 65
+" " Dov'io credea le mie speranze havere. Romanesen .
 
 " " Laudate Dominum de coelis. Motetto
 
@@ -18,17 +18,17 @@ A 1. Io reggio i campi verdeggiar fecondi. Ottavc rom. 56
 
 " " lesu corona virginum. lnno
 
-A Z. S'io men vo morirò. Ahi crude] dipartita. Canzone-tm. C. e B. 85
+A 2. S'io men vo morirò. Ahi crudel dipartita. Canzone-tm. C. e B. 85
 A 1. Non so se quel sorriso mi scherni. Canzonetta 89
 " " Chi desia di saper che cosa è amore. CanZUncttn 90
 " " Che t'ho fatt'io che tanto brami. Canzonetta 91
-A Z. O vive rose, labbr'amorosc. Canzonettzi. C. e B. 92
+A 2. O vive rose, labbr'amorose. Canzonettzi. C. e B. 92
 A 1. Se muove a giurar fede. Canzonetm 94
 " " Ch'amor sia nudo e pur con l'ali :\ tergo. Canzoneun 95
-A Z. Freschc aurette, vezzosette. Canzonetta. C. e B. ' 96
+A 2. Freschc aurette, vezzosette. Canzonetta. C. e B. ' 96
 " " Dispicgate, guancic amate, quella porpora. Canzonettn (Cebu) 97
 " " O chiome belle, ch'all'aura sciolte. Cunzonctm 98
-l-Fn
+I-Fn
 
 I-MOe
 
@@ -40,7 +40,7 @@ sentativo da Giulio Caccini detto Romano. In Firenze appresso Giorgio Mare-
 
 scotti 1600.
 
-Vo]. in 8°. pag. Z, SZ. Ded. a Giovanni Bardi de Conti di Vernio: "Hai-endo io composto in
+Vol. in 8°. pag. Z, SZ. Ded. a Giovanni Bardi de Conti di Vernio: "Hai-endo io composto in
 musica in stilc rappresentativo la favola d'Euridice... In essa ella riconoscerà quello stile usato
 da me altre volte, molti anni sono... nell'Egloga del Sanazzaro "lten'all'ombra de gli ameni
 faggi", et in altri miei madrigali di quei tempi: "Perfidissimo volto", "Vedrò'l mio _Sol ",
@@ -48,10 +48,10 @@ faggi", et in altri miei madrigali di quei tempi: "Perfidissimo volto", "Vedrò'
 fioriva la Camerata sua in Firenze, discorrendo ella diceva insieme con molti altri nobili Vlr-
 tuosi, essere stata usata da gli antichi Greci nel rappresentare le loro Tragedie... Nella qual
 maniera di canto ho io usata una certa sprczzntum, che io ho Stimato, che habbia del nobile,
-Parcndomi con essa di essermi appressato quel più alla natura] fai-ella... lo era stato di parere
+Parendomi con essa di essermi appressato quel più alla natura] fai-ella... lo era stato di parere
 con l'occasionc presente di fare un discorso a i lettori del nobil modo di cantare, al mio giudizio
 il migliore... con la nuova maniera de passaggi e raddoppiate inventati da me i quali hora
-ad0pcra cantando l'opere mie già è molto tempo, Vittoria Archilci... riportando io per hora
+ad0pera cantando l'opere mie già è molto tempo, Vittoria Archilci... riportando io per hora
 questa sola sodisfazione di essere stato il primo a dare alla Stampa Simile sorte di canti, e lo
 Stile, e la maniera di cssì, la quale si vede per tutte l'altre mie musiche, che son fuori in penna,
 cOmposti da me più di quindici anni sono in diversi tempi... Firenze, ZO XII 1600 ".
@@ -60,11 +60,11 @@ I-Bc
 
 I-Fn: Z copie.
 
-l-Nc
+I-Nc
 
 I-Rsc
 
-l-Rvat (Barberini)
+I-Rvat (Barberini)
 
 I-Vnm: 2 copie (1 di prov. Canal, l'altra Heyer).
 A-Wn

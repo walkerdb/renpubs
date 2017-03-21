@@ -1,12 +1,12 @@
 A 5. O (lolcezz'amarizzime d'amore, quanto è più duro (seconda parle) (Guarini) 3
 " " Ma .se le mie speranze hoggi non sono (term parle) " 4
 " " E s'altri non m'inganna qui pur vedroll'al suon (quarta parte) " 4
-" " Oh lungamente suspiratn in vano, arcntumso dì (quinta parte) " 6
+" " Oh lungamente suspiratn in vano, arentumso dì (quinta parte) " 6
 " " Ahi come .soffrirò, dolce mia vita, che giacend'in braccio al mio 6
 " " Ancor che l'alto mio. nobil pensiero nodrisca questa mia dolente vita 8
 " " Scherza nel canto e piace madonna. Hor poggia, hor scende, hor con veloce 9
 " " Udite, lagrimozi \pirli d'Averno. udile nova zorte di pena (Guarini) 10
-" " La mia donna. crude] più de l'inferno (seconda parte) " 10
+" " La mia donna. crudel più de l'inferno (seconda parte) " 10
 " " Poi che vuole il ben mio che lontana da lui languizca e pianga 11
 
 " " Voi, nemica crudele di pielade e d'amor, quanto potete da me vi nascondete 11
@@ -22,14 +22,14 @@ A 5. O (lolcezz'amarizzime d'amore, quanto è più duro (seconda parle) (Guarini
 
 " " Ma grideran per me le piaggie e i monti (S'-"CO...la parte) " 18
 
-" " :\mnr. se non conscnli che quest'anima lrisla si pasca più (lcll'amnrosa vista 19
+" " :\mnr. se non consenli che quest'anima lrisla si pasca più (lcll'amnrosa vista 19
 A 7. Che fai alma? Deh che ti fa languir misera? 13131080 20
 
-l-lìc: cnmpL
+I-lìc: cnmpL
 
 Gn'LCm: compl,
 
-l-Ps: compl.. ma ſramm. (C. pag. 13-22; A. pag. 11-12 e 15-22; ſ. pag. 7-20; B, pag. 7-20;
+I-Ps: compl.. ma ſramm. (C. pag. 13-22; A. pag. 11-12 e 15-22; ſ. pag. 7-20; B, pag. 7-20;
 S' Pilg- 22) (L" cwmpL: C. A., solo pag. 20-21),
 
 GB-Lbm: A.".
@@ -44,9 +44,9 @@ Angelo Gardano. 1600.
 
 I-Bc: compl,
 
-l-Rc: T.li.
+I-Rc: T.li.
 
-l-Sd: T.
+I-Sd: T.
 
 Un ezempl. non compl. (C. e 5.) era nella Collemonc Heyer di Koln.
 

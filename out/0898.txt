@@ -14,7 +14,7 @@ A 7. Come falda di neve, che aggliiaceiata (Tansillo)
 
 D-Rp: compl. (B. difett.).
 D-Bms: C.l°, A.Z°, T.Z°, B.
-l-MOe: C.l°, C.Z°, T.Z°.
+I-MOe: C.l°, C.Z°, T.Z°.
 F-Pc: C.Z°, A.Z°.
 
 F-Pn: C.Z°, A.Z°.

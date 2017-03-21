@@ -1,4 +1,4 @@
-A8. ll tuo foco et li toi strali pieni, amor, son di dolcezza 28
+A8. il tuo foco et li toi strali pieni, amor, son di dolcezza 28
 A 4. Quattro siam qui che spolando, donne car'andiam del lino. Da spolatori de lino 30
 
 I-Bc: compl.
@@ -22,10 +22,10 @@ A 3. Ahi che mi manch'il core e sol per tua cagion. dolce'l mio amore. M.(a.rsim
 " " O che bel tiro star in martiro per maritatc. Il risoluto A.(ltnandro) 3
 " " Ballarestu Fantina, chi te fesse ballar? Ballarcve bcn mi. La Ball.-irina " 4
 " " Hor la bella Margherita a me vuol donar il core. L'Allegro " S
-" " Tu mi burli, o Margherita, ond'io vuò da te il mio cor. ll Borlato " 6
+" " Tu mi burli, o Margherita, ond'io vuò da te il mio cor. il Borlato " 6
 " " Sì dolcemente il core arde per vostro amore, che d'altro foco M.(am'miliano) 7
 " " Ahi si part'il cor mio e partendo mi lascia afflitt'e solo " 2
-" " Di chiribizzo e di caprizzo così d'humore a certe hore. ll Capriiioso A.(Ieuandro) 9
+" " Di chiribizzo e di caprizzo così d'humore a certe hore. il Capriiioso A.(Ieuandro) 9
 " " Chc pensi tu di far fuggend'a me, mancatricc di ſè. La Dcsdegnosa " 10
 
 " " L'anima mia dolente si vive in fiamma ardente. A Don Angiolo Maria da Ferrara
@@ -52,7 +52,7 @@ A 4. Vivete liete, cheti e soletti, ninfe e pastori. A Don Girolamo dal Finale M
 
 A 3. Donna, se struggì et ardi, io sento mille dardi. A Don Placido da Lodi A.(les.mndro) 25
 
-l-VCd : compl.
+I-VCd : compl.
 A-Wn : compl.
 RISM. I 1608-18.
 

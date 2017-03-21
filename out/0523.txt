@@ -4,9 +4,9 @@ ElR: Dm: compl.
 S-H: compl. (dilett.).
 GB-Lbm: C.A.T.B $.
 A-Wn: A.T.B.5.6.
-l-Mc: C.
+I-Mc: C.
 
-l-Oc: T. (diſ...).
+I-Oc: T. (diſ...).
 
 788 - DE MONTE Filippo (1571) - Di Filippo Di Monte, maestro della S.C.
 maestà dell'imperatore Massimiliano Secondo il Secondo Libro delli Madrigali, a
@@ -16,7 +16,7 @@ Scotto 1571.
 6 fasc. in 8° (C.A.T.B.5.6.), pag. 23. lndicc = 1569.
 
 GB-Ckc: C.
-l-Rsc: A.
+I-Rsc: A.
 GB-Lbm: 5.
 
 789 - DE MONTE Filippo (1576) - Di Filippo Di Monte maestro di capella
@@ -26,7 +26,7 @@ Girolamo Scotto. 1576.
 
 6 fasc. in 8° (C.A.T.B.5.6.)_ png. B. lndicc = 1569.
 
-l-Rsc: C.A.B.5.6.
+I-Rsc: C.A.B.5.6.
 F-Pa: C.
 GB-Lbm: C.
 I-Bc: A.
@@ -42,7 +42,7 @@ Girolamo Scotto. 1582.
 
 6 fasc. in 8° (C.A.T.B.5.6.), pag. 23. Indice = 1569.
 
-l-MOc: compl.
+I-MOc: compl.
 
 GB-Gu (Ge): compl.
 GB-Lbm: compl.

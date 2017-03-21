@@ -1,4 +1,4 @@
-Lesso, non so] ho tema d'un estremo dolore 3
+Lesso, non sol ho tema d'un estremo dolore 3
 
 A che tradirmi, ahi cruda; già si nega la fede per non mi dar mercede 4
 O stolta che tu [osti nel volermi lasciare 5
@@ -18,9 +18,9 @@ Amarillide mia, dirò mio sole, non che miei giorn'oscuri lB
 Deh com'in van chiedete d'udir, bella sirena'l canto mio (Guarini) 19
 O lungamente sospirato invano, aventuroso dì " 20
 Quando rident'e bella, più vaga d'ogni stclla. Madrigale per serenata 21
-l-Nc: compl.
+I-Nc: compl.
 GB-Ckc: C.
-l-Nf: B.
+I-Nf: B.
 
 811 _- DENTICE Scipione (1607) - Di Scipione Dentice, il Quinto Libro de
 Madrigali a cinque voci. In Napoli, appresso Gio. Battista Sottile, 1607. Con licenza

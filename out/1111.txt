@@ -8,9 +8,9 @@ A 4. Sospirava e spargea largo di pianto un fiume. Christo smarrito. Dialogo del
 " " O dio, chi mi nasconde. Lamento (lella B. Vergine. Dialogo del Cav. Marino 113
 I-Bc
 
-l-Rsc
+I-Rsc
 
-l-Rvat (Barberini)
+I-Rvat (Barberini)
 
 1-Sd
 
@@ -38,12 +38,12 @@ Cardinalis Barberini, nunc URBANI OCTAVI, a me mcdis musicis aplata, lypis permi
 nunc, paucis omissis, contractiorem (paulo etiam concinniorem) ut rursus ederem, facile suaserunt
 amicorum non pauci. quibus curae brevitas est. Si opus integrum, vel concincre. \'el audire,
 I'nalueris nihilo minus illud antea excumm habcre in promptu poteris. Hic adiunxi Dialogum
-cx Aeneidos Libro primo, qui in Dialogorum meorum \'olumine (lesiderabatur. Vale ".
+cx Aeneidos Libro primo, qui in Dialogorum meorum Volumine (lesiderabatur. Vale ".
 
 Pratereunt anni. T. Solo (Papa Urbano VIII, Barberini) 1
 Aeternum servans luno sub pectore vulnus. C.T.B. (Virgilio) 19
 
-l-RVat (Barberini)
+I-RVat (Barberini)
 
 1782 - MAZZONE Marco Antonio (1591) - Di don Marc'Antonio Mazzone
 di Miglionico il Primo Libro delle Canzoni a quattro voci, tra le quali molte ne

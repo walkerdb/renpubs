@@ -5,7 +5,7 @@ F-Pn: C.
 
 F-Pc: T.
 
-l-Rsc: B.
+I-Rsc: B.
 GB-Lbm: B.
 
 1701 - MARENZIO Luca (1596) - Il Quarto Libro delle Villanelle et Arie
@@ -18,7 +18,7 @@ D-Rp: compl.
 I-MAC: C.
 I-Fn: T.
 I-Bc: B.
-l-Rsc: B.
+I-Rsc: B.
 D-MZp: B.
 
 1702 - MARENZIO Luca (1600) - Il Quarto Libro delle Villanelle et Arie
@@ -34,7 +34,7 @@ Nuovo Titio son io, ch'in cibo il core do 5
 Stridc il lauro nel foco e'] suo bel verde 6
 Ardono di Sicilia i monti alti e riluccnli 7
 Filli ama Tirsi et arde e nol vuol dire e si sente morire 3
-Tirsi nel cor si scnte un foco così ardente 9
+Tirsi nel cor si sente un foco così ardente 9
 Clori, che col bel volto 10
 Non m'è grave il morire, Clori, per acquetar vostro desirc 11
 Da voi, mio ben, mia vita, di far lasso partita 11

@@ -21,7 +21,7 @@ A 5. Tutte le lingue insieme 1
 " " Ch'al bel animo (seconda parte) 2
 " " Una donna più bella assai che' sole (Petrarca) 3
 A4. Questa mia donna mi menò moll'unni (seconda parte) " 4
-A5. Ma non me] tolse la paura (terza pane) " 5
+A5. Ma non mel tolse la paura (terza pane) " 5
 A3. Rado fu al mondo fra emi gran turba (quarta pane) " 5
 A4. I' volea dir: quest'è impossibil cosa (quinta parte) " 5
 " " Ruppesi in tanto di vergogna il nodo (sesta parte) " 6

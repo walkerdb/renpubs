@@ -2,10 +2,10 @@ l-Vnm: C.T.B.5.
 
 B-Br: C.T.B.5.
 
-l-Be: C.A.
+I-Be: C.A.
 
 I-PS: A. (solo pag. 9-31).
-l-Rsc: C.
+I-Rsc: C.
 
 769 - DE MONTE Filippo (1586) _. Di Filippo di Monte maestro di capella
 della sacra cesarea maestà dell'imperatore Rodolfo Secondo. L'Ottavo Libro delli
@@ -52,7 +52,7 @@ Lagrime false, se voi molle foste (A. Terminio) 24
 Celar più non potcasi (seconda parte) " 25
 Chi crede, amor. de tuoi diletti ir pago e l'alma haver i:
 
-Di sì cocente fiamma m'acccsc il cor de bei vostri occhi
+Di sì cocente fiamma m'acccse il cor de bei vostri occhi
 
 -502-
 

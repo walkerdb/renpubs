@@ -1,6 +1,6 @@
 D-Bs: C.
 
-l-Vgc: A.
+I-Vgc: A.
 
 D-W: T.
 
@@ -14,7 +14,7 @@ novamente Stampati. Libro Primo. Con privilegio. In Venetia appresso Angelo
 Gardano 1589.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. ZZ. Ded. al Duca di Mantoa et di Monfcrato: " Gravissimo dolore
-io ricevei Sereniss. Sig. non esscndomi trovato in Correggio quando all'All. V. piacque di
+io ricevei Sereniss. Sig. non essendomi trovato in Correggio quando all'All. V. piacque di
 honorar questa Città con la sua presenza... Ma ez-sendomi poi rifcrito la singolar gratia fammi
 da V.A. d'udir benignameme, cc con qualche diletto parte della mia Musica, come ella si
 contenlò di darne segno cn'l comcttcrc che gliene ſosse inviato... Correggio, 20 Xl 1589".
@@ -35,7 +35,7 @@ Cara mia Dafne, a dio, disse partendo a l'apparir del solc
 
 O di rare eccellenze al mondo sola, sola dolce cagion del foco mio "
 Pasrorella gratiosella, s'io son il tuo pastore damm'un bacio 11
-Prccipitosc rupi e grott'oscure, spelnnch'opache et valli spaventose B
+Prccipitose rupi e grott'oscure, spelnnch'opache et valli spaventose B
 Udisti al centro mai stridi più chiari (seconda parte) 14
 Fera leggiadra, che coi lacci d'oro, così soave l'alma mi lcgasti 15
 Troppo lo stringe l'amorosa rete (seconda parte) 16
@@ -47,7 +47,7 @@ Ite, rime dolenti, al duro sasso, che'l mio caro (Petrarca) 20
 . . . . . . 21
 Quella ch'in mille selv'e in mille franc segurr mi fece (Sannazzaro)
 
-l-Nc: compl.
+I-Nc: compl.
 
 D-As: compl.
 

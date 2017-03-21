@@ -1,5 +1,5 @@
 US-NYp: C.A.T.
-l-Nc : B.
+I-Nc : B.
 
 2382 - (Dc) RORE Cyprien (1569) - Di Cipriano de Rore il Primo Libro de
 Madrigali a quattro voci, novamente per Antonio Gardano con ogni diligentia
@@ -30,7 +30,7 @@ GB-Lbm: compl. (2° esempi.: B.).
 1-Fr: C.A.B. (2° cscmp1.: C.A.).
 1-Bc: G.B.
 
-l-Vc (Torrcfranca): C.
+I-Vc (Torrcfranca): C.
 
 F-Pc: T. (solo pag. 1-7).
 

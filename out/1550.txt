@@ -1,6 +1,6 @@
 US-BE: C.A.5.
 I-Bc: A.B.5.
-l-Nn: A.
+I-Nn: A.
 I-VEaf: B.
 F-Pm: 5.
 RISM, I 1557-25.
@@ -50,7 +50,7 @@ lo chi con mille frodi m'ho difeso. Di Fr. Roue/Ii . - _ - D
 Pianget'occhi miei lassi, piangete il vosrr'errore. Di Andrea Gabriel! (POÌ'ZHM) 30
 Fugga'l dolor et l'intensi sospiri cangin albergo
 
-l-MOc: C.A.B.5.
+I-MOc: C.A.B.5.
 I-Rsc: A.T.B.
 RISM, I 1555-31.
 

@@ -17,7 +17,7 @@ Credete voi ch'io viva pascendo il cor famelico. Del sig. Bonini (Guarini) lB
 Giunt'è pur, Lidia, il mio, non so se deggia dire, o partir, o morire (Marino) 19
 Se nel partir da voi, caro mio bene, provo cordoglio e pene 20
 
-l-VEcap: compl.
+I-VEcap: compl.
 D-MUS: compl.
 RISM, l 1617-16.
 

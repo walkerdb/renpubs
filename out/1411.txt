@@ -27,7 +27,7 @@ D-Mbs: compl.
 
 GB-Lbm: C.
 
-l-Vnm: B.
+I-Vnm: B.
 
 'GB-Cu: B.
 

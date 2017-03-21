@@ -10,7 +10,7 @@ F-Pc: 5.
 
 Un escmpl. compl. esisteva nella Collezione Heyer (li Kòln.
 
-609 - CONVERSI Girolamo (1575) - ll Primo Libro delle Canzoni a cinque voci
+609 - CONVERSI Girolamo (1575) - il Primo Libro delle Canzoni a cinque voci
 di Girolamo Conversì da Correggio. Nuovamnete ristampate. ln Vinegia. Appresso
 l'heredc di Girolamo Scotto 1575.
 
@@ -22,7 +22,7 @@ F-Pc: compl. (2° scmpl.: B.).
 (35-me: C.A.T.5. (2° scmpl.: T.).
 US-BE: A.
 
-l-Be: 5.
+I-Be: 5.
 
 610 - CONVERSI Girolamo (1578) - Il Primo Libro delle Canzoni a cinque voci
 d'i Girolamo Conversi da Correggio, novamente ristampato. In Vinegia. Appresso
@@ -41,7 +41,7 @@ lheredc di Girolamo Scotto. 1580.
 I-Bc- compl. (2° esempl.: CA.).
 Ì-FEc: compl.
 
-l-de: compl.
+I-de: compl.
 
 D-As: compl.
 

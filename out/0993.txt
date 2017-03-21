@@ -14,12 +14,12 @@ Io mi son giovinetta e volentieri m'allegr'e cant'en la stagion (Boccaccio) 27
 Volgi, cor mio, la tua speranz'homai in altra part'ov'il tuo destin (F. Spira) 28
 Et :\ noi restarà fra sdegn'et irc (seconda parte) "
 
-l-Fn: compl.
+I-Fn: compl.
 I-VEeap: C.A.T.B.5.
 I-Rsc: T.B.5.6.
 GB-Lbm: C.
 
-l-Fr: 5.
+I-Fr: 5.
 
 I-VEaf : 6.
 
@@ -46,7 +46,7 @@ ln sembianze verissime d'eroi ornan la regia sede. Madrigale nono " 9
 In mezz'a limpidissimi cristalli il bel Prat'ha di tanti. Madrigale decimo " 10
 Qui nel fiorito Prato, sccso eterno cred'io di paradiso. Madrigale undecimo " 11
 ll tuo più ricco strato di Paſo e Gnido, amor, non è. Madrigale duodecimo " 12
-Mentre pensoso io mi sedeva all'ombra sovr'un bel collc " 13
+Mentre pensoso io mi sedeva all'ombra sovr'un bel colle " 13
 ln riva d'un bel fium'era un trofeo (seconda parte) " 14
 Poscia vedea fiorir in un bel prato (terza parte) " 15
 in cima del del colle un ricco tempio (quarta parte) " 16

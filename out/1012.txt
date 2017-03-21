@@ -1,8 +1,8 @@
 GB-Lwa: compl.
-l-Rsc: A. (pag. 17-18), 5. (pag. 7-19)
+I-Rsc: A. (pag. 17-18), 5. (pag. 7-19)
 L-Vnm (Canal): B.
 
-1598 - MARENZIO Luca (1582) - Di Luca Marcnzio il Primo Libro de Madri-
+1598 - MARENZIO Luca (1582) - Di Luca Marenzio il Primo Libro de Madri-
 gali a cinque voci novamente con ogni (liligentia ristampati. ln Venetia appresso
 Angelo Cardano 1582.
 
@@ -13,12 +13,12 @@ Angelo Cardano 1582.
 D-As: compl.
 lT-Pc: compl.
 Pl.-GD: compl.
-l-de: C.A.1l.
-l-Sd: C.T.
+I-de: C.A.1l.
+I-Sd: C.T.
 GB-Lbm: A.
-l-Fc: 5.
+I-Fc: 5.
 
-l-Rval (Casimiri): 5.
+I-Rval (Casimiri): 5.
 A-Wn: 5.
 
 Il N. 1599 è annullato.
@@ -31,7 +31,7 @@ di Girolamo Scotto. 1585.
 
 Un esemplare compl. esiSIeva in PL-GD, ma ora è disperso.
 
-1601 - MARENZIO Luca (1586) - Di Luca Marcnzio il Primo Libro de Madri-
+1601 - MARENZIO Luca (1586) - Di Luca Marenzio il Primo Libro de Madri-
 gali :] cinque voci, novamente con ogni diligentia ristampati. In Venetia presso
 Giacomo Vincenzi. et Ricciardo Amaclino compagni. 1586.
 

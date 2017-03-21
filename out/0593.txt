@@ -21,9 +21,9 @@ A 5. E bella e dotta mano tessea con sotlil ago nobil lavor 3
 " " Così moriro i fortunati amanti (terza parte) " 22
 A 8. Filli mia bella. a dio. Caro mio Tirsi. a dio. Dicea sovr'Arno 24
 
-A 8. Voi volete ch'io mora, crude] ahimè. e mi date dolor si crud'e forte
+A 8. Voi volete ch'io mora, crudel ahimè. e mi date dolor si crud'e forte
 
-l-MOc: compl.
+I-MOc: compl.
 I-Bc: C.
 
 89} - EREMITA Giulio (1589) - Di Giulio Eremita, il Secondo Libro de Madri-

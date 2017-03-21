@@ -7,7 +7,7 @@ A 6. Leggiadra giovinetta, gl'occhi luni son due stelle Il
 " " Vieni, lmeneo, (lal cielo cui pargoletti amori, e d'amoroso zelo B
 I-Bc: compl.
 
-l-Bsp: compl.
+I-Bsp: compl.
 I-Rsc: compl.
 PL-GD: C.A.T.S.
 A-Wn: C.T.5.
@@ -34,7 +34,7 @@ Gite, felici fiori, git'alla donna mia, in cui beltatl'alberga 9
 
 Per accrescer travagli'al miser core, voi dite ch'io non v'ami ll]
 
-All'aureo crin della mia dolce Philli, colg'al nasccr del sole 11
+All'aureo crin della mia dolce Philli, colg'al nascer del sole 11
 
 La verginell'è simil a la rosa, di'... bel giardin (Ariosto) Il
 
@@ -65,9 +65,9 @@ Quando consenle'l cielo al mio giusto desire U
 
 Deh come mai poss'io far ch'io non v'ami, s'a mia forza 23
 
-A che pur piangi, 0 mia fede], e'n vano te stess'afianni D
+A che pur piangi, o mia fede], e'n vano te stess'afianni D
 
-Lascia, ninfa gentil, le spond'herbosc Stringer a l'acque 30
+Lascia, ninfa gentil, le spond'herbose Stringer a l'acque 30
 
 Quivi, fm verdi frond'et rivi amati, susurar s'odn't l'api
 

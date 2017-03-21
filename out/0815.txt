@@ -16,7 +16,7 @@ A 2. Mobil nave è nostra vita. Canto e Ten. Brevità della vita 6
 " " Gran tesoro de' mortali. Canto e Ten. Al Santo Bambino lu
 " " Amici pastori. sorgete. su. su. Canto e Alto. Per il S. Natale 12
 A 3. Pescator, dimmi perchè. Canto. Alto e Ten. La durezza del peccatore 14
-n " Gcrmoglino :\ mille. Canto. Alto e 'l'en. ll vero amante di Giesù 15
+n " Gcrmoglino :\ mille. Canto. Alto e 'l'en. il vero amante di Giesù 15
 " " Combattino :\ gara (seconda parte) 15
 " " Non ho voglia di penar più. Z Canti e Alto. l'eccator pentito 16
 " " Siamo qui. suore fatali. Dialogo. 2 C. e T. Le Parche che filano 18
@@ -27,9 +27,9 @@ A 3. Crudelissime spine. Al., Ten. e lì. Sopra le spine di Christo 32
 " " :\cutissimi chiodi. Sopra i chiodi del medesimo (seconda parte) 32
 I-Bc: compl.
 
-l-Bofzcompl.
+I-Bofzcompl.
 
-l-szcompl.
+I-szcompl.
 
 GB-Lwa : compl.
 
@@ -44,7 +44,7 @@ licenza de' Superiori.
 4 fasc. in 8° (C.l", Cl", T. e B., Org.), pag. 3l. Ded. di Amadeo Belmonte, Roma 4 X1 1678.
 Indice = al precedente.
 
-l-Nc : C.l".
+I-Nc : C.l".
 
 1282 - GRAZIANI Tommaso (1688) - Di Thomaso Gratiani in Bagnacavallo
 il Primo Libro de Madrigali à cinque voci. Novamente composto et dato in luce.

@@ -7,7 +7,7 @@ Uu Urbino, Biblioteca dell'Università
 Vc Venezia, Biblioteca del Conservatorio
 
 Vgc Venezia, Biblioteca della Fondazione Giorgio Cini
-Vmc Venezia, Museo Correr
+Vme Venezia, Museo Correr
 
 Vnm Venezia, Biblioteca Nazionale Marciana
 

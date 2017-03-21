@@ -1,9 +1,9 @@
 talenti, in varie occasioni, nelle Chiese, Teatri, e Tornei a Ser.mi Antenati... ". Avvertimento a
 signori Virtuosi.
 
-A L Vaghe luci mio tesoro. Canzonetta. 2 C. 0 T. con Ritnr. 1
-" " 10 non mi curo più non mi curo. Canzonetta. 2 C. 0 T. 3
-" " Che sarà ditelo voi. Dialogo. 2 C. 0 T. 5
+A L Vaghe luci mio tesoro. Canzonetta. 2 C. o T. con Ritnr. 1
+" " 10 non mi curo più non mi curo. Canzonetta. 2 C. o T. 3
+" " Che sarà ditelo voi. Dialogo. 2 C. o T. 5
 " " O Dio perchè così. Canzonetta. C. e A. con Ritnr. 8
 " " Ben & stolta in verità. Canzonetta. C. e A. con Ritor. ltl
 " " Si. si. no, no, quella ch'adori non mn. Dialogo. ('.. e B. con Ritnr. 13
@@ -11,14 +11,14 @@ A L Vaghe luci mio tesoro. Canzonetta. 2 C. 0 T. con Ritnr. 1
 A 3. Amanti nel bramar è cieco il vostro core. Amor cieco. CA. e T. con Violini 19
 " " Sciolga la benda amor apra le luci belle. Amor slìcntlatn. C. :\. e T. con Violini 11
 " " Un amoroso agone. Madrigale. 2 C. e B. (Guarini) 24
-" " Volontario provai desio. Madrigale. C. 0 T. A. e B. 27
+" " Volontario provai desio. Madrigale. C. o T. A. e B. 27
 " " Clori sta raccogliendo i fiori. Madrigale. A. T. e B. 29
 " " La mia ninfa d'amore che ver me. Aria alla siciliana. A.T.B. con Ritnr. 33
 " " Si rallegri ogni core. Cantata. 2 T. e B. con Ritor. 35
 " " A battaglia ti sfida. Madrigale. 2 T. e B. con Ritor. 37
 I-Bc: compl.
 
-l-MOe: compl.
+I-MOe: compl.
 
 F-Pc: C.l°, Viol. 2°, Viola, Bc.
 
@@ -40,7 +40,7 @@ A 2. O quant'è dura la lontananza. Lnntananza. Z C. 5
 A 3. Volan l'hore, fuggon gl'anni Morale. 2 C. e B. 18
 " " Al partir del mio sole piansi Madrigale. 2 T. e B. (Guarini) 11
 " " Allo le voci e dico. Madrigale. A. T. e B. (Paoli) 22
-" " Erri, amor non è'l segno. Madrigale. C. 0 T. A. e B. 23
+" " Erri, amor non è'l segno. Madrigale. C. o T. A. e B. 23
 " " Un ciel vago d'amor Madrigale. C. n T. A. e B. 25
 " " Non contrastate più, miseri. Cantata problematica. C. A. e B. 26
 " " Poichè siam qui ridotti Gioco di primiera. 2 T. e B. 28

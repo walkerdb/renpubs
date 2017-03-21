@@ -1,5 +1,5 @@
-A Z. Pensier, che notte e dì mi ramenti colei che mi ferì B
-" " Spemc ch'a tutte l'horc, lusingando (seconda stanza) 9
+A 2. Pensier, che notte e dì mi ramenti colei che mi ferì B
+" " Speme ch'a tutte l'horc, lusingando (seconda stanza) 9
 " " Desio, che sempre più mi richiami (terza stanza) lo
 " " Occhi Scavi e cari, veri alberghi del sole, ristoro de le stelle 11
 " " Ferite pur, ferite. Sia pur colpo mortale (seconda parte) 11
@@ -13,8 +13,8 @@ A Z. Pensier, che notte e dì mi ramenti colei che mi ferì B
 " " Giaccio un cor e sasso un petto trovato hai (seconda stanza) 19
 " " Ai pianti et ai sospiri l'empia mercè (terza stanza) 19
 " " Di temprar le tue doglie non verrà mai quel di (quarta stanza) 19
-" " Dunquc in seguir costei non t'ostinar (quinta stanza) 20
-" " ll mondo è degli audaci, di chi tenta e procura. Cangia, mio cor, natura 20
+" " Dunque in seguir costei non t'ostinar (quinta stanza) 20
+" " il mondo è degli audaci, di chi tenta e procura. Cangia, mio cor, natura 20
 " " Tu chiami crudele una che mai pregasti (seconda stanza) 21
 " " La donna è un idol vano, che sol dona a chi prega (terza stanza) 22
 " " Non ha più loco nel mio petto il tuo foco, ma splendon (RospigliOSÎ) 23
@@ -31,7 +31,7 @@ A Z. Pensier, che notte e dì mi ramenti colei che mi ferì B
 " " lo sospirando senza riposo e ancor versando (seconda stanza) 33
 " " Ringiovenito ogn'arborc di verde (terza stanza) "
 " " Disprìgìonati e liberi i fiumi (quarta stanza) 34
-" " Amor se'l- sole stempcra le nevi (quinta stanza) 35
+" " Amor se'l- sole stempera le nevi (quinta stanza) 35
 A 3. Su la sponda d'un ruscello, che tra sassi zampillava 36
 " " Lagrimando, un fresco gelo distillava il monte (seconda stanza) 37
 " " Dove ohimè (terza stanza) 37

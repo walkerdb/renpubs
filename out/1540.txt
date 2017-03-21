@@ -8,7 +8,7 @@ n " Soavissimo ardore, che da la vista mia calda e bramosa (Guarini) B
 A 8. Di ligustri e gelsomini, ha il suo crin. Dialogo 24
 I-Vnm: A.
 
-l-VTcerasa: T.
+I-VTcerasa: T.
 
 I-Bc: B.
 
@@ -47,7 +47,7 @@ Non mi duol di morirc, donna, per voi che se'l mio mal vi piace 33
 Amor ch'attendi? Amor che fai? Su che non prendi gli strali homai.> 34
 Ho vinto ai baci, ho vinto, disse'l mio sol 36
 
-Care gioie. che lc noie di sospir mandate in bando
+Care gioie. che le noie di sospir mandate in bando
 
-l-Gu
+I-Gu
 

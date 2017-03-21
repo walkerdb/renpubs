@@ -2,12 +2,12 @@ D-Rp: C.A.T.5.
 I-Bc: C.B.
 F-Pc: A.S.
 I-Vnm: A.De.
-l-Fc: 5.
+I-Fc: 5.
 
-l-Nc: Be.
+I-Nc: Be.
 Gll-me: Be.
 
-Sartori 1628m e ll 1628m.
+Sartori 1628m e il 1628m.
 
 1940 - MONTEVERDI Claudio (1641) - Concerto. Settimo Libro de Madrigali
 a 1. 2. 3. 4. et sei voci, con altri generi de canti, del signor Claudio Monteverde
@@ -22,7 +22,7 @@ F-Pthibault: compl.
 GB-Lwa: compl.
 PL-WRu: compl.
 
-Sartori 16411 e ll 1641ſ.
+Sartori 16411 e il 1641ſ.
 
 1941 - MONTEVERDI Claudio (1638) .. Madrigali guerrieri, et amorosi con
 alcuni opuscoli in genere rappresentativo, che saranno per brevi episodij fra i cant]
@@ -35,7 +35,7 @@ Ferdinando III. Con privilegio. In Venetia, appresso Alcssandro Vincenti. 1633-
 Claudio Monteverde a chi legge: "Havendo io considerato le nostre passioni od'affcttioni del
 animo, essere tre le principali, cioè Ira. Temperanza, et Humiltà o supplicationc... come l'arte
 Musica lo notifica chiaramente in questi tre termini di concitato, molle, et temperato... ritrova-l lì}
-descrittione che fa del combattimento di Tancredi con Clorinda per haver io lc due passtonl
+descrittione che fa del combattimento di Tancredi con Clorinda per haver io le due passtonl
 contrarie da mettere in canto. Guerra cioè preghiera, et morte, et l'anno 1624 fattolo poscia "dl"
 a migliori de la Nob. Città di Venetia, in una nob. Stanza del illustr. et ecc. sig. Gerolamo MOZ":
 nigo... Et perche a primo principio (in particolare a quali toccava sonarc il basso continuo) "

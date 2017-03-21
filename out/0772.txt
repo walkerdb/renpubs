@@ -1,6 +1,6 @@
 A 5. O del mio bello e dispielato Silvio cura e diletto
 " " Puoi tu dunque, crudele, a questa chioma che ti legò già '] core
-" " O crude] Amarilli, dunque non ti bastava di dar a questo misero
+" " O crudel Amarilli, dunque non ti bastava di dar a questo misero
 
 " " Un bacio solo a tante pene, cruda, un bacio a tanta ſede
 )] ))
@@ -26,12 +26,12 @@ n " O fortunato Aminta, o te felice tanto più, quanto più misero fosti (Tasso)
 " " Ma come Silvia il riconrbb'e vide le belle guancie (seconda parte) " 17
 A 8. Ecco la primavera che ne rimena il sole a rinovar le rose. (Cavalletto) lﬂ
 " " Al suon (le nostri canti dal seno (le gl'amanti hoggi fuga ogni noia 20
-l-FEc: compl.
+I-FEc: compl.
 D-Kl: compl.
 I-Bc: C.A.B.5.
 GB-Lbm: A.
 
-l-de: B. (manc. di front.).
+I-de: B. (manc. di front.).
 
 1195 - GIACCIO Orazio (1645) - Canzone sacre in musìca di D. Horatio Gìaecio
 Ad una, a due, et a tre voci. Opera Sesta. In Napoli, per il Beltramo, 1645. Lon
@@ -60,7 +60,7 @@ A 1. Non sai tu chi non si pente (terza parte) [2
 A 3. Quant'è bella Maria, gioisce quest'anima mia. B.C.A. 12
 A 1. Voi che di ghiaccio havete il petto (seconda parte) 13
 " " Voi che tempesta havete al mar del mondo' (terza parte) I'.
-A Z. Risolviti, o mio core, 0 non offender più ch|.t|\creò. C. e A. 15
+A 2. Risolviti, o mio core, o non offender più ch|.t|\creò. C. e A. 15
 A 3. O peccatore, non più torti el offese al tuo Gicsu. B.C.A. 16
 
 " " Tu m'offendi et io pur t'amo. B.C.A.

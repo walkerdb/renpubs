@@ -35,7 +35,7 @@ A 8. Sarò signor io sol del mio pensiero (ottava stanza) " 26
 " " Partomi donna e leco lascio il core. Nè col partir ancor piglio partita. Dialogo 28
 
 F-Pthibault: compl.
-l-VEaf: C.A.5.
+I-VEaf: C.A.5.
 
 1843 - MICHELI Domenico (1567) - Madrigali di Domenico Micheli da
 Bologna, nuovamente dati in luce et con ogni diligenza revisti da Claudio da
@@ -44,7 +44,7 @@ Correggio. A sei voci. Libro Terzo. ln Venetia, 1567.
 6 fasc. in 8° obl. (C.A.T.B.5.6.). pag. Z9,(1). Ded. a Lorenzo Campeggi Archidiacono di Bologna.
 Venetia. 25 V 1567.
 
-A 6. Comc spiegate... fendt-ndo va spalmato legno l'onde 1
+A 6. Come spiegate... fendt-ndo va spalmato legno l'onde 1
 " " Sì ch'io m'arrest'a mezzo'l corso e veggio (seconda parte) 2
 " " Se'l dolce sguardo (li costei m'ancide (Petrarca) 3
 " " Però s'io trem'e vo col cor gelato (seconda parte) "

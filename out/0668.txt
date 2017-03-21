@@ -2,7 +2,7 @@ A 2. Donne belle che fate, che non chiamate amor 62
 
 " " Quando tra suoi rigori incanutisce il verno 63
 " " Perche ho povera capanna e pur non vale 64
-A 3. Habbiti pace, 0 core, se la tua fè non vale 65
+A 3. Habbiti pace, o core, se la tua fè non vale 65
 " " Amor fuggite, amanti, ah non dorato $
 " " Viviamo, Lilla, viviamo. Tu dammi presto 67
 " " Penso tal'liora come servire amore 68
@@ -44,7 +44,7 @@ A 1. Ecco pronta a i baci. Baciami, Ergasto mio. Amorosi ardori (Marino) 2
 " " Vaghi fiori odorati, quanto di me sarete più beati. Amoroso languire (Ccl:ano) 21
 )
 
-A Z. Baciatemi, cor mio, che con sì dolce aita. Amoroso soccorso - _ 22
+A 2. Baciatemi, cor mio, che con sì dolce aita. Amoroso soccorso - _ 22
 " " Ahi disleal e cruda, voi mi negate la fede. Amorosa prova '(Guarml)
 " " Al dolce suon di tromba, che dolcezza rimbomba ne petti. Amorosa battaglia
 

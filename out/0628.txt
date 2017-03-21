@@ -33,14 +33,14 @@ l'herede di Hieronymo Scotto. 1582.
 
 1-Bc: compl.
 I-MOc: compl.
-l-de: compl.
+I-de: compl.
 A-Wn: compl.
 B-Br: compl.
 CH-Bu: compl.
 D-As: compl.
 GB-Lwa: compl.
 PL.-GD: C.A.T.
-l-Bsp: A.T.5.
+I-Bsp: A.T.5.
 GB-Lbm: G.B.
 D-Kl: 5.
 F-Pn: 5.

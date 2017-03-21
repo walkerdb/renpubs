@@ -2,8 +2,8 @@ A6. Qui giace, ahi lasso, il gran signor del cielo 19
 " " Non più, saggi pastori, d'altre ninfe cantate 20
 " " Fate a questa corona (seconda parte) 21
 
-l-MOc: compl.
-l-Vnm : 5.
+I-MOc: compl.
+I-Vnm : 5.
 
 2531 - SABINO Ippolito (1587) - Di Ippolito Sabino il Seto (ric) Libro dc
 Madrigali a cinque, et a sei voci. Nuovamente composti, et dati in luce. In Venetia
@@ -12,12 +12,12 @@ presso Giacomo Vincenzi. 1587.
 Sſasc .in 8° (C.A.T.B.5.), pag. Zl,(1). Ded. ad Ascanio di Capua, Venetia, 1° V 1588.
 
 A5. Quando con mille vagh'crbenc infiori 1
-" " Due vaghe paslorellc un giorno 2
+" " Due vaghe paslorelle un giorno 2
 " " Aura dolc'e suave deh pungi il cor. Di Gia. Fram-m'a Sabino 3
 " " Cor mio, poi che nel fior de' mici verd'anni. Di Gio. France-rca Sabino 4
 " " Fioriti colli, hcrbette pien d'odori 5
 " " Non ha lant'herbe maggio e fior aprile 6
-" " Dai freddi hcspcrii a caldi (seconda parte) 7
+" " Dai freddi hcsperii a caldi (seconda parte) 7
 " " E mentre che n'andran per (terza parte) 3
 " " Ballava Tirsi al suono d'una dolce sampogna 9
 " " Ardo si, ma non t'amo, perfida e dispictata (Guarini) ...
@@ -34,7 +34,7 @@ A6. Vidi spczzar la fune :\ un forte toro 14
 " " E'n questo specchio e'n quello si rivedea si bello " " 21
 I-Bcz B.
 
-l-MOe: B
+I-MOe: B
 
 RISM. I 1587-13.
 
@@ -42,7 +42,7 @@ RISM. I 1587-13.
 g l a cinque, et a sei voci. Nuovamente composti, et dati in luce. In Venetia
 PrCSSO Giacomo Vincenzi. 1588.
 
-5 fâSC. in 8° (C.A.T.B.5.), pag. 2]. Bed. e Indice = 1587.
+5 fâSC. in 8° (C.A.T.B.5.), pag. 2]. Ded. e Indice = 1587.
 
 I'MOc: C.A.T.5.
 RISM. 1 1533-27.

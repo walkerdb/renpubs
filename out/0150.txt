@@ -5,10 +5,10 @@ In Venetia, appresso Alessandro Vincenti. 1630.
 
 A 5. Poichè in villa noi siamo tutti allegri. Introduzzione all'opera 1
 " " Virtuosa compagnia, su scaccia maninconia. Invita l'Umor spensierato 2
-" " Baciansi, pastorella. Risposc Dafne: anch'io. Aminta, Dafne et Amore 3
+" " Baciansi, pastorella. Rispose Dafne: anch'io. Aminta, Dafne et Amore 3
 " " Ecco la passerina. Gioco della Passerina 4
 A 3. All'apparir del sole s'indora i monti. Gaudio e pianto 5
-A Z.. Amar donna superba con dispcrato amor. Ninfa crudele 5
+A 2.. Amar donna superba con disperato amor. Ninfa crudele 5
 A 5. Il cor non fu sanato, Clori, con i tuoi sguardi. Tirsi a Clori 6
 " " Ninfe leggiadre, siamo pignattari. Mascherata di Pignattari, 7
 A 1. Aura, che intorno spiri a rugiadosi fiori. Canto a voce sola di Giovan G/n'zzolo
@@ -21,7 +21,7 @@ A 3. Amor, dal primo lacci'a pena sciolto subitamente son. Laberinto d'amore "
 A 2. Mentre, mia Lilla, miri i bei celesti giri. Terra e Cielo 11
 A 5. Il misero mio core. Ergasto appassionato "
 A 3. Parto, mio caro Tirsi, ma non si parte il core. Pegno amoroso "
-A Z. Treccie ombrose ove s'asconde. Ballo del Gran Duca 13
+A 2. Treccie ombrose ove s'asconde. Ballo del Gran Duca 13
 A 5. Sopra l'orlo d'un fonte, Arringo amoroso 14
 " " Mirando il bel crin d'oro. Lodano le suc ninfe 17
 
@@ -40,10 +40,10 @@ Milano, 2 III 1604. Lo Stampatore a gli virtuosi Cantori.
 
 . . 1
 Poi che ridotti siamo. Introduttione alle parti . 2
-Ben trovati, 0 compagnia. Prologo dell'Humor spensrerato- . . 3
+Ben trovati, o compagnia. Prologo dell'Humor spensrerato- . . 3
 Aprcstateci fede voi, che rivolto il core. Intermedio di fehcn pastori 4
 ' , ' ' ' 'lomena
-' ll n, che Sl soavc piagni. Prognc et F1 . . .
+' il n, che Sl soavc piagni. Prognc et F1 . . .
 V'dgo auignc Lie pastorelle, vezzosette, vagheebelle. Danza dipastorellein aria del Spagnoletta,
 Siamo e q [con le 1'Ìprcse nella Cornamusa ;
 Soavissimo ardore, che da la vista mia. Madrigale . . (Guarini) 7

@@ -20,7 +20,7 @@ Cari scogli, (lilelte e fide arene, ch'i miei duri lamenti (Sannazzaro) 19
 O solitari colli e verde rim (zeconcla parſ-.') " 20
 Chi vuol veder un sole in nero velo avvolto, miri la donna mia 21
 
-l-MOe: compl.
+I-MOe: compl.
 GB-Lbm: compl.
 PL-GD: compl.
 US-SM: compl.

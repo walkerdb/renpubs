@@ -5,8 +5,8 @@ PL-GD: compl.
 I-de: C.A.B.
 GB-Lbm: A.D.
 GB-Lwa: AB.
-l-Nc: A5.
-l-Fc: 5.
+I-Nc: A5.
+I-Fc: 5.
 
 Il N. 2989 è annullato.
 
@@ -27,8 +27,8 @@ Rallegrali. mio cor, ch'ogni dolore, che per donn'hai patito, in gioia è volto 
 Si com'ai freschi matutini rai rosa vermiglia in bianchi gigli splende 3
 Vazosi augell'inſra le verdi fronde tempran a prova lascivette note (Tasso) 4
 Fra le dorate chiome d'Amarilli gentil, amor tessea lacci con che legar l'alme 6
-Usciva homai del mollc e fresco grembo de la gran madre sua la notte oscura (Tasso) 7
-Sovente, all'hor che su gl'estivi ardori giacean le pecorelle a l'ombr'assisc " S
+Usciva homai del molle e fresco grembo de la gran madre sua la notte oscura (Tasso) 7
+Sovente, all'hor che su gl'estivi ardori giacean le pecorelle a l'ombr'assise " S
 
 Poscia dicea piangendo, in \'oi serbate (seconda parte) " 9
 Misera, non credea ch'a gl'occhi miei potessi in alcun tempo esser noioso " 10
@@ -44,7 +44,7 @@ Se m'odij c'n ciò diletto alcun tu senti (terza parte) " 15
 Aggiungi a quest'ancor quel ch'a maggiore onta (quarta parte) " 16
 
 Sia questa pur tra le mie frodi e vaglia (quinta parte) " 17
-Forsennata, gridava, 0 tu che porte parte teco di me, parte ne lassi 18
+Forsennata, gridava, o tu che porte parte teco di me, parte ne lassi 18
 Non sospirar, pastor, non lagrimare. Queste lagrime amare che spargi 18
 Questi odorati fiori, gialli, persi, vermigli, azuri e bianchi 20
 Vener, ch'un giorno havea perduto il caro suo fanciul amore, con materno dolore 2
@@ -52,7 +52,7 @@ Vener, ch'un giorno havea perduto il caro suo fanciul amore, con materno dolore 
 Con voi giocando amor
 
 I-Bc: compl.
-l-MOe: compl.
+I-MOe: compl.
 D-Mbs: compl.
 GB-Lbm: compl.
 I-Fc: 5.

@@ -20,13 +20,13 @@ Soffian spesso talhor rabiosi venti (seconda parte) " 16
 [' piansì, hor canto, che'l celeste lume (Petrarca) 16
 Sì profondo era e di sì larga vena (seconda parte) "
 
-l-VEaf : compl.
+I-VEaf : compl.
 
 D-W: compl.
 
 I-Rsc: A.T.B.
 
-l-MOe: A.B_
+I-MOe: A.B_
 
 I-Bc: T.
 
@@ -43,7 +43,7 @@ A 5. Come consentì, amore, che dovendosi tosto far partita 1
 " " Son io più quel che senza tema vissi d'esser mai colto 4
 " " Non ch'io mi trov'amor preso (seconda parte) 5
 " " I' vid'in terra angelici costumi e celesti (Petrarca) 6
-" " Amor, scnno, valor, pictate (seconda parte) " 7
+" " Amor, senno, valor, pictate (seconda parte) " 7
 " " Quando mai fin havranno, o caro dolc'ct amato mio bene 8
 " " Amor, sc quei begl'occhi mi son come l'altrier sempre cortesi 9
 " " Signor, i' vò che sappi in qual manera (Petrarca) 10

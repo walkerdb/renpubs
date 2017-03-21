@@ -3,7 +3,7 @@
 Gll-me: C.A.T.ll.5.
 (ìB-Ckc: C.
 
-l-Rsc: :\.
+I-Rsc: :\.
 
 I-Bc: 5.
 
@@ -14,10 +14,10 @@ Appresso l'heredc di Girolamo Scotto. 1579.
 6 fasc. in 8" (C.ſ\.T.lì.5.6.), png. 32.(1). indice = [571
 
 D-Kl: compl.
-l-Rsc: C.A.B.5.6.
+I-Rsc: C.A.B.5.6.
 F-Pa: C.T.
 GB-Lbm: C.
-l-Vlb: A.
+I-Vlb: A.
 D-Mbs: H.
 
 F-Pn: B.
@@ -28,21 +28,21 @@ appresso l'hercde di Girolamo Scotto. 1582.
 
 6 fasc. in 8° (C.A.T.B.5.6.), pag. 31, Indice = 157].
 
-l-Fn: compl.
-l-de: compl.
+I-Fn: compl.
+I-de: compl.
 CH-Bu: compl.
 D-As: compl.
 D-Mbs: compl.
 PL-GD: compl.
-l-Sd: C.A.B.5.6.
-l-FA: C.A.5.6.
-l-Vnm: A.C.
+I-Sd: C.A.B.5.6.
+I-FA: C.A.5.6.
+I-Vnm: A.C.
 US-BE: 5.6. (prov. Landau).
-l-ASs: C. (?).
-l-MOc: A.
+I-ASs: C. (?).
+I-MOc: A.
 F-Pn: T.
 GB-Lbm: B.
-l-MAc: 5.
+I-MAc: 5.
 
 2687 - STRIGGIO Alessandro (1592) - Di Alessandro Striggio gcntil'huomo
 mantovano il Secondo Libro de Madrigali a sei voci. Novamente con ogni diligenza

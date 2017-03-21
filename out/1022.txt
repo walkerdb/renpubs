@@ -1,4 +1,4 @@
-1621 - MARENZlO Luca (1607) - Di Luca Marcnzio il Quarto Libro de
+1621 - MARENZlO Luca (1607) - Di Luca Marenzio il Quarto Libro de
 Madrigali a cinque voci. Novamente ristampato. In Venetia appresso Angelo
 Gardano et fratelli. 1607.
 
@@ -60,9 +60,9 @@ Non vede un simil par d'amanti il sole (seconda parte) " Z')
 S'io vissi cieco e grave fallo indegno (Della Casa) 30
 O fera voglia, che ne rodi e pasci (seconda parte) " " 31
 
-l-MOc: compl.
+I-MOc: compl.
 
-l-Rsc: compl.
+I-Rsc: compl.
 
 A-Wn: compl.
 

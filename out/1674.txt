@@ -1,7 +1,7 @@
 A 6. Em a tanti minor merli (sccondu parte) 28
 
 " n L'ulma mia fiamma. ollrzi le belle hclla. Di Claudio du Correggio (Petrarca) 29
-" " Anchor che col partire in mi scnto morire. Di Per/mme Cambio (Alfonso d'Avalos) 30
+" " Anchor che col partire in mi sento morire. Di Per/mme Cambio (Alfonso d'Avalos) 30
 A-Wn: C.6.
 
 1-VEnſ: A.
@@ -31,7 +31,7 @@ con nova gionta ristampati. A sei \'oci. In Venetia appresso di Antonio Cardano.
 
 I-Bc: compl.
 US-Wc: compl.
-l-Bsp: C.A.T.B.6.
+I-Bsp: C.A.T.B.6.
 D-Rp: A.B.5.
 RISM, 1 1565-19.
 

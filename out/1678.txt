@@ -1,4 +1,4 @@
-2683 - STRlGGIO Alessandro (1571) - ll Secondo Libro de Madrigali a sei
+2683 - STRlGGIO Alessandro (1571) - il Secondo Libro de Madrigali a sei
 voci, di M. Alessandro Striggio gentil'huomo mantovano nuovamenet posti in luce.
 In Vinegia, appresso Girolamo Scotto l57l.
 
@@ -40,7 +40,7 @@ Amor m'impenna l'ale e tant'm alto le spiega (Tann 0
 Che s'altri, cui desio simil compunse (seconda parte) "
 
 Miglior Ruberto d'ogn'altro signore. ne rubò il cor di seno "
-Ahi dispielm'nmor, come conscnti ch'io meni vita si (13. Tasso) "
+Ahi dispielm'nmor, come consenti ch'io meni vita si (13. Tasso) "
 Hor se mi mostra la mia carta il vero, non è lonlan (AſiOSlol };]
 
 Sento venir per nllegrezza un tuono (seconda parte) " 38
@@ -53,9 +53,9 @@ A-Wn: compl.
 
 US-R: compl.
 
-l-MOc: C.A.T.B.5.
+I-MOc: C.A.T.B.5.
 
-l-VEaf: C.A.T.B.5.
+I-VEaf: C.A.T.B.5.
 
 Elk-Dm: C.T.B.5.6.
 

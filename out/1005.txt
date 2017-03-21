@@ -1,4 +1,4 @@
-1583 - MARCO da Gagliano (1617) - ll Sesto Libro de Madrigali a cinque voci.
+1583 - MARCO da Gagliano (1617) - il Sesto Libro de Madrigali a cinque voci.
 di Marco da Gagliano maestro di cappella del serenissimo gran duca di Toscana.
 Al molto ill.rc sig.r e patron mio collendissimo il signor Cosimo Dc] Sera. Nova-
 mente stampati. Stampa-del Gardano in Venetia 1617. Appresso Bartholomeo Magni.
@@ -23,9 +23,9 @@ A 5. La bella pargolelta, ch'anCor non sente amore (Tasso) 1
 " " Ma che dich'io? Solo contemplo il (IUolo (seconda parte) 13
 " " Io vidi in terra angelici costumi e celeste bellezze. D'incerto (Petrarca) 14
 " " E vidi lacrimar que duo bei lumi (seconda parte) " 15
-" " Amor, scnno, valor, pietate e doglia (terza parte) " 16
+" " Amor, senno, valor, pietate e doglia (terza parte) " 16
 " " Filli, mentre ti bacio. dalle tue labbra amorosette e care bevo (Ongaro) 17
-" " Vollc mostrar ch'un giro sapeva far col suo bel centro amore 18
+" " Volle mostrar ch'un giro sapeva far col suo bel centro amore 18
 " " Evoè, Padre Lieo, Tioneo, Bromio. Musica da concertar col bicchiere 19
 " " Scenda giù (seconda parte) 19
 " " Di qui vengono a gl'amanti (lena parte) 19
@@ -34,7 +34,7 @@ A 8. Su l'affricane arene vedove spose incatenati e morti piangliin. Al Gran Duc
 Toscana Cosimo Il (Rinuccini) 20
 
 I-Vnm : compl.
-l-MOc: A.T.B.
+I-MOc: A.T.B.
 
 15_84 - MARCO da Gagliano (1620) - Sesto Libro de Madrigali a cinque voci.
 

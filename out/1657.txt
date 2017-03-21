@@ -18,8 +18,8 @@ A4. Fiere silvestre, che per lati campi vagand'errale (Sannazzaro) 3
 "" Ben credo cli'ancor tu sozpiri (sesta parte) " 19
 A 8. Stolto mio cor, ecco ch'io corro al mio cibo soave. Dialogo 20
 
-l-Vnm: C.T.B.
-l-Rvat (De Rossi): C.T.B.
+I-Vnm: C.T.B.
+I-Rvat (De Rossi): C.T.B.
 RISM, I 1583-17 (non compl.).
 
 2649 - STIVORI Francesco (1585) - Il Primo Libro de Madrigali a cinque voci,
@@ -38,7 +38,7 @@ A 5. Io son sì stanco sotto il fascio antico cle le mie colpe (Petrarca) 1
 " " Alma cortese e bella, deh non voler ch'io moia di temenza (Tasso) 3
 " " Felice primavera di bei pensier fiorisce nel mio core " 4
 " " COme sì m'accendete, se tutto ghiaccio sete, e al foco " 5
-" " Parto col corpo e'nsiemc lieto parto col core da te 5
+" " Parto col corpo e'nsieme lieto parto col core da te 5
 " " Tigre mia, se ti pesa e ti rechi ad offesa :he di te FGroto) 7
 " " Vergine madre, figlia del tuo figlio, humìl ('t alla (Alighieri) B
 " " Poi che col lungo mio dnglioso pianto, coi gemiti e sospiri 9

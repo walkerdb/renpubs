@@ -1,6 +1,6 @@
 GB-Ckc: C.
 
-l-Rsc: A.
+I-Rsc: A.
 
 GB-Lbm: A. | 13) . "l
 1-1... (ïähaxgaï :can.1p(1$o(°C ing-.S.) esisteva nella Collezione Heyer di Ko n.
@@ -14,9 +14,9 @@ Nîacîrigiliarîinque voci. Nuovamente ristampati. In Vmcgg . P
 di Girolamo Scotto 1576. . 1571
 5 fasc. in 8° (C.A.T.B.5.), pag. Zl,(1). Indice = .
 I-Bc: compl.
-l-Bsp: compl.
+I-Bsp: compl.
 B-Br: T.
-l-Fm: 5.
+I-Fm: 5.
 
 ' lla
 ' " Di Monte maestro di capc .
@@ -25,7 +25,7 @@ Fili o 1581) - D1 Filippo . o de... Mad".
 gali, a ſiinque voci. Novamente ristampati. In Vincggia app
 lamo Scotto. 1581. . 71
 5 fasc. in 8° (C.A.T.B.5.), pag. B,(1). Indice = 15 .
-l-Nc: compl,
+I-Nc: compl,
 "MP: compl.
 D-Mbs: compl.
 GB-Lwa: compl.
@@ -35,7 +35,7 @@ D-Rp: C.A.B.5. (prov. Haberl).
 US-BE: C.A.
 "'S" A (solo pag. 1-6), B.
 L&: A5.
-l-Ls: T.B.
+I-Ls: T.B.
 [4302: C.
 Î-Rsc: C.
 F'Pn: A.
@@ -49,7 +49,7 @@ l""TI-m: A.
 a ' 11 d1 Antomo Gardano. 15 .
 Spgîcessi: ï ÎÊIIÏÊATBS.) pag. L9,(1). Ded. a Fabio Boccamazzo. Viena. 10 X 1574.
 . . . . . . ' ' (Bembo) 1
-Veramente in amore si prova ogm ciclore
+Veramente in amore si prova ogniciclore
 Mentre lontan da vostri chiari lumi
 
 Z

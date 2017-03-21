@@ -1,17 +1,17 @@
 A 3. Novi rai lampeggiano, vaghi ardor 3
 
-A Z. Già vezzosa l'alba ritorna 4
+A 2. Già vezzosa l'alba ritorna 4
 " " No, no, no, non burlar meco 5
-" " D'aspro dolor che'l scn divide 6
+" " D'aspro dolor che'l sen divide 6
 " " De l'aura lieta l'amoroso fiato 7
 A 3. Se beltà col crin disciolto 8
 " " Fresco rusccl di puro argento 9
-A Z. A l'antro, al poggio, alla selva 10
-A 1. Pompa mortale, tu non m'allett'il scn 11
+A 2. A l'antro, al poggio, alla selva 10
+A 1. Pompa mortale, tu non m'allett'il sen 11
 " " Crudo arcier, pene dai con le luci 12
 A 2. Vaghi gigli al bel candore 13
 A 3. Fabbricator d'inganni, ch'a fieri danni 14
-A Z. Fuggi, fuggi l'inganno d'amor 15
+A 2. Fuggi, fuggi l'inganno d'amor 15
 " " Dilettosa l'aria gira, amorosa 16
 A 3. Quando tra suoi rigori incanuliscc il verno 17
 A 2. Su l'herbe assisomi, a l'onde 13
@@ -35,7 +35,7 @@ A 1. Amor non piangere ;
 " " Di meste mammolette 8
 " " Su la fiorita sponda 9
 " " Pastor io che non vò 10
-A Z. Apri pur Citerea prima dell'alba 11
+A 2. Apri pur Citerea prima dell'alba 11
 A 3. Quella luce che s'indorò 12
 A 2. Volgi gl'occhi, ma piangenti 13
 " " O nocchier, ch'in questo lido 14
@@ -47,7 +47,7 @@ A 1. Violette belle 19
 A L A ciel screno 20
 A !. Candiderta reina 21
 " " O perle lucenti 22
-A Z. È pur vago un dì sereno 23
+A 2. È pur vago un dì sereno 23
 
 A 1. S'annidano
 F-Pthibault (prov. Landau).

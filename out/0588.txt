@@ -11,7 +11,7 @@ A 4. Il qual errando in questa e'n quella parte (Bembo)
 " " Così voi vi trovate altrui cercando " 46
 " " O quanto è dolce perchè amor la Stringa " 47
 " " Puossi morta chiamar quella di cui " 48
-" " Ond'io vi do questo fede] consiglio " 49
+" " Ond'io vi do questo fedel consiglio " 49
 A 8. Anchor dirci " SU
 I-Bc: C.B.
 
@@ -40,6 +40,6 @@ diligentìa ristampate. In Vinegia, appresso Girolamo Scotto. 1558.
 
 4 fasc. in 8° obl. (C.A.T.B.), pag. 46. Indice = 1545.
 
-l-Vnm: C.T.B. (Canal).
+I-Vnm: C.T.B. (Canal).
 I-Fr: A.T.
 

@@ -1,4 +1,4 @@
-Al. 0 dolcezze amarissime d'amor (quarta parte) (Guarini) 4
+Al. o dolcezze amarissime d'amor (quarta parte) (Guarini) 4
 
 " " Ma se le mie Speranze oggi non sono (quinta parte) " 5
 " " E s'altri non m'inganna qui pur (sesta parte) " 6
@@ -15,14 +15,14 @@ Al. 0 dolcezze amarissime d'amor (quarta parte) (Guarini) 4
 " " Luci care, luci belle, vaghe stelle, che nel ciel di vive rose 16
 " " Pescatrice ligurina, del mio cor dolce tormento 17
 A 1. o Z. Care luci, che vaghezza d'impiagar prendete il petto 18
-A Z. La pastorella mia spietac'e rigida, che nott'e giorno (Sannazzaro) 19
+A 2. La pastorella mia spietac'e rigida, che nott'e giorno (Sannazzaro) 19
 " " Deh girate, luci amate, pietosclto quel bel guardo (Isabella Andreini) 20
 A3. Dolci miei sospiri, dolci miei martiri, dolce mio desio (Chiabrera) 21
 A 2. Su la sponda del Tebro humida, erbosa, diva in forma. Sonetto (Marino) 22
 " " Ride di liete e verdeggianti spoglie (seconda parte) " B
 " " Non tocc'herba il bel piè se non s'infiori (terza parte) " B
 
-l-Vnm (Canal)
+I-Vnm (Canal)
 GB-Lbm
 US-Cn
 
@@ -31,7 +31,7 @@ Per cantare nel Graviccmbalo, overo, nella Tiorba, et in altri stromenti simili.
 Rafacllo Rontani Libro Secondo Opera Sesta. In Roma, appresso Gio. Battista
 Roblctti. 1618. Con licenza de' Superiori.
 
-VOL in 4°, pag. ZO,(1). Ded. a Pietro Corno: "Perchè molto usa il cantare a uno, et a dua nelle
+Vol. in 4°, pag. ZO,(1). Ded. a Pietro Corno: "Perchè molto usa il cantare a uno, et a dua nelle
 
 Camere di Prencipi, et essendo io per gratia del lllustriss. et eccellentiss. Sig. Duca Sforza fatto
 "PO del suo concerto, ho fatto in tale occasione, alcune Arie... Roma, B I 1618 ".

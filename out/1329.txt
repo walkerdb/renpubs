@@ -48,7 +48,7 @@ I-Bc: A
 
 B-Br: A
 
-l-SPE: T. (manc. di front.).
+I-SPE: T. (manc. di front.).
 l"Fm: 5.
 
 RISM, I 1602-8.

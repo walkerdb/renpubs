@@ -11,9 +11,9 @@ D-Rp: compl.
 
 F-Pc: C.T.5.
 
-l-VEaf: C.T.
+I-VEaf: C.T.
 
-l-Vnm (Canal): B.5.
+I-Vnm (Canal): B.5.
 
 I-Nn: C.
 

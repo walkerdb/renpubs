@@ -1,4 +1,4 @@
-A Z. Caro albergo d'amore, chi di voi meglio può legar un cuore (Celiano) 28
+A 2. Caro albergo d'amore, chi di voi meglio può legar un cuore (Celiano) 28
 " " Lasso, ch'io mi crcdea ch'ai vostri sguardi il foco. Romancsca
 
 " " Sperai pietà se de vostr'occhi i dardi (seconda parte) 30
@@ -15,9 +15,9 @@ A Z. Caro albergo d'amore, chi di voi meglio può legar un cuore (Celiano) 28
 " " lmmobil son di vera fede scoglio (terza parte) " 33
 " " Nè già mai per bonaccia, nè per verno (quarta parte) " 38
 " " Rimirate, luci ingrate, il dolor de la partita 39
-l-Fn
+I-Fn
 
-l-Rsc
+I-Rsc
 
 B-Br
 
@@ -45,7 +45,7 @@ A 3. Distillatc, occhi dolenti 17
 A l- Occhi, voi che raccogliete (seconda parte)
 
 " " Non tardate a dar soccorso (terza parte) {7
-" " ll mio mal non vien dal gioco (quarta parte) I:
+" " il mio mal non vien dal gioco (quarta parte) I:
 A 3. Un laccio amabile \ 20
 " " Chi desia di saper che ema e amore . 22
 " " Vezzosetta e bella Clori, godiam l|et'|. . . , 24

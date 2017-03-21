@@ -17,10 +17,10 @@ lo moro e mi distrugge per tuo amore 4
 Dolce sospir, che m'escano dal core 5
 Questa crudel, per cui pinng'e sospiro 6
 Tu cruda sei con chi t'adora e l'ama 7
-Tu ti pensavi di farmc morirc 8
+Tu ti pensavi di farme morirc 8
 Se m'ami come dici, o cianciarella 9
 Non so che m'haggio fatto alla fortuna 10
-Occhi, lucenti assai più che lc stelle, risguardarmi quest'alma "
+Occhi, lucenti assai più che le stelle, risguardarmi quest'alma "
 Se'l foco de vostr'occhi mi distrugge "
 Sc questa crudeltà, questi tormenti "
 A la fincstra afacciate no poco "
@@ -46,5 +46,5 @@ prcsso l'herede di Girolamo Scotto. 1575.
 I-Bc: compl.
 I-Bsp: compl.
 I-MOe: compl.
-l-VEaf: compl.
+I-VEaf: compl.
 

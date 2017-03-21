@@ -29,13 +29,13 @@ Quanta gioia tu, scgno e stella ardente. De tre Magi " " 28
 ll luoco, gl'animali e'] freddo (seconda parte) " " ?
 Puri innocenti. Dell'Innoccnti " " 31
 Tolti dal latte (seconda parte) " "
-l-Fn: compl.
+I-Fn: compl.
 
 D-Kl: compl.
 
 US-R: compl.
 
-l-Rsc: C.A.B.5. (3 esempl.).
+I-Rsc: C.A.B.5. (3 esempl.).
 
 I-Bc: C.A.
 
@@ -48,7 +48,7 @@ Cfr.: FRANCESCO dalla Viola.
 
 . . . . . ' di
 2929 - VIRCHI Paolo (1584) - Il Primo Libro de Madrigali a cinque voci;nce
-Paolo Virchi organista et musico del sercnissimo .duca.d1 Ferrara;i nîinaîdìno,
+Paolo Virchi organista et musico del serenissimo .duca.d1 Ferrara;i nîinaîdìno,
 composti et dati in luce. In Venetia presso Giacomo Vincenti, ct R|cc1ar o
 compagni, 1584.
 5 ſasc. in 8° (C.A.T.B.5.), pag. Zl,(1). Ded. al duca di Ferrara, Ferrara, 15 IX 1584.

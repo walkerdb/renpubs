@@ -7,10 +7,10 @@ A 6. Troppo ben può questo tiranno amore per far soggetto un core
 " " E. così a poco a poco torno, farfalla semplicetta
 
 I-Bc: compl.
-l-VEcap: compl.
-l-Vnm: C.A.T.B.5.
+I-VEcap: compl.
+I-Vnm: C.A.T.B.5.
 GB-lcm: A.T.5.
-l-de: A.B.Bc.
+I-de: A.B.Bc.
 
 1019 - FREDDI Amadio (1605) - Di Amadio Freddi padovano il Primo Libro
 de Madrigali a sei voci. Nuovamente composti, et dati in lucc. ln Venetia appresso
@@ -45,7 +45,7 @@ F-Pmeyer: C
 A-Wn: B.
 
 1020 - (De) FRED1ANI Frediano (1585) - Il Secondo Libro delle Villanelle a
-quattro ma, di Frediano de' Frediani cittadino di Luca, servitore del screnissimo
+quattro ma, di Frediano de' Frediani cittadino di Luca, servitore del serenissimo
 Signor duca di Savoia. Al sereniss. sig. Guglielmo Gonzaga, duca di Mantova. ln
 Brescra, a lnstanza di Tomaso Bozzola, 1585. Con licenza de' Superiori.
 

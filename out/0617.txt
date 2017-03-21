@@ -6,7 +6,7 @@ u " Voi sete bella, ma si dura e fredda (seconda parte) ;: 13
 " n Voi sete bella, ma sdegnosa e schiva (quarta parte) d' R o (Bembo) 12
 n " Cantai un tempo e se fu dolce il camo. D| Ro :o oa- " 13
 " " Misero. che sperava csser in via (seconda parte) (T,-...o) "
-" " Io non posso gioire lunge da voi. che sele ll mm. desire " ]5
+" " Io non posso gioire lunge da voi. che sele il mm. desire " ]5
 " " Già non son io conlenlo lunge da voi, che scle I1 rmo lormenlo DH..." 16
 " " Amor, ch'è qucl ch'io miro da bîj |raggi dell sol. Di Scipione (T.-550) 17
 ' ' l'aurora di ueslo e conccn o . - ,. .
@@ -37,7 +37,7 @@ ln un bel chiar'e cristallino fonte (seconda parle) 6
 Ond'io ch'era al mirar (terza parte) ) 7
 E colli h. v ndo dal bel volto ( uarla parte - _ _
 Chiedcndo un.l bcacio alla mia cara Amihla. Di Gw Bau/la Vanelll (Caporali) g
-Ond'io rcstai scnz'alma (seconda parte) (M )i-ino) 10
+Ond'io rcstai senz'alma (seconda parte) (M )i-ino) 10
 Amor non ha più foco, che'l divise fra noi a "
 Vanne pur lungi homai, diSpietato 12
 Benchè da voi lontana 13

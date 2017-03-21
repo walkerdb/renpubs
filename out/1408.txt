@@ -2,8 +2,8 @@ A 5. Non credo che pasccsse mai per selva (Petrarca) 17
 
 " " Con lei fuss'io da che si part'il solc. Sesla Stanza " 18
 " " Versino gli occhi miei sì largo fiume. Sestina (Gallo) 19
-" " Prima 'ch'io torn'a voi, lucenti stellc (Petrarca) 20
-" " ll vago e lieto aspetto, che già lassa mimi 21
+" " Prima 'ch'io torn'a voi, lucenti stelle (Petrarca) 20
+" " il vago e lieto aspetto, che già lassa mimi 21
 D-Mbs: compl.
 
 I-FA: 6.
@@ -53,6 +53,6 @@ Morto son io per che dal dì ch'ai rai, lucido sol. Rime del Tasso (BernardO)
 Ahi dispietato amor, come consenti (seconda parte)
 
 D-Hs: compl.
-l-MOe: A.T.B.5.
-l-VCd: T.B.5.
+I-MOe: A.T.B.5.
+I-VCd: T.B.5.
 

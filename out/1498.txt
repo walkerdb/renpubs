@@ -8,7 +8,7 @@ I-Rn: A.E5.
 
 D-Rp: A.B.5.
 
-l-Fn: A.S.
+I-Fn: A.S.
 
 D-HAu: T.
 
@@ -31,8 +31,8 @@ S'amor la viva fiamma hormai non smorza 4
 Novo consiglio, o dii del ciel (seconda parte) 5
 Qual (Ionna attend'a gloriosa lama di senno, di valor (Petrarca) 6
 1\'i il parlar, che nullo stil agguaglia (seconda parte) " 7
-Scielgan l'almc sorelle in li orli suoi 8
-Ardir, scnno, virtù, bellezza e fede (seconda parte) 9
+Scielgan l'alme sorelle in li orli suoi 8
+Ardir, senno, virtù, bellezza e fede (seconda parte) 9
 O dolci sguardi, o parolette accorte (Petrarca) 10
 Et se tal'hor da begli occhi soavi (seconda parte) " ]]
 Lasso, che mal accorto fui da prima " 12

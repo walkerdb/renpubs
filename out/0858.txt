@@ -28,7 +28,7 @@ Un esempl. compl., ma difettoso. era nella Collezione Heyer di Kòln.
 cinque voci di Marcantonio Inzegneri (sic), novamente composti, et dati in luce.
 ln Venetia appresso Angelo Gardano 1584.
 
-5 fasc. in 8° obl. (C.A.T.B.5.), pag. Zl,(1). Ded. al Conte Augustine Giusti, 25 ll 1584.
+5 fasc. in 8° obl. (C.A.T.B.5.), pag. Zl,(1). Ded. al Conte Augustine Giusti, 25 il 1584.
 
 Mentre Laura gentil, che'l Mincio lionnra, con le candide man 1
 
@@ -36,13 +36,13 @@ Ella gli spiri'allrui sì dolcemente (seconda parte) 2
 Tenera pianta ancor di verde lauro che null'il cald'ardcnle 3
 
 A cui d'intorno i pargolelti amori (seconda parte) 4
-Chi mi dipinse il viso d'incoronaia e le maniere belle volsc 4
+Chi mi dipinse il viso d'incoronaia e le maniere belle volse 4
 In longo vern'liavea l'oscura nolle a noi velato il lume 6
 Il vago e liet'aspetlo, che già lassa mirai, m'abbagliò sì che vinta 7
 Vagh'herbelt'e bei fiori che, partend'io, madnnn'in un raccolse 3
 lo dissi, donn'il vero. Se le due rose candid'e vermiglio 9
 In mar fissa tcnea amor la vist'un giorno, cli'ondeggiava di lagrime d'amanti 10
-Almi raggi del ciel, che risplendeie nel angelico \'olto "
+Almi raggi del ciel, che risplendeie nel angelico Volto "
 
 Ragion è ben che di voi parli ogn'hora (seconda parte) - "
 Questo è quel di, di pianto e d'honor degno, che'l padre e il figlio (Guarini) "
@@ -62,7 +62,7 @@ I-Bc: compl.
 
 I-MOe: compl.
 
-l-VEaf : compl. (2° cscmpl.: G.B.).
+I-VEaf : compl. (2° cscmpl.: G.B.).
 D-As: compl.
 
 GB-Lbm: compl.

@@ -13,18 +13,18 @@ A 1. [' vo piangendo i miei passati tempi (Petrarca) 3
 " " Vivo, ahi lasso, o pur moro 10
 " " Sparsa d'immorlal luce, eccelsa fede 11
 " " O come invan credei passar l'hore screne 12
-A Z. T'inaspri :| miei lamenti 13
+A 2. T'inaspri :| miei lamenti 13
 A 1. Ancora il re nasce piangendo in terra 14
 " " Infausta a gl'occhi suoi sorge l'aurora 14
 " " Felice il re, ch'a se mcdesmo impera 15
-A Z. Ben può chi vuol a re giunger appresm 15
+A 2. Ben può chi vuol a re giunger appresm 15
 A 1. È fior la speme mia, che nel aprire si secca 16
 " " Dove mi lasci, fonte della mia vita 17
 " " Pargoletto son io, che non conosco affanni 18
 " " Anch'io spirto ho nel petto 18
-A 2. Dunquc con stile lieto e dolcissimo 18
+A 2. Dunque con stile lieto e dolcissimo 18
 A 1. Il cor nel volto rida e gioiscasi 19
-A Z. Veri diletti qua giù non regnano 19
+A 2. Veri diletti qua giù non regnano 19
 A 1. Pietà di chi sì more, o celcste mio sole 20
 " " Popol diletto mio. dimmi che t'ho fatt'io 11
 " " Voi, che dietro a fallaci e cieche scorte (Marino) 22
@@ -34,7 +34,7 @@ I-Bc
 
 I-Rvat (Barberini)
 I-Rvat (Capp. Giulia)
-l-Rsc
+I-Rsc
 
 A-Wn
 

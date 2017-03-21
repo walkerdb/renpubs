@@ -5,7 +5,7 @@ A5. Bench'alla tua beltade, sangue gentil 17
 " " Lucida perla nel materno argento vidd'io 20
 " " Suggi, suggi, bambino, che mentre latte suggi 21
 
-l-Rv: compl.
+I-Rv: compl.
 D-Rp.: C.l°, C.Z°, A.B.
 D-Rtt: CP.
 

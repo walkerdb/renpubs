@@ -36,7 +36,7 @@ Fuggimi pur se sai, crudel e senza fede, ch'anch'io ti fuggirò B
 
 A-Wn: compl.
 D-Kl: C.A.T.B.
-l-Nc: A.T.B.
+I-Nc: A.T.B.
 
 1889 - MONTELLA Giovan Domenico (1602) - Primo Libro de Villanclle a
 UC, et a quattro voci, con alcune Arie di Gio. Domenico Montella napolitano.
@@ -49,7 +49,7 @@ A 3. Sì dolcemente il core arde per vostro amore 3
 " " Se quando liet'io canto 4
 " " Udite in cortesia, un novo oltraggio della donna mia 5
 " " Non havria senza voi 6
-" " Fra millc e mill'amanti 7
+" " Fra mille e mill'amanti 7
 " " Ardemi e bruscia amore 8
 " " Non credo che si prova 9
 

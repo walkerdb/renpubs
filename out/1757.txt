@@ -47,5 +47,5 @@ I-Fn: compl.
 D-Mbs: C.T.B.
 PL-WRu: G.B.
 
-l-Rsc: C
+I-Rsc: C
 

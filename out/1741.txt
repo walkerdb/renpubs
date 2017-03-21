@@ -9,7 +9,7 @@ Parco da voi e so con quanta pena faccio da voi partita 22
 Parto da voi, perchè l'alm'è serena (seconda parle) B
 Perlino vago, non latrar. Che ſai.> Ah non conosci il mio caro desio 24
 Non miri il mio bel sole chi lui sol non adora, com'io ch'altro (Guarini) 25
-l-Nc: compl.
+I-Nc: compl.
 
 F-Pthibault: compl. (prov.liorgheze-Cortot)
 (ìB-me: compl.
@@ -49,7 +49,7 @@ Son morto, o vivo? 19
 Io son ferito e porto imagine di vivo, ma son di vita privo . 20
 Pallidctlo mio sole, ai tuoi dolci pallori perde l'alba \'ermiglia (Manno) 21
 
-l-VEcap: compl.
+I-VEcap: compl.
 F-Pthibault: compl.
 GB-Lbm: compl.
 

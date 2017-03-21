@@ -28,7 +28,7 @@ A 6. Questa non è (quinta parte) 19
 " " Donna, un tempo di voi l'ira soffersi 20
 A 8. Qual canzon ti debb'io 21
 
-l-MOe: compl.
+I-MOe: compl.
 D-As: compl,
 A-Wn: C.T.5.
 

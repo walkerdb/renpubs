@@ -25,7 +25,7 @@ Menava gli anni miei, gioioso e quicto (Tansillo) 26
 Mcntrc che l'alma si lament'e plora, veggio da gl'occhi mie levarsi 28
 Ecco l'aurora con l'aurata fronte, ch'a passo a passo ci rimena il giorno D
 
-l-VEaſ: compl.
+I-VEaſ: compl.
 
 2588 - SCHIAVETTO Giulio (1563) - Dì M. Giulio Schiavetto, li Madrigîllila
 quatto (ric), et a cinque voci. Nuovamente composti, datti in luce, ct corretti. \\
@@ -37,7 +37,7 @@ Sebenico.
 
 A 5. Era'l giorno ch'al sol si scolorava (Petrarca) ;
 " " Trot'omm'amor del tutto disarmato (seconda parte) " 2
-" " Amor mi spron'in un tempo et affrcna " 3
+" " Amor mi spron'in un tempo et affrena " 3
 " " Pace non trovo e non ho da far guerra " 4
 " " Tal m'ha in prigion che non m'apre (seconda parte) " 5
 " " Per pietà de gl'acerbi miei martiri 6

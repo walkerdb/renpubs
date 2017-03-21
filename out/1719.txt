@@ -24,12 +24,12 @@ A4. Cor mio, la tua partita mi tolz'il cor e pur mi tien in vita 3
 " " Fresch'herbe, fior e fronde, ch'ornati queste sponde 20
 " " S'io vivo, anima mia, vivo per voi, e se languisco moro. Aria 21
 " " Che scioechezz'è d'un core, che fida in preda. Dialogo 22
-A3. Ninfa gentile, crude] e bella, ch'in quest'aprile 33
+A3. Ninfa gentile, crudel e bella, ch'in quest'aprile 33
 " " Ohimè, non so che far. Quesla crudele mi guard'un poco 24
 " " Signora, se volete far l'amore, bisogna mutar stile 25
 " " Sempre mirar vorria quesli begl'occhi tuoi 26
 " " Tu fuggi, fuggitiva, per far mia vista del tuo aspelto priva 27
-l-Nn: A.
+I-Nn: A.
 
 GB-Lbm: T.
 
@@ -41,7 +41,7 @@ presso Angelo Gardano. 1594.
 
 che della Musica ne ha buonissima parte... e co'] sentire e co'l cantare... Lodi, 1° V 1594 ".
 
-Come farò, cor mio, quando ti parti, che sol pensando alla crude] partita 1
+Come farò, cor mio, quando ti parti, che sol pensando alla crudel partita 1
 T" parti, e'] ciel pur vole ch'io viva senza de begl'occhi, solo î
 
 [Va cercand'amor le suc sorelle in queste parti c'n quelle

@@ -26,7 +26,7 @@ Ma tu, cagion di quella atroce pena (seconda parte) 20
 O tenebroso giorno, infelice mio stato, o mio cor tristo 21
 Se tu fuggi, io non resto clie'l cor li segue 22
 T'amo, mia vita, la mia cara vita mi dice e in questa sola (Guarini) B
-l-Nc: A.B.5.
+I-Nc: A.B.5.
 
 1173 - GESUALDO Carlo (l6l4) - Madrigali a cinque voci. Libro Quinto. Del
 prencipe di Venosa. Dedicati al molto illustre signor Alfonso Strozzi. Con privi-
@@ -34,7 +34,7 @@ legio. Stampa del Gardano. In Venetia 1614.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. 23. Ded. di Bartliolomeo Magni il Gardano: " ...li prcsenlai
 l'anno passato I'Orfeo de diversi ingegni... il principio del presente anno gl'offerisco il Quinto
-Libro de Madrigali del sercnissimo don Carlo Gesualdo principe di Venosa, havuto per industria
+Libro de Madrigali del serenissimo don Carlo Gesualdo principe di Venosa, havuto per industria
 
 îlel signore Benedetto (Simone) Molinaro eccellentissimo maestro di Capella" in Genova... Venetia.
 ° I 1614 ".
@@ -44,9 +44,9 @@ GB-Ge: compl.
 D-Mbs: A.T.B.5.
 
 US-SFsc (Dc Bellis): C5.
-l-Fn: T5.
+I-Fn: T5.
 
-l-Rsc: C.
+I-Rsc: C.
 
 US-CA: T.
 

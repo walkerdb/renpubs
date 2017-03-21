@@ -4,7 +4,7 @@ A 5. Ma se pur sct'usati alimenlo pigliar (terza stanza) ﬂ
 " " Occhi, fiamme d'amore che d'invisibil (quinta stanza) 10
 " " Lieta dal ciel a noi face ritorno col capo d'oro. Rime di Gio. di l'Aquila 11
 " " Alba, che con luce alma novella (seconda parte) Il
-" " O funebr'e di due] carco Elicona, com'Apollo sospira. Rime di don Cesare Carafa 13
+" " O funebr'e di duel carco Elicona, com'Apollo sospira. Rime di don Cesare Carafa 13
 " " Gli elementi tra lor stan contrastando (seconda parte) H
 
 " " Come natura cangia art'e costume nè hoggi è più qual hier. Rime del signor
@@ -34,7 +34,7 @@ I-Bc: compl.
 D-Mbs: compl. (T. difett.).
 D-Kl: compl.
 
-l-Rsc: C.T.
+I-Rsc: C.T.
 
 2273 - PRIMAVERA Giovan Leonardo (1565) - Il Primo et Secondo Libro dc
 Madrigali a cinque, et a sei voci, di Giovan Leonardo Primavera: novamente da
@@ -45,7 +45,7 @@ lui composti, et dato in luce. In Venetia appresso Girolamo Scotto. 1565.
 A 5. Amor et io sì pien di meraviglia (Petrarca) :
 " " Qual miracolo è quel (seconda parte) " .
 " " Amor, fortuna et la mia mente schiva " 5
-" " Nè spcro i dolci di (seconda parte) " 6
+" " Nè spero i dolci di (seconda parte) " 6
 " " Se lamenta: augelli, o verdi fronde " 6
 " " Deh perch'inanzi tempo (seconda parte) " 7
 " " Mira quel colle, o stanco mio cor vago " 8

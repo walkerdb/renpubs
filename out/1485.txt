@@ -22,8 +22,8 @@ Hellas comment voules vous que no7. yeulx cessent leurs pleurs 22
 D-HB: A.D.
 
 A-Wn: A.
-l-MC: T.
-l-Tn: T.
+I-MC: T.
+I-Tn: T.
 
 2375 - (De) RORE Cypricn (1552) - Di Cipriano de Rorc il Primo Libro dc
 Madrigali a quatro voci novamente per Antonio Gardane con ogni diligentia
@@ -41,5 +41,5 @@ Venetiis, apud Hieronymum Scotum. 1554.
 
 4 fasc. in 8° obl. (C.A.T.B.), pag ZZ. Indice = 1550.
 
-l-Vnm (Canal): C.T.B.
+I-Vnm (Canal): C.T.B.
 

@@ -32,15 +32,15 @@ A 5. Lagrime, voi che dal mio ciel cadenti, il lume. 2 T.,B. e 2 Viol. 15
 A 1. Queste meste querele, queste languide note, Dorindo. Cantata in stile recitativo.
 [Voce sola. T. (Marino) 27
 
-l-llc: compl.
+I-llc: compl.
 
-l-Md: compl.
+I-Md: compl.
 
-l-MOe: compl.
+I-MOe: compl.
 
 A-Wn: compl.
 
-l-VEaſ: llc.
+I-VEaſ: llc.
 
 2773 - TURINI Francesco (1629) - Madrigali a cinque cioe tre vocx e due
 Violini con un Basso continuo duplicato per un Chitarrone o simil [Strumenta-

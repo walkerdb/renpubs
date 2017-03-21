@@ -2,7 +2,7 @@ A 6. Poi che stella nemic'nl mio giorre :\ partirmi (la mi 22
 
 A 5. Cinque compagni andorn'un giorn'a caccia et furno 73
 >. " Ecco ch'in un cespuglio appress'un fosso (seconda parte) 24
-" " Ond'ella sul scntiero presto sbalsò (terza parte) 25
+" " Ond'ella sul sentiero presto sbalsò (terza parte) 25
 A 6. Hor voglio che si faccia un consiglio (quarta parte) 26
 " " All'hor con faccia inna (quinta parte) 27
 A 7. Onde forte gridava il muto ad alla voce (sesta parte) 28
@@ -17,7 +17,7 @@ appresso Alessandro Raverij. 1606.
 [ Nc: compl.
 GB-Lbm: compl.
 GB-Och: compl.
-l-PAc: C.A.T.B.
+I-PAc: C.A.T.B.
 A-Wn: ABS.
 
 2110 - PALLAVIClNO Benedetto (1607) - Di Benedetto Pallavicino il Secondo
@@ -32,7 +32,7 @@ O saette (l'amor, ch'a mill'a mille quinci movete e non \'i s'ha 4
 
 Dolce mia cara mano, con cui lo stralc e'l foco m'avcnta 6
 
-Come poss'io, madonn'il bel desio, che di voi sì m'acccsc 3
+Come poss'io, madonn'il bel desio, che di voi sì m'acccse 3
 Da ind'in qua tra mille nodi Stretto (seconda pane) :?
 
 Tu ninfa (li beltà sei fior e fonte perchè dal somm'lddio

@@ -13,7 +13,7 @@ A 8. Bella schiera real, alteri numi 13
 
 " " Scendi Giuno dal ciel, vien'Himeneo. In occasione di nozze. A Giacomo Contarini 23
 
-l-VEcap: compl.
+I-VEcap: compl.
 F-Phanson: C.A.T.S.6.7.B.Bc.
 
 GB-Och : C.A.T.B5.
@@ -47,5 +47,5 @@ A 4. Dori, morir debb'io, Doci dolce ben mio, morir debb'io, nè mi darai aita 1
 " " Quest'è quel chiaro giorno, che giù lì a piè del bel colle di mirti 20
 " " Dunque gentili spirti, s'amor vi stringe il cor (seconda parte) 21
 
-l-VCd: C. (solo pag. 3-13). T-B-
+I-VCd: C. (solo pag. 3-13). T-B-
 

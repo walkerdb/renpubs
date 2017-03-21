@@ -27,7 +27,7 @@ A 6. Lunge da voi, con voi mi tene amar, nè dal pensier di voi 1
 " " O se ſermaste un solo alticro (terza parte) 7
 " " Ma poi vostr'alto orgoglio ohimè (quarta parle) 8
 " " De l'Arno in su le sponde spargea Alessi mio si dolci accenti 9
-" " Lagrimc care, che di mczw'l foco del cor uscite lO
+" " Lagrime care, che di mczw'l foco del cor uscite lO
 " " Già sarei sotto l'amoroso incarco (seconda parte) 11
 " " Sc per far la mia vita ogn'hor più trista 12
 " " Ma sc volgcte altrove i duo be' soli (seconda parte) 13
@@ -37,21 +37,21 @@ A 7- Coppia gentil, ch'un dolce foco acceso. Canzone (Rinuccini) IS
 " " Sì potess'io mostrarti il cor aperto (terza parte) " 17
 " " Vero amor, vera speme sempre resse (quarta parle) " 18
 " " Morte m'è presso homai tal è l'affanno (quinta parte) " 19
-" " Grave è più ch'altr'il duo] ch'huom (sesta parte) " 20
+" " Grave è più ch'altr'il duol ch'huom (sesta parte) " 20
 " " Tempra homai l'ira. Amor vince ogni cosa (settima parte) " 21
 
-l-Vnm: compl.
+I-Vnm: compl.
 
 D-MBs: compl. (prov. Heyer).
 I-Fn: C.A.B.5.
 
-l-Rsc: T.B.5.6.
+I-Rsc: T.B.5.6.
 
 GB-Lbm: C
 
 F-Pn: A.
 
-l-PS: T.
+I-PS: T.
 
 I-Bc: B.
 

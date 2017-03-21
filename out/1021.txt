@@ -28,7 +28,7 @@ I-Bc: 5.
 
 Un cscmpl. compl. (con T. difettoso) cm nella Collezione Heyer di Këln.
 
-1619 - MARENZIO Luca (1594) - Di Luca Marcnzio il Quarto Libro de
+1619 - MARENZIO Luca (1594) - Di Luca Marenzio il Quarto Libro de
 Madrigali a cinque voci. Novamente ristampato. In Venetia appresso Angelo
 
 Gardano. 1594.
@@ -50,7 +50,7 @@ I-Sac: C.
 D-Rp: C- (prov. Haberl).
 NL-DHgm: A.
 
-l-Sd: T.
+I-Sd: T.
 
 Il N. 1620 è annullato.
 

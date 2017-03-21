@@ -46,7 +46,7 @@ I-Bc: compl.
 D-As: compl.
 F-Pc: compl.
 GB-Lbm: compl.
-l-Rc: T.B.
-l-VEaf: 5.
+I-Rc: T.B.
+I-VEaf: 5.
 NL-DHgm: A.
 

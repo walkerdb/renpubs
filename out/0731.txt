@@ -14,8 +14,8 @@ A 1. Penc terribili che di punture 19
 " " Care pene, dolci catene 31
 " " Non chiedo amor, cor mio, amore lo sa 34
 " " Quel infermo che sta 33
-" " ll capriccio governa 41
-A Z. D'amore :\ la forza resister non so. 45
+" " il capriccio governa 41
+A 2. D'amore :\ la forza resister non so. 45
 D-W
 
 F-Pn
@@ -28,13 +28,13 @@ di Maurco Aureli. In Rotterodamo appresso Giovanni Van Geertsom. 1656.
 4 fasc. in 8° (C.T.B.Be.), pag. 28 (Bc. pag. 39). Deel. :\ Reinier Groenhout.
 
 A 1. Deh soffri, mio core. ne campi d'amore (di Luigi Rom) 4
-" " Fanciullc tenere 5
+" " Fanciulle tenere 5
 " " Palme. palme, allori 6
 " " Vittoria, mio cuore (di G' Carimſſnu) 7
 
 8
 
-" " ll vostro splendorc
+" " il vostro splendorc
 A 2. È spento l'ardore ch'il sen m'infiammò, o barbaro amore 9
 
 " " Fermate il volo, o venti, fermatevi pielosi :\ miei lamenti ...

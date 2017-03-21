@@ -12,13 +12,13 @@ GB-Lbm: compl.
 GB-Ll: compl. (T. difett.).
 GB-Lwa: compl.
 
-l-Vnm (Canal): C.B.
+I-Vnm (Canal): C.B.
 
 F-Pn: A5.
 
 F-CC: C.
 
-l-VEaf: A.
+I-VEaf: A.
 
 2526 - SABINO Ippolito (1579) - Sabino Madrigali a sei voci di Hippolito
 Sabino novamente da lui composti et dati in luce. Libro Primo. In Venetia appresso
@@ -42,7 +42,7 @@ Che fai, che pensi, che pur dicho guardi " ...
 Deh non rinovellar quel che m'ancide (seconda parte) " "
 
 Tirsi, in ira di Filli, il duol lo guidava a sc slcsso ferir 12
-Et secca, 0 gran pietà, quasi ogni vena (seconda parte) 13
+Et secca, o gran pietà, quasi ogni vena (seconda parte) 13
 
 Dolc'ire, dolci sdcgni e dolci paci (Petrarca) "
 Forse ancor fia chì sospirando dica (seconda parte) " 15

@@ -31,12 +31,12 @@ I-Bc: compl.
 GB-Lbm: compl.
 GB-Och: compl.
 D-Rp: C.A.T.5.Bc.
-l-Rc: C.B.5.
+I-Rc: C.B.5.
 D-Hs: C.B.S.
 D-Bds: ABC.
 F-Pn: C_
 
-l-FEC: Bc.
+I-FEC: Bc.
 
 1935 - MONTEVERDI Claudio (1639) - Di Claudio Monteverde maestro della
 musica del sereniss. S. duca di Mantoa. Il Sesto Libro de Madrigali a cinque voci

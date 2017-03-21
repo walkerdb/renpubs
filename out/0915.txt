@@ -10,15 +10,15 @@ A-Wn: compl.
 
 D-Bds: compl.
 D-Mbs: compl.
-l-VCd: C.T.B.5.
-l-Bsp: A.T.B.5.
+I-VCd: C.T.B.5.
+I-Bsp: A.T.B.5.
 
 B-Br: C.A.5.
 NL-DHgm: T.
 
 F-Pm: 5.
 
-l-Vc (Torrefranca): B.
+I-Vc (Torrefranca): B.
 Boelticher 755.
 
 RISM. I 1566-12.

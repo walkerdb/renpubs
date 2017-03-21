@@ -14,7 +14,7 @@ A-Wn: compl.
 
 D-Mbs: compl.
 I-VEaf: G.B.
-l-Vnm: A.
+I-Vnm: A.
 
 Il N. 1560 è annullato.
 

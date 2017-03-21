@@ -1,4 +1,4 @@
-Vorrei lagnarmi a pieno, sfogand'ìl duol ch'io scnlo (Tasso) 3
+Vorrei lagnarmi a pieno, sfogand'ìl duol ch'io senlo (Tasso) 3
 
 Se laccio il duol s'avanza, se parlo accresco l'ira (seconda parte) " 4
 Lacci, catene e ceppi, giogo, prigion, saette 5
@@ -20,9 +20,9 @@ Ecco l'hora. ecco ch'io (a pena il posso dire) son constretto (Marino) ?:
 
 A me che dolce \"amo, sì amara pena date, che sembra amara ancor
 
-l-Fd: A.T.5
+I-Fd: A.T.5
 I-Bc: C.
-l-TSl: C.
+I-TSl: C.
 
 1534 - DE MACQUE lean (1586) - Di Giovanni Dc Macquc il Primo Libro de
 Madrigali a quattro voci novamente composti, et dati in luce. ln Venetia presso

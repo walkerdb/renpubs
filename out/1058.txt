@@ -16,20 +16,20 @@ GB-Lbm: C.
 F-Pmcyer: B.
 I-BRq: B.
 
-1705 - MARENZIO Luca (1591) - Di Luca Marcnzio il Quinto Libro delle
-Villanellc a tre voci con una a quattro. Raccolto da Attilio Gualtieri. Novamente
+1705 - MARENZIO Luca (1591) - Di Luca Marenzio il Quinto Libro delle
+Villanelle a tre voci con una a quattro. Raccolto da Attilio Gualtieri. Novamente
 ristampato. In Vinegia, 1591. Appresso l'herede di Girolamo Scotto.
 
-3 fasc. in 8° (C.T.B.), pag. 46. Bed. di Attilio Gualtieri a Pomponio de Magistris, segretario di
+3 fasc. in 8° (C.T.B.), pag. 46. Ded. di Attilio Gualtieri a Pomponio de Magistris, segretario di
 Camilla Peretti, Roma, 20 Ill 1591. Indice = 1587.
 
 I-Bc: compl.
 A-Wn: compl.
 A-ng: compl.
 GB-Lbm: T.E.
-l-Fn: T.
+I-Fn: T.
 
-l-Rsc: B.
+I-Rsc: B.
 
 1706 - MARENZlO Luca (1600) - Il Quinto Libro delle Vìllanelle et Aric
 alla napolitana a tre voci di Luca Marenzio di novo ristampate, et con diligcl'lza

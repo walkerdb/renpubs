@@ -7,7 +7,7 @@ Fuggi, fuggi, cor mio, fuggi, dico, veloce e torn'al luogo 14
 Perchè la vita è breve c_l'ingegno paventa (Petrarca) 14
 Se a voi fossi si nota la divina incredibil bellezza di ch'io ragioni 15
 
-l-VEaf : compl.
+I-VEaf : compl.
 A-Wn: compl.
 I-Bc: C.
 
@@ -33,8 +33,8 @@ Amor, amor, soccorrimi, che crudeltà senza ragion minacciami 11
 Di speranza mi paseo e di desire e fondo in aria 12
 Morte m'ha morto e sola può far morte (Petrarca) 13
 Non perch'io sia securo ancor del fine " 14
-Et pcrch'ancora lamentar convicmmi della mia cruda (Sannazzaro) 15
-Tyrrhena mia, il cui color aguaglia le matutine rosc " 16
+Et perch'ancora lamentar convicmmi della mia cruda (Sannazzaro) 15
+Tyrrhena mia, il cui color aguaglia le matutine rose " 16
 Stando per meraviglia 3 mirar fiso quel sol " 17
 Hor veggio, lasso, che di guerr'in guerra mi strati'amor " 18
 Amor m'ha posto come segno a strale (Petrarca) 19

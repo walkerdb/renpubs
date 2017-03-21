@@ -9,7 +9,7 @@ A 6. Sì proſund'era (seconda parle)
 " " Per divina bellezza (nc-conda parte) " 105
 " " [' vidi in terra angelici costumi " 106
 " " Amor senno valor (seconda parte) " 107
-"' " O\'e ch'i' pnsi gli occhi lassi, 0 giri " 108
+"' " O\'e ch'i' pnsi gli occhi lassi, o giri " 108
 " " Amor e'] ver ſur mecn (seconda parle) " 109
 " " Pien d'un \'ago pemier, che mi (lisvia " 110
 " " Ben s'in non erro (seconda parte) " 111
@@ -43,20 +43,20 @@ I-TVc: C.T.B.5.6.7.
 B-Br: C.T.B.5.6.7.
 E-Bd: C.A.B.5.6.7.
 GB-Lcm: C.A.B.5.6.
-l-VEaf: C.T.B.5.6.7.
+I-VEaf: C.T.B.5.6.7.
 1-MOe: C.T.B.6.7.
 1-Rc: A5.
 
 1-Tn: A5.
 
-l-Vnm. T.E.
+I-Vnm. T.E.
 I-PAc: C.
 
-l-Vlb: C.
+I-Vlb: C.
 
 E-Mn: C.
 
-l-Nc: T. (ſramm.).
+I-Nc: T. (ſramm.).
 D-Rp: B. (prm'. Haberl).
 
 WILLAERT Adriano _
@@ -66,7 +66,7 @@ Cfr.: TlBURTlNO Giuliano - WILLAERT Adriano - DE RORE Cyprien.
 Flamengo Libro Primo. In Venetia, appresso Giacomo Vincenti 1597.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. Zl,(1). Ded. a Monsig. Giulio Caracciolo, Arcivescovo di TT:;
-"Qucslc mie prime, ct giovanili fatiche Musicali... csscndosi degnata (v.%) d:]ccmafnilmînſare
+"Qucslc mie prime, ct giovanili fatiche Musicali... cssendosi degnata (v.%) d:]ccmafnilmînſare
 Scn'ilii. et condurmi da Spagna a Italia, mi ha dato agio ... casa sua dmtcn ere, c
 
 -l870-

@@ -39,7 +39,7 @@ A 8. lo grido pace, pace, e amor mi sfid'a guerra. Dialogo
 I-Bc: compl.
 GB-Lbm: C.A.T.5.
 NL-DHgm: A.
-l-LOcl: B.
+I-LOcl: B.
 
 1224 - GIOVANNELLI Ruggero (1599-2) - Di Ruggiero Giovannelli .macSlſO
 di capella in S. Pietro di Roma. Il Terzo Libro de Madrigali-a cmquc_voc1._1'î<;;;'
@@ -48,7 +48,7 @@ mente da lui composti, et dati in luce. In Venetia, appresso Giacomo Vincenti -
 Indicc = 1599-1.
 
 Pl.-GD: compl.
-l-de: T.5.
+I-de: T.5.
 I-Vnm (Canal): T.
-l-Fm: 5.
+I-Fm: 5.
 

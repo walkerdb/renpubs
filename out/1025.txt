@@ -8,7 +8,7 @@ A 5. Amor, sc giusto sei ſà che la donna mia 10
 " " Voi bramate ch'io moia cl io morir desio, pur ch'io (Paoli) 16
 " " Rimanti in pace a la dolcnlc (: bella Cloridc (L. Cclinno) 17
 " " Ond'ci di morte la sua faccia (seconda parte) " " 18
-" " Ecco maggio scrcn, chi l'ha vestito di sì bel verde (G.B. Strozzi) 19
+" " Ecco maggio scren, chi l'ha vestito di sì bel verde (G.B. Strozzi) 19
 A 8. Canti.-um la bella Clori, Clori cnnliam che (lui celesti 20
 I-Bc: compl.
 
@@ -19,18 +19,18 @@ A-Wn: compl.
 B-Br: compl.
 D-As: compl.
 F-Pthibault: compl.
-l-Bsp: C.A.T.5.
+I-Bsp: C.A.T.5.
 GB-Lbm: C.A.T.5.
 I-ST: C.
 NL-DHgm: A.
-l-Sd: T.
+I-Sd: T.
 
 US-BE: T.
 ElR-Dm: B.
 US-BU: 5.
 US-CA: S.
 
-1630 - MARENZIO Luca (1603) - Di Luca Marcnzio il Sesto Libro de
+1630 - MARENZIO Luca (1603) - Di Luca Marenzio il Sesto Libro de
 Madrigali a cinque voci. Novamente ristampato. Con privilegio. In Venetia.
 Appresso Angelo Gardano. 1603.
 
@@ -44,7 +44,7 @@ F-Pc: compl.
 
 F-Phanson: compl.
 
-l-Nc: C.A.B.
+I-Nc: C.A.B.
 
 GB-Lbm: C.T.B.
 
@@ -56,7 +56,7 @@ I-Sac: C.
 
 Un esempi. compl. era nella Collczionc Heyer di Kòln.
 
-1631 - MARENZIO Luca (1604) - Di Luca Marcnzio il Scsto Libro de
+1631 - MARENZIO Luca (1604) - Di Luca Marenzio il Scsto Libro de
 Madrigali a cinque voci. Novamente ristampato. Con privilegio. In Venetia.
 Appresso Angelo Gardano. 1604.
 

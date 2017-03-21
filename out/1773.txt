@@ -6,9 +6,9 @@ F-Pn: C.
 
 I-Bc: 5.
 
-l-Fr: 8.
+I-Fr: 8.
 
-l-Vnm (Canal): 8.
+I-Vnm (Canal): 8.
 
 GB-Lbm: 8.
 
@@ -30,7 +30,7 @@ de Gotti, et de Vandali.
 
 Prima proposta
 A6. Hor che la veglia è numeros'assai
-A3. Tutte lc iurnu, (uuu lu tiempu. lmitalione dello siciliano
+A3. Tutte le iurnu, (uuu lu tiempu. lmitalione dello siciliano
 A 6. O che solazzo. Applauso overo chinehiera della Veglia.
 Seconda proposta
 A6. E voi, signora Laura

@@ -31,7 +31,7 @@ A 1. Alla caccia, alla caccia pastori. hor che sorge la primavera 34
 " " Care luci, che vaghezza d'impiagar prendete il petto 38
 " " lo vissi un tempo in dolce libertate. Modo di cantar Ottave (Quirino) 39
 " " "manne il piange: mio le fere, e i sassi. Altro modo di cantar Ottave (Rinuccini) 40
-A L O luci belle, 0 stelle amate. voi che vibrate. Aria in Gagliarda 41
+A L O luci belle, o stelle amate. voi che vibrate. Aria in Gagliarda 41
 
 " " Godi, felice Alfea, gia torna aprile. Di Antonio Brunelli, maestro di capella del Gran
 [Duca di Toscana nella Religione di S. Stefano. Sopra il ritorno de Serenisimi a Pisa 44
@@ -39,7 +39,7 @@ A L O luci belle, 0 stelle amate. voi che vibrate. Aria in Gagliarda 41
 " " Vaglieggiando le hell'onde d'lppocrene io mi giacca. Scherzo sopra il Tamburo alla
 [Turchescha (Chiabrera) 48
 
-l-Fn
+I-Fn
 GB-Oeh
 HSM 1, 1617-12.
 

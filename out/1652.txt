@@ -25,7 +25,7 @@ D-Hs: compl.
 
 US-Wc: compl.
 
-l-Vnm: 5.
+I-Vnm: 5.
 
 2641 - STABILE Annibale (1572) - Di Annibale Stabile il Primo Libro de Madfi'
 gali a cinque voci, novamente composti ct dati in luce. A cinque voci. In Venetia
@@ -47,7 +47,7 @@ Solo, soletto, me ne vo piangendo 9
 
 Che peggio far mi puoi, crude], da che mia vita
 
-Qual per ombrosc e verdeggianti valli (GT"-"di) 10
+Qual per ombrose e verdeggianti valli (GT"-"di) 10
 "
 
 Puote aguaglinr l'alto piacer (seconda parte) {i

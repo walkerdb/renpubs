@@ -4,7 +4,7 @@ Però che da l'ardore l'humor (seconda parte) " 19
 Che se tanto a voi piace veder (terza parte) n 20
 Et di voi non mi doglio quanto (quarta parte) " 21
 
-l-MOe: compl.
+I-MOe: compl.
 
 1-VEaf: compl.
 
@@ -16,7 +16,7 @@ F-Phanson: compl.
 
 Pl.-GD: compl.
 
-l-Rse: C.T.B.5.6.
+I-Rse: C.T.B.5.6.
 
 Un csemplare compl. esisteva nella Collezione Heyer di Kòln.
 

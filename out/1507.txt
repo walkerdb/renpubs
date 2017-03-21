@@ -16,7 +16,7 @@ Ma'l bcl pensier che suo malgrado (seconda parte) 21
 Ne le amar'et ſrcdd'onde, onde si bagna. Di Adriano 21
 Ceda, nata nel mar, Venere e amore (seconda parte) 22
 Deh hor luSs'io cn] vago della luna (Petrarca) 23
-l-Fn: compl.
+I-Fn: compl.
 E-V: 5.
 
 RISM, I 1562-21 (non compl.).
@@ -28,7 +28,7 @@ di Antonio Gardano. 1563.
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 29. lndice = 1557.
 
-l-VEcap: compl.
+I-VEcap: compl.
 
 A-Wn: compl.
 
@@ -43,9 +43,9 @@ B-Br: C.A.5.
 
 D-Rp: A.B.5.
 
-l-Rn: B.5.
+I-Rn: B.5.
 
-l-PS: BS.
+I-PS: BS.
 
 F-Pm: 5.
 

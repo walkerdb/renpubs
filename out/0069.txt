@@ -10,7 +10,7 @@ A 5. Qui voi sterili et egre sarcst'anchc voi sempre, 11
 " " Ardea per voi felice et ard'ancora, quant'arder possa 19
 " " S'altra fiamma giamai m'arse, madonna, il core 21
 " " Io canto al sol e a l'ombra et canterò di voi con altro stile 22
-" " Datemi pace, 0 duri miei pensieri. Non basta ben ch'amor (Petrarca) 23
+" " Datemi pace, o duri miei pensieri. Non basta ben ch'amor (Petrarca) 23
 " " In te i segreti suoi messaggi amore (seconda parte) " 24
 " " Cara nimica all'amorosa pace, com'esser può ch'ancora 25
 " " La più soav'et chiara delle due fonti ov'è? Chi ne l'ha tolta? A voci pari 26
@@ -22,7 +22,7 @@ A 6. Rompas'il duro ghiaccio, che'l fonte di pietà cuopr'e nasconde 30
 " " Ardenti stelle, qualhor fu giamaì ch'e santi lumi in voi 34
 " " Et quando fu giamai gran madr'antica (seconda parte) 36
 
-l-Fn (Palatino): compl.
+I-Fn (Palatino): compl.
 I-Bc: Contralto.
 I-VEaf: T.
 
@@ -42,7 +42,7 @@ A 5. Se delle voglie sue fallace segno non presta, od opra 1
 " " Dolce mio caro e pretioso pegno " 5
 " " Onde qua giuso un ben pietoso core (seconda parte) " 6
 " " Cantai un tempo et se fu dolc'il canto questo mi tacerò (Bembo) 7
-" " Virtù, scnno, valore, con sì mirabil tempre albergan 8
+" " Virtù, senno, valore, con sì mirabil tempre albergan 8
 " " S'honesto amor può meritar mercedc e se pietà (Petrarca) 9
 " " Ond'io spero che'n fin dal cielo (seconda parte) " lO
 " " Lasso me, ch'ad un tempo e taccio e grido e temo (Bembo) 11

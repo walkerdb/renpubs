@@ -15,7 +15,7 @@ A 5. Lasso mi trov'amor fra questi monti in nel più ascoso 15
 " " Amor, la tua virtute non è dal mondo e da la gente (Bembo) 19
 " " Anima bella, da quel nodo sciolta, che più bel mai (Petrarca) 20
 " " Lasso, poi che'l gran piant'e'l grand'ardore 21
-" " Benedetto sia'l giorno e'] mesc e l'anno (Petrarca) 22
+" " Benedetto sia'l giorno e'] mese e l'anno (Petrarca) 22
 " " Benedette le voci tante (seconda parte) " 23
 " " Chi mi dà l'ali ond'inalzato a volo poggi 24
 " " Non so però cantar quel ch'io (seconda parte) 25
@@ -43,11 +43,11 @@ ella già nel suo nobilissimo ridotto alle volte prendeva diporto della Musica i
 buona memoria del Clariss. Sig. Imperial suo Fratello, hora esse mie canzonette acquisteranno
 alla loro imperfettione, esser alle volte cantate da Lei... Venetia, 20 VIII 1588 ".
 
-Vita 'mia, lc gran bellezze del bel viso e bionde trezze 1
+Vita 'mia, le gran bellezze del bel viso e bionde trezze 1
 Von-13. Saper da VOÌ, occhi mortali, se voi fiammelle sete z
 Se .voi ch'io viva, o dolce vita mia, damen'un bacio 3
 Ohimecom'egl'è grave il mio tormento, che di continuo 4
-Gwen" adCSSO, 0 dOlcc vita mia, stringemi nel tuo sen 5
+Gwen" adCSSO, o dOlcc vita mia, stringemi nel tuo sen 5
 Non c'è la peggior Cosa, o donne belle, che'l star la notte 6
 
 -241 _

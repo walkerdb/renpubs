@@ -16,7 +16,7 @@ Ben mio che v'avvolgete dentro la fida rete
 
 A-Wn: G.B.
 I-Bc: A.
-l-Rvat (Chigi): B.
+I-Rvat (Chigi): B.
 
 72 - ANERIO Giovanni Francesco (1608) - Madrigali a cinque et a sci voci con
 uno a otto di Gio. Francesco Anerio romano. Libro Secondo novamente composto,
@@ -49,5 +49,5 @@ D-Mbs: compl.
 
 I-Bc: A.6.
 
-l-Sd: T.
+I-Sd: T.
 

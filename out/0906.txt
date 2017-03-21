@@ -17,7 +17,7 @@ ln fine: " In Venetia appresso Francesco Rampazetto 1566 ".
 
 5 fasc. in 8° obl. (C.A.T.B.5.). png. ZZ. lndicc = 1555.
 
-l-Rsc: compl.
+I-Rsc: compl.
 I-VEcap: compl.
 US-NYp: compl.
 D-Bds: A.T.5.
@@ -29,9 +29,9 @@ voci. In Venetia appresso di Antonio Gardano. 1566. .
 
 5 fasc. in 8° obl. (C.A.T.B.5.), png. ZZ. lndicc = 1555.
 
-l-Ls: compl. (C. difett.).
+I-Ls: compl. (C. difett.).
 US-NYp: compl.
-l-VCd: C.T.B.5.
+I-VCd: C.T.B.5.
 
 D-Bds: C.
 

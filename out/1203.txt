@@ -23,7 +23,7 @@ Combattimento di Tancredi et Clorinda raprezentativo con 4 Viole
 Ballo per l'Imperatore Ferdinando lll
 lntrodutione al ballo. Entrata con 2 Violini
 Volgendo il ciel. A Tenor solo. Poeta
-Mot'ete al mio bel suon. A 5 voci con Z Violini. ll Ballo
+Mot'ete al mio bel suon. A 5 voci con Z Violini. il Ballo
 
 Ei l'armi cinse. A 5 voci con 2 Violini (seconda parle)
 
@@ -45,7 +45,7 @@ Dell'usate mie core. A 3. Z Tenori e Basso (terza parle)
 
 Dolcissima uscignolo, tu chiami. A 5 voci alla francese
 
-Chi \'ol haver felice e lieto il core. A 5 voci alla francese
+Chi Vol haver felice e lieto il core. A 5 voci alla francese
 
 Non havea Febo ancor recato al mondo. A 3, 2 Tenori e Basso
 Amor, dicea, il ciel mirando. A 4 voci, Canto, Z Ten. e B.
@@ -68,7 +68,7 @@ PL-WRu: compl.
 
 US-Wc: compl.(prov. Wolſſheim).
 
-l-Vnm: cav, AJ", A.Z°, T.l°, n°, B.l°, B.Z°, 5.
+I-Vnm: cav, AJ", A.Z°, T.l°, n°, B.l°, B.Z°, 5.
 US-Cn: C.l", A.]", A1", TJ", TZ", BJ", BZ", 5.
 D-Hs: A.l°, A...Z", T.l°, 112°, B.l°, M°, Bc.
 GB-Y: C.l", AJ", Al", T.l°, T.Z°, Bl", 5.
@@ -76,7 +76,7 @@ CM: c.°, A.P. Al", T.l°, T.Z°, 8.2", 5.
 
 S-Uu: C.l°, T.Z°.
 
-l-Sd: T.l", T.Z°.
+I-Sd: T.l", T.Z°.
 
 - 1193 -
 

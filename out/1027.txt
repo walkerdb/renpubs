@@ -14,7 +14,7 @@ GB-Lbm: compl.
 
 I-Fd: C.A.T.B.
 
-l-Nc: C.T.B.5.
+I-Nc: C.T.B.5.
 
 A-Wn: C.T.5.
 
@@ -27,13 +27,13 @@ US-BU: 5.
 
 NL-DHgm: ſi\.
 
-l-Sd: T.
+I-Sd: T.
 
 RISM, 1 1600-14 (non compl.).
 
 Un cscmpl. compl. (:ru nella Collezione ]ſſleſſver (li Kòln.
 
-1635 - MARENZIO Luca (1609-1) _- Di Luca Marcnzio il Scttimo Libro de
+1635 - MARENZIO Luca (1609-1) _- Di Luca Marenzio il Scttimo Libro de
 Madrigali a cinque voci. Di novo ristampati, ct corretti. In Venetia, appresso
 
 Angelo Gardano, et fratelli. 1069 (sic).
@@ -49,7 +49,7 @@ di Girolamo Scotto. 1609.
 
 5 fasc. in 8° (C.A.T.B.5.). Indice = 1595.
 
-l-PAc: C.A.T.B.
+I-PAc: C.A.T.B.
 RISM. I 1609-24.
 
 1637_- MARENZIO Luca (1598) - Di Luca Marenzio l'Octavo Libro de

@@ -33,9 +33,9 @@ Il dolce ct desiato frutt'ho colto (seconda parte) E
 
 La dolce vista a me sì dolcemente al suo prim'apparir
 
-l-Vnm: compl.
+I-Vnm: compl.
 A-Wn: A.T.B.5.
-l-VEaf : C.T.B.
+I-VEaf : C.T.B.
 
 782 - DE MONTE Filippo (1570) - Di Filippo Di Monte maestro di capti]?
 della S.C. maestà dell'imperatore Massimiliano Secondo. Il Primo Libro del
@@ -45,6 +45,6 @@ Scotto, 1570.
 6 fasc. in 8° (C.A.T.B.5.6.), pag. B. Indice = 1569.
 EIR: Dm: compl.
 
-l-Fn: A. (manc. di pag. 1-10). B.5.6.
+I-Fn: A. (manc. di pag. 1-10). B.5.6.
 GB-Lbm: A.
 

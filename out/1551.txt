@@ -20,9 +20,9 @@ YU-MAs: compl.
 D-Rp: C.A.B.5.
 
 "'S: A. (pag. 1-7; 10-13); T. (pag. 1-7; 24-31); B. (pag. ]; 30-31); 5. (pag. 1-7).
-l-Nn: A.
+I-Nn: A.
 
-l-VEaf: B.
+I-VEaf: B.
 
 RISM. I (1555c.)-3Z (non compl.).
 
@@ -33,7 +33,7 @@ Verona. Novamente da li suoi proprii, essemplarij corretti et post'in luce, con 
 tavola nel fine. Venetiis apud Hieronymum Scotum. 1554.
 
 7 fasc. in 8° obl. (C.A.T.B.5.6.7.), pag. 36,(1). Ded. di Agostino di Negro Groppalo.
-"...havend'io doppo una longa fatica liberati i prescnti componimenti del mio Eletto in
+"...havend'io doppo una longa fatica liberati i presenti componimenti del mio Eletto in
 Padre M. Vincentio Ruffo, dalla servitù, ove erano di certi particolari, et ſaltili imprimere
 come ne questi libri si mostrano, li consccro... ".
 
@@ -52,8 +52,8 @@ AS- Cari rami dicea (seconda parte) " 15
 A 6- Così tronco dal suo materno stelo (terza parte) " 16
 A 4- Su la fiorita riva dell'Adige sedea mesto Hiacinto 17
 A 5- Fiume, cui già cotanto lagrimando (seconda parte) 18
-A3. E tu, crude] e ria, ch'unqua (terza parte) 19
-A6 Così disse e di spemc al tutte prima (quarta parte) 20
+A3. E tu, crudel e ria, ch'unqua (terza parte) 19
+A6 Così disse e di speme al tutte prima (quarta parte) 20
 
 -1541-
 

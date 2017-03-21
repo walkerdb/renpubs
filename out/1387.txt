@@ -12,7 +12,7 @@ A 1. Vorrci baciarti, o Filli, ma non so prima ove il mio. Baciator dubbioso (Ma
 A 2. Filli, se ti rimembra, tu mi dicesti un dì: dolce ben mio, s'ardi tu 17
 
 I-Bc
-l-Fn (prov. Landau)
+I-Fn (prov. Landau)
 GB-Och
 
 2248 - PORTA Giovanni Battista (1616) - Madrigali a cinque in laude di S.
@@ -20,7 +20,7 @@ Carlo, di Gio. Battista Porta. Stampa del Gardano. In Venetia, 1616 appresso
 Bartholomeo Magni.
 
 6 fasc. in 8° (C.A.T.B.5.Bc.), pag. 35,(1). Ded. di Prete Gcronymo Trivultio a Gabrio Recalcati:
-"ll mio grande amico Signor Gio. Butt. Porta Monzcsc Musico et Organista et molto Servitore
+"ll mio grande amico Signor Gio. Butt. Porta Monzcse Musico et Organista et molto Servitore
 di V.S. ..h.a ben' mostrato di esser' statto Discepolo (come suo Padre afferma) di quell'Eccmo
 Musico Giulio Cesare Gabutio di F. M. pregò Monsig. Gio. Pietro Giussani mio Signore :\ scriver'
 qualche Madrigale in honor' del Santo... Questi madrigali furono cantati in Casa di V.S...
@@ -50,6 +50,6 @@ N°" asPetto Milan dal tuo amore che celebri mia morte. S. Carlo consola Milano
 I-Bcz compl.
 B-Gu : A.T.B.Bc.
 
-l-Sac: A. (mutilo da a . 34 T5
+I-Sac: A. (mutilo da a . 34 T5
 I-SPE: c. p g )'
 

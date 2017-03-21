@@ -8,11 +8,11 @@ Tu miri, o vago et amoroso fiore, il bel sol che t'ancidc 8
 Al mio crudo partire partissi l'alma quando l'alma voi mi rendeste 9
 Altri goda al tuo canto, gentil, vaga sirena, ch'io sol god'al tuo pianto 10
 Moriſ non può'] mio core e ucciderlo vorrei, poi ch'a voi piace 11
-Cor mio, che fai, che pensi? Ama la donna mia 0 se n'infinge Il
+Cor mio, che fai, che pensi? Ama la donna mia o se n'infinge Il
 Moro e de la mia morte dovrei lieto gioire, poi ch'esser de\"il fin 13
 Ridendo mormorò pietosa maga som-i accenti 14
 
-Ma di piaga più [era mi punsc (seconda parte) 15
+Ma di piaga più [era mi punse (seconda parte) 15
 lo parto e nel partire, ahi fier'empia partita 16
 Misero, ch'io sperava che'! candido e'l vermiglio Ì7
 
@@ -27,11 +27,11 @@ F-Pn: compl.
 
 I-Bc: C.T.5.
 
-l-MOe: C.A.
+I-MOe: C.A.
 
-l-de: T.
+I-de: T.
 
-l-Fm: S.
+I-Fm: S.
 
 RISM, \ 1515-3 (non compl.).
 
@@ -53,7 +53,7 @@ US-Charding: A.D.
 
 1-Bc: compl.
 F-Pc: compl.
-l-de: A.B.5.
+I-de: A.B.5.
 1-MOc: CA.
 
 -655 -

@@ -15,13 +15,13 @@ Giovanni Gabrieli - Da quei begl'occhi, ove m'accese il foco 24
 " " - Le piante allo splendor di sì begl'occhi (seconda parte) D
 " " - Dolci, care parole, poi che più non vi sento 30
 
-l-Vnm: compl. (prov. Heyer).
+I-Vnm: compl. (prov. Heyer).
 B-Br: compl.
 
 F-Pn (prov. Thibault): compl.
 YU-sz: A.S.
 
-l-VEaf : A.
+I-VEaf : A.
 
 I-Vc (Torrefranca): T.
 
@@ -36,7 +36,7 @@ Pier-maria Monti, 1691. Con licenza de' Superiori.
 Vol. in 8° obl., pag. 135. Ded. di Marino Silvani: " Tcmcrci rimprovero dalle stesse ceneri del
 Sig. Domenico Gabrielli... ". Benigno Lettore.
 
-Perchè mai. nume adorato, sì crude] sci tu con me 1
+Perchè mai. nume adorato, sì crudel sci tu con me 1
 Amor, m'hai così avinto :\ la beltà di quella z
 Poichè ad Irene in van Tirsi il pastore col cor 45
 Premea d'llio superbo le fumanti ruine 61
@@ -48,7 +48,7 @@ Amor, che sarà se lungi al riposo, nel foco amoroso 120
 Di quel volto ch'amorcggio il più vago 130
 Mio pensier. raffrena i vanni che risolver ancor non so [33
 
-Deh piega, 0 mia cara, tuoi splendidi guardi
+Deh piega, o mia cara, tuoi splendidi guardi
 
 I-Bc
 

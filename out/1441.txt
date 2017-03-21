@@ -25,15 +25,15 @@ Bella e candida mano, spinta da pura fede 9
 Ch'ami la morlc mia m'insegna amore ...
 Era la nolle, quando il mio ben: amato 11
 Parlo da mi, min ardore, e lasciovi me stesso 12
-Amari et amorosi miei sospiri, llc nel caro seno 13
-O che bel viso. 0 che bel petto, amore 14
+Amari et amorosi miei sospiri, lle nel caro seno 13
+O che bel viso. o che bel petto, amore 14
 Huomo non più, ma fiera, non amante, nemico 15
 Se volele, ben mio, havere proprio amore 16
 Di voi, di me, d'amor, donna, mi doglio 17
 Misero me, che vedi? Di pianto nel llcl sen amato e vago 18
 Mio cor, mio bene, a dio. Filen pria s'accingess'a la partita 20
 
-l-VEcap: compl.
+I-VEcap: compl.
 D-Rp: compl.
 GB-Lbm: compl.
 

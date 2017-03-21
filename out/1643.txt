@@ -1,4 +1,4 @@
-A 4. A voi, dea marina, Hte con soave stile \'olgete il verno. Di Adam Barba d'Arras 24
+A 4. A voi, dea marina, Hte con soave stile Volgete il verno. Di Adam Barba d'Arras 24
 A 7. Di che formò Volcano tanti strali al'ignudo fanciul. Dialogo. A Isabella Bicignola 25
 
 I-Bc: compl.
@@ -37,9 +37,9 @@ Più che mai vaga e bella, la mia lucente stella sen gia canmndo 2"
 ln bel, dolce soggiorno cantan le vaghe ninfe 21
 Leggiadr'almi pastori, che tra l'herbett'e i fiori 22
 O ricciolina, o signorina, o patroncina, fa li la la 2-3
-l-Nn: A.
+I-Nn: A.
 
-l-Rsc: T.
+I-Rsc: T.
 
 2630 - SP ANO D onat' Antonio (1608) - Di Donat'Antonio Spano il Primo Libro
 de. Madrigali a cinque voci. In Napoli, nella stampa di Gio. Battista Sottile, per .

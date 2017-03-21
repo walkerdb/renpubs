@@ -16,14 +16,14 @@ Madrigali, a cinque voci. In Vinegia, appresso Girolamo e .
 
 5 [asc. in 8° (C.A.T.B.5.), pag. 23. Indice = l567.
 
-l-de: compl.
+I-de: compl.
 
-l-SPd: A.T.B.5.
+I-SPd: A.T.B.5.
 
 I-Bc: C.A.5.
 
 GB-Lbm: C. (dif-m.) T.E.
-l-Rsc: B
+I-Rsc: B
 
 . ' - di Kòln.
 U" tscmpl. compl., col C. difettoso, era nella Collczmnc Heyer
@@ -59,7 +59,7 @@ PL-GD: compl.
 A-Wn: C.A.T.B.
 
 D'RPZ C.T.BS. (prov. Haberl).
-l-Rsc: C.
+I-Rsc: C.
 
 US-BE: c.
 

@@ -6,56 +6,56 @@ I-Bc: compl.
 
 GB-Ob: compl.
 
-l-VEnſ: C.A.T.B.5.
+I-VEnſ: C.A.T.B.5.
 
-l-MOc: C.A.T.B.6.
+I-MOc: C.A.T.B.6.
 
-l-Rsc: C.A.B.5.6.
+I-Rsc: C.A.B.5.6.
 
 ["-Pc: A.T.B.5.6.
 
 D-Rp: C.A.T.5. (prov. Haberl).
 B-Bc: C.B.6.
 
-l-ASS: C.
+I-ASS: C.
 
 US-BE: T.
 
 RISM, [ 1591-21 (non compl.).
 
-1666 - MARENZIO Luca (1595-1) .. Di Luca Marcnzio, il Quinto Libro de
+1666 - MARENZIO Luca (1595-1) .. Di Luca Marenzio, il Quinto Libro de
 Madrigali a sei voci. Novamente ristampato. In Venetia appresso Angelo Gar-
 dano. 1595.
 
-6 fasc. in 8° (C.A.T.B.5.6.), png. 2]. Bed. " Don Virginio Orsino, Dura di Bracciano. Roma.
+6 fasc. in 8° (C.A.T.B.5.6.), png. 2]. Ded. " Don Virginio Orsino, Dura di Bracciano. Roma.
 1° I 1595. lndicc = 1591.
 
 I-Bc: compl.
 B-Br: compl.
 B-Bc: compl.
 D-As: compl.
-l-VEaſ : C.A.T.B.6.
-l-Bsp: C.T.B.5.6.
+I-VEaſ : C.A.T.B.6.
+I-Bsp: C.T.B.5.6.
 E-TZ: C.A.B.
 US-Luu: B.5.
 F-Pc: C.
 GB-Lbm: A.
 RISM, ! 1595-8 (non compl.).
 
-1667 - MARENZIO Luca (1595-2.) - Di Luca Marcnzio il Quinto Libro dc
+1667 - MARENZIO Luca (1595-2.) - Di Luca Marenzio il Quinto Libro dc
 Madrigali :\ sci voci. Novamente ristampato. In Venetia, 1595. Appresso l'hcredc
 di Girolamo Scoto.
 
 6 fasc. in 8° (C.A.T.B.5.6,). png. B. Indice = 1591.
 
-l-Fc: compl.
+I-Fc: compl.
 
 F-Plhibnull: compl.
 
 GB-Gu: compl.
 
 D-Rp: C.A.5.6. (prov. Haberl).
-l-PAc: C.A.T.B.
+I-PAc: C.A.T.B.
 
 US-Ws: T.
 

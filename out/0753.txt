@@ -33,7 +33,7 @@ D-Mbs: A.T.B.5.
 I-Bc: C.T.B
 
 US-SFsc (De Bellis): C5.
-l-Rsc: C.
+I-Rsc: C.
 
 US-CA: T.
 

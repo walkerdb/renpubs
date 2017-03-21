@@ -8,9 +8,9 @@ A4. Cozanta rigidezza di quel alpcslrc core. Doi Violini, T. e B.
 
 Capriccio sopra 1] Arti Mllaneu, et >| potranno cantare ancora senza il Cimbalo 42
 
-l-Mb: C.l", B.
+I-Mb: C.l", B.
 
-l-Rsc: Bc.
+I-Rsc: Bc.
 
 1267 - GRANDI Alessandro (1626) - Arie, et Cantade a doi, e tre voci concertate
 con doi Violini di Alcssandro Grandi novamente composte, et date in luce. Con
@@ -21,7 +21,7 @@ privilegio. In Venetia, appresso Alessandro Vincenti, 1626.
 Bionda treccia 1
 Fugge o Lidia 1
 
-A Z.. Clori, mia stella 2
+A 2.. Clori, mia stella 2
 Non più t'adoro 2
 Viviam, viviamo 3
 
@@ -46,7 +46,7 @@ A 3. Silentio o fauni, tacete o ninfe "
 " " Presa fu l'alma al laccio e lu grave l'impaccin 11
 " " Mirlillo mio "
 
-l-VCd: Viol. 2° (con i soli incipit dei tcsti).
+I-VCd: Viol. 2° (con i soli incipit dei tcsti).
 
 1268 - GRANDI Alessandro (1620) - Cantadc et Arie a voce sola del signot
 Alessandro Grandi nuovamente ristampate, et con ogni diligentta corrette, ctidl
@@ -55,7 +55,7 @@ nova aggiunta accresciutc. Con privilegio. In Venetia, appresso Alessandro Vln-
 centi. 1620.
 Vol. in 8°, pag. 38.
 
-Amor. altri si due] che l'aurato tuo stral. Cantada 11
+Amor. altri si duel che l'aurato tuo stral. Cantada 11
 Dolce spronc'l tuo stral (seconda parte) 2
 Altra gioia trova: non bramo (tem parte) 3
 Io vorrei mille cor (quarta parte) '

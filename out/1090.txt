@@ -9,9 +9,9 @@ l Bc: compl.
 
 PL-GD: compl.
 
-l-\'nm: C
+I-\'nm: C
 
-1746 - MASSAINO Tiburzio (l569) _- ll Primo Libro de Madrigali :\ quatro
+1746 - MASSAINO Tiburzio (l569) _- il Primo Libro de Madrigali :\ quatro
 voci, di Tiburtio Massaino da Cremona: alla illustriss: et eccellentiss: signora, la
 signora donna Giulia Orsina Rangona, marchesa di Lonzano, signora di Spilcm-
 berge etc. Libro Primo. In Venetia appresso di Antonio Gardano. 1569.
@@ -23,7 +23,7 @@ Era già per lasciar freddo nel letto il suo vecchio Titon 1
 
 Così dicendo et qual può gratia haversi (seconda parte) 2
 Dolce nemica mia, nel cui bel gremb'amor s'accende 3
-Ohimè se ne le vostre fresche rosc et nci dolci confini (Ferlito) 4
+Ohimè se ne le vostre fresche rose et nci dolci confini (Ferlito) 4
 Laura felice, vita di mia vita, che così dolcemente (Cassola) 5
 Chi brama di veder beltà divina e udir dolce parole 6
 Benedetta la mano, che sì pictosamente m'ha soccorso (F. M. Molza) 7

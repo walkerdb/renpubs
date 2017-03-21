@@ -14,7 +14,7 @@ A 4. Filli, dolce mio foco, non è'] mio mal un gioco. Arictta
 
 " " Mi son vegnù. Canzonetta alla bergamasca con la Gagliarda 30
 " " Donna, sul verde. Canzonetta 31
-A 5. Catarinella capricciosclla mi vai fuggendo. Gagliarda a 5 pcr' sonarc con Tcorba et
+A 5. Catarinella capricciosclla mi vai fuggendo. Gagliarda a 5 per' sonarc con Tcorba et
 [altri instromcnti 32
 " " O voi ch'errando. Il Colascione per cantare e. sonarc 33
 " " Vannc augelletto. Canzonetta 34
@@ -35,7 +35,7 @@ gal1 a.Clnque voci. Con un Dialogo a otto. Novamente composti, et dati in luce. 
 Venetia, appresso Ricciardo Amadino, 1602.
 
 S_fasc. in 8° (C.A.T.B.5.), pag. 21,(1). Ded. a Monsignor Giuliano Fcltrio Della Rovere Abbate
-di S. Lorenzo in campo, et Refferendario dell'un'e l'altra scgnatura di N.S.: " ...pcr esser ella
+di S. Lorenzo in campo, et Refferendario dell'un'e l'altra scgnatura di N.S.: " ...per esser ella
 ardentrsmma conservatrice di questa nostra Abbazia di S. Maria de gli Angeli in Pesaro... prima
 mia muta de Madrigali... Pesaro, 1° II 1602".
 

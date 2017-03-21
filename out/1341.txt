@@ -17,9 +17,9 @@ A 1. Un di soletto \'idd'il diletto, ond'ho tanto martire (Chiabrera) 29
 A 3. O dolce anima mia, dunque è pur vero che cangiando (Guarini) 30
 A 1. O miei giorni fugaci. o breve vita, ohimè già sei (Rinuccini) 34
 " " Anima ohimè che pensi. ohimè che fai, a che pur miri " 35
-l-Fn
+I-Fn
 
-l-Vnm (Canal)
+I-Vnm (Canal)
 US-Wc (prov. Landau).
 
 2182 - PERI Iacopo (1619) - Le Varie Musiche a una, due, e tre voci. Del
@@ -34,17 +34,17 @@ A 1. Qual cadavero spiranle, () begli occhi 1
 " " Hor che gli augelli cantando volano per gl'arboscelli 2
 " " Che veggio, ohimè, che sento l'idolo 3
 " " Tra le lagrime e i sospiri \'lssi 5
-A Z. O core infiammato, ama felice 7
+A 2. O core infiammato, ama felice 7
 A 1. Freddo core, che in amore 8
 " " Care stelle crud'e belle 9
-A Z. A] fonte, al prato, al bosco, a l'ombra, al fresco (Chiabrera) 1
+A 2. A] fonte, al prato, al bosco, a l'ombra, al fresco (Chiabrera) 1
 A 1. Tutto'] dì piango e poi la notte quando (Petrarca) 2
 " " Lasso, che pur da l'uno :] l'altro sole (seconda parle) " 3
 " " Tra le donne onde s'honora Arno e Flora 4
 " " Quest'humil fera un cor di tigre o d'orsa (Petrarca) 5
 " " Non può più la virtù fragile e slanca " 6
 " " Bellissima regina de miei pensier di foco " 7
-" " Lasso ch'i' ardo et altri non me] crede " 3
+" " Lasso ch'i' ardo et altri non mel crede " 3
 " " Quest'ardor mio di che vi cal sì poco (seconda parte) " 9
 " " Ho visto al mio dolore spargere a mille a mille (Striggio) 10
 " " O durezza di ferro e di diamante che mi ferend'il petto 12

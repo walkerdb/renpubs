@@ -43,9 +43,9 @@ A 9. Questi vaghi concenti, che l'augclletl'intorno vanno temprando 22
 
 (Deh sc potessi anch'io così dolce dolermi)
 
-l-VEaf: compl.
+I-VEaf: compl.
 D-Kl: compl.
-l-FEc: C.A.T.B.5.
+I-FEc: C.A.T.B.5.
 D-Bds: B.
 
 LBC: Bc.

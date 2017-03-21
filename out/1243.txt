@@ -30,11 +30,11 @@ A 6. Ovunque gli occhi volgo (sesta parte) 26
 A 8. Padre, ch'a Delfi il gran piton'ct fero. Dialogo 28
 I-Bc: C.A.T.B.
 
-l-Rsc: A.T.B.
+I-Rsc: A.T.B.
 
 I-VEaf: A.
 
-l-CMc: B.
+I-CMc: B.
 
 2009 - NASCO Giovanni (1557) - Di Giovan Nasco il Secondo Libro d'i
 Madrigali a cinque voci, dove si contengono tutte le Macharronce del ditto autore

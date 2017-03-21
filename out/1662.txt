@@ -43,8 +43,8 @@ Gioco di primiera 17
 A 5. Al vag'e incerto gioco di primicra 18
 " " Facciasi di che caviamo (Hot date fuor) (seconda parte)
 
-l-Fr: A.T.6.7.
+I-Fr: A.T.6.7.
 GB-Lbm: T.
 I-Bc: B.
-l-Ta: 5.
+I-Ta: 5.
 

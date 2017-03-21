@@ -1,8 +1,8 @@
 Occhi leggiadri e cari, che legato m'havete il]!
 Chi dice che'l partire sia doglia da morire. Canzona
 
-l-FEc: compl.
-l-VEaf : compl.
+I-FEc: compl.
+I-VEaf : compl.
 
 COLA NARDO di Monte
 Cfr.- NARDO COLA di Monte.
@@ -28,7 +28,7 @@ Alla tenera sponda d'un fiumicel sonante. Cantata nona 102
 Ondeggiante è l'alma mia, navicella in mar d'amor. Cantata decima 114
 Clorî. mia fida Clori, se di tua lealtà candida e pura. Cantata undecima 124
 Zeﬃretto placidetto, che soavc e dolce spiri. Cantata duodecima 135
-l-Vnm
+I-Vnm
 
 593 - COLOMBANI Orazio (1590) - La fausta Selva. Di Oratio Colombano
 Veronese maestro di musica nella Ca grande di Venetia. Madrigali a tre voci.

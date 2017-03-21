@@ -22,9 +22,9 @@ O quam tu pulchra - Mentre pomposa. A 3 voci con Violino e Cornetto 20
 
 I-Bc: compl.
 I-FEc: compl.
-l-VCd: compl.
+I-VCd: compl.
 D-F: compl.
-l-Sac: C.T.
+I-Sac: C.T.
 
 I-SPE: B. per org.
 

@@ -28,7 +28,7 @@ D-As: compl.
 
 GB-Lbm: compl.
 
-l-VEaf: A.
+I-VEaf: A.
 
 US-Cn: B.
 

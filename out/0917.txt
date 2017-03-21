@@ -13,14 +13,14 @@ I-Bc: compl.
 F-Pthibault: compl.
 GB-Lbm: compl.
 I-VCd: C.T.B.5.
-l-Bsp: A.T.B.5.
+I-Bsp: A.T.B.5.
 
 A-Wn: B.
 Boctticbcr 757.
 Un cscmpl. compl. era nella Collezione Heyer di Këln.
 
 1458 - DE LASSUS Roland (1570) - Di Orlando Lasso maestro di capello del
-scrcnissimo signor duca di Baviera, Libro Quarto de Madrigali a cinque voci, da
+serenissimo signor duca di Baviera, Libro Quarto de Madrigali a cinque voci, da
 lui novamente in Germania composti, et con ogni diligentia ristampati. Libro
 Quarto. Con gratia et privilleggio (Fiſ). In Venetia presso li figliuoli di Antonio
 Gardano. 1570.
@@ -34,7 +34,7 @@ D-Mbs: compl.
 A-Wo: C.A.T.5.
 B-Br: C.A.T.5.
 E-Bd: C. (mutilo da pag. ZZ).
-l-Fc: 5.
+I-Fc: 5.
 
 P-Pc: S.
 US-Cn: T,

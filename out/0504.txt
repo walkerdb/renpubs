@@ -5,15 +5,15 @@ PL-GD: compl.
 A-Wn: C.A.T.B.
 
 D-Rp: C.T.B.5. (prov. Haberl).
-l-Fr: A.S.
+I-Fr: A.S.
 
-l-Rsc: C.
+I-Rsc: C.
 
 GB-Lbm: C.
 
-l-PS: T.
+I-PS: T.
 
-l-MOe: B.
+I-MOe: B.
 
 US-NYp: 5.
 
@@ -34,7 +34,7 @@ Nè spero altro che morte (seconda parte) - 6
 Hor che'l mio \"ivo sole altrove splende (Guarini) 6
 Da sì contrarie tempr'aggira (seconda parte) " 7
 S'amor non è, che dunque è quel ch'io sento? (Pam-ca) 8
-E s'io'l conscnto a gran torto (seconda parte) " B
+E s'io'l consento a gran torto (seconda parte) " B
 Speme. che gl'occhi nostri veli e fasci, sfreni e sferzi (Bembo) 9
 Vatten'ai lieti e fortunati amanti (seconda parte) " 10
 lo temo sì de begl'occhi l'assalto (Petrarca) }?
@@ -59,7 +59,7 @@ E s'io sperassi con dolenti note (quinta stanza) 23
 Ma che mi giovan, lasso (sesta stanza)
 
 A-Wn: compl.
-l-PS: T.; 5. (pag. 9-23).
+I-PS: T.; 5. (pag. 9-23).
 
 _Q6_
 

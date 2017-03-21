@@ -14,7 +14,7 @@ A S. Felice l'alma, che per voi sospira, lumi del ciel (Tansillo) B
 A 6. Andom o pegorer. Contadine 19
 A 8. Che fai, che m'ardi? Amor son, cieco e nudo. Dialogo ZÛ
 
-l-VEcap: compl.
+I-VEcap: compl.
 
 ROY Bartolomeo
 Cfr.: LF. ROY BaBrtolomeo.
@@ -32,12 +32,12 @@ Aspra fu la ferita, ch'impresse al pied'incauto ardente fuoco 2
 Ma stral più acuto e rio d'un sembiante gentil (seconda parte) 3
 Ma più tosto sarò di \'ita spento, che si spenga il desio - 4
 Quando sarà ch'io veggia ai giorni miei cadere i fior al tuo bel viso (Bcccutl) 5
-Pace 0 signora io bramo, deh non più guerra 6
+Pace o signora io bramo, deh non più guerra 6
 
 Se'l predator la preda non lascia (seconda parte) ;
 
 E' si dolce l'ardore, sì soave la fiamma. che mi distruggc il core - _ 9
-Ami Tirsi e me] nieghi, ma nel bel viso tuo me l'apri e spieghi (Guarini)
+Ami Tirsi e mel nieghi, ma nel bel viso tuo me l'apri e spieghi (Guarini)
 
 Viva pietra ond'amor tragge l'ardore, s'accender vuol mille gelate menti }?
 
@@ -45,7 +45,7 @@ O pur quella che'n ciel cinser le stelle (secnnda parte) 12
 Serbai gran tempo un sì possente ardore, monte sovran 13
 
 Ben le fiamme volar sopra le stelle (seconda parte) 14
-Donna, quel bel colore, onde vi pinsc il viso sì vagamente amore ' 15
+Donna, quel bel colore, onde vi pinse il viso sì vagamente amore ' 15
 Ch'ami la mia signora, me lo command'amore, ma non vuol già ch'io mora [6
 Mentre ch'a contemplar io stavo fisso il dolce e vago aspetto 16
 

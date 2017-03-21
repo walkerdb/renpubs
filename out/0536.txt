@@ -1,12 +1,12 @@
 A 5. Miser, chi'l crcderia che questo chiuso ardore celnr potessi 18
-" " Lasso è pur ver. ll lieto viver mio 19
+" " Lasso è pur ver. il lieto viver mio 19
 A 6. Voi soccorso pregaste all'hor e l'impetraste ID
 
 D-Kl: compl.
 GB-Lwa: compl.
 I-Rsc: T.
 
-l-Nc: B.
+I-Nc: B.
 
 809 - DENTICE Scipione (1598) - Di Scipione Dentice, il Terzo Libro dc
 Madrigali a cinque voci. In Napoli, appresso Gio. Iacomo Carlino, et Antonio
@@ -16,7 +16,7 @@ Pacz. 1598.
 desiderio, che hò di continuare seco la serviiù cominciata con l'Altezza del sig. Duca di Ferrara
 di fe. me... Napoli, 1° V 1598".
 
-ln amorosa nave guido la spemc mia per l'onda d'un pensier 3
+ln amorosa nave guido la speme mia per l'onda d'un pensier 3
 Perfida, crudo, adamantino core, gioisci pur se sai '
 Hor dal lume, hor dal canto porge l'alma invaghita 5
 Questa vostra pietate, non refrigerio al core, ma dà forz'a l'ardore (Tasso) 6

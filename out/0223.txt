@@ -4,7 +4,7 @@ di Brescia, il Primo Libro de' Madrigali a sei voci, novamente stampati. In Vene
 appresso Angelo Gardano. 1585.
 6 fasc. in 8° (C.A.T.B.5.6.), pag. 21,(1). Ded. al Duca di Ferrara, Brescia, Z III 1585.
 
-A 6. Stcsc la mano Filli, il bel volto tinta di vermiglio 1
+A 6. Stese la mano Filli, il bel volto tinta di vermiglio 1
 " " Mia vita, io non so dire dove s'annid'nmore, o ne la fronte vostra 2
 " " Cara mia Dafne, a dio, disse partendo a l'apparir del sole 3
 " " Qui nacqu'il gran Maron. L'udir quest'onde cantar 4
@@ -19,7 +19,7 @@ A 6. Stcsc la mano Filli, il bel volto tinta di vermiglio 1
 " " Se l'opre tue son rare, alte e divine (seconda parte) 13
 " " Già fu mia dolce speme assai debile e lenta, hor crcscc (Tasso) 14
 " " S'haver pur deva da begl'occhi morte, da cui esser ucciso (Ccliano) 15
-" " Ahi chi t'insidia al boscareccio nido, 0 mia fera " 16
+" " Ahi chi t'insidia al boscareccio nido, o mia fera " 16
 ", " Vieni, deh vieni a me, timida e bella (seconda parte) " 17
 " " S'apre il Stellato ciel, Diana splende di rose 18
 " " Del paradiso l'armonia si sente (secondapartc) 19
@@ -31,7 +31,7 @@ PL-GD: compl.
 NL-At: C.T.
 D-HR: B.
 GB-Lbm: 5.
-l-Vnm: 5.
+I-Vnm: 5.
 
 348 - BERTANI Lelio (1607) - Di Lelio Bertani, maestro della musica del domo
 di Brescia, il Primo Libro de Madrigali, a sei voci. Novamente ristampati. In

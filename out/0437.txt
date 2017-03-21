@@ -22,9 +22,9 @@ A3. Chi vuol vincer amore, ſuggalo, scaccilo, mandilo via. 2 T. e B. 13
 " " Non è questa la mano, che tant'e sè mortali. 2 T e B. (Tasso) 22
 " " Chi vuol haver lieto e felice il core, non segua il crudo. A.T.B. (Guarini) B
 A4. Non è sì bello il cielo, Filli, quand'è sereno. C.A.T.B. 25
-" " Corne sian dolorosc lunge da voi del viver mio le temprc. C.A.T.B. (Guarini) 26
+" " Corne sian dolorose lunge da voi del viver mio le temprc. C.A.T.B. (Guarini) 26
 " " Ofidcggiavan sì belli. folgoravan sì \"aghi quei dorati capelli C.A.T.B. 27
-l-Be: compl.
+I-Be: compl.
 
 F'Psg: compl.
 GB-Ob: compl

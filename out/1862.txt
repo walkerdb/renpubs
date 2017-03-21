@@ -1,11 +1,11 @@
-A 5. lunar, ch 11 cor mi slrugg aggluaccl e! ardi e causi ll duol 11
+A 5. lunar, ch 11 cor mi slrugg aggluaccl e! ardi e causi il duol 11
 
 " " Cara la vila mia, egli è pur vero ch'allra fiamma d'amor 13
 " " Passer mai solitario in alcun letto non fu (Petrarca) 14
-" " ll .xonn'è veramente qual huom dice (seconda parte) " 14
+" " il .xonn'è veramente qual huom dice (seconda parte) " 14
 " " Pien d'un vago pensier, che mi desvia " 15
 " " Ben s'io non erro di pielalc (seconda parle) " 16
-" " Fiamma dal ciel \u lc tue treccic piova " 16
+" " Fiamma dal ciel \u le tue treccic piova " 16
 " n Per le camere lue ſanciull'e vecchi (seconda parte) " 17
 " " Qual di nolle tal'hor chiara ſacella. Canzon seconda 18
 A 4. Come purpureo fior giace fra l'herha (seconda parle) 19
@@ -23,11 +23,11 @@ F-Piliibauli: compl.
 
 I-Hc: C.A.T.B.
 
-l-VEaf: C..*\.5.
+I-VEaf: C..*\.5.
 
 GB-Lbm: C.S.
 
-l-Rsc: T.
+I-Rsc: T.
 
 F-Pm: 5.
 
@@ -39,7 +39,7 @@ li figliuoli di Antonio Gardano 1571.
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 29. Indice = 1564.
 
-l-VEcap: compl.
+I-VEcap: compl.
 
 GB-Lwa: compl.
 
@@ -53,7 +53,7 @@ Gardano 1583.
 
 I-Bc: compl.
 
-l-MOc: compl.
+I-MOc: compl.
 
 D-Mbs: compl.
 

@@ -4,7 +4,7 @@ US-SM: C.B.
 I-Vnm: T.
 F-Pn: B.
 
-l-PCd: B.
+I-PCd: B.
 
 1832 - MERULO Claudio (1586) - Di Claudio Merulo da Correggio, organista
 della serenissima Signoria di Venetia in S. Marco. Il Primo Libro de Madrigali
@@ -47,5 +47,5 @@ O voi servi d'amore, pietà del mio dolore
 Questi de la mia musa detti fiori, Mario a voi sacro
 
 I-Bc: compl.
-l-Vnm: C.T.B.
+I-Vnm: C.T.B.
 

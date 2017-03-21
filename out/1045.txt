@@ -26,9 +26,9 @@ S-Uu: compl.
 GB-Lbm: C.T.
 D-Mbs: C.T.
 1-FA: AB.
-l-Vul: T.
+I-Vul: T.
 
-1677 - MARENZIO Luca (1588) - Di Luca Marcnzio il Primo Libro de'
+1677 - MARENZIO Luca (1588) - Di Luca Marenzio il Primo Libro de'
 Madrigali spirituali a cinque voci, nuovamente ristampati. In Venetia, appresso
 l'herede di Girolamo Scotto. 1588.
 
@@ -42,12 +42,12 @@ E-Zac: A.
 
 GB-Ob: B.
 
-1673 - MARENZLO Luca (1606) - Di Luca Marcnzio il Primo Libro de'
+1673 - MARENZLO Luca (1606) - Di Luca Marenzio il Primo Libro de'
 Madrigali spirituali a cinque voci, novamente ristampati. In Venetia, appresso
 lherede di Girolamo Scoto. 1606.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. 21. Indice = 1584.
 
-l-Nf: compl.
-l-Rv: compl. (T. mane. (Ii pag. 7-8).
+I-Nf: compl.
+I-Rv: compl. (T. mane. (Ii pag. 7-8).
 

@@ -1,10 +1,10 @@
 D-Rp: C.A.B.5.
 I-Bc: C.A.T.
 B-Br: C.A.B.
-l-VEaf : C.T.
+I-VEaf : C.T.
 F-Pc: C.
 
-l-Nn: A.
+I-Nn: A.
 GB-Lbm: A.
 F-Phanson: T.
 
@@ -14,7 +14,7 @@ Venetiis, apud Hieronymum Scotum. 1554.
 
 5 fasc. in 8° obl. (C.A.T.B.5.). pag. 39. lndicc = 1544-2.
 
-l-VEaf: compl.
+I-VEaf: compl.
 
 2395 - (De) RORE Cyprien (1559) - Di Cipriano Rore il Primo Libro de
 Madrigali cromatici a cinque voci novamente con ogni diligentia ristampato et
@@ -43,7 +43,7 @@ La Vita fugge e non s'arresl'un'hora (Petrarca) 7
 Altiero sasso, lo cui gioco spira gli antichi honor (MOÌZﬂ) 9
 T" Piangi ct quella per chi fai tal pianto ne ride 10
 Lei tutta inlem'al lume div-1 e samo (seconda parte) 11
-Soka lontana, in sonno consolarmc con quella (Petrarca) 12
+Soka lontana, in sonno consolarme con quella (Petrarca) 12
 Non (i soven di quell'ultima sura (seconda parte) " 13
 Quand'io son tutto volc'in quella parte " 14
 Così davanti ai colpi de 1.1 morte (seconda parte) " 15

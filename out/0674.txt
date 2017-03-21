@@ -1,6 +1,6 @@
 A 3. All'arm'all'arm'amore sfida ed io ch'arme non ha 2
 
-" " Caro sguardo, che ripieno di sercno, riconſort'il mio desio (Chiabrera) 3
+" " Caro sguardo, che ripieno di sereno, riconſort'il mio desio (Chiabrera) 3
 " " Zeffiretto lascivetto, esci homai da l'oriente, vieni e spira ;
 " " Da voi partir voglio io e vi lascio il cor mio 4
 " " Filli, poich'al mio core dai torment'e dolore, rompassi la catena 4
@@ -9,7 +9,7 @@ A 3. All'arm'all'arm'amore sfida ed io ch'arme non ha 2
 " " Dirò ch'io vivo? No, che non è vivo (seconda parte) S
 " " O sc l'idolo mio piangesse al pianto mio, direi al piangcr S
 " " Non sa che sia dolor chi non ha'l mal d'amor 6
-" " Voi pur da me partite, anima mia, nè vi duo] di partire (Guarini) 6
+" " Voi pur da me partite, anima mia, nè vi duol di partire (Guarini) 6
 " " Mille dolci parolette vezzosette mi dicesti al mio ritorno 6
 " " Chi mi confort'ahimè, chi più consolami hor che'l mio sol (Chiabrera) 7
 " " Deh sc tue belle ciglia hora (seconda parte) " 7
@@ -26,10 +26,10 @@ A 1. La pastorella mia spietata e rigida, che nott'e giorn'al mio " 10
 " " O bocca dolc'e cara di perle e di rubin (seconda parte) 20
 " " O guancic, ameni prati, ove fra bianch'e (terza parte) 21
 " " O guancie, o bocca, o lumi, per voi qual cera (quarta parte) 22
-A Z. Ah che pur giunt'è l'hora che degg'ohimè partire 24
+A 2. Ah che pur giunt'è l'hora che degg'ohimè partire 24
 I-Bc: compl.
 
-l-VEcap : compl.
+I-VEcap : compl.
 
 1015 - FRANZONI Amante (1605) - I nuovi Fioretti musicali a tre VOC-I
 d'Amante Franzoni mantovano co'l suo Basso generale per il Clavicembalo, Chl-

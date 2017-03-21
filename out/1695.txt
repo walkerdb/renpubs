@@ -17,14 +17,14 @@ A 5. lle, amari sospiri. a la bella cagion del morir mio (Guarini) 1
 " " Perchè fuggi tra salci, ritrmetta ma bella, o cruda (Marino) 13
 " " Ohimè tu parti, a dio, anima del cor mio
 
-" " O cari, 0 dolci baci. gioie d'amore 15
+" " O cari, o dolci baci. gioie d'amore 15
 " " Noi, amanti disperati, da Cupido incatenati. Canzonetta 16
 " " Rido perchè tu ridi e lu perch'io mi moro 17
 A 8. Anime pellegrine, che bramate, amando, ener amate (Guarini) 18
 " " O come vaneggiate, donne, pensando havermi tolto " 19
 GB-Lbm: C.
 
-l-Vnm: 5. (prov. Heyer).
+I-Vnm: 5. (prov. Heyer).
 
 2711 - TASTAVlN Geronimo (1569) .- Di Hieronimo Tastavin il Primo Libro
 de Madrigali a cinque voci, novamente da lui composti, et per Antonio Gardano
@@ -44,9 +44,9 @@ VÎVO Sol di speranza, rimembrando che poc'humor " 8
 Guard'il mio stat'a le vaghezzc nove, ch'interrompendo " 9
 M0\'cm'il dolce sguard'e le parole, unico signor mio, ad amar voi ...
 E" Potess'io vendetta di colei, che guardand'e parlando mi distrugge 11
-Amor è Efatios'e dolce voglia, che più Selvagg'e più ſeroc'affrcna (Bembo) Il
+Amor è Efatios'e dolce voglia, che più Selvagg'e più ſeroc'affrena (Bembo) Il
 Lasso, ch'i' piang'il mio gran duol non move tanto presente mal " 13
-Rose bianch'e Vermiglio, amhe lc gotte scmhran colte pur hora " ]4
+Rose bianch'e Vermiglio, amhe le gotte scmhran colte pur hora " ]4
 Quando, forse per dar loco a le stelle, il sol si parte (seconda parte) " 15
 La bella donna, ch'io sospir'et canto. di cui non dicd'il ciel (!=-M. Molza) 16
 Così, mentre ch'io arde et ciò non mostro nè nnd'al bon (seconda parte) " 17

@@ -4,7 +4,7 @@ A 4. Basciami, vita mia, basciami ancora, nè ti spiaccia basciarm'un'altra 7
 " " Per folti boschi e per alpestrc valli mi fà solingo gir 8
 " " Quando mi torna a mente el dolce sguardo che da quei dolci 8
 A 5. Tu candida Lyce, tu ch'avanzi di candor neve, latte e gelsomini 9
-A 4. Vezzosi fiori e vaghi dolce su lc tue rive apri mai sempre, o Arno 10
+A 4. Vezzosi fiori e vaghi dolce su le tue rive apri mai sempre, o Arno 10
 " " Madonna, io son un medico perfetto, che senza adoprar ferro 11
 A S. Sperai volgendo in questa parte e in quella gli occhi miei 11
 " " Dolce pensier, che spesso mi rimembri gli accorti accenti 12
@@ -33,7 +33,7 @@ A 5. Quando la bell'auror'inanzi al sole sgombra le nebbie 1
 " " Dove potrò mai gir tanto lontano, ch'io non senta d'amor l'accuto strale 3
 " " Deh dov'è l'alma mia, dov'è'l mio solc (seconda parte) 4
 
-" " Cantin le muse l'opre gloriosc del mio sacro signor Pio d'Aragona. Al Cardinale
+" " Cantin le muse l'opre gloriose del mio sacro signor Pio d'Aragona. Al Cardinale
 [d'Aragona 5
 
 " " Ben potete voi dire, ned'io di ciò mi sdcgno, che più degno di me 6
@@ -47,7 +47,7 @@ A 5. Quando la bell'auror'inanzi al sole sgombra le nebbie 1
 " " La giovinetta scorza ch'involg'il tronco e i rami d'un verde lauro (Tasso) 14
 " " L'aura, che già di questo {ragil legno hcbb'il govern'e lo guardò. Sestina 16
 " " Mai non provai più faticoso corso (seconda parte) 17
-" " Signor, chc pur col ciglio affrcn'i venti (terza parte) 18
+" " Signor, chc pur col ciglio affren'i venti (terza parte) 18
 " " I' hebb'ardir d'abandonar il porto (quarta parte) 19
 " " Hora da gl'occhi verso doglios'onde (quinta parte) 20
 " " A miglior parte uscito delli scogli (sesta parte) 21

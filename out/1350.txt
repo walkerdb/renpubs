@@ -12,8 +12,8 @@ A 2. No, ch'io tornar non voglio, lusinghiera bellaza, al primo ardore. 2 T. 2
 " " Mentre del mio bel sole gl'artlenti raggi io miro. 2 T 13
 " " Valli nemiche al sol, superbe ruppi che minacciate al ciel. 2 T. (Tansillo) 14
 " " Va pur, lasso mio core, :\ colei ch'hor avviva, hora ancide. T. e B. 16
-" " In un fiorito prato. 2 C. 0 T. 17
-" " Apparecchiate a quest'empio guerriero. 2 C. 0 T. 18
+" " In un fiorito prato. 2 C. o T. 17
+" " Apparecchiate a quest'empio guerriero. 2 C. o T. 18
 
 A 3. Per l'acque al fonte fresche e cristalline coll'urna in testa. Si canti questo Madrigale
 [adagio adagio fuor che la Canzonetta che canta il Soprano solo la qual va cantata
@@ -30,7 +30,7 @@ A 4. Quel volto ch'io sospiro, quel bel volto che sa. C., 2 T. e B. 27
 " " Questi ben si che sono i sacttati arcieri. C.A.T.B. 32
 A 5. Vanne, mesto sospir, nuncio d'amore, alla fera cagion. 2 C., 2 T. e B. 33
 " " Spuntava l'alba e'l ruggiadoso crine già la stclla. Z C.A.T.B. (Marino) 34
-" " Chi può contar lc stelle e le minute arene raconti. Z C.A.T.B. 35
+" " Chi può contar le stelle e le minute arene raconti. Z C.A.T.B. 35
 " " Mentre Fillide ingrata qual cervetta fuggiva. Z C.A.T.B. 36
 
 D-Bds: compl.

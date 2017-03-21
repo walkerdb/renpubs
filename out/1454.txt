@@ -1,7 +1,7 @@
 Amor, io son contento che tu mi dia tormento. anolitana 20
 Già non mi dnglio, amore, d'hzn'cr perduto il core. Napolitana 21
 
-l-Vnm: C.A.T.5.
+I-Vnm: C.A.T.5.
 GB-Lbm : 5.
 
 2334 - RENIERI Giovanni Simone (1610) - Il Primo Libro di Villanelle e
@@ -47,7 +47,7 @@ Dialogo con la proposta solo, e la risposta a 4 con la replica de l'ultimo verso
 A 1. Deh ditemi, pastori, sc vedesti'l mio sol vago ed adorno? Proposta solo 31
 A 4. Tu scherzi, ninfa, e chi non vede il sole? Risposta 31
 
-A 5. Hor cade e more pallido e langucnte. Replica
+A 5. Hor cade e more pallido e languente. Replica
 
 L'arie da cantar a uno, et a due sono nel Tenore
 

@@ -2,13 +2,13 @@ A 1. Caro, dolce veneno di placidissimo angue. Madrigale
 
 u " Odi, Filli, che tuona. Filli, destati homai. Madrigale
 
-A Z. Se bel rio, se bell'auretta tra l'erbclta sul mattin. Aria
+A 2. Se bel rio, se bell'auretta tra l'erbclta sul mattin. Aria
 
 A 1. Care e crude catlene, dolci et amati nt'di. Madrigale
 
 " " Furo i nodi sì cari, sì grati e sì soavi (seconda parte)
 
-A Z. Una placida auretta già per l'herbetta soavemente spira. Canzonelta
+A 2. Una placida auretta già per l'herbetta soavemente spira. Canzonelta
 n " Biondo arcier, che (l'alto monte aureo fonte sorger fai. Aria
 
 (Guarini) 1
@@ -20,7 +20,7 @@ A 1. Ch'io non t'ami, cor mio? Ch'io non sia la tua vita e tu la mia. Al come Ot
 
 " )) Aura, ch'intorno giri ai rugiadosi fiori del pargoletto amore. Madrigale
 
-A Z. Vaghe faville da le pupille vibra lo scherzo e'] gioco. Aria
+A 2. Vaghe faville da le pupille vibra lo scherzo e'] gioco. Aria
 A 1.. Tirsi. mio caro Tirsi. e lu ancor m'abandoni. Madrigali in siile rccitat
 " " Ombrose e care selve se sospirando in flebili susuri. Madrigale in
 
@@ -33,9 +33,9 @@ A 2. Ninfe vezzose, vaghe, amorose. ch'in fresche valli tra bei crislalli. Aria 
 
 A 1. lo dunque ingrato, Filli, s'altra per me Ianguio? Madrigale
 " " Dal profondo del core spira e sospira ogn'hor l'anima mia. Madrigale
-A Z. Ne bell'or de ragi estivi l'aura homai libera spiri. Aria
+A 2. Ne bell'or de ragi estivi l'aura homai libera spiri. Aria
 
-"" n O dolce mia Clori, o Clori mia bella, 0 chiara mia stella. Aria ad imitationc di quella
+"" n O dolce mia Clori, o Clori mia bella, o chiara mia stella. Aria ad imitationc di quella
 [O dolce ristoro (Guarini) 17
 
 .. " Ecco, felici amanti, amor senz'ali, eccolo senza strali. Madrigale nel Na
@@ -90,7 +90,7 @@ Liuto, o Claw-
 Milano)
 
 . - - . El
-Vol. in 4°, pag. 30. Bed. a Siro Austria Conte et Signore di Correggio Fabrica. Rossena °"
+Vol. in 4°, pag. 30. Ded. a Siro Austria Conte et Signore di Correggio Fabrica. Rossena °"
 
 Capitano d'huomini d'Armi della Maestà Catholica: " :.. quando con tgm)?
 lezza mi favorì d'udire questi miei Componimentl MUSlCnll... Milano, 2

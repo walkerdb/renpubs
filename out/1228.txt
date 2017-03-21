@@ -11,7 +11,7 @@ Quella candida mano, ch'a mez'il verno i vaghi fiori (Tasso) 18
 Dal suo dorato albergo, nè mai più licta, uscia la vaga aurora 19
 Clorinda, egli dicea, quando tu fossi bella (seconda parte) 20
 Al mio languir languiscc madonna, al mio martir s'aﬄige et ange 21
-l-MOe: compl
+I-MOe: compl
 D-Rp: compl.
 D-W: T.
 
@@ -32,7 +32,7 @@ stampati in Roma per Antonio Blado ".
 
 5 fasc. in 8° obl.: C. c.l9, A. c.Z4, T. c.?3, B. c.lB, 5 c.9. Ncll'A.: Ded. a Bindo Altoviti.
 
-A 4. Le rosc insieme, i gigli et le viole, i rubini et le perle 1
+A 4. Le rose insieme, i gigli et le viole, i rubini et le perle 1
 " " Scorgo, mentre madonna muov'il passo, correr le pietre ;
 " " Rara beltà, divina leggiadria, dolce parlare
 

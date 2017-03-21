@@ -15,7 +15,7 @@ A 5. Inaudita pietà, mirabil pegno. Capitolo de la Passione de Cristo 27
 " " Piange inferma natura (seconda parte) 23
 " " O sacro sangue (terza parte) 7-9
 
-l-VEaf: compl.
+I-VEaf: compl.
 
 A-Wn: C.A.T.
 F-Pn: A. (prov. Landau).

@@ -46,7 +46,7 @@ I-Bc: compl.
 
 I-MOc: compl.
 
-l-VEcap: compl.
+I-VEcap: compl.
 
 D-Mbs: compl.
 
@@ -63,7 +63,7 @@ I-PS: T.
 I-Rvat (Casimiri): T.
 
 763 - DE MONTE Filippo (1592) - Di Filippo De Monte maestro di çapfll"
-della sac. ces. maestà dell'imperator Rodolfo ll il Quinto Libro de Madrigalslg?a
+della sac. ces. maestà dell'imperator Rodolfo il il Quinto Libro de Madrigalslg?a
 cinque voci. Novamente ristampato. In Venetia appresso Angelo Cardano. l "
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. Z9,(1). Indice = 1574.
 

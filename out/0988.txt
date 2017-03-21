@@ -5,7 +5,7 @@ Partisti, ahi lasso, amore e quest'anima insiem'e questa vita ZÛ
 Sospir nato di foco, vattene alla mia donna e dilli come di lei 21
 Alba cruda, alba ria, che'l mio bel sole di braccio mi disciogli 22
 Non è questa la mano. che tante e sì mortali avventò (Tasso) B
-l-Fn: compl.
+I-Fn: compl.
 
 D-Kl: compl.
 
@@ -32,7 +32,7 @@ Così ogni vostra voglia, donna, bram'adempire 2
 Amor, quando m'invia a mirar la mia donn'e'l mio dolore 3
 Per ch'al viso d'amor portav'insegna (Petrarca) 4
 Amor, la vaga luce che move da begl'occlii di costei (Boccaccio) 4
-Mossc da suoi begl'occlii lo splendore (seconda parte) " 5
+Mosse da suoi begl'occlii lo splendore (seconda parte) " 5
 
 O quanti sono, ahi lasso, i miei sospiri che per voi 6
 O duri mici pensieri, o spini lassi, datemi pace 6

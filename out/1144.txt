@@ -12,7 +12,7 @@ lo sono il più costante d'ogni [edel amante (terza parte) " " 17
 lo che morir mi sento, di null'altro pavento (quarta parte) " " 18
 Che se pur ciò non fora quest'è quel che m'accora (quinta parte) n " 19
 Sc nel mirar quel lume, occhi, ch'esce da voi, cieco e mortale 20
-Altro ch'un fuor di pena, 0 fuor per meglio (lire (seconda parte) 11
+Altro ch'un fuor di pena, o fuor per meglio (lire (seconda parte) 11
 Tant'è-'l piacer ch'io sento di piacerv'almen morto 21
 Signor, l'ardente foco che m'ard'e mi consuma, è tant'e tale B
 Alma ch'hor viv'in ciel beata e chiara. non più donna mortal, ma (lea 24
@@ -21,7 +21,7 @@ S'ergan carchi di spoglie e di lroſei, di gest'invitti e gloriose prove 26
 E se'l collo non press'a l'oriente (seconda parte) 27
 Qual maggior segn'Aurora s'havrà del mio servire, che'l vedermi morire 28
 Donna, s'io resto vivo, mentre, malgrado mio, di voi mi privo (Parabosco) E
-l-Fn: compl.
+I-Fn: compl.
 
 D-Mbs: compl.
 F-Plhibaull: compl.
@@ -29,7 +29,7 @@ GB-Lbm: compl.
 US-Wc: compl.
 F-CC: C.
 
-l-Vc (Torreſranca): A.
+I-Vc (Torreſranca): A.
 F-Pn: B
 
 [836 - MERULO Claudio (1604) - Di Claudio Mcrulo da Correggio, organista

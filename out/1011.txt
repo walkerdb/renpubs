@@ -17,11 +17,11 @@ A 6. Come ogni rio, che d'acque dolci et chiare 15
 " " O fere stelle, homai datemi pace " 18
 A 10. Basti fin qui le pen'e i duri affanni " 19
 
-l-Fc: compl.
-l-MOe: cmopl.
+I-Fc: compl.
+I-MOe: cmopl.
 I-Bc: T.B.
 
-1597 - MARENZIO Luca (1580) - l)i Luca Marcnzio il Primo Libro de Madri-
+1597 - MARENZIO Luca (1580) - l)i Luca Marenzio il Primo Libro de Madri-
 gali a cinque voci novamente composti, ct dati in luce. In Venetia appresso Angelo
 
 Gardano. 1580.

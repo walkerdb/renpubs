@@ -34,7 +34,7 @@ D-As: compl.
 
 PL-GD: compl.
 
-l-MOe: G.B.S.
+I-MOe: G.B.S.
 
 YU-sz: A.S.
 

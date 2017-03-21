@@ -1,4 +1,4 @@
-1593 - MARENZIO Luca (1603) - Madrigali a quattro voci, di Luca Marcnzio.
+1593 - MARENZIO Luca (1603) - Madrigali a quattro voci, di Luca Marenzio.
 Novamente con ogni diligenza ristampati. Noribergac escudcbat Paulus Kauff-
 mannus. 1603.
 
@@ -8,7 +8,7 @@ D-Rp: compl.
 [JS-AA: compl.
 GB-Lbm: CA.
 Pl--\Vn: C.
-l-BRq: A.
+I-BRq: A.
 PL-LElpn: A.
 PL-WRu: A.
 D-Dl: T.
@@ -32,14 +32,14 @@ lamo Scotto. 1608.
 4 fasc. in 4° (C.A.T.B.), pag. 31. lndice = 1585.
 
 I-Bc : compl.
-l-Bsp : compl.
+I-Bsp : compl.
 
 1596 - MARENZIO Luca (1588) - Di Luca Marenzio Madrigali a quatro, cinque,
 "rt sei voci, Libro Primo. Novamente composte, et date in luce. Con privilegio. ln
 Venetia, presso Giacomo Vincenzi. 1588.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. 21. Ded. al Conte Mario Bevilacqua: "...mi è paruto con
-l'occasione del mio passaggio per Verona prescntarle questi Madrigali da me ultimamente
+l'occasione del mio passaggio per Verona presentarle questi Madrigali da me ultimamente
 composti con maniera assai differente dalla pass.-na, havcndo, et per l'imitazione delle parole
 ct per la proprietà dello stile atteso ad una (dirò così) mesta gravità, che da gl'intendenti pari
 suoi, et dal virtuosissimo suo ridutto sarà forse via più gradita... Venetia, 10 XII 1587".

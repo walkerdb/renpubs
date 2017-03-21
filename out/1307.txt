@@ -14,9 +14,9 @@ D-As: compl.
 
 I-VEaf: C.A.T.B.
 
-l-VCd: T.B.5.
+I-VCd: T.B.5.
 
-l-Rc: T.
+I-Rc: T.
 
 NL-D1-1gm: A.
 

@@ -13,7 +13,7 @@ Ahi com'a un vago sol cortese giro di duo begl'occhi (Guarini) 4
 Giovani, ch'al gran dio delle nozze pur hor affretta e cinge
 A piè (l'un lauro, (la cespugli cinto. e la dolc'omhra 6
 Cosi vinto et pietoso (seconda parte) 7
-Con pietà vi rimiro. pallidetle \'iole. pur dianzi rugiadosc 8
+Con pietà vi rimiro. pallidetle \'iole. pur dianzi rugiadose 8
 Tronchisi homai la slrad'al van dolore, avvenluros'amanli 9
 O ben felice il pieno, humil albergo, poi che'l sol 10
 Al mio signor gentile di che trecciar potrò ghirlande degne 11
@@ -27,8 +27,8 @@ Qual bianchczz'o splendore. qual possanza, o virtù d'amica Stella 18
 La nalura v'armò, bella guerriera, e i guardi sono slrali (Tasso) 20
 Candida era la rosa, ma la tinse (seconda parte) " 11
 
-l-MOc: compl.
-l-Vnm: T.
+I-MOc: compl.
+I-Vnm: T.
 
 2671 - STRIGGIO Alessandro (1597) - Il Quinto Libro de Madrigali a cinque
 voci del signor Alessandro Striggio gcntil'huomo mantovano. Novamente posto ...

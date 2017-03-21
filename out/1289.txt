@@ -21,7 +21,7 @@ A 4. Sospir, che del bel petto di madonna esci fore, dimmi (Marino) 1
 " " Piagni, donna, e sospiri, ma i tuoi pianti, i sospiri. Con Sinfonia se piace " 10
 A 5. Di marmo siete mi, donna, ai colpi d'amore, al pianto mio " 11
 " " ln queste bianche carte a la mia bianca ſè sembianti sassi " 12
-" " Ohimè parlo. ll partire e parte (le] morire. Morirò, pera la vita 13
+" " Ohimè parlo. il partire e parte (lel morire. Morirò, pera la vita 13
 " " Dammi l'ultimo a dio. Ahi, parto, ben mio. Per memoria di noi 14
 " " A dio, Cloride. Ahi tu piagni, mio core. Taci, non piagner più 15
 " " Gite e restarsi. Render le solitudini. Con Sinfonia sepiace 16
@@ -31,7 +31,7 @@ A 5. Di marmo siete mi, donna, ai colpi d'amore, al pianto mio " 11
 " " Pon ſren, donna reale. al tuo chiaro splendore. Cin Sinfonia se piace " 20
 
 I-Bc: compl.
-l-VEcap: A.T.B.5., B. per sonare.
+I-VEcap: A.T.B.5., B. per sonare.
 GB-Lbm: A.
 Sartori 1617b.
 

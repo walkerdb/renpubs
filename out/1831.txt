@@ -19,9 +19,9 @@ Parmi che sempre sian tenebre o notte (qu:.rta stanza) " 21
 ll mondo muta ogn'hor stagione e tempo (quinta stanza) " 22
 Poggi. valli. campagne, fiumi e lmsclti cercai (sesta stanza) " 23
 I-Bc: compl.
-l-VEaf: compl. (2° esempl.: C.T.5.).
+I-VEaf: compl. (2° esempl.: C.T.5.).
 GB-Gc: G.B.
-l-Tn: B.
+I-Tn: B.
 
 2921 - VINCI Pietro (1583) - Di Pietro Vinci siciliano della città di Nicosia
 maestro di capella in Santa Maria Maggiore di Bergamo il QUarto 'Ltbro de Madri-
@@ -30,8 +30,8 @@ lamo Scotto. 1583.
 
 5 fasc. in 8" (C.A.T.B.5.). pag. B."). lndice = 1573.
 
-l-MOe: compl.
-l-VEaſ: C.T.S,
+I-MOe: compl.
+I-VEaſ: C.T.S,
 D-Mhs: C.T.
 
 2922 - VINCI Pietro (1584) - Di Pietro Vinci siciliano della città di Nicosia .il

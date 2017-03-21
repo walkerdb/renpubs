@@ -1,6 +1,6 @@
 Plaga dolce d'amore, già tu piaga non sci (Marino) 8
 
-E quant'è in te cospcrse (seconda parte) " 9
+E quant'è in te cosperse (seconda parte) " 9
 Del più leggiadro fiore, quasi di bel cimiero " 10
 Cara amorosa fiamma. che nel mio petto avvampi 11
 
@@ -19,7 +19,7 @@ Taci, bocca, deh taci de l'amate bellezze le rapite dolcezze (Marino) 20
 Se di veder m'è tolto, angel canoro, il sol del vostro viso 21
 ch: compl.
 
-l-Bsp: compl.
+I-Bsp: compl.
 GB-Lbm: compl.
 A-Wn: B.
 

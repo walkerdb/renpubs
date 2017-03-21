@@ -9,25 +9,25 @@ A 6. Occhi sereni e chiari, al cui divin splendore IZ
 " " Le quali ella spargea sì dolcemente (seconda parte) " 19
 A 10. Viene Clori gentil boschetti e prati. Dialogo (Poliziano) 20
 
-l-PESc: C.A.5.6.
+I-PESc: C.A.5.6.
 
 I-Rsc: C.T.B.5.
 
 D-Mbs: T.B.5.6.
 
-l-de: C.A.B.
+I-de: C.A.B.
 
-l-Sd: C.T.B.; 2° cscmpl.: T.
+I-Sd: C.T.B.; 2° cscmpl.: T.
 1-Bc: C.B.
 
-l-VTcerasa: C.
+I-VTcerasa: C.
 
 Un esempl. non compl. (A.T.B.5.6.) esisteva nella Collezione Heyer di Kòln.
 
 Il N. 1648 è annullato.
 
 1649 - MARENZIO Luca (1584) - Il Primo Libro de Madrigali a sei VOCÌ-
-Di Luca Marcnzio maestro di capclla dell'illustrissimo et reverendissimo signor
+Di Luca Marenzio maestro di capclla dell'illustrissimo et reverendissimo signor
 cardinal d'Este. Novamente ristampato. In Venetia appresso Angelo Cedam-
 1584.
 
@@ -36,10 +36,10 @@ cardinal d'Este. Novamente ristampato. In Venetia appresso Angelo Cedam-
 
 I-Bc: compl.
 
-l-Fn: compl.
+I-Fn: compl.
 
 I-Ls: compl.
-l-MOe: compl.
+I-MOe: compl.
 D-As: compl.
 D-Mbs: compl.
 F-Pthibault: compl.
@@ -47,14 +47,14 @@ GB-Lcm: compl.
 GB-Ob: compl.
 Pl.-GD: compl.
 D-Dl: C.A.T.5.6. (prov. Heyer).
-l-Rsc: C.A.B.5.6. (2° cscmpl.: C.A.B.5.).
+I-Rsc: C.A.B.5.6. (2° cscmpl.: C.A.B.5.).
 1-Sd: C.A.B.5.6.
 D-Rp: C.A.T.5.
 GB-Lbm: C.A.B.5.
 E-T'Z: C.A.B.
 US-Lau: B.5.
 E-Zac: A.6.
-l-ASs: C.
+I-ASs: C.
 
 F-A: 5.
 

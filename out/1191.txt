@@ -17,7 +17,7 @@ D-Kl: compl.
 I-Bc: C.T.5.
 
 GB-Lbm : B.
-GB-Lroscnthal : B.
+GB-Lrosenthal : B.
 
 1910 - MONTEVERDI Claudio (1607) - Di Claudio Monteverde il Terzo
 Libro de Madrigali a cinque voci. Novamente ristampato. In Venetia, appresso
@@ -25,11 +25,11 @@ Ricciardo Amadino. 1607.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. Zl,(1). lndicc = 1592.
 
-l-Rc: C.B.5.
+I-Rc: C.B.5.
 
 D-Bds: G.B.
 
-l-Fd: T.5.
+I-Fd: T.5.
 
 GB-Lrosenthal: B.
 

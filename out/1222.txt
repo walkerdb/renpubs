@@ -1,4 +1,4 @@
-A 5. Fiamma di foco, che mi accendi il core, et tutto m'ardi quando a lc 3
+A 5. Fiamma di foco, che mi accendi il core, et tutto m'ardi quando a le 3
 " " Di poggio in poggio io vo, di riv'in riva solingo, stanco, tacito e pensoso 4
 " " Qual'hor m'assido a presso sterpo o sasso (seconda parte) 5
 " " Dolce del mio cor vita, queste due belle rose e queste perle 6
@@ -35,7 +35,7 @@ A 6. [' vo piangendo i miei passati tempi, i quai pose in amar (Petrarca) 28
 
 "" " Sì che s'io vissi in guerra et in tempesta (seconda parte) " E
 
-l-MOe : compl.
+I-MOe : compl.
 B-Br: compl.
 
 1973 - MOSCAGLIA Giovanni Battista (1585) - Di Gio. Battista Moscaglia

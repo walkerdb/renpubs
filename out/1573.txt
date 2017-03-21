@@ -9,7 +9,7 @@ A6. Al gran padre Tireno. Ai granduchi di Toscana 1
 " " Con l'ardente tua face (seconda parte) 2
 " " Orni il bel Arno la sua lucid'urna, Al granduca di Toscana 3
 " " L'infernal fiamma ch'ardc (seconda parte) 4
-" " Coppia felice a cui conccssc il cielo sommo amor 5
+" " Coppia felice a cui conccsse il cielo sommo amor 5
 A5. Le ninfe d'Arno e d'Adria et Himeneo. Alla granduchessa 6
 A7. Mentre veggio apparir la lucid'alba coronata di stelle 7
 A 5. Felice pianta et grato et dolce cardo 8
@@ -32,7 +32,7 @@ A4. O voi che sete liberi 24
 A8. Ferma, ferma, Caronte. Chi è costui che grida. Dialogo 25
 I-Ls: compl.
 
-l-MOe' compl
+I-MOe' compl
 
 D-Mbs compl
 

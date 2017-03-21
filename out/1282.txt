@@ -1,7 +1,7 @@
-A 5. 0 novella d'amor fiamma lucente ]5
+A 5. o novella d'amor fiamma lucente ]5
 
 " " Encomincio, o sirena (seconda parte) 16
-" " 10 son ferilo e chi mi punsc il core 17
+" " 10 son ferilo e chi mi punse il core 17
 " " Come hat-rà vita, amor. la vita mia, se chi mi può dar vita (Cassola) 18
 A 6. Nelle guancic leggiadre et amorose, che \'incon di splendor 19
 " " Candide più che cigno e vie più molli (seconda parte) 20
@@ -35,7 +35,7 @@ O felici occhi miei, felici voi, che sete car'al mio sol 12
 
 Non è, lasso, martire il convenir per voi, donna, morire (F. Spira) "
 
-Amor mi fa morire e pur il vo seguire. Non è g'ran due] il mio (Dragoneth) "
+Amor mi fa morire e pur il vo seguire. Non è g'ran duel il mio (Dragoneth) "
 
 Padre del ciel, dopo i perduti giorni, dopo le notti (Petrarca) 15
 Hor volge, signor mio, l'undecim'anno (seconda parte) " 16
@@ -60,7 +60,7 @@ Così mi sveglio a salutar l'aurora (seconda parte) "
 
 ln fine (pag. non num. 29): " A Gli Lettori ".
 
-l-Tn: compl. (C. manc. di front. e ded.).
-l-VCd: C.T.B.5.
+I-Tn: compl. (C. manc. di front. e ded.).
+I-VCd: C.T.B.5.
 GB-Lbm: T.B.5.
 

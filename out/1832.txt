@@ -42,7 +42,7 @@ Sì m'è dolce il tormento e'l pianger (terza stanza) " 30
 
 Così vuol mia ventura, over mio fallo (quarta stanza) " 31
 I-Bc: C.A.B.5.
-l-MOc: C.T.
+I-MOc: C.T.
 
 D-Mbs: CT
 
@@ -72,7 +72,7 @@ Poi che di quella, ohimè, che'l cor m'ha (sesta parte) (Celiano) B
 
 Caro, dolce ben mio, chi mi vi toglie? Come potrà già mai questo mio core 9
 
-Quando, Sparsa di rosc e di viole, ti len, alma aurora, per rimenarn 'il sole 10
+Quando, Sparsa di rose e di viole, ti len, alma aurora, per rimenarn 'il sole 10
 
 Perché quest'empia mia sol del mio duol (seconda parte)
 

@@ -4,7 +4,7 @@ Ardemmo insieme, bella donna, ed io di sì subito ardore Concertato (Guarini) 17
 O Mirtillo, Mirtillo (quasi m'uscì di bocca). anima mia Concertato " 18
 Salirò su le nubi Concertato 19
 Sovente all'hor ch'in su gli estivi ardori giacean. Sopra l'Aria Romancsca (Tasso) 20
-l-VCA: Bc. (con il testo solo parziale). 20
+I-VCA: Bc. (con il testo solo parziale). 20
 
 1191 - GHIZZOLO Giovanni (1623) - Frutti d'amore in vaghe et variate Arie, da
 cantarsi co'l Chitarrone Clavicembalo, o altro simile stromcnto, accomodatevi l'alfa-
@@ -22,17 +22,17 @@ A 2. La bella Dori con la mia Clori, la bella Filli con Amarilli 3
 " " O Filli bella, o bella Filli, se d'amore tu sfavilli 4
 A 1. S'io men vo morirò, Ahi crudel dipartita 5
 " " Ten fuggi, mia vita. ten fuggi per l'arene. Deh ferma il piè 6
-A Z. S'io ti baccio ritrosetta, vergognosetta nasconder cerchi il viso 7
+A 2. S'io ti baccio ritrosetta, vergognosetta nasconder cerchi il viso 7
 A 1. Bocca ridente, perchè repente ti chiudi tu 9
 " " Guarda che fai che con tuoi guai non m'abbandoni, o Fillidc 10
-A Z. Hor non mi struggo poichè ti fuggo, o Clorida 11
+A 2. Hor non mi struggo poichè ti fuggo, o Clorida 11
 " " Più non t'am'Aminta ingrato, più non mi sſaccio ch'amor m'ha sciolto 12
 A 1. Ah che pur ti veggio, nè vaneggio, mia Filli bella 13
 " " Mio desir, mio gioir, mie care voglie, chi mi vi toglie 14
-"A Z. Ridono i prati e di più bei colori si veston 15
+"A 2. Ridono i prati e di più bei colori si veston 15
 A 1. Vivaci miei desiri e lu mio cor dolente, narrate. Sopra l'aria di Rugicro. 17
 " " A chi martir non sente et ha di giaccio il seno (seconda parte) 17
-" " ll cor seben vien meno è sì costante (terza parte) 13
+" " il cor seben vien meno è sì costante (terza parte) 13
 " " Benchè sia gionto a morte non men che sul (quarta parte) 18
 n |) Di quel volto peregrino rivolto ai lumi (quinta parte) 19
 n " Canta gli ardor spietati di chi lo trahe di vita (sesta parte) 19
@@ -41,12 +41,12 @@ A 2. Due vaghe stelle lucenti e belle all'idol mio vidd'io lampeggiar 21
 " " Hor che l'alba lampeggia e rosseggia con suoi splendori 22
 A 1. Dolce Filli, tutta bella, tutta snella, vieni al prato odora... B
 " " Se già'l tuo sguardo ferito m'ha, onde tutto ardo per tua beltà 24
-A Z. Lungi da te men vo e non morrò, mio caro ben 25
+A 2. Lungi da te men vo e non morrò, mio caro ben 25
 " " Godi, Filli, al mio languir. ferma al suon de miei sospir 26
 A 1. Che? Vorrò dunque amar chi non ha fede? No, che non voglio. Madrigale 27
 " " Pazzarclla, d'amor rubclla, per un fiore tu cangi amore 23
 A 2.- So che l'occhio sa ferir e s:. la lingua ancor mentir 29
-" " Pastorellc lcggiadrettc, venite al prato di fiori ornato . 30
+" " Pastorelle lcggiadrettc, venite al prato di fiori ornato . 30
 
 -761 _
 

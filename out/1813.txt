@@ -47,7 +47,7 @@ A 3. Se di tre forsenati. Mascherata prima d'una Ruffiana, Corteggmno e Astrolog
 " " Star rinchiuso in sua cittadc. Mascherata tctza dc' Vagabond: 24
 " " Mai si trova alcun contento. Mascherata qua-.ta. un Cacciatore, Pcscador, e Uccellador 32.
 " " Olà che fate, non bevete? Mascherata quinta de' Baccantl . 40
-A 4. ll gioco. Mascherata sesta d'un Corteggiano, Crapulone e Giocatore . 45
+A 4. il gioco. Mascherata sesta d'un Corteggiano, Crapulone e Giocatore . 45
 " " Chi di sentir. Mascherata settima, le Donne menano per Il naso gl Huomem SB
 
 PL-WRu

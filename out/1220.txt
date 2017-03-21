@@ -11,7 +11,7 @@ NL-DHgm: T.E.
 
 B-Bc: C.
 
-l-FA: T.
+I-FA: T.
 
 D-MZ: B.
 
@@ -46,7 +46,7 @@ A 5. Quando il soave mio fido conforto. Canzon 8
 " " Privo in luuo son io (seconda parte) " ÊO
 " " Bianca, bella, gentil, leggiadra mano 11
 " " A pingerti, o scolpir, seria ogn'un vano (seconda pane) 22
-" " Sc nel tornar tanto piacer prcndesle - 22
+" " Sc nel tornar tanto piacer prendesle - 22
 A 6. Cantan fra i rami gli augelletti vaghi, azurri e bianchi (Ariosto) 24
 " " Quando fia mai quel dì che i sette colli 25
 " " O fortunato e lieto per me giorno (seconda parte) 26
@@ -55,5 +55,5 @@ A 8. Che debbo far, che mi consigli, amore. Dialogo (Petrarca)
 
 " " Tanta dolcezza mai senti, amoroso core. Dialogo dì Hippo/ilo Tarmglmo
 
-l-VEcap: compl.
+I-VEcap: compl.
 

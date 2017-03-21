@@ -5,13 +5,13 @@ A 6. Sopra tronco fecondo ond'ha poi vaghi e dolci frutti 22
 " " Saggi, bei spirli illiNri e cari a Febo, onde s'innalza il corno B
 " " La bella Flora il ricco lembo spiega e di fior vaghi adorna 24
 A 7. Amor, che meco in quest'ombre ti sl:t\'l. mirando nel bel viso (Bembo) 25
-" " Ecco ove git-me prima e poi s'assisc (seconda parte) "
+" " Ecco ove git-me prima e poi s'assise (seconda parte) "
 
 A 8. L'aura, soave vita di mia vita, che così dolcemente (Cassola) 27
 
 A 10. S'in alcun tempo le tue altere sponde, famoso Tebro
 
-l-VEaf: A.S.
+I-VEaf: A.S.
 
 1845 - MICHELI Domenico (1581) - Di M. Dominico Micheli il Quinto Libro
 dc Madrigali a cinque voci con uno Dialogo a dieci, novamente composti, et dati
@@ -22,7 +22,7 @@ Provincia di Romagna, er Governatore (lel stato di Piagnano, e del Pian di Melet
 
 servitù havuta con la felice memoria del Sig. Cornelio suo Padre, et che tuttavia tengo con lei...
 
-Ravenna, 10 ll 1581 ".
+Ravenna, 10 il 1581 ".
 
 A 5. Si come bella et dolce primavera, così voi, mio signore. A lnnoccnlo Malvasia 1
 " " Tal'hor il mio martire da voi, dolce mia vita. scemar in giusa tale 2

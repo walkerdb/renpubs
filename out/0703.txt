@@ -16,7 +16,7 @@ A 4. Muse, venite all'ombra del mio colle gentile. Canzone 1
 " " Ohimè lasso et quante volte (nona parte) 9
 " " D'atra nube non era coperto il sol, ma luminoso ct della 10
 " " Tu pur. Flora, ti dei allegrar (seconda parte) 11
-" " Bella man di valore, bel pomc orato et di Venere degno 12
+" " Bella man di valore, bel pome orato et di Venere degno 12
 " " Amor dal terzo giro qua giù mirando scorse quest'amoroso. Canzon 13
 " " Fiammeggia ben quel tuo crin biond'aurora (seconda parte) 14
 A 5. Qual miracolo amore sc'l mio bel giro santo (terza parte) 15
@@ -37,7 +37,7 @@ A 5. Muse, perch'io m'avveggio che tant'alto non sale. Canzon 22
 " " Coreasi spesso il mio bel sol novello (terza parte) 30
 " " D'Arno stilla o sc'l ciel pur mi facessi (quarta parte) 31
 " " Felice, anzi beato Arno tu che quel bel (quinta parte) 32
-" " Forse giunte di noi son l'hor'estremc (sesta parte) 33
+" " Forse giunte di noi son l'hor'estreme (sesta parte) 33
 Î-Bc: T
 
 1055. - GALILEI Vincenzo (1587) - Il Secondo Libro de Madrigali a quattro,

@@ -17,11 +17,11 @@ lo sento un augellin che si rallegra col dolce canto suo del sol nascente 19
 Saggio signor, che con tua luce'l mondo nel più giovenil fior. A Marc'Antonio Villa Chiara
 [Martinengo 20
 
-Tra le purpuree rosc e i bianchi gigli che tepida aura freschi (Ariosto) 21
+Tra le purpuree rose e i bianchi gigli che tepida aura freschi (Ariosto) 21
 
 Sì vaga pastorella innanzi a gl'occhi miei scalza per l'acque apparve 22
 
-Vaghi boschetti di soavi allori, di palm'e d'amenissimc mortelle (Ariosto) 23
+Vaghi boschetti di soavi allori, di palm'e d'amenissime mortelle (Ariosto) 23
 
 Gravi pene in amor si provan molte, di che patito io n'ho la maggior parte " 24
 lo dico e dissi e dirò fin ch'io viva (seconda parte) " 25
@@ -39,7 +39,7 @@ D-Mbs: compl.
 
 NL-At: C.
 
-l-VEaf A
+I-VEaf A
 
 2238 - PORDENON Marc'Antonio (1571) - Il Terzo Libro de Madrigali di
 Marc'Antonio Pordenon padovano. Novamente composti ct dati in luce. In Venetia
@@ -52,7 +52,7 @@ Padrone... "
 
 A5. [ dolci colli, ov'io lasciai me stesso partendo (Petrarca) 1
 " " E qual cen-o ferito di saetta col ferro (seconda parte) " 2
-" " La dolce viSla c'l bel guardo sercno de gli occhi vagh'et la vermiglia 3
+" " La dolce viSla c'l bel guardo sereno de gli occhi vagh'et la vermiglia 3
 " " Che'n voi sol penso et viv'e a ciascun giorno (seconda parte) 4
 " " Deh hor ſoss'io col vago de la luna adormcntato (Petrarca) 5
 " " Io amai sempr'ct amo forte anchora e son per amar più " 6

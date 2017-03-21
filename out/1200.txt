@@ -11,7 +11,7 @@ Symphonia 1
 A 1 Tempro la cetra e per cantar gli honori di Marte (Marino) 2
 A 2. Non è di gentil core chi non arde d'amore (F. degl'Alli) 7
 A 6. A quest'olmo, a quest'ombre et a quest'onde (Marino) 3
-A Z. O come sei gentile, caro augellino, o quanto è'] mio stato (Guarini) 10
+A 2. O come sei gentile, caro augellino, o quanto è'] mio stato (Guarini) 10
 " " Io son pur vezzosetta pastorella, che le guancic 11
 " " O viva fiamma, o miei sospiri ardenti. o petto (G. A. Gesualdo) 12
 " " Vorrei baciarti, o Filli, ma non so come (Marino) 13
@@ -29,17 +29,17 @@ A 3. Augellin. che la voc'al canto spieghi. per pietà 23
 " " Eccomi pronta a i baci. Baciami, Ergaslo mio (Marino) 26
 " " Parlo miser'o taccio? S'io taccio, che soccorso (Guarini) 27
 A 4. Tu dormi. ah crudo core? Tu poi dormi, poi ch'in te dorme amore 28
-" " Al lumc delle stelle, Tirsi sotto un alloro (Tasso) 25
+" " Al lume delle stelle, Tirsi sotto un alloro (Tasso) 25
 A 1. Con che soavità, labra adorate, e vi bacio. Concertato a 1 voce e 9 strumenti (Guarini) 30
-A Z. Ohimè dov'è il mio ben, dov'è il mio core? Romancsca (B. Tasso) 31
+A 2. Ohimè dov'è il mio ben, dov'è il mio core? Romancsca (B. Tasso) 31
 " " Dunque ha potuto sol desio (seconda parte) " " 31
-" " Dunquc ha potuto in me (tcrza parte) " " 32
+" " Dunque ha potuto in me (tcrza parte) " " 32
 " " Ahi sciocco mondo e cieco (quarta parte) " " 32
 A 1. Se i languidi miei sguardi. Lettera amorosa in genere rappresentativo (Acllillinl) 43;
 
 " " Sc pur destina e vole'l cielo, almo mio sole. Partenza amorosa
 
-A Z. Chiomc d'oro, bel tesoro, tu mi leghi. Canzonetta concertata 52
+A 2. Chiome d'oro, bel tesoro, tu mi leghi. Canzonetta concertata 52
 A 4. Amor. che deggio far se non mi giova. Canzonetta concertata 57
 Tirsi e Clori. Ballo concertato con voci e strum. a 5 se piace (Striggio junior)
 A 1. Per monti e per valli, bellissima Clori. Tirsi solo 60

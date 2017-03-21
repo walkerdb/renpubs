@@ -1,6 +1,6 @@
 " " Giocondo albergo e caro per me fia il mar
 " " Veggio o parmi veder di faci accese "
-" " Fors'è capanna di pastor cortesc " H
+" " Fors'è capanna di pastor cortese " H
 A 3. Deh come son lucenti, deh come son ridenti " l?
 A 1. Già Febo ha spento in mar " b
 A 2. Noi qui posando intanto al lume " 17
