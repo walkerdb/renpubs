@@ -4,7 +4,7 @@ D-As: compl.
 D-Bds: C.S.
 D-Mbs: B.
 Boetticher 769.
-RISM. \ 1573-22.
+RISM, I 1573-22.
 
 1456 - DE LASSUS Roland (1586) - Di Orlando di Lassus il Terzo Libro dc
 Madrigali a cinque voci. Novamente ristampati. In Vinegia, appresso l'herede di
@@ -14,7 +14,7 @@ Girolamo Scotto 1586.
 
 D-KNu: C.A.5.
 Boettichcr 793.
-RISM, l 1586-17.
+RISM, I 1586-17.
 
 1457 - DE LASSUS Roland (1567) - Di Orlando Lasso maestro di capella del
 serenissimo signor duca di Baviera, Libro Quarto de Madrigali a cinque voci, da

@@ -56,5 +56,5 @@ D-Mbs: compl.
 GB-Ckc: compl.
 F-Pn: A.
 GB-Lbm: 5.
-RISM, ! 1581-11.
+RISM, I 1581-11.
 

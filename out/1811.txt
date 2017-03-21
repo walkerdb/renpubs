@@ -6,7 +6,7 @@ La dolce vista e'! bel sguardo soave di più begl'occhi (Tansillo) 6
 S'in veder voi, madonna, fu sempr'il mio pensiero tutto. Di Do. Fino! 7
 Tu, che potevi sol in quest'etade le più candide ros'e più 8
 Ohimè, che la brunetta mia, che l'è di fuora, ohimè che. Di Verde/ot 9
-Ardenti mici sospiri, ch'al ciel volando, dal bel nome carchi. Di Verde/ot 10
+Ardenti miei sospiri, ch'al ciel volando, dal bel nome carchi. Di Verde/ot 10
 Tutt'il dì piango et poi la notte quando prendon (Petrarca) 11
 Rompi de l'empio cor il duro scoglio, depon gli sdegni e l'ire. Di Adriano 12
 Deh perchè non è in voi, gentil madonna, quant'è in mortal. Di Maixtre [han 13
@@ -38,7 +38,7 @@ GB-Lbm: C.
 
 F-CH: 5.
 
-RISM. 1 1546-19.
+RISM, I 1546-19.
 
 2892 - VERDELOT Philippe (1561) - Madrcgali di Verdelot a sei insieme altri
 Madregali de diversi eccellentissimi autori novamente per Antonio Gardano con

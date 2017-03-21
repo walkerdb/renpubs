@@ -16,7 +16,7 @@ A 1. .Cara mia celra, andiannc a ritrovar colei 1
 " " Quella vermiglia rosa ch'al matutino gelo (Rinuccini) 2
 " " Se'n me, donna, movete le vostre luci liete 3
 " " lo son nel duol sì vinto ch'ngni senso nel cor homai (- spento 4
-" " lntencrite voi, lagrime mie, qucl duro core (Rinuccini) 5
+" " lntencrite voi, lagrime mie, quel duro core (Rinuccini) 5
 " " Ben è ver ch'e-i pargoleggia, ch'ci vezzcggìa (Chiabrera) 6
 " " Ricde la primavera, torna la bella Clori (Marino) 7
 " " Donna, mcntr'io vi miro visibilmente mi trasform'in voi (Guarini) 8

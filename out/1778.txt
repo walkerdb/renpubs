@@ -9,7 +9,7 @@ A 6. Amor, con nuova e inusilata foggia, alla mia bella perla
 A 7. Pastori nosuo, socii, cantemus (Pastor Alex-under) 31
 I-Bc: C.
 
-RISM, 1 1575-16.
+RISM, I 1575-16.
 
 2840 - VECOLI Pietro (1581) - Madrigali di Pietro Vccoli musico del serenis
 simo duca di Savoia. Il Primo Libro a cinque voci. Al molto illustre signor Gioan
@@ -62,5 +62,5 @@ Svegliati adunque pria che imbianchi il pelo (seconda parte)
 D-Mbs: compl.
 RISM, I 1581-12.
 
--l768-
+-1768-
 

@@ -2,7 +2,7 @@ A 5. O quam fragrans 73
 
 " " Agimus tibi gratias, rex omnipotens 79
 " " Quid prodest stulto habere dlvltlns 79
-" " Ste: quicumquc volet potcns 80
+" " Ste: quicumque volet potens 80
 " " Sic cum transicrint (seconda parle) 80
 " " Dulces exuviac dum fata (Virgilio) 81
 " " Urbem pracclaram (seconda parte) " 81

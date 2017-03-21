@@ -58,7 +58,7 @@ I-MOc: compl.
 D-Mbs: compl.
 
 PL-GD: compl.
-GB-Lhm: A.".
+GB-Lbm: A.".
 F-Pn: A.
 
 I-Rsc: B.

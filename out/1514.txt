@@ -34,7 +34,7 @@ GB-Lbm: compl.
 NL-Uim: compl.
 PL-Wn: C.A.
 1-Vnm: A.D.
-RISM, ] 1575-15.
+RISM, I 1575-15.
 
 2429 - (De) RORE Cyprien - PALESTRINA Giovanni Pierluigi (1557) - iii
 Cipriano de Rore il Secondo Libro de Madrigali a quatro voc1 con una Cîìſlznio

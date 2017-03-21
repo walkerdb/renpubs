@@ -1,4 +1,4 @@
-RISM, 1 1571-8
+RISM, I 1571-8
 Brown 1571-4 (erroneo)
 
 991 - FIORINO Gasparo (1573) - La Nobiltà di Roma versi in lode di cento
@@ -15,7 +15,7 @@ I-Rc
 
 GH-Lem
 
-RISM, 1 1573-19.
+RISM, I 1573-19.
 
 Brown 1573-4.
 

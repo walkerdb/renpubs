@@ -5,7 +5,7 @@ voci. Novellamente ristampati. In Venetia. Appresso Angelo Gardano. 1605.
 
 D-As: A.T.B.5.
 D-Bds: B.
-RISM, l 1605-15.
+RISM, I 1605-15.
 
 2159 - PECCI Tommaso (1609) - Del signor Tomaso Pecci Madrigali a cinque
 voci novamente ristampati. In Venetia. Appresso Angelo Gardano, et fratelli. 1609.
@@ -19,7 +19,7 @@ F-Plhibault: compl.
 
 GB-Och: compl.
 
-RISM, 1 1609-27 (non compl.).
+RISM, I 1609-27 (non compl.).
 
 2160 - PECCI Tommaso (1616) - Del signor Tomaso Pecci. Madrigali a cinque
 voci. Quarta impressione. Stampa del Gardano. In Venetia 1616. Appresso Bar-
@@ -33,7 +33,7 @@ C-Tu: 5.
 
 I-Sac: B.
 
-RISM. 1 1616-16.
+RISM, I 1616-16.
 
 2161 - PECCI Tommaso (1612) - Del signor Tomaso Pecci Madrigali a cinun
 voci. Libro Secondo. In Venetia, appresso l'herede di Angelo Gardano. 1612-

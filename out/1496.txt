@@ -4,7 +4,7 @@ Aprimi, amor, le [abbia, csci soave di lor. D'inccno 34
 Dolci irc, dolci sdcgni ct dolci paci. Di Hubert Nair/1 (Petrarca) 35
 Dolce pensier. che spesso mi rimembri. Di Huber! Nair/x 36
 Deh se ti strins'amorc unqua pietà. Di De Roſ: 37
-Qual vista sarà mai, occhi mici lassi. Di Adriano 38
+Qual vista sarà mai, occhi miei lassi. Di Adriano 38
 D-W: compl.
 
 GB-Lbm: compl. (2° cscmp1.: C.).
@@ -21,7 +21,7 @@ D-HAu: B.
 
 I-Vnm: 5.
 
-RISM, 1 1544-17 (non compl.).
+RISM, I 1544-17 (non compl.).
 
 2402 - (De) RORE Cyprien - WILLAERT Adriano (1551) - Di Cipriano dc
 Rorc il Secondo Libro de Madrigali a cinque voci insieme alcuni di M. Adriano
@@ -36,7 +36,7 @@ YU-MAs: A.S.
 
 GB-Lbm: A.
 
-RISM. l 1551-15 (non compl.).
+RISM, I 1551-15 (non compl.).
 
 2403 - (Dc) RORE Cyprien - WILLAERT Adriano (1552) _.Di_ Cipriano dc
 Rore il Secondo Libro de Madrigali a cinque voci insieme alcum di M. Adriatic
@@ -64,5 +64,5 @@ E-V: 5.
 F-Pm: 5.
 
 I-Vnm: 5. (manc. di pag. 1-7).
-RISM. I 1552-24 (non compl.).
+RISM, I 1552-24 (non compl.).
 

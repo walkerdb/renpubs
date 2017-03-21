@@ -42,7 +42,7 @@ Se nel miran-i con dolce contento talhor, bella Costanza Di Arcade/t 28
 Valli descrt'e sole, deserte piaggi'apriche Di Caml. Fenu 29
 Sola la donna mia mi fà viver contento Di Corteccia 30
 Ne dolcnt'occh'et nell'aspctt'appare Di Arcade]! 31
-Ohimè morl'è'l bel viso ch'in panc'l cor tcnea Di Corteccia 32
+Ohimè morl'è'l bel viso ch'in panc'l cor tenea Di Corteccia 32
 
 I-VEaf: compl.
 A-ng: compl.
@@ -50,5 +50,5 @@ A-Wn: compl.
 I-'Bc: C.
 
 GB me: T.
-RISM. l 1541-15.
+RISM, I 1541-15.
 

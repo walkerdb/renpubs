@@ -13,7 +13,7 @@ US-Wc: compl.
 D-Mbs: C.T.
 A-Wn: C.S.
 
-720 - DEL MEL Rinaldo (1585) - Il Primo Libro de Madrigali a cinquc_et Sfi
+720 - DEL MEL Rinaldo (1585) - Il Primo Libro de Madrigali a cinque_et Sfi
 voci, di Rinaldo Del Mel. Novamente composto et dato in luce. In Vmcgla
 appresso l'herede di Girolamo Scotto. 1585.
 
@@ -52,5 +52,5 @@ A 6. Questa gemma real. che d'ogn'intorno col chiaro suo splendore 18
 " " Qui fù la bella ninfa, di vaghi fiori quivi i capell'ornò
 
 A-Wn: C.T.S.
-RISM. I 1585-26.
+RISM, I 1585-26.
 

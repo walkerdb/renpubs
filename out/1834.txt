@@ -6,7 +6,7 @@ I-Bc: B.
 
 I-Rsc: B.
 
-RISM. I 1571-13 (nnn compl.).
+RISM, I 1571-13 (nnn compl.).
 
 2925 - VINCI Pietro (1583) - Di Pietro Vinci siciliano della città di Nicosia
 maestro di capella nella città di Bergamo il Primo Libro de Madrigali a sci voci.
@@ -23,7 +23,7 @@ I-Rc: B.
 D-I'IR: lì.
 
 US-HE: 5. (prov. Lantlau).
-RISM. I 1583-19 (non compl.).
+RISM, I 1583-19 (non compl.).
 
 2926 - VINCI Pietro (1579) - Di Pietro Vinci siciliano della città di 'Nicosia
 maestro di capella in Santa Maria Maggior di Bergamo. Il Sccon-lo Libro de

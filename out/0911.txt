@@ -55,5 +55,5 @@ D-Mbs: B.
 D-Bds: S.
 GB-Lbm: 5.
 Boettichcr 769.
-RISM. I 1573-21.
+RISM, I 1573-21.
 

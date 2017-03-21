@@ -4,7 +4,7 @@ B-Bc: C.
 
 D-Rp: B.
 
-RISM, 1 1597-21 (non compl. ed erroneo).
+RISM, I 1597-21 (non compl. ed erroneo).
 Brown 1597-14 (non compl. ed erroneo).
 
 2836 - VECCHI Orazio - CAPILUPI Geminiano (1597) - Canzonctte a tre voci
@@ -46,7 +46,7 @@ D-DS: C.
 
 D-Bs: T.
 
-RISM, ] 1606-3 (non compl.).
+RISM, I 1606-3 (non compl.).
 
 2838 - VECCHI Orfeo (1602) - La donna vestita di. sole, coronata dll-(figé
 calcante la luna, in 21. Madrigali cantata da Orfeo Vecchi. In Milano, per

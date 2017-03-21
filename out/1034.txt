@@ -54,7 +54,7 @@ F-Pc: compl.
 
 GB-Lbm: compl.
 
-GB-Lcm: compl. (5. mane. di png. 1-4).
+GB-Lcm: compl. (5. manc. di png. 1-4).
 I-Bc: C.T.B.5.6.
 
 E-TZ: C.A.B.

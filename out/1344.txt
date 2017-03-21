@@ -42,7 +42,7 @@ I-Bsp: compl.
 
 B-Br: compl.
 
-GB-Lhm: compl.
+GB-Lbm: compl.
 
 US-NH: compl.
 

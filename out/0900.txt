@@ -44,5 +44,5 @@ GB-Lbrn: compl.
 D-Rp: A.D.
 I-Bc: C.
 Boettichcr 753.
-RISM, 1 1565-14.
+RISM, I 1565-14.
 

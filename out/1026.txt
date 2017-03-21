@@ -52,5 +52,5 @@ I-Bsp: G.B.
 
 US-BE: T.
 
-RISM, ! 1595-10.
+RISM, I 1595-10.
 

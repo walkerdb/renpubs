@@ -24,7 +24,7 @@ AL Mentre ch'io v'amo e voi m'llavete a schivo. Aria (li Romanesca 10
 " " Lei nel partir, lei nel tornar del sole. Aria del Gazella (Tasso) 14
 " " Che in miscrabi] canto affliuc (seconda parte) " 15
 " " Usciva homai del molle e fresco grembo. Aria del Gazella " 16
-" " E scotcndo del vel l'humido lembo (seconda parte) " 17
+" " E scotendo del vel l'humido lembo (seconda parte) " 17
 " " Fà nove crcspc l'aura al crin disciolto. Aria di Romanesca " 13
 " " Stassi l'avaro sguardo in sé (seconda stanza) " 19
 " " Dolce color di rose in quel bel (terza stanza) " 20
@@ -44,7 +44,7 @@ vat (Chigi): manc. di pag. 25-30.
 GB-Lbm
 
 US-Cn
-RISM. I 1615-15 (non campi.).
+RISM, I 1615-15 (non campi.).
 
 566 - CIFRA Antonio (1616) - Scherzi sacri di Antonio Cifra romano. Maestro
 d' Capella della Santa Casa di Loreto. A una, a due, a tre, et quattro voci. Libro

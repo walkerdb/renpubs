@@ -21,7 +21,7 @@ A6. Cantai, mentre ch'io arsi del mio foco Di Girolamo Paraborro 31
 " " Factus est quasi ignis effulgens (sccunda pars) 37
 " " Giunto m'ha amor fra belle e crude braccra. Di P. Cambio (Petrarca) 38
 " " Quis tuos presul valeat nitenti pileo 39
-" " Quin tcncs legum sophiam peritus (secunda pars) 40
+" " Quin tencs legum sophiam peritus (secunda pars) 40
 A8. Madonna. il mio dolor è tant'e tale. Di Claudio Veggio (A. Doni) 41
 A 6. Amorosetto fiore, in cui si pascc ascosa questa alma. Di ]. Arcade/t 43
 AB. A tous jamais dung voloir immuable 43
@@ -55,7 +55,7 @@ NL-Lu: C.
 MSM-. I 1544-22 (non compl. ed erroneo).
 
 8_58 - D0_RATI Nicolò (1549) - Di Niccolo Dorati il Primo Libro di Madrigali a
-Clſlquc VOCl, novamente da lui compasti, et dati in luce. A cinque voci. In Venecia
+Clſlque VOCl, novamente da lui compasti, et dati in luce. A cinque voci. In Venecia
 appresso de Antonio Gardanc. 1549.
 
 : fase" in a Obl. (C A. .B 5. (l \ dl) Nſ P l lllalle SCO

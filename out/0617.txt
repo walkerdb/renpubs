@@ -8,7 +8,7 @@ n " Cantai un tempo e se fu dolce il camo. D| Ro :o oa- " 13
 " " Misero. che sperava csser in via (seconda parte) (T,-...o) "
 " " Io non posso gioire lunge da voi. che sele il mm. desire " ]5
 " " Già non son io conlenlo lunge da voi, che scle I1 rmo lormenlo DH..." 16
-" " Amor, ch'è qucl ch'io miro da bîj |raggi dell sol. Di Scipione (T.-550) 17
+" " Amor, ch'è quel ch'io miro da bîj |raggi dell sol. Di Scipione (T.-550) 17
 ' ' l'aurora di ueslo e conccn o . - ,. .
 i: " gii? Ìnîìîhî: neo, che sìqilluslri un bel vollo. Dl Mima Efirem \far'nîillo) {g
 " " Forse del ciel le stelle sono machie . .(seconda parte) (Tasso) 20
@@ -19,7 +19,7 @@ A 6. Disse al leggiadro Alessi: se'l ciel a (uor fleur: lieto . zz
 A7. Caronte, voltami il tuo legno. Dialogo
 
 GB-Lbm: compl.
-RISM !, 1591-18.
+RISM, I. 1591-18.
 
 ' ' ' della regal chiesa di
 926 - FELIS Stefano 1602) - Dl StefanoìFelis canonico . _
@@ -52,5 +52,5 @@ Non è questa l'aurora benchè tale somigli 20
 I-FA: A.T.
 B-Br: A.
 
-RISM. ! 1602-5.
+RISM, I 1602-5.
 

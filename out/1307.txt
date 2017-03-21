@@ -1,6 +1,6 @@
 1-VEaſ: C.T.5.
 D-Bds: A.
-RISM, 1 1596-16.
+RISM, I 1596-16.
 
 2116 - PALLAVICINO Benedetto (1600) - Di Benedetto Pallavicino maestro
 di capella del serenissimo signor duca di Mantova il Quarto Libro de Madrigali
@@ -20,7 +20,7 @@ I-Rc: T.
 
 NL-D1-1gm: A.
 
-RISM, 1 1600-15 (non compl.)
+RISM, I 1600-15 (non compl.)
 
 2117 - PALLAVIClNO Benedetto (1607) - Di Benedetto Pallavicino maestro
 di capella del serenissimo signor duca di Mantova. Il Quarto Libro de Madrigali

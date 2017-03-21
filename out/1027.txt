@@ -29,7 +29,7 @@ NL-DHgm: ſi\.
 
 I-Sd: T.
 
-RISM, 1 1600-14 (non compl.).
+RISM, I 1600-14 (non compl.).
 
 Un cscmpl. compl. (:ru nella Collezione ]ſſleſſver (li Kòln.
 
@@ -41,7 +41,7 @@ Angelo Gardano, et fratelli. 1069 (sic).
 I-Bc: compl.
 
 F-Pc: compl.
-RISM. 1 1609-13.
+RISM, I 1609-13.
 
 1636 - MARENZlO Luca (1609-2) - Di Luca Marenzio il Settimo Libro (le
 Madrigali a cinque voci. Novamente ristampato. In Venetia, appresso l'herede
@@ -50,7 +50,7 @@ di Girolamo Scotto. 1609.
 5 fasc. in 8° (C.A.T.B.5.). Indice = 1595.
 
 I-PAc: C.A.T.B.
-RISM. I 1609-24.
+RISM, I 1609-24.
 
 1637_- MARENZIO Luca (1598) - Di Luca Marenzio l'Octavo Libro de
 Madrigali a cinque voci novamente composto, et dato in luce. In Venetia appresso

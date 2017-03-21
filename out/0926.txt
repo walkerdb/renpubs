@@ -28,7 +28,7 @@ A 4. On doit le fer batre 2
 " " jay de vous voir 8
 " " Madonna mia, pietà chiam'et aita. Villanclla 8
 " " Tu sai, madonna mia, ch'io t'amo et voglio. Villanclla 9
-" " No giorno t'hagg'haverc intr'alle mane. Villanella 9
+" " No giorno t'hagg'haverc intr'alle manc. Villanella 9
 " " La cortesia voi, donne, predicate, ma mai non l'osservate. Villanella 10
 " " Tu, traditora, m'hai puost'a sto core no focolare. Villanella lll)
 " " Sto core mio se fosse di diamante. Villanella 11

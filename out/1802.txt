@@ -10,7 +10,7 @@ E-Bd: compl.
 
 F-Pc: B.
 
-RISM. I 1549-33 (non compl.),
+RISM, I 1549-33 (non compl.),
 
 2876 - VERDELOT Philippe (1552) - Verdelot tutti li Madrigali del Primo ct
 Secondo Libro a quatro voci novamente ristampati et con somma diligentia corretti.
@@ -24,7 +24,7 @@ GB-Lbm: A.
 
 US-R: T.
 
-RISM, l 1552-26 (non compl.).
+RISM, I 1552-26 (non compl.).
 
 2877 - VERDELOT Philippe (1555) - Verdelot tutti li Madrigali del Primo, ct
 Secondo Libro, a quattro voci, novamente ristampati, et con somma diligentia
@@ -33,7 +33,7 @@ corretti. Con la giunta. Venetiis, apud Hieronymum Scotum. 1555.
 4 fasc. in 8° obl. (C.A.T.B.), pag. 46,(1). Indice = 1544.
 
 I-Bc: compl.
-RISM. 1 1555-33.
+RISM, I 1555-33.
 
 2878 - VERDELOT Philippe (1556) - Di Verdelot tutti li Madrigali del-Prim?
 et del Secondo Libro a quattro voci, novamente ristampati et con somma diligentla
@@ -52,5 +52,5 @@ corretti. In Venetia, per Plinio Pietrasanta. 1557.
 4 fasc. in 8° obl. (C.A.T.B.), pag. 46,0). lndicc = 1544.
 
 I-Fr: compl.
-RISM. I 1557-26.
+RISM, I 1557-26.
 

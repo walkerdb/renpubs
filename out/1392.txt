@@ -9,7 +9,7 @@ F-Pc: T.
 
 I-Lg: S.
 
-RISM, [ 1560-20.
+RISM, I 1560-20.
 
 2254 - PORTINARO Francesco (1568) - Le Vergini di Francesco Portinaro a
 sei voci con alcuni Madregali, a cinque, et a sei, et duoi Dialoghi a sette, da lui
@@ -43,7 +43,7 @@ A 6. Vergine bella, che di sol vestita, coronata di stelle (Petrarca) 11
 " " Smarriss'il cor, ghiaccioss'il sangue quando dipinto di piettà Êô
 " " Quel ch'io divenn'allhor sassel amore (seconda parte) 27
 " " Tutto'l dì piango e poi la notte quando prendon riposo (Petrarca) 28
-A 7. Che faret'occhi mici poi ch'io non spero che riveder possiat'il viso
+A 7. Che faret'occhi miei poi ch'io non spero che riveder possiat'il viso
 
 A-Wn: compl.
 
