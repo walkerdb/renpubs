@@ -1,5 +1,4 @@
 Va, cor mio, al tuo Dio, rivolgend'al mondo il tergo 9
-
 E sì lacero il velo del mio morto 10
 Deh se non hai le mie preghiere a sdegno 11
 Voi, compagne del sol, facelle ardenti 12
@@ -12,7 +11,12 @@ Et hor salito a la celeste spera 18
 Su mia vita, Dio t'invita a lasciar l'errore 19
 Così stolta stai sepolta 20
 Ecco un lampo al tuo scampo 21
+
 D-As: compl.
+
+
+
+
 
 10 - AGAZZARI Agostino (1615) - Di Agostino Agazzari Armonico Intronato
 il Primo Libro de' Madrigaletti a tre voci. Novamente ristampati. In Venetia, 1615.
@@ -20,13 +24,17 @@ Appresso Ricciardo Amadino.
 
 3 fasc. in 8° (C., C.2°, B.), pag. 21,(1). Indice = 1607.
 
-I-F n : compl.
+I-Fn : compl.
+
+
+
+
 
 11 - AGAZZARI Agostino (1607) - Di Agostino Agazzari Armonico Intronato.
 Il Secondo Libro de Madrigaletti, a tre voci. Novamente composti, et dati in luce.
 In Venetia, appresso Ricciardo Amadino. 1607.
 
-3 fasc. in 8° (C., C.Z°, B.), pag. 21,(1). Ded. a Lattantìo Tartagli: " Questi Madrigaletti, che nella
+3 fasc. in 8° (C., C.2°, B.), pag. 21,(1). Ded. a Lattantìo Tartagli: " Questi Madrigaletti, che nella
 vostra presenza, ha pur hora in breve tempo partoriti la mia debil musa... Siena, 8 VI 1607 ".
 
 Nel lucido oriente sorge la bella aurora e col suo lume indora la terra (Casone) 1
@@ -42,14 +50,8 @@ Arde d'amor il cielo, l'aria si rasserena (terza parte) " 10
 Cara pietosa fascia, deh s'ogni tua ferita qual'hor penso di te. Alla Sindone di Christo 11
 Grembo felice e pio, eleto a partorir d'una prole pria che fosser 12,
 O fontane. animate, care luci beate, onde l"humor deriva. Sopra gl'occhi di Giesù piangenti 13
-Ma già che tra'l cadente liquor la fiamm'ardente (secon'da- parte) 14
-
-Poiché l'umil capanna raccolse il buon Giesù, dolce cantar Osanna. Oda nel Natale del
-[N.S. Giesù 15
-
+Ma già che tra'l cadente liquor la fiamm'ardente (seconda parte) 14
+Poiché l'umil capanna raccolse il buon Giesù, dolce cantar Osanna. Oda nel Natale del N.S. Giesù 15
 Celeste messagiero me il re del ciel mandò (seconda parte) 15
-. Pciche 1 silvestri doni ciascun devoto offrì (terza parte) 17
-M1 consumo in ardore e tu tremi di gielo, o dolce amor del cielo 18
-
-__7_
-
+Poiche i silvestri doni ciascun devoto offrì (terza parte) 17
+Mi consumo in ardore e tu tremi di gielo, o dolce amor del cielo 18

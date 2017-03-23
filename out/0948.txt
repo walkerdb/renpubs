@@ -53,7 +53,7 @@ A 4. Certes mon oeil fait trop " 5
 " " D'un oeil fardé " 14
 " " e leur 'e me doulx _
 
-" " LîhiP sccrefo non è scguend'amore non può durar. Madrigale i;
+" " LîhiP sccrefo non è seguend'amore non può durar. Madrigale i;
 " " Di piant'e di sospir solo mi pasco " 16
 
 ' ' ' ' "

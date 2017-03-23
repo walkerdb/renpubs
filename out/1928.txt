@@ -54,7 +54,7 @@ Davit Marco. 1895. Della Valle Porzia. 2534.
 
 De' Cavalieri Emilio. 1555, 1557, 2322. Delmonte, cardinale. 2052.
 
-dc Dcchere Simone. 254. Del Monte Francesco Maria. 2238.
+de Dcchere Simone. 254. Del Monte Francesco Maria. 2238.
 
 De Cresentìi Costanza. 2858. Del Monte Orazio. 2552.
 
@@ -80,5 +80,4 @@ Del Corno, abate. 2720. Del Verme. Cfr.: Dal Verme.
 
 Delfino Marco. 1277. Del Vivaio Alberto. 2945.
 
-_35_
 

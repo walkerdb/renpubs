@@ -6,7 +6,7 @@ A 3. Se dal foco d'amore altri prendon diletto, altri dolore 11
 " " Ninfa, che di beltà 15
 " " Dolce mio ben 15
 " " O di pietà rubella ]7
-A 4. A che più saettar tirann'amorc ]9
+A 4. A che più saettar tirann'amore ]9
 " " Una ninfa crudel con bionde trezze 2°
 " " Mira che strana sorte, ch'io son ferito 21
 " " Hor se l'iniqua sorte mi mena tutto 22
@@ -43,7 +43,7 @@ A 3. Core, io tanto t'amo, ch'altm che te non bramo 1
 " " Donna, se col fuggire pensa 8
 " " Cerchi fuggire amore, per non sentir dolore 9
 " " Deh come può il mio core 10
-" " O fuoco del mio core, perchè non esci fuore ct vai 11
+" " O fuoco del mio core, perchè non esci fuore et vai 11
 " " Cor mio, nel tuo partire mi pensai 12
 " " Donna, se lo tuo sguardo ha fatto 13
 " " Se tu dici che m'ami, io pur t'adoro 14

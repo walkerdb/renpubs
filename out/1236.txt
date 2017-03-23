@@ -15,9 +15,9 @@ S'io laccio il duol s'avanza, s'io parl'accrcsco l'ira . (Tasso) 1
 Anima del cor mio, poichè da me, misera me, ti parti 2
 Ch'io t'ami. o mio diletto, credilo all'alma mia 3
 Tu parti, o mio bel sole, e in tenebre sepolto mi lasci 4
-Vcdc mia dolce Filli come la nott'e'l giorno questo misero cor 5
+Vcde mia dolce Filli come la nott'e'l giorno questo misero cor 5
 Tu rassomigl'al nome et alla varia veste, ma vinci co bcgl'occhi 6
-Godi, cruda, ch'io mora. Morrò, ma che fia poi se'] desiato 7
+Godi, cruda, ch'io mora. Morrò, ma che fia poi se'l desiato 7
 Mentre all'immensa altezza tall'hor volo con l'ali del pensiero 8
 Io d'ogni meno ignudo, ardo bensì, ma quasi inutil tronco 9
 Hot consolato moro e consolato a te vengo, Amarilli (Guarini) 10
@@ -50,5 +50,4 @@ primi frutti di Madrigali... Bari, 15 IV 1580".
 Quando la nave mia, colma di speme, solcata londc
 Dimmi, cor mio, quando sarà quell'hora di contentarmi
 
-._1225_
-
+.

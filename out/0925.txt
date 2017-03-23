@@ -1,7 +1,7 @@
 AS. Cerncre virtutcs quis vu]! 68
 
 " " Dulce: exuviae dum fata (Virgilio) 69
-" " Urbcm pracclara (seconda parte) " 70
+" " Urbem pracclara (seconda parte) " 70
 " " Dditiac Phacbi, Musarum pulcher 70
 " " Super flumina Babilonis 71
 " " Illic scdimus (seconda parte) 72
@@ -21,9 +21,9 @@ A 8. Un jour l'amant et l'amic 77
 " " Edite cacsarco 81
 " " Obscuro (seconda parte) 82
 " " Dic mihi quem portas 83
-" " Vinum bonum ct suave 84
+" " Vinum bonum et suave 84
 " " S'una fede amorosa, un cor non finto (Petrarca) 35
-A 10. Quo properas facundc nepos 86
+A 10. Quo properas facunde nepos 86
 F-Pc: compl.
 
 F-Psg: compl.
@@ -40,13 +40,13 @@ F-CH: T.
 
 B-Br: B.
 
-Bocttichcr 776.
+Boctticher 776.
 
 Lcsure e Thibault 199.
 
 Il N. 1466 è annullato.
 
-1467 - DE LASSUS Roland (1586) - Mcslangcs de la musique d'Orlandc de
+1467 - DE LASSUS Roland (1586) - Mcslangcs de la musique d'Orlande de
 Lassus. A 4. 5. 6. 8. et 10 parties. A Paris. Par Adrian Lc Roy, .et Robert Ballard.
 Imprimeurs du Roy. 1586. Avec privilege de sa majesté pour dlx ans.
 
@@ -57,7 +57,7 @@ GB-Lbm: S.
 
 F-Pc: B.
 
-Bocttichcr 793.
+Boctticher 793.
 
 Lesure e Thibault 279.
 

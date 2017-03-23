@@ -8,7 +8,7 @@ Con privilegio. In Venetia, appresso Alessandro Vincenti. 162.2.
 
 1-FEc: compl.; Z" esempi.: T.
 
-I-MOc: compl.
+I-MOe: compl.
 D-Hs : compl.
 1-Bc:
 
@@ -38,7 +38,7 @@ Opera XI. In Venetia, appresso Alessandro Vincenti. 1622.
 Delfino, Venetia, 18 11 1622.
 
 A 2. Io mi sento morir, quando non miro colei ch'è la mia vila (Guarini) 1
-" " Negatcmi pur, cruda, de bei vostr'occlli il sole "
+" " Negatemi pur, cruda, de bei vostr'occlli il sole "
 
 " " Rose, rose beate, lascivette figliole de la terra " 2
 " " Ardemmo insieme. bella donna, ed io de sì subito ardore " 3
@@ -51,5 +51,4 @@ A 2. Io mi sento morir, quando non miro colei ch'è la mia vila (Guarini) 1
 " " Tu pani a pena giunto. fuggitivo crudel (Guarini) ...
 " " A qual, tanto d'amore favorito pastore. Dialogo "
 
-_805_
 

@@ -11,8 +11,8 @@ de Madrigali a sei voci novamente stampati et dati in luce. Libro Terzo. Con
 privileggio. In Venetia appresso Angelo Gardano. 1576.
 
 6 fasc. in 8° obl. (C.A.T.B5.6.), pag. Z9,(1). Ded. a Giovanni Grimaldi: "ln Aversa, mentre io
-mi truovavo in qualche diﬃcoltà, et bisogno dell'aiuto, et favore de gli amici, ct miei Signori,
-V.S. lllustre da se stessa si mosse con tanta prontezza a dichiararmi la liberalità ct grande!-D
+mi truovavo in qualche diﬃcoltà, et bisogno dell'aiuto, et favore de gli amici, et miei Signori,
+V.S. lllustre da se stessa si mosse con tanta prontezza a dichiararmi la liberalità et grande!-D
 dell'animo suo... ".
 
 A 6. Hot che'l ciel e la terr'e il vento tace (Petrarca) 1
@@ -32,7 +32,7 @@ A 6. Hot che'l ciel e la terr'e il vento tace (Petrarca) 1
 " " Beato se' ch'altrui beato fai (seconda parte) " 15
 " " Nel più bel di che mai chiudesse stelle 16
 " " Veduto a pien le spalle havrei freggiate (seconda parte) 17
-" " Se'l dolce sguardo di costei m'ancidc ("""") Il;
+" " Se'l dolce sguardo di costei m'ancide ("""") Il;
 " " Però s'io tremo e vo col cor gelato (seconda parte) " 20
 " " Poichè, dolce mio bene 21
 " " Su la riva del Tebro alhor che'l sole 22
@@ -52,7 +52,7 @@ A 6. Hot che'l ciel e la terr'e il vento tace (Petrarca) 1
 
 ))
 A 7. Stolto mio core. ove sì lieto vai. Dialogo (Della Casa) 29
-I-MOc: compl.
+I-MOe: compl.
 I-Vnm: compl.
 F-Pc: compl.
 I-Rsc: T.B.5.6.

@@ -1,5 +1,5 @@
 1441 - DE LASSUS Roland (1567) - Di Orlando di Lassus il Secondo Libro
-delli Madrigali a cinque voci novamente ristampati ct con ogni diligenza coretti.
+delli Madrigali a cinque voci novamente ristampati et con ogni diligenza coretti.
 In Vinegia 1567. Appresso Girolamo Scotto.
 
 5 fasc. in 8° ob]. (C.A.T.B.5.), pag. 19. lndicc = 1559.
@@ -8,7 +8,7 @@ D-Bds: B.
 
 I-Ta: 5.
 
-Bocttichcr 758.
+Boctticher 758.
 
 RISM, I 1567-19 (non compl.).
 
@@ -24,7 +24,7 @@ A-Wn: B.
 D-Bds: 5.
 
 F-Pc: 5.
-Bocnichcr 759.
+Bocnicher 759.
 RISM, I 1568-17.
 
 1_443 - DE LASSUS Roland (1573-1) - Di Orlando di Lassus il Secondo Libro
@@ -41,7 +41,7 @@ D-Bds: C.
 
 Ì-MOc: S,
 
-Bocttichcr 769.
+Boctticher 769.
 RISM, I 1573-20 (non compl.).
 
 1444 - DE LASSUS Roland (1573-2) - Di Orlando di Lassus il Secondo Libro
@@ -54,6 +54,6 @@ I-Bc: compl.
 D-Mbs: B.
 D-Bds: S.
 GB-Lbm: 5.
-Boettichcr 769.
+Boetticher 769.
 RISM, I 1573-21.
 

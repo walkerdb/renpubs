@@ -2,7 +2,7 @@ A 3. Poi sogiunse al secondo (terza parte) 3
 
 " " Alfin le luci affisse nel Vero amante (quarta parte) 4
 " " O dolci miei pensier, venit'homai alla battaglia, su, chc'l cieco amore 5
-" " M'ha pont'amor con vcncnoso dardo e va gridando 6
+" " M'ha pont'amor con vencnoso dardo e va gridando 6
 " " Et io che'l cor fcrit'ogn'hor (seconda parte) 7
 " " Ma nell'assallo il lusinghicr (terza parte) 8
 " " Et io che mi ritrovo ncll'imprcsa (quarta parte) 9
@@ -14,7 +14,7 @@ A 3. Amanti. homai vivete senza timor di duri lacci o rele 11
 " " Voi muse in ogni pane spargete (terza parte) 15
 " " Augclli, ninfe e muse, hor non siate (quarta parte) 16
 " " Amanti, io son hormaì vicino a morte, ma lasso che farò 17
-A4. Rivestasi la terra di fresch'herbett'e fiori 18
+A 4. Rivestasi la terra di fresch'herbett'e fiori 18
 " " Candida perla, ch'in fin oro accolla, togli il più ricco 19
 " " Le tue dolci parole, che son rose e viole 20
 I-Bc: compl.
@@ -50,5 +50,4 @@ Una vermiglia rosa hora ti porgo (terza parte) 3
 Un candido ligustr'ecco io ti dono (quarta parte) 4
 Così dicean i tre pastori erranti (quinta parte) 5
 
-_471_
 

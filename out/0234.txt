@@ -38,7 +38,7 @@ A 5. Crud'Amarilli, che col nome ancora (Guarini) 3
 " " Ma grideran per me (seconda parte) " 9
 " " Parlerà nel mio volto (terza parte) " 10
 " " Ecco la cieca, eccola giust'apunto " 11
-" " Ascoltatcmi voi (seconda parte) " 12
+" " Ascoltatemi voi (seconda parte) " 12
 " " Ma che sarà di me (terza parte) - " 13
 " " Cieco amor, non ti cred'io (quarta parte) " ì;
 ." " Ma voi giocate troppo (quinta parte) " 16

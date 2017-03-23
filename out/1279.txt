@@ -1,4 +1,4 @@
-Gl'occhi leggiadri e'] bel viso sereno m'hanno con duro treno 14
+Gl'occhi leggiadri e'l bel viso sereno m'hanno con duro treno 14
 
 Le rose, frond'e fiori che mi porgesti, o Clori, spirano, crescon 15
 Mcntrc l'aquila sta mirando il sole, dice invaghita del celeste lume 16
@@ -11,8 +11,8 @@ Non più lacci d'amore, nè sue saette e fuoco nel mio misero cor 22
 I-Bc: compl.
 
 GB-Lbm: Cl°, B.
-CH-Bu: C.Z°, B.
-D-Kl: C.Z°, B.
+CH-Bu: C.2°, B.
+D-Kl: C.2°, B.
 
 2064 - OROLOGIO Alessandro (1596) - Canzonctte a tre voci di Alessandro
 Orologio intavolate per suonar di Liuto et nuovamente stampate. In Venetia,
@@ -52,5 +52,4 @@ AS- Quante volte ti miro, leggiadro fior, quante volte li volgo 1
 " " O fortunata Milla, il cui bel viso ne mostr'a noi l'alte bellezze 2
 " " Amor per suo diletto volò nel dolce seno, ov'io venuto son 3
 
-_1359_
 

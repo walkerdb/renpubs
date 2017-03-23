@@ -14,10 +14,10 @@ A 7. Come falda di neve, che aggliiaceiata (Tansillo)
 
 D-Rp: compl. (B. difett.).
 D-Bms: C.l°, A.Z°, T.Z°, B.
-I-MOe: C.l°, C.Z°, T.Z°.
-F-Pc: C.Z°, A.Z°.
+I-MOe: C.l°, C.2°, T.Z°.
+F-Pc: C.2°, A.Z°.
 
-F-Pn: C.Z°, A.Z°.
+F-Pn: C.2°, A.Z°.
 Boetticher 803.
 
 1405 - DE LASSUS Roland (1560-1) - Il Primo Libro delli Madrigali d'Orlando
@@ -44,7 +44,7 @@ Vattene lieta homai, copia d'amici, ove vol il destin
 Sovra una verde e dilettosa riva di chiar'et. Canzon d'incerto (Sannazzaro) "
 Apri l'useio per tempo, leggiadro (seconda parte) " "
 Valli vicine e rupi, cipressi. A 3 (terza parte) " 18
-Nascan hcrbett'e fiori (quarta parte) " 19
+Nascan herbett'e fiori (quarta parte) " 19
 In questo dì giocondo nacque. A 3 (quinta parte) " 20
 Mentre per questi monti andran (s(esta'parte) ) " 20
 Per cortesia, canzon, tu regherai settima parte _
@@ -52,5 +52,4 @@ Giovane donna sotto un verche lauro. Canzon terza di Fram-m'a Rane/11 (Petrarca)
 
 Alhor saran i miei pensieri a riva (seconda parte)
 
-_890_
 

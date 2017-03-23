@@ -1,8 +1,8 @@
-A6. Qui giace, ahi lasso, il gran signor del cielo 19
+A 6. Qui giace, ahi lasso, il gran signor del cielo 19
 " " Non più, saggi pastori, d'altre ninfe cantate 20
 " " Fate a questa corona (seconda parte) 21
 
-I-MOc: compl.
+I-MOe: compl.
 I-Vnm : 5.
 
 2531 - SABINO Ippolito (1587) - Di Ippolito Sabino il Seto (ric) Libro dc
@@ -11,11 +11,11 @@ presso Giacomo Vincenzi. 1587.
 
 Sſasc .in 8° (C.A.T.B.5.), pag. 21,(1). Ded. ad Ascanio di Capua, Venetia, 1° V 1588.
 
-A5. Quando con mille vagh'crbenc infiori 1
+A 5. Quando con mille vagh'crbenc infiori 1
 " " Due vaghe paslorelle un giorno 2
 " " Aura dolc'e suave deh pungi il cor. Di Gia. Fram-m'a Sabino 3
 " " Cor mio, poi che nel fior de' miei verd'anni. Di Gio. France-rca Sabino 4
-" " Fioriti colli, hcrbette pien d'odori 5
+" " Fioriti colli, herbette pien d'odori 5
 " " Non ha lant'herbe maggio e fior aprile 6
 " " Dai freddi hcsperii a caldi (seconda parte) 7
 " " E mentre che n'andran per (terza parte) 3
@@ -24,9 +24,9 @@ A5. Quando con mille vagh'crbenc infiori 1
 " " Ardi o gela a tua voglia, perfido ed impudico. Risposla. Di Ora:/'o Crirci (Tasso) 11
 " " Felice primavera di bei pensier fiorisce. Di Gio. Fram-crm Sabino 12
 " " Danzan le ninfe oneste e i pastorelli (seconda parte) Di Hippoh'to Sabino 13
-A6. Vidi spczzar la fune :\ un forte toro 14
+A 6. Vidi spezzar la fune :\ un forte toro 14
 " " All'hor vidi cader il gran (seconda parte) 15
-" " In un boschetto adorno, fra \'erd'hcrbette 16
+" " In un boschetto adorno, fra \'erd'herbette 16
 " " In questo lieto giorno (seconda parte) 17
 " " Con sì contrario effetto, amor di ghiaccio e foco "3
 " " Pria che la tromba spaventosa e cruda. Di Orario Criſci 19

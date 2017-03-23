@@ -1,9 +1,9 @@
-A3. o saette d'amor, ch'a mill'a mill'a quinci movete 6
+A 3. o saette d'amor, ch'a mill'a mill'a quinci movete 6
 
 " " Amor, deh dimmi come sta nel cor di costci l'orgogli'e'l gelo 6
 " " Da bei vostr'occhi e dal suave riso nacqu'in me tal desire 7
 " " Duo begl'occhi lucenti, anzi due stelle, per pena 7
-" " Sola, soletta i' me ne vo cantando ct ho via il core 8
+" " Sola, soletta i' me ne vo cantando et ho via il core 8
 " " Sappi, signor, che Lidia son io, del re di Lidia 8
 " " Tirsi morir volea, gl'occhi mirando di colei ch'adora (Guarini) 9
 " " Frenò Tirsi il desio ch'avea di pur (seconda parte) " 9
@@ -31,10 +31,10 @@ nuovamente ristampati. In Anversa appresso Pietro Phalesio. 1607.
 
 Amor, Poi che non vuole la bella donna, a cui nol dir giurai (Parabosco) 2
 _ (Phi strinse mai più bella mano (seconda parte) )) 2
-qumdc perl'amor da gl'occhi sparse, in premio del mio ardore (Sannazzaro) 3
+qumde perl'amor da gl'occhi sparse, in premio del mio ardore (Sannazzaro) 3
 rano i capei d'oro a l'aura sparsi (Petrarca) 3
 Non era l'andar suo cosa mortale (seconda parte) " 4
-Che fà hOgg'il mio sole, che fà il mio canto e'] suono 4
+Che fà hOgg'il mio sole, che fà il mio canto e'l suono 4
 Madonna mia gentil, ringrati'amore che tolto m'habbia il core 5
 Mom non può'l mio core e uccidcr lo vorrei, ingrato amore 5
 O Saette d'amor, ch'a mille a mille quinci movete 6
@@ -56,5 +56,4 @@ Su Se voi set'il mio sol, se per voi (seconda parte) 11
 
 (Cassola) 12
 
-_337_
 

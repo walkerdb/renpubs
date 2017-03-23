@@ -28,7 +28,7 @@ A 3. Anime liete, voi che godete d'amor tranquillo stato, venite al prato 3
 " " Gli ardenti miei desiri, che tragon dal mio cor fiamm'e sospiri. Canzona spirituale 7
 " " Se nasce in cielo il dio di Delo a l'occidente giunge repente 8
 " " Giunt'è pur Lidia, il mio non so se deggia dire, o partirc o morire. Madrigale (Marino) 9
-" " Al suon non posa il core, ma crescc fiero ardore che i vostri non son sguardi lO
+" " Al suon non posa il core, ma cresce fiero ardore che i vostri non son sguardi lO
 " " Perchè fuggi, o bella Clori, forsi disdegn'i miei novelli ardori 11
 " " Non han tant'ond'il mare, nè i prati herbett'e fiori quanti sento per voi 12
 " " Bella donna incostante fuggitiv'al tuo amante, nemica del mio core 13
@@ -36,7 +36,7 @@ A 3. Anime liete, voi che godete d'amor tranquillo stato, venite al prato 3
 " " Occhi, nido d'amore, albergo del mio core, vive stelle lucenti. D'incerto 15
 " " Che giova più amare donna che fà penare a chi l'ama col core 16
 " " Dolci sospiri, dolci martiri, dolci cercate mercè, pietate 17
-A4. Cara Filli ct amata, come sei dispietata et a me fiera tanto 18
+A 4. Cara Filli et amata, come sei dispietata et a me fiera tanto 18
 
 " " Vita mia, di te privo sai tu com'io son vivo. Madrigale del sig. Scipione Dentice
 
@@ -52,6 +52,6 @@ menti perfetti come liuto, cimbalo, arpa et altri lstrumenti, la battuta sx port
 le accadenze di mezo si cantano à battuta giusta; le finale sx tengono un poco più delle altre.
 Le Canzoni che sono il quattro si potranno cantare à tre con lascrar la parte del Tenore
 
-I-Bc: C.1°, C.Z°.
+I-Bc: C.1°, C.2°.
 RISM, I 1616-11.
 

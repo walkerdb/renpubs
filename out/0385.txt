@@ -12,7 +12,7 @@ A 2. Ruggier qual sempre fui. Aria di Ruggiero (Ariosto) 15
 " " Che'l cor non ho (seconda stanza) " 19
 " " Del mio sol son ricciutegli. Scherzo (Chiabrera) 20
 " " Ben è ver ch'ei pargoleggia (seconda stanza) " 21
-A3. Felice chi vi mira, ma più felice chi per voi. Madrigale (Guarini) 22
+A 3. Felice chi vi mira, ma più felice chi per voi. Madrigale (Guarini) 22
 " " Chi v'insegna d'uccidcre e lieti poi sorridere. Madrigale (Chiabrera) 24
 A 4. In una verde piaggia :\ la cruda selvaggia. Canzonetta (A. Litegato) 26
 " " O ninfa. o tigre, o sasso (seconda parte) " 28
@@ -53,5 +53,4 @@ A 2 Felici voi. cui serba alto favore. Aria di Romanescha. La Vergine a Re Magi 
 
 Quest è del Redentor sotto human (quarta stanza) 21
 
-_377_
 

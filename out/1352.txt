@@ -11,7 +11,7 @@ A ). Ite, rose felici, che tra gigli del seno amor lieto. 2 C., A.T.B. (A. Gatti
 A 6. M'havea del volto a pena i campi sparsi. 2 Violini, Z C., A., 2 T. e B. (Marino) 43
 
 I-Fn: compl.
-I-Bc: C.Z°, T.l°, T.Z°, Viol. 1°, Viol. 2°, Bc.
+I-Bc: C.2°, T.l°, T.Z°, Viol. 1°, Viol. 2°, Bc.
 
 2197 - PESENTI Martino (1641) - Madrigali concertati a due, e tre voci, del
 signor Martino Pesenti cieco a nativitate raccolti d'Alcssandro Vincenti Libro
@@ -29,7 +29,7 @@ puoi tenere, che questo sia l'ultimo parto, che ti possa produrre, col mczo dell
 debolezza mia. Viva sano",
 
 A 2. In braccio a libertà tutto raccolto i' ne vivea, quando un crin. 2. T. 1
-" " Ardo, tacito amante, e'] foco mio celar non posso. 2 T. (Preti) 4
+" " Ardo, tacito amante, e'l foco mio celar non posso. 2 T. (Preti) 4
 " " Di fiamme acceso e di catene avvolto non era ancor. 2. T. 7
 " " Duro è Filli quel monte e pur ti porge esca onde tempri. 2 T. 9
 " " Non t'inalzar, se ben nell'aureo crine Lilla tanto Splendor. 2 T. "

@@ -10,7 +10,7 @@ GB-T: compl.
 I-PAc: C.A.T.B.
 US-Cn: T.
 
-1674 - MARENZIO Luca (1610) - Di Luca Marenzio musico cccellentiss. il
+1674 - MARENZIO Luca (1610) - Di Luca Marenzio musico eccellentiss. il
 Sesto Libro de Madrigali a sei voci novamente stampati et dati in luce. In Anversa
 appresso Pietro Phalesio al re David. 1610.
 
@@ -48,5 +48,5 @@ S [asc. in 8° (C.A.T.B.5.), pag. Zl. Ded. a Lodovico Bianchetti, mastro di came
 24 IV 1584.
 
 Gralie renda al Signor meco la terra poi ch'è (Guidi) 1
-Le (luhie spcmi, il pianto e'l van dolore (Sannazzaro)
+Le (luhie spemi, il pianto e'l van dolore (Sannazzaro)
 

@@ -1,4 +1,4 @@
-A6. Quando \'cdc'l pastor calar i raggi del gran pianeta ll!
+A 6. Quando \'cdc'l pastor calar i raggi del gran pianeta ll!
 
 " " Voglia mi sprona, amor mi guid'e scorge (Pclrarca) 11
 " " Là ver l'aurora, che sì dolce l'aura " 12
@@ -34,7 +34,7 @@ I-MAc: 5,
 
 2681 - STRIGGlO Alessandro (1585) - Di Alessandro Striggio gcntil'huomo
 mantovano il Primo Libro de Madrigali a sei voci. Novamente ristampato. In
-Vincgia appresso l'hercde di Girolamo Scotto. 1585.
+Vincgia appresso l'herede di Girolamo Scotto. 1585.
 
 6 fasc. in 8° (C.A.T.B.5.6.)_ pag. 27. lnclice = 1579.
 
@@ -42,7 +42,7 @@ CH-Bu: compl.
 
 I-Sd: C.A.B.5.6.
 
-I-MOc: C.T.5.
+I-MOe: C.T.5.
 
 F-Pn: T.
 

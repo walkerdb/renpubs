@@ -15,7 +15,7 @@ A 7. Volea partir Aminta dalla sua bella e gratiosa Irene 14
 " " Questi son ben de la mia morte i segni (seconda parte) " 26
 " " Occhi. ch'a sì gran torto morir mi fate (terza parte) " 27
 " " Dove vai, miser core, così colmo d'affanni e di dolore 28
-A8. Chi sei tu che rispondi. Echo o più tosto Amor (Guarini) 29
+A 8. Chi sei tu che rispondi. Echo o più tosto Amor (Guarini) 29
 
 I-Fn: C.A.T.5.6.7.
 D-As: C.A.T.B.6.7.
@@ -46,7 +46,7 @@ Vostro fui, vostro son e sarò vostro fin che vedrò (B, Tasso) 5
 N°" Pur sì duro esilio, o lontananza, ma morte stessa 6
 Mentre ameranno i nudi pesci l'onde, l'alte selve e [con 7
 Vago monte, fiorite ombrose piagge, lago d'ogn'altro più lucenc'e chiaro 3
-O mia licta vcmum, hor quale stella m'è sì benigna (G_B_ Piccolomini) 9
+O mia licta vemum, hor quale stella m'è sì benigna (G_B_ Piccolomini) 9
 
 I° SO che non m'inganna sogno od ombra (seconda parte) " " " 10
 N°11 vedete voi, donna, il mio tormento? Piacciavi dunque (P. Barignano) 11

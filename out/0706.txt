@@ -13,8 +13,8 @@ n " Ch'io non l'ami, cor mio, ch'io non sia la tua vita (Guarini) 10
 " " Filli, quel ruscielletto serpendo va col christallino petto 16
 " " Belle ninfe, :il prato, al prato. Non mrdate, ecco l'aurora. Canzonetla 17
 
-GB-Lbm: C.1°, C.Z°.
-A-KR: C.Z°.
+GB-Lbm: C.1°, C.2°.
+A-KR: C.2°.
 S-Uu: B.
 
 1060 - GASPARINI Francesco (1695) .. Cantate da camera a voce sola dedicate
@@ -39,7 +39,7 @@ Ch'io t'amo e che t'adoro, che vaneggio e languisco "
 Se lontana da me, t'amo, Dorinda mia, fedele 57
 Il mio cor è che far deve amarti sì o no 65
 Ed ecco in fine, 0h Dio, con qual legge divina ;;
-Augcllin vago e canoro, tu sospiri il colle e'] prato 100
+Augcllin vago e canoro, tu sospiri il colle e'l prato 100
 
 Sento nel sen combattere e a poco a poco accendere
 Tormentosi pensieri, del mio misero sen parti infelici 125
@@ -55,5 +55,4 @@ all'illustriss. signora e padrona colendiss. la signora Anna Luisa Buonvtsl-
 
 per i Gregori. 1697. Con licenza de' Superiori.
 
-_698_
 

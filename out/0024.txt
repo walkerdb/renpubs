@@ -15,8 +15,8 @@ L'aurora soave, vita di mia vita, che così dolcemente a l'amoroso (Cassola) 4
 Madonna, un mio pensiero scoprir vorrei, ma poi non v'adirate " 5
 Quando mi doglio di quelli occhi belli, ch'in cor mi fer " 6
 Ben mi prendesti, amore, con sì bei lacci, ch'io hebbi di te seguir sempre desio 7
-Va, limpido ruscel, Castalio humile, col dolce mormorar delle chiar'ondc 8
-Sia bcncdctto amore, che con fedel servire, a poco a poco m'insegna. A 5 (Cassola) 9
+Va, limpido ruscel, Castalio humile, col dolce mormorar delle chiar'onde 8
+Sia benedetto amore, che con fedel servire, a poco a poco m'insegna. A 5 (Cassola) 9
 Io vo fra me pensand'almo mio sole, se questo mio tormento 10
 Madrigali a 6
 Io vo piangendo i miei passati tempi i quali posi in amar (Petrarca) 11
@@ -38,7 +38,8 @@ Liet'e pensose, accompagnate e sole, donne, che ragionando (primo coro) (Petrarc
 Liete siam per memoria di quel sole (secondo coro) " 23
 Che fai, alma, che pensi? Havrem mai pace (primo coro) " 24
 Che fia di noi non so, ma in quel ch'io scerno (secondo coro) " 24
-I-MOc: C.A.T.B.
+
+I-MOe: C.A.T.B.
 I-Rsc: T.B.5.6.
 US-BE: C.
 
@@ -47,6 +48,4 @@ le rime bizzarre di M. Andrea Calmo, et altri autori. A 4 voci. In'Milano, appò
 
 Cesare Pozzo, 1567.
 4 fasc. in 8° (C.A.T.B.), pag. 28. Ded. ad Andrea Calmo, Milano, 15 III 1567,
-
--]6- ,.-
 

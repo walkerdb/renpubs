@@ -1,6 +1,6 @@
-Gigli, rose ct viole. oro, rubini cr perle 17
+Gigli, rose et viole. oro, rubini cr perle 17
 
-D'ogni ben casso e privo, per voi donna mi vivo [8
+D'ogni ben casso e privo, per voi donna mi vivo 18
 Dove giace il mio core? Meco non è. chi dunque mel ritiene 19
 Filli, dolce ben mio, rispondi dolcemente a chi t'adora 20
 Se'l dolor del panirc non mi farà morire, sarà peggior che morte 21
@@ -43,7 +43,7 @@ Occhi miei, che vedeslc il bel idolo mio in preda altrui (Guarini) 20
 I-Bc: compl.
 
 "ISP: compl.
-l"Nc : compl.
+l"Ne : compl.
 
 DK-Kk: compl.
 GB-Lbm : compl.

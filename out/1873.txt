@@ -31,7 +31,7 @@ A 5. Hor si rallegra il cielo e la sua fronte. Nell'incoronationc del Duca di Ma
 " " All'hor eh'errando (seconda parte) 9
 " " Padre del ciel, dopo i perduti giorni (Petrarca) 10
 " " Hor volge, signor mio, l'undccimo anno (seeonda parte) " :]
-" " Mia benigna fortuna e'] viver lieto. Seslina " 2
+" " Mia benigna fortuna e'l viver lieto. Seslina " 2
 " " Crude], acerba, inesorabil morte (seconda parte) " i:
 " " Di morte già sentia . - 15.
 " " L'anima mia ferita versa per gli occhi fuore. un fiume . . "-
@@ -43,7 +43,7 @@ A 6. Quel rossignol, che sì soave piagne forse suor figli (Petrarca) n
 " " H:] ninfe adorn'e belle la casta Margherita (seconda parte) " 22
 " " Però boschi, palagi e prati e valli (terza parte) "
 
-I-MOc: compl.
+I-MOe: compl.
 I-VEaf: compl.
 D-Mbs: compl.
 

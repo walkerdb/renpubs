@@ -30,9 +30,9 @@ lmprimatur.
 
 %?"
 814 -'DE_RING Richard (1620) - Di Richardo Diringo inglese Canzonette a tre
-voci. (,on il Basso continuo. In Anversa appresso Petro Phalcsio al re David. 1620.
+voci. (,on il Basso continuo. In Anversa appresso Petro Phalesio al re David. 1620.
 
-IRST-1612103" Obl- (C., C.Z°, B.. Be.), pag. 20,(1). Ded. a Giorgio Gagie Cavallero Inglese, Brussellcs,
+IRST-1612103" Obl- (C., C.2°, B.. Be.), pag. 20,(1). Ded. a Giorgio Gagie Cavallero Inglese, Brussellcs,
 
 Ftllt, se gl'occhi giro negl'occhi voslri, amor leggiadro miro 1
 O_Vagh'o chiare stelle, occhi d'amore, voi scte luce e l'alma 2
@@ -53,7 +53,7 @@ Soecorretem'ohimè dolce ben mio. ch'io già l'anima spiro
 
 14
 
-I Ice.. amoroso foco m'ardc mentr'io vi mir'a poc'a poco 16
+I Ice.. amoroso foco m'arde mentr'io vi mir'a poc'a poco 16
 Felli" anto morir quando non miro colei che mi dà vita (Guarini) 17
 lll mt nd'e fugge e parmi nel ſugir ancor più bella 18
 

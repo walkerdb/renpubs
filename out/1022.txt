@@ -37,7 +37,7 @@ Dolor tant'è la gioia che mi dai (Cassola) 16
 
 Sotto l'ombra de tuoi pregiati rami 17
 
-Chi vuol veder amore e sue reti, saette ct arco e foco 13
+Chi vuol veder amore e sue reti, saette et arco e foco 13
 
 L'alto e nobil pensier, che sì sovente (Sannazzaro) 19
 
@@ -52,7 +52,7 @@ Se voi sete, cor mio, quanto ben, quanta gioia haver poss'io 24
 Basciami. basciami mille, mille volte 25
 
 Licte, verdi, fiorite e fresche valli (Sannazzaro) 26
-Che se'] gridar questo signor (seconda parte) " 27
+Che se'l gridar questo signor (seconda parte) " 27
 
 Due rose fresche e colte in paradiso (Petrarca) 23
 Non vede un simil par d'amanti il sole (seconda parte) " Z')
@@ -60,7 +60,7 @@ Non vede un simil par d'amanti il sole (seconda parte) " Z')
 S'io vissi cieco e grave fallo indegno (Della Casa) 30
 O fera voglia, che ne rodi e pasci (seconda parte) " " 31
 
-I-MOc: compl.
+I-MOe: compl.
 
 I-Rsc: compl.
 

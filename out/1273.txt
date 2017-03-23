@@ -1,8 +1,8 @@
-A5. Se faccio il duol s'nvanza, se parlo accresco l'ira (Tasso) 4
+A 5. Se faccio il duol s'nvanza, se parlo aceresco l'ira (Tasso) 4
 
 " " lo v'amo e v'amo assai più che me stesso e però penso spesso 5
 " " E il cor, che disioso uscir d'aflanno (seconda parte) 6
-" " Pietra fui, che percossa mandai fuorc un largo e chiar'humore 7
+" " Pietra fui, che percossa mandai fuore un largo e chiar'humore 7
 " " O fortunato fiore, o più d'altri felice, che della bianca mano collo 8
 " " Deh che giamai di te chiamar si lice (seconda parte) 9
 " " Aventuroso albergo, a cui mirar si lice mia dolc'alma phenice 10
@@ -43,7 +43,7 @@ A 2. Questi bassi concenti, che da la lingua mia ne miei verd'anni 1
 " " lle, caldi sospir, al frodo core. Rompete il giacio che pietà (Petrarca) 7
 " " E se prego mortal al ciel s'intende (Seconda parte) "
 
-"" Itc, dolci sospir, parlando fuorc (terza parte) " 9
+"" Itc, dolci sospir, parlando fuore (terza parte) " 9
 " " Dirsi ben può per voi fors'a pieno (quarta parte) " lO
 " " Gite securi omai, ch'amor vien vosco (quinta parte) " ]l
 " " Poichè tolto è a la lingua il poter dire il dolor e'l martire 12

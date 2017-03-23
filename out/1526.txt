@@ -18,7 +18,7 @@ A 4. Piangete, occhi miei lassi, e intenerit'il core di colei che s'indura 1
 " " O dolcezze amarissime d'amore, quant'è pur duro perderti (Guarini) "
 " " Qui pur vedroll'al suon (seconda parte) " 11
 " " O lungamente sospirato invano (terza parte) " U
-" " Vaghc luci amorose, moro s'io non vi miro "
+" " Vaghe luci amorose, moro s'io non vi miro "
 " " Mia vita s'egli è vero ch'altra che voi 15
 " " Dolccmente dormiva la mia Clori e'ntorno al suo bel volto (Tasso) 16
 " " Cor mio, mentrio vi miro visibilmente mi lrasform'in voi (Guarini) 17
@@ -33,7 +33,7 @@ I-Rsc: C.
 di Salamon Rossi hebrco con alcuni di detti Madrigali per cantar nel Ghrnarone,
 con la sua intavolatura posta nel soprano. Novamente composti, et dati. in luce.
 In Venetia, appresso Ricciardo Amadino, 1600. _
-5 fasc. in 8° (C.A.T.B.5.), pag. 21,(1). Ded. a Don Vincenzo Gonzaga Duca di Mantova, ct d'
+5 fasc. in 8° (C.A.T.B.5.), pag. 21,(1). Ded. a Don Vincenzo Gonzaga Duca di Mantova, et d'
 Monferrato: " le primitie delle mie fatiche... Venezia, 16 IX 1600 ".
 
 . . 1
@@ -50,7 +50,7 @@ A 5. Pur venistl, cor mio, e pur tho qui presente e pur ti veggto (Guann) 2
 " " Deh com'in van chledete d'udlr, bella Sirena, Il canto mlo ( "
 
 " " O com'è gran martire a celar suo desire, quando con pura fede " :
-" " Arsi un tcmp'ed amai, e di che fiamma e con che fed'amore " B
+" " Arsi un temp'ed amai, e di che fiamma e con che fed'amore " B
 " " O donna troppo crud'e troppo bella, da voi vien la mia sorte " 9
 " " Rimanti in pace, alla dolente e bella Fillida Tirsi, sospirando, dissC 10
 " " Ond'ci di morte la sua faccia impressa (seconda parte) - _ ) "

@@ -1,4 +1,4 @@
-A5. Come notturn'augcl, nemico al sole, lasso vo io. Sestina (Sannazzaro) 14
+A 5. Come notturn'augcl, nemico al sole, lasso vo io. Sestina (Sannazzaro) 14
 
 " " Se mai quest'occhi tra boschett'o (seconda parte) " 15
 " " O madre universal, benigna terra (terza parte) " 16
@@ -18,7 +18,7 @@ A 6. In bel mattino il sole vidde le chiome a la mia Livia 27
 " " Date pace al mio core, o duri affanni miei 30
 " " Liquide perle in si nova maniera dai più Di Gio. Bart. Leccate-llo 31
 " " Nè lagrime dal cor per gl'occhi (seconda parte) 32
-" " Amai s'amasti ct S'a me desti il core fu Di Gio. Batt. Leccate/I; 33
+" " Amai s'amasti et S'a me desti il core fu Di Gio. Batt. Leccate/I; 33
 A 3. Chi mi terrà poi ch'io son sol che l'empia tigre 34
 I-Bc: compl,
 
@@ -50,5 +50,4 @@ A 4 lo non chieggio da voi, gentil mia donna, cose ch'offenda. La Bella dalla Gu
 " " O stelluzza d'amor, dolce mia vita, stendi la bella mano. La Vera Stella 34
 " " Stringimi, vita mia, stringim'il core (seconda parte) 35
 
-._309_
-
+.

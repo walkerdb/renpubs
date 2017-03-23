@@ -12,7 +12,7 @@ A 1. Gioisco quando il mio bel sol. Ottava 3
 " " Nè lungo exilio mai, donna, mi mosse. Sonetto (Tumulo) 5
 " " Se quante spume l'an l'acque (seconda parte) " 6
 " " Tal che dovunque io vo (terza parte) " 7
-" " Non ardcria più ch'ardc questa (quarta parle) " 3
+" " Non ardcria più ch'arde questa (quarta parle) " 3
 "" Per cercar terra ignota e peregrina. SOMMO di G-B- Nan/""' 9
 " " Faran gli anni volanti empia rapina (seconda pane) lU
 " " Giri se sa girar (terza parte) 11
@@ -20,17 +20,17 @@ A 1. Gioisco quando il mio bel sol. Ottava 3
 " " O sguardo, incauto ladro, che de l'amanti rai il tesoro. Madrigale 13
 " " Ove lasso ne fuggo, ove m'ascondo. Baritono. Romanesca 16
 " " Qual arsutico mar (seconda parte) 16
-n " Dch rapitcmi o voi (terza parle) 17
+n " Deh rapitemi o voi (terza parle) 17
 " " E pria che di viltà restin convinte (quarta pane) 18
 " " Cinto ho l'alma si forte con vari lacci. Con lettere per la Chitarra spagnola 19
-" " Se pieladc in voi non trova " " " " " " 20
+" " Se pielade in voi non trova " " " " " " 20
 " " Tu sei pur bella vezzoselta, che non curi " " " " " " 21
 " " O mia felice vita, o petto " " " " " " ZZ.
 " " Più non t'amo e non t'adoro " " " " " " 23
 " " Luci belle, luci ingrate, che'l mio mal " " " " " " 24
 " " Bcll'e vezzosa Filli amorosa " " " " " " 25
 " " Sono intricato, appasionato amor " " " " " " 26
-A2 Ecco l'alma staggione che le campagne. Dialogo pastorale 27
+A 2 Ecco l'alma staggione che le campagne. Dialogo pastorale 27
 " " Com'è breve il sereno del giorno degli amanti. Canzonetla 34
 A 3. In questo duro scoglio che fate 36
 A 2 Piaga dolce d'amore, già tu piaga non sei. Di Paolo Agostini, (Marino) 38

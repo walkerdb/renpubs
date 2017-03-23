@@ -26,7 +26,7 @@ Li augelli in "aria, in aqua i pesci. Rime del Cieco d'Hadria 18
 V'è cieca valle a cui la fronl'e al tergo. Sonetti del dottor Avanzi da Rovigo 19
 Quivi i cerri e le quercic 20
 La ninfa mia sopra una verde riva. Del Cicco d'Hadria 21
-I-MOc: compl.
+I-MOe: compl.
 I-Bc: B.
 
 2057 - NICOLETTI Filippo (1588) - Madrigali a due voci, di Filippo Nico-

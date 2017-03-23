@@ -44,7 +44,7 @@ Amor. che Sl digluno
 
 I-Bc: compl.
 
-I-MOc: compl.
+I-MOe: compl.
 
 I-VEcap: compl.
 
@@ -75,5 +75,4 @@ della sacra cesarca maestà de l'imperatore Massimiliano Secondo. Il Sesto - luc
 delli Madrigali a cinque voci di nuovo da lui composti et dati ln luce. A cmq
 voci con privilegio. In Venetia appresso Angelo Gai-dano. 1575.
 
-_493_
 

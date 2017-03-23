@@ -22,13 +22,13 @@ F-Pm: 5.
 US-CHH: S. (difett.)
 
 ' ' ' ' ' ' di ca lla
-745 - DE MONTE Filippo (1570) - D1 M. Filippo Dl Monte maestro - pe .
+745 - DE MONTE Filippo (1570) - D1 M. Filippo Di Monte maestro - pe .
 della S. C. maestà dell'imperatore Massimiliano Secondo. Il Primo Libro delli
 Madrigali, a cinque voci. In Vinegia, appresso Girolamo Scotto 1570.
 
 5 fasc. in 8" (C.A.T.B.5.), pag. 24. lndice = 1554.
 
-LBC: C.A.S.
+I-Bc: C.A.S.
 I-Rsc: A.
 
 GB-Ckc: S,

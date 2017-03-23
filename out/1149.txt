@@ -26,11 +26,11 @@ n " Ben s'io non erro, di pietate un raggio (seconda parte) "
 A 6. Deh ved'amor. quant'è la voglia dura (le la nemica mia 17
 A 5. Amor, se vuoi ch'io torn'al giogo antico, s'aprirm'il petto. Canzon (Tansillo) 18
 A 4. Se stimi sì gran pregio (seconda stanza) " 18
-A3. Seguimi pur nel mondo e nel'inſerno (terza stanza) " 19
+A 3. Seguimi pur nel mondo e nel'inſerno (terza stanza) " 19
 A 4. Se nel proprio valor tanto ti fidi (quarta stanza) n 20
 A 5. Non tender più la rete ch'annodavi (quinta stanza) " 22
 A 6- Quei rubin, quelle perl'e quelle note (sesta stanza) " 24
-A7. Cortesia mi perdoni et humiltade (settima stanza) " 24
+A 7. Cortesia mi perdoni et humiltade (settima stanza) " 24
 A 8. Sarò signor io sol del mio pensiero (ottava stanza) " 26
 " " Partomi donna e leco lascio il core. Nè col partir ancor piglio partita. Dialogo 28
 

@@ -9,7 +9,7 @@ I-VEaf : compl.
 
 D-Dl: compl.
 
-I-MOc: C.A.T.B.5.
+I-MOe: C.A.T.B.5.
 
 GB-Lbm: C.A.T.B.5.
 
@@ -28,7 +28,7 @@ nymo Scotto. 1582.
 
 6 fasc. in 8° (C.A.T.B.5.6.), png. 23,(1). lndìcc = 1569.
 
-I-MOc: compl.
+I-MOe: compl.
 
 I-de: compl.
 

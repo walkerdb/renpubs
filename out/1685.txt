@@ -9,7 +9,7 @@ AZ. Voi:)" du gay printemps l'heureux a(lvenement 22
 " " Morir può'l vostro core. Ancidetelo pur. Risposta 35
 " " Che giova posseder ciuad'e regni e palagi habitar (Bembo) 36
 " " Garrula rondinella, che nel spuntar del die mi svegli 38
-A3. le voy mille clairlez el mille choses belles 40
+A 3. le voy mille clairlez el mille choses belles 40
 " " De vous et non (Iu ciel ie reco)- qualité (seconde partie) 42
 " " Yeux, qui guider. mon ame en l'amoureux voyage 44
 "" Vous pouvez d'un elin d'oeil [aire vivre (seconde partie) 46
@@ -48,7 +48,7 @@ telli. 1555
 frutti di Musica, colti ...... ]... gran tempo... questa mia puoca vigilia... cantando talhor col
 dottiss. et gentiliss. Gorla, prendetene qualche piacere... Milano. 1° VII 1555 "-
 
-Zephiro torna e'] tempo rimena e i fiori et l'herbe (Petrarca) 1
+Zephiro torna e'l tempo rimena e i fiori et l'herbe (Petrarca) 1
 QUando talhor un fortunato velo, o il mio nemico guanto
 Ca adorata e dolce, onde spira un'auretta alma e suave 2
 Possieda chi desia argento. oro, terren (seconda parte) 3

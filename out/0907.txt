@@ -8,7 +8,7 @@ A-Wn: compl.
 D-Mbs: compl.
 F-Pc: 5.
 
-Boettichcr 763.
+Boetticher 763.
 
 11 N. 1430 è annullato.
 
@@ -24,7 +24,7 @@ D-Mbs: B.
 
 D-Bds: 5.
 
-Boctlichcr 768.
+Boctlicher 768.
 
 Un esempl. compl., ma (Iifctloso, era nella Collezione Heyer di Koln.
 
@@ -39,7 +39,7 @@ I-MC: S.
 Boctticher 786.
 
 1433 - DE LASSUS Roland (1586) - Di Orlando (li Lassus il Primo Libro de
-Madrigali a cinque voci. Novamente ristampati. In Vinegia appresso l'hercde di
+Madrigali a cinque voci. Novamente ristampati. In Vinegia appresso l'herede di
 Girolamo Scotto. 1586.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. 23. Indice = 1555.
@@ -48,5 +48,5 @@ I-Bc: compl.
 I-MOe: compl.
 I-Nc: compl.
 D'KNu: C.A.5.
-Boeltichcr 792.
+Boelticher 792.
 

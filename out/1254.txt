@@ -15,7 +15,7 @@ In Venetia. 1618. Appresso Bartholomeo Magni.
 
 I-Bc: compl.
 I-Bsp: compl.
-I-MOc: compl.
+I-MOe: compl.
 B-Br: compl.
 C-Tu: compl.
 GB-Lwa: compl.
@@ -50,5 +50,5 @@ Scherzava amor e Clori
 Ardemmo insieme, bella donna, et io di sì subito ardore (Guarini)
 Parean dir gli occhi suoi (seconda parte) "
 
-Suggetcmi, suggete il sangue
+Suggetemi, suggete il sangue
 

@@ -11,7 +11,7 @@ I-Bc: C.
 
 US-NH: A.
 
-Bocttichcr 802
+Boctticher 802
 
 1461 .- DE LASSUS Roland (1585) - Madrigali: novamente composti a cinque
 voci: per Orlando Lasso: mastro di capella: del serenissimo duca di Bavera (ric).
@@ -20,14 +20,14 @@ rinae Gerlachiac. 1585.
 
 5 fasc. in B" obl. (C.A.T.B.5.), pag. 2.4. Ded. al Conte Mario Bevrlacqua: "Trovami da alcuni
 mesi in qua haver composto li presenti Madrigali la maggior parte per non star in otio quelle
-horc che dal servigio del mio Ser.mo Principe et da più gravi studi m'avanzano... Monaco,
+hore che dal servigio del mio Ser.mo Principe et da più gravi studi m'avanzano... Monaco,
 
 1" V 1585 ".
 
 A 5. Dc l'eterne tue sante, alme faville, tal foco in me (G. Fiamma) 1
 " " Per questi alti misteri (seconda parte) " 2
 " " lo, che l'età più verd'e più fiorita vissi lontan " 3
-" " Ma convcn che di speme io mi disarmi (seconda parte) " 'l
+" " Ma conven che di speme io mi disarmi (seconda parte) " 'l
 " " O tempo, o ciel volubil, che fuggendo (Petrarca) 5
 " " E sarebbe hora et è passata homai (seconda parte) " 6
 " " Le voglie e l'opre mie gelate e spente prcggio (Fiamma) 7
@@ -41,7 +41,7 @@ A 5. Dc l'eterne tue sante, alme faville, tal foco in me (G. Fiamma) 1
 " " Vedi, gli dico, ch'a tuoi danni spira (seconda parte) " 16
 " " Io son sì stanco sotto'l fascio antico (Petrarca) 17
 " " Ma la sua voce ancor qua giù (seconda parte) - " 18
-" " Quando il giorno da l'ondc apporta il sole. Sestina (Fiamma) 19
+" " Quando il giorno da l'onde apporta il sole. Sestina (Fiamma) 19
 " " Non hcbbc huom forse mai cagion (seconda parte) " 20
 " " Hor come i mi del sol struggon (lena parte) " 11
 " " Parmi che sempre sian tenebre (quarta parte) " 22
@@ -50,7 +50,7 @@ A 5. Dc l'eterne tue sante, alme faville, tal foco in me (G. Fiamma) 1
 
 A 6. Come Î: cera al focìgch'accend'esca terrena. Canon a l'unisono (Fiamma) 24
 
-I-MOc: compl.
+I-MOe: compl.
 D-Hs: compl.
 D-Mbs: compl.
 

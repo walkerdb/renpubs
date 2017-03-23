@@ -28,7 +28,7 @@ A 4. La pastorella mia, che m'inamora 1
 " " Madonna, el c'è una cosa ch'è d'un bel vivo ghiaccio 4
 " " Amor, quezl'è più dura pena de l'allre 5
 " " Qualhor m'assido in solitario bosco 6
-" " Vissimi un tempo in dolce foco ardcndo (Quirino) 7
+" " Vissimi un tempo in dolce foco ardendo (Quirino) 7
 " " Come potrò, celeste idolo mio, viver senza di voi 8
 " " Da voi dipende ogni grave martire (seconda parte) 9
 " " Qucsl'è quel sol, onde sovente amore 10

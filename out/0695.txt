@@ -5,12 +5,12 @@ A S. Quei che gli amori et l'armi cantar con doui carmi. Mazch. de Poeti laureat
 " " Nu tutti buni cumpagni chi vul biver bunc Rumanie. Mascherata de Tedeschi a 5
 [D'Andrea Gabrieli 20
 " " Nu sem Tetesche tutti in cumpagnie (seconda parte) 20
-A 6. A l'insalata, o donne, a l'insalata. Maschcrata d'Hortolani. D'Horatia Vee-elli 21
+A 6. A l'insalata, o donne, a l'insalata. Mascherata d'Hortolani. D'Horatia Vee-elli 21
 
 " " In questo lieto giorno, donne belle e amorose, primavera gentil. Masch. della
 [Primavera a 6. Di Gemim'an Capi/api 22
 " " Astrologhi noi siam, donne amorose. Mascherata d'Astrologhi. D'Horalio Vecchi 23
-A8. Poichè siam gionti in questi ameni prati, ove si vede. Masch. de Segadori
+A 8. Poichè siam gionti in questi ameni prati, ove si vede. Masch. de Segadori
 [Di Gem/m'a!) Cupi/"pi 24
 " " Hor tutti uniti cominciamo l'opra (seconda parle)
 
@@ -19,7 +19,7 @@ RISM, I 1601-11.
 
 1046 - GABRIELI Andrea - GABRIELI Giovanni (1587) - Concerti di Andrea,
 et di Gio. Gabrieli organisti della sereniss. Sig. di Venetia. Continenti Musica di
-chicsa Madrigali, et altro, per voci, et stromenti musicali, a 6. 7. 8. 10. lZ. ct 16.
+chicsa Madrigali, et altro, per voci, et stromenti musicali, a 6. 7. 8. 10. lZ. et 16.
 Novamente con ogni diligentia dati in luce. Libro Primo et Secondo. Con privi-
 legio. In Venetia, appresso Angelo Gardano. 1587.
 
@@ -36,7 +36,7 @@ come virgultì germolìanti dell'istesso tronco... ".
 
 A 6. Gabrieli Andreu - Sancta Maria, succurre miscris 1
 " " " " - Eructavit cor meum verbum bonum 2
-" " " " - Emendcmus in melius 3
+" " " " - Emendemus in melius 3
 " " " " - Isti sunt triumphatores 4
 " " " " - Maria stabat ad monumentum [oris 5
 " " " " - O gloriosa Domina 6

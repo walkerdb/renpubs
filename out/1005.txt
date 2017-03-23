@@ -17,7 +17,7 @@ A 5. La bella pargolelta, ch'anCor non sente amore (Tasso) 1
 " " O com'in van credei passar l'hore tranquille e raddolcir 7
 " " Movetevi a pietà del mio tormento, mirate al mio dolore. Di Ludovico Arrig/n'lli 8
 " " Occhi miei, che ridete, qual incerto gioire in voi si scorge 9
-" " Ohimè tu piangi, o Filli, ct io del tuo languir non ho dolore 10
+" " Ohimè tu piangi, o Filli, et io del tuo languir non ho dolore 10
 " " Tanto è dolce il martire, donna bell'e crude]. ch'io per voi sento 10
 " " Se più mirar meco non è speranza vostri bei rai, stelle d'amor ardenti 12.
 " " Ma che dich'io? Solo contemplo il (IUolo (seconda parte) 13
@@ -34,11 +34,11 @@ A 8. Su l'affricane arene vedove spose incatenati e morti piangliin. Al Gran Duc
 Toscana Cosimo Il (Rinuccini) 20
 
 I-Vnm : compl.
-I-MOc: A.T.B.
+I-MOe: A.T.B.
 
 15_84 - MARCO da Gagliano (1620) - Sesto Libro de Madrigali a cinque voci.
 
-Dl Marco da Gagliano maestro di cappella del serenissima gran duca di Toscana.
+Di Marco da Gagliano maestro di cappella del serenissima gran duca di Toscana.
 
 Al molto ill.rc sig.r e patron mio colcndissimo il signor Cosmo Del Sera. Nova-
 
@@ -48,6 +48,6 @@ agm.
 5 fasc. in 8° (C.A.T.B.5.), pag. 21,(1). Indice = 1617.
 I-Vnm: compl.
 
-I-MOc: A.T.B.
+I-MOe: A.T.B.
 F-Pn: T.
 

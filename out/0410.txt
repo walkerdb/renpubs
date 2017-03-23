@@ -12,7 +12,7 @@ Felice chi ti vede et ch'a si vivo splendor (seconda parle) 10
 Tiranno amor, che sotto falsa speme di gioia "
 La vostra alta virlut'et la belladc, donna ram 11
 Quinci la nostr'ctadc, o dolce mia Cechina (seconda parte) 11
-Se bellezz'e honesladc havesser corpo 13
+Se bellezz'e honeslade havesser corpo 13
 S'in vive carte et solto bei colori (seconda parte) 13
 Lacci, catene e cenni, giogo, prigion, saette 14
 Tento, ma in van, ohimè, sospiri ardenti, di mandarvi al mio viv'et 15
@@ -39,7 +39,7 @@ D-Mbs: compl.
 D-Rp: A.B.5.
 F-Pn: C.
 I-Bc: T.
-I-MOc: B.
+I-MOe: B.
 
 606 - CONTINO Giovanni (1560) - Di Gioan Contino il Primo Libro de' Madfl'
 gali a cinque voci: mastro della musica del duomo di Brescia. In Vincglan aPPresso

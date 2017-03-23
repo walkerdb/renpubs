@@ -3,7 +3,7 @@ NL-At: 5.
 RISM, I 1610-16 (non compl.).
 
 1672 .- MARENZIO Luca (1595) - Di Luca Marenzio, il Sesto Libro dc
-Madrigali :\ sci voci. Novamente composto ct (lato in luce. In Venetia appresso
+Madrigali :\ sci voci. Novamente composto et (lato in luce. In Venetia appresso
 
 Angelo Gardano. 1595.
 
@@ -25,7 +25,7 @@ Quando si more il corpo (u.-conda parte) "
 Dunque da voi com-iun (terza parte) " 12
 Dammi pietosa morte a tempo (quarta part-:) " 13
 O fortuna volubil e leggicra (quinta parte) " 14
-Ma quesl'oliimè tcm'io (sesta parte) " 15
+Ma quesl'oliimè tem'io (sesta parte) " 15
 Allr'aurora bisogna (settima parte) " 16
 Un tempo io mi credea (ottava parte) " 17
 Occhi de miei desiri (nona parte) " 18

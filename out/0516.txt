@@ -31,7 +31,7 @@ I-Bc: compl.
 
 GB-Lbm: compl.
 I-Bsp: C.A.T.B. (C. manc. di pag. 13-24 e 29-30).
-I-Ls: C.A5. (C. manc. di pag. 1-6).
+I-Ls: C.A 5. (C. manc. di pag. 1-6).
 
 777 - DE MONTE Filippo (1593) - Il Sestodccimo Libro de Madrigali a cinque
 voci di Filippo Di Monte maestro di capella della sacra ccsarea maestà dell'impe-

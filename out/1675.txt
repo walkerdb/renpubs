@@ -1,4 +1,4 @@
-A6. Nascc la pena mia non potendo mirar mio vivo sole 4
+A 6. Nascc la pena mia non potendo mirar mio vivo sole 4
 
 " " Lasciat'hai, morte, senza sol il mondo (Petrarca) 4
 " " Pianger l'aere et la terra (seconda parte) " 5
@@ -35,7 +35,7 @@ D-Mbs: compl,
 GB-Lbm: C.A.T.B.5. (2° esempi.: A.T.B.).
 Elk-Dm: C.T.B.5.6.
 
-I-MOc: C.A.T.5.
+I-MOe: C.A.T.5.
 
 I-Fr: :\.135. (5. manc. di pag. 1-8, 17-24).
 I-Bc: T.5.
@@ -51,7 +51,7 @@ mantovano servitore dell'illustriss. et eccellentiss. Cosmo de Medici duca di Fi
 e di Siena. Il Primo Libro de Madrigali a sci voci, novamente con una nova giunta
 ristampato. A sei voci. In Venetia.
 
-In fine: " In Venetia appresso Francesco Rampazctto. 1566 ".
+In fine: " In Venetia appresso Francesco Rampazetto. 1566 ".
 
 6 fasc. in 8° ohl. (C.A.T.B.5.6.), pag. 30,(1). I"..." = 1560'
 GB-Lbm: eompl. (2° csemp|.: C.)

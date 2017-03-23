@@ -5,7 +5,7 @@ Vorria saper da voi, occhi mortali, se voi fiammelle scie 12
 S'io potessi cantando rafrenare l'ardente mio desire 13
 Questi leggiadri fiori el quesla ghirlandelta, Tirsi a le manda 14
 Se del mio mal non curi, almen liabbi pietade di te 15
-Altro non voglio, altro non cerco ct bmmo se non voi 16
+Altro non voglio, altro non cerco et bmmo se non voi 16
 Quel sì cocente ſoco ch'al mio misero peit'in ogni loco 17
 Cercai fuggir amore per non sentir dolore, lior lal è la mia mrlc 18
 La salamandra se nel foco dura, miracolo non è 19
@@ -52,5 +52,4 @@ I-VEaf : compl.
 Pl.-GD: compl.
 I-Rsc: QA.T.B.5.
 
-_969_
 

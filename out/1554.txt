@@ -21,7 +21,7 @@ Guastalla: " primitie delle mie fatiche... Guastalla, 15 VI 1598 ".
 
 A 5. Giacca la bell'Armilla, pallida in viso, come rosa di maggio 1
 " " Era l'aria tranquilla (seconda parte) 2
-" " Caro, dolce mio ben, perchè fuggire chi v'ama e per amar (Ccliano) 3
+" " Caro, dolce mio ben, perchè fuggire chi v'ama e per amar (Celiano) 3
 " " Al tuo vago pallore la rosa il preggio cede (Tasso) 4
 " " Chi l'armonia del cielo si vantò mai d'udire 5
 " " Due man candide e belle giunte, coppia gentile ?
@@ -39,7 +39,7 @@ A 5. Giacca la bell'Armilla, pallida in viso, come rosa di maggio 1
 " " Onde con un sospiro a lui rivolto (terza parte) 17
 " " Con pietà \'i rimiro. pallidette viole. pur dianzi ruggiadose 18
 " " Se'l pensier che mi strugge, come è pungente (Petrarca) 19
-A6. Deh non chinar a terra, alza i begl'occhi homai lſ]
+A 6. Deh non chinar a terra, alza i begl'occhi homai lſ]
 A 8. Porto in mezzo del core fredd'una pietra 21
 
 A 5. Veggin. dolce mio bene, nel volger de vostr'occ'un vivo lume

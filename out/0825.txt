@@ -6,7 +6,7 @@ Non hebbe tal bellezza il bel Narciso com'hai Clori nel viso 21
 A-Wn: compl.
 
 GB-Lbm: compl.
-I-Bc: C.1°, C.Z°.
+I-Bc: C.1°, C.2°.
 
 1296 - GUALTIERI Antonio (1613) - Il Secondo Libro de' Madrigali a cinque
 voci: di Antonio Gualtieri maestro di capella di Monselice. Novamente dato in luce.
@@ -18,7 +18,7 @@ fine: Madrigale all'Autore.
 A 5. Mi movono a pietade, o mio fedele amante, l'asprc tue pene 1
 " " Pietosa crudeltade, come potrò giamai (seconda parte) 2
 " " Bocca eortese e bella, de' tesori d'amor dolce ricetto 3
-" " Mentre che mi amasti io te am:-i ct se me desiasti in te bramai 4
+" " Mentre che mi amasti io te am:-i et se me desiasti in te bramai 4
 " " Mcmrc porgclc. donna. a la mia sete freschissimo Iicore 4
 " " Dolcissime parole, ch'il cor mi con-olate con promesse 6
 " " Non ti morder le dita, Clori bella e gradita 7

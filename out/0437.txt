@@ -11,7 +11,7 @@ AZ. Ch'io volga mai più gl'oechi a quella ingrata. Z T. 3
 " " Dolcissimo sospiro, ch'esci da quella bocca. 2 C. (Rinuccini) 9
 " " Voi gradite il mio amor, caro amor mio, il dolor mio credete. Z T. lU
 " " Vivo mio sol, tu giri le luci e non mi miri. 2 T. (Marino) 11
-A3. Chi vuol vincer amore, ſuggalo, scaccilo, mandilo via. 2 T. e B. 13
+A 3. Chi vuol vincer amore, ſuggalo, scaccilo, mandilo via. 2 T. e B. 13
 " " Lusinghiero sospiro, ch'esci dal petto a la mia cruda. Alla spagnuola. 2 T. e B. 14
 " " Quasi vittima, il core a bella donna offersi. 2 T. e B. 16
 " " Qual fermo scoglio a la tempesta, al vento. 3 T. (Orsini) 17
@@ -21,7 +21,7 @@ A3. Chi vuol vincer amore, ſuggalo, scaccilo, mandilo via. 2 T. e B. 13
 " " Con l'armi di due lumi altieri e vaghi amorosa guerriera. Z T. e B. 21
 " " Non è questa la mano, che tant'e sè mortali. 2 T e B. (Tasso) 22
 " " Chi vuol haver lieto e felice il core, non segua il crudo. A.T.B. (Guarini) B
-A4. Non è sì bello il cielo, Filli, quand'è sereno. C.A.T.B. 25
+A 4. Non è sì bello il cielo, Filli, quand'è sereno. C.A.T.B. 25
 " " Corne sian dolorose lunge da voi del viver mio le temprc. C.A.T.B. (Guarini) 26
 " " Ofideggiavan sì belli. folgoravan sì \"aghi quei dorati capelli C.A.T.B. 27
 I-Be: compl.
@@ -31,7 +31,7 @@ GB-Ob: compl
 
 6f15 _- COSTA Giovan Paolo (1613) - 11 Primo Libro di Madrigali a quattro voci
 
-lGlo. Paolo Costa genovese novamente composti, ct dati in luce. In Venetia,
+lGlo. Paolo Costa genovese novamente composti, et dati in luce. In Venetia,
 
 ÎgÈrcsso l'herede di Ange": Cardano, 1613. In fine: " Acre Bartholomeì Magni
 )).

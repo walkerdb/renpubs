@@ -5,7 +5,7 @@ PL-GD: compl.
 I-de: C.A.B.
 GB-Lbm: A.D.
 GB-Lwa: AB.
-I-Nc: A5.
+I-Nc: A 5.
 I-Fc: 5.
 
 Il N. 2989 è annullato.

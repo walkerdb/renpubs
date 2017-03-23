@@ -33,7 +33,7 @@ A 1. Signor, ferma, deh ferma. Già veggio la pietate. Canto 2
 " " O Creator del cielo, che me di nulla festi. Tenore 13
 " " Iniquissimo Giuda, o traditor spietato. Tenore - 16
 " " Locar sopra gli abbissi i fondamenti. Baritono (BCCCUU) 19
-" " Dar legge a i mari, a le tcmpeste (seconda parte) " 22
+" " Dar legge a i mari, a le tempeste (seconda parte) " 22
 " " Signor, fu poco alla tua gran possanza (terza parte) " 24
 " " O miei giorni fugaci, o breve vita, ohimè già sei partita. Baritono (Rinuccini) 26
 " " Abissi di spavent'a tre caverne, spelonch'oscure 29
@@ -53,5 +53,4 @@ A 1 Se teco nacque eternament'amore tu sei'l più vecchio. Al Padre. Canto 78
 " " Vivo raggio del sole, viva fiamma d'amore. Allo Spirito Santo. Canto 81
 " " O giust'equalitate, unica deitade. o Trinità. Alla Santiss. Trinità. Canto 82
 
-_.225__
 

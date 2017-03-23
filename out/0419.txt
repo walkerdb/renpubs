@@ -16,7 +16,7 @@ A 5. S'amor non è, che dunque è quel ch'i' sento? (Petrarca) 6
 " " Bella colomba mia, bella mia Stella 28
 " " O del chiar'Arno tuo, chiar'anzi diva 30
 " " Nasci d'Aguelo y padre. Epitaphium Caroli principis Hispaniae 32
-A6. Perché mi fai languir, o vita mia, se sai con quanta fede 34
+A 6. Perché mi fai languir, o vita mia, se sai con quanta fede 34
 " " Dolci sospir. che m'uscite dal petto, andate a trovar quella 36
 " " Crudel. tu dormi et io con grave affanno meno le notti 38
 " " Gionto m'ha amor fra belle e crude braccia (Petrarca) 39
@@ -40,12 +40,11 @@ CORNET! Severino
 Cfr. COR-NET Séverin.
 
 621 - CORONA Giovanni (1574) - Di Gioanne Corona organista il Primo Libro
-dc Madrigali a cinque voci novamente composti et dati in luce. In Venetia apresso
+de Madrigali a cinque voci novamente composti et dati in luce. In Venetia apresso
 
 " figliuoli di Antonio Gardano. 1574.
 
-5 fasc. in 8° ob]. (C.A.T.B.5.)_ png. 29,0). Ded. al Conte Mario Bevilacqua, Venetia, 4 II 1574_
-S'altfi Sol con l'honor de gl'avi illustri par che s'honori 1
+5 fasc. in 8° ob]. (C.A.T.B.5.)S'altfi Sol con l'honor de gl'avi illustri par che s'honori 1
 Caldi SDSl'll' del mio secreto ardore et del chiuso pensier 2
 lÎ°mP°te il marmo et risealdate il ghiaccio (seconda parte) 3
 Candide rose e voi ben nati fiori, che ve n'andate a quella (Cassola) 4

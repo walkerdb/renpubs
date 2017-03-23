@@ -1,6 +1,6 @@
 A 3. Dimmi. clic-.t'liaggio fatto, o vita mia, che non mi \ſſoi veder, nè più sentirc lo
 " " Cor mio, di gratia hormai facimo pace 21
-" n \'oglio pigliar sto cor ct abrusarc 22
+" n \'oglio pigliar sto cor et abrusarc 22
 " " Non sia ncssun clic campa con speranza 11
 " " Dal giorno ch'io te \"iddi, o mussotclla, co :°ucchi ladri mi robbasli 24
 " " Ditemi, o diva mia. non scte voi 25
@@ -8,7 +8,7 @@ A 3. Dimmi. clic-.t'liaggio fatto, o vita mia, che non mi \ſſoi veder, nè pi�
 " " Di cocenti sospir l'acr acccndca 27
 " " Hor va, canzona mia, lict'e sicura, dritt'a quel sol, che mi fa gir 28
 " " Va via, ca tu mi par una fantasma, vecchia balorda, brutta, scarcagnata 29
-.. " Tutt'è paccia, mctlcrencc amorc 30
+.. " Tutt'è paccia, mctlcrencc amore 30
 A 4. O passos cspamidos. Aria alla spagnola 31
 
 A-Wn: compl.
@@ -19,7 +19,7 @@ I-Bc: B.
 
 2759 - TROMBETTI Ascanio (1586) - Di Ascanio Trombetti musico della illu-
 striss. Signoria di Bologna. Il Primo Libro de Madrigali a quattro voci. Novamente
-composto ct dato in luce. In Venetia appresso Angelo Gardano 1586.
+composto et dato in luce. In Venetia appresso Angelo Gardano 1586.
 
 4 fasc. in 8° (C.A.T.B.), pag. 21,(1). Ded. a Emilio Bolognini, Vcnctia, 15 11 1586.
 
@@ -33,7 +33,7 @@ Amor, per suo diletto, volò ncl dolce seno, (""in venuto son più volte meno 7
 Odi, madonna, amore 8
 O quanto indegno parmi: (seconda parte) ' - 9
 Ardu sì. ma non t'amo, perfida e dispictata. Proposta (Guarini) 10
-:\rdi e gela a tua voglia, perfido ct impudicſi), Risposta (TV") :;
+:\rdi e gela a tua voglia, perfido et impudicſi), Risposta (TV") :;
 Sorgi, mia bella Clori. Di Girolamo Trombe-m' 13
 Sì caro e degn'è il laccio 14
 Donna, voi non sapete che la mia vita sclc, perchè se lo sapcste 15
@@ -46,6 +46,6 @@ Se minacciosa e fiera - . 21
 Donna, se voi m'odiatc, a che sì dolci, poi, baci mi date? (Rmaldl)
 
 I-Bc: compl.
-I-MOc: compl.
+I-MOe: compl.
 D-W: compl.
 

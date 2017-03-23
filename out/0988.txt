@@ -11,7 +11,7 @@ D-Kl: compl.
 
 PL-GD: compl.
 
-I-MOc: A.
+I-MOe: A.
 
 I-Bc: B.
 
@@ -20,7 +20,7 @@ D-HR: B.
 Un esempl. compl. esisteva nella Collezione Heyer di Kòln.
 
 1559 - MANARA Francesco (1555) - Di Francesco Manara il Primo Libro di
-Madrigali a quattro voci, novamente da lui composto, revisto, ct corretto, et da
+Madrigali a quattro voci, novamente da lui composto, revisto, et corretto, et da
 Antonio Gardano con somma diligentia stampato, et dato in luce. Libro Primo.
 In Venetia appresso di Antonio Gardano. 1555.
 
@@ -41,7 +41,7 @@ Però turbata nel primier'assalto (seconda parte) " 8
 Quant'cra il meglio, amore, lasciar tranquilla et libera mia vita 8
 Un vivo lauro sotto bianco velo vidd'io ch'al bel Tesin 9
 Quand'io movo i sospiri a chiamar voi (Petrarca) 10
-Sento ch'ogn'hor più m'ardc e strugg'amore 11
+Sento ch'ogn'hor più m'arde e strugg'amore 11
 Hor le tue forz'adopra per ancidcrmi, amore (Amaltea) 12
 Hor vedi amor che giovinetta donna (Petrarca) 13
 Vago mio fior, che di color agguagli i bianchi gigli 14
@@ -55,5 +55,4 @@ Ultimi miei sospir, che mi lasciate freddo e senza vita (Martelli) 19
 Quando de gl'occhi vostri honcsti e santi il celeste splendor 20
 Fissate dunqu'in me donna (seconda parte) 21
 
-_930_
 

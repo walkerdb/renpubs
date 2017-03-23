@@ -23,7 +23,7 @@ l"831131" chi ti crede, inganar chì si fida, o malvaggia 21
 I-Moc: compl.
 
 599 - COMA Annibale (1568) - Dì Anniballe Coma mantovano il Primo Libro
-dc Madrigali a cinque voci, con uno Dialogo a otto, novamente da lui composti,
+de Madrigali a cinque voci, con uno Dialogo a otto, novamente da lui composti,
 Ct. per Antonio Gardano stampati et dati in luce. A cinque VOCi' In Venetia appresso
 di Antonio Gardano. 1568.
 
@@ -39,7 +39,7 @@ A 5- A te, Guglielmo, a cui ghirlande e fregi. Al Duca di Mantova 1
 " " Meraviglie vid'io quante vegg'hor (seconda parte) 7
 " " Se la nebbia di sdegni, che sovente mi rende l'aria (B. Tasso) 8
 " " Perchè non volgo l'angosciosa mente (seconda parte) " 9
-" " P piango ct ella il volto con le sue man (Petrarca) 10
+" " P piango et ella il volto con le sue man (Petrarca) 10
 " " Vaga, cortese e bella alma gentile col dolce ragionar 11
 " " A] Sol de gli occhi tuoi, Tulia gentile 12
 " " Non mi teglia il ben mio chi non arde d'amor 13

@@ -1,4 +1,4 @@
-A5. Era'l giorno ch'al sol si scolomro per la pietà (Petrarca) 3
+A 5. Era'l giorno ch'al sol si scolomro per la pietà (Petrarca) 3
 
 " " Trovomi amor del tutto disarmato (seconda parte) " 4
 " " Che nuova for-L'amore s'è giont'al tuo potere ch'hor'e non prima sei fatto 5
@@ -13,18 +13,18 @@ A5. Era'l giorno ch'al sol si scolomro per la pietà (Petrarca) 3
 " " Dolce mio focco e dolce mie ferite (seconda parte) 14
 " " Amor, da che tu vuoi pur ch'io m'nrischi in udir et vedere siren'e basilischi 15
 " " Gentil coppia, eccellente, chi vi mira (seconda parte) 16
-" " Vaga, cortes'e bell'alma gentile, col dolce raggionar e'] bel sembiante 17
+" " Vaga, cortes'e bell'alma gentile, col dolce raggionar e'l bel sembiante 17
 " " Giovene donna solt'un verde lauro vidi. Canzone (Petrarca) 18
 " " Allhor saranno i miei pensieri (seconda parte) " 18
-A3. Ma perchè vol'il tcmp'e fuggon gli anni (terza parte) " 19
-A4. Non ſur giamai veduti sì begli occhi (quarta parte) " 20
+A 3. Ma perchè vol'il temp'e fuggon gli anni (terza parte) " 19
+A 4. Non ſur giamai veduti sì begli occhi (quarta parte) " 20
 A 5. lo temo di cangiar pria volt'e chiome (quinta parte) " 21
 A 6. Dentro pur foc'e fuor candida neve (sesta parte) " 22
 " " Donne leggiadr'e belle, che nel fresco fiorir de gli anni vostri 24
 " " Amor, poi che tua voglia fu ch'io stimussi mio sommo diletto toccar 25
 " " Ditemi... Non mi negar. Dialogo 26
 " " Dolce nemica mia, che dolcemente m'ancidest'il core col dolce 27
-A7. Liet'e pensose, accompagnat'e sole, donne. Dialogo (Petrarca) 28
+A 7. Liet'e pensose, accompagnat'e sole, donne. Dialogo (Petrarca) 28
 I-Bc: compl.
 
 I-VEaf: compl. (2° esempl.: S.).
@@ -46,7 +46,7 @@ A 5. Pace non trov'e non ho da far guerra e temo (Petrarca) 1
 " " Madonna, poi ch'uccider mi volete, non nicgo di morire 5
 " " Per aspri boschi e solitario horrorc, barbut'e magro vo (V- Gambara) 6
 " " Tu parti, o mio bel sole, lasciand'il mio mortal e oscuro velo 7
-" " Come consenti, amore, che'l mio pensier qual sempr'in te si siedc 8
+" " Come consenti, amore, che'l mio pensier qual sempr'in te si siede 8
 " " Martia, le gratie vostre, il valor, la beltà suprem'e rara 9
 " " Com'havrà vic'amor, la vita mia. se chi mi può dar vita (Cassola) 10
 

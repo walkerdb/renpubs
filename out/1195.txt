@@ -6,7 +6,7 @@ Novamente composti, et dati in luce. In Venetia, appresso Ricciardo Amadino 1605
 
 6 fasc. in 8° (C.A.T.B.5.Bc.), pag. 23. Ded. a VinCenzo Gonzaga, Duca di Mantova: "...questo
 mio parto di Madrigali, supplicandola che si come non isdegnò d'udirli più volte nelle sue Regie
-Camere, mentre erano notate a penna, ct udendoli diede segno di singolarmente gradirli, onde
+Camere, mentre erano notate a penna, et udendoli diede segno di singolarmente gradirli, onde
 m'honorò del carico sopra la nobilissima sua Musica... Vinegia, 30 VII 1605 ".
 
 Madrigale del P. Cherubino Ferrari carmelita, theologo predicatore et Accademico.
@@ -23,7 +23,7 @@ di Milano detto l'Etereo. .
 
 A 5. Cruda Amarilli, che col nome ancora tl'amar ahi lasso (Guarini) 1
 " " O Mirtillo, Mirtill'anima mia, se vedesti qui dentro " 2
-" " Era l'anima mia già press'a l'ultim'horc " 3
+" " Era l'anima mia già press'a l'ultim'hore " 3
 " " Ecco, Silvio, colei ch'in odio hai tanto. eccola in questa guisa " 4
 " " Ma se con la pietà non è in te spenta (seconda parte) " 5
 " " Dorinda, ah dirò mia, se mia non sei (terza parte) " 6
@@ -48,7 +48,7 @@ D-Kl: compl.
 I-FEc: C.A.T.B.5.
 D-Bds: B.
 
-LBC: Bc.
+I-Bc: Bc.
 GB-Lrosenthal : B.
 
 Sartori 1605c.

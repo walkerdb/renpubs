@@ -31,7 +31,7 @@ A 4. Sacri colli e beati, ben nate rive e ben felici piante 1
 " " Acerbo aprile e non men cruda morte (seconda parte) 4
 " " O vago et degno assai de gli altri (terza parte) 5
 " " Non Spero in terra mai haver (quarta parte) 6
-" " Che dcbbo far, se più non odo (quinta parte) 7
+" " Che debbo far, se più non odo (quinta parte) 7
 " " Piangerò dunque da l'estate al verno (sesta parte) 8
 " " Ahi stanche luci, ahi fredd'e oscuro (settima parte) 9
 
@@ -54,5 +54,4 @@ A 4. Sacri colli e beati, ben nate rive e ben felici piante 1
 " " Facea col cancro il sol suo bel soggiorno 24
 " " Cangiar pensier hormai più non mi lice 25
 
-._.62- ...-_
-
+.

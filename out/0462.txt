@@ -1,7 +1,7 @@
 Filli, ben sommi 18
 
 Su, su, ninfe, su pastori, all'ombra ninfe e pastori 30
-Fillidc bella 32
+Fillide bella 32
 Io parto dal tuo viso, o mio tesoro. Resta in pace, cor mio 34
 Vezzosclta pastorella, che mi struggi, se sei vaga, se sei bella 36
 Occhi ladri d'amor, occhi miei belli, occhi ch'al sol (Guarini) 38
@@ -22,9 +22,9 @@ de' Superiori.
 
 Occhi belli, occhi sereni, vita sol della mia vita (Comite) 1
 Ahi, che morir mi sento 2
-Non voglio amare, per non penare, ch'amor scguendo 3
+Non voglio amare, per non penare, ch'amor seguendo 3
 Giovan'ingrata a chi t'ha l'alma data 4
-Stavasi assisa Clori, tra verd'hcrbett'et adorati fiori 5
+Stavasi assisa Clori, tra verd'herbett'et adorati fiori 5
 La mia bella pastorclla 6
 Ecco che pur al fine, dopo lunghi martiri 7
 Qual alga è in questa riva Clori bella e crudele 8
@@ -51,5 +51,4 @@ USSR-Lsc : compl.
 bolognese, a quattro voci, novamente da lui composte, ec date in luce. In Milano:
 appresso Francesco Moscheni. 1564.
 
-_454_
 

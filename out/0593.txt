@@ -23,7 +23,7 @@ A 8. Filli mia bella. a dio. Caro mio Tirsi. a dio. Dicea sovr'Arno 24
 
 A 8. Voi volete ch'io mora, crudel ahimè. e mi date dolor si crud'e forte
 
-I-MOc: compl.
+I-MOe: compl.
 I-Bc: C.
 
 89} - EREMITA Giulio (1589) - Di Giulio Eremita, il Secondo Libro de Madri-

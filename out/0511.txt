@@ -4,7 +4,7 @@ Come esser può che ne la vostra mente possa giamai (M.]. Polisann) 30
 Se ciò non basta a mi (seconda parte) " 31
 
 I-Bc: compl.
-I-MOc: compl.
+I-MOe: compl.
 I-Nc: compl.
 A-Wn: compl.
 D-Kl: compl.
@@ -18,8 +18,8 @@ US-BE: C.
 F-TLm: A.
 
 771 - DE MONTE Filippo (1581) - Di Filippo Di Monte maestro di capella
-della 8.0. maestà dell'imperadorc Rodolfo Secondo il Decimo Libro delli Madrigali,
-a cinque voci. Novamente posti in luce. In Vincggia, appresso l'hcrcde di Giro-
+della 8.0. maestà dell'imperadore Rodolfo Secondo il Decimo Libro delli Madrigali,
+a cinque voci. Novamente posti in luce. In Vincggia, appresso l'herede di Giro-
 lamo Scotto. 1581.
 
 Sfax. in 8° (C.A.T.B.5.), pag. 31. Ded. a Rodolfo Il: " ...Ho cercato et cerco tuttavia col variar-
@@ -45,7 +45,7 @@ Ella di neve e rose il volto mista (seconda parte) " 17
 Qual-gigli novelli e queste rom e questi vaghi fiori 13
 T" T_nl_piagasti a morte darmi credendo, amor, picciol ferita 19
 Dolcrssima cagion d'ogni mia cura. grave riposo, leve mia fatica 20
-_ _Verdc e viva mia speme (seconda parte) 21
+_ _Verde e viva mia speme (seconda parte) 21
 SÉ'PIO. l'acerbo caso onde'l lucido sol de giorni tuoi 22
 Già havea l'eterna man d'ogni sua stella fatto il sereno cicl 24
 l'arca dicesse con aperte braccia (seconda stanza) 25

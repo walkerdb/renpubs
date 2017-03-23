@@ -24,7 +24,7 @@ A 2. Queste dogliose stille, inchiostri no, ma pianti (Marino) 1
 " " Ferirevi, ferite, viperetle mordacì, dolci guerrere ardite " 9
 " " Al desio lroppo ingordo " 10
 " " O tronchi inamorali, o sassi che seguite questa fera " };
-" " Nel cor sicdc la vita
+" " Nel cor sicde la vita
 
 " " L'occulto mio dolor B
 " " Se con sì fiera voglia H
@@ -41,7 +41,7 @@ A 4. Se la speme nol nutre non così tosto amore sorge 20
 
 PL-WRu : compl.
 
-548 - CERRETO Scipione (1621) - L'Amarillidc a tre voci di Scipione Cerrelto
+548 - CERRETO Scipione (1621) - L'Amarillide a tre voci di Scipione Cerrelto
 napolitano con alcuni a due soprani. Il Terzo Libro. Opera Decima ottava. n
 Napoli per Costantino Vitale. 1621. Con licenza (le Superiori.
 

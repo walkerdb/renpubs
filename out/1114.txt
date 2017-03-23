@@ -29,7 +29,7 @@ A 3. Vag'augellelti, che tra belle fronde gite cantand'all'apparir del giorno ' 
 
 " " Passando per sta strada l'altra sera vidd'una vecchia ch'cr'a lo balcone "
 " " Aflitto lo cor mio disventurato sempre s'intrica con qualche fraschetta 12
-" " Pastorella gentil, dal bianco armento dch porgi un dolce 13
+" " Pastorella gentil, dal bianco armento deh porgi un dolce 13
 " " Chisso marito tuo che ne voi fare? E' brutl'e piccirillo H
 " " Dov'è la vera fede e'l grand'amore che tanto, ingrata donna 15
 " " Viddi stand'a giacer sott'un bel pino nel tempo ch'orn'il sol 16
@@ -45,7 +45,7 @@ u " Deh fermatev'al suon di queste voci, bella quanto crude]. Di Laurentius dt E
 
 " " Ohimè come porragio, senz'il mio chiaro raggio, guidar. Di Prc Lorenzo de Egidi]: 25
 
-A 4. Datemi pace, o duri miei pensieri, non m'affligete più. Rima ct musica di Maximo
+A 4. Datemi pace, o duri miei pensieri, non m'affligete più. Rima et musica di Maximo
 [Troiano 26
 
 " " Un'ape esser vorrei poi che vi fece la natura fiore, anima mia (Tasso) 28

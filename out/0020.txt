@@ -1,4 +1,4 @@
-A5. Bench'alla tua beltade, sangue gentil 17
+A 5. Bench'alla tua beltade, sangue gentil 17
 
 " " Ahi quante faci intanto (seconda parte) 18
 " " Nera sì, ma son bella, nè maraviglia sia 19
@@ -6,8 +6,12 @@ A5. Bench'alla tua beltade, sangue gentil 17
 " " Suggi, suggi, bambino, che mentre latte suggi 21
 
 I-Rv: compl.
-D-Rp.: C.l°, C.Z°, A.B.
+D-Rp.: C.l°, C.2°, A.B.
 D-Rtt: CP.
+
+
+
+
 
 22 - AGLIONE Alessandro (1599) - Canzonette spirituali a tre voci composte
 dal padre frate Alessandro Aglione di Spoltore del Ordine di Predicatori. Nova-
@@ -36,15 +40,20 @@ Voi che gl'occhi purgati 18
 Lodate, genti di Firenza, meco 19
 Vattene, spirto mio, vatten'in cielo 20
 Stommi qui al monumento. 21
+
 I-Bc: C.
+
+
+
+
+
 
 23 - AGOSTINO Ludovico (1574) - Canzoni alla napolitana a cinque voci di
 D. Ludovico Agostini ferrarese. Libro Primo novamente composte et date in luce.
-A cinque voci. In Venetia apresso lì figliuoſi di Antonio Gardano. 1574.
+A cinque voci. In Venetia apresso lì figliuoli di Antonio Gardano. 1574.
 
-5 fasc. in 8° obl. (C.A.T.B.5.), pag. ZZ,(1). Ded. a Ottavio Morani' Gentil'huomo di Modona.
-All'armi, all'arm'o fidi miei pensieri, correte tutt'in guardia 1"
+5 fasc. in 8° obl. (C.A.T.B.5.), pag. 22,(1). Ded. a Ottavio Morani' Gentil'huomo di Modona.
 
+All'armi, all'arm'o fidi miei pensieri, correte tutt'in guardia 1
 Vita mia cara, vita saporita, subito ch'io ti vidi pers'il core 2
-Chi la dirà la pena del mio core et quel dolor ,- 3
-
+Chi la dirà la pena del mio core et quel dolor 3

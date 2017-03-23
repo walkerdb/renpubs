@@ -12,12 +12,12 @@ AZ. Miserabil mio core, il crudo amore io non posso ſuggir. Dialogo 2
 " " Mentre ride costei, fuor da la bella bocca 14
 " " Ben mio, mentre ti bacio non so dir 16
 " " Nulla più vago miro, nulla più lieto ascolto 13
-A3. Sei scalza, hai rotti i panni e povera ti credi 20
+A 3. Sei scalza, hai rotti i panni e povera ti credi 20
 " " Amor non ha più foco, che'l divise fra noi, diede l'arsura (Marino) 21
 " " Un sol bacio ti dono, ingrata e ti lamenti 22
 " " Mi prometesti un bacio, hor cruda il neghi B
 " " Volò ne tuoi begli occhi ignudo, donna (Marino) 25
-A4. Donna, i tuoi lumi sono tanti strali d'amore 27
+A 4. Donna, i tuoi lumi sono tanti strali d'amore 27
 " " lo amo, io ardo, io piango, il cor stillo in tanto 23
 " " T'amai, fcdel ti fui. Bramai la tua più che la propria vita 30
 " " Venga, chi veder vuole a meza notte il sole 31
@@ -34,7 +34,7 @@ di Cipriano de Rore, a quattro voci, accommodati per cantar a voci pari... Venet
 Un esempl. esisteva in Schlobitten.
 
 2524 - SABINO Ippolito (1570) - Di Sabino il Primo Libro de Madrigali a
-clſque voci, novamente da lui composti ct dati in luce. A cinque voci. In Venetia
+clſque voci, novamente da lui composti et dati in luce. A cinque voci. In Venetia
 appresso li figliuoli di Antonio Gardano. 1570.
 
 Sfasc. in 8° obl. (C.A.T.B.5.)_ pag, Z9,(1). Ded. ad Alberto Acquaviva (l'Aragonin.

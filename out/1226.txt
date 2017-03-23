@@ -35,7 +35,7 @@ A 5. Cara, dolce, noturna, alma quiete, più chiara assai del giorno 1
 " " La verginella è simile alla rosa, ch'in bel giardin (Ariosto) 12
 " " Valle, che di lamenti miei sei piena, fiume che spesso (Petrarca) B
 " " Ben riconosco in voi l'usate forme (seconda parle) l;
-" " Unica spcme mia, unico bene, poi che sei qui soletta 16
+" " Unica speme mia, unico bene, poi che sei qui soletta 16
 " " Tra bei rubini e perle, che spiran aura di ccleste odore (Amalteo) 1
 " " Geloso amante, apro mill'occhi (: giro, (: mill'orccchie (Tasso) 1:
 " " Temo ch'altri ne goda e che m'invole (seconda parte) }9
@@ -46,7 +46,7 @@ A 7. Alma d'amor gioiosa, hor che sospiri. Dialogo
 D-Mbs: compl.
 GB-Lbm: compl.
 US-Ws: compl.
-I-MOc: C.A.B.5.
+I-MOe: C.A.B.5.
 I-VEaf : C.
 I-Bc: B.
 

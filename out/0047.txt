@@ -2,8 +2,8 @@ A 5. Sparsa di mille cori ha l'idol mio la vista, perchè si veggia fuori 4
 
 " " S'in voi pietà vidd'io, celando il foco ch'uscir mi fea dal core 5
 " " Febo non ti doler che la mia Flori a le tue rive involi cantando herbette 6
-" " O fortunata morte che fè l'ape mordcndo la bianca mano ond'io ferite prendo 7
-" " Pascea la pecorella tenere hcrbett'in queste piaggi'e in quelle 8
+" " O fortunata morte che fè l'ape mordendo la bianca mano ond'io ferite prendo 7
+" " Pascea la pecorella tenere herbett'in queste piaggi'e in quelle 8
 " " Belle fiamme d'amore e d'honestate, che sì dolce il mio cor freddo accendete 9
 " " Non siam men belle mai, non mai scemate si veggian (seconda parte) 10
 " " Il tempo mai non vi consumi, nè la fortuna vi spenga (terza parte) 11
@@ -58,5 +58,4 @@ P"' 1 ac: e v1dd imprese ne bCl coralli suor ferme note 17
 
   
 
-_39_
 

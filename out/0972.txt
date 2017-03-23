@@ -3,7 +3,7 @@ A 4. Non so s'io potrò dire a pieno il mio languire 4
 " " Non al suo amante più Diana piacque (Petrarca) 5
 " " Amor c'l ver fu meco a dir che quelle "
 
-A 5. Se con la stessa luce sempre n'illustra ct ne riscald'il sole 7
+A 5. Se con la stessa luce sempre n'illustra et ne riscald'il sole 7
 " " Tu, dolce anima mia, alla tua dipartita leco portasti il core 3
 " " Ve'l può giurar amore, dolce nemica mia. ch'era di ghiaccio pria 9
 " " Ohimè, vidi l'amato mio tcsoro farsi preda d'allrui 10
@@ -22,7 +22,7 @@ I-Bc: compl.
 
 I-Fd: compl.
 
-I-MOc: C.A.T.5.
+I-MOe: C.A.T.5.
 
 I-de: C.A.B.
 
@@ -50,5 +50,4 @@ Quel ben ch'aura pietosa a gl'avidi occhi aperse ah lasso
 Dolci sdegni e dolc'ire, nate da un dolce errore, ccssat'homai 6
 Di piant'e di lamento gran temp'e senza speme i' pasco il core 7
 
-_964_
 

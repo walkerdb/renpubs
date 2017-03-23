@@ -6,7 +6,7 @@ A 5. Canzona decima terza
 
 " " Canzona decima sesta
 
-A6. Ardo per voi, mia vila. Madrigale a sei concerlalo con gli slrumenli
+A 6. Ardo per voi, mia vila. Madrigale a sei concerlalo con gli slrumenli
 " " O rubella d'amor. Madrigale :\ sei concertato con gli slrumenli
 PL-WRu: C.l", A., T., B.
 
@@ -54,7 +54,7 @@ ZZ.
 " " Donna, il vostro bel viso api"?I Cl" m" ogn hor ' pa 25
 " " The nightingale 26
 
-A 6. Deaih hath dcprivcd me.
+A 6. Deaih hath deprived me.
 
 GB-Cul: compl.
 GB-Lbm: compl.

@@ -21,7 +21,7 @@ E se pur s 'arma tal' hora :| dolersi (seconda stanza) " 17
 
 Di quanto per amor già mai solersi (terza stanza) " 18
 
-M:| l'hora e'] giorno ch'io le luci (quarta stanza) " 19
+M:| l'hora e'l giorno ch'io le luci (quarta stanza) " 19
 
 Lagrima adunque, che da gl'occhi (quinta stanza) " 20
 
@@ -42,7 +42,7 @@ Sì m'è dolce il tormento e'l pianger (terza stanza) " 30
 
 Così vuol mia ventura, over mio fallo (quarta stanza) " 31
 I-Bc: C.A.B.5.
-I-MOc: C.T.
+I-MOe: C.T.
 
 D-Mbs: CT
 

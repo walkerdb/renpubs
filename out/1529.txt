@@ -17,7 +17,7 @@ A 5. lo moro, ecco ch'io moro, bella nemica mia (Marino) 1
 " " Fortunato augellino, che dolce sì fai risonar i colli (Rinuccini) 9
 " " Ch'io mora? Oliimè ch'io mora? Morrò, ma che sia poi (Marino) 10
 " " S'in me potesse morte quant'il duolo, o almen quant'io vorrei Il
-" " Se la doglia e'] martire non può [armi morire (Marino) IZ
+" " Se la doglia e'l martire non può [armi morire (Marino) IZ
 " " O baci avventurosi, ristoro (le miei mali. Canzon (le baci " 13
 "" Una bocca homicida (seconda parte) " 14
 " " Tranquilla guerra (terza parte) " 15
@@ -26,14 +26,14 @@ A 5. lo moro, ecco ch'io moro, bella nemica mia (Marino) 1
 " " Miro, rimiro et ardo (sesta pane) " 18
 " " Vinta all'hor dai dilcuo (scuima parte) " 19
 " " Deh taci, o lingua sciocca (ottava parte) " 20
-A 6. Ricdc la primavera, torna la bella Clori " 21
+A 6. Ricde la primavera, torna la bella Clori " 21
 F-Pc: compl.
 
 I-Bc: A.T.5.
 
 2453 bis - ROSSI Salomone (1620) - Il Terzo Libro de Madrigali a cinque voci.
 
-Dl Salomon Rossi hcbreo con una Canzon de baci nel fine, con il suo Basso
+Di Salomon Rossi hcbreo con una Canzon de baci nel fine, con il suo Basso
 
 îÈntinuo per sonar con istromenti da corpo. Novamente ristampato... In Venetia...
 20.

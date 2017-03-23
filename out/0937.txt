@@ -5,12 +5,12 @@ Corrente (strum.) 59
 A 5. Bella notte serena invita i mesti e malgradili amanti 60
 " " S'udir non ci vorrete, o donne belle, cantcremo alle stelle 65
 A 1. Acque tranquille e chiare, voi pur non sete in questi 67
-A2. Aure placide e chctc, temprate, aure cortesi, il nostro sol 70
+A 2. Aure placide e chctc, temprate, aure cortesi, il nostro sol 70
 A 1. Belle rive gradite di sì beato lido 73
 A 5. S'udir donna non vuole nostre pene, canteremo all'ai'ene 74
 A 1. Donne, a goder non indugiate più. Aria. Soprano solo 76
 " " Arene, acque, mue, cielo a voi canto, a voi parlo. Alto solo 78
-A5. E se sorde voi pur sete al mio pianto, altro ci vuol - 79
+A 5. E se sorde voi pur sete al mio pianto, altro ci vuol - 79
 AZ. Non più suoni, non più canti. Amor strepiti non vuole. Licenza 31
 
 A 1. Già dal sacro leon degno messaggio ſesti sul Tebro. A Giovanni da Pesaro. Poesia
@@ -38,7 +38,7 @@ Libro Primo. In Venetia, appresso Ricciardo Amadino. 1590.
 
 3 fasc. in 8° (C.T.B.), pag. 21,(1). Ded. di Dominica Lauro al Conte Agostino Giusti.
 
-"_"" D- - Donò Licori a Batto una rosa crcd'io di paradiso (Guarini) 1
+"_"" D- - Donò Licori a Batto una rosa cred'io di paradiso (Guarini) 1
 Stu/an' Fr. - Spira dalla dolce aria del bel viso della mia donna amor 2
 " " - Tirsi son io, quel misero pastorc, che per Clori sospira 3
 La'" D- - La mia leggiadra Clori, col pianto in perle avolto bagnava 4
@@ -49,7 +49,7 @@ Slim Fr. - Credendomi di gir Sicuro homai a veder quella 8
 " " - Lasso. dicea, perchè venisti, amor, d'ogni mio ben invidioso 9
 " " - Cantan fra i rami gli augelletti vaghi, azuri e bianchi (Ariosto) lO
 " " - Che deggio far dopoi che'l mio bel sole da me si parte 11
-Duro D. - Dice la mia bellissima Licori, quando talhor favcllo soco (Guarini) 12
+Duro D. - Dice la mia bellissima Licori, quando talhor favello soco (Guarini) 12
 " " - La bella man vi Stringo e voi le ciglia per dolor stringete " 13
 " " - Quel lampo esser vorei ch'a l'aureo crin è adorno 14
 Stil/an' Fr. - Aura dolce e soave. ch'a i bei erin d'or d'intorno scherzando 15
@@ -58,5 +58,4 @@ Stil/an' Fr. - Aura dolce e soave. ch'a i bei erin d'or d'intorno scherzando 15
 Laura D. - A voi, signor, tutto il dominio ho dato di me che forse (Ariosto) 18
 " " - Che senza eh'assoldiate altra penona (seconda stanza) " ]9
 
-_929_
 

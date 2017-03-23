@@ -52,5 +52,4 @@ PL-GD: compl.
 I-Bc: C.A.T.B.
 GB-Lbm : C.A.T.
 
-_500_
 

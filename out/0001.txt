@@ -1,81 +1,37 @@
-Iu
-KR
-ng
-Wn
-
-Amp
-Bc
-Br
-Gu
-
-Tu
-
-Bu
-
-E
-
-LU
-Mbernegg
-SO
-
-Zz
-
-ZO
-ZU
-
-KRa
-OLu
-
-Pu
-
 SIGLE DELLE BIBLIOTECHE
 
 A: OESTERREICH
 
-Innbruck, Università'tsbibliothek
-Kremsmiìnster, Benediktinerstift
-
-Wien, Gesellschaft der Musikfreunde
-Wien. Oesterreichische Nationalbibliothek
+Iu Innbruck, Università'tsbibliothek
+KR Kremsmiìnster, Benediktinerstift
+Wgm Wien, Gesellschaft der Musikfreunde
+Wn Wien. Oesterreichische Nationalbibliothek
 
 B: BELGIQUE
 
-Antwerpen, Museum Plantin-Moretus
-
-Bruxelles, Bibliothèque du Conservatoire Royal de Musique
-Bruxelles, Bibliothèque Royale de Belgique
-
-Gent, Bibliotheek van de Universiteit
+Amp Antwerpen, Museum Plantin-Moretus
+Bc Bruxelles, Bibliothèque du Conservatoire Royal de Musique
+Br Bruxelles, Bibliothèque Royale de Belgique
+Gu Gent, Bibliotheek van de Universiteit
 
 C: CANADA
 
-Toronto, Ontario, Music Library
+Tu Toronto, Ontario, Music Library
 
 CH: CONFÉDÉRATION HELVETIQUE
 
-Basel, Universit'atsbibliothek
-
-Einsiedeln, Stiftsbibliothek
-
-Lugano, Biblioteca Cantonale
-
-Maienfeld, Collezione Sprecher von Bernegg
-Solothurn, Zentralbibliothek
-
-Ziirich, Zentralbibliothek
-
-Zofingen, Stadtbibliothek
-
-Zuoz, Gemeindearchiv
+Bu Basel, Universit'atsbibliothek
+E Einsiedeln, Stiftsbibliothek
+LU Lugano, Biblioteca Cantonale
+Mbernegg Maienfeld, Collezione Sprecher von Bernegg
+SO Solothurn, Zentralbibliothek
+Zz Zürich, Zentralbibliothek
+ZO Zofingen, Stadtbibliothek
+ZU Zuoz, Gemeindearchiv
 
 CS: CZECHOSLOVAKIA
 
-Kromérîé, Stétni zémek a zahrady
-
-Olomouc, Stétni vëdeckâ knihovna, Universitnî knihovna
-Praha, Nérodni muzeurn
-
-Praha, Universitnî knihovy
-
-_..xv_
-
+KRa Kromeriz, Stétni zémek a zahrady
+OLu Olomouc, Stétni vëdeckâ knihovna, Universitnî knihovna
+Pm Praha, Nérodni muzeurn
+Pu Praha, Universitnî knihovy

@@ -3,7 +3,7 @@ A 5. A te le selve, i boschi si vestono di ricch'altere fronde 15
 " " Se fia che per te lasci questa spietat'Autilla. ch'a duri miei tormenti 16
 " " Donna mia. casta e bella, voi che devol'andate porgendo preghi 16
 " " Sommess'accenli e tacite parole, rotti singulti e flebili sospiri 18
-" " Avcnturosi colli, cui l'aura di dolcissime parole aviva i lieti fiori 19
+" " Aventurosi colli, cui l'aura di dolcissime parole aviva i lieti fiori 19
 " " Oui dove, con serena e lieta fronte, par eh'ogn'hor rida il gralioso aprile 20
 " " Per le cime de' pini e de gl'allori (seconda parte) 21
 A 6. Deh lascia, o bella Clori, lascia gl'antri e le selve a crudi mostri 22
@@ -12,13 +12,13 @@ A 6. Deh lascia, o bella Clori, lascia gl'antri e le selve a crudi mostri 22
 " " Spent'Orion, vinta ogni ria pt'ocella, con l'aure di desir lieti 25
 " " Giusto d'intorno regge altero sdegno (seconda parte) 26
 A 8. Alma che fai, che sì stupida pensi al bel passato temp'ai mesi gai 28
-" " La face ond'arde i cori a sua voglia chi spegn'hoggi e raccendc 29
+" " La face ond'arde i cori a sua voglia chi spegn'hoggi e raccende 29
 B-Be: C.B.6.
 
 US-BE: A.
 
 1306 - GUAZZl Eleuterio (1622) - Spiritosi affetti a una e due voci. Cioe Arie
-Madrigali ct Romanesca da cantarsi in Tiorba in Cimbalo et Chitariglia et altri
+Madrigali et Romanesca da cantarsi in Tiorba in Cimbalo et Chitariglia et altri
 istromenti con l'alfabetto per la Chitara Spagnola. Libro Primo. Di Eleuterio
 Guazzi. Musico della serenissima Republica di Venetia dedicati al illustr.mo et
 rev.mo signor il signor cardinal Farnese. (Marca tip. del Gardano).

@@ -5,7 +5,7 @@ mente composti, et dati luce (ric). Libro Secondo. In Venetia appresso Angelo
 Cardano. 1589.
 4 fasc. in 8° (C.A.T.B.), pag. 23,(1). Ded. a Luca Cavalcanti, Roma, 20 111 1589.
 
-A4. I lict'amant'e le fanciulle tenere gii-an di prai'in pr.-ito (SNM-1113...) î
+A 4. I lict'amant'e le fanciulle tenere gii-an di prai'in pr.-ito (SNM-1113...) î
 " " Tal ch'ogni volta, o dolc'amico (seconda parte) . " 5
 " " Montano, i miei compagni non sospettano del mrdar mio n 6
 " " La pastorella mia spietata e rigida, che nntt'e giorno " 7
@@ -15,7 +15,7 @@ A4. I lict'amant'e le fanciulle tenere gii-an di prai'in pr.-ito (SNM-1113...) �
 "" Che s'un sol ramo mi trarrò dapprexso (\ccunda parte) " lg
 " " S'amor è cieco non può'! vero scorgere " ...
 n " Io con la rete uccello e con la trappola " "
-" " Già semo giunti a loco ovc il desire par che mi spegni "
+" " Già semo giunti a loco ove il desire par che mi spegni "
 
 " " Voi cantar meco? Hor incomincia uff.-mo (seconda parte) " 11
 " " Deh risolvinmci un tratto, pmior tutti d'accordo. Caccia (le lupi {i
@@ -23,12 +23,12 @@ n " Io con la rete uccello e con la trappola " "
 A 5. Eccone quasi giunti (terza parte) 16
 A 6. Ergasto con tuoi sotii (quarta parte) . ...
 " " Ecco, ccc'i lupi fuor del pnntnniccio (qumta parte) 20
-A7- Ergasto, tu che l'hai (sesta parte) 22
+A 7- Ergasto, tu che l'hai (sesta parte) 22
 A 8. Ma hor siam giunt'al fonte (settima parte)
 
 I-Fn: compl.
 
-I-MOc: compl.
+I-MOe: compl.
 
 PL-GD: compl.
 

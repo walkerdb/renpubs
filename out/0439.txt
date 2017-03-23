@@ -35,7 +35,7 @@ A 1. lo che felice un tempo 3
 " n Partirò. vita mia 10
 îî Nel bel regno d'amore. Dialogo "
 " " La_pnmavera leggiadra. Dialogo 15
-A3 g:! dove l'aura spira. Dialogo 19
+A 3 g:! dove l'aura spira. Dialogo 19
 
 - ! vuol cantar d'amore, canti com'hoggi d'..."- Dining!) 22
 

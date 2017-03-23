@@ -7,9 +7,9 @@ A 6. Partomi, donna, e teco lascio'l core, nè col partir ancor 16
 " " Nasce da bei voslr'ccchi la mia morte 20
 " " Del piant'amaro, che continuo spando 21
 A 7. Occhi piangete, accompagnate il core. Così sempre. Dialogo (Petrarca) 22
-" " Vedi benign'amore. Et ella dcntr'il core. Dialogo B
+" " Vedi benign'amore. Et ella dentr'il core. Dialogo B
 " " A che pur tant'amore? Non ti lagnar che tal legam'o fera alma. Dialogo 24
-A8. Dolc'ire, dolci sdegni e dolci paci. Dialogo (Petrarca) 25
+A 8. Dolc'ire, dolci sdegni e dolci paci. Dialogo (Petrarca) 25
 
 lVEaf: compl. (2° cscmpl.: A.).
 D-Mbs: compl.
@@ -20,7 +20,7 @@ GB-Lbm: C.
 
 2253 - PORTINARO Francesco (1560) - Di Francesco Portinaro maestro della
 nobile et vìrtuosa Academia di Padoa il Quarto Libro de Madrigali a cinque
-voci con dui Madrigali a sei dui Dialoghi a sette ct dui a otto novamente da
+voci con dui Madrigali a sei dui Dialoghi a sette et dui a otto novamente da
 
 lui composti et dati in luce. Libro Quarto. In Venetia apresso di Antonio Gar-
 dano. 1560.

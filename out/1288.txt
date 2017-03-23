@@ -11,7 +11,7 @@ A 1. Pargoletto è il soggetto, non paroletto il nome. C. o T. 1
 " " Mio pianto, ed è pur vero, miser, che Figlio sei. C. o T. 2
 " " Anima mia, che fai? Che fai caduta vile al sacro. C. o T. 3
 A 2. A languidetti rai del mio languido sole. Z C. o Z T. 4
-" " Tra le furie ct le faci de l'agitato core. Z C. o Z T. 5
+" " Tra le furie et le faci de l'agitato core. Z C. o Z T. 5
 " " De l'avorio e nevi intatte i caldetti che'l bambino. Z C. o 2 T. 6
 " " Vattene, vita, va, dicea piangendo. Romanesca. Lagrime di S. Pietro (Tansillo) 7
 " " Lasciami sol che non è ben ch'essendo (seconda parte) " 7
@@ -28,7 +28,7 @@ n " Accogli un peccalor mesto e devoto. Ruggiero. Lagrime di S. Pietro. Z C. e T
 A 3. Langue. di pena atroce incoronata in croce, ed il pietoso sangue. Sangue di Christo.
 [3 C. o T. 13
 A 2. Di colomba amorosa ha le labra di rosa, le belle guancic intatte. Z C 13
-A 3. Luci al mondo, luci care ct amate (seconda parte) 3 C. H
+A 3. Luci al mondo, luci care et amate (seconda parte) 3 C. H
 A 5. 11 mio sol, la tua front'e il mio cielo (terza parte) 15
 A 1. Dal sasso del mio core cava. dolce Giesù, fuoco d'amore (GriIIO) 16
 A 2. Merito, ohimè, più pene che non sono del mar (seconda parte) " 16
@@ -41,7 +41,7 @@ A 6. Spirane, dunque, eterno Padre il canto (quarta parte) ig
 A 2. Noi siam al ciel rapite. Fede (quinta parte) 21
 A 2. Così faciamo e'n questa valle oscura. Fede (sesta parte) 21
 A 1. E come senza amor (settima parte) 21
-A 2. Come stcmprata cetra che suonasi (ottava parte) 21
+A 2. Come stemprata cetra che suonasi (ottava parte) 21
 " " Amor e quel (nona parte) 21
 A 1. Ma tempo è che le genti odan l'alta virtù (decima parte) 22
 A 6. O mondo, ecco la vita (undecima parte)

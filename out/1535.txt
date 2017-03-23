@@ -1,9 +1,9 @@
 A 1. Le lagrime d'Erminia
 
 La bella Erminia, sconsolata amante, sopra il caro Tancredi (Tasso)
-n " Tancrcdi. o sanguinoso, o lagrimnto (seconda stanza) "
-" " Amor, privato di tuoi luci ardcnlc (terza stanza) "
-" " Piaghc chc'l sangue di versar (quarta stanza) "
+n " Tancredi. o sanguinoso, o lagrimnto (seconda stanza) "
+" " Amor, privato di tuoi luci ardenlc (terza stanza) "
+" " Piaghe chc'l sangue di versar (quarta stanza) "
 " " Morte, ch'a me li lolxc, lior mi concede (quinta stanza) "
 GB-Och: compl.
 GB-Lbm: C.l°.
@@ -14,7 +14,7 @@ Rovetta vice maestro di capella della serenissima Republica di Venetia. Libro
 Primo. Opera Seconda. Novamente ristampati. Con licenza de Superiori et privi-
 legio. In Venetia 1636. Appresso Bartolomeo Magni.
 
-Sſasc. in 8° (C.l°, C.Z°, A., B.. Br.). Indice = 1629.
+Sſasc. in 8° (C.l°, C.2°, A., B.. Br.). Indice = 1629.
 
 PL-WRu : compl.
 
@@ -22,9 +22,9 @@ PL-WRu : compl.
 voci, et due Violini. Con un Dialogo nel fine, et una Cantata a voce sola. Di Gio.
 Rovetta maestro di capella della serenissima Republica di Venetia. Libro Primo.
 Opera Seconda. Novamente ristampati. In Venetia 1648 alla stampa del Gardano.
-5 fasc. in 8° (C.l°, C.Z°, A.. B., BC.). Indice = 1629.
+5 fasc. in 8° (C.l°, C.2°, A.. B., BC.). Indice = 1629.
 
-I-FEc: C.l°. C.Z°, A., B.
+I-FEc: C.l°. C.2°, A., B.
 I-Bc: Bc.
 
 2464 - ROVETTA Giovanni (1660) - Madrigali concertati a 2.3.4. et uno a sei

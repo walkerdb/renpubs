@@ -28,7 +28,7 @@ D-Kl: compl.
 
 D-Mbs: compl.
 
-I-MOc: C.A.T.B.S.
+I-MOe: C.A.T.B.S.
 
 I-VEaf : C.A.B.5.6.
 
@@ -60,5 +60,4 @@ O caso novo e strano ch'a sì dolce morir (quarta parte) B
 
 Sì potess'io morire nci vivi rai del mio (quinta parte)
 
-_.682_
 

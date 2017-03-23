@@ -18,7 +18,7 @@ I-Fr: A.5.
 I-Oc: A.B. (difettosi)
 US-BE: C.
 F-TLm: A.
-I-MOc: B.
+I-MOe: B.
 
 772 - De MONTE Filippo (1586) - Di Filippo De Monte maestro di capclla
 della sacra cesarea maesta de l'imperatore Rodolfo Secondo. L'Undecimo Libro
@@ -60,5 +60,4 @@ Odi, Filli, che tuona, odi che'n gielo il vapor di là su (fisso) 25
 
 Ben folle et a se stesso empio è (seconda parte)
 
-_5o4_
 

@@ -6,7 +6,7 @@ appresso Girolamo Scotto, 1562
 
 )
 
-Bocttichcr 750.
+Boctticher 750.
 
 Il N. 1425 è annullato.
 
@@ -21,7 +21,7 @@ I-Rsc: compl.
 I-VEcap: compl.
 US-NYp: compl.
 D-Bds: A.T.5.
-Bocttichcr 755.
+Boctticher 755.
 
 1427 - DE LASSUS Roland (1506-2) - Di Orlando di Lassus il Primo Libro di
 Madrigali a cinque voci, novamente per Antonio Gardano ristampato. A cmque
@@ -40,7 +40,7 @@ B-Br: C.A.5.
 F-Pm: 5.
 
 I-Vc (Torreſranca): A.
-Bocttichcr 756.
+Boctticher 756.
 
 1428 - DE LASSUS Roland (1567) - Di Orlando di Lassus il. Primo Libro de
 Madrigali a cinque voci. Novamente stampato e coretto. In Vmegm 1567. Appresso
@@ -53,7 +53,7 @@ D-Bds: B.
 
 I-Ta: 5.
 
-Boettichcr 757.
+Boetticher 757.
 
 -898-
 

@@ -19,7 +19,7 @@ A 4 Chi è fermato di menar sua vita. Sestina
 " " Più cantar non vogliamo, come già solevamo. Moresca de schiavi 52
 " " Non basta contentarmi di parole 53
 A 3. Gode la terr'e'l mare al dolce risonare. Canzonetta 54
-" " Gioisce l'aria e'] cielo (seconda parte) 54
+" " Gioisce l'aria e'l cielo (seconda parte) 54
 " " E per maggior dolcezza (terza parte) 55
 " " O vago cant'e suono (quarta parte) 55
 " " lngrat'Amint'e fiero, non muterò pensiero. Dialogo 56
@@ -49,7 +49,7 @@ I-Fn: A.
 GB-Lbm: A.
 
 2823 _. VECCHI Orazio (1598) .. Convivium musicale Ho
-Ternis, quaternis, quinis, senis, septenis, ct octoms voc1bus.
+Ternis, quaternis, quinis, senis, septenis, et octoms voc1bus.
 Kauffmanni. 1598.
 
 6 fasc. in 8° (C.A.T.B.5.6.), pag. 79. Indice = 1597.

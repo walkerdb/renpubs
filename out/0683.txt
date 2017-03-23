@@ -1,7 +1,7 @@
 (da Sofocle) 15
 15
 
-A4. Ben la giustizia ha in terra
+A 4. Ben la giustizia ha in terra
 )) ))
 
 A 5. Giunta nel maggior colmo
@@ -24,7 +24,7 @@ A 4. Miscra humana prole " " 19
 A 3. Poseia che tu nel maggior colmo >" " 20
 A 4. o come, o sommo Giove " " 2,0
 A 2. Tu quasi torre " " 20
-" " Quinci ottenuto havcndo " " 21
+" " Quinci ottenuto havendo " " 21
 A 6. Ma chi più di te misero " " 21
 A 3. Tu quell'ulcro islcsso " " 21
 " " Ma com'è che'l paterno letto " " 22
@@ -40,11 +40,11 @@ A 6. Me la dura sorte " " B
 
 A-Wn: A.D.S.
 
-1027 - GABRIELI Andrea (1571) - Gregheschc ct Iustiniane di Andrea Gabrieli
-a tre voci novamente composte ct date in luce. Libro Primo. In Venetia apresso li
+1027 - GABRIELI Andrea (1571) - Gregheschc et Iustiniane di Andrea Gabrieli
+a tre voci novamente composte et date in luce. Libro Primo. In Venetia apresso li
 figliuoli di Antonio Gardano. 1571.
 
-3 fasc. in 8° obl. (C.T.B.), pag. 45,(1). Ded. :\ Hicmnimo Orio Provcditor Dignissimo delle Gam-
+3 fasc. in 8° obl. (C.T.B.), pag. 45,(1). Ded. :\ Hicmnimo Orio Proveditor Dignissimo delle Gam-
 barare: " Essendomi M. Antonio Molino, cognominalo Burchiela, stato sempre, come padre, e
 Signore, per le soe singolar virtù, cl hai-endo io gia questi anni adietro composta la Musica sovra
 alcuni suor Madrigali Grechi, posti alle stampe da Cardano, sollo lÌlOlo di Manoli Blesi, ha
@@ -55,7 +55,7 @@ ll facessi stampare, ma sopra tutto ch'io gli dedicassi alla S.V. Cl...".
 Zendil donn'e segnuri. ben vedeu la nostra cumbania chie se greghi (Molino) 2
 Tria "gerundas musechi nu la semo vegnui che per cundarve "
 
-O mia canzun. va in man de ehy saveu allegramendc " 9
+O mia canzun. va in man de ehy saveu allegramende " 9
 Chie val haver cavallo e rumper lanza e cul mio spa in beccun " 12
 Aldi vel prego amandi, da lunzi una donna con la so vardari " 15
 Manoli chie faremo? Respundemo cacicchi cun legria. Dialogo " 19

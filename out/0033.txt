@@ -22,10 +22,10 @@ I-Nc: compl.
 D-W: T.
 
 40 - ALBERTI Innocenzo (1604) - Il Secondo Libro de Madrigali a quattro voci,
-d'Innocentio Di Alberti. Novamente composto, ct dato in luce. In Venetia, appresso
+d'Innocentio Di Alberti. Novamente composto, et dato in luce. In Venetia, appresso
 Giacomo Vincenti. 1604.
 
-4 fasc.. in 8° (C.A.T.B.), pag. 21,(1). Ded. ad Alessandro Pichi Prencipe della Mirandola: " Havcndo
+4 fasc.. in 8° (C.A.T.B.), pag. 21,(1). Ded. ad Alessandro Pichi Prencipe della Mirandola: " Havendo
 alli giorni passati mandato in luce il Primo Libro de miei Madrigali à Quattro voci sotto il
 nome del Serenissimo Duca di Modena... ".
 
@@ -38,7 +38,7 @@ Le tue lod'I-Iimeneo vogliam cantar in questo loco ameno, viva viva Himeneo 6
 Su nella rocca ritornò la dama e d'amor si lamenta e di fortuna 7
 Se quella vaga luce, che col splendor celeste fà beato l'oggett'in cui riluce 8
 Q'ual forza o qual lusinga, misero, fà ch'ardisco fuggir mia pace 9
-S al mio grave martire, che l'accorte parole e'] dolce sguardo 10
+S al mio grave martire, che l'accorte parole e'l dolce sguardo 10
 Deh dolce anima mia, homai v'incresca'l mio tanto languire e non vogliate 11
 Ardo in sì dolce foco, ch'ogni pena e dolor mi piglio a gioco 12
 Donne, siam mesti amanti da questo crud'arciero a le catene condenati 13
@@ -46,7 +46,6 @@ Puntine. se viver liete, donne leggiadr'e libere (seconda parte) 14
 81131552: gaſ!-egli; ariioi, che faremo? "Ahi ch'in perpetuo. horrore piangerem 15
 _ , qual lingua stile, gentil madonn'in carte 16
 
-Madonna, 10 pur pensai per mutar loco, onde fuggir potess'il lum'ardcnte 17
+Madonna, 10 pur pensai per mutar loco, onde fuggir potess'il lum'ardente 17
 
-__zs_
 

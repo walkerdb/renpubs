@@ -3,23 +3,23 @@ AZ. Udite o selve, i miei crudi martiri 3
 " " Mira quel pesce, mira come a l'csca s'aggira 5
 " " Ch'io ti lasci d'amare a questi lumi 7
 " " Una picciola arsura, donna, ne piede avete 8
-A3. Non crcdcte a donne mai, non credete ai pricglii 9
+A 3. Non credete a donne mai, non credete ai pricglii 9
 " " Dite ch'io canti? lo canterò. Canto senz'arlc lU
 " " E' sì grave il tormento che la provar amore 12
 " " Luci amate, l'alta fiamma il gran foco 14
 " " Non fia ver ch'io più t'ami 15
-A4. Son rose le tue guancie, Pilli. ma lor vicine io non veggio le spine 16
+A 4. Son rose le tue guancie, Pilli. ma lor vicine io non veggio le spine 16
 " " Filli mi diede un fiore 17
 " " Clori mia bella, ccco le verdi piaggio 19
-" " Di corallo hai le labbra e di corallo crcd'io clic sia il tuo cuore 20
-A5. Luci amorose e belle, vedete se v'adoro 21
+" " Di corallo hai le labbra e di corallo cred'io clic sia il tuo cuore 20
+A 5. Luci amorose e belle, vedete se v'adoro 21
 Con instromenti:
 
-A5. Chiome crcspe, chiome d'or. A 2 voci, Z Viol. e Viola 22
+A 5. Chiome crcspe, chiome d'or. A 2 voci, Z Viol. e Viola 22
 " " Segua i piacer d'amore, goda di suoni e canti. A 2 voci, Z Viol. e Viola 24
 " " Io vo cercando un core che non disprczzi amore. A Z voci, 2 Viol. e Viola 26
 " " Dormi, dormi, io già non voglio. A 2 voci, 2 Viol. e Viola 77
-A6. Torna Clori mia bella, lascia li sdegni e l'irc. A 3 voci con instr. 28
+A 6. Torna Clori mia bella, lascia li sdegni e l'irc. A 3 voci con instr. 28
 " " Amar com'io solea et ardcr come ardea. A 3 voci con instr. 28
 " " E' morto amor, non regna più pietà. A 3 voci con instr. 32
 
@@ -47,7 +47,7 @@ GB-Lbm: B. Bc.
 Voci con alcune Canzonette concertate con instromenti, di Galeazzo Sabbatini
 mastro di Capella-di camera dell'eccellentissimo sig. duca della Mirandola etc.
 Opera Sesta de Madrigali Libro Quinto nuovamente composti, e dati in luce et a
-sua cccelenza illustrissima dedicati con privilegio. In Venetia, appresso Alessandro
+sua eccelenza illustrissima dedicati con privilegio. In Venetia, appresso Alessandro
 Vincenti. 1636.
 
 Sfasc. in 8°: C.1° pag, 33,(1); C.2° e A pag. 4l,(1); T. pag. 33,(1); B. pag. 25,0); Viol. e 11.

@@ -19,7 +19,7 @@ I-VEaf: compl.
 
 A-Wn: C.A.T.
 F-Pn: A. (prov. Landau).
-I-MOc: B
+I-MOe: B
 
 2901 - VICENTINO Nicola (1572) - Madrigali a cinque voci di l'Arcimusico
 don Nicola Vicentino pratico et theorico et inventore delle nuove armonie. Nuova-
@@ -37,7 +37,7 @@ Da quali angeli mosse e di qual spera (seconda parte) " 7
 Occhi miei dolci e più che stell'ardenti, dal cui divin splendore 8
 
 Quando per mio destin fia, lasso, mai (seconda parte) 9
-Treccie di fila d'or, crespe e lucenti, a seta ct ambra fina e tersa eguali 10
+Treccie di fila d'or, crespe e lucenti, a seta et ambra fina e tersa eguali 10
 
 Voi fra tanti altri fregi, onde se adorno (seconda parte) 11
 L'aura, che'l verde lauro et l'aureo crine soavemente sospirando move (Petrarca) :;

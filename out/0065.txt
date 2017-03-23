@@ -3,9 +3,9 @@ A 4. Chi non è, Iesu, teco sempre in croce conf-itto 2,2,
 " " Vinca'l tuo immenso amor, Signor, la mia impietate 23
 " " Già fu presa da te la mia alma, Iesu 24
 " " Non è cibo alcun più grato, più soave, nè migliore 25
-" " Dispost'ho di scguirti, Iesu speranza mia 26
+" " Dispost'ho di seguirti, Iesu speranza mia 26
 
-A2. Poiche'l cor mi slring'et serra per la crudel mia pena. A due voci et si risponde
+A 2. Poiche'l cor mi slring'et serra per la crudel mia pena. A due voci et si risponde
 [a 4. ad ogni stanza Prego te dolce Maria 27
 A 4. Tiraci su, amor Iesu 28
 " " Benedetto sia lo giorno, amor 29
@@ -31,8 +31,8 @@ ore cani. In Roma per gli heredi di Antonio Blado stampatori camerali. L'anno 15
 "Sono già alcuni anni che... io mandai fuori il Primo Libro delle Laudi, nelle quali attesi a
 scrvare una certa simplicità, che alle parole medesime, alla qualità di quel divoto luogo, et al
 "il? fine, che era solo di cccitar divotione pareva si convenisse. Ma essendosi poi tuttavia l'Ora-
-tonosuddetto (di S. Girolamo) per gratia di Dio venuto accrescendo, co'l concorso di Prelati, et
-Îſintil'huomini. principalissimi, è parso a me conveniente di accrescere in questo Secondo Libro
+tonosuddetto (di S. Girolamo) per gratia di Dio venuto acerescendo, co'l concorso di Prelati, et
+Îſintil'huomini. principalissimi, è parso a me conveniente di acerescere in questo Secondo Libro
 
 armonia et 1 concenti, variando la musica in diversi modi... intrigandomi il manco ch'io ho
 potuto con le fughe et con le inventioni, per non oscurare l'intendimento de le parole... Roma,
@@ -55,5 +55,4 @@ Iubilate Deo. Psalmus 13
 Quemadmodum desiderat cervus. Psalmus 12
 Deus misereatur nostri. Psalmus 18
 
-_57_
 

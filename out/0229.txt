@@ -2,7 +2,7 @@ A 4. chzosa pargoletta, ch'hai del mio cor l'impero 16
 
 A 5. Non parto no, cor mio, che non si può partire 17
 " " Ch'io canti, ohimè ch'io canti, prega la bocca vaga 19
-" " Se la doglia e'] martire non può farmi morire (Marino) 21
+" " Se la doglia e'l martire non può farmi morire (Marino) 21
 " " Languisco, ardo e sospiro e con note dolenti 23
 " " Crudel, se vuoi ch'io mora mi contento morire 25
 PL-GD: 5.
@@ -34,7 +34,7 @@ A 5. Sentite, o donne care, l'arme ch'amor è andato a ritrovare 1
 " " Io son farfalla e voi sete la luce 17
 " " Ho inteso a dir da molti che lo sanno chc'l cigno 18
 " " Solo e pensoso (: fuor d'ogni sentiero vo lagrimand'ogn'hor 19
-" " Io. moro ct ella ride et del mio mal non cura 20
+" " Io. moro et ella ride et del mio mal non cura 20
 A 6. Tlchi roche tichi toch. Apatalcna zoia mia. Moresca 21
 
 I-VEaf: compl,
@@ -44,7 +44,7 @@ n. asso continuo 'del padre bacciliere Gio. Battista Bianchi da Genova agosti-
 lano.- Dedicatl all'illustrissima signora Livia Grilla Opera Prima. In Bologna
 per Glacomo Monti. 1675. Con licenza de' Superiori.
 
-4 fasc. in 8° (C.l°, C.Z°, B., BG),
+4 fasc. in 8° (C.l°, C.2°, B., BG),
 
 _ a . 38 1. Ded.: ((..L'essersi com iacciuta d'amett r '
 sua se-l'Vltu... ", p g '< ) P , €. mi alla
@@ -56,5 +56,4 @@ A 3. Lusso, perchè mi fuggi s
 Io mor " - '
 O. cccho ch IO moro, bella ncmlca mia (Marino) 1
 
-_221_
 

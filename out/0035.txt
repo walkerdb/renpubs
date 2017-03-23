@@ -27,12 +27,12 @@ Balletto del Prencipe di Savoia. Quale cantò ]a sudetta Signora 6
 
 e festino di S.A. Serenis. 8
 " " Amerai tu, mio core, chi non ama il tuo amore? Aria 9
-" " Ahi Lidia, non credevi a la mia fiamma. Credcmi questo che da gl'occhi 10
-" " Provo in amore gioia e dolorc et in un sento pena e contento. Aria. Parole del
+" " Ahi Lidia, non credevi a la mia fiamma. Credemi questo che da gl'occhi 10
+" " Provo in amore gioia e dolore et in un sento pena e contento. Aria. Parole del
 
 sig. Giulio Cesare Riccio di Cuneo 11
 " " Qual vaga aurora, miro tal'hora scherzar ne primi albori. Aria. Parole del medesimo 12
-A2. Mentre ch'io servo a voi, Vergine bella, vive quest'alma. Aria spirituale. Per la
+A 2. Mentre ch'io servo a voi, Vergine bella, vive quest'alma. Aria spirituale. Per la
 
 sig. Isabella Pongini figlia del sig. Capitano 13
 " " Alma, che scorgi tu tanto di bel qua giù, ch'al ciel non miri. Aria spirituale. A
@@ -69,5 +69,4 @@ A 1. Tu sei figlia del sole e scendi (terza parte) 24
 A 2 e lascia, Nisa, il pianto. Licori sola (sesta parte) 26
 . Deh lascra, Nisa, il pianto. (settima parte) 27
 
-_27__
 

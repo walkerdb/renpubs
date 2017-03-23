@@ -1,7 +1,7 @@
-A3. Ahi per uscir di pene morir pur mi conviene 3
+A 3. Ahi per uscir di pene morir pur mi conviene 3
 
 " " Nè amor sì acuti strali, nè la face 4
-" " Fillidc mia, de la tua bianca mano 5
+" " Fillide mia, de la tua bianca mano 5
 " " Al nascer mio per sort'iniqu'e lella 6
 " " Uscite :| rimirar, ninfe e pastori (Marino) 7
 " " Schcmn qui leggiadri amori, cantan 8
@@ -10,9 +10,9 @@ A3. Ahi per uscir di pene morir pur mi conviene 3
 " " [ vostri dolci sguardi mille saette son. son mille dardi 11
 " " Felice chi vi mira, ma più felice chi per voi sospira (Guarini) 12
 " " Io ardo e l'ardor mio vien di tant'alto e sì nobil desio 13
-" " Ahi Filli, non crcdcvi alla mia fiamma 14
+" " Ahi Filli, non credevi alla mia fiamma 14
 " " Pilli. nel tuo partire non m'è grave il morire, ma sol mi duol IS
-A4. Non più saette ardenti, non più strali pungenti 16
+A 4. Non più saette ardenti, non più strali pungenti 16
 n " Son sì belle le rose ch'in voi natura pose (Grillo) 17
 A 5. Occhi belli, occhi sereni, vita sol della mia vita. Aria (Comite) 18
 

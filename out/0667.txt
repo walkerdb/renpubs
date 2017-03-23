@@ -6,7 +6,7 @@ A L Per tue gioie, o mondo misero. miei pensier unqua non risero. Vita solitaria
 " " lo v'adoro e non v'amo, vi temo e non vi bramo 43
 " " Spesso mutano stanza i nostri cori, amorosi passaggi. Dialogo: Cloride e Tirsi 48
 " " Fortunato cantore, tu l'aquila di Giove eccelsa. Dialogo: Filli e Tirsi 54
-A3. Son tutto ardore e non ho tanto ardire, misero me, di dire. Amante timido 62
+A 3. Son tutto ardore e non ho tanto ardire, misero me, di dire. Amante timido 62
 " " Gran follia di pittor, cieco fanciullo alato vuol tlipinger amor 64
 GB-Och.
 
@@ -19,7 +19,7 @@ centi. 1639.
 
 4 fasc. in 8° (C.T.B. pag. 29; Bc. pag. 68). Ded., Venetia, 12 VII 1639.
 
-A 1. La bella Erinna sulle spondc amenc 1
+A 1. La bella Erinna sulle sponde amenc 1
 " " Pria che a me desse in dono la mia Clori 5
 " " Mora chi non t'adora, o bella 3
 " " Non m'allettano sguardi, nè le parole 9

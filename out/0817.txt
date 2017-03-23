@@ -40,7 +40,7 @@ A 1. Ahi se pur vostro son, deh perchè tanto diversi son. Ruggiero. Tenore 43
 " " Anzi crescerà sempr'il mio gran foco (quarta parte) " 53
 " " Qui tra l'ombre del bosco al ſont'al rio te sovente. Ruggiero. Soprano 55
 " " Qui tra l'onda corrente arsi'l cor mio (seconda parte) 56
-" " te sospirai, mio ben, e'] gran desio (ter-1.3 parte) 58
+" " te sospirai, mio ben, e'l gran desio (ter-1.3 parte) 58
 " " E qui forse moria, ma tu mia vita (quarta parte) 59
 " " Bella Clori sdegnosetta, ch'a bei rai di tua beltà. Aria prima. Soprano 61
 
@@ -58,5 +58,4 @@ A 1. Ahi se pur vostro son, deh perchè tanto diversi son. Ruggiero. Tenore 43
 
 " " Mia nemica già si muore chi t'nffese. Hor se ti piace. Aria nona " 74
 
-__809_
 

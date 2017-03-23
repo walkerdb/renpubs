@@ -15,7 +15,7 @@ A l e Bc. Dilataverunt super me
 " " " " Proba me Deus 21
 " " " " Memor fui dierum 22
 Airs italiens
-" " " " Se la doglia e'] martire non può farmi morire (Marino) 24
+" " " " Se la doglia e'l martire non può farmi morire (Marino) 24
 " " " " Sospir, che dal bel petto di madonn'esci fuore " 25
 " " " " Temer, donna. non dei ch'io scopra altrui giamai " 26
 " " " " Quel neo. quel vago neo. che fà d'aurate fil'ombra " 27
@@ -31,7 +31,7 @@ Airs francais:
 " " " " Que fcrons nous mon pauvre coeur 36
 " " " " Graves tcsmoins de mes delices 37
 " " " " Vous me l'aviez bien dit 33
-" " " " Quoy Clorindc ru pars 39
+" " " " Quoy Clorinde ru pars 39
 " " " " Tu te trompes Phillis 40
 " " " " lay veu le point du jour. Aubade 41
 " " " " Ne crains point le soleil. Serenade 42

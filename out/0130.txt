@@ -2,7 +2,7 @@ Bene mio, tu m'hai lasciato senza Speranza 19
 Caro, dolce ben mio, perchè fuggire chi v'ama (Celiano) 20
 Chi sen tu, che girando l'aurea face d'amor (Guarini) "
 
-I-MOc: compl.
+I-MOe: compl.
 I-Rsc: compl.
 PL-GD: compl.
 
@@ -60,5 +60,4 @@ Ma se malcauto impegno. Axia }?
 
 Senta o non senta amor. Aria
 
-__]ZZ__
 

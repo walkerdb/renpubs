@@ -3,7 +3,7 @@ AZ. Torna di novo alla sua fiamma antica il mio doglioso cnr 15
 A 3. Negatemi pur, cruda. de bei vostr'occhi il sole (Guarin;) 16
 AZ. Flora, più vaga e bella del sol e d'ogni stella. e più serena ancora 17
 " n Correte pescatori a i liti, correte alle barche, alle reti 18
-A 1. Har ch'amorosi accenti spiran la terra e'] cielo, pastor tu che paventi 19
+A 1. Har ch'amorosi accenti spiran la terra e'l cielo, pastor tu che paventi 19
 A 2. S'io sospiro e s'io piango e s'a ragion mi doglio 20
 " " Alla luce, alla luce, alla mia candida aurora, tornate pastorelle 21
 A 3. Lacrimosa pietà, chi più consolami, bar che l'altrui dolor 22
@@ -42,7 +42,7 @@ A 1. Aurilla, mia quando m'accese quel vivo raggio di tua beltà 3
 A 2. La vita alberga dov'è bellezza, ma l'empia maga che l'alm'impiaga 4
 A 3. L'onda, che limpida, soave mormora lascia e qui vientene 5
 A 1. Ite, sospiri miei, a ritrovar colei che nel suo petto 5
-A2. Non lun-en Febo ancora recato al mondo il di che del suo albergo (Rinuccini) 7
+A 2. Non lun-en Febo ancora recato al mondo il di che del suo albergo (Rinuccini) 7
 " " Deh Filli, vientene ove tra i platani rive bellissime 8
 A 1. Figlio dormi, dormi figlio, china'l ciglio, caro figlio 9
 A 2- D'una guancia alma, ridente, ch'arrossir fà in ciel l'aurora (Rinuccini) 10
@@ -57,5 +57,4 @@ A 2. Per pietà delle mie pene il mio bene, il mio amor mi dona un fiore 18
 " " Belle ninfe al prato, al prato. Non tardate ecco l'aurora 19
 " " Non sa che sia dnlor chi non ha'l mal d'amor 20
 
-_361_
 

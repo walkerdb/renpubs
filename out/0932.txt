@@ -3,7 +3,7 @@ A 3. Non te fidare de satiro che magnia 5
 " " Basta, madonna mia, che lu pensavi di vender le vesiche al m::cellaro 7
 " " Se tu non mi voi ben, o faccia penta 9
 " " Come t'haggio lassata, o vita mia, se socchi belli ]]
-" " Chi me l'havesse dctt'o vita mia, che senza tene 13
+" " Chi me l'havesse dett'o vita mia, che senza tene 13
 " " Son morto e moro e pur cerco morire, nè per tanto morir 15
 " " Io piango et cll'il volto suo mi volta 17
 " " Amor pictad'hormai al mio martire 19
@@ -12,11 +12,11 @@ A 3. Non te fidare de satiro che magnia 5
 " " Donna crude], tu m'hai robat'il core e mai non manchi 25
 " " Canzona mia, farne no favore, \'atenc dritl'a la signora mia 27
 " " Voria che tu cantas'una canzona quando mi stai sonando la viola D
-" " S'io canto e tu mi spacci per cicala ct ti fai beffe delli versi mei 31
+" " S'io canto e tu mi spacci per cicala et ti fai beffe delli versi mei 31
 " " Ogni villano è ric'ct io mcschino scmpr'ogni giorno 33
 " " Bona sera, como stai, core mio bello, da l'autro giorno 35
 " " Tu, traditora, m'hai post'a sto core no focolaro 37
-" " Se Dio ti guardc non mi far morire, dami la vita 39
+" " Se Dio ti guarde non mi far morire, dami la vita 39
 " " La manza mia si chiama saporita tantarara et io ci'ho fatto fare 41
 " " Letra traitora, tu mi fai morire con socchi pinti 43
 D-LEm: C.
@@ -34,7 +34,7 @@ eccellenti musici. Libro Secondo. In Roma per Valerio Dnrico. 1558.
 USSR-Lsc: T.
 RISM, I 1558-16.
 
-1477 - De LASSUS Roland (1581) - Libro de Villanelle, Morcsche, ct altre
+1477 - De LASSUS Roland (1581) - Libro de Villanelle, Morcsche, et altre
 Canzoni, a 4. 5. 6. et 8. voci. Di Orlando Di Lasso. In Parigi. Per Adriano le Roy
 et Roberto Ballard. Stampatori Regij 1581. Con privilegio de sua magestà per
 dieci anni.

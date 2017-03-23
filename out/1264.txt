@@ -4,7 +4,7 @@ A 2. Ecco ch'un'altra volta, o piagge apriche, udrete il pianto (Sannazzaro) 11
 " " O bella Clori, Clori mia bella, fiamma novella di mille cori H
 A 3. Mesta ti scorgo e pallida figura, darmi gli ultimi baci 16
 A 1. Anima eletta, che col tuo fattore-ti godi assisa (Sannazzaro) 17
-A 3. Con esperancas espero que'] galardon se me dè. Spagnuola
+A 3. Con esperancas espero que'l galardon se me dè. Spagnuola
 
 A 2. Così di ben amar porto tormento. Con una Sinfonia (Petrarca) 19
 
@@ -15,7 +15,7 @@ GB-Lbm
 
 2044 - NOVELLO Lodovico (1546) - Mascharate di Lodovico Novello di più
 sorte et varii soggetti apropriati al carnevale novamente da lui composte et con
-diligentia stampate ct corrette Libro Primo a quatro voci Venetiis apud Antonium
+diligentia stampate et corrette Libro Primo a quatro voci Venetiis apud Antonium
 
 Gardane. 1546.
 
@@ -50,7 +50,7 @@ A 4. Quattro hebbree madonne siamo, belle assai, giovani et fresche. Da hebbrec 
 " " Lavoriam con il martello :\ doi, a tre. Residuum 22
 " " Noi siamo portatori de perfeti et boni vini. Da portatori de vini 23
 " " Spazzature, o donne care, da botton di brusco havemo. Da villoti che vendan scope 24
-" " Chi ha bacini et candelieri ct secchi. donne, da conzarc. Da eonza bacini 25
+" " Chi ha bacini et candelieri et secchi. donne, da conzarc. Da eonza bacini 25
 
 " " Sallata, donne, insallata de più sorte. herbett'et fiori. Da villotti che vendan sallata
 

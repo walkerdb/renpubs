@@ -51,9 +51,9 @@ A 6. Se per farmi lasciar la bell'impresa mi mostrate, madonna (Sannazzaro) 27
 " " L'incostantia che seco han le mortali cose cagion è sola (Giraldi) 33
 " " Poi ch'è apparsa l'aurora, tosto vedrò il mio sole 34
 
-A 8. Che dcbb'io far? Dialogo
+A 8. Che debb'io far? Dialogo
 
-I-MOc: A.T.B.5.
+I-MOe: A.T.B.5.
 
 __]72-
 

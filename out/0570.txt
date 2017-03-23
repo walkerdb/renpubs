@@ -4,7 +4,7 @@ A 5. Dolor, perchè mi meni fuor di camin (Petrarca) 3
 " " Nè'l verde, bianco, giall'o scur'o perso, nè l'aumlo colore 5
 " " Bianca neve il bel collo, il peuo latte, il collo tondo (Ariosto) 6
 " " Alma felice, che sovente torni a consolar {Pen-um) 7
-" " Là, ovc cantand'andai di te moli'nnni (seconda parte) " 8
+" " Là, ove cantand'andai di te moli'nnni (seconda parte) " 8
 " " Occhi miei lassi, mentre ch'io vi giro " 9
 " " Fontana di dolore. albergo d'ira, scola d'errori " lU
 " " Fondat'in cast'et humil povertate (seconda parte) " 10
@@ -33,7 +33,7 @@ GB-LI: T.
 
 I-Bc: T.
 
-I-MOc: B.
+I-MOe: B.
 
 859 - DORATI Nicolò (1559) - Di Nicolo Dorati li Madrigali a cinque,.a sei,-%
 sette et otto voci. Libro Secondo novamente da lui posti in luce, et delli suor prOPſ']

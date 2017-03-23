@@ -7,9 +7,9 @@ A 5. l'attens le lems ayant ferme esperance
 " " Puis qu'en mon mal 32
 " " Tu le veux bien. Response 33
 " " O foible esprit, chargé de tant de peines (]. du Bcllay) 33
-" " O icune archcr (seconde partie) " 34
+" " O icune archer (seconde partie) " 34
 " " Ardant amour souvent 34
-" " Au tcms iadis amour s'entretenoit 35
+" " Au tems iadis amour s'entretenoit 35
 " " Las me faut il tant de mal 35
 " " Elle s'en va de moy la mieux aymée (Marat) 36
 " " Est il possible a moy pouvoir trouver 36
@@ -19,7 +19,7 @@ A 5. l'attens le lems ayant ferme esperance
 " " Puis que fortune a sur moy 38
 
 " " Helas i'ay sans mercy les soucy et la pensee 39
-" " Le rossignol plaisant ct graticux 39
+" " Le rossignol plaisant et graticux 39
 A 6. Mais qui pourroit estre celuy 40
 
 " " Si mon gentil Francin (seconda parte) 41
@@ -44,7 +44,7 @@ D-W: compl.
 GB-Lbm: S., Contr., S. e 6.
 S-Uu: Contr. B.
 
-Bocttichcr 801.
+Boctticher 801.
 
 RISM, I 1592-9 (non compl.).
 
@@ -68,7 +68,7 @@ D-KNu: T.B.
 GB-Lbm: S. (difettoso).
 I-BGc: Contr.
 
-Bocttichcr 804.
+Boctticher 804.
 
 RISM, I 1596-7 (non compl.).
 

@@ -10,7 +10,7 @@ RISM, I 1560-17.
 
 1407 - DE LASSUS Roland (1562-1) - Orlando di Lassus li Madrigali a quatro
 voci, Libro Primo. Nuovamente ristampati et con alcuni Madrigali et Canzon
-d'altri autori aggionti, ct con ogni diligentia corretto. In Vcncgia, appresso Giro-
+d'altri autori aggionti, et con ogni diligentia corretto. In Vcncgia, appresso Giro-
 lamo Scotto. 1562.
 
 4 fasc. in 8° obl. (C.A.T.B.), c. 16. Indice = 1560-2.
@@ -18,7 +18,7 @@ lamo Scotto. 1562.
 D-Mbs: compl.
 E-V: compl.
 E-E: T.
-Bocttichcr 750.
+Boctticher 750.
 RISM, I 1562-17.
 
 1408 - DE LASSUS Roland (1562-2) - Di Orlando di Lassu_s il Primo Libro di
@@ -43,6 +43,6 @@ voci. In Venetia appresso di Antonio Gardano. 1565.
 GB-Lbrn: compl.
 D-Rp: A.D.
 I-Bc: C.
-Boettichcr 753.
+Boetticher 753.
 RISM, I 1565-14.
 

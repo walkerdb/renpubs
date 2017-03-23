@@ -11,12 +11,12 @@ I-Bc
 PL-WRu
 
 2347 - RIGHETTI Antonio (1614) - Di Antonio Righetti da Bagnacavallo il
-Primo Libro de Madrigali a tre voci. Novamente composti, dati in luce. ct dedicati
+Primo Libro de Madrigali a tre voci. Novamente composti, dati in luce. et dedicati
 al molto illust. sig. et patron mio osservandiss. il capitanio Agostin Giorgio Tatio
 Simonetta da Corinaldo. Stampa del Gardano in Venetia. Acre Bartholomie
 Magni 1614.
 
-3 fasc. in 8° (C.l°, C.Z°, B.), pag. 21,(1). Ded. ad Agostin Giorgio Tatio Simonetta da Corinaldo:
+3 fasc. in 8° (C.l°, C.2°, B.), pag. 21,(1). Ded. ad Agostin Giorgio Tatio Simonetta da Corinaldo:
 _ "Quando V.S. Molto lllust. già guarì tempo si degnò venire a ritrovarmi a Lonzano insieme
 per conoscere il Padre Maestro Giulio Belli mio precettore, et musico di quella stima ch'il
 mondo sà... Venetia, 1° II 1614 "
@@ -29,7 +29,7 @@ Gli occhi chiudete, amanti. Lungi sian da costei 5
 Filli mi mira e fugge, Filli con varia sone 6
 Veggio il bel vostro viso et odo il canto angelico ;
 
-Donna, il vedervi e'] non vedervi, ahi lasso, par che tormento e morte
+Donna, il vedervi e'l non vedervi, ahi lasso, par che tormento e morte
 
 Pilli fuggendo altrove, sdegna chc'l sol la tocchi 9
 Qual'hor Filli gentile tre volle e quattro e sei giungi pictosa 10
@@ -48,5 +48,5 @@ Fra'l candore e le brine di bella gola amor le pose ;?
 
 Pargolettn gentil, chi vi dipinge, arrivala ov'arrivar può l'arte
 
-I-Bc : C.Z°.
+I-Bc : C.2°.
 

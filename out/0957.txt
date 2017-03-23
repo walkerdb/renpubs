@@ -11,7 +11,7 @@ I-Bc: compl.
 voci di Guglielmo Liparini bolognese, discepolo di Tiburtio Massaino cremonese.
 Novamente composte, et date in luce. In Vccntia. Appresso Giacomo Vincenti. 1600.
 
-3 fasc. in 8" (CI", C.Z°, B.), pag. 21,(1). Ded. a Hercole Galeralî, Venetia, 1" V 1600.
+3 fasc. in 8" (CI", C.2°, B.), pag. 21,(1). Ded. a Hercole Galeralî, Venetia, 1" V 1600.
 
 Chi non ha visto aperto il paradiso 1
 Tante ghirlande 2
@@ -21,7 +21,7 @@ Io son gionto alla morte 5
 Occhi, voi fat'in terra 6
 O volto che non solo 7
 Chi vuol veder duoi fiumi 8
-Quando sperai del mio servir mercedc e'l guiderdon della mia pura 9
+Quando sperai del mio servir mercede e'l guiderdon della mia pura 9
 Chi vuol veder d'inverno un dolce aprile lO
 Signora, quand'alzate gl'occhi al cielo ſann'un effetto 11
 Bella mia Filli, i tuoi dolci coralliſila tua soave lingua 12
@@ -43,7 +43,7 @@ Venetia, appresso Giacomo Vincenti. 1605.
 
 3 ſasc. in 8° (C.1°, C2", B.), pag. Z],(1). Ded. di Frate Lauro Felite (sic) Scappi da Milano a
 Padre Oratio Vimercati, Sanscverini Lettore di S. Theologia, nel Convento di S. Agostino di
-Crema, e Prcdicalorc Eccellentissimo: " ...essendomi capitato alle mani il secondo Libro delle
+Crema, e Predicalore Eccellentissimo: " ...essendomi capitato alle mani il secondo Libro delle
 Canzonette à Tre voci di Guglielmo Liparini, ho voluto darlo alle stampe... Venetia, 22 111 1605 ".
 
 Chi mi sente cantar per certo dice: non è di questo al mondo più felice 1
@@ -52,5 +52,4 @@ O marc, o fiumi e fonti, o valli e piaggie e monti. venite a rimirarc 3
 Gl'occhi d'Aurelia mia per cui sta in vita, e le braccia e le man 4
 Clori gentil, che sol'a gl'occlti miei esca amorosa sei 5
 
-._949_
-
+.

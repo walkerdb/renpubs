@@ -4,9 +4,9 @@ A 5. In un picciol boschetto (quarta stanza) (Manno) 6
 " " Così scioglie col cuore (sesta stanza) " 9
 " " Restò il pastor amante stupido (settima stanza) " 10
 " " Le confuse parole restar (ottava stanza) " "
-A4. Al fin le braccia stende (nona stanza) "
+A 4. Al fin le braccia stende (nona stanza) "
 
-A3. L'una e l'altr'alma beve (decima stanza) n 11
+A 3. L'una e l'altr'alma beve (decima stanza) n 11
 A 4- Son le labbia infiammate (undccima stanza) n 13
 A 5- Bascia e ribascia e fugge (dodicesima stanza) " 14
 " " Ella vezzosa e lieta hor (tredicesima stanza) " 15
@@ -15,7 +15,7 @@ A 5- Bascia e ribascia e fugge (dodicesima stanza) " 14
 " " Beata mort'e cara ai cuor (sedicesima stanza) "
 
 " " Al matutin vento tremolavan (diciassettesima stanza) " 19
-A6. Va inculta pargoletta a la mia (diciottesima stanza) - " 20
+A 6. Va inculta pargoletta a la mia (diciottesima stanza) - " 20
 A 5. lo vo cercando et non posso trovare quell'unico mio ben. Napolttana 21
 " " Qucfla passion d'amore quanti n'atterra con la sua gelosia 22
 " " Viver non posso senza il mio bel sole, così mia sorte vole B

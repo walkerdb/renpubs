@@ -8,14 +8,14 @@ A 1. Raccogli in giro quei vaghi e belli 1
 " " Quanto la donna mia l'altre in bellezza 2
 " " Stava Olindo assiso a fronte d'un bel fonte 3
 " " Un lampo amabile priggion mi fà, un cor instabile morte mi dà 4
-A2. Foss'io quel rossignolo, euro ad Elpinio (Marino) 5
+A 2. Foss'io quel rossignolo, euro ad Elpinio (Marino) 5
 A 1. S'alcun vi giura, cortesi amanti
 
 " " L'aurate fila ammiro del vago crin 9
 " " Sì dolce è'] tormento che in seno mi sta, ch'io vivo contento 10
 " " Soavi e cari lumi, occhi che tanto "
 AZ. Ferma, ferma, ah non percotcre 12
-A1. Non sa che sia diletto chi non prova 13
+A 1. Non sa che sia diletto chi non prova 13
 " " Sì ch'io vorrei fuggire, donna senza pietà, da la tua crudeltà 14
 " " Hor ch'aprile il mondo adorna 15
 " " Signor, fin dove il mar. Sonetto 16
@@ -28,7 +28,7 @@ A 1. Ardor inestinguibil intorno al cor 20
 " " Arde di mortal sete egro languente 27
 " " Gradita libertà pur ricovrato 23
 " " Donna crude], che pensi tu 29
-" " Dch scoprite colorite, fresche ros'il vostro seno 30
+" " Deh scoprite colorite, fresche ros'il vostro seno 30
 AZ. Sento lo stral, che m'ha piagato. Di Gio. Bauma Barciſ-mi 31
 A 1. Che vai cercando, Aminta, nel fiorito giardino. Dialogo. 32
 F-Pc

@@ -26,7 +26,7 @@ D'herba mi pasco (seconda parte) 5
 Di rami in rami, poi (li frondi in frondi (Cassola) 6
 Dell fcrm'amor coslui, che così sciolto dinanz'al (Ariosto) 7
 Donna, forz'è ch'io pensi (0355013) 8
-Clic debbo far, che mi consigli amorc (Petrarca) 9
+Clic debbo far, che mi consigli amore (Petrarca) 9
 Dell dove senza me, dolce mia vita, rimasa sei (Ariosto) lÛ
 
 Dove speranza mia, (lov'hora sei (seconda parte) )) 11
@@ -35,7 +35,7 @@ Poi che'l mondo non crede 13
 Son certo che la rca a ognun direbbe 14
 Un sonar di bicchier 15
 Nympltc, che d'Arno in sulle spond'herbose 10
-E s'un tcmpo fortuna cmpia s'oppose 17
+E s'un tempo fortuna cmpia s'oppose 17
 Bianca ncv'è il bel collo, il petto latte (Ariosto) 18
 Madonna, io rido e camo però ch'io piansi (Cassola) 19
 Hot provo ben che più che ver'è il detto ZÛ
@@ -59,5 +59,5 @@ F-CC: C.
 
 I-Bc: T.
 
-I-MOc: B.
+I-MOe: B.
 

@@ -20,9 +20,9 @@ A 1. Cruda, pur mi lasciasti, nè di me più rammenti. Aria 35
 " " Non più con mesti accenti io narrcrò mia fè 47
 " " Ninfe vezzose, vaghe, amorose, ch'in fresche valli tra bei 48
 " " Dal tuo impero, cieco arciero, ah non vedi (Rinuccini) 49
-" " Aure vaghe, aure gioconde, che volate, che schcrzate 50
+" " Aure vaghe, aure gioconde, che volate, che scherzate 50
 " " Che fai tu, che dì tu, vita mia? Per quai piaggie a coglier 51
-A2. Dolce auretta, ch'a l'herbetta sospirando vai nel seno 52
+A 2. Dolce auretta, ch'a l'herbetta sospirando vai nel seno 52
 " " Chi dai lacci d'amor. Aria di Romancsca (Rinuccini) 53
 " " Superbo no, d'oscura nuba (seconda parte) " 54
 " " S'hor non senti d'amor (terza parte) " 55
