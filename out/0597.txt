@@ -31,7 +31,7 @@ A l'ombra d'un bel faggio scorgo una ninfa bella L9
 
 A-Wn : compl.
 
-899 _- FAA' Orazio (1571) - Di Horatio Faa gentil'huomo di Casale di Monferrato
+899 - FAA' Orazio (1571) - Di Horatio Faa gentil'huomo di Casale di Monferrato
 11 Secondo Libro de Madrigali a cinque, et a sei voci, con due Dialoghi, uno
 a otto, et l'altro a dieci, novamente da lui composti et dati in luce. In Venetia
 apressoli figliuoli di Antonio Gardano. 1571.
@@ -52,5 +52,5 @@ A 5. Gridò più volte il Po: quest'onde, o donna. a te rivolgo 1
 " " ' Che potrà dir chi per amor sospira (seconda parte) " 7
 " " S'io t'ho ferito, ahimè, non t'ho già morto. Risposta alla stanza [0 son ferito ahi lasso 8
 
--589_
+-589
 

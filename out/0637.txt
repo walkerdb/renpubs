@@ -22,7 +22,7 @@ D-Bds: 5.
 
 Un esempl. non compl. (C.A.T.5.6.) esisteva nella Collezione Heyer di Kòln.
 
-96_8 - FERRO Giulio (1594) - 11 Primo Libro de Madrigali a cinque voci, di
+968 - FERRO Giulio (1594) - 11 Primo Libro de Madrigali a cinque voci, di
 Giulio Ferro d'Urbino, novamente composti et dati in lucc. In Venetia appresso
 Ricciardo Amadino. 1594.
 
@@ -51,5 +51,5 @@ A 5. Di stirpe gloriosa o chiaro germe, in cui han l'erranti virtuli 1
 ' \ u n .
 " " Ron è questa la mano, che tante et Sl mortali aventò. Dt Ple-r Mat/co Ferro (Tassn) 17
 
--629_
+-629
 

@@ -27,7 +27,7 @@ US-BE: T.
 
 RISM, I 1545-18 (non compl.).
 
-l_64 - ARCHADELT jacques (1544) - Archadelt. Il Quinto Libro di Madrigali
+l64 - ARCHADELT jacques (1544) - Archadelt. Il Quinto Libro di Madrigali
 di Archadelt a quatro voci novamente Stampato et posto in luce a quatro voci.
 Vcnet1]s apud Antonium Gardane. 1544.
 

@@ -48,7 +48,7 @@ I-Bc: A.6.
 I-Fn: A.
 GB-Lbm: A.
 
-2823 _. VECCHI Orazio (1598) .. Convivium musicale Ho
+2823 . VECCHI Orazio (1598) .. Convivium musicale Ho
 Ternis, quaternis, quinis, senis, septenis, et octoms voc1bus.
 Kauffmanni. 1598.
 

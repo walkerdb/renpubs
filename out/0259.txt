@@ -18,10 +18,10 @@ BONTEMPI Giovanni Andrea
 Cfr.: ANGELINI BONTEMPI Giovanni Andrea.
 
 399 - BONZANINI Giacomo (1616) - Capricci musicali per cantare, e suonare
-:_! quattro voci. Di Giacomo Bonzanini mantovano. Novamente composti, et dati
+:! quattro voci. Di Giacomo Bonzanini mantovano. Novamente composti, et dati
 in luce. In Venetia, appresso Giacomo Vincenti. 1616.
 
-5 fasc. in 8° (C,A,T_B, Partitura), pag. 37,(1). Ded. del figlio dell'autore, Mario Bonzanini, al
+5 fasc. in 8° (C,A,TB, Partitura), pag. 37,(1). Ded. del figlio dell'autore, Mario Bonzanini, al
 Cardinale di Trento, Venezia, 20 VII 1616.
 
 Sinfonia prima francese I
@@ -45,7 +45,7 @@ Sinfonia quarta "
 Dmc" sospiri, dolci martiri, dolci cercate mercè, pietate 18
 Gagliarda sesta
 
-_ 1
+ 1
 
 Vita .della mia vita 2-3
 Gagliarda settima 21

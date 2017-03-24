@@ -39,8 +39,8 @@ Se da quel vago viso non posso involar baci (Celiano) 25
 
 GB-Lbm: compl,
 
-{'ES: g.B.5. difett. (C. pag, 1-6; B. Pilg- 15_16, 23-26; S png 5-8, 13-14)
-- c: _
+{'ES: g.B.5. difett. (C. pag, 1-6; B. Pilg- 1516, 23-26; S png 5-8, 13-14)
+- c:
 
 l'an: 5.
 
@@ -56,7 +56,7 @@ dano, 1598.
 Venetia, 1° X 1598
 
 :: Fn"; n::iîoî; fasi:? lîszialr devete, anzi al partir 1
-Se gli occhi ;, vostri ic; 1. oce_honesto conversar 2
+Se gli occhi ;, vostri ic; 1. ocehonesto conversar 2
 Chi sa che il bel Tirintoglio' "1" Sl dolente ' ' 3
 Ma ecco già che la Djîra e stelle non min 4
 

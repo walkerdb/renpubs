@@ -31,7 +31,7 @@ Ardi e gela a tua voglia, perfido et impudico (seconda parte) " 21
 I-MOe: compl.
 GB-Lbm : C.A.T.B.
 
-l_980 - MOSTO Giovanni Battista (1595) - Di Giovan Battista Mosto maestro
+l980 - MOSTO Giovanni Battista (1595) - Di Giovan Battista Mosto maestro
 di capella del serenissimo prencipe di Transilvania, il Primo Libro de Madrigali
 a sel voci. Novamente composti et dati in luce. In Venetia appresso Angelo
 
@@ -49,7 +49,7 @@ Al dolce mormorare, che fan d'un fonte le cadenti stille 4
 Nacque d'un diamante Fillide bella e cruda 5
 Fuor di due labra usciro vaghe note amorose 6
 O sonno, o de la queta humid'ombrosa, notte placido figlio (Della Casa) 7
-_ Ov'è'l silentio che'l di fugge (seconda parte) " " 8
+ Ov'è'l silentio che'l di fugge (seconda parte) " " 8
 Disse Amarilli un giorno, lieta fissando in me soave il guardo 9
 
 - 1217 -

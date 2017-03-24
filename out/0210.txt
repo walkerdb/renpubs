@@ -1,5 +1,5 @@
 0 gran bontà de' cavallieri antiqui
-_ Ricordati, pagan, quand'uccidesti d'Angelica il fratel
+ Ricordati, pagan, quand'uccidesti d'Angelica il fratel
 All'apparir che fè all'improvviso
 Che debbo far, poi ch'io son giunto tardi
 Sia vile a gl'altri e da quel sol amata
@@ -49,7 +49,7 @@ Quando la vita per voi non sia cara
 Deh, vita mia, non vi mettete affanno
 Deh perché dianzi
 
-__ZOZ-
+ZOZ-
 
 (Ariosto)
 ))

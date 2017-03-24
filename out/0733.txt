@@ -18,7 +18,7 @@ La bella Clor'il mio conforto "(seconda parte) B
 D-Kl: compl.
 I-Nc: B.
 
-I_121 - GENVINO Francesco (1612) .- Madrigali a cinque di Francesco Genvino.
+I121 - GENVINO Francesco (1612) .- Madrigali a cinque di Francesco Genvino.
 Libro Terzo. In Napoli, appresso Gio. lacomo Carlino. 1612. Con licenza de'
 Superiori.
 
@@ -29,7 +29,7 @@ Bella.. poi che t'assenti, come ne porti il cor 4
 Occhi, solì d'amore pietosi a miei martiri, voi mi pascesle 5
 
 Luci care et amate. se'l min morir (seconda parte) 5
-H°ſ_Chc a noi rimena l'alma primavera la slagion (R*...) 7
+H°ſChc a noi rimena l'alma primavera la slagion (R*...) 7
 Io ndo, amami, io rido, ma i miei risi son pianti (Marino) 8
 QUîlndo l'alba novella si veste il crin di fior e si fa bella 9
 Occhi un tempo mia vila, occhi di questo cor (Guarini) ...

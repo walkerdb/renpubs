@@ -40,13 +40,13 @@ A 6. Muse del sacro Annio. destate un nm'o canto. A Don Antonio Londonio ::
 " " Alma Isabella. l'occhio e l'intelletto in gui-"appaga. A Isabella Londonia 5
 " " Tanto piacer prov'io, tanta dolcezza nel dolce vostro viso 6
 " " il piè \'ago mm'ea vezzosa pastorella, ch'in un sol. giro 7
-" " Stella lucida e pura, che nell'empireo ciel tuo raggio - _ 8
+" " Stella lucida e pura, che nell'empireo ciel tuo raggio -  8
 " " D'una terrena stella. che già mai non tramonta (Goselllnl) 9
 n " Penso tal hor come lucente stella corr'a mi sempre l'alma - 10
 " " Caro. dolce ben min. perchè fuggire chi t'ama (CCMM) Il
 n " Chi fia mai che mi sleghi da quel bel nod'ardente 12
 
-. . . . _
+. . . .
 " " Miser'alma. perche tanto sospiri? Per tropn lngord amore
 
 " " Marmo lui, che, percosso, gettai faville. Hor son vivo sembiante (Casone) {i

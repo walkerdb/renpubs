@@ -1,4 +1,4 @@
-323 _. BENEDETTI Pietro (1613) - Musiche di Pietro Benedetti nell'Accademia
+323 . BENEDETTI Pietro (1613) - Musiche di Pietro Benedetti nell'Accademia
 de gli Elevati di Fiorenza. Detto L'lnvaghito. Libro Secondo. Novamente poste in
 luce. In Venetia, 1613. Appresso Ricciardo Amadino.
 
@@ -63,7 +63,7 @@ A 1. Lascio del letto mio l'umide piume 3
 " " La mia donna lusinghiera ben cla to
 " " In qual parte del cel, in quale idea
 
-_- 198- .
+- 198- .
 
 (Petrarca) 4
 

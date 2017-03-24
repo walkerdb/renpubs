@@ -45,7 +45,7 @@ A 4. Signor il grido 1
 " " Chi "ol veder 32
 " " O empia gelosia 32
 " " Resia N. mia 3
-" " Per debolezza _
+" " Per debolezza
 
 - , - (Ariosto) 33
 A 4. Ella non sa se non in \an dolersi 34

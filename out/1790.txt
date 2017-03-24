@@ -5,7 +5,7 @@ A-Wn: compl.
 I-Bc: T.B.
 I-Fn: C.
 
-2859 _. VENTURI Pompilio (1579) - Il Secondo Libro delle Vilanelle a tre voci,
+2859 . VENTURI Pompilio (1579) - Il Secondo Libro delle Vilanelle a tre voci,
 di M. Pompilio Venturi da Siena, fatte in lode di molte signore, et gentildonne
 romane. Nuovamente poste in luce. In Vinegia, appresso Girolamo Scotto, 1579.
 

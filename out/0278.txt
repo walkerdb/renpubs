@@ -6,7 +6,7 @@ A 4. Mentr'il Metauro in se medesmo accolto 6
 " " Che giova posseder cittad'o regni et palagi habitar (Bembo) ... 1
 " " Ma che non giov'haver fedeli amanti (seconda parte) " 11
 " " Vaghi boschetti di scavi allori, di palm'et d'amenissime (AriostO) li
-" " Amor, perchè non fai ch'in sì crudel partita - _ b
+" " Amor, perchè non fai ch'in sì crudel partita -  b
 " " De la gran quercia, ch'il gran Tebr'adombra (Guarini) 11
 " " Pianta gentil, ne le cui sacre fronde s'annida b
 " " L'angelic'armonia ch'esce di voi sovente - li
@@ -57,5 +57,5 @@ iacea mes "
 
 I-Bc
 
-__270- "....
+270- "....
 

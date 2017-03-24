@@ -24,7 +24,7 @@ A 7. Liete e pensose, accompagnate e sole. Dialogo (Petrarca) 31
 
 I-VEaſ: A.S.6.
 
-I-Vnm: A_
+I-Vnm: A
 
 P-C: 6.
 
@@ -38,7 +38,7 @@ I-Bc: A
 
 I-VEal' : .6.
 
-355 - DONATO Baldassarre (1560) _- Di Baldassare Donato il Primo Libro di
+355 - DONATO Baldassarre (1560) - Di Baldassare Donato il Primo Libro di
 Madregali a cinque et a sei voci con tre Dialoghi a sette nuovamente per Antonio
 Gardano ristampato. In Venetia appresso di Antonio Gardano. 1560.
 

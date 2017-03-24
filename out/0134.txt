@@ -8,7 +8,7 @@ Quanto sia liet'il giorno, nel qual le cose. Di Ver-delo! (Machiavelli) 22
 Il blanc'e dolce cigno cantando more. Di Arc/mdc]! (Guidiccioni) 23
 Io vorrei pur fuggir, crudel amore. Del Corteccia 24
 Non v'ammirat'alma gentile e bella. Di Hippolito Camatcrò (Cassola) 25
-I p1u_ secreti boschi, gl'antri più ascosi. Di Francesco Bonrado (sic) de Pcrissone 26
+I p1u secreti boschi, gl'antri più ascosi. Di Francesco Bonrado (sic) de Pcrissone 26
 Il dolce sonno mi promise pace, ma l'amaro. Del Lupachino (AſÌOSſO) 27
 Pungente dardo, che'l mio cor consumi. Di Gine/ict Berchem 28
 I-FEc: compl.
@@ -19,8 +19,8 @@ PL-GD: compl.
 
 RISM, I 1589-12
 
-208__ BALLIS Oliviero (1607) - Canzonctte amorose spirituali a tre voci, di
-O11v1ero Ballls_ da Crema maestro di capella nel domo di Ceneda, novamente composte,
+208 BALLIS Oliviero (1607) - Canzonctte amorose spirituali a tre voci, di
+O11v1ero Ballls da Crema maestro di capella nel domo di Ceneda, novamente composte,
 et date in luce. lero Primo. In Venetia, appresso Alessandro Raverij. 1607.
 
 3 fasc. in 8°, pag. 16. Ded. a Monsig. Abbate Francesco Loredano, Venetia, 15 VI 1607.
@@ -54,5 +54,5 @@ Sappi che sei di terra e sei mortale
 D-As : compl .
 D-Hs : compl.
 
-__.126- A
+.126- A
 

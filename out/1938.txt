@@ -27,7 +27,7 @@ Mocenigo (Mozzenigo) Gerolamo. 1941, 2046. Morgani Tomaso. 815.
 Mochelozzi Geronimo. 1558. Moron Stampa Girolamo. 1961.
 Modena Antonio. 2351. Moroni Michele. 575, 2367.
 Moli Girolamo. 2730. Morosini Andrea. 2014.
-Molinaro Simone. 708 bis, 709 bis. 1173. Morosini Battista_ 664.
+Molinaro Simone. 708 bis, 709 bis. 1173. Morosini Battista 664.
 1177- Morosini Giacomo. 2014.
 Molino Antonio. 7541 1035- Morosini Giovan Francesco. 483, 2138, 2773.
 Molino Costantino. 2840' - Morosini Pietro. 2138, 2200.
@@ -62,5 +62,5 @@ Mulazza Tesaura Margherita. 1020.
 Moniga Angelo. 633. Musieta Gerolamo. 2148.
 Montagna Agostino. 502. Muti Faustina. 2858.
 
--45_
+-45
 

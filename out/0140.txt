@@ -9,7 +9,7 @@ Al spuntar di Flora tutt'il mond'indora. Flora concertata 12
 O gratissima Flora, tutelare, amorosa. Flora concertata B
 Queste dogliose stille, inchiostri no. Madrigale non concertato (Marino) "
 Clori, per far morire questo misero cor. Silvio a Clori non concertato 5
-_Cor mio, perchè ti parti, s'hai della vita mia. Clori a Silvio concertato 16
+Cor mio, perchè ti parti, s'hai della vita mia. Clori a Silvio concertato 16
 Voi non rubate? Ah cruda, se rubaste. Madrigale non concertato "
 
 Piangere, occhi miei lassi, accompagnate il core. Tirsi appassionato recitato
@@ -21,14 +21,14 @@ Care selve beate e voi, solinghi. Pastor fido concertato e recitato (Guarini)
 GB-Lbm: compl. (prov. Borghese).
 
 216 - BANCHIERI Adriano (1626) - Il Virtuoso Ritrovo Academico del Dis-SO'
-nante, publicamente praticato con variati Concerti musicali a l. 2. 3. 4. 5. voc_lq
+nante, publicamente praticato con variati Concerti musicali a l. 2. 3. 4. 5. voclq
 stromenti, nell'Academia de Filomusi. Opera XLIX. Di D. Adriano Banti-hic"
 abbate olivetano, il Dissonante, e nell'Academia de Filomusi di Bologna odierno
 prencipe. Dedicate all'illust.mo et rev.mo sig. Gio. Battista Grimaìi (ric) del Pa:
 triarcato Ierosolimitano vicario generale apostolico; consigliero et elemosìmero dl
 sua maestà cesarea, etc. In Venetia 1626. Appresso Bartholomeo Magni.
 
-5 fasc. in 8°: S.o T., B., Bc. pag. 21,(1); Terza parte, Quarta parte Pag. 9,(1)_ Ded. a C,B, Grimani:
+5 fasc. in 8°: S.o T., B., Bc. pag. 21,(1); Terza parte, Quarta parte Pag. 9,(1) Ded. a C,B, Grimani:
 " Nell'istesso giorno, che questa mia nuova fatica Musicale doveva incaminare alla Stampa
 di Venetia nell'istesso giorno apunto mi fù letta una lettera di V.S. lllustrissima... dal MRP-DBartolomeo
 Gavante preposito di S. Paolo qui in Bologna dentrovi l'affettuosa istanza in haver?
@@ -43,7 +43,7 @@ O come sei gentile, caro augelin. Scherzo, dui sopr. o ten. o Viol. (Guarini) 5
 Voi dite esser di foco e tutta giaccio sete. Bizaria, dui sopr. o ten. o Viol. 6
 Canzone (Sonata) prima sopra la Romanesca. Riprese e scherzi con dui Violini . . 6
 O misera Dorinda, ov'hai tu poste. Dorinda, soprano et tenore . . . . (Guarini) 3
-Canzone (Sonata) seconda sopra la Nizzarda. Riprese e scherzn con dui Violini - _ 8
+Canzone (Sonata) seconda sopra la Nizzarda. Riprese e scherzn con dui Violini -  8
 O Mirtillo, Mirtillo, anima mia. Amarilli, soprano e tenore . . ' . (Guarini) 9
 Canzone (Sonata) terza sopra la Ducale. Riprese e scherZi con dui Violini . . 10
 Cor mio, deh non languire. Madrigale, canto o tenore (Guarini) 11
@@ -55,5 +55,5 @@ Poi ch'io son solo. Secondo tenore solo (secon a s .i .. 14
 
 Ne faran fede. Secondo tenore solo (terza stanza)
 
-__132- -
+132- -
 

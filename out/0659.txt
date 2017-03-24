@@ -37,13 +37,13 @@ PL-GD: compl.
 D-KNu: C.B.
 I-Sd: 6.
 
-9_95 - FLORIO Giovanni (1586) - Di Giovan Florio maestro di capella nel domo
+995 - FLORIO Giovanni (1586) - Di Giovan Florio maestro di capella nel domo
 di Oderzo. Il Quarto Libro de Madrigali a cinque voci, novamente composti, et dati
 m luce. In Venetia appresso Giacomo Vincenzi, et Ricciardo Amadino, com-
 
 pagni. 1586.
 
-5 fac. in 80 (C.A.T.B.5.). pag. 21_(1)_ Ded. ai Signori Opitergini: " Ritrovandomi hormai già
+5 fac. in 80 (C.A.T.B.5.). pag. 21(1) Ded. ai Signori Opitergini: " Ritrovandomi hormai già
 qualche anno al servizio di VV.SS. Magnifichc, et in cosi dolce. et virtuoso °ſi°v di Che Si suol
 nudnr ques-ta Città di Oderzo... le hore, che m'avanzano dal servigio della Capella del Domo
 loro,. e da | concerti, che in molti nobili Ridotti quì si fanno. hò semPl'C spese in un ""..."...
@@ -52,7 +52,7 @@ Studio di Musica... Oderzo, 31 III 1586 ".
 A te sì antica et già sì gran cittate prestò aiuto di nat-'i 1
 A vor Opiterginc alme ben nate (seconda parte) 2
 Sacro, saggio et cortese signor. che pari havele l'ingegno al nome 3
-_ Mill'alme restan prese del vostr'amor (seconda parte) 4
+ Mill'alme restan prese del vostr'amor (seconda parte) 4
 Signor. altro non bramo che'l nome vostro al ciel portar cantando 5
 Fatela in cortesia voi mentre ch'io v'honoro (seconda parte) 6
 

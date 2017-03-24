@@ -30,7 +30,7 @@ I-Bc- compl.
 
 GB-Lbm: Bc.
 
-390 __ BONINI Severo (1613) - Lamento d'Arianna cavato dalla tragedia del signor
+390  BONINI Severo (1613) - Lamento d'Arianna cavato dalla tragedia del signor
 Ottavio Rinuccini nobil fiorentino. Posto in musica in stile recitativo da Severo
 Bonini da Firenze. Dedicato alli molto illustri signori li signori Marc'Antonio et
 Oracio Magalotti. Stampa del Gardano in Venetia aere Bartholomei Magni. 1613.
@@ -51,5 +51,5 @@ A 1. Quai segni di timor nel tuo bel volto " 7
 )) \ ' o |
 " Sl caro al cor mi scende 11 ragionar cortese
 
-_.245-
+.245-
 

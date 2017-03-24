@@ -44,7 +44,7 @@ A 1. Ecco pronta a i baci. Baciami, Ergasto mio. Amorosi ardori (Marino) 2
 " " Vaghi fiori odorati, quanto di me sarete più beati. Amoroso languire (Ccl:ano) 21
 )
 
-A 2. Baciatemi, cor mio, che con sì dolce aita. Amoroso soccorso - _ 22
+A 2. Baciatemi, cor mio, che con sì dolce aita. Amoroso soccorso -  22
 " " Ahi disleal e cruda, voi mi negate la fede. Amorosa prova '(Guarml)
 " " Al dolce suon di tromba, che dolcezza rimbomba ne petti. Amorosa battaglia
 
@@ -54,5 +54,5 @@ A 2. Baciatemi, cor mio, che con sì dolce aita. Amoroso soccorso - _ 22
 
 " " O soave armonia, che spiri tra le perl'e tra le rose. Amorosa bocca cantatrice
 
-_660-
+660-
 

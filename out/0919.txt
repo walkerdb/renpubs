@@ -57,7 +57,7 @@ A 5. Soleasi nel mio cor star bella e viva (Petrarca) 25
 " " Che piangon dentro ov'ogni orecchia (seconda parte) " 26
 " " Segui già le speranz'e il van desio ho: ho dinanzi ), 27
 " " Nessun visse giamai più di me lieto ), 28
-" " O fugace dolcezza, o viver lasso, chi mi tolse " ;_9
+" " O fugace dolcezza, o viver lasso, chi mi tolse " ;9
 
 -9II-
 

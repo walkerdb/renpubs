@@ -23,7 +23,7 @@ A 5. In qualche stranio 11
 " " Poca fiammella accesa 22
 " " Lucida face accesa (seconda parte) B
 " " Da venticel soave (terza parte) 24
-" " Quando i_ più fidi (quarta parte) 25
+" " Quando i più fidi (quarta parte) 25
 A 8. Cum pervenisset beatus Andreas 26
 PL-GD: compl
 

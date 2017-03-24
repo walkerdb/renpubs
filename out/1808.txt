@@ -50,7 +50,7 @@ GB-Lbm: C.T.S.
 I-Bc: A. (Villa 1309).
 RISM, I 1549-32.
 
-2887 - (VERDELOT Philippe) (ISI-Sc.) _. Madrigali a cinque. Libro Primo.
+2887 - (VERDELOT Philippe) (ISI-Sc.) . Madrigali a cinque. Libro Primo.
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. (28).
 
 Dormend'un giorno a Bai'all'ombra amore
@@ -63,9 +63,9 @@ Far la vendetta bramo ch'una ferita tale, donna
 
 Occhi più che sereni, lasso, se m'uccidetc
 
-Qual più saggic parole o più serene _
+Qual più saggic parole o più serene
 Donna, se fiera stella mi fè da voi lontan, per tormi pace
-Ahimè ch'abbandonato hor son dalla mia diva _
+Ahimè ch'abbandonato hor son dalla mia diva
 Madonna, sc'l morire creder facess'a voi mio gran martire
 S'in voi, madonn'è fè quant'è beltade
 

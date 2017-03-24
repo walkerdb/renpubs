@@ -1,4 +1,4 @@
-867 _. DRAGONl Giovanni Andrea (1575) - Di Giovann'Andrca Dragoni, il
+867 . DRAGONl Giovanni Andrea (1575) - Di Giovann'Andrca Dragoni, il
 Secondo Libro de Madrigali a cinque voci, nuovamente posti in luce. In Vinegia.
 Appresso l'herede di Girolamo Scotto 1575.
 
@@ -46,7 +46,7 @@ Dalle bell'onde chiare 30
 
 Vago augellin, che sì soave piagni 31
 
-l "Shi fiori c_ l'amorose fronde et l'herba et l'aria 32
+l "Shi fiori c l'amorose fronde et l'herba et l'aria 32
 
 I-de: compl.
 

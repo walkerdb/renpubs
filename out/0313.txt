@@ -26,7 +26,7 @@ D-W: compl.
 
 I-Rsc: A.T.B.
 
-I-MOe: A.B_
+I-MOe: A.B
 
 I-Bc: T.
 

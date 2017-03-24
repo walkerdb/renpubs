@@ -1,17 +1,17 @@
-Porta Francesco_ 1363. Raimondo Francesco. 2516.
+Porta Francesco 1363. Raimondo Francesco. 2516.
 
 Porta Giovanni Battista. 2248. Rambaldi Francesco. 1207.
 
 da Portia Alfonso. 2258. di Ramundo Michele. 1740.
 Portio Bartolomeo. 1868 bis. Rangona' casa. 1748.
 
-da Porto Bernardino. conte. 1503, 1961. Rangona Claudia. 2858_
+da Porto Bernardino. conte. 1503, 1961. Rangona Claudia. 2858
 
 Porto Giovanni Battista. 258. Rangon Guido. 50.
 
 Porto Girolamo. 2573. Ranuccio. Cfr.: Farnese Ranuccio.
 Potenza, conte di. 1792. Rapani Giovanni Battista. 2556.
-Pozzo Francesco_ 2197, 2346, 2465. Rapani Giovan Pietro. 2556.
+Pozzo Francesco 2197, 2346, 2465. Rapani Giovan Pietro. 2556.
 Pozzo Giovanni. 3026. Rapicio Andrea. 3004.
 
 Prampero Frnacesco. 497. Rasponi Cesare. 891.
@@ -52,7 +52,7 @@ Quaini Geronimo. 2B4. Ricchetti Camillo. 2471.
 Quar'ieri Pietro Paolo. 1510. Ricci (Riccio) Giovanni, 1211, 2222.
 Quinziani Leonardo. 843. Ricci Pierfrancesco. 2188.
 
-Quirrini Chiara. 2858_ Ricci Violante. 1241.
+Quirrini Chiara. 2858 Ricci Violante. 1241.
 
 Ricci Maddalena. 988.
 Ricciardella Caterina. 290.
@@ -77,5 +77,5 @@ Raimondi Alessandro. 1567. Rivai Francesco. 438.
 
 Raimondi Raimondo. 1567. Rivarola Gerolima. 988.
 
--.Q_
+-.Q
 

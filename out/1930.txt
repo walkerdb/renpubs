@@ -8,14 +8,14 @@ d'Este Alcssandro, cardinale. 484, 503, 1206, Farina Francesco. 2778.
 d'Este Alfonso, duca di Ferrara. 25, 31, 311, Farnese, abate. 565. 828, 832, 913.
 320, 328, 347, 485, 594, 981, 1559, 1647, Farnese Alessandro. 2775.
 1649, 1858, 2633, 2929, 2931, 2976, 2990, Farnese Cleria. 2322, 2858.
-3000_ Farnese Odoardo, cardinale. 91, 657, 658,
+3000 Farnese Odoardo, cardinale. 91, 657, 658,
 d'Este Alfonso II, duca di Ferrara. 601, 775, 1306, 1576, 1775, 2294, 2322, 2947.
 807, 894, 1457, 1510, 1524, 1540, 1974, Farnese Ottavio. 82, 550, 1835, 1970, 2331,
 2460, 2670. 2847, DB, 2973, 2974.
 d'Este Alfonso, principe di Modena. 834, Farnese Pietro. 2206.
 935, 2444, 2558, 2772, Farnese Ranuccio. 244, 832, 2297, 2747.
 d'Este Alfonso IV, duca di Modena. 531, Farnese Ranuccio Il. 532.
-935_ Farnese Gonzaga Margherita. 2988.
+935 Farnese Gonzaga Margherita. 2988.
 d'Este Barbara, 1960, Fcilding Basilio. 559, 936, 1568.
 d'Este Carlo Filiberto. 1960, 2349, 2352. Fcis Giovanni Battista. 2.308.
 d'Este Ercole, duca di Ferrara. 504. Feliciani Andrea. 864,

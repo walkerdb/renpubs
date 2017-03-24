@@ -26,7 +26,7 @@ I-Vnm (Canal)
 GB-Lbm
 US-Cn
 
-2367 _- RONTANI Raffaello (1619) - Le varie musìche di Raffaello Romani a
+2367 - RONTANI Raffaello (1619) - Le varie musìche di Raffaello Romani a
 una et due voci per cantare nel Cimbalo, o in altri stromenti simili con l'alfabeto
 per la Chitarra in quelle più a proposito per tale stromento. Libro Terzo. Opera
 Settima. In Roma, per Luca Antonio Soldi. 1619. Con licenza de' Superiori-
@@ -36,7 +36,7 @@ Vol. in 4°. pag. 23,(1). Ded. al Conte D. Michele Moroni.
 A 1. Senza sperar mercè, morend'io vivo et stimo gioia il lagrimar 3
 " " Chieggio piangendo alla mia morte aita (seconda parte) 3
 " " In tempestoso mar quiete spero (tei-La parte) :
-" " Se partite sdegnose _
+" " Se partite sdegnose
 
 " " Deh com'in van chiedete d'udir, sirena vagh'il canto mio (Guarìnt) 5
 " " Al suon de vostr'accenti perdei la voce (seconda parte) " ê
@@ -45,9 +45,9 @@ A 1. Senza sperar mercè, morend'io vivo et stimo gioia il lagrimar 3
 " " Perchè mi fuggi, perchè mi struggi, del1 ferma il passo - 8
 " " Vaghi rai di ciglia ardenti, più lucenti che del sol non son i rai (Chlabm) 8
 " " Falsi sospiri, finti sguardi son l'armi vostre, amore 9
-" " Pargoletta, che vai cantando tutto il giorno: viva l'amore - _ 10
+" " Pargoletta, che vai cantando tutto il giorno: viva l'amore -  10
 " " Non credete ch'io v'ami, lasso, e ch'io per vostr'amor. Sonetto recitativo "
-" " O stelle omicide, arciere dei cori, ricetto d'amori. Arictta - _ 11
+" " O stelle omicide, arciere dei cori, ricetto d'amori. Arictta -  11
 " " 'Tu godi'l sol ch'a gli occhi miei s'asconde. Sonetto recitativo (Guarini) 13
 
 " " O piant'o selv'ombrose. o vall'o rive herbose. Artetta

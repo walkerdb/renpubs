@@ -50,7 +50,7 @@ Cond? VCSSIO apparirve unica donna, par che rinasca il sole 24
 ' mic, che debbo fare nel min longo penare 25
 I'VCd: B.
 
-field _" CPUÌ'ÌTOYS Lambert (1580) - Lambert Courtoys musi'co eccellentissimo.
+field " CPUÌ'ÌTOYS Lambert (1580) - Lambert Courtoys musi'co eccellentissimo.
 n vf'galt a ctnque novamente posti in luce et da lui con diligenza revisti et corretti.
 cnena, appresso gli heredi di Francesco Rampazetto. 1580.
 
@@ -58,5 +58,5 @@ Sſ '
 Ma:;- ;! 8° obl. (can-.us), pag. B. Ded. a Michiel Marin di Bona, Nicolo Giovanni Gondola,
 omaso Basegho, Gentil'huominì Ragusei: "Ancor che sia stato per l'adietro puoco dili-
 
--433 _
+-433
 

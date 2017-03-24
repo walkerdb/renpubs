@@ -33,7 +33,7 @@ A 4. Di pensier in pensier, di mont'in monte " 87
 " " Ove porg'ombra un pin alt'od un (terza parte) " 91
 " " Io l'ho più volte c'hor chi fia (quarta parte) " 93
 " " Ove d'alta montagna ombra non (quinta parte) " 95
-A 5. Canzon, oltra quell'alpe là dove'l .(sesta parte) '_' 97
+A 5. Canzon, oltra quell'alpe là dove'l .(sesta parte) '' 97
 A 4. Che giova saettar un che si muore, o niquitoso (Anosto) 99
 
 I-Tn: compl. (C. manc. di front.).
@@ -51,5 +51,5 @@ A 1. Tu ch'hai l'alba ne lumi. Dialogo !: Niso, Driade e Fillide (Rau) ;
 " " E' così dolce il duolo (quarta parte) :; 7
 " " Alma chc'ndarno prega (quinta parte)
 
-_ 1423 -
+ 1423 -
 

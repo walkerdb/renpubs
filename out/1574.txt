@@ -16,7 +16,7 @@ A 6. Amor già prigioniero in gravi doglie l\]
 A 7. S'è ver quel che si legge che l'amante " lB
 " " Lontan dal mio bel sol tra l'herbe e i fiori 19
 A 8. Tirsi pastor cantando tra vaglt'herbette 20
-" _" Mentre il mesto pastore (seconda parte) "
+" " Mentre il mesto pastore (seconda parte) "
 
 I-Ls: compl.
 NL-At: C. T.
@@ -35,7 +35,7 @@ A 5. Questi candidi gigli e queste rose
 " " Così dieſ fine a le querele (terza parte) 3
 " " Quando tal'hor, a la stagion novella (Sannazzaro) '
 " " E'l semicapro Pan alza le corna (seconda parte) " 65
-" " In un bel prato adorno, su l'apparir del giorno _
+" " In un bel prato adorno, su l'apparir del giorno
 " " E' sì dolce e soave sua voce (seconda parte) I
 " " Nascan herbett'e fiori e li fieri animali (sannazzam) :
 " " Poi con tutti i lor studi (seconda parte) " lll

@@ -29,7 +29,7 @@ I-Be: compl.
 F'Psg: compl.
 GB-Ob: compl
 
-6f15 _- COSTA Giovan Paolo (1613) - 11 Primo Libro di Madrigali a quattro voci
+6f15 - COSTA Giovan Paolo (1613) - 11 Primo Libro di Madrigali a quattro voci
 
 lGlo. Paolo Costa genovese novamente composti, et dati in luce. In Venetia,
 
@@ -50,7 +50,7 @@ Qu ml'distruggo al sol (settima parte) "
 
 Horîhlſilangessi almen tanto (seconda parte) " "
 
-Do 'h- _'0 tOl'_n0. tu parti, o di quest'alma 10
+Do 'h- '0 tOl'n0. tu parti, o di quest'alma 10
 v '" tu nido, amore, ne gl'oechi di madonna (Guarini) ]l
 Deh $C mostrar le meraviglie vuoi (seconda parte) " 12
 
@@ -62,7 +62,7 @@ Spuma d'
 
 (Marino) 12
 
-_ (Guarini) 14
+ (Guarini) 14
 lieto di beata aurora (seconda parte) " 15
 
 atro aconiro venea di rigid'angue

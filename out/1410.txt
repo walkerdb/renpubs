@@ -31,7 +31,7 @@ A-Wn: C.A.T.
 D-Z: C.T.
 RISM, I 1569-31.
 
-2278 _. PRIMAVERA Giovan Leonardo (1570) - Di Gioan Leonardo Primavera,
+2278 . PRIMAVERA Giovan Leonardo (1570) - Di Gioan Leonardo Primavera,
 il Terzo Libro delle Villotte alla napolitana a tre voci. In Vinegta, appresso
 Girolamo Scotto. 1570.
 

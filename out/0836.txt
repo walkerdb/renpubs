@@ -41,7 +41,7 @@ A 5. (O misera Dorinda). O anima peccatrix (Guarini) 1
 " " Ahi Filli amata e bella). O virgo, o raptrix animorum 21
 " " (Per colpa ingiusta di fortuna humile). Ad te accedo supplex - B
 " " (Ferma il piè, non fuggir, Filli mia cara). Sponse mi, ubi es? Marino) 25
-" " (Tornate, o cari bacci). O pretiose latex _" ld" 27
+" " (Tornate, o cari bacci). O pretiose latex " ld" 27
 " " (Donna, se voi m'odiate). Iesu, dulcedo mea - (""" ') 28
 " " (Doloroso partir, che'l cor mi strugge). Aperi oculos tuos, Pomme 30
 " " (Ahi che nel rimembrar gl'ultimi accenti). Vale hcu, fill rm . - 32

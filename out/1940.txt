@@ -7,7 +7,7 @@ Orsini Colonna Felice. 251. Pappacorda Federico. 36.
 Orsina Rangona Giulia. 1746. Papponi Girolamo. 440, 2231.
 Ortiz Bessa Anna Maria. 651. Parabosco Girolamo. 2044.
 Ottati Cesare. 2732. Parato Cristofano. 406.
-Otth Girolamo. 2905_ Parise (Parisi) Francesco, 990, 991, 1795.
+Otth Girolamo. 2905 Parise (Parisi) Francesco, 990, 991, 1795.
 Ottobon Antonio. 2151. Paruta Domenico. 1033, 1034.
 Ottobono Gabriele. 380. de Pas Philippe. 1473, 1474.
 
@@ -32,7 +32,7 @@ Pallavicina Nicoletta. 988. Pavoni Giuseppe. 2653.
 Pallavicino Nicolò. 881, 1622. Peccarîsi Alvise. 2550.
 Pallavicina Ottavia. 406. Peccarisi Francesco. 2550.
 Pallavicina Verginia. 988. Pecci Desiderio. 703, 2152.
-Pallavicina Violante. 988_ Pecci Ermonide, 2161.
+Pallavicina Violante. 988 Pecci Ermonide, 2161.
 Pallialoga Bonifazio. 2756. Pecci Tommaso. 2132, 2353.
 Palloni Cesarc. 388. Pederzoli Antonio. 1847.
 Palmieri Giovan Pellegrino. 1569. Pellegrini Camillo. 526, 2803, 2804, 2805,

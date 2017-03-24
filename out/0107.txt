@@ -41,7 +41,7 @@ Madonna, ohimè ch'io ardo et se tal fuoco 12
 Tcngan dunque ver me l'usato stile (Petrarca) 13
 Atnor, quando più lieto mi stavo et givo "
 Giurando'l dissi, amore, che sol'al mondo è Lucieta bella 15
-V,1_dd1, fra l'herbe verde, bianco hermellin 16
+V,1dd1, fra l'herbe verde, bianco hermellin 16
 S 10 non. lodo, madonna, el vostro volto 17
 Donna, i'vostrilbelli occhi, che'l giorno 18
 gidiiiiîo à...îisiaràci'CIIl occhi un chiaro velo ombrando (Sannazzaro) 19
@@ -53,5 +53,5 @@ Donna, fra più bei volti hon ' 13, m'"! VIC PIU dOlccmcme 24
 
 esti et can 2-5
 
-- -99_
+- -99
 

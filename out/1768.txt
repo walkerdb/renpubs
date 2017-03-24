@@ -35,7 +35,7 @@ A 5. il bianco et dolce cigno cantando more ed io piangendo (Guidiccioni) ;
 " " Tremolavan le fronde e la marina aure dolci spiranti increspava 6
 " " Quando ecco il mio bel sole (Seconda parte) 7
 " " Ond'all'hor io, languendo, con luci tremolanti (terza parte) 8
-" " Clorind'hai vinto, hor prendi l'armi. Crudel, che poi più fan'ni - _ 9
+" " Clorind'hai vinto, hor prendi l'armi. Crudel, che poi più fan'ni -  9
 " " Dice la mia bellissima Licori, quando tal'hor lavello seco d'amor (Guarini) lO
 " " Cara mia Dafne, a dio, disse, partendo a l'apparir del sole "
 " " O di rar'eccellenz'al mondo sola, sola dolce cagion del foco mio 11

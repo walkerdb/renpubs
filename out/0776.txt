@@ -34,7 +34,7 @@ I-Bc: T.
 Scherzi, Perfidie, et Oblighi. Alcuni motivati da diverse Arnette a benelìtlo D:
 principianti per allettarli con profitto, e godimento allo studio della musica. de'
 Gioseppe Giamberti romano. In Roma, per Amadio Balmonti 1657. Con licenza
-Superiori. . d |_
+Superiori. . d |
 Vol. in 8° obl., pag. 75,(1). Ded. al Padre il P. Nicolò Balducci prete della Congregatlonc €
 l'Oratorio di Roma. Roma, 18 V 1657.
 
@@ -51,5 +51,5 @@ Soprano e mezzo soprano 15
 
 Due Canti
 
-._.768-
+..768-
 

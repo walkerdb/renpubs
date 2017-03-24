@@ -18,7 +18,7 @@ O sciocco e pazzo amante, se del tuo bel desio. Risposta 7
 Poi che'l mio sospirare e'l pianto amaro non posson far 8
 Profondi laghi e voi correnti fiumi, acerescct'acqua I?)
 
-Hor che farai, cor mio, se'l dispietato e rio - _ 11
+Hor che farai, cor mio, se'l dispietato e rio -  11
 Occhi miei, che vedesti il bell'idolo vostro in pred'altrui (Guarini)
 
 O verdeggianti prati e vaghi fiori, o fresch'herbett'e fronde %
@@ -38,7 +38,7 @@ Sciolto è quel nodo e sciolt'è la catena
 PL-GD: compl.
 I-VEaf : B.
 
-635 - COSSA Vincenzo _(1569) - Di Vincentio Cossa perugino il Primo Libro
+635 - COSSA Vincenzo (1569) - Di Vincentio Cossa perugino il Primo Libro
 de Madrigali a quatro voci, con due Canzoni novamente da lui composti et Pfſ
 
 Antonio Gardano posti in luce. A quatro voci. In Venetia appresso di Antonio

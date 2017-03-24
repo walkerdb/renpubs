@@ -39,7 +39,7 @@ I-Rsc: compl
 GB-Lbm: compl
 [' f : S
 
-l7_51 - MASSAlNO Tiburzio (1604) - Madrigali a sei voci di Tiburtio Massamo.
+l751 - MASSAlNO Tiburzio (1604) - Madrigali a sei voci di Tiburtio Massamo.
 Libro Primo. Novamente composto, et dato in lucc. In Venetia. Appresso
 
 Angelo Gardano. 1604.

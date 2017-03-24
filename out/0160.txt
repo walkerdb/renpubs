@@ -12,7 +12,7 @@ A 5. Mordimi questa lingu'et fà vendetta (sesta stanza)
 
 I-Vnm (Canal): C.T.B.
 
-251 _.BARE' Antonio (1555) - Primo Libro delle Muse, a quattro voci Madrigall
+251 .BARE' Antonio (1555) - Primo Libro delle Muse, a quattro voci Madrigall
 anosr di Ant. Barre et altri diversi autori, nuovamente stampati. Con gratia
 et privilegio.
 
@@ -58,5 +58,5 @@ A 5. Sorgi, superbo Tebro DI Ant. Barré (Bellano) 24
 
 [(quinta stanza) " E
 
-__ .
+ .
 

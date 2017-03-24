@@ -53,5 +53,5 @@ A-Wn: compl.
 
 GB-Lbm : compl.
 
-. -93_
+. -93
 

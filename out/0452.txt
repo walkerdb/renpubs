@@ -29,7 +29,7 @@ D-W: C.T.B.
 NL-At: 5.
 
 672 - CROCE Giovanni (1590) - Mascarate piacevoli et ridicolose per il carnevale
-a 4. 5. 6. et otto voci. Di Giovanni Croce chiozotto novamente comBoste, _" ate
+a 4. 5. 6. et otto voci. Di Giovanni Croce chiozotto novamente comBoste, " ate
 in luce. Libro Primo. Con privilegio. In Venetia, appresso Iacopo Vincenti. 15 -
 
 6 fasc. in 8° (C.A.T.B.5.6.), pag. 10. Ded. di Iacomo Vincenti a Leonardo Sanudo: "...E'-"5"
@@ -49,5 +49,5 @@ A 6. Vidi l'Alssandrina che la tcsseva. Da Zane 7
 I-Rsc: C.A.B.5.6.
 GB-Lbm: 5
 
-__444- ___.
+444- .
 

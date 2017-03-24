@@ -52,7 +52,7 @@ F-Pthibault: compl.
 
 GB-Lcm: compl.
 
-D-Rp: C.A.5.6_ (prov. Haberl).
+D-Rp: C.A.5.6 (prov. Haberl).
 E-TZ: C.A.B
 
 US-Lau: B.5.

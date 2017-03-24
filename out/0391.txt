@@ -9,7 +9,7 @@
 " " Giunto a la tomba ove al suo spirto vivo. Romanuca (Tasso)
 " " Così cor mio vogliate, le dicea, dopo ch'io sarò morto. Romane-sca (Ariosto)
 " " Ferma il piè. non fuggir, Filli mia cara. Sonetto (Manno)
-" " Valli, che ai lamenti miei. Sonetto _
+" " Valli, che ai lamenti miei. Sonetto
 
 A L Dunque fia ver, clicca. Aria di Gazzella (Ariosto)
 " " Sa quest'altier ch'io l'amo. Aria di Ruggero (seconda parte) "
@@ -19,7 +19,7 @@ A L Dunque fia ver, clicca. Aria di Gazzella (Ariosto)
 " " Deh Licori gratiosa. Aria .
 
 " " Fugge il verno de' dolori. Aria (Chiabrera)
-" " Care gioie, che le noie di sospir mandate in bando. Aria _
+" " Care gioie, che le noie di sospir mandate in bando. Aria
 
 A 3. Vorrei baciarti, o Filli. Madrigale (Manno)
 A 4. L'odio ch'hai tu nel core. Madrigale "

@@ -38,7 +38,7 @@ I-Bc: compl.
 I-FOc : compl.
 NL-AT : T.
 
-31_7 - BELLI Giulio (1595) - Canzonette di Giulio Belli da Longiano Libro
+317 - BELLI Giulio (1595) - Canzonette di Giulio Belli da Longiano Libro
 Primo a quattro voci, novamente ristampate, et aggiontovi due Canzonette nove.
 
 In Venetia appresso Angelo Gardano. 1595.
@@ -46,7 +46,7 @@ In Venetia appresso Angelo Gardano. 1595.
 
 Amor, solo l'altr'hier scherzand'intorno della mia Filli al viso 2
 Folti bosehetti, amene piaggie e campi, che con suoi dolci canti 3
-Quest1_begl'occhi tuoi, gentil mia Clori 4
+Quest1begl'occhi tuoi, gentil mia Clori 4
 Cor mio, se per dolore morir potesse appassionato core 5
 Genevra mia, queste tue trecce d'oro et quegl'ocehi di sole 6
 

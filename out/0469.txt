@@ -15,11 +15,11 @@ AL O baci avventurosi, ristoro de miei mali (Manno) 1
 
 " " Tranquilla guerra e cara ove (terza parte) " 3
 " " Labri soavi e cari, dolci strali d'amore. che dolcemente amari 4
-" " Rubinetti vivaci, tesori di mia vita (seconda parte) - _ 5
+" " Rubinetti vivaci, tesori di mia vita (seconda parte) -  5
 "" Obimè, l'antica fiamma ch'era sopita, all'aura .(Guaritìl) 6
 " " Occhi, stelle d'amore, segni eterni. Del Rev. D. Dona/'Antomo Cun 7
 A 4. O come il cor m'alletta e l'alma su nel ciel rapisce 3
-A Z- Cari baci d'amore, quanto più tardi e lenti tant'al mio cor - _ 9
+A Z- Cari baci d'amore, quanto più tardi e lenti tant'al mio cor -  9
 " " Non fu senza vendetta il mio furto soave (Guarini) 10
 " " Troppo bel può questo tiranno amore, per far soggetto " 11
 " " S'il coccan desio 12

@@ -46,7 +46,7 @@ Angelo Gardano 1581.
 
 I-Fn: C.T.B.
 GB-Lbm: C.A.
-I-Bc: T_B,
+I-Bc: TB,
 1-Vnm: C.
 US-Cn: A.
 

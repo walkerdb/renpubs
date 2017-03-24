@@ -34,7 +34,7 @@ D-Rp: C.A.T.5.Bc.
 I-Rc: C.B.5.
 D-Hs: C.B.S.
 D-Bds: ABC.
-F-Pn: C_
+F-Pn: C
 
 I-FEC: Bc.
 

@@ -47,7 +47,7 @@ A 5. Luci serene e chiare, voi m'incendele voi. ma prova il core 1
 " " Che fai meco, mio cor, misero e solo? Deh vanne homai 5
 " " Questa crudele e pia piange al mio pianto 6
 " " Hor ch'in gioia eredea viver contento, m'apre la gioia 7
-" " O sempre crud'amore nella gioia (seconda parte) - _ 8
+" " O sempre crud'amore nella gioia (seconda parte) -  8
 " " Cor mio. deh non piangete, ch'altra pena non sento (Guarini) 9
 " " Dunque non m'offendete se sanar (seconda parte) " 10
 " " Sparge la morte al mio signor nel viso tra squallidi pallori 10
@@ -55,5 +55,5 @@ A 5. Luci serene e chiare, voi m'incendele voi. ma prova il core 1
 " " Quando di lui la sospirata vita (seconda parte) 12
 " " Mentre gira colei, ora veloci, or tardi, fieri e soavi 13
 
--747 _
+-747
 

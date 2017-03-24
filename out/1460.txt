@@ -33,7 +33,7 @@ A 5. Deh lasciati basciar, prima ch'io mora 1
 " " Vita mia cara, vita saporita, subito ch'io ti vidi pers'il core 17
 " " O dio, che potria far a questo mondo lll
 " " Fiorite vall'amene, d'ogni dolcezza piene, ch'ognun fate gioire 19
-" " Sola trovai la pastorella - _ 20
+" " Sola trovai la pastorella -  20
 " " O faccia che rallegra il paradiso, o occhi ch'illustmte la mia Vita 21
 " " O faccia d'una luna rotoizdella 22
 " " Signora, a gli occhi miei sei tanto bella B
