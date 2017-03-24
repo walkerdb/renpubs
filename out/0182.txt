@@ -36,7 +36,7 @@ A 5. Queste luci ogn'hor mcst'e i miei sospiri 1
 " " Sì grand'è'l mio gioire, che sol pensand'alla mia donn'io sento 2
 " " Partì la saggia mia fiamma vivace 3
 " " Unica speme mia, unico bene, poi che sei qui 4
-" " Se da i fulgcnti rai, che mi nodriscon l'alma 5
+" " Se da i fulgenti rai, che mi nodriscon l'alma 5
 " " Dolci sospir, sospir novelli, che di dolcezz'il cor 6
 " " Onde tranquill'et chiare d'Arno, che sete 6
 " " Ahimè cor mio, ahimè chi mi t'ha tolto 7

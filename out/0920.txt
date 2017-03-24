@@ -17,11 +17,11 @@ A 4. le suis quasi prest d'enrager 1
 " " Si par souhait je vous tenoyc 2
 " " En un chateau ma dame 3
 " " O vin cn vigne, gentil joly vin 3
-" " Le temps passé je soupirc (BL d'Aurìol) 4
+" " Le temps passé je soupire (BL d'Aurìol) 4
 " " Un jour vis un foulon 4
-" " Un doux ncnny avec un doux sourire (Maro!) ;
+" " Un doux nenny avec un doux sourire (Maro!) ;
 
-" " Avccques vous mon amour finira
+" " Avecques vous mon amour finira
 " " le l'aime bien et l'aymeray
 
 " " Deus qui bonum vinum creasti

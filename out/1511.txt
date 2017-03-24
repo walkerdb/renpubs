@@ -3,7 +3,7 @@ A 5. Fem gentil, che con leggiadro nodo 9
 " " Perchè si stretto è'l nodo e la ferita (seconda parte) 9
 " " Alma Susanna, ben fclic'è'l core 10
 " " Da l'estremo orizonte là ve l'orsa _di Giove 11
-" " Tra più beati e più sublimi chori IZ
+" " Tra più beati e più sublimi chori 12
 " " 10 qui non miro più quel che solea (seconda parte) 13
 " " Quest'affnnnato mio doglioso core 14
 " " Vaghi pensieri, che mentr'hnvest'il ciclo 15
@@ -12,7 +12,7 @@ A 5. Fem gentil, che con leggiadro nodo 9
 " " Poi che m'invit'amore a lngrimnr mai sempre, desio che'l cuor 19
 " " E se pur mi mantiene amor (seconda parte) 20
 " " Alma real, se come fida stella 21
-" " Misero mc, ch'alle mie spcs'imparo. Di Adriano Anſ/ille E
+" " Misero mc, ch'alle mie spes'imparo. Di Adriano Anſ/ille E
 " " Rex Asiae et Ponti potuit celeberrimui olim B
 
 D-Rp: compl.
@@ -50,7 +50,7 @@ A 5. Alma Susanna, ben felice è il core 7
 " " Poi che m'invita amore a lagrima: 15
 " " Candido e vago fiore 16
 " " Da le belle contrade d'oriente 17
-" " E se pur mi mamicnc amor 18
+" " E se pur mi mamienc amor 18
 " " Alma real, se come fida stella 19
 " " Rex Asiac et Ponti poluit ccleberrimus olim 20
 

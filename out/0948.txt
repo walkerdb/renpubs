@@ -9,7 +9,7 @@ F-Pthibault: B.
 
 F-TO: 5.
 
-Lesure e Thibault Z92.
+Lesure e Thibault 292.
 
 1498 - LEJEUNE Claude (1607) .- Mcslanges de la musique de Clau. le lcune.
 A 4. 5. 6. 8. et 10. parties. A Paris. Par Adrian le Roy, et Robert Ballard. Imprimeurs
@@ -22,7 +22,7 @@ GB-Lbm: Haute-contre, T., Bassc-contrc.
 D-Mbs: Basse-contre.
 
 1499 - LEJEUNE Claude (1612) - Second Livre des Meslanges de Cl. Le Icune
-natif de Valentienne, compositeur de la musique de la chanbrc du roy. A Paris, par
+natif de Valentienne, compositeur de la musique de la chanbre du roy. A Paris, par
 Pierre Ballard, imprimeur de la musique du roy, demeurant rue S. Iean de Beauvais,
 à l'enseigne du mont Parnasse. 1612. Avec privilege de sa maieste.
 
@@ -37,7 +37,7 @@ A 4. Certes mon oeil fait trop " 5
 " " Fuyons tous d'amour le ìcu " :
 " " Perdre rien plus je ne " 7
 " " Maitre Gonin disait " 8
-" " Notre Vicairc un iour " 9
+" " Notre Vicaire un iour " 9
 
 )) '
 
@@ -46,7 +46,7 @@ A 4. Certes mon oeil fait trop " 5
 " " Tout ce qui est de plus " "91
 " " Dc l'oeil de l'un (seconda parte) " 10
 " " L'un excessif (ter-La parte) " "
-" " O doux trcspas (quarta parte) " Il
+" " O doux trespas (quarta parte) " Il
 " " Puisse a (quinta parte) " 12
 " " Si tost que votre oeil " 13
 " " Autant en emporte le vent " 14
@@ -57,5 +57,5 @@ A 4. Certes mon oeil fait trop " 5
 " " Di piant'e di sospir solo mi pasco " 16
 
 ' ' ' ' "
-" " Bona scra, come stai, core mio? Da laltra iorno
+" " Bona sera, come stai, core mio? Da laltra iorno
 

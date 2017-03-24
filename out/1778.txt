@@ -4,7 +4,7 @@ n " Io per me non so dir qual maggior fosse (seconda parte) 26
 " n Stavas'il mio bel sol al sol asiso, che par altri non trova (Strozzi) 27
 A 6. Amor, con nuova e inusilata foggia, alla mia bella perla
 
-" n Padre e pastor, che'l grcgg'errante infermo, per l'erto calle D
+" n Padre e pastor, che'l gregg'errante infermo, per l'erto calle D
 " " Tu sostenest'il duro colp'e insieme (seconda parte) 30
 A 7. Pastori nosuo, socii, cantemus (Pastor Alex-under) 31
 I-Bc: C.
@@ -29,10 +29,10 @@ Voi, pargoletti amori, e tu, Venere bella (seconda parte) S
 
 Fiorisce il vostro pett'e i capei d'oro et al collo. A Isabella de Cavor 6
 Dolce Corina mia, se su le labra havete il mio dolce desio. A Domenico Provana 7
-Durin coi chiari lumi del ciel gl'onesti e incomincnati amori. Al Conte Antonio Scarampo 8
+Durin coi chiari lumi del ciel gl'onesti e incominenati amori. Al Conte Antonio Scarampo 8
 
 [Conte di Canelli e governator di Turino
-O dolci sguardi, o parolette accorte, hor fia mai. A Costantino Molino, ambasctatol'c
+O dolci sguardi, o parolette accorte, hor fia mai. A Costantino Molino, ambasetatol'c
 [della Signoria di Venetia presso l'Altezza di Savoia (Petrarca) 9
 
 Io piango et ella il volto con le sue man m'asciuga " 10

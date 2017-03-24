@@ -30,7 +30,7 @@ A 6. Mais qui pourroit estre celuy 40
 
 " " Vignon vignon vignette 42
 
-" " Hor vi riconfortate in vostrc fole (Petrarca) 43
+" " Hor vi riconfortate in vostre fole (Petrarca) 43
 " " S'io esca vivo di dubbiosi scogli " "
 
 A 8. Hola Caron (0- de Magny) 45

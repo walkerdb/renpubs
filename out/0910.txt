@@ -25,7 +25,7 @@ D-Bds: compl.
 
 I-Fr: C.5.
 
-I-Vc (Torrcfranca): A.
+I-Vc (Torrefranca): A.
 NL-Dngn: T.
 
 F-Pm: 5.
@@ -47,7 +47,7 @@ D-Bds: A.T.5.
 
 F-Pc: 5.
 
-I-Vc (Torrcfranca): A.
+I-Vc (Torrefranca): A.
 Boctticher 755.
 
 RISM, I 1566-11.

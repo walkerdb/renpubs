@@ -38,11 +38,11 @@ A 2. Pallidetto mio sole, a tuoi dolci pallori perde l'alba (Marino) 3
 " " Cogli la vaga rosa, leggiadra verginella, mentr'è novell'il fior 6
 " " Voi pur, donna, mi dite che già sett'annì omai 7
 " " Se in altra guisa non si può morire, che non perder la vita B
-" " O che piacer prcs'io, man vezzosa, man cruda (Marino) 9
+" " O che piacer pres'io, man vezzosa, man cruda (Marino) 9
 " " Felice animaletto, cui died'il ciel in sorte. Parole di Aurelio Botticelli 10
 " " O bellissimi denti, perle d'amor lucenti, se mia lingua 11
 " " Mentre picciol infante da l'animata neve candido latte beve 12
-A 3. Se bramate ch'io mora, gl'è van credet'a me vostro desirc 12
+A 3. Se bramate ch'io mora, gl'è van credet'a me vostro desire 12
 " " Pereh'un bacio chiegg'io, bocca spietata, mord'il dit'e minacci (Marino) 14
 " " Per questa vita giuro che la mia vita sete 15
 " " Sognasti d'esser mia, ma fu sogno mentito 16

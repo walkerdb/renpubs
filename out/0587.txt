@@ -40,7 +40,7 @@ A 4. Ne l'odorat'et lucid'oriente (Bembo) 1
 " " Cosa dinanzi a voi non può fermarsi " 5
 " " Quanto in mill'anni il ciel dove.-\ mostrarne " 26
 " " Rose bianche et vermiglio ambe le gore " 27
-" " Se non foss'il pensier crudel cr empio " 23
+" " Se non foss'il pensier crudel er empio " 23
 " " COSÌ più d'un error versa dal fonte " 29
 " " Et per bocca di lui chiaro vi dico " 30
 " " E la vostra bellezza quasi un horto " 31

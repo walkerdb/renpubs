@@ -27,7 +27,7 @@ A 4. Se da l'amate [fondi al tempo novo nascono vaghi et amorosi gigli 1
 " " Se sol di darmi mort'è'l tuo desio 1
 " " Non mi toglie'l ben mio chi non arde d'amor come facc'io 3
 " " Vorrei, dolce ben mio, per adempir tua [era e cruda voglia *
-" " Se quel piacer ch'io sento, nel tornar a l'angclica mia vista 5
+" " Se quel piacer ch'io sento, nel tornar a l'angelica mia vista 5
 " " Tu che secondo l'alla Roma honora. A Maria de' Massimi 6
 " " A te candidi pomi (seconda parte) 7
 A 5. Quando il soave mio fido conforto. Canzon 8
@@ -35,7 +35,7 @@ A 5. Quando il soave mio fido conforto. Canzon 8
 " " Rispondo io: non piang'allro che me stesso (terza parte) 10
 " " Ma io che debbo altro che pianger (quarta parte) "
 " " I' volca dimandar, rispond'io allhora (quinta pane) 11
-" " Son questi i capci biondi (sesta parte) lli
+" " Son questi i capei biondi (sesta parte) lli
 " " I' piango et ella il volto (settima parte) 14
 " " Quando fu mai quel dì felice tanto 16
 " " Ahi lass'cl mio desir (seconda parte)
@@ -50,7 +50,7 @@ A 5. Quando il soave mio fido conforto. Canzon 8
 A 6. Cantan fra i rami gli augelletti vaghi, azurri e bianchi (Ariosto) 24
 " " Quando fia mai quel dì che i sette colli 25
 " " O fortunato e lieto per me giorno (seconda parte) 26
-" " Dogliom'ogn'hor, che dolcr non mi posso. 27
+" " Dogliom'ogn'hor, che doler non mi posso. 27
 A 8. Che debbo far, che mi consigli, amore. Dialogo (Petrarca)
 
 " " Tanta dolcezza mai senti, amoroso core. Dialogo dì Hippo/ilo Tarmglmo

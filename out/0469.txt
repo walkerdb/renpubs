@@ -30,7 +30,7 @@ A 3' Ncsami pur aita 16
 " " Donna, s'in me 17
 " " Qual'è Lilla 18
 " " 51. Ch'io v'adoro 19
-" " Taci bocca, deh taci, che s'egli avicn (Manno) 20
+" " Taci bocca, deh taci, che s'egli avien (Manno) 20
 <35-0ch: compl.
 
 GB-Lbm: C. S.

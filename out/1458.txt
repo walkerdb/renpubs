@@ -42,12 +42,12 @@ A 5. Fuss'io pur degn'amore, d'esser, com'altri già, cangiato in fiore ;
 " " Nel discostarsi il sole, lasciano gl'augelletti i canti e le carole 7
 " " Così se voi, ben mio, da me vi discostate (seconda parte) 8
 " " Se si vedesse fuore l'imagine del core, voi vedereste in esso 9
-" " Stillò l'anima in pianto Tirsi, quando partire dovca (Cnam) 10
+" " Stillò l'anima in pianto Tirsi, quando partire dovea (Cnam) 10
 " " Giunto a la tomba, ov'al suo spino vivo dolorosa prigion (Tass0) "
-" " Non di morte sei tu, ma di vivaci ceneri (seconda parte) " IZ
+" " Non di morte sei tu, ma di vivaci ceneri (seconda parte) " 12
 "
 
-" " Amor l'alma m'allaccia di dolce asprc catene
+" " Amor l'alma m'allaccia di dolce aspre catene
 
 - 1448-
 

@@ -10,7 +10,7 @@ A 6. Ecco ch'al bosco siam (terza parte) 11
 " " Mirate :\ quei (quarta parte) 14
 A 7. Ecco il sol chiaro (quinta parle) 5
 [| Lamento (li Didone di Cipriano RunA
-S. Dissimularc etiam (Virgilio) 18
+S. Dissimulare etiam (Virgilio) 18
 A 6. Quin cliam (seconda parte) " 18
 A 7. Me ne fugis (terza parte) " 19
 
@@ -19,7 +19,7 @@ GB-Lbm: B.
 RISM, I 1567-23.
 
 2655 - STRIGGIO Alessandro (1569) - Il Cicalamento delle donne al bucato et
-la Caccia di Alessandro Striggio, a quattro cinque seì et sctte voci, con 1] GIOCO
+la Caccia di Alessandro Striggio, a quattro cinque seì et sette voci, con 1] GIOCO
 di primicra a cinque voci, del medesimo novamente agionto. In Vineglfl, aPPresso
 Girolamo Scotto 1569.
 
@@ -41,7 +41,7 @@ A 7. Ecco il sol chiaro (quinta parte)
 
 Gioco di primiera 17
 A 5. Al vag'e incerto gioco di primicra 18
-" " Facciasi di che caviamo (Hot date fuor) (seconda parte)
+" " Facciasi di che caviamo (Hor date fuor) (seconda parte)
 
 I-Fr: A.T.6.7.
 GB-Lbm: T.

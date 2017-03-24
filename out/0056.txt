@@ -13,7 +13,7 @@ A 2. Ben nel petto Massentio un marmo tiene 3
 " " Fatto amante Francesco de le piaghe 13
 A 3. Parte veloce un serafin dal cielo 14
 " " Stassi vergin humil (seconda parte) 15
-" " A lei s'accosta il messaggicr divino (terza parte) 15
+" " A lei s'accosta il messaggier divino (terza parte) 15
 " " O liete avventurate alme dilette (quarta parte) 15
 " " Disse al figlio la madre, non ha vin 16
 " " Maria a te s'inchina madre d'amore (seconda parte) 17
@@ -34,7 +34,7 @@ A 4. All'hor ch'in terra nacque 22
 I-Bc : compl.
 
 75 - ANERIO Giovanni Francesco (1617) - Selva armonica. Dove si contengono
-Motetti, Madrigali, Canzonette, Dialoghi, Aric a una, dOÌ, tre, et quattro voci.
+Motetti, Madrigali, Canzonette, Dialoghi, Arie a una, dOÌ, tre, et quattro voci.
 Di Gio. Francesco Anerio romano. Maestro di cappella della Madonna Santissima
 delli Monti di Roma. In Roma, appresso Gio. Battista Robletti. 1617. Con licenza
 de' Superiori.

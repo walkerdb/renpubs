@@ -1,33 +1,36 @@
 A 5. Baci, sospiri e voci alternavan due bocchin'insiem'unite (Sasone) 20
-
 " " Pien d'amoroso ardor mi strugg'e sfaccio e chi mi può dar vita 21
-" " Bocca di fresche rose, ch'ascondi tra bei fior E
+" " Bocca di fresche rose, ch'ascondi tra bei fior 22
 " " Occhi, dell'alma mia vivaci soli, deh s'io ardo per voi 23
-" " Picn d'ira e di furore sen va gridando a l'arme 24
-
-A 7. Ben più di mille strali. Per nozze Cristoforo Foccari cMaria contessa di Schwartenberg 25
+" " Pien d'ira e di furore sen va gridando a l'arme 24
+A 7. Ben più di mille strali. Per nozze Cristoforo Foccari e Maria contessa di Schwartenberg 25
 
 D-As: compl.
 D-Mbs: compl.
-D-Rp: A.TB.5.6.
+D-Rp: A.T.B.5.6.
 GB-Lbm: 5.
 US-Wc: 5.
+
+
+
+
+
+
 
 35 - ALBANO Marcello (1616) - Il Primo Libro di Canzoni, e Madrigaletti, a
 tre, et a quattro voci. Di Marcello Albano. In Napoli, appresso Gio: Giacomo
 Carlino 1616. Con licenza de' Superiori.
 
-4 fasc. in 8° (C.°, C.2°, T.B.), pag. 22,(1). Ded. a D. Francesco Ruffo Duca Della Bagnara, Napo",
-Z I 1616.
+4 fasc. in 8° (C.°, C.2°, T.B.), pag. 22,(1). Ded. a D. Francesco Ruffo Duca Della Bagnara, Napoli,
+2 I 1616.
 
 A 3. Anime liete, voi che godete d'amor tranquillo stato, venite al prato 3
-" " Deh girate, luci amate, pictosetto quel bel guardo che mi fugge (I. Andreini) 4
-" " Ardi e gel'a tua voglia, perfido et impudico, hor amant'hor nemico. Madrigale
-[(Tasso) 5
+" " Deh girate, luci amate, pietosetto quel bel guardo che mi fugge (I. Andreini) 4
+" " Ardi e gel'a tua voglia, perfido et impudico, hor amant'hor nemico. Madrigale (Tasso) 5
 " " Voi che seguite amore, udite il mio dolore, prendet'esempio da mia dura 6
 " " Gli ardenti miei desiri, che tragon dal mio cor fiamm'e sospiri. Canzona spirituale 7
 " " Se nasce in cielo il dio di Delo a l'occidente giunge repente 8
-" " Giunt'è pur Lidia, il mio non so se deggia dire, o partirc o morire. Madrigale (Marino) 9
+" " Giunt'è pur Lidia, il mio non so se deggia dire, o partire o morire. Madrigale (Marino) 9
 " " Al suon non posa il core, ma cresce fiero ardore che i vostri non son sguardi lO
 " " Perchè fuggi, o bella Clori, forsi disdegn'i miei novelli ardori 11
 " " Non han tant'ond'il mare, nè i prati herbett'e fiori quanti sento per voi 12
@@ -37,20 +40,10 @@ A 3. Anime liete, voi che godete d'amor tranquillo stato, venite al prato 3
 " " Che giova più amare donna che fà penare a chi l'ama col core 16
 " " Dolci sospiri, dolci martiri, dolci cercate mercè, pietate 17
 A 4. Cara Filli et amata, come sei dispietata et a me fiera tanto 18
-
-" " Vita mia, di te privo sai tu com'io son vivo. Madrigale del sig. Scipione Dentice
-
-[(Marino) 19
+" " Vita mia, di te privo sai tu com'io son vivo. Madrigale del sig. Scipione Dentice (Marino) 19
 " " Ardi crudele com'ardo anch'io fidele, ardi dunque sì forte che ne meni 20
 " " Sospir che dal bel petto di madonn'esci fuore, dimmi che fà. Madrigale (Marino) 21
-" " Non è di gentil core chi non arde d'amore, ma voi che del mio cor. Madrigale
-
-[(Degl'Atti) 22
-
-A' binigni Lettori. QUCSte Canzoni Ct Madrigaletti riusciranno meglio Sf: Si cantano con Istrumenti
-perfetti come liuto, cimbalo, arpa et altri lstrumenti, la battuta sx porti un poco stretta,
-le accadenze di mezo si cantano à battuta giusta; le finale sx tengono un poco più delle altre.
-Le Canzoni che sono il quattro si potranno cantare à tre con lascrar la parte del Tenore
+" " Non è di gentil core chi non arde d'amore, ma voi che del mio cor. Madrigale (Degl'Atti) 22
 
 I-Bc: C.1°, C.2°.
 RISM, I 1616-11.

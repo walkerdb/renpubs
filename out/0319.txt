@@ -6,7 +6,7 @@ A 4. Quel dolce cmpio signor, chc'l mond'honora
 " " Tu, ch'hai nei crin le stelle et loro effetto 19
 " " S'io vi miro talhor intentamente, donn-...i . - . (r...-i 20
 "" Questi ardenti sospiri preganvi d'acquetare 1 miei ma mi 20
-" " Se non è tra dannati martir che'l mio martir 'nol raprcse 21
+" " Se non è tra dannati martir che'l mio martir 'nol raprese 21
 " " Madonna, il vostro far da me partita è la cagion . 22
 " " Tra quante alme leggiadr'e pellegrino-:: venga 'COSthl ' 23
 " " Chi vide un'acqua pura che gli occhi abbaglia e ural. 24
@@ -15,7 +15,7 @@ A 4. Quel dolce cmpio signor, chc'l mond'honora
 " " Vivo in un dolce fuoco et di dolor mi paseo . 27
 " " Chi vol veder un miracol d'amore in me nsguardn 28
 " " Ch'ei V'ami et ch'ei v'adori, Alpino hoggi vi chiede . 29
-A 6. Io mi sento morir, madonna, aita, un bascto anima mia.
+A 6. Io mi sento morir, madonna, aita, un baseto anima mia.
 I-VEaf : compl.
 A-Wn: compl.
 GB-Lbm: C.
@@ -52,7 +52,7 @@ Moverò lass'a miei (terza parte)
 
 Ma tu, caro ben mio (quarta parte) lg
 
-Na vccchierella l'altro giorno 20
+Na vecchierella l'altro giorno 20
 
 Io gli risposi (seconda parte) 21
 Ella mi piglia per la man (terza parte)

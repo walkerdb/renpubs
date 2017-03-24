@@ -24,13 +24,13 @@ Canzonettc
 " " Corri, corri, ben mio, homai ad aiutarmi 14
 " " Corri, corri, non più tardar a sovvenirmi 15
 " " Bene mio, tu m'hai lasciato senza Speranza 16
-" " Ditemi, o diva mia, non scte voi quella che con gran fede 17
+" " Ditemi, o diva mia, non sete voi quella che con gran fede 17
 Madrigali
 
 A 5. Se l'ardente desio, signor, ch'ho di cantar le vostre lodi. Per il Principe Don Ferrando
 [Gonzaga 18
 " " Quando s'odon gl'accenti de le soavi, care, alle parole 19
-" " Stella del ciel risplende che rappresenta il nome di colui. A Giulio Cesarc Gonzaga.
+" " Stella del ciel risplende che rappresenta il nome di colui. A Giulio Cesare Gonzaga.
 [Di Gio. Agan. Veggio 20
 
 I-MOe: compl.

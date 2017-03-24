@@ -12,9 +12,9 @@
 " " Valli, che ai lamenti miei. Sonetto _
 
 A L Dunque fia ver, clicca. Aria di Gazzella (Ariosto)
-" " Sa quest'alticr ch'io l'amo. Aria di Ruggero (seconda parte) "
+" " Sa quest'altier ch'io l'amo. Aria di Ruggero (seconda parte) "
 
-" " Questi ch'inditìo fan. Romancsca "
+" " Questi ch'inditìo fan. Romanesca "
 
 " " Deh Licori gratiosa. Aria .
 
@@ -48,7 +48,7 @@ Veni Biocosa et florida Thalia. Madriale anclto del Cimello per la comedia delli
 [Academici Napoletani 3
 
 Di voi già non mi doglio, quanto d'amore. Rime di Pietro Bembo 4
-lesl'è colui che'l mondo chiam'amcre. Versi del Primo triompho del Petrarca 5
+lesl'è colui che'l mondo chiam'amere. Versi del Primo triompho del Petrarca 5
 Già in ogni parte gli armenti lassi dai-an riposo. Stanza di Lodovico Ariosto 7
 Fl-lggi'l sereno c'l verde, non t'appressar. Commiato di Canzone del Petrarca 8
 PWM ch'io torni a voi, lucenti stelle. Versi di Sestina del Petrarca 9

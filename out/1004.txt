@@ -2,7 +2,7 @@ A 5. Neve tu mi rassembri. Di Luca Buti, maestro di capp. del Gran Duca di Tosca
 
 " " Ecco l'alba, ecco il giorno hor ti risveglia 15
 A l0. Ove sì lieti e bel drappel d'amanli. Dialogo 16
-A 6. Quel vivo sole ardente di vostrc altere 18
+A 6. Quel vivo sole ardente di vostre altere 18
 " " [' vo piangendo i miei passati tempi, i quai posi (Petrarca) 19
 " " Si che s'io vini in guerra (u.-conda parte) " 20
 D-Kl: compl.
@@ -26,7 +26,7 @@ Stampato. In Venetia. Appresso Angelo Gardano, et fratelli. 1658 (= 1608).
 5 ſasc. in 8° (C.A.T.B.5.), pag. ZO,(]). Ded. a Lodovico Arriglietti, Fiorenza, 25 X 1608.
 
 A 5. Vago, amoroso dio, se per piagarmi il cor l'arco tuo tendi 1
-" " Qui rise,'o Tirsi, e qui ver me risvolse le due stclle d'amor la bella Clori (Marino) 2
+" " Qui rise,'o Tirsi, e qui ver me risvolse le due stelle d'amor la bella Clori (Marino) 2
 " " Qui con meco s'assise e qui mi cinse (seconda parle) " 3
 " " Fuss'io pur degno, amore, d'esser com'altri già cangiato in fiore 4
 " " Care pupille amate, perche' mentr'io vi miro in me non rimirate 5

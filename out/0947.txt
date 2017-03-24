@@ -9,7 +9,7 @@ A 5. Poi'che di sì vil foco tu sei ripieno, ingrato 84
 " " Fuggi, fuggi, desir fuor del mio core, voland'andrai 91
 " " lo ti ringrati'amor, ch'hai dato bando a tante penc mie 92
 " " Viv'in dolor. torment'in doglia e'n pianto. la notte e'l giorno 93
-" " Se Diana in el ciel è una stclla chiar'e lucente 94
+" " Se Diana in el ciel è una stella chiar'e lucente 94
 " " Na persona che va per dove luce sta, l'ombra ch'in terra 95
 A 6. Stella crudel, perchè fuor non mi guidi di questo mar 96
 " " Amanti miei, voi che scontenti state e di lagrim'ogn'hor 97
@@ -27,7 +27,7 @@ A 5. Sancti Spiritus adsit nobis gratia 110
 " " Ergo nos supplicantcs tibi (terza parte) 112
 " " Emendemus in melius quae ignoranter peccavimus 114
 " " Peccavimus cum patribus nostris (seconda parte) 116
-" " Omncs gentes plaudite manìbus 117
+" " Omnes gentes plaudite manìbus 117
 " " Regnabit Deus super gentes (seconda parte) 119
 A 6. Veni Sancte Spiritus, reple luorum cor 120
 " " Philomena praevia temporis amoeni 122

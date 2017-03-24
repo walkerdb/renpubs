@@ -43,7 +43,7 @@ A 5. La pastorella mia, che m'inamora 1
 " " Quando il desir a riveder mi spinge (Cassola)
 
 " " Madonna, i' trov'ogni bellezza in voi " 5
-" " Se mai candide rose con vermiglic (Petrarca) 6
+" " Se mai candide rose con vermiglie (Petrarca) 6
 " " Le bionde treccie sopra'l collo (seconda parte) . . " 7
 " " Sin che m'amast'amai, arsi s'ardesti. Di neve fui, se fusti fredda mai 8
 " " Ma poi che nuovo amor ti scalda. (seconda parte) lg

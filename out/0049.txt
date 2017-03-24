@@ -46,7 +46,7 @@ A 5. Signor, se la tua gratia è fuoco ardente (Fiamma) 1
 " " Hor che'l supremo sole orna e rischiara 9
 " " Sci Iustri avvolto in mill'errori 10
 " " Poi, scorto il mio periglio (seconda parte) 11
-" " Non t'accorgi, alma mia, del mio tormento IZ
+" " Non t'accorgi, alma mia, del mio tormento 12
 " " Deh pietà del mio mal (seconda parte) 13
 " " Occhi miei, che vedeste il gran vostro fattore 14
 

@@ -2,7 +2,7 @@ A l e Bc. Dilataverunt super me
 
 " " " " Ab omnibus iniquitalibu> mein :
 " " " " Sitivit anima mea lO
-" " " " Quarc tristis es anima mea ]]
+" " " " Quare tristis es anima mea ]]
 " " " " Iniquitatem meam ego cognovi 12
 " " " " Domine spes mea a iuventule mea 13
 " " " " In quo corriget adolescentior ]4
@@ -28,7 +28,7 @@ Airs italiens
 " " " " Deh s'a tanta beltà 34
 " " " " Va, donna ing-rata 35
 Airs francais:
-" " " " Que fcrons nous mon pauvre coeur 36
+" " " " Que ferons nous mon pauvre coeur 36
 " " " " Graves tcsmoins de mes delices 37
 " " " " Vous me l'aviez bien dit 33
 " " " " Quoy Clorinde ru pars 39

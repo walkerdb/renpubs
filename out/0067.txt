@@ -18,7 +18,7 @@ A 4. S'in me potessi, morte, quant'il duolo o almen quant'io vorrei 1
 " " Lasso, che pur da l'un e l'altro sole mi pung'amor 10
 " " Io chiegg'a mort'incontr'a mort'aita ]]
 " " Gentil mia donna, i' veggio nel mover de vostr'occhi (Petrarca) 12
-" " Quest'ardcr mio, di che vi cal sì poco " 13
+" " Quest'arder mio, di che vi cal sì poco " 13
 " " Nè mai stato gioioso, amor, o la volubile fortuna 14
 " " Quanta dolcezza unquanco fu in cor d'avventurosi amanti 15
 " " Io penso se là suso onde'l mottor eterno 16
@@ -26,7 +26,7 @@ A 5. Alla dolce ombra delle belle frondi. Canzone (Petrarca) 17
 A 4. Non vid'il mondo sì leggiadri rami (seconda parte) " 18
 A 5. Un lauro mi difese all'hor dal cielo (terza parte) " 19
 A 4. Però più ferm'ogn'hor (quarta parte) " 20
-A 5. Sclvc, sassi, campagne (quinta parte) " 21
+A 5. Sclve, sassi, campagne (quinta parte) " 21
 " " Tanto mi piacque prima'l dolce lume (sesta parte) " 22
 " " Io non so, donna, come gl'OCchi habbin luce 23
 " " Quando mi vien inanzi il tempo e'l loco (Petrarca) 24
@@ -34,7 +34,7 @@ A 5. Sclvc, sassi, campagne (quinta parte) " 21
 A 4. Er'un tenero fior nat'in quel bosco (seconda parte) " 26
 " " Caro, dolce, alto e faticoso pregio (terza parte) " 27
 A 5- Ma lasso, hor veggio che la carne (quarta parte) " 28
-" " Picn di lacci e di stecchi (quinta parte) " 29
+" " Pien di lacci e di stecchi (quinta parte) " 29
 A 6. Guarda'l mio stato a le vaghezze nove (sesta parte) " 30
 A 5. Deh Dio, perchè sì raro le vostre luci dive 31
 " " Deh potess'io di fore mostrar qual dentr'avvampi 32
@@ -46,7 +46,7 @@ A 3- Valle vicin'et rupi, cipressi (terza parte) " 36
 î? Iïïascîîstïcgb'ctto e fiori (quarta parte) " 37
 A 6. Meg... 1 giocondo nacque (quinta parte) " 38
 " " Rose bianch per quest} monti andran (sesta parte) " 39
-e et vel-miglie ambc le gote (Bembo) 40
+e et vel-miglie ambe le gote (Bembo) 40
 
 I-Fn (Palatino): compl.
 I-VEaf : compl.

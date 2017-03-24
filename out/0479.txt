@@ -2,17 +2,17 @@ A 3. Poi sogiunse al secondo (terza parte) 3
 
 " " Alfin le luci affisse nel Vero amante (quarta parte) 4
 " " O dolci miei pensier, venit'homai alla battaglia, su, chc'l cieco amore 5
-" " M'ha pont'amor con vencnoso dardo e va gridando 6
-" " Et io che'l cor fcrit'ogn'hor (seconda parte) 7
-" " Ma nell'assallo il lusinghicr (terza parte) 8
-" " Et io che mi ritrovo ncll'imprcsa (quarta parte) 9
+" " M'ha pont'amor con venenoso dardo e va gridando 6
+" " Et io che'l cor ferit'ogn'hor (seconda parte) 7
+" " Ma nell'assallo il lusinghier (terza parte) 8
+" " Et io che mi ritrovo ncll'impresa (quarta parte) 9
 A 4. Così nulla mi giova (quinta parte) 10
 A 3. Amanti. homai vivete senza timor di duri lacci o rele 11
 " " All'apparir del mio novello sole volando gl'augelletli 12
-" " Augcllctti amorosetti, cantate i dolci affetti, ch'amor 13
+" " Augelletti amorosetti, cantate i dolci affetti, ch'amor 13
 " " Ninfe leggiadre e belle (Seconda parte) 14
 " " Voi muse in ogni pane spargete (terza parte) 15
-" " Augclli, ninfe e muse, hor non siate (quarta parte) 16
+" " Augelli, ninfe e muse, hor non siate (quarta parte) 16
 " " Amanti, io son hormaì vicino a morte, ma lasso che farò 17
 A 4. Rivestasi la terra di fresch'herbett'e fiori 18
 " " Candida perla, ch'in fin oro accolla, togli il più ricco 19
@@ -22,7 +22,7 @@ I-Bc: compl.
 PL-GD: compl.
 
 714 - DEL MEL Rinaldo (1596) - Madrigaletti a tre voci di Rinaldo Del Mel
-gcntil'huomo fiammengo. Novamente composti et dati in luce. Libro Secondo. In
+gentil'huomo fiammengo. Novamente composti et dati in luce. Libro Secondo. In
 Venetia appresso Angelo Cardano. 1596.
 
 3 fasc. in 8° obl. (C.T.B.), pag. 20.0). Ded. = 1586, ma datata: "Magliano Capo di Sabina.
@@ -31,7 +31,7 @@ ZO V... 1596 ". Indice = 1586.
 I-Bc: compl.
 
 715 __ DEL MEL Rinaldo (1604) .. Madrigaletti a tre voci di Rinaldo Del Mel
-gcnül'huomo fiammengo, novamente ristampati. Libro Secondo. In Venetia, apPſcsso
+genül'huomo fiammengo, novamente ristampati. Libro Secondo. In Venetia, apPſcsso
 Angelo Cardano 1604.
 
 3 fasc. in 8° obl. (C.T.B.), pag. 20,(1). Indice = 1586.
@@ -44,7 +44,7 @@ gl lealdo del Mel. Novamente posto in luce. In Venetia appresso Angelo Garano.
 3 (":_ in 80 obl. (C.T.B.), pag. 21,(1). Ded. al Duca Massimiliano di Baviera Conte Palatino del
 Rheno, Roma, 27 111 1594.
 
-N'nſc. noi scmo uc pasrori erranti, per tropp'amar 1
+N'nſc. noi semo uc pasrori erranti, per tropp'amar 1
 Verde palma d'oliva in don ti porto (seconda parte) 2
 Una vermiglia rosa hora ti porgo (terza parte) 3
 Un candido ligustr'ecco io ti dono (quarta parte) 4

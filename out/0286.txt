@@ -12,8 +12,8 @@ A 2. Alma mia, deh che farai, hor che'l sol non vedrai. Aria (Saracinelli) 10
 A 3. La pastorella mia spietata e rigida. Aria (Sannazzaro) 11
 A 1. e 2. Son arcieri troppo fieri, donn'i tuoi rai. Aria 13
 A 1. Bella luce d'amore, almo mio sole. Madrigale 14
-A 3. Donzeletta vezzosctta, deh rimira questo core. Aria 15
-A 2. chzosctta pastorella, che mi struggi. Aria 17
+A 3. Donzeletta vezzosetta, deh rimira questo core. Aria 15
+A 2. chzosetta pastorella, che mi struggi. Aria 17
 " " Accorta lusinghiera già m'annodast'il cor et hor acciò 18
 A 1. Bella donna mia nemica, se ti spiace ch'io ti dica (Bocchineri) 19
 " " Pur si rupp'il fero laccio e l'incendio. Scherzo 20
@@ -60,5 +60,5 @@ o ." pag. 3 , l . Ded. 81 C3 . Ferdinando SdraClnC . SU "a o 'n . s a l'e e ss l
 
 nante alla nob.ma Città d'Orvieto)... Pisa, 24 XI 1615 ".
 
-__.Z78__.
+__.278__.
 

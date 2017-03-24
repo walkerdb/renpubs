@@ -17,7 +17,7 @@ l
 " " O quante volte, o quante esser bramai 7
 " " E sì grand'il diletto ch'io sento, che capir nol può'] mio petto 8
 " " Poi ch'hai del mio morir ramo desio 9
-" " lo mi vivca com'aquila mirando sempre del mio bel sol (Guarini) 10
+" " lo mi vivea com'aquila mirando sempre del mio bel sol (Guarini) 10
 " " Su. su, che'l giorn'è ſuore, su, su pastori uscite e gli augeletli udite 11
 " " Occhi ridenti e vaghi. d'ogni mio mal presaghi 11
 " " :\himè misero, io canto 13
@@ -33,7 +33,7 @@ I-Bc: compl.
 
 1292 - GROSSI Lodovico (1590) - Canzonctte a quattro voci di Lodovico Viadana
 con un Dialogo a otto di ninfe e pastori, et un'Aria di Canzon franche Peſ
-sonarc. Libro Primo. Novamente compostc, et date in luce. Con priVilcgto. ln
+sonarc. Libro Primo. Novamente composte, et date in luce. Con priVilcgto. ln
 Venetia, 1590. Appresso Ricciardo Amadino. .
 4 (asc. in 8° (C.A.T.B.). pag. ZZ,(1). Ded. ad Alessandro Pico della Mirandola: " Queste mic
 
@@ -54,7 +54,7 @@ A 4. Cantate, o ninfe e voi vaghi pastori 1
 " " Se la mia donna altera udir volcss'un giorno - 7
 " " Miracolo d'amorc: gli acutissimi strali che mi ſerir soavemenle 8
 " " Poichè tu temi, amor, la gran beltà d'lppolita 9
-" " Se volcte ch'io mora, o mia crudel signora ID
+" " Se volete ch'io mora, o mia crudel signora ID
 " " Vola se sai che ti dispregio, amore "
 " " Questa fiamma crudel, che mi distrugge 11
 " " Il navigante corr'alla sirena per prender dal suo canto 13

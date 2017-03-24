@@ -11,7 +11,7 @@ A 5. Se faccio il duol s'nvanza, se parlo aceresco l'ira (Tasso) 4
 " " Pura angioletla, sovra l'ale accorta, par costei nel fuggire leggiadra 13
 " " Quando la bella mano, donna, mostrate di bianca neve algente scuote 14
 " " E ogn'un ch'arder si sente convien che dica (seconda parte) 15
-" " Io conosco il mio errore et so che l'empio amore legge non scrba 16
+" " Io conosco il mio errore et so che l'empio amore legge non serba 16
 " " Quai sian suoi fieri inganni (seconda parte) 17
 " " Rimedio alcun non trovo al mio tormento (terza parte) 18
 " " Tal'è mia trista vita, dubbiosa e senza aita (quarta parte) 19
@@ -53,5 +53,5 @@ A 2. Questi bassi concenti, che da la lingua mia ne miei verd'anni 1
 Dialogo a 3: Amante. Amore et Amico. Parole di Allcssandro Becelli veronese:
 Hor già che'l ciclo e ch'il contempra e move. Amante 20
 
--IZ63-
+-I263-
 

@@ -46,7 +46,7 @@ A 5. Sparg'al girar de l'onde 3
 " " Due rose, nate ambe d'un'herba istessa 11
 " " Fuor de' lacci d'amor lieto vivea 13
 " " Chi è fermato di menar sua vita. Canzon (Petrarca) 14
-" " L'aura suavc a cui govern'e vela (seconda parte) " 15
+" " L'aura suave a cui govern'e vela (seconda parte) " 15
 " " Chiuso gran tempo in questo cieco (terza parte) " 16
 
 - 1215 -

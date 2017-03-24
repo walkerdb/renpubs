@@ -6,7 +6,7 @@ A 5. Sovra una verde e dilettosa riva di chiar'e lucid'onde. Canzon (Sannazzaro)
 A 4. Valli vicine e rupi (terza parte) " 3
 " " Nascan herbette e fiori et i fieri animali (quarta parte) " 4
 A 5. In questo dì giocondo nacque l'alma beltade (quintta parte) " 5
-" " Mcntrc per questi monli andran le fiere (sesta parte) " 6
+" " Mcntre per questi monli andran le fiere (sesta parte) " 6
 " " Per cortesia, canzon, tu pregherai (settima parte) " 7
 " " Per mia vendetta il ciel vi fà seguire, donna crude], chi fugge 7
 " " Mi vedete morire e ben ch'io port'in fronte (seconda parte) 7
@@ -14,7 +14,7 @@ A 5. In questo dì giocondo nacque l'alma beltade (quintta parte) " 5
 " " Me sol, lasso, addolora, me sol, misero, aggiaccia (seconda parte) 9
 " " Come sarà giamai che mi spaventi più pena infinita s'al partir 10
 " " Amor tu solo il sai come tacitamente arsi (seconda parte) 11
-" " Quel dolce amor, che sì soavemente, pien d'honcsto desio 12
+" " Quel dolce amor, che sì soavemente, pien d'honesto desio 12
 " " Così vo a poco a poco consumando l'alma (seconda parte) 13
 " " Principe illustre, de l'Italia honore, che tieni il fren della città 14
 " " Così giustitia, caritate e amore ogn'hor in lei (seconda parte) 15
@@ -50,7 +50,7 @@ A 5. Colci, ch'hora mi strugge et ard'm bel desrre
 6
 
 " " Poi che tal è'l mio Stato che per non far d (seconda parte) 7
-' ' ' 'io in 1.11 cerc !
+' ' ' 'io in 1.11 cere !
 
 " " Mentre la Viva luce, che lampeggiar Vldd h 8
 

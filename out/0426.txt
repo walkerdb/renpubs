@@ -30,14 +30,14 @@ A 5. Viva fiamma felice, che di dolcezza pasce 1
 " " Fclic'angiol beato, che pur hor su dal ciel parea disceso 17
 " " Eccot'Arno beato, ecco'l buon Dafni tuo 18
 " " Nessun visse giamaì più di me lieto (PCN-"CI) 19.
-" " Vicntenc. almo riposo, ecco ch'io tomo 20
+" " Vientenc. almo riposo, ecco ch'io tomo 20
 A 6. Chi ne l'ha tolt'ohimè, chi nel asconde 21
 " " Guardan'almo pastore delle sempre fiorite 22
 " " S'honest'amor può meritar mercede (Petrarca) 23
-" " Spiegat'angcli voi, deh spicgat'il bel volto 24
+" " Spiegat'angeli voi, deh spicgat'il bel volto 24
 " " Quanti travagli et pene l'humana natura 25
 " " Caso, fortun'et sorte hor sott'hor sopra volge 26
-A 9. Sacro cr santo Himeneo, il ciel te chiama ;;
+A 9. Sacro er santo Himeneo, il ciel te chiama ;;
 
 " " Vien, desiato bene (seconda parte)
 D-Mbs: compl.

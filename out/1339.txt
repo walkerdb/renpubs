@@ -5,7 +5,7 @@ A 5; Non tremì alcun mortal di maraviglia, che qua giù 15
 " " Copr'il pensier et ha (quarta parte) 18
 " " Non vola senza pargoleua (quinta parte) 19
 " " Chiunqu'il lrov'e gionge (sesta parte) 20
-A 6. Donne, se mai matern'amor (sctlima parte) 21
+A 6. Donne, se mai matern'amor (setlima parte) 21
 "" Tirsi morir volca, mirando gli occhi di colei (Guarini) ZZ.
 
 PL-GD: compl.
@@ -53,5 +53,5 @@ Occhi piangete 29
 BV: compl.
 H-SY: B.
 
--I3Z9-
+-I329-
 

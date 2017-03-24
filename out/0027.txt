@@ -1,5 +1,4 @@
 O dolce e viva fiamma, o dolce mio tormento, che mi tormenti 9
-
 Sì dolce, amor, mi fu quella cerasa, che dolcemente 9
 Voi, Livia, non m'amate s'in questo mio partire. Cromatico 11
 Tanto è la pena e sì grav'è'l dolore e tanti son gl'homei 12
@@ -7,20 +6,24 @@ Se tu non godi, amore, de le mie gravi pene e miei martiri 13
 Lo stame del mio laccio ragion lo diè, con lui amor m'avolse 14
 Piansi, donna, per voi, perchè'l vostro dolore m'afflige. Cromatico 15
 Veggio sdegnato amor, crudel e fiero, mettersi in arm'e dir pur guerra 16
-Spirto gentile, che ne tuoi verdi anni prendestc. Canzone. 17
+Spirto gentile, che ne tuoi verdi anni prendeste. Canzone. 17
 Che quando torna a la memoria (seconda parte) 18
 Frate mio caro, senza te non posso (terza parte) 19
 Canzon, vedrai di riche spoglie adorno (quarta quarta) 20
 Voi, Livia, non m'amate s'in questo mio partire 21
 Com'havrà vita, amor, la vita mia, se chi mi può dar vita (Cassola) 22
 Da poi che sotto'l ciel cosa non vidi stabile e ferma 23
-Piango e vo piangcr finché'n pianto si distilli 24
+Piango e vo pianger finché'n pianto si distilli 24
 Poi ch'io parto, mio bene, con si dura partita, a te lascio il mio cor 25
 N'altro a me si conviene che pianto angoscie e pena (seconda parte) 25
+
 I-Bc: compl.
 A-Wn: compl.
 
-31 _. AGOSTINI Ludovico (1582) - Madrigali del R. monsig. don Lodovico
+
+
+
+31 - AGOSTINI Ludovico (1582) - Madrigali del R. monsig. don Lodovico
 Agostini Proto, apostolico, capellano, et musico del serenissima et invittissimo sig.
 duca di Ferrara. Libro Terzo. A sei voci. In Ferrara. Appresso gli heredi di Francesco
 Rossi, et Paulo Tortorino compagni con licenza de i Sup. 1582.
@@ -31,29 +34,20 @@ benignità alcuni pochi Madregali, ch'io feci in quel luogo... ho seguitato nell
 altri... ".
 
 Tra Giove in ciel e'l mio signor in terra serva. Al Duca di Ferrara 3
-
 E tuonò l'Abo in non lontani campi (seconda parte) 4
 Tu, che girando la celeste sfera, apporti le stagioni. Al Duca di Ferrara 5
-
 Ecco col nostro duca alme e gioconde (seconda parte) 6
 Non più d'Enea cantare devria Maron nei suoi purgati inchiostri. Al Duca di Mantoa 7
-Né di Maron lo stilc, ne' d'altro a cui fosser le Muse. Ai Principi di Montoa. 8
+Né di Maron lo stile, ne' d'altro a cui fosser le Muse. Ai Principi di Montoa. 8
 Di sempiterna gloria aceresca il ciel la real copia. Ai Principi di Mantoa 9
 Se voi pur, Margarita, siete signora e non più tosto dea. Alla Duchessa di Ferrara 10
 Cantan gli augei contenti e fan dolci concenti i bei pastori. A Laura Peverara 11
 Ho inteso sempre dir che nell'inferno così si sta. Sonetto sopra la Corte 12
-
 Così l'inferno è simile a la corte (seconda parte) 13
 Laura, sete voi quella ninfa vezzosa e bella ch'in alloro. A Laura Peverara 14
-
-Stolto mio core, ove sì lieto vai? Ma tosto :\ me piangendo tornerai. Dialogo a sei
-
-[(Della Casa) 15
-
+Stolto mio core, ove sì lieto vai? Ma tosto a me piangendo tornerai. Dialogo a sei (Della Casa) 15
 Quel canto ohimè rapisce l'alma e'l core sì dolcemente, amore 16
 Quando l'ira del cielo scorre fra tuoni e lampi de la terra et del mar 17
-Sofirt,\soffri, mio core, l'acerba lontananza, che riveder amor tosto ho 18
+Soffri, soffri, mio core, l'acerba lontananza, che riveder amor tosto ho 18
 Qual e maggior la fiamma, ch'io riverso dal petto, o la gran luce 19
 Mentre l'argute sue dolci parole Guirina accorda col suave suono. Ad Anna Guirina 20
-
-

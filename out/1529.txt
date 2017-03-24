@@ -17,7 +17,7 @@ A 5. lo moro, ecco ch'io moro, bella nemica mia (Marino) 1
 " " Fortunato augellino, che dolce sì fai risonar i colli (Rinuccini) 9
 " " Ch'io mora? Oliimè ch'io mora? Morrò, ma che sia poi (Marino) 10
 " " S'in me potesse morte quant'il duolo, o almen quant'io vorrei Il
-" " Se la doglia e'l martire non può [armi morire (Marino) IZ
+" " Se la doglia e'l martire non può [armi morire (Marino) 12
 " " O baci avventurosi, ristoro (le miei mali. Canzon (le baci " 13
 "" Una bocca homicida (seconda parte) " 14
 " " Tranquilla guerra (terza parte) " 15

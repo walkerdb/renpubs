@@ -11,7 +11,7 @@ A 2. 'Alle gioie, pastori, ai diletti, a gl'amori 24
 " " Voi v'ingannate, o donna, se con vostre 31
 " " Poi ch'a baciar n'invita il susurro de l'onde (Marino) 34
 " " Bavianne, Aminta mio (seconda parte) " 37
-" " Pargolctta vezzosa, pargoletta amorosa 39
+" " Pargoletta vezzosa, pargoletta amorosa 39
 " " Baci, sospiri e voci alternavan duc bocch'insiem (Casonc) 41
 " " Bella Filli crudele, se bramate che mora 42
 " " Se non hai di ferro il core 44
@@ -32,7 +32,7 @@ A 3. Crud'Amarilli, che col nom'anchora d'amar. ahi lasso, amarament'inscgni (Gu
 " " Se mi s'asconde il sole chi fia che liet'a serenar più torni 5
 " " Gigli, viole, fase che per fredda slagion giacct'ascose 6
 " " Sempre crudele? e'l fine della tua crudeltà non vedrò pria 7
-" " Ride madonna e'l riso che fra perl'e rubin scren'il cielo B
+" " Ride madonna e'l riso che fra perl'e rubin seren'il cielo B
 " " Lauro, ohimè ]aur'ingrato, alcun de pregi tuoi non hai smarrito (Guarini) 9
 " " Deh com'in van chiedete d'udir, bella sirena, il canto mio " 10
 " " Al suon de vostri accenti perdei la voce (seconda parte) " 11

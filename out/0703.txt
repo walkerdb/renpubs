@@ -33,7 +33,7 @@ A 5. Muse, perch'io m'avveggio che tant'alto non sale. Canzon 22
 " " Di quanti sparga il mont'o sparga il piano (quinta parte) 26
 " " Svegliatevi augellini et questa bianca (sesta parte) 27
 " " Eccoti, Arno tranquillo, Arno beato, il mio gentil signore. Canzon 28
-" " Non più nell'oricnte per riveder il sol (seconda parte) 29
+" " Non più nell'oriente per riveder il sol (seconda parte) 29
 " " Coreasi spesso il mio bel sol novello (terza parte) 30
 " " D'Arno stilla o sc'l ciel pur mi facessi (quarta parte) 31
 " " Felice, anzi beato Arno tu che quel bel (quinta parte) 32

@@ -9,7 +9,7 @@
 " " Vivo mio ghiaccio et colorita neve. gelato marmo 20
 "" Da duo occhi lucenti amorosa ſavilla al cor mi Scende 21
 " " Canlai un tempo et se fu dolce il canto (Bembo) 22
-A 6. Piama beata, che già fosti (legna posscdcr (l'un tal (lio Lì
+A 6. Piama beata, che già fosti (legna posscder (l'un tal (lio Lì
 " " Fiamm'amorosn et bella. che da begli occhi (Nat'ugero) 24
 " " Quel rossignuol, che sì soave piagnc (Petrarca) 25
 " " Scalda, signor, il mio gelato cuore et rompi'l marmo 26
@@ -38,7 +38,7 @@ I-Bc: A
 
 I-VEal' : .6.
 
-355 - DONATO Baldassarre (1560) _- Di Baldassarc Donato il Primo Libro di
+355 - DONATO Baldassarre (1560) _- Di Baldassare Donato il Primo Libro di
 Madregali a cinque et a sei voci con tre Dialoghi a sette nuovamente per Antonio
 Gardano ristampato. In Venetia appresso di Antonio Gardano. 1560.
 

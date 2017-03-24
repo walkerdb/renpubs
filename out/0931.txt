@@ -12,7 +12,7 @@ A 5. O quam fragrans 73
 " " Quis valet eloquio 84
 " " Beatus ille qui procul 34
 " " Ergo aut adulta (seconda parte) 85
-" " Libet iaccrc modo (terza parte) 35
+" " Libet iaccre modo (terza parte) 35
 A 6. Heroum soboles, amor orbis 85
 " " Or sus, esgaions nous 86
 " " Pacis amans cultorque 86

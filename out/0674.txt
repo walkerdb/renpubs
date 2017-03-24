@@ -7,7 +7,7 @@ A 3. All'arm'all'arm'amore sfida ed io ch'arme non ha 2
 " " Dolori e pene e pianti son parole d'amanti 4
 " " Dirò che nel partire da voi provi il morire? Partita d'amante 5
 " " Dirò ch'io vivo? No, che non è vivo (seconda parte) S
-" " O se l'idolo mio piangesse al pianto mio, direi al piangcr S
+" " O se l'idolo mio piangesse al pianto mio, direi al pianger S
 " " Non sa che sia dolor chi non ha'l mal d'amor 6
 " " Voi pur da me partite, anima mia, nè vi duol di partire (Guarini) 6
 " " Mille dolci parolette vezzosette mi dicesti al mio ritorno 6
@@ -22,7 +22,7 @@ A 1. La pastorella mia spietata e rigida, che nott'e giorn'al mio " 10
 " " Occhi belli, occhi lucenti, del mio sol fiammelle ardenti 12
 " " Ombra son io d'un infelice amante, che per piaga d'amor 14
 " " Dunque non scoprirò quel fiero ardor, che mi consuma il sen? 16
-" " O lumi, o chiarc stcllc, ch'al lampeggiar de vostri dolci sguardi 18
+" " O lumi, o chiare stellc, ch'al lampeggiar de vostri dolci sguardi 18
 " " O bocca dolc'e cara di perle e di rubin (seconda parte) 20
 " " O guancic, ameni prati, ove fra bianch'e (terza parte) 21
 " " O guancie, o bocca, o lumi, per voi qual cera (quarta parte) 22

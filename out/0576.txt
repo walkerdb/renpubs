@@ -18,7 +18,7 @@ primo libro... le primitie delle fatiche... Roma, 15 XI 1574 ".
 
 A 5. Vago ornamento il mio bel sol porgea a l'aureo crespo crine 3
 " " O dolorosi amanti, che spregiando la vita solo bramate 4
-" " Eran sì chiari alla mia donna intorno i raggi, ovc'l cor m'arse 5
+" " Eran sì chiari alla mia donna intorno i raggi, ove'l cor m'arse 5
 " " Bella man, di pietà tu mi pur leghi e carchi 6
 " " E d'onde trepidetta aura lasciva, che sì dolce volando 7
 " " Del tuo spirto aura son, nè sì lasciva (seconda parte) 8
@@ -33,7 +33,7 @@ A 5. Vago ornamento il mio bel sol porgea a l'aureo crespo crine 3
 " " Almen vedete dall'incendio mio come parto (terza parte) "
 " " Di faville d'amor, di riverenza dinanzi (quarta parte) 15
 " " Questo è pur ver, madonna. Pocho sta l'amoroso foco se'l sguardo (Cassola) 16
-" " Vero è ch'io scrissi che celeste sete (seconda parte) " 16
+" " Vero è ch'io serissi che celeste sete (seconda parte) " 16
 " " Hor come, amor, tanto miracol fai ch'io senza cor, ella con doi "
 " " Amor, che nel bel petto e ne begl'occhi di questa mia nemica 18
 " " Ncllo sparir del giorno un bel fioritt'apparse 18

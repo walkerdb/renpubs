@@ -26,7 +26,7 @@ A 1. Scorto da rai di due bei lumi 1
 " " Ch'ogni basso pensier (seconda parte) 6
 " " Misero chi nel petto (terza parte) 7
 " " Per lui mai non refulse (quarta parte) 8
-" " Dunque scmpre vedrò 9
+" " Dunque sempre vedrò 9
 " " Deh se quest'angioletta (seconda parte) 10
 " " Misero s'io rimangi (terza parte) 11
 " " Feriscime che il crin (quarta parte) 12
@@ -38,7 +38,7 @@ A 1. Scorto da rai di due bei lumi 1
 " " Quelle pietose man (seconda parte) 18
 " " Quei piè che di Pluton (terza parte) 19
 " " Ma s'è il fin giunto (quarta parte) 20
-" " Hog'gi di padrc eterno. Sonetto 21
+" " Hog'gi di padre eterno. Sonetto 21
 " " Trema la terra (seconda parte) 21
 " " .Hor se che non ha senso (terza parte) 22
 " " Tu, rio cor, che del ciel (quarta parte) 22
