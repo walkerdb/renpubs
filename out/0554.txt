@@ -27,8 +27,8 @@ n " Poco quindi lontan nel sen del monte (seconda parte) 16
 " " Non morì già che sue virtudi accolse (terza parte) . 17
 " " Torna dunque, deh torna, dolce vaghezza mia. Lettera amorosa del Cavalier Marini 13
 " " Voglio il mio duol scoprir. Languite al mio languir. Parole del Ferranti 22
-" " Pallidetla qual viola è la bella antorclla. Parole del Ferranti B-
-" " Che stringo? Ah dove sono et in qual parte? L'Apollo. Parole dell'autore 24
+" " Pallidetla qual viola è la bella antorclla. Parole del Ferranti B"
+" Che stringo? Ah dove sono et in qual parte? L'Apollo. Parole dell'autore 24
 " " Ma lasso ohimè che chieggio (seconda parte) 25
 " " Hor ch'altro non mavan7a (terza parte) 28
 " " Occhi della mia vita, in cui si vede dolce schenar. Dialogo a una et due voci 19

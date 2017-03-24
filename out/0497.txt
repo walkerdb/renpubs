@@ -21,8 +21,8 @@ I-Bc: compl.
 
 A-Wn: compl.
 
-I-Fn: C. (manc. di pag. 3-4). N"-
-I-Nc: C.T.B.
+I-Fn: C. (manc. di pag. 3-4). N"I-Nc:
+C.T.B.
 
 I-Rsc: S.
 
@@ -33,8 +33,8 @@ GB-Ob (Harding): A.
 RISM, I 1585-27.
 
 741 - DE MONTE Filippo (1581) - Di Filippo di Monte maestro di cappella
-della sac. ces. maestà dell'imperadore Rodolfo Secondo, il Quarto L1bro de Madn-
-gali a quattro voci da lui nuovamente composti, et dati in luce. In Venetia appresso
+della sac. ces. maestà dell'imperadore Rodolfo Secondo, il Quarto L1bro de Madngali
+a quattro voci da lui nuovamente composti, et dati in luce. In Venetia appresso
 Angelo Cardano 1581.
 
 4 fasc. in 8° obl. (C.A.T.B.), pag. 21,(1). Ded. al Conte Georgio di Monfort, Brcghens, Tettenang,

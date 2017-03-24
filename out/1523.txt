@@ -49,8 +49,8 @@ A 2. Miserere mei 95
 " " Sepulto Domino 97
 A 4- Il Gentile. Canzona A Pietro Maria Gentile 98
 A 5. La Serra Gentile. Canzona. A Maria Gentile Serra 100
-" " L'Invrea. Canzona. A Tomaso Invrea 102-
-A 4. La Grimaldona. Canzona quarta. A Gio. Battista Grimaldo, detto il Grimaldonc 106
+" " L'Invrea. Canzona. A Tomaso Invrea 102A
+4. La Grimaldona. Canzona quarta. A Gio. Battista Grimaldo, detto il Grimaldonc 106
 A 3 Lamentatio lercmiae prophctac 108
 
 - 1513 -

@@ -11,8 +11,8 @@ GB-Och: compl.
 I-Rc: C.B.5.
 
 829 - D'INDIA Sigismondo (1616) - Il Quinto Libro de Madrigali a cinque voci.
-Di Sigismondo D'India capo della musica di camera del serenissimo, et invitis-
-simo duca di Savoia, novamente posto in luce. Con privilegio. In Venetia 1616.
+Di Sigismondo D'India capo della musica di camera del serenissimo, et invitissimo
+duca di Savoia, novamente posto in luce. Con privilegio. In Venetia 1616.
 Appresso Ricciardo Amadino.
 
 Sfasc. in B" (C.A.T.B.5.), pag. ZZ. Ded. al Cav. chrico Vottone, Torino, 28 V] 1616.
@@ -43,8 +43,8 @@ GB-Och: compl.
 I-Rc: C.B.5.
 
 3310 - D'INDIA-\ Sigismondo (162,4) - Settimo Libro de Madrigali a cinque voci
-Cl cavalier Sigismondo D'India. Dedicati al serenissimo prencipe Mauritio cardi-
-nae di Savma. In Roma, appresso Gio. Battista Robletti. 1624. Con licenza de'
+Cl cavalier Sigismondo D'India. Dedicati al serenissimo prencipe Mauritio cardinae
+di Savma. In Roma, appresso Gio. Battista Robletti. 1624. Con licenza de'
 Superiori.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. B. bed., Roma, 1° V... 1624.

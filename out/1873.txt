@@ -13,8 +13,8 @@ I-Sd: T.
 
 Un esempl. compl., ina difetto"), Csidlevn nella Collezione Heyer di Kòln.
 
-2992 - (De) WERT ]acob (1588) - Di Giaches de Wert il Nono Libro de Madri-
-gali a cinque et sei voci, novamente composto, et dato in luce. Con privilegio.
+2992 - (De) WERT ]acob (1588) - Di Giaches de Wert il Nono Libro de Madrigali
+a cinque et sei voci, novamente composto, et dato in luce. Con privilegio.
 In Venetia appresso Angelo Gardano. 1588.
 
 6 fasc. in 8° ob]. (01°, 02°, A., T., B., S.), pag. ZZ,(1). Ded. a Vincenzo Gonzaga, Duca di
@@ -34,8 +34,8 @@ A 5. Hor si rallegra il cielo e la sua fronte. Nell'incoronationc del Duca di Ma
 " " Mia benigna fortuna e'l viver lieto. Seslina " 2
 " " Crude], acerba, inesorabil morte (seconda parte) " i:
 " " Di morte già sentia . - 15.
-" " L'anima mia ferita versa per gli occhi fuore. un fiume . . "-
-" " O come vaneggiate, donn-i, pensando havermi tolto il core (Guarini) 17)
+" " L'anima mia ferita versa per gli occhi fuore. un fiume . . ""
+" O come vaneggiate, donn-i, pensando havermi tolto il core (Guarini) 17)
 A 6. Quel rossignol, che sì soave piagne forse suor figli (Petrarca) n
 " " O che licv'è ingannar chi s'assieura (seconda parte) " . . .
 " " Un bacio solo a tante pene, ahi cruda, un bacio a tanta fede (Guarini) è:
@@ -48,6 +48,6 @@ I-VEaf: compl.
 D-Mbs: compl.
 
 I-Bc: C.1°, A.T.B.5.
-I-Fn: c.2°. AIB-5-
-GB-Lbm: C.P. A-T-B-
+I-Fn: c.2°. AIB-5GB-Lbm:
+C.P. A-T-B-
 

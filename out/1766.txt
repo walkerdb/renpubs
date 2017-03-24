@@ -58,8 +58,8 @@ GB-Lcm: compl.
 
 PL-GD: compl.
 
-US-Wc: compl. (prov. Heyer). (C. solo pag. 1-6; B. solo pag. 1-14; 5. solo pag. 1-15)-
-I-Fn: C.T. (prov. Landau).
+US-Wc: compl. (prov. Heyer). (C. solo pag. 1-6; B. solo pag. 1-14; 5. solo pag. 1-15)I-Fn:
+C.T. (prov. Landau).
 I-Bc: C.
 
 I-Sc: C.

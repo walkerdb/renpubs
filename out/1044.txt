@@ -25,8 +25,8 @@ F-Psg: T.B.5.
 B-Amp: T.
 NL-At: 5.
 
-1675 - MARENZIO Luca (1608) - Lucae Marentii musici celeberrimi, Madri-
-gali sex vocum, antea Venetiis, diversis temporibus, sex separatis edita librlS,
+1675 - MARENZIO Luca (1608) - Lucae Marentii musici celeberrimi, Madrigali
+sex vocum, antea Venetiis, diversis temporibus, sex separatis edita librlS,
 jam vero, commodioris usus caussa, uno volumine conjunctim excusa. Noribergaen
 typis et sumtibus Pauli Kauffmanni. 1608.
 
@@ -41,8 +41,8 @@ I-BRq: A.
 Pl.-Llîlpn: A.
 
 1676 - MARENZIO Luca (1584) .. Madrigali spirituali di Luca Marenzio a
-cinque voci novamente stampato et dato in luce. Libro Primo cum privilegio-
-In Roma per Alessandro Gardano 1584. Con licentia de i Superiori.
+cinque voci novamente stampato et dato in luce. Libro Primo cum privilegioIn
+Roma per Alessandro Gardano 1584. Con licentia de i Superiori.
 
 S [asc. in 8° (C.A.T.B.5.), pag. Zl. Ded. a Lodovico Bianchetti, mastro di camera di N. S., Roma,
 24 IV 1584.

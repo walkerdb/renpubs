@@ -30,12 +30,12 @@ I-SPE: B. per org.
 
 ' O
 
-\57-
-345 - BERNARDO Pisano (1'620') - Musica de meser Bernardo Pisano sopra le
+\57345
+- BERNARDO Pisano (1'620') - Musica de meser Bernardo Pisano sopra le
 Canzone del Petrarcha.
 
-In fine: " Impressum Forosempronii per Octavianum Petrutium civem forosempro-
-nlensem anno Domini 1520 die 23 mai ".
+In fine: " Impressum Forosempronii per Octavianum Petrutium civem forosempronlensem
+anno Domini 1520 die 23 mai ".
 
 Vol. in 8° obl., c. 18.
 
