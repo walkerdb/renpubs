@@ -38,8 +38,8 @@ Canzon sesla
 Canzon settima Î?
 Canzon ottava
 
-D-As: C.l", A.1°, Al", T.l°, T.Z°, B.l°, B.l°, 5.618.
-GB-Lbm: C.l°, A.l°, B.l°, B.Z°.
+D-As: C.l", A.1°, Al", T.l°, T.2°, B.l°, B.l°, 5.618.
+GB-Lbm: C.l°, A.l°, B.l°, B.2°.
 Sartori, ]603d.
 
 2651 - STlVORI Francesco (1598) - Madrigali e Dialoghi a otto voci, per caätîll;

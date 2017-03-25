@@ -22,7 +22,7 @@ A 7. S'amor non è, che dunqu'è quel ch'io sento. Dialogo " 27
 " " [' vidi in terra angelici costumi e celesti bellezze. Dialogo " 28
 A-Wn: compl.
 
-1-Bc: A.T.B.5.
+I-Bc: A.T.B.5.
 
 lVEaf: B.
 

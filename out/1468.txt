@@ -22,7 +22,7 @@ A 4. A qualunque animal alberga in terra. Canzone prima (Petrarca) 1
 " " Con lei ſoss'io da che si part'il sole (sesta parte) " 6
 " " Non ha tanti animali il mar fra l'onde, nè la su. Canzone seconda " 7
 " " Di dì in di spero homai l'ultima sera (seconda parte) " B
-" " Io non hcbbi già mai tranquilla notte (terza parte) " 9
+" " Io non hebbi già mai tranquilla notte (terza parte) " 9
 " " Consumando mi vo di piaggia in pioggia (quarta parte) " 10
 " " Le città son nemiche, amici i boschi (quinta parte) " 11
 " " Deh hor foss'io col vago de la luna (sesta pam " 11

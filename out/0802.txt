@@ -10,13 +10,13 @@ A 2. A pover'impiagati, donne, deh per pietaate 2
 A 1. Amor, sempr'ho da stridere 4
 " " O dotti medici, fate un collegio 6
 " " Un mi chiama ignorante e che'l cervel mi vola 6
-A 2. A scemi di cervello, donne, deh per pictate 6
+A 2. A scemi di cervello, donne, deh per pietate 6
 " " Ove sta l'hospedale. Amante cieco 6
 A 1. Date la voce olà, che passa amore 3
 A 2. A poveri accecati, donne, deh per pietate 9
 " " O voi dell'hospedale un carco d'anni. Amante vecchio 10
 A 1. Ballate, o miei pensier, ch'io sonerò 10
-A 2. A vecchi innamorati, donne, deh per pictate 11
+A 2. A vecchi innamorati, donne, deh per pietate 11
 A 5. Viva, viva la pazzia. Choro de pazze 12
 A 2. Poi che giunto pur sono a l'hospedale. Amante povero "
 A 1. Son le sfere per amore pazz'e giran con furore "

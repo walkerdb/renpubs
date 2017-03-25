@@ -2,7 +2,7 @@ GB-Och: compl
 
 D-Mbs: A.T.B.5.
 
-1-Bc: C.T.B.
+I-Bc: C.T.B.
 
 US-SFsc (De Bellis): C.S.
 I-Rsc: C.

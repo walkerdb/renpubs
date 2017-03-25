@@ -14,7 +14,7 @@ Dolce mio duol, novo nel mondo o raro (seconda parte) " 8
 Quest'è Tirsi quel fonte in cui solea specchiarsi la mia dolce pastorella 9
 Sotto questo antro al fin, cinto d'allori (seconda parte) 10
 Se non set'empia tigre in volt'humano, spero, dolce mio mal (Di Costanzo) 11
-Nè varrà che piangendo vi dimostri (seconda parte) " " 12
+Nè varrà che piangendo vi dimostri (seconda parte) " 12
 Chi mi consola, ahi lasso? Chi mi conforta, chi mi porta aita? 13
 Questi, ch'indicio fan del mio tormento, sospir non sono (Ariosto) 14
 Chi dice che'l partire sia doglia di morire, libero vive e non conosce amore 15
@@ -23,15 +23,21 @@ Come'l candido piè per l'herba fresca i dolci passi honestamente (Petrarca) 17
 E con l'andar e col soave sguardo s'accordan (seconda parte) " 18
 Io vo piangendo i miei passati tempi, i quai posi in amar " 19
 Sì che s'io vissi in guerra et in tempesta (seconda parte) " 20
-Tra vaghi e matutini albori ardea l'aurat'aurora e scintillava in ciel 2-1
+Tra vaghi e matutini albori ardea l'aurat'aurora e scintillava in ciel 21
 Al parlar dolce de la donna mia si riveston di fior le riv'e i colli 22
+
 A-Wn: B.
+
+
+
+
+
+
 
 80 - ANGELINI BONTEMPI Giovanni Andrea (1662) - Il Paride, opera musicale,
 dedicata alle serenissime altezze di Christiano Ernesto, margravio di Brandanburgo...
 et Ermude Sofia, principessa di Sassonia... nella celebratione delle loro
 nozze, di Gio. Andrea Bontempi perugino. In Dresda appresso Melchio Bergen,
-
 stampator di corte. 1662.
 
 Vol. in 4. Ded., Dresden, 3 XI 1662... Testo italiano e tedesco.
@@ -45,4 +51,3 @@ D-W
 F-Pn
 PL-GD
 PL-Wn
-

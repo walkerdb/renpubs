@@ -12,7 +12,7 @@ E-Mn: C.
 
 GB-Lbm: C.
 
-1-Bc: B
+I-Bc: B
 
 I-BRq: B.
 
@@ -24,7 +24,7 @@ mente ristampate. Seconda impressione. In Venetia, presso Giacomo Vincenzi-
 
 D-Mbs: compl.
 GB-Lbm: C.T.
-1-Bc: C.B.
+I-Bc: C.B.
 I-BGc: C.
 B-Br: C.
 GB-Ckc: C.

@@ -42,7 +42,7 @@ I-Rsc: C.A.B.5.6.
 
 1-Sd: C.T.B.5.6.
 
-1-Bc: C.T.B.5.6.
+I-Bc: C.T.B.5.6.
 
 1-Ps: C.T.B.
 

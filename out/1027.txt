@@ -21,7 +21,7 @@ A-Wn: C.T.5.
 D-Rp: C. (prov. Haberl).
 I-VEaf: B.
 
-1-Bc: 5.
+I-Bc: 5.
 
 US-BU: 5.
 

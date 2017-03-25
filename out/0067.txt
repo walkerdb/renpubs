@@ -1,3 +1,8 @@
+
+
+
+
+
 86 - ANIMUCCIA Giovanni (1547) - Animuccia. Primo Libro di Madrigali a
 quatro a cinque et a sei voci de l'Animuccia novamente venuti in luce. Libro
 Primo. In Venetia apresso di Antonio Gardane 1547.
@@ -26,34 +31,31 @@ A 5. Alla dolce ombra delle belle frondi. Canzone (Petrarca) 17
 A 4. Non vid'il mondo sì leggiadri rami (seconda parte) " 18
 A 5. Un lauro mi difese all'hor dal cielo (terza parte) " 19
 A 4. Però più ferm'ogn'hor (quarta parte) " 20
-A 5. Sclve, sassi, campagne (quinta parte) " 21
+A 5. Selve, sassi, campagne (quinta parte) " 21
 " " Tanto mi piacque prima'l dolce lume (sesta parte) " 22
-" " Io non so, donna, come gl'OCchi habbin luce 23
+" " Io non so, donna, come gl'occhi habbin luce 23
 " " Quando mi vien inanzi il tempo e'l loco (Petrarca) 24
 " " Anzi tre dì creat'er'alm'in parte. Canzone " 25
 A 4. Er'un tenero fior nat'in quel bosco (seconda parte) " 26
 " " Caro, dolce, alto e faticoso pregio (terza parte) " 27
-A 5- Ma lasso, hor veggio che la carne (quarta parte) " 28
+A 5. Ma lasso, hor veggio che la carne (quarta parte) " 28
 " " Pien di lacci e di stecchi (quinta parte) " 29
 A 6. Guarda'l mio stato a le vaghezze nove (sesta parte) " 30
 A 5. Deh Dio, perchè sì raro le vostre luci dive 31
 " " Deh potess'io di fore mostrar qual dentr'avvampi 32
 " " L'infinita beltà, ch'in voi risplende, ogn'hor mi fà morire 33
-22 Sovr'Àma verde e dilettosa riva d'i chiar'et lucid'onde. Canzone (Sannazzaro) 34
-- pri lusc10 per tempo, leggiadro (seconda parte) " 35
-
-A 3- Valle vicin'et rupi, cipressi (terza parte) " 36
-î? Iïïascîîstïcgb'etto e fiori (quarta parte) " 37
-A 6. Meg... 1 giocondo nacque (quinta parte) " 38
-" " Rose bianch per quest} monti andran (sesta parte) " 39
-e et vel-miglie ambe le gote (Bembo) 40
+" " Sovr'una verde e dilettosa riva d'i chiar'et lucid'onde. Canzone (Sannazzaro) 34
+A 4. Apri luscio per tempo, leggiadro (seconda parte) " 35
+A 3. Valle vicin'et rupi, cipressi (terza parte) " 36
+A 4. Nascan herbette e fiori (quarta parte) " 37
+A 5. In questo dì giocondo nacque (quinta parte) " 38
+A 6. Mentre per per questi monti andran (sesta parte) " 39
+" " Rose bianche et vermiglie ambe le gote (Bembo) 40
 
 I-Fn (Palatino): compl.
 I-VEaf : compl.
 I-VEcap: compl.
 GB-Lbm: compl.
-
 I-Af : A.T.
-
 I-Sac: S.
 

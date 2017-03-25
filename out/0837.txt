@@ -27,7 +27,7 @@ Scnl'in quest'un romore d'huomini cacciatori (terza parte) 19
 Hor via (li buona voglia che siamo giunl'nl slreno (quarla parte) 22
 
 D-W: compl.
-1-Bc: A.T.B.
+I-Bc: A.T.B.
 F-Pmcycr: A.D.
 GB-Lbm: C.
 

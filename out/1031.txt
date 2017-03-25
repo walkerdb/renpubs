@@ -56,7 +56,7 @@ Venetia, 10 IV 1581.
 " " Mentre fia caldo il sol, fredda la neve, humid'il mar 7
 " " Al suon de le dolcissime parole et agl'ultimi accenti 8
 " " Nel più fiorito aprile cantano in vario suon dolc'e gentile 9
-" " O dolorosa sorte, le lagrime e i sospir non mi dan morlc (Quirino) 10
+" " O dolorosa sorte, le lagrime e i sospir non mi dan morle (Quirino) 10
 " " Ahimè mi fu d'amore e l'esca : l'amo " 11
 
 - 1021 -

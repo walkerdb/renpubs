@@ -50,7 +50,7 @@ In questo muto e sì deserto lito Tcse'ingralo e crudel. Di Giorgio Gagi Cavalle
 GB-Lbm: compl.
 GB-Och: compl.
 GB-LI: C., C.2°, A., B.
-B-Gu: C., C.,Z°, A., Bc.
+B-Gu: C., C.,2°, A., Bc.
 GB-Lcm: C., C.2.°, Bc.
 RISM, I 1620-16.
 

@@ -23,7 +23,7 @@ Dialogo pastorale a 3, CA. e B.:
 
 A 1. Ninfe e pastori, venite al monte. B. solo 40
 A 2. Eccone pronti, o pazzarello. C. e A. (seconda parte) 40
-A 3. Su, su, contenti cantiam fcstosi. C.A. e B. (terza parte) 41
+A 3. Su, su, contenti cantiam festosi. C.A. e B. (terza parte) 41
 A 1. La bizzaretta Armilla dolcemente mi fissa. C. solo (quarta parte) 41
 " " La mia Celia amorosa, vagamente vezzosa. A. solo (quinta parte) 42
 " " Non vi dole'te, amanti, siate fermi. B. solo (sesta parte) 42

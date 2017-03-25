@@ -1,5 +1,4 @@
 Signor, dolce mia vita. Laude 19
-
 Occhi pietosi et casti. Laude 20
 Alma diletta e cara. Laude 22
 Damm'un bel cor, Signore. Laude 22
@@ -9,12 +8,15 @@ Icsu, sposo mio dolce. Laude 27
 Al bel fonte sacro e degno 27
 
 E-VAcp: compl.
-I-Rv: C.2°, A.l°, A.2°, T.l", T.Z°, B.
-
+I-Rv: C.2°, A.l°, A.2°, T.l", T.2°, B.
 P-C: C.l°, C.l°.
 I-FA: C.l°.
 D-Rp: C.l°.
 I-Rsc: B.2°.
+
+
+
+
 
 85 - ANIMUCCIA Giovanni (1565) - Il Primo Libro de Madrigali, a tre voci,
 di Gio. Animuccia. Con alcuni Motetti et Madrigali spirituali, non più stampati.
@@ -24,25 +26,15 @@ In Roma, per Valerio Dorico. L'anno 1565.
 Roma, 19 VII 1656.
 
 Dolcissimo riposo, della notte figliuol, del sonno padre (G.B. Strozzi) 1
-Scendi, riposo, hor da l'acccse stelle (seconda parte)
-Esci del chiaro seno de la tua Stella (terza parte)
-Posa tranquilla, posa dolce (quarta parte)
-
-Entra'n questi occhi lassi (quinta parte)
-Ohimè lasso, e quando chiuderai (sesta parte)
-Deh riposo mio, scendi et dal seren (settima parte)
-
-)) )) ))
-
-)) )) )) 4
-)) )) )) 5
-)) )) )) 6
-)) )) )) 8
-)) )) )) 9
-
-Involati, riposo humil et queto (ottava parte) " " " 10
-Hor che'l prato et la selva (nona parte) " " " 11
-Morte soave, poi che tuo frate (decima parte) " " " 12
+Scendi, riposo, hor da l'acccse stelle (seconda parte) " 2
+Esci del chiaro seno de la tua Stella (terza parte) " 4
+Posa tranquilla, posa dolce (quarta parte) " 5
+Entra'n questi occhi lassi (quinta parte) " 6
+Ohimè lasso, e quando chiuderai (sesta parte) " 8
+Deh riposo mio, scendi et dal seren (settima parte) " 9
+Involati, riposo humil et queto (ottava parte) " 10
+Hor che'l prato et la selva (nona parte) " 11
+Morte soave, poi che tuo frate (decima parte) " 12
 Là ver l'aurora, che sì dolce l'aura (Petrarca) 13
 Ne lo sparir del giorno un bel fiorett'apparse 15
 Hoggi in terra dal ciel l'alto monarca, humil servo discese 16
@@ -61,4 +53,3 @@ Ipse enim pater amat vos (seconda parte) 28
 I-Fn: compl.
 I-Rsc: compl.
 S-Uu: compl.
-

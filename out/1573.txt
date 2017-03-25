@@ -26,8 +26,8 @@ A 4. Chi mi consola, ahimè? Son disperato. Alla napolitana 18
 A 8. Per te languisco, amore. Dialogo 19
 A 5. Havessi dui capilli d'essi tuoi. Alla napolitana 2"
 " " Fuggendo il mio dolor io m'era assiso. Alla napolitana 21
-" " Pensai, madonna, che col star lontano 7-3
-A 6. La bella vostra immagine (seconda parte) 7-3
+" " Pensai, madonna, che col star lontano 73
+A 6. La bella vostra immagine (seconda parte) 73
 A 4. O voi che sete liberi 24
 A 8. Ferma, ferma, Caronte. Chi è costui che grida. Dialogo 25
 I-Ls: compl.

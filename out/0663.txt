@@ -51,7 +51,7 @@ US-Charding: A.D.
 ' orauoſſVecchi ai lacnigni Lettori: ((. non se ne trova più copia, mi risolvo che si ristampi, et
 "'"0 Piu volonlleri che a ciò mi persuade il Sig. Lodovico Ronchi... Venetia, 1° XII 1603 ".
 
-1-Bc: compl.
+I-Bc: compl.
 F-Pc: compl.
 I-de: A.B.5.
 1-MOc: CA.

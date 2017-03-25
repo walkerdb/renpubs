@@ -18,7 +18,7 @@ A 5. Fuggan le nevi e i duri ghiacci homai scopra in vece di nubi e d'atri horro
 " " Ma come è che sicuro aSsai mi rendi (terza parte) 9
 " " Che s'ella del mio amor paga e contenta (quarta parte) 10
 " " Però vogli, signor, rendermi certo se dopo (quinta parte) 11
-" " L'aria che chiara era tranquilla e pura mentre da bei vostr'occh'hcbbe 12
+" " L'aria che chiara era tranquilla e pura mentre da bei vostr'occh'hebbe 12
 " " Al'hor che l'età mia verde fioriva sperai con dolci armonici concenti 13
 " " Portan ben seco dolci, almi conforti le rime tue (seconda parte) 14
 " " Poi che quando da voi, lasso, il più torsi non m'ancise il martire 15

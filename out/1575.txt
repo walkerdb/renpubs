@@ -20,7 +20,7 @@ A 5. Quando con mille vagh'crbenc infiori 1
 " " Dai freddi hcsperii a caldi (seconda parte) 7
 " " E mentre che n'andran per (terza parte) 3
 " " Ballava Tirsi al suono d'una dolce sampogna 9
-" " Ardo si, ma non t'amo, perfida e dispictata (Guarini) ...
+" " Ardo si, ma non t'amo, perfida e dispietata (Guarini) ...
 " " Ardi o gela a tua voglia, perfido ed impudico. Risposla. Di Ora:/'o Crirci (Tasso) 11
 " " Felice primavera di bei pensier fiorisce. Di Gio. Fram-crm Sabino 12
 " " Danzan le ninfe oneste e i pastorelli (seconda parte) Di Hippoh'to Sabino 13
@@ -30,7 +30,7 @@ A 6. Vidi spezzar la fune :\ un forte toro 14
 " " In questo lieto giorno (seconda parte) 17
 " " Con sì contrario effetto, amor di ghiaccio e foco "3
 " " Pria che la tromba spaventosa e cruda. Di Orario Criſci 19
-"" Stavasi il mio bel sol al sol asiso che par (G-F- S"'OZZÌ) 7-0
+"" Stavasi il mio bel sol al sol asiso che par (G-F- S"'OZZÌ) 70
 " " E'n questo specchio e'n quello si rivedea si bello " " 21
 I-Bcz B.
 

@@ -57,5 +57,5 @@ n " lo felice sarei se gl'occh'ond'io sempr'ardn, potes." r|m|rar . 18
 " " Voi volete ch'io mora et io bramo morire per acquetar ogni \oslm 19
 
 ' ' ' ' " ' " . a viva
-" " Com esaer puo tiranno ingrato amore, ch .nacnd |n fi1mm
+" " Com esaer puo tiranno ingrato amore, ch .nacnd |n fiimm
 

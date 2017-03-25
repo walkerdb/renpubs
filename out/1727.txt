@@ -17,7 +17,7 @@ F-Pc: compl.
 
 GB-Lbm: C.
 
-1-Bc: B.
+I-Bc: B.
 
 D-Z: B.
 

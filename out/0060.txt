@@ -1,50 +1,35 @@
 A 8. Ahi che romor sent'io. Par che mi chiami Dio
-
 " " Stavan piangendo, gettando in aria e le parole. Dialogo
 " " Stima l'humana gente sentir gusto e piacer
-
 " " Ovunque muovono i passi trono che l'huomo frale
-
 " " Felici avventurati, ch'hoggi scampati dagl'acuti denti
-
 " " Tu seminasti pure, Signore, ottimo seme
-
 " " Cantiam tutti, o cari pastorelli, un canto
-
 " " Lo spirito santo alberga nel purissimo fiore
-
 " " Hor che Giovanni entro al deserto esclama
-
 " " Quel sacro tempio, che con sì bel lauro
-
 " " Questo che vien, sedendo sopra d'un animal
-
-" " chuisti il tuo Signor, apostol glorioso
-
+" " Seguisti il tuo Signor, apostol glorioso
 " " Hoggi s'apre del cielo il ricamato velo
-
 " " Ohimè ch'aspro prenuntio di morte
-
 " " Eccone al gran Damasco, ove fà stanza. La conversione di S. Paolo. Dialogo
 
 I-Rsc: compl.
-
-F-Pc: C.l°, C.2°, A.T.B.6.8.0rg.
-I-Rc: C.2°, T.6.7.0rg.
-
+F-Pc: C.l°, C.2°, A.T.B.6.8.Org.
+I-Rc: C.2°, T.6.7.Org.
 D-Rp: T.6.7.
-
 I-Sac: 7.
 
-ANERIO Giovanni Francesco
-Cfr.: PULIASCHI Giovanni Domenico - ANERIO Giovanni Franccsco.
+
+
+
 
 77 - ANGELINI Orazio (1583) - Di Horatio Angelini da Ugubbio il Primo
 Libro de' Madrigali a cinque voci novamente posti in luce. In Vinegia appresso
 l'herede di Girolamo Scotto. 1583.
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 23,(1). Ded. a Monsignor Ottavio Accoromboni, Vescovo di
-Fossombrone, Venetia, 13 Il 1583.
+Fossombrone, Venetia, 13 II 1583.
 
 La notte havea di tanti lumi adorno il suo più chiaro 3
 Ma più bel sole ad un balcone apparse (seconda parte) 4
@@ -52,18 +37,13 @@ Quando tal'hor il bel viso lucente veggio di rose, o di ligustri adorno 5
 Dico il bel viso di colei ch'adoro (seconda parte) 6
 Queste nove catene, queste fiamme cocenti, questi strali 7
 Volando ape ingegnosa al bel viso d'intorno de la mia dea 8
-Come cerva, cui sete in su l'aurora a cercar fonte dilettoso guidi (F. M. M olza) 8
-Alfin stratiata da rabbiosi denti, trahendo'l fianco (seconda parte) " " " 10
+Come cerva, cui sete in su l'aurora a cercar fonte dilettoso guidi (F. M. Molza) 8
+Alfin stratiata da rabbiosi denti, trahendo'l fianco (seconda parte) " 10
 Felice e lieto monte, che respirand'in te l'aura novella 11
-
-Ninfe, ch'a l'acque del Metauro intorno. A Constanza landr. della Rovere, contessa di
-[Monte Felcino 12
-
+Ninfe, ch'a l'acque del Metauro intorno. A Constanza landr. della Rovere, contessa di Monte Felcino 12
 Al vostro dolce azzurro ceda, o luci serene, qual più bel nero (Tasso) 13
 Tra le chiome de l'or nascose'l laccio al qual m1 strmse amore 14
 Questa fera gentil, che scherza e fugge sul verde e vago april (Riccieri) 15
-Fortunato colui, che le bell'orme di lei .(seconda parte) " ]6
-Dolci, ben nati, amorosetti fiori, in cui le Gratic primaver han F. M. Molza) 17
-Forbite perle, a voi d'ogni mio danno (seconda parte) " " " 18
-
-
+Fortunato colui, che le bell'orme di lei (seconda parte) " 16
+Dolci, ben nati, amorosetti fiori, in cui le Gratic primaver'han (F. M. Molza) 17
+Forbite perle, a voi d'ogni mio danno (seconda parte) " 18

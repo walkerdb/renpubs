@@ -13,11 +13,11 @@ A 7. Come falda di neve, che aggliiaceiata (Tansillo)
 " " Vide homo quam pro te patior " 21
 
 D-Rp: compl. (B. difett.).
-D-Bms: C.l°, A.Z°, T.Z°, B.
-I-MOe: C.l°, C.2°, T.Z°.
-F-Pc: C.2°, A.Z°.
+D-Bms: C.l°, A.2°, T.2°, B.
+I-MOe: C.l°, C.2°, T.2°.
+F-Pc: C.2°, A.2°.
 
-F-Pn: C.2°, A.Z°.
+F-Pn: C.2°, A.2°.
 Boetticher 803.
 
 1405 - DE LASSUS Roland (1560-1) - Il Primo Libro delli Madrigali d'Orlando
