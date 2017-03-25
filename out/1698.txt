@@ -21,7 +21,7 @@ A 4. Dances devant ces beaux yueux 33
 " " Ce lieu veut que tu te suubmette 36
 A 5. Quitte maintenant tous ces bois 37
 A 4. Cache toy. celeste soleil 33
-" " Mattone mie care, mi zolſi-re cazzon (sir) canlar sntto fenestrc. Villa. Svisscce 39
+" " Mattone mie care, mi zolſi-re cazzon (sir) canlar sntto fenestre. Villa. Svisscce 39
 " " Madona di coucagna, porlal'agio. Villa. Ital-. 10
 " " Alla nel monte Parnas fiesta. Villa. Espa. "
 A 5. Una pastor liermosa. Villa. Espa. "

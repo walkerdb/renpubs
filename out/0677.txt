@@ -9,7 +9,7 @@ A 6. Troppo ben può questo tiranno amore per far soggetto un core
 I-Bc: compl.
 I-VEcap: compl.
 I-Vnm: C.A.T.B.5.
-GB-lcm: A.T.5.
+GB-lem: A.T.5.
 I-de: A.B.Bc.
 
 1019 - FREDDI Amadio (1605) - Di Amadio Freddi padovano il Primo Libro

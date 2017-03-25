@@ -6,7 +6,7 @@ A 5. Poi che l'aspra :\ saldar profonda pingu ond'ho mai sempr'al cor 15
 " " Non ſur le stelle mai si chiare in cielo, nè si liete (Sannazzaro) 17
 " " Mn lasso vedrò mai venir quell'alba (seconda parte) " 18
 " " Quando'l dì chiar'apparirà di notte e reslerà d'andar in gir'il cielo 19
-" " Ahi dispieml'nmor, come consenti ch'io meni vita si rcmot'e ria (B. Tasso) 19
+" " Ahi dispieml'nmor, come consenti ch'io meni vita si remot'e ria (B. Tasso) 19
 " " Quando di (lolc'hnven ne primi giorn'amore ritorn'ahi lasso 21
 " " Tra freddi monti e luogh'alpestri e fieri ov'a pena mai 22
 A 6. Alfin poi ch'hebbe vint'e presa l'alma (seconda parte) 23
@@ -49,5 +49,5 @@ A 6. Venul'era madonna al mio languire con quel bel (Sannazzaro) 1
 " " Pon fin, prego, a miei tormenti 17
 " " Scendi ripos'hor da l'accese stelle 18
 
-" " Lietc, verdi fiorit'e fresche valli (Sannazzaro)
+" " Liete, verdi fiorit'e fresche valli (Sannazzaro)
 

@@ -2,7 +2,7 @@ A S. Felice l'alma, che per voi sospira, lumi del ciel (Tansillo) B
 ))
 
 " " Felice il bel tacer che l'impregiona (seconda parte) 9
-" " O che bell'aria, () che sereno ciclo 10
+" " O che bell'aria, () che sereno cielo 10
 " " Qual huom che giace e piange lungamente ]]
 " " Tal di sperar (seconda parte) 11
 " " Dolorosi martir, fieri tormenti, duri ceppi (Tansillo) 11
@@ -52,7 +52,7 @@ Mentre ch'a contemplar io stavo fisso il dolce e vago aspetto 16
 Ma non sì tosto posi le luci mie, che sfavillò (seconda parte) 18
 Si com'a i freschi matutini rai, rosa vermiglia in bianchi gigli 19
 Tra queste frond'e fiori gl'occhi ridenti della bella Clori "
-Nel bel volto di Lidia amor si giace. Fuggitc, amanti 21
+Nel bel volto di Lidia amor si giace. Fuggite, amanti 21
 
 Filli, caro ben mio, da quelle dolce [abbia deh fà ch'un bacio solo
 

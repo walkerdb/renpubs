@@ -4,7 +4,7 @@ A 1. Spento ha le faci amore, ch'acccse nel mio core 31
 A 2. Fiori, stelle d'aprile, che'l vostro ciel sereno. Madrigale. Di Girolamo Ferrari 33
 A 1. Chi fuggir amor desia, fugga, fugga Clori mia 35
 " " La vezzosetta aurora parte dall'oriente ne le lagrime sue tutta ridente 36
-" " O del ciclo nero velo, ch'al dì chiaro il lume ascondi 37
+" " O del cielo nero velo, ch'al dì chiaro il lume ascondi 37
 " " Ard'amore, Filli, bella damigella, al tuo viso pellegrino 38
 " " L'alma mi slruggi, mi suggi, m'accori, mia Clori 39
 " " Può'l suo crin che scherza e fere al mio cor tcsser catene 40
@@ -15,7 +15,7 @@ I-Bc
 
 RISM, I IGD-12.
 
-1192 - GHIZZOLO Giovanni (1609) .. Canzonctte et Arie a tre voci di Gio.
+1192 - GHIZZOLO Giovanni (1609) .. Canzonette et Arie a tre voci di Gio.
 Ghizzolo da Brescia novamente composte, et date in luce. Libro Primo. Al molto
 illustre sig. Gio. Jacomo Arconato del Consiglio Generale della città di Milano.
 In Venetia, appresso Alessandro Raverij. 1609.

@@ -11,7 +11,7 @@ Symphonia 1
 A 1 Tempro la cetra e per cantar gli honori di Marte (Marino) 2
 A 2. Non è di gentil core chi non arde d'amore (F. degl'Alli) 7
 A 6. A quest'olmo, a quest'ombre et a quest'onde (Marino) 3
-A 2. O come sei gentile, caro augellino, o quanto è'] mio stato (Guarini) 10
+A 2. O come sei gentile, caro augellino, o quanto è'l mio stato (Guarini) 10
 " " Io son pur vezzosetta pastorella, che le guancic 11
 " " O viva fiamma, o miei sospiri ardenti. o petto (G. A. Gesualdo) 12
 " " Vorrei baciarti, o Filli, ma non so come (Marino) 13
@@ -22,7 +22,7 @@ A 2. O come sei gentile, caro augellino, o quanto è'] mio stato (Guarini) 10
 " " Perchè fuggì tra sclci. ritrOsetta mia bella (Marino) 18
 " " Tornale. () cari baci, a ritornarm'in vita. baci al mio cor " 19
 " " Soave libertate, già per sì lunga etate mia cara compagnia (Chiabrera) 20
-" " Sc'l voslro cor, madonna, altrui pietoso tanto (Guarini) 21
+" " Se'l voslro cor, madonna, altrui pietoso tanto (Guarini) 21
 " " Intcrrolte speranze, eterna fede, fiamma e strali possenti " 22
 A 3. Augellin. che la voc'al canto spieghi. per pietà 23
 " " Vaga su spina ascos'a è rosa ruggiadosa, ch'a l'alba (Chiabrera) 24

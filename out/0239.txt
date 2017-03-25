@@ -9,7 +9,7 @@ A 3. Quando ch'al cibo (Porcello)
 " " Buon dî, Lucia. Canzonetta in Gagliarda 25
 26
 
-A 4. Filli, dolce mio foco, non è'] mio mal un gioco. Arictta
+A 4. Filli, dolce mio foco, non è'l mio mal un gioco. Arictta
 " " Un spagnoletto un giorno al suo bel sole. Canzonetta alla spagnola 28
 
 " " Mi son vegnù. Canzonetta alla bergamasca con la Gagliarda 30
@@ -42,7 +42,7 @@ mia muta de Madrigali... Pesaro, 1° II 1602".
 A 5. Mentre io partir volea, mesta piangendo la mia vaga Aurora 1
 " " Sì mi dicest'et io quel dolcissimo sì (Guarini) 2
 " " Come vivrò ne le mie pene, amore, si longe (Tasso) 3
-" " Peregrino augelletto, ch'a più temprato ciclo fuggi 4
+" " Peregrino augelletto, ch'a più temprato cielo fuggi 4
 " " Cogli la vaga rosa, leggiadra verginella 5
 " " Che soave rapina fu quella del mio core (Tasso) 6
 " " S'io t'amo e s'io t'adoro e se per te, crudel 7

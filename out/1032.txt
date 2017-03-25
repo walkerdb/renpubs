@@ -17,7 +17,7 @@ D-Mbs: T.B.5.6.
 
 I-de: C.A.B.
 
-I-Sd: C.T.B.; 2° cscmpl.: T.
+I-Sd: C.T.B.; 2° esempl.: T.
 I-Bc: C.B.
 
 I-VTcerasa: C.
@@ -47,7 +47,7 @@ GB-Lcm: compl.
 GB-Ob: compl.
 Pl.-GD: compl.
 D-Dl: C.A.T.5.6. (prov. Heyer).
-I-Rsc: C.A.B.5.6. (2° cscmpl.: C.A.B.5.).
+I-Rsc: C.A.B.5.6. (2° esempl.: C.A.B.5.).
 1-Sd: C.A.B.5.6.
 D-Rp: C.A.T.5.
 GB-Lbm: C.A.B.5.

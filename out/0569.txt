@@ -4,12 +4,12 @@ M. Maledetto sia amor e quel che disse Di Paolo Iacopo Palazzo da Piacenza I'S
 " " Di tre rare eccellenze adorn'e bella Di A. Doni (Domenichi?) 17
 " " Madonna, il mio dolor è tant'e tale Di Claudio Vrggio (A. Doni) 18
 n " S'io potessi mirar quell'occhi belli (di NoI/et) 19
-" " Chiaro, leggiadro lume, che dal ciclo Di A. Doni 22
+" " Chiaro, leggiadro lume, che dal cielo Di A. Doni 22
 A 5. Deh perchè com'è il vostro al nome mio Di Per/'non: Cambio 24
 " " Nessun visse giamai più di me lieto Di Girolamo Paraborco (Petrarca) 25
 " " A la dolc'ombra de le belle frondi. Canzone. Di [ac/m Bert/mn (Petrarca) 27
 n " Non vid'il mondo sì leggiadri rami (seconda parte) " 27
-43. Un lauro mi difese all'hor dal ciclo (tcha parte) " 28
+43. Un lauro mi difese all'hor dal cielo (tcha parte) " 28
 A 4. Però più ferm'ogn'hor di tempo (quarta parte) " 28
 A 5. Selve, sassi, campagne, fiumi e poggi (quinta parte) " 29
 A 6 Tanto mi piacque prima il dolce (sesta parte) " 19
@@ -26,11 +26,11 @@ A 8. Madonna. il mio dolor è tant'e tale. Di Claudio Veggio (A. Doni) 41
 A 6. Amorosetto fiore, in cui si pasce ascosa questa alma. Di ]. Arcade/t 43
 AB. A tous jamais dung voloir immuable 43
 " " Madonna, hor che direte ch'in tutto Di Claudio Veggio (A. Doni) 45
-"le: compl. (2° cscmpl.: C.).
+"le: compl. (2° esempl.: C.).
 
 I-Fc: compl.
 
-I-VEaf : compl. (2° escmpl.: T.).
+I-VEaf : compl. (2° esempl.: T.).
 
 I-Vnm: C.T.
 
@@ -55,7 +55,7 @@ NL-Lu: C.
 MSM-. I 1544-22 (non compl. ed erroneo).
 
 858 - D0RATI Nicolò (1549) - Di Niccolo Dorati il Primo Libro di Madrigali a
-Clſlque VOCl, novamente da lui compasti, et dati in luce. A cinque voci. In Venecia
+Clſlque voci, novamente da lui compasti, et dati in luce. A cinque voci. In Venecia
 appresso de Antonio Gardanc. 1549.
 
 : fase" in a Obl. (C A. .B 5. (l \ dl) Nſ P l lllalle SCO

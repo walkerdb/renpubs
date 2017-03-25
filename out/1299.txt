@@ -3,7 +3,7 @@ Se'l pensier che mi strugge com'è pungente (Petrarca) 11
 Chi dunque fia se voi donne 12
 Mirate altrove. vita mia. ch'offencle 13
 Si è debile il filo a cui s'attene (Petrarca) 14
-l \'aghi fiori e l'amorose fronde et l'herha et l'aria 15
+I \'aghi fiori e l'amorose fronde et l'herha et l'aria 15
 Morì quasi il mio core, quando la bianca mano 16
 A la riva del Telìro vidi ſra morto e vivo giovanetto pastore 17
 Amor. quando fioria mia speme e guiderdon (Petrarca) 18
@@ -33,7 +33,7 @@ US-Charding: A.
 
 ["-Pn: T.
 
-ll N. 2100 è annullato.
+Il N. 2100 è annullato.
 
 2101 - PALESTRINA Giovanni Pierluigi (1581) - Il Primo Libro de Madrigali
 a cinque voci, di Gio. Petr'Aloysio Prenestino novamente composti et dati in luce.

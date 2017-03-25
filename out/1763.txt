@@ -10,7 +10,7 @@ GB-Ob: compl.
 
 PL-GD: compl.
 
-D-Rp: C.A.T.5.6. (2° cscmpl.: C.A.5.6., prov. Haberl).
+D-Rp: C.A.T.5.6. (2° esempl.: C.A.5.6., prov. Haberl).
 I-Rsc: C.A.B.5.6.
 
 I-VEat' : C.T.5.6.
@@ -25,7 +25,7 @@ appresso Angelo Gardano. 1597.
 
 6 fasc. in 8° (C.A.T.B.5.6.), pag 69,(1). Ded. a Ferdinando Secondo, Archiduca d'Austria:
 "... alli giorni passati il M. Rever. Sig. D. Pit-tro Antonio Bianchi Maestro di Capella et
-Elcmosinario di V.A. mi disse ch'ella si compiace alle volte di passeggiare coi piedi del suo
+Elemosinario di V.A. mi disse ch'ella si compiace alle volte di passeggiare coi piedi del suo
 Purgato udito per la mia Selva di varia ricreatione... Venetia, I° VIII 1597 ".
 
 A 5. Voi, che già stanchi sete di mirar l'alta abete. Proemio 3
@@ -44,7 +44,7 @@ A 5. Voi, che già stanchi sete di mirar l'alta abete. Proemio 3
 " " Se la luce vital, ch'adoro in voi 16
 A 6. Donna, se voi m'odiate, a che sì dolci poi baci mi date (Rinaldi) 17
 " " lo ardo e'l celo a lei, da cui ſorse Pietà 13
-" " Hor che farcm, mio core (seconda parte) 19
+" " Hor che farem, mio core (seconda parte) 19
 " " Vanne la nave mia, pront'e sicura, col vent) de sospiri 20
 " " Felice schiera di leggiadr'e belle, lucenti sulle 21
 " " Non più pen'e tormenti, ma dolcezz'e contenti 22

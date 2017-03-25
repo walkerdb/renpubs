@@ -14,7 +14,7 @@ NL-DHgm: A.
 
 US-Cn: B.
 
-Un cscmpl. compl. esisteva in PL-GD. ma è scomparso durante l'ultima gUerra.
+Un esempl. compl. esisteva in PL-GD. ma è scomparso durante l'ultima gUerra.
 
 313 - BELLI Girolamo (1587) - I Furti amorosi a sei voci. Di Girolamo Belli
 d'Argenta con nova gionta ristampati, et coretti. Con privilegio. In Venetia, presso
@@ -24,7 +24,7 @@ Giacomo Vincenzi. 1587.
 furti che già à gli anni passati dedicati :\ VA... torno di nuovo a farle di loro humile offerta...
 Perchè di già mi trovo esser ancho reo, d'un altro [urto, appresso di lei, per esser secondo lo stile
 Ch'hò tenuto con gli altri compositori, da musica, valso di più bellissimi passi, delle rare compositioni,
-di V.A... Venetia, 1° VII 1587 >>.
+di V.A... Venetia, 1° VII 1587 ".
 
 Levata era a filar la vecchiarella quando mia speme 1
 Qual sia rimedio? che far mi deggio? S'io miro ho male 2
@@ -32,7 +32,7 @@ Qual presso a lucid'onde il bianco e dolce cigno 3
 Dolci labra amorose, partir vorei ogn'hor, ogni momento 4
 VIVO sol di speranza rimembrando, bianca mi'Aurora, quan dicest'hormai 5
 Leggiadra Bianca ninfa, il pastor buono lieto diceva 6
-Non è ch'il duol mi sccma, o'l foco allenti poi che m'invita 7
+Non è ch'il duol mi scema, o'l foco allenti poi che m'invita 7
 Questa crudele e dura, tu'] sccrni amore (ahi misero mio stato) 8
 Vid'io la bella in leggiadretta gonna succinta e scalza 9
 Fera gentil, che con leggiadro modo mi sforza a seguitar 10

@@ -2,7 +2,7 @@ A 4. Piango, ch'amor con disusalo oltraggio 4
 
 " " Affligger chi per voi la vita plagne (Della Casa) S
 " " Nulla da voi sin qui (seconda parte) " 6
-A 5. Fuggito è'] sonno alle mie crude notti (Petrarca) 7
+A 5. Fuggito è'l sonno alle mie crude notti (Petrarca) 7
 " " Senza il mio vago sol (G. Troiano) 8
 " " O giorno che per me (Sannazzaro) 9
 " " Senza il mio sole in tenebre e in martiri " lU
@@ -18,7 +18,7 @@ A 6. Come ogni rio, che d'acque dolci et chiare 15
 A 10. Basti fin qui le pen'e i duri affanni " 19
 
 I-Fc: compl.
-I-MOe: cmopl.
+I-MOe: emopl.
 I-Bc: T.B.
 
 1597 - MARENZIO Luca (1580) - l)i Luca Marenzio il Primo Libro de Madrigali

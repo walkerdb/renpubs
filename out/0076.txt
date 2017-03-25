@@ -1,81 +1,53 @@
-Madonna, s'io v'offendo, perdon vi chieggio, che morir tacendo
-Nova donna m'apparve di beltà tale e di sì gran valore
-
-Io ho nel cor un gelo, che quanto più lo scaldo più s'indura
-Quando col dolce suono s'accordan le dolcissime parole
-
-Se vi piace, signora, il mio dolore, io non vo viver più
-
-Che più foco al mio foc'o fiamm'al core, donna
-
-Non più chiance, madonna, ch'io son di fatti vostr'al tutto chiaro
-Perchè non date voi, donna crudele
-
-O s'io potessi, donna, dir quel che nel mirar voi
-
-Vostra fui e sarò, mentre ch'io viva
-
-Se la dura durezza in la mia donna dura (Cassola)
-Voi sapete ch'io v'amo, anzi v'adoro
-Lasciar il velo, o per sol, o per ombra. Di F. Layolle (Petrarca)
-
-Se'l tuo partir mi spiacque, hor il tornar m'è noia
-
-Benedett'i martiri, ch'io sostegno d'amore
-
-Non v'avvorgete, amanti, che di costei nel viso
-
-Qual Clitia sempre al maggior lum'intenta, per lieti prati
-Deh se lo sdegno altiero, che v'infiammò di così cruda voglia
-Quai pomi mai, qual oro potrian frenar il leggier cors'un poco
-Alma, perchè sì trist'ogn'hor ti duoli
-
-Se gli occhi non tempratc, ov'entr'io ardo
-
-Poss'io morir di mala morte, s'io non ve amo
-
-Quanta beltà, quanta gratia e splendore si vidd'in donna mai
-Deh dimm'amor, se l'alma di costei fussi (M. Buonarroti)
-Io dico che fra voi, potenti dei, convien " "
-Fammi pur guerr'amor, quanto tu vuoi. Di Corteccia
-
-Ahi se la donna mia, qual'hor lasso mi vede
-
-Il vag'e dolce sguardo qual'hor lieto rivolta madonna in me
-Voi la mia vita siete, da voi depende la mia vit'e morte
-Giovenetta regal, pur'innocentc, data dal ciel al mondo
-Quant'è madonna mia, follc'l pensiero se pur de la mia morte
-Chi potrà dir quanta dolcezza provo di madonn'a mirar
-Madonna, ohimè, per qual cagion m'havete. Di C Festa
-Dunque credete ch'io o voglia, o possa mai porv'in oblio
-Felice me, se dei bei lum'un raggio, che de viltà (Ariosto)
-Lodar voi, donne ingrate, per riportarv'al cielo
-
-Il ciel, che rado virtù tanta mostra
-
-Bella Fioretta, io vorrei pur lodarvi, ma com'advien
-
-In un boschetto adorno, tra verd'herbettc
-
-Madonna mia gentile, se tropp'ardito fui
-
-O felici occhi miei, felici voi, che sete car'al mio sol
-
-Io mi pensai che spento fusse'l foco, ch'ad amar voi
-
-Amor, tu sai pur fare ch'un cor di giaccio
-
-Quanti travagli e pene, quant'ogn'hor dogli'e morte
-
-Fra più bei fior, che mai creasse'l cielo
-
-Se per colpa del vostro fiero sdegno (Sannazzaro)
-Ahimè dov'è'l bel viso, in cui solea tener
-
-Ver'infern'è'l mio petto, ver infernale spinto (Lorenzino de' Medici)
-Quand'io pens'al martire, amor, che tu mi dai (Bembo)
+Madonna, s'io v'offendo, perdon vi chieggio, che morir tacendo 11
+Nova donna m'apparve di beltà tale e di sì gran valore 12
+Io ho nel cor un gelo, che quanto più lo scaldo più s'indura 13
+Quando col dolce suono s'accordan le dolcissime parole 14
+Se vi piace, signora, il mio dolore, io non vo viver più 15
+Che più foco al mio foc'o fiamm'al core, donna 16
+Non più chiance, madonna, ch'io son di fatti vostr'al tutto chiaro 17
+Perchè non date voi, donna crudele 18
+O s'io potessi, donna, dir quel che nel mirar voi 19
+Vostra fui e sarò, mentre ch'io viva 20
+Se la dura durezza in la mia donna dura (Cassola) 20
+Voi sapete ch'io v'amo, anzi v'adoro 21
+Lasciar il velo, o per sol, o per ombra. (di F. Layolle) (Petrarca) 22
+Se'l tuo partir mi spiacque, hor il tornar m'è noia 23
+Benedett'i martiri, ch'io sostegno d'amore 24
+Non v'avvorgete, amanti, che di costei nel viso 24
+Qual Clitia sempre al maggior lum'intenta, per lieti prati 25
+Deh se lo sdegno altiero, che v'infiammò di così cruda voglia 26
+Quai pomi mai, qual oro potrian frenar il leggier cors'un poco 27
+Alma, perchè sì trist'ogn'hor ti duoli 28
+Se gli occhi non temprate, ov'entr'io ardo 29
+Poss'io morir di mala morte, s'io non ve amo 30
+Quanta beltà, quanta gratia e splendore si vidd'in donna mai 30
+Deh dimm'amor, se l'alma di costei fussi (M. Buonarroti) 31
+Io dico che fra voi, potenti dei, convien " 32
+Fammi pur guerr'amor, quanto tu vuoi. (di Corteccia) 33
+Ahi se la donna mia, qual'hor lasso mi vede 34
+Il vag'e dolce sguardo qual'hor lieto rivolta madonna in me 34
+Voi la mia vita siete, da voi depende la mia vit'e morte 35
+Giovenetta regal, pur'innocente, data dal ciel al mondo 36
+Quant'è madonna mia, folle'l pensiero se pur de la mia morte 36
+Chi potrà dir quanta dolcezza provo di madonn'a mirar 37
+Madonna, ohimè, per qual cagion m'havete. (di C Festa) 38
+Dunque credete ch'io o voglia, o possa mai porv'in oblio 39
+Felice me, se dei bei lum'un raggio, che de viltà (Ariosto) 40
+Lodar voi, donne ingrate, per riportarv'al cielo 41
+Il ciel, che rado virtù tanta mostra 42
+Bella Fioretta, io vorrei pur lodarvi, ma com'advien 43
+In un boschetto adorno, tra verd'herbette 44
+Madonna mia gentile, se tropp'ardito fui 44
+O felici occhi miei, felici voi, che sete car'al mio sol 45
+Io mi pensai che spento fusse'l foco, ch'ad amar voi 46
+Amor, tu sai pur fare ch'un cor di giaccio 47
+Quanti travagli e pene, quant'ogn'hor dogli'e morte 48
+Fra più bei fior, che mai creasse'l cielo 49
+Se per colpa del vostro fiero sdegno (Sannazzaro) 50
+Ahimè dov'è'l bel viso, in cui solea tener 51
+Ver'infern'è'l mio petto, ver infernale spinto (Lorenzino de' Medici) 52
+Quand'io pens'al martire, amor, che tu mi dai (Bembo) 53
 
 D-Mbs: compl.
 I-Vnm: A.T.B.
 RISM, I 1539-22.
-

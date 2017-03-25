@@ -8,10 +8,10 @@ F-Pc: compl.
 A-Wn: T.
 
 1126 - GERO ]e'an (1545) - Il Primo Libro de Madrigali italiani et Canzoni
-francese a due voc1 di Ihan Gero novamente ristampato et diligentemente corretto.
+francese a due voci di Ihan Gero novamente ristampato et diligentemente corretto.
 [han Gero a due voci. Venetiis 1545.
 
-2 fasc. in 8° obl. (C.T.), pag. 47. lndìce = 1543.
+2 fasc. in 8° obl. (C.T.), pag. 47. Indice = 1543.
 
 GB-Lbm: compl.
 
@@ -19,7 +19,7 @@ GB-Lbm: compl.
 a due voci di Iehan Gero novamente ristampato, et corretto. A due voci.
 Venetiis, apud Hieronymum Scotum 1552.
 
-2 fasc. in 8° obl. (C.T.), pag. 47. lndice = 1543.
+2 fasc. in 8° obl. (C.T.), pag. 47. Indice = 1543.
 I-Bc: compl.
 
 D-Mbs: compl.
@@ -35,11 +35,11 @@ Non sia ch'io terna mai più di morire, poi ch'in pensar
 
 Ie lay aymce bien sept ans et demy 1
 Mentre che la mia donna fu di pietade amica 2
-le recoumence mes doulcurs 3
+Ie recoumence mes doulcurs 3
 Sì ch'io l'ho detto sempre che se ſosti pietosa 3
 Deul double deul renſort 4
 Madonna, s'io credessi ch'in voi fusse pietade 5
-le ne me puis tenir d'aimer 5
+Ie ne me puis tenir d'aimer 5
 Qual dogli'aguagliar poss'a la mia doglia 6
 Mort et fortune pour quoy m'aves vous ;
 Come viver debb'io se quella che porgea sì dolce vita 8

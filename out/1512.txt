@@ -4,7 +4,7 @@ A 5. Qual hor rivolgo'l basso mio pensiero
 " " Non è, lasso, martire il convenir per voi, donna, morire (F. Spira) B
 " " Convien ch'ovunque sia sempre cortese. Canon (Ariosto) 24
 
-ll
+Il
 
 I-Bc: compl.
 I-de: compl.

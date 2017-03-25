@@ -50,7 +50,7 @@ A 1. Ahi se pur vostro son, deh perchè tanto diversi son. Ruggiero. Tenore 43
 "' " Bel neo d'amore riposl'in quel volto che l'alma. Aria quarta " 66
 " " Non & beltà che con l'età non perd'il suo bel fiore. Aria quinta " 68
 
-" " Vorrei morire. Uccidetemi presto sc'l mert'è questo. Aria sesta " 70
+" " Vorrei morire. Uccidetemi presto se'l mert'è questo. Aria sesta " 70
 
 " " Se rivolgi in me li sguardi, vorrai, Filli, ch'io non ardi. Aria settima " 72
 

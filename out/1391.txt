@@ -11,7 +11,7 @@ A 7. Occhi piangete, accompagnate il core. Così sempre. Dialogo (Petrarca) 22
 " " A che pur tant'amore? Non ti lagnar che tal legam'o fera alma. Dialogo 24
 A 8. Dolc'ire, dolci sdegni e dolci paci. Dialogo (Petrarca) 25
 
-lVEaf: compl. (2° cscmpl.: A.).
+lVEaf: compl. (2° esempl.: A.).
 D-Mbs: compl.
 
 I-Bc: A.T.B.5.
@@ -41,7 +41,7 @@ A 5. Spirti divini, che formati prima 2
 " " Hor al più alto ciel Dedalo vola 12
 " " Poscìa ch'in gran fortuna io mi ritrovo 13
 " " Ma non sapend'a chi (seconda parte) 14
-" " La verginella è simìle a la rosa. Di Innocmtio Alberti (Ariosto) 15
+" " La verginella è simìle a la rosa. Di Innoemtio Alberti (Ariosto) 15
 " " I dolci colli Brent'altcra e bella 16
 " " Chi non fà prov'amore de la tua gran possanza (Machiavelli) 17
 " " Se da begli occhi di mia donna. Di !nnoeerm'o Alberti 18

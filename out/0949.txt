@@ -52,7 +52,7 @@ A 8. Sus, sus, mon ame
 " " L'ambrìssé (seconda parle)
 A 6. Touts gens loués
 
-" " Bcncdicite Dominum
+" " Benedicite Dominum
 
 " " Benedic anima mea (seconda parte)
 
@@ -88,7 +88,7 @@ F-Psg: compl.
 
 GB-Lwa: compl.
 
-GB-Lbm: Taille, Hautccontrc, Bassecontre.
+GB-Lbm: Taille, Hautccontre, Bassecontre.
 I-BRE: Taille
 
 F-Pn: Taille

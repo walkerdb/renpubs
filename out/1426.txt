@@ -11,7 +11,7 @@ A 2. Vedi l'alba. Villanella
 " " Toccata con l Viol. e la Tiorba innanzi che si canta Felice chi vi mira 60
 " " Felice chi vi mira, ma più felice. Concert. con il Viol. e la Tiorba (Guarini) &
 " " lo vo cantar mai sempre. Sia benedett'amor. Con Viol. e Tiorba 65
-" " Questo è l'csscmpio, amtnti, della fede sinciera. Con Viol. e Tiorba 68
+" " Questo è l'cssempio, amtnti, della fede sinciera. Con Viol. e Tiorba 68
 " " Hoggi nacqui, ben mio, per viver vostro (Guarini) 71
 
 " " Hor che lieto Himeneo

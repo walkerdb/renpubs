@@ -12,14 +12,14 @@ A 5. Volesti dir, amore, forsi senza parole 1
 " " Se tu mi lasci, perfida, tuo danno, non ti pensar che sia (Tasso) 5
 " " Miser sei tu, che per novell'amore (seconda parte) " 6
 " " Io felice sarei, se gl'occhi ond'io sempr'ardo 7
-" " Itc, soavi fiori, nel bel gremb'a colei 8
+" " Ite, soavi fiori, nel bel gremb'a colei 8
 " " Ma s'ella vi discaccia (seconda parte) 9
 " " Con le sue belle braccia la mia donna pietosa 10
 " " Seriss'in tenera pianta un pastorello d'Arsilia il caldo et infocato nome 11
 " " S'amor sovente pur m'invita e sforza 12
 " " Se la morte è di gelo e gela il core, quando l'anima va del corpo fuore 13
-" " Quand'ars'i e sospirni la mia ncmic'ingrata 14
-" " L'aura, chc'l verde lauro e l'aura spoglia 15
+" " Quand'ars'i e sospirni la mia nemic'ingrata 14
+" " L'aura, che'l verde lauro e l'aura spoglia 15
 " " Onde se l'aura ria turbò la gioia mia (seconda parte) 16
 " " Lasso, ch'in van mi doglio che mort'al mio languire 17
 " " Caro, dolce ben mio, mi spinse quel arcier crudel d'amore 18

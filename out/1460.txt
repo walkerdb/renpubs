@@ -29,7 +29,7 @@ A 5. Deh lasciati basciar, prima ch'io mora 1
 " " Poi che pato per te tanto dolore ]]
 " " Che cos'al mondo mai saria più bella 14
 " " Donna, voi mi parete un'angiolella (seconda parte) 15
-" " Più bella sete assai che non è'] sole 16
+" " Più bella sete assai che non è'l sole 16
 " " Vita mia cara, vita saporita, subito ch'io ti vidi pers'il core 17
 " " O dio, che potria far a questo mondo lll
 " " Fiorite vall'amene, d'ogni dolcezza piene, ch'ognun fate gioire 19

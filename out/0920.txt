@@ -1,7 +1,7 @@
 I-Bc : compl.
 
 Boetticher 794.
-Un csempl. compl. era nella Collezione Heyer di Këln.
+Un esempl. compl. era nella Collezione Heyer di Këln.
 
 Il N. 1463 è annullato.
 
@@ -16,7 +16,7 @@ A 4. le suis quasi prest d'enrager 1
 " " Helas, quel jour {emy-je à mon vouloir I
 " " Si par souhait je vous tenoyc 2
 " " En un chateau ma dame 3
-" " O vin cn vigne, gentil joly vin 3
+" " O vin en vigne, gentil joly vin 3
 " " Le temps passé je soupire (BL d'Aurìol) 4
 " " Un jour vis un foulon 4
 " " Un doux nenny avec un doux sourire (Maro!) ;
@@ -33,7 +33,7 @@ A 4. le suis quasi prest d'enrager 1
 " " Quand mon mari vient de dehors 8
 " " Soyons joyeux sur la plaisant verdure 9
 " " Ardant amour souvent me fait instance 10
-" " A ce matin ce seroit bonne cstrcine 10
+" " A ce matin ce seroit bonne cstreine 10
 " " En espoir vis et crainte me tourmente 10
 " " O tems divers qui me deffcnd de voir 11
 

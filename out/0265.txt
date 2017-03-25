@@ -36,7 +36,7 @@ A 3. Doi occhi ladri m'han rubato il core. Ahi dura passione 2
 ') " Lasso, quand'havran fin tanti sospiri e tanti miei martiri? 8
 " " Mentre barbara gl'occhi 9
 " " S'il dolor fiero e forte 10
->> " Caro albergo d'amore, chi di voi meglio (Celiano) 11
+" " Caro albergo d'amore, chi di voi meglio (Celiano) 11
 " " Sola la leggiadria. A Nicolo Pall 12
 " " Cara fiammella mia 13
 " " Se voi sete il mio core 14

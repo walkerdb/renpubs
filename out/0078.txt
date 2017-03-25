@@ -1,5 +1,4 @@
 Io mi pensai che spento fusse'l foco 46
-
 O felici occhi miei, felici voi, che sete car'al mio sol 47
 Madonna mia gentile, se tropp'ardito fui 48
 Il ciel, che rado virtù tanta mostra 49
@@ -9,40 +8,46 @@ Se per colpa del vostro fiero sdegno (Sannazzaro) 52
 Ahimè, dov'è'l bel viso in cui solea 53
 Quand'io penso al martire, amor, che tu mi dai (Bembo) 54
 Ver infern'è'l mio petto. ver infernale spirito (Lorenzino de' Medici) 55
+
 A-Wn: compl.
-
 GB-Lbm: compl.
-
 I-Bc: A.
-
 RISM, I 1541-9.
 
+
+
+
 100 - ARCHADELT Jacques (1541-2) - Del Primo Libro de i Madrigali di
-Archadelte nuovamente ampliato, et con ogni diligentia coretto. A quatro VOC!Venetijs
-apud Hieronymum Scotum. 1541.
+Archadelte nuovamente ampliato, et con ogni diligentia coretto. A quatro voci.
+Venetijs apud Hieronymum Scotum. 1541.
 
 4 fasc. in 8° obl. (C.A.T.B.), pag. 54,(1). Indice = 1541-1.
 
-D-]: B.
+D-J: B.
 RISM, I 1541-10 (inesatto).
+
+
+
+
 
 101 - ARCHADELT Jacques (1543-1) - D'Archadelt il Primo Libro de i Madrigali
 a quatro voci. Con nova agiunta ampliato, et novamente impresso. A quatro
 voci. Venetiis apud Hieronymum Scotum. 1543.
 
 4 fasc. in 8° obl. (C.A.T.B.), pag. 54,(1). Indice = 1541-1.
-D-l: C.
 
-E-Mmc: 'T. o C.
+D-J: C.
+E-Mmc: T. o C.
 RISM, I 1543-19a (non compl.).
 
+
+
+
+
 102 - ARCHADELT Jacques (1543-2) - Del Primo. Libro de i Madrigali di
-Archadelte nuovamente ampliato, et con ogni diligentla coretto. A quatro vociVenetijs
-apud Hieronymum Scotum. 1543.
+Archadelte nuovamente ampliato, et con ogni diligentla coretto. A quatro voci.
+Venetijs apud Hieronymum Scotum. 1543.
 
 4 fasc. in 8° obl. (C.A.T.B.), pag. 54,(1). Indice = 1541-1.
 
-D-I: A.T.
-
--70- .-
-
+D-J: A.T.

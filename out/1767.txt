@@ -21,7 +21,7 @@ A 6. O che vezzosa aurora, che, con la vaga luce, così bel sol n'adduce 1
 " " Tu, dolce anima mia, alla lun dipartila, lee) ponast'il cor 13
 " " Se più t'amassi, ingrato, t'havrei già poco amato (Guarini) 14
 " " S'odon le gierarchie nel ciel cantare, gli angeli alati nel celeste coro 15
-" " S'ammirano i pastor, mugghian gl'armcmi (seconda parte) 16
+" " S'ammirano i pastor, mugghian gl'armemi (seconda parte) 16
 " " Dolce cantav'all'apparir del sole, un giovane pastore, che ferito d'amore 17
 A 7. Hor che le piaggie ridon d'ogn'imorno e spuntan fuor le viole 18
 " " Un'altra volta senza altr'inlervallo (feconda parte) 19
@@ -55,7 +55,7 @@ I-ASs: C.
 I-Rc: C. (manc. di front. e di pag. 6).
 I-Vnm (Canal): A.
 
-Un escmpl. compl., ma difettoso nel B., era nella Collezione Heyer di Kôln.
+Un esempl. compl., ma difettoso nel B., era nella Collezione Heyer di Kôln.
 
 2828 - VECCHI Orazio (1588) - Madrigali a sei voci, d'Horatio Vecchi. Di
 nuovo ristampati, et corretti. Libro Primo. In Milano, appresso Francesco, et
