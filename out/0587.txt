@@ -30,7 +30,7 @@ A 4. Ne l'odorat'et lucid'oriente (Bembo) 1
 " " Et son hor questi ch'io v'addìlo et mostro " 15
 " " O donna, in questa clade al mondo sola " lé
 " " Amor è gratiosa et dolce voglia " 17
-" " Però che non la terra solo c'l mare " 18
+" " Però che non la terra solo e'l mare " 18
 " " Anzi non pur amor le vaghe stelle " 19
 " " (ll-lesta per vie sovra'l pensier divine " 20
 " " Questa fè dolce ragionar Catullo " 21

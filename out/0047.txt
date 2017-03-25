@@ -1,5 +1,4 @@
 A 5. Sparsa di mille cori ha l'idol mio la vista, perchè si veggia fuori 4
-
 " " S'in voi pietà vidd'io, celando il foco ch'uscir mi fea dal core 5
 " " Febo non ti doler che la mia Flori a le tue rive involi cantando herbette 6
 " " O fortunata morte che fè l'ape mordendo la bianca mano ond'io ferite prendo 7
@@ -8,10 +7,7 @@ A 5. Sparsa di mille cori ha l'idol mio la vista, perchè si veggia fuori 4
 " " Non siam men belle mai, non mai scemate si veggian (seconda parte) 10
 " " Il tempo mai non vi consumi, nè la fortuna vi spenga (terza parte) 11
 " " Al tuo dolce ritorno, Filli gentil, si rasserena il cielo 12
-
-" " Di così nobil fiamma amor m'accese il core, che mai per novo ardore. Ad instantia di
-[Iacomo Paluzzo Albertonio (Vittoria Colonna) 13
-
+" " Di così nobil fiamma amor m'accese il core, che mai per novo ardore. Ad instantia di Iacomo Paluzzo Albertonio (Vittoria Colonna) 13
 " " Ferito fui dai raggi d'un bel sole, sì ch'io rimasi preso. Sestina 14
 " " Ma in van cerco rimedio a quelle pene (seconda parte) 15
 " " Dunque che fia di me, se quella luce (terza parte) 16
@@ -21,15 +17,16 @@ A 5. Sparsa di mille cori ha l'idol mio la vista, perchè si veggia fuori 4
 A 8. Se l'anime più belle a mover son i più bei corpi (Remigio Fiorentino) 20
 
 GB-Lbm: compl.
-
 US-Wc: compl.
-
 D-KNu: C.A.5.
-
 I-A: A.T.5. (5. di sole pag. 1-6).
 NL-At: C.T.
-
 I-Vnm: 5.
+
+
+
+
+
 
 62 - ANERIO Felice (1585) - Madrigali di Felice Anerio a cinque voci nuovamente
 stampati et dati in luce. Secondo Libro. Con licentia de' Superiori. In Roma
@@ -47,15 +44,10 @@ Chiare e lucenti stelle, crin d'oro e bianca neve, ch'ornate di mia Flori 7
 Crederò, col partire dal caro amato oggetto, frenar il duol 8
 Amor, che dolcemente mi consumi, anzi mi tieni sempre in dolce foco 9
 Donna, ben saprei io mostrarvi aperto sì la pena mia 10
-Donna, s'io resto vivo mentre, malgrado mio, di voi mi privo (Parabosco) ]]
+Donna, s'io resto vivo mentre, malgrado mio, di voi mi privo (Parabosco) 11
 Morro, dolce mio bene 12
-R glovenil mio core s'albergò. mai diletto e d'inocente pargoletto amore 13
+Il giovenil mio core s'albergò mai diletto e d'inocente pargoletto amore 13
 A te non bas'ta solo, ahi dlspietato ed empio et per mio scempio 14
-a... h ...
-Viddi ra -  b -  ,- . on un auno se crzar 16
-
-P"' 1 ac: e v1dd imprese ne bCl coralli suor ferme note 17
-
-  
-
-
+A tuoi ritorn'abissis, alto dolor, s'hai desir del mio mal 15
+Viddi in mezzo d'un folto et atro bosco con un fauno scherzar 16
+Viddi rapir i baci e vidd'imprese ne bei coralli suoi ferine note 17

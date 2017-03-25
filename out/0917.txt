@@ -33,7 +33,7 @@ I-Rsc: compl.
 D-Mbs: compl.
 A-Wo: C.A.T.5.
 B-Br: C.A.T.5.
-E-Bd: C. (mutilo da pag. ZZ).
+E-Bd: C. (mutilo da pag. 22).
 I-Fc: 5.
 
 P-Pc: S.

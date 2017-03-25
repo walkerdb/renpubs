@@ -23,7 +23,7 @@ A 1. Ferma, ferma, che tenti, o del mio regno. Amore
 A 3. Su dunque amanti, con gioia e canti. Amante, Amore et Amico
 Dialogo a 3: Licori, Tirsi e Dafne:
 
-A 1. Dimmi, mcsto paslorc, qual muto pesce. Licori
+A 1. Dimmi, mesto paslorc, qual muto pesce. Licori
 
 " " Ncssun ch'odi d'amore quando il mar queto l'armonia. Tirsi
 

@@ -14,7 +14,7 @@ n " Era dunque ne fati, occhi miie cari ch'io lontano da voi. Tei-zinc (Tansillo
 n " Apra il suo verde seno ogni bel prato ameno 41
 A 2. O come sci gentile, caro augellino, o quanto è'] mio (Guarini) 42
 " " Ecco la primavera, nuntia dell'anno amata 45
-A 3. Dispicgalc, guancic amate, quella porpora acerbetta (Cebà) 46
+A 3. Dispiegalc, guancic amate, quella porpora acerbetta (Cebà) 46
 n " O donna troppo cruda e troppo bella (Guarini) 47
 I-Rsc
 

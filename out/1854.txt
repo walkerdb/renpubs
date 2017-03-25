@@ -39,7 +39,7 @@ A 4. Signor il grido 1
 " " So ben che voi non sete, donna gentil, sì di pietà rubella 26
 " " Lasso, ben m'aveggio hor 26
 " " Occhi più che divini (seconda parte) 27
-" " Partomi, donna, : tcco lascio il core ZZ;
+" " Partomi, donna, : tcco lascio il core 22;
 " " Partomi, donna, e tcco lascio il core 30
 " " Lontano son da voi N. mia 31
 " " Chi "ol veder 32
@@ -51,7 +51,7 @@ A 4. Signor il grido 1
 A 4. Ella non sa se non in \an dolersi 34
 " " Cossì, cor mio, voglialc, le dicca (s:-ronda parle) " 35
 " " Ma poi chc'l mio destino (terza pauc) " 36
-" " A questo la mcstissima Isabella (quarta pam") " 36
+" " A questo la mestissima Isabella (quarta pam") " 36
 " " Di ciò cor mio (quinta parte) 37
 " " Son figlio a matte. Enigma 37
 
