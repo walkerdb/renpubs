@@ -29,7 +29,7 @@ A 4. En un lieu ou l'on ne voit goulte (O. de Saint-Gélais) 2
 " " No giorno t'haggio havere intr'alle manc. Napolitana 7
 " " La cortesia voi, donne, predicate, ma mai non l'osservate. Napolitana 3
 " " Tu, traditora, m'hai puost'a sto core no focolare. Napolitana 9
-" " Sto core mio se fosse di diamante. Napolitann lO
+" " Sto core mio se fosse di diamante. Napolitann 10
 A 5. Comme la tourterelle languit 11
 " " Ou t'attend la maitresse, amy. Response 12
 " " Ie ne veux plus que chanter 13

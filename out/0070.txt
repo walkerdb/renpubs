@@ -1,29 +1,26 @@
 A 5. Alla dolc'ombra delle belle frondi corsi (Petrarca) 19
-
 " " Non vide il mondo sì leggiadri rami (seconda parte) " 20
 A 4. Cantai, hor piango e non men di dolcezza " 21
 " " Tengan dunque ver me l'usato stile (seconda parte) " 22
 " " Dal più bel viso e dal più vago petto " 23
 " " Da le soavi parolette accorte (seconda parte) " 24
-I-Fn: compl.
 
-GB-Lbm: compl,
+I-Fn: compl.
+GB-Lbm: compl.
 GB-Lwa: compl.
 I-VEaf: C.A.5.
+F-Pmcyer: C.A.5.
 
-F-Pmcyer: CAS.
 
-ANTEGNATI Costanzo
-Cfr.: BERTANI Lelio - ANTEGNATI Costanzo
+
 
 90 - ANTEGNATI Costanzo (1571) - Di Constanto Antegnati organista il Primo
 Libro de Madrigali a quattro voci con un Dialogo a otto, nuovamente da lui composti
 et dati in luce. A quattro voci. In Venetia, appresso li figliuoli di Antonio
-
 Gardano. 1571.
 
-4 fasc. in 8° obl. (C.A.T.B.) pag. 2.9,(1). Dedal Cavalier Carlo Durandi: " ...quei primi frutti,
-che da nuove piante, nella villa sua, et in poco tempo son divenuti... Venetia, 15 VII 1571 "-
+4 fasc. in 8° obl. (C.A.T.B.) pag. 29,(1). Dedal Cavalier Carlo Durandi: " ...quei primi frutti,
+che da nuove piante, nella villa sua, et in poco tempo son divenuti... Venetia, 15 VII 1571 ".
 
 A 4. Sacri colli e beati, ben nate rive e ben felici piante 1
 " " Hor ben puoi, ch'eri qual chiaro Sebeto, l'arene in or 2
@@ -34,10 +31,7 @@ A 4. Sacri colli e beati, ben nate rive e ben felici piante 1
 " " Che debbo far, se più non odo (quinta parte) 7
 " " Piangerò dunque da l'estate al verno (sesta parte) 8
 " " Ahi stanche luci, ahi fredd'e oscuro (settima parte) 9
-
-" " Volgi qua su nel ciel ambe le luce et mira. Risposta alla Canzone Non vedran mai.
-[Di Lelio Bertani 10
-
+" " Volgi qua su nel ciel ambe le luce et mira. Risposta alla Canzone Non vedran mai. Di Lelio Bertani 10
 " " Non ti doler d'april, nè men di morte (seconda parte) 11
 " " Godi contento gli terreni fiori (terza parte) 12
 " " Stanne pur lieto, ch'altro meglio (quarta parte) 13
@@ -47,11 +41,9 @@ A 4. Sacri colli e beati, ben nate rive e ben felici piante 1
 " " Vivete lieti, se viver volete, tal che sin all'uscita 17
 " " Gioir è vita vera. Quel vive (seconda parte) 18
 " " De bei fioriti colli hor ben sei chiaro monte il vant'e honore 19
-" " Duoi leggiadrctte donne, dietr'a una riva sole 20
+" " Duoi leggiadrette donne, dietr'a una riva sole 20
 " " E nel passar pei fiori dietro lasciaro (seconda parte) 21
 " " Scendi da l'alto cielo Apollo, ch'a le piante dai Vigore 22
 " " A mio mal grad'amor conosc'hormai che null'è contra te 23
 " " Facea col cancro il sol suo bel soggiorno 24
 " " Cangiar pensier hormai più non mi lice 25
-
-.

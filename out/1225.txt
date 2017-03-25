@@ -35,7 +35,7 @@ A 5. Sparg'al girar de l'onde 3
 " " Non mi curo che'l mondo mi riprenda 4
 " " Così dice ridendo (seconda parte) 4
 " " O liete piante, o colli ameni, o aprichc. Di Claudio da Correggio 5
-" " O secrcte e fresch'ombre (seconda parte) 6
+" " O secrete e fresch'ombre (seconda parte) 6
 " " Loca: sopra gl'abissi i fondamenti de la gran terra e quasi (Beccuti) 6
 " " Signor, fu poc'a la tua gran possanza (seconda parte) " 7
 " " Quivi sospiri, piant'et alti guai risonavan per l'aa (Alighieri) 8

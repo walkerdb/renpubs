@@ -40,7 +40,7 @@ A 3. Vag'augellelti, che tra belle fronde gite cantand'all'apparir del giorno ' 
 " " Liete, festose et honorate donne. deh date qualche premi'al servir 21
 " " La pastorella mia come s'ha post'in via, guidando la sue gregge 22
 " " Nui siamo tre vecchietti sventurati. Andiam cercando 23
-u " Deh fermatev'al suon di queste voci, bella quanto crude]. Di Laurentius dt Egidi"; 24
+u " Deh fermatev'al suon di queste voci, bella quanto crudel. Di Laurentius dt Egidi"; 24
 " " Fuggimi pur, cor mio, quanto tu voi che mai mi stancherò 25
 
 " " Ohimè come porragio, senz'il mio chiaro raggio, guidar. Di Pre Lorenzo de Egidi]: 25

@@ -49,7 +49,7 @@ Phalesio al re David. 1609.
 5 fasc. in 8° obl. (C.A.T.B.5), pag. 81,(1). Indice = V1 + VII + VIII + IX Libro di Madſ. a 5 v.
 
 GB-Och: compl.
-GB-Ob: C.T.B.S.
+GB-Ob: C.T.B.5.
 D-W: C.T.B.
 F-Psg: T.B.5.
 D-BFa: A.T.

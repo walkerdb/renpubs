@@ -22,7 +22,7 @@ n " Queste lacrime mie. se hen candide son. se ben lucenti 3
 " " E sogno, o \er.= Se sogno, ahi chi depinge \'i\'a 7
 " " Questo è pur il mio sol, l'idolo mio (seconda parte) 8
 A 5. Schiera d'aspri martiri dà battaglia di morte a la mia vita (Chiabrera) 9
-" " Gioir fugace. tu surgi e cadi a un punto lO
+" " Gioir fugace. tu surgi e cadi a un punto 10
 " " Neve e rose ha nel volto la mia hella angioletla, ond'io dizcerno "
 " " Ardi contento e taci, o di secreto amore secretarìo mio core 11
 " " Ahi chi mi l'a languire sorte perversa e ria "

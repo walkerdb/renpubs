@@ -13,7 +13,7 @@ E ch'e piè miei non son fiaccati e lassi (seconda parte) " 29
 
 I-VEaf: compl.
 A-Wn: compl.
-I-Bc: A.T.B.S.
+I-Bc: A.T.B.5.
 
 2240 - PORDENON Marc'Antonio (1578) .. Il Quinto Libro de Madrigali a
 cinque voci, di Marc'Antonio Pordenon maestro di capella della chiesa di Santo

@@ -6,7 +6,7 @@ n " Tancredi. o sanguinoso, o lagrimnto (seconda stanza) "
 " " Piaghe chc'l sangue di versar (quarta stanza) "
 " " Morte, ch'a me li lolxc, lior mi concede (quinta stanza) "
 GB-Och: compl.
-GB-Lbm: C.l°.
+GB-Lbm: C.1°.
 
 2462 - ROVETTA Giovanni (1636) - Madrigali concertati a 2.3.4. et uno a sei
 voci, et due Violini con un Dialogo nel fine, et una Cantata a voce sola. Di Gio.
@@ -14,7 +14,7 @@ Rovetta vice maestro di capella della serenissima Republica di Venetia. Libro
 Primo. Opera Seconda. Novamente ristampati. Con licenza de Superiori et privilegio.
 In Venetia 1636. Appresso Bartolomeo Magni.
 
-Sſasc. in 8° (C.l°, C.2°, A., B.. Br.). Indice = 1629.
+Sſasc. in 8° (C.1°, C.2°, A., B.. Br.). Indice = 1629.
 
 PL-WRu : compl.
 
@@ -22,9 +22,9 @@ PL-WRu : compl.
 voci, et due Violini. Con un Dialogo nel fine, et una Cantata a voce sola. Di Gio.
 Rovetta maestro di capella della serenissima Republica di Venetia. Libro Primo.
 Opera Seconda. Novamente ristampati. In Venetia 1648 alla stampa del Gardano.
-5 fasc. in 8° (C.l°, C.2°, A.. B., BC.). Indice = 1629.
+5 fasc. in 8° (C.1°, C.2°, A.. B., BC.). Indice = 1629.
 
-I-FEc: C.l°. C.2°, A., B.
+I-FEc: C.1°. C.2°, A., B.
 I-Bc: Bc.
 
 2464 - ROVETTA Giovanni (1660) - Madrigali concertati a 2.3.4. et uno a sei

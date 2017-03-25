@@ -68,13 +68,13 @@ PL-WRu: compl.
 
 US-Wc: compl.(prov. Wolſſheim).
 
-I-Vnm: cav, AJ", A.2°, T.l°, n°, B.l°, B.2°, 5.
+I-Vnm: cav, AJ", A.2°, T.1°, n°, B.1°, B.2°, 5.
 US-Cn: C.l", A.]", A 1", TJ", TZ", BJ", BZ", 5.
-D-Hs: A.l°, A...Z", T.l°, 112°, B.l°, M°, Bc.
-GB-Y: C.l", AJ", Al", T.l°, T.2°, Bl", 5.
-CM: c.°, A.P. Al", T.l°, T.2°, 8.2", 5.
+D-Hs: A.1°, A...Z", T.1°, 112°, B.1°, M°, Bc.
+GB-Y: C.l", AJ", Al", T.1°, T.2°, Bl", 5.
+CM: c.°, A.P. Al", T.1°, T.2°, 8.2", 5.
 
-S-Uu: C.l°, T.2°.
+S-Uu: C.1°, T.2°.
 
 I-Sd: T.l", T.2°.
 

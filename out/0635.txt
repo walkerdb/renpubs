@@ -31,7 +31,7 @@ I-de: compl.
 A-Wn: compl.
 CH-Bu: compl.
 D-As: compl.
-GB-Lbm: A.T.B.S.
+GB-Lbm: A.T.B.5.
 PL-GD: C.A.T.
 I-Vnm: C.A.
 D-KNu: C.B.

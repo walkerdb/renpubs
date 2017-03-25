@@ -51,5 +51,5 @@ In Anversa appresso Pietro Phalesio al re David 1615.
 
 GB-Och: compl.
 F-Pthibault: C.A.T.B.5.
-PLGD: C.A.T.B.S.
+PLGD: C.A.T.B.5.
 

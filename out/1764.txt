@@ -42,7 +42,7 @@ D-Kl: compl.
 GB-Lwa: compl.
 D-As: C.A.T.B.6.
 D-LEst: C.A.T.B.5.
-Pl.-GD: T.B.S.6.
+Pl.-GD: T.B.5.6.
 I-Bc: A.6.
 
 I-Fn: A.

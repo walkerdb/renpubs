@@ -31,7 +31,7 @@ A 1. Ecco pronta a i baci. Baciami, Ergasto mio. Amorosi ardori (Marino) 2
 " " Arsi et alsi a mia voglia, leal non impudico. Amor difeso. Replica " 8
 " " Ardesti in finto fuoco e giaccio fu. Amor confuso. Risposta " 9
 
-" " Dunque, per esser bella sete, Lilla crude], d'amor rubella. Amorosa alta-ezza. Dialog-0:
+" " Dunque, per esser bella sete, Lilla crudel, d'amor rubella. Amorosa alta-ezza. Dialog-0:
 [Eurillo e Lilla "
 
 " " O che soave bacio da la mia donna hebb'io. Amoroso restoro (Guarini) B

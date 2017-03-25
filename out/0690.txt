@@ -15,7 +15,7 @@ Ma in quel ch'al passo sospirando arrivo (seconda parte) 17
 S'a l'amorose mie calde parole, s'al pianto, s'a i sospir vivi e cocenti 18
 E questo fium'ogn'hor torbid'et lento (seconda parte) 19
 Quando nel cor m'cntrasti, o fera gelosia, lost'il piacer turbasti 20
-Amor crude], infido, anzi fidel amor pietoso, com'esser può 21
+Amor crudel, infido, anzi fidel amor pietoso, com'esser può 21
 Gratie ch'a pochi'l ciel largo destina (Petrarca) 22
 E quei begli occhi che i cor fanno (seconda parte) " B
 Tu mi piagasti a morte, darmi credend'amor, picciol ferita 24
@@ -28,7 +28,7 @@ D-Kl: compl.
 
 D-Mbs: compl.
 
-I-MOe: C.A.T.B.S.
+I-MOe: C.A.T.B.5.
 
 I-VEaf : C.A.B.5.6.
 

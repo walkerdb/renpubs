@@ -15,7 +15,7 @@ A 8. Ahi che romor sent'io. Par che mi chiami Dio
 " " Eccone al gran Damasco, ove fà stanza. La conversione di S. Paolo. Dialogo
 
 I-Rsc: compl.
-F-Pc: C.l°, C.2°, A.T.B.6.8.Org.
+F-Pc: C.1°, C.2°, A.T.B.6.8.Org.
 I-Rc: C.2°, T.6.7.Org.
 D-Rp: T.6.7.
 I-Sac: 7.

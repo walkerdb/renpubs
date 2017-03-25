@@ -14,7 +14,7 @@ D-VHl: compl.
 
 I-Ls: C.A.T.B.5.
 
-PL-WRu: C.A.T.B.S.
+PL-WRu: C.A.T.B.5.
 
 I-A: Partitura
 
