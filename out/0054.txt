@@ -1,5 +1,4 @@
-Neve e rose ha nel volto questa puri angioletta "
-
+Neve e rose ha nel volto questa puri angioletta 14
 Picciola sei, ma vaga, gentil, amorosina 15
 Donna, non fu mai vero ch'il grand'amor sincero 16
 Fatta pietosa homai la donna mia di quel vivace fuoco 17
@@ -9,16 +8,17 @@ Unica mia fenice, giungerà mai quell'hora che baciandovi io mora? 21
 Fedel amante mio, giuro per quell'ardore. Risposta (seconda parte) 22
 Porgi l'amate braccia, stringimi il collo e'l petto 23
 Queste liete parole Tirsi gentil dicea (seconda parte) 24
-
-24
-
-Ben mio che v'avvolgete dentro la fida rete
+Ben mio che v'avvolgete dentro la fida rete 24
 
 A-Wn: G.B.
 I-Bc: A.
 I-Rvat (Chigi): B.
 
-72 - ANERIO Giovanni Francesco (1608) - Madrigali a cinque et a sci voci con
+
+
+
+
+72 - ANERIO Giovanni Francesco (1608) - Madrigali a cinque et a sei voci con
 uno a otto di Gio. Francesco Anerio romano. Libro Secondo novamente composto,
 et dato in lucc. In Venetia, appresso Giacomo Vincenti. 1608.
 
@@ -44,10 +44,8 @@ A 6. Tu fuggì a pena giunto, fuggitivo crude], fia mai quel giorno (Guarini) 14
 " " Questa... spirto ha celeste ancora scesa dal ciel quasi più bell'aurora 17
 " " Spargea la donna mia mille lagrime e mill'cl ciel sereno 13
 " " Rallegrati, cor mio, ch'ogni dolore, che per donn'ha'i patito 19
-A 8. Se fra i bei giri ardenti splcndon le vaghe stelle 20
+A 8. Se fra i bei giri ardenti splendon le vaghe stelle 20
+
 D-Mbs: compl.
-
 I-Bc: A.6.
-
 I-Sd: T.
-

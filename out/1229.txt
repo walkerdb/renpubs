@@ -41,7 +41,7 @@ A 5. Quando la bell'auror'inanzi al sole sgombra le nebbie 1
 " " Noi vivemo le noie del tempestoso mondo (seconda parte) " " 7
 " " Là ve l'aurora al prim'albor rosseggia e togl'il velo 8
 " " Pur hai fatto partita, dolce mio bene, e tolta m'hai la vita 9
-" " O voi che liet'in piccioletta nave, solcand'il mar tranquillo 10
+" " O voi che liet'in piccioletta nave, soleand'il mar tranquillo 10
 " " E se volget'il lcgn'anc'a la riva (seconda parte) 11
 " " Errori, sogni e vision oscure, pensier fallaci e d'allegrezz'inccrte 12
 " " La giovinetta scorza ch'involg'il tronco e i rami d'un verde lauro (Tasso) 14

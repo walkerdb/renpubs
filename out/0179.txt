@@ -25,7 +25,7 @@ A 5. Ragion è ben ch'alcuna volt'io canti, pero ch'ho sospirato 1
 " " Il mal mi prem'et mi spavent'il peggio (Petrarca) 2
 " " Ben ch'io non sia di quel (seconda parte) " . 3
 " " Se'l dolce sguardo di costei m'ancide " 4
-" " Però s'io trem'ct vo (seconda parte) " 5
+" " Però s'io trem'et vo (seconda parte) " 5
 " " Per far una leggiadra sua vendetta " 6
 " " Però turbata nel primìer (seconda parte) " 7
 " " Le stell'e'l ciclo et gl'elemente a prova " 8

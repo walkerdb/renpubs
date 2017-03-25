@@ -4,7 +4,7 @@ A 3. O figlio di Sion, che notte e giorno gite. Vilanella 46
 " " O miei caldi sospiri, fatti sol per fuggir. Vilanella 47
 " " Peccator, deh che fai, che non rivolti i rai. Vilanelln 48
 " " Alma, se m'ami io t'amo, se per me mori. Vilanella 49
-" " Giesù divino amore, albergo del mio core. Vilanclla 50
+" " Giesù divino amore, albergo del mio core. Vilanella 50
 " " A che schivi, mio cor, l'onde sì spesso Sl
 I-Rsc
 
@@ -14,7 +14,7 @@ Un csempl. era nella Collezione Heyer di Kòln.
 voci per sonare et cantare nuovamente poste in luce. Libro Primo. Con licentia
 de' Superiori. In Roma appresso Alessandro Gardano 1588.
 
-3 fasc. in 8° (C.A.B.), c. 22,(1). Ded. di Gio. Luca Conforto a Isabella Gabrielli de' Mignanclli:
+3 fasc. in 8° (C.A.B.), c. 22,(1). Ded. di Gio. Luca Conforto a Isabella Gabrielli de' Mignanelli:
 "Dubitava io che le perpetue richieste de' padroni, et de gl'amici del Signor Paolo Quagllalî.
 et miei non bastassero a scusarmi presso di lui di questo mio ardire di mandare in luce lc
 sue Villanelle da me fuor d'ogni suo pensiero raccolte, senza farnelo consapevole. Et però 11°
@@ -33,7 +33,7 @@ A 3. E' diventato sto mio cor meschino una campana posta in basso loco 1
 " " Donna, mi fuggi ogn'hora, credendo col fuggire talhor farmi morire 9
 " " Andiamoci a dormire, perchè madonna non ci vuol sentire 10
 " " Ferma, non ti partire, ecco madonna che comincia aprire "
-" " Piansero le scudellc, il mortaio, li spiedi e le padelle 12
+" " Piansero le scudelle, il mortaio, li spiedi e le padelle 12
 " " Quando talhor udiva ch'uscisse dal tuo strale colpo tanto mortale U
 " " Bene mio, tu m'hai lasciato senza speranza e senza conforto ];
 " " Lo spirto afflitto e stanco prima farà dal corpo dipartita {4

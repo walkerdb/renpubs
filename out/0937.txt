@@ -40,7 +40,7 @@ Libro Primo. In Venetia, appresso Ricciardo Amadino. 1590.
 
 """ D- - Donò Licori a Batto una rosa cred'io di paradiso (Guarini) 1
 Stu/an' Fr. - Spira dalla dolce aria del bel viso della mia donna amor 2
-" " - Tirsi son io, quel misero pastorc, che per Clori sospira 3
+" " - Tirsi son io, quel misero pastore, che per Clori sospira 3
 La'" D- - La mia leggiadra Clori, col pianto in perle avolto bagnava 4
 " " - Morì quasi'l mio core quando la bianca mano mi diede 5
 " " - Morir non può'l mio core e ucciderlo vorrei, poi che vi piace 6

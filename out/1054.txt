@@ -1,4 +1,4 @@
-1699 - MARENZlO Luca (1587) .- il Quarto Libro delle Villanclle a tre voci.
+1699 - MARENZlO Luca (1587) .- il Quarto Libro delle Villanelle a tre voci.
 Di Luca Marentio. Raccolte da Attilio Gualtieri nuovamente poste in luce.
 In Venetia, presso Giacomo Vincenzi. 1587.
 
@@ -47,7 +47,7 @@ I-Rsc: T.
 F-Pmcycr: B.
 I-BRq: B.
 
-1700 - MARENZIO Luca (1592) - Il Quarto Libro delle Villanclle a tre VOCif
+1700 - MARENZIO Luca (1592) - Il Quarto Libro delle Villanelle a tre VOCif
 di Luca Marenzio. Raccolte per Attilio Gualtieri. Nuovamente ristampate. et
 con diligenza corrette. In Venetia appresso Giacomo Vincenti. 1592.
 

@@ -28,7 +28,7 @@ n " Deh rapitemi o voi (terza parle) 17
 " " O mia felice vita, o petto " " " " " " 22.
 " " Più non t'amo e non t'adoro " " " " " " 23
 " " Luci belle, luci ingrate, che'l mio mal " " " " " " 24
-" " Bcll'e vezzosa Filli amorosa " " " " " " 25
+" " Bell'e vezzosa Filli amorosa " " " " " " 25
 " " Sono intricato, appasionato amor " " " " " " 26
 A 2 Ecco l'alma staggione che le campagne. Dialogo pastorale 27
 " " Com'è breve il sereno del giorno degli amanti. Canzonetla 34

@@ -45,7 +45,7 @@ Guidi
 
 " " Se'l raggio di begl'occhi vostri mi tien in vita, donna. Frutti del Primavera 4
 " " Cara la vita mia, egli è pur vero ch'altra fiamma d'amor. D'incerto 5
-" " Occhi, {aci d'amor acces'ct belle, per quel santo splendore. Rime del Parabosco 6
+" " Occhi, {aci d'amor acces'et belle, per quel santo splendore. Rime del Parabosco 6
 " " Se vi è quest'alm'in questa spoglia (seconda stanza) 7
 
 -]395-

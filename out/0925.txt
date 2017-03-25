@@ -13,7 +13,7 @@ A 6. Nunc gaudcre licet 73
 " " Pacis amans cultorque 74
 " " Te nunc laetetur (seconda parte) - 75
 " " Tytirc, tu patulc rccubans sub tegminc phngi (Virgilio) 75
-"" O Mclibacc (seconda parte) " 76
+"" O Mclibace (seconda parte) " 76
 " " Si qua tibi obtulcrint 76
 A 8. Un jour l'amant et l'amic 77
 " " Que di-tu, que fais-tu (Ronsard) 73

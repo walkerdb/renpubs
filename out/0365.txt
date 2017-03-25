@@ -5,7 +5,7 @@ A 3. Porgimi. Giesù mio, quelle vermiglio rose. (2 Canti, Basso e Bc.) 18
 " " O crin pregiato un tempo. che'l divin capo. (2 Canti, Basso e Bc.) 22
 " " Ah dolente mia voce, se'l Verbo tacque. (Z Canti, Basso e Bc.) 24
 " " Troppo curiosa e' vana la nostra madre antica (Z Canti, Basso e Bc.) 2,6
-" " Tu che d'cterni chiostri l'auîor del sol dimostri (Z Canti e Alto) 28
+" " Tu che d'eterni chiostri l'auîor del sol dimostri (Z Canti e Alto) 28
 " " Vergine benedetta, nel tuo candido velo. (2 Canti e Basso) 29
 
 US-Wc (prov. Landau).
@@ -43,7 +43,7 @@ A 1- O sospetto fallace, stolto è ben chi ti crede 9
 " " Per unta vita giuro che la mia vita sei 19
 A 2- O rosetta, che rosetta tra'l bel verde di duc frondi (Chiabrera) 20
 " " Baci, parto de l'alma, bel legame de' cori 21
-" " Ecco l'alba, ecco risplcnde Febo in ciel 22
+" " Ecco l'alba, ecco risplende Febo in ciel 22
 " " Vedrai l'alba al tuo apparire (seconda parte) B
 " " Al vivo sol di due begl'occhi ardemi, in cui sfnvill'amor 24
 " " Fani pur Specchio il fiume e chi ti segue ogn'hor 25

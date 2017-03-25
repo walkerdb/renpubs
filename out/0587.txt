@@ -47,6 +47,6 @@ A 4. Ne l'odorat'et lucid'oriente (Bembo) 1
 " " Ahi quanto indegni son di lor fortuna " 32
 " " Qual fora un huom se l'una et l'altra luce " 33
 " " Non vi mando qua giù l'eterna cura " 34
-" " Pascc la pecorella i verdi campi " 35
+" " Pasce la pecorella i verdi campi " 35
 " " Il pregio d'honesrate amato et colto " 36
 

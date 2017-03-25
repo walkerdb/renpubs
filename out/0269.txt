@@ -17,7 +17,7 @@ A 1. Padre diletto. Amore 3
 " " Prendili dunque. Vulcano 3
 Interm. III
 A 3. Vaga dea degl'amori. Coro di Grafic 4
-A 1. Gratic del ciel. Vcnere 4
+A 1. Gratic del ciel. Venere 4
 " " Ecco quel dio. Amore 4
 " " Ohimè meschin, ohimè. Marte 5
 " " O di questo mio cor. Venera: 6
@@ -32,7 +32,7 @@ A 1. O del notturno. 6
 Interm. V
 A 1. Nacqui già della 8
 " " Chi brama, o chi. Mercurio 9
-" " Su pastorcllo 10
+" " Su pastorello 10
 " " Pastorelle vezzoselte, che sì belle e sì dilette 11
 " " Era l'aurora 12
 " " Di sospir di dolore 13
@@ -42,8 +42,8 @@ A 1. Nacqui già della 8
 " " Raggion di sua pictà (quarta parte) 17
 " " Ahimè, io parto 18
 " " o Mirtillo, Mirtillo, anima mia (Guarini) 19
-A 2 Lascivette pastorcllc, che scorrendo i campi. Con Bc. 2-1
-" " Ricciutclla pargoletta. Con Bc. 21
+A 2 Lascivette pastorelle, che scorrendo i campi. Con Bc. 2-1
+" " Ricciutella pargoletta. Con Bc. 21
 " " Deh dimmi, amor, se gl'occhi. Dialogo. Con Bc 23
 A 3 Che fai, Dori, che pensi. Con Bc. 25
 CS-Pu

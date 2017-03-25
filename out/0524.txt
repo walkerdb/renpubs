@@ -22,7 +22,7 @@ A 6. Hor che'l ciel e la terr'e il vento tace (Petrarca) 1
 " " Amorosi pensier, lagrime amare 5
 " " Ben convenne madonna in vest'oscura (Giovanni Manrique) 5
 " " Solo, lasso n'andrò col mio mortale (seconda parte) " " 7
-" " lo giuro, amor, per la tua [acc eterna (Guidiccionì) B
+" " lo giuro, amor, per la tua [ace eterna (Guidiccionì) B
 " " Vist'ho faville uscir da suoi bei lumi (seconda parte) " 9
 " " Fera stella, se'l ciel ha forza in noi (Petrarca) 10
 " " Ma tu prendi a diletto i dolor miei (seconda parte) " "

@@ -6,7 +6,7 @@ A 5. l'attens le lems ayant ferme esperance
 " " Et d'ou venez vous, madame Lucette 32
 " " Puis qu'en mon mal 32
 " " Tu le veux bien. Response 33
-" " O foible esprit, chargé de tant de peines (]. du Bcllay) 33
+" " O foible esprit, chargé de tant de peines (]. du Bellay) 33
 " " O icune archer (seconde partie) " 34
 " " Ardant amour souvent 34
 " " Au tems iadis amour s'entretenoit 35
