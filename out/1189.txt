@@ -3,6 +3,10 @@ US-Wc: compl.
 D-Rp: C.A.T.5.
 I-Rc: C.B.5.
 
+
+
+
+
 1903 - MONTEVERDI Claudio (1590) - Il Secondo Libro de Madrigali a
 cinque voci di Claudio Monteverde cremonese discepolo del signor Ingegneri.
 Novamente posti in luce. In Venetia appresso Angelo Gardano. 1590.
@@ -35,6 +39,10 @@ Cantai un tempo e se fu dolc'il canto, questo mi laccrò (Bembo) 21
 
 A-Wn: T.D.S.
 GB-Lbm: 5.
+
+
+
+
 
 1904 - MONTEVERDI Claudio (1607) - Il Secondo Libro de Madrigali a
 Cinque voci di Claudio Monteverde cremonese novamente con ogni diligenza

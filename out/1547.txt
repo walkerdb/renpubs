@@ -7,6 +7,10 @@ D-Rp: C.A.B.5.
 F-Pc: T.
 I-Bc: B.
 
+
+
+
+
 2483 - RUFFO Vincenzo (1555) - Di Vicenzo Ruffo il Primo Libro de Madrigali
 a cinque voci, novamente (lato in luce. Libro Primo. In Venetia apresso di
 Antonio Gardano. 1555.
@@ -17,6 +21,10 @@ I-Bc: compl.
 D-Mbs: compl.
 YU-MAs: compl.
 I-VEaf: B.
+
+
+
+
 
 2484 - RUFFO Vincenzo (1562) - Di Vincentio Ruffo il Primo Libro di Madrigali
 a cinque voci, novamente per Antonio Gardano ristampati. A cinque voci.

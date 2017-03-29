@@ -8,6 +8,10 @@ A 7. Presso un fiume tranquillo disse a Filena. Dialogo " 20
 I-Bc: compl.
 B-Br: C.A.T.B.Bc.
 
+
+
+
+
 1933 - MONTEVERDI Claudio (1615) - Il Sesto Libro de Madrigali a cinque
 voci con uno Dialogo a sette, con il suo Basso continuo per poterli concertare nel
 Clavacembano, et altri stromenti. Di Claudio Monteverde maestro di cappella
@@ -18,6 +22,10 @@ della sereniss. republica di nuovo corretti, et ristampati. Con privilegio. In V
 
 I-Bc: compl.
 D-Hs : compl.
+
+
+
+
 
 1934 - MONTEVERDI Claudio (16211) - Del signor Claudio Monteverde maestro
 di cappella della serenissima republica di Venetia. Il Sesto Libro de Madrigali
@@ -36,6 +44,10 @@ D-Hs: C.B.S.
 D-Bds: ABC.
 F-Pn: C
 I-FEC: Bc.
+
+
+
+
 
 1935 - MONTEVERDI Claudio (1639) - Di Claudio Monteverde maestro della
 musica del sereniss. S. duca di Mantoa. Il Sesto Libro de Madrigali a cinque voci

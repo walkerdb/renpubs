@@ -5,6 +5,10 @@ US-SFsc (De Bellis): C.S.
 I-Rsc: C.
 US-CA: T.
 
+
+
+
+
 1157 - GESUALDO Carlo (1594) - Madrigali a cinque voci. In Ferrara, per
 Vittorio Baldini stampator ducale. (Libro 2°).
 
@@ -45,6 +49,10 @@ I-Bc: compl.
 I-PS: C. (pag. 7-22), A. (pag. 9-12, 15-22), T. (pag. 17-22), (Pag. 7-22).
 
 I-Nc: C.A.
+
+
+
+
 
 1153 - GESUALDO Carlo (1603) - Madrigali a cinque voci. Libro Seconda-
 

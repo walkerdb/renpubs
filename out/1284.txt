@@ -11,6 +11,10 @@ I-Fn: compl.
 I-MOe: C.A.T.B.
 US-BE: C.
 
+
+
+
+
 2072 - PACE Antonio (1575) .- Il Secondo Libro de Madrigali a sei voci, del
 cavaliere Antonio Pace novamente dati in luce. A sei voci. In Venetia, appresso
 Giuseppe Guilielmo. 1575.
@@ -44,6 +48,10 @@ Tristo destino è il mio 21
 
 I-Fn: compl.
 US-BE: C.
+
+
+
+
 
 2073 - PACE Giovanni Battista - VOPA Giovanni Donato (1585) - Il Primo
 Libro de Madrigali a cinque voci di Gio. Battista Pace, et Giovandonato VDP?"

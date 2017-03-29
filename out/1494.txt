@@ -15,6 +15,10 @@ E-V: compl.
 YU-Lu: compl.
 I-Fr: C5.
 
+
+
+
+
 2397 - (De) RORE Cyprien (1563) - Di Cipriano Rore il Primo Libro dc
 Madrigali cromatici a cinque voci novamente con ogni diligentia ristampato.
 A cinque voci. In Venetia apresso di Antonio Gardano 1563.
@@ -30,6 +34,10 @@ I-Rn: A.B.5.
 D-Rp: ABS.
 F-Pm: 5.
 
+
+
+
+
 2398 - (De) RORE Cyprien (1565c.) - Di Cipriano Dc Rore il Primo. Libro di
 Madrigali cromatici a cinque voci novamente ristampato. A emque voci. In VCnetia,
 appresso Francesco Rampazetto.
@@ -38,6 +46,10 @@ appresso Francesco Rampazetto.
 
 I-VEcap: compl.
 GB-Lbm: T.5.
+
+
+
+
 
 2399 - (De) RORE Cyprien (1576) - Di Cipriano de Ikaro-il Primo'Libromîìl,e
 Madrigali cromatici a cinque voci novamente con ogni diligentia ristamp A

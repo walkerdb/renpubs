@@ -23,6 +23,10 @@ lì-Br: C.A.T.B.
 D-W: C.T.B.
 B-Gu: Bc.
 
+
+
+
+
 1920 - MONTEVERDI Claudio (162.2) - Quarto Libro de Madrigali a cinque
 voci. Del signor Claudio Monteverde maestro di cappella della sereniss. republtca.
 Di nuovo corretto, et ristampato. Stampa del Gardano. In Venetia 1622. APPTCSSO
@@ -34,6 +38,10 @@ GB-Lbm: compl.
 GB-Och: compl.
 D-Rp: C.A.T.5.
 I-Bc: T.
+
+
+
+
 
 1921 - MONTEVERDi Claudio (1644) - Di Claudio Monteverde maemo-della
 musica del sereniss. S. duca di Mantova. Il Quarto Libro de Madrigali a cinque

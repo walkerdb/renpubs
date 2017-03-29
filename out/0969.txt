@@ -6,6 +6,10 @@ F-A: G.B.
 I-Bc: C.
 F-Pmcycr: C.
 
+
+
+
+
 1532 - LUZZASCHI Luzzasco (1613) - Seconda scelta delli Madrigali a cinque
 voci, dello Zascho Luzzaschi. In Napoli, appresso Gio. Giacomo Carlino. 1613.
 Con licenza de' Superiori. Si vendono alla libraria di Pietro Paolo Riccio, al Segno
@@ -44,6 +48,10 @@ Tra le dolcezze e l'ire e la gioia e'l martire la giovanetla Clori B
 GB-Lbm: compl.
 I-Nc: C.A.B.5.
 I-Bc: C.T.B.
+
+
+
+
 
 153} - MACIGNI Giovanni - MAGNI Benedetto (1617) - Madrigali a cinque
 

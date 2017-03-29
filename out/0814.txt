@@ -19,6 +19,10 @@ I-MOe: compl.
 I-FEc: C.A.T.B.
 I-Bc: Bc.
 
+
+
+
+
 1278 - GRANDI Alessandro (1623) - Madrigali concertati a due, tre, et quattro,
 voci per cantar e sonar nel Clavicembalo, Chitarrone, o altro simile stromento. 1)i
 Alessandro Grandi vice maestro di capella della serenissima Signoria di Venetia in
@@ -30,6 +34,10 @@ Opera XI. In Venetia appresso Alessandro Vincenti. 1623.
 D-Hs: compl.
 PL-WRu: compl.
 GB-Lbm: B.
+
+
+
+
 
 1279 - GRANDI Alessandro (1626) - Madrigali concertati a due, tre, et quattro,
 voci per cantar, e sonar nel Clavicembalo, Chitarrone, o altro Slmllc'stromentqDi

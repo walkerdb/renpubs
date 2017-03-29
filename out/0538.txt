@@ -7,6 +7,10 @@ GB-Ckc: C.
 I-Rsc: T.
 I-Nc: B.
 
+
+
+
+
 812 - DENTICE Scipione (1629) - Madrigali spirituali a cinque voci del P. Scipione
 Dentice sacerdote della Congregatione dell'Oratorio di Napoli. In Napoli,
 appresso Lazaro Scorriggio 1629. Con licenza de' Superiori.
@@ -42,6 +46,10 @@ Mentre pomposa te ne stai, rosa. A 4 in stile recitativo
 I-Nf : compl. (2° esempl.: 5.)
 D-MÜs: compl.
 US-Wc: C.A.T.B.
+
+
+
+
 
 813 - DENTICE Scipione (1640) - Madrigali spirituali a cinque voci del P. Sdf-'l"
 pione Dentice sacerdote della Congregazione dell'Oratorio di Napoli..Lil>ro Secon °In

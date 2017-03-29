@@ -5,6 +5,10 @@ A-Wn: compl.
 GB-Lbm: C.
 I-Bc: B.
 
+
+
+
+
 1695 - MARENZIO Luca (1587) - Il Terzo Libro delle Villanelle a tre voci.
 Di Luca Marentio nuovamente ristampate. In Venetia, presso Giacomo Vmcenti.
 1587.
@@ -44,6 +48,10 @@ GB-Ckc C
 I-Rsc: T
 F-Pmeyer: B.
 I-BRq: B.
+
+
+
+
 
 1696 - MARENZIO Luca (1592) - Il Terzo Libro delle Villanelle a tre voti,
 di Luca Marenzio. Raccolte per Christoforo Ferrari. Novamente ristampate, et

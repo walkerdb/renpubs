@@ -1,6 +1,10 @@
 D-As: C.A.T.ll.6.
 I-Rc: ll.
 
+
+
+
+
 2688 - STROZZI Barbara (1644) - Il Primo de' Madrigali di Barbara Strozzi
 a due, tre, quattro, e cinque voci consacrati alla serenissima granduchessa di
 Toscana D. Vittoria della Rovere. In Venetia, appresso Alessandro Vincenti. 1644.
@@ -45,6 +49,10 @@ A 2. Mordeva un bianco lino Aci dolen'e. Dal pianto degli amanti s'imparò a far
 
 I-Bc: compl.
 I-Fn: compl.
+
+
+
+
 
 2689 - STROZZI Barbara (1651) - Cantate Ariette, e Duetti di Barbara strati:!
 Opera Seconda. Consecrata alla cesarea maestà di Ferdinando Terzo. In cnc

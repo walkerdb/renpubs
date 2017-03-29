@@ -47,6 +47,10 @@ I-Rsc: T.
 F-Pmcycr: B.
 I-BRq: B.
 
+
+
+
+
 1700 - MARENZIO Luca (1592) - Il Quarto Libro delle Villanelle a tre VOCif
 di Luca Marenzio. Raccolte per Attilio Gualtieri. Nuovamente ristampate. et
 con diligenza corrette. In Venetia appresso Giacomo Vincenti. 1592.

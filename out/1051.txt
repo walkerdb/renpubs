@@ -9,6 +9,10 @@ I-Fn: T.
 I-Rsc: B.
 D-MZp: B.
 
+
+
+
+
 1693 - MARENZIO Luca (1000) - Il Secondo Libro delle Villanelle et Arie
 alla napolitana ;] tre voci di Luca Marentio di novo ristampate, et con diligenza
 corrette. In Venetia, appresso Angelo Gardano 1600.
@@ -21,6 +25,10 @@ USSR: Lsc: C.
 I-Rc: T.
 CS-KRa: T.
 D-Rtt: T.
+
+
+
+
 
 1694 - MARENZIO Luca (1585) - Il Terzo Libro delle Villanelle a tre voci
 composte dal S. Luca Marentio nel modo che hoggidì si usa cantare in Roma.

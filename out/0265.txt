@@ -21,6 +21,10 @@ Roza mia canzonetta, al mio signore ardita vola 21
 I-Bc: compl.
 B-Bc: C.1°.
 
+
+
+
+
 406 - BORSARO Arcangelo (1590) - Il Secondo Libro delle Canzonette a tre, et
 a quatro voci, di Archangelo Borsaro da Reggio. Novamente composte, et date in
 luce. In Venetia, appresso Ricciardo Amadino. 1590.

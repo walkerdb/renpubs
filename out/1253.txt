@@ -6,6 +6,10 @@ GB-Lbm: compl.
 GB-Och: compl.
 US-CA: T.
 
+
+
+
+
 2023 - NENNA Pomponio (1607) - Di Pomponio Nenna, cavalier di Cesare.
 Il Sesto Libro de Madrigali :\ cinque voci. In Napoli, nella stamperia di Gio.
 Battista Sottile. Per Scipione Bonino. 1607. Con licenza de' Superiori.
@@ -38,6 +42,10 @@ Così bella voi sete. donna, che co' begl'occhi il cor m'ardete 20
 Felice era il mio core, mentre seguiva amore 21
 
 GB-Lbm : compl.
+
+
+
+
 
 2024 - NENNA Pomponio (1609) - Di Pomponio Nenna. Cavalier di Cesare
 Il Sesto Libro de Madrigali a cinque voci. Novamente stampati. In Venetia. Appresso

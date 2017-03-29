@@ -16,6 +16,10 @@ I-MOe: compl
 D-Rp: compl.
 D-W: T.
 
+
+
+
+
 1981 - MOSTO Giovanni Battista (1600) - Di Giovan Battista Mosto maestro
 di capella del serenissimo prencipe di Transilvania. Madrigali a sei voci. Nuovamente
 composti et dati in luce. In Anversa. Appresso Pietro Phalesio. 1600.
@@ -24,6 +28,10 @@ composti et dati in luce. In Anversa. Appresso Pietro Phalesio. 1600.
 
 B-Br: compl.
 CS-an : T.5.
+
+
+
+
 
 1982 - NAICH Hubert (1550c.) - Exercitium seraficum. Madrigali di M. Hubert
 Naich. A quattro et a cinque voci, tutte cose nove et non più viste in stampa

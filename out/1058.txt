@@ -16,6 +16,10 @@ GB-Lbm: C.
 F-Pmeyer: B.
 I-BRq: B.
 
+
+
+
+
 1705 - MARENZIO Luca (1591) - Di Luca Marenzio il Quinto Libro delle
 Villanelle a tre voci con una a quattro. Raccolto da Attilio Gualtieri. Novamente
 ristampato. In Vinegia, 1591. Appresso l'herede di Girolamo Scotto.
@@ -29,6 +33,10 @@ A-ng: compl.
 GB-Lbm: T.E.
 I-Fn: T.
 I-Rsc: B.
+
+
+
+
 
 1706 - MARENZlO Luca (1600) - Il Quinto Libro delle Vìllanelle et Aric
 alla napolitana a tre voci di Luca Marenzio di novo ristampate, et con diligel'lza

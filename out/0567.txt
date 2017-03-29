@@ -26,6 +26,10 @@ I-VEaſ: A.S.6.
 I-Vnm: A
 P-C: 6.
 
+
+
+
+
 854 - DONATO Baldassarre (1557) - Di Baldassarre Donato il Primo Libro de'
 Madrigali a cinque et a sei voci, con tre Dialoghi & sette. Di nuovo riveduti, et con
 somma diligentia corretti. In Venetia, per Plinio Pietrasanta 1557.
@@ -34,6 +38,10 @@ somma diligentia corretti. In Venetia, per Plinio Pietrasanta 1557.
 I-MOe: compl.
 I-Bc: A
 I-VEal' : .6.
+
+
+
+
 
 355 - DONATO Baldassarre (1560) - Di Baldassare Donato il Primo Libro di
 Madregali a cinque et a sei voci con tre Dialoghi a sette nuovamente per Antonio

@@ -4,6 +4,10 @@ A 7. Come viver potrò. Dialogo 37
 I-VEaf: Compl.
 I-Bc: :\.TB.
 
+
+
+
+
 2977 - (De) WERT Jacob (1566) - Di Giaches De Wert il Terzo Libro di
 Madrigali a cinque voci, novamente per Antonio Gardano ristampato. Con gratia
 et privillegio. A cinque voci In Venetia appresso di Antonio Gardano. 1566.
@@ -34,6 +38,10 @@ A-\Vn: C.A.T.5.
 I-lìc: T.li.
 F-Pn: A.
 I-Fc: 5.
+
+
+
+
 
 2979 - (De) WERT Jacob (1592) - Di Giaches de Wert il Terzo Libro dc
 

@@ -22,6 +22,10 @@ D-Bds: B.
 I-Fr: 5.
 GB-Lrosenlhal: B.
 
+
+
+
+
 1916 - MONTEVERDI Claudio (1607) - 11 Quarto Libro de Madrigali a cinque
 voci. Di Claudio Monteverde maestro della musica del sereniss. sig. duca di
 Mantova. Novamente con ogni diligentia ristampato. In Venetia, appresso Ric-
@@ -31,6 +35,10 @@ ciardo Amadino. 1607.
 
 I-V15c:tp: compl.
 D-Bds: G.B.
+
+
+
+
 
 1917 - MONTEVERDI Claudio (1611) - Il Quarto Libro de Madrigali a cinque
 voct. Di Claudio Monteverde maestro della musica del serenissimo sign0ſ duca

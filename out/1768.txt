@@ -2,6 +2,10 @@ I-PAc: C.A.T.B.
 NL-At: C.T.
 I-Bc: T.5.
 
+
+
+
+
 2829 - VECCHI Orazio (1591) - Madrigali a sei voci d'Horatio Vecchi novamente
 ristampati. Libro Primo. In Venetia appresso Angelo Gardano. 1591.
 
@@ -14,6 +18,10 @@ GB-Lbm: compl.
 GB-Lwa: compl.
 D-Rp: C.A.5.6. (prov. Haberl).
 I-Bc: A.
+
+
+
+
 
 2830 - VECCHI Orazio (1594) - Di Horatio Vecchi da Modena. Piu e diversi
 Madrigali e Canzonette a 5.6.7.8.9. et 10. voci, per avanti separatamente iti in luce.

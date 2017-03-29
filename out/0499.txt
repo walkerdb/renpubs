@@ -33,6 +33,10 @@ I-Rsc: A.
 GB-Ckc: S,
 GB-Lbm: T,
 
+
+
+
+
 746 - DE MONTE Filippo (1576) - Di Filippo Di Monte maestro di capella
 della S. C. maestà dell'imperatore Massimiliano Secondo. Il Primo Libro delli
 Madrigali, a cinque voci. In Vineggia. Appresso l'herede di Girolamo Scotto 1576.

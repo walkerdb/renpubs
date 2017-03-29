@@ -10,6 +10,10 @@ GB-T: compl.
 I-PAc: C.A.T.B.
 US-Cn: T.
 
+
+
+
+
 1674 - MARENZIO Luca (1610) - Di Luca Marenzio musico eccellentiss. il
 Sesto Libro de Madrigali a sei voci novamente stampati et dati in luce. In Anversa
 appresso Pietro Phalesio al re David. 1610.
@@ -24,6 +28,10 @@ B-Gu: A.B.6.
 F-Psg: T.B.5.
 B-Amp: T.
 NL-At: 5.
+
+
+
+
 
 1675 - MARENZIO Luca (1608) - Lucae Marentii musici celeberrimi, Madrigali
 sex vocum, antea Venetiis, diversis temporibus, sex separatis edita librlS,

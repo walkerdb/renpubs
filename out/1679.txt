@@ -5,6 +5,10 @@ Gll-me: C.A.T.ll.5.
 I-Rsc: :\.
 I-Bc: 5.
 
+
+
+
+
 2685 - STRIGGIO Alessandro (1579) - Il Secondo Libro de Madrigali a sei \oci,
 di M. Alessandro Striggio gentil'huomo mantovano. Con privilegio. In Vincggia.
 Appresso l'herede di Girolamo Scotto. 1579.
@@ -18,6 +22,10 @@ GB-Lbm: C.
 I-Vlb: A.
 D-Mbs: H.
 F-Pn: B.
+
+
+
+
 
 2685 - STRIGGIO Alessandro (1579) - Il Secondo Libro de Madrigali a sei voci,
 di M. Alessandro Striggio gentil'huomo mantovano con privileggio. In Vineggia
@@ -40,6 +48,10 @@ I-MOe: A.
 F-Pn: T.
 GB-Lbm: B.
 I-MAc: 5.
+
+
+
+
 
 2687 - STRIGGIO Alessandro (1592) - Di Alessandro Striggio gentil'huomo
 mantovano il Secondo Libro de Madrigali a sei voci. Novamente con ogni diligenza

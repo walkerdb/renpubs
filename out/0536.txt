@@ -7,6 +7,10 @@ GB-Lwa: compl.
 I-Rsc: T.
 I-Nc: B.
 
+
+
+
+
 809 - DENTICE Scipione (1598) - Di Scipione Dentice, il Terzo Libro dc
 Madrigali a cinque voci. In Napoli, appresso Gio. Iacomo Carlino, et Antonio
 Pacz. 1598.
@@ -45,6 +49,10 @@ Mi diede la mia ninfa un bel ligusiro, una vermiglia rosa. Con tre canti da cons
 GB-Lbm: T.5.
 GB-Ckc. C.
 I-Nn: A.
+
+
+
+
 
 810 - DENTICE Scipione (1602) - Di Scipione Dentice. Il Quarto Libro :]:
 Madrigali a cinque voci. In Napoli, appresso Antonio Pace. 1602. 81 vendono

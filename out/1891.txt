@@ -28,6 +28,10 @@ I-Bc: compl.
 A-Wn: compl.
 F-Pc: compl.
 
+
+
+
+
 3016 - ZAPPASORGO Giovanni (1573) - Napolitanc a tre voci, Libro Primo.
 Di Giovanni Zappasorgo trivigiano. Nuovamente poste in luce. In Vinegia, appresso
 l'herede di Girolamo Scotto. 1573.
@@ -37,6 +41,10 @@ l'herede di Girolamo Scotto. 1573.
 D-Mbs: compl.
 F-Pc: T.E.
 D-Z: T.
+
+
+
+
 
 3017 - ZAPPASORGO Giovanni (1578) - Napolitanc a tre voci Libro Primo.
 Di Giovanni Zappasorgo trivigiano. Novamente ristampate. In Vinegia, appresso

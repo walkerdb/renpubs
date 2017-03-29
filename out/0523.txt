@@ -18,6 +18,10 @@ GB-Ckc: C.
 I-Rsc: A.
 GB-Lbm: 5.
 
+
+
+
+
 789 - DE MONTE Filippo (1576) - Di Filippo Di Monte maestro di capella
 della S.C. maestà dell'imperatore Massimiliano Secondo il Secondo Libro delli
 Madrigali, a sei voci. Di nuovo ristampati. In Vineggia. Appresso l'herede di
@@ -31,6 +35,10 @@ GB-Lbm: C.
 I-Bc: A.
 F-G: A.
 F-Pn: B.
+
+
+
+
 
 790 - DE MONTE Filippo (1582) - Di Filippo Di Monte maestro di capella
 della S.C. maestà dell'imperatore Massimiliano Secondo. Il Secondo Libro delli

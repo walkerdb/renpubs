@@ -11,6 +11,10 @@ I-Rc: T.
 CS-KRa: T.
 D-Rtt: T.
 
+
+
+
+
 1688 - MARENZIO Luca (1605) - Il Primo Libro delle Villanelle et Arie
 alla napolitana, a tre voci, di Luca Marentio novamente ristampate, et corrette
 con privilegio. In Venetia appresso Giacomo Vincenti 1605.
@@ -20,6 +24,10 @@ con privilegio. In Venetia appresso Giacomo Vincenti 1605.
 I-Bc: compl.
 GB-'me: T. (dilett.), B.
 I-Fn: T.
+
+
+
+
 
 1689 - MARENZIO Luca (1585) - Il Secondo Libro delle Canzonette alla
 napolitana a tre voci, di Luca Marenzio: raccolte per Attilio Gualtieri et novamente

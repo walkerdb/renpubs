@@ -8,6 +8,10 @@ figliuoli di Antonio Gardano. 1570.
 NL-At: T.
 A-Wn: B.
 
+
+
+
+
 2966 - (De) WERT Jacob (1583) - Di Giaches de Wert il Primo Libro de Madrigali
 a quattro voci, novamente ristampato. In Venetia appresso Angelo Gardano
 1583.
@@ -19,6 +23,10 @@ GB-Lbm: compl.
 NL-At: compl.
 PL-GD: compl.
 B-Br: C.T.B.
+
+
+
+
 
 2967 - (De) WERT Jacob (1558) - Di Giaches de VVert il Primo Libro dc
 Madrigali a cinque voci. Novamente posti in luce: et da lui proprio corretti alla

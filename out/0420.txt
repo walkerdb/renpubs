@@ -32,6 +32,10 @@ GB-Lbm: compl.
 GB-LI: compl.
 F-CC: C.
 
+
+
+
+
 622 - CORRADI Flaminio (1616) - Le Stravaganze d'amore di Flaminio Corradi
 da Fermo a una, due et tre voci. Con la intavolatura del Chitarrone et della
 Chitarra alla spagnola, et con il Basso continuo da sonare nel Clavicembalo, et altr!

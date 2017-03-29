@@ -10,6 +10,10 @@ A 8. Vaghi pastori, ond'è che'l bel Lamone hoggi. Ad Alcssandro Naldi. Dialogo 
 
 GB-Lbm: C.
 
+
+
+
+
 687 - DAL POZZO Vincenzo (1585) - Di Vincenzo Dal Pozzo il Primo Libro
 de Madrigali a cinque voci, novamente composto et dato in luce. In Vinegia
 appresso l'herede di Girolamo Scotto. 1585.
@@ -44,6 +48,10 @@ I-MOe: compl.
 GB-Lbm: compl.
 US-Wc: compl. (prov. Heyer)
 I-VEaf : C.T.B.
+
+
+
+
 
 688 - DAL POZZO Vincenzo (1612) - Il Quarto Libro di Madrigali a cinque
 voci di Vincenzo Dal Pozzo maestro di capella nel duomo di Faenza. Nuovamente

@@ -7,6 +7,10 @@ GB-Lbm: C.
 I-Fl: 5.
 US-BE: 5.
 
+
+
+
+
 1659 - MARENZIO Luca (1594) - Di Luca Marenzio il Terzo Libro de
 Madrigali a sei voci. Novamente ristampato. In Venetia appresso Angelo
 
@@ -23,6 +27,10 @@ F-Pc: C.A.
 I-Bc: C.B.
 US-Lau: B.T.
 D-MOs: T.
+
+
+
+
 
 1660 - MARENZIO Luca (1587-l) - Di Luca Marenzio il Quarto Libro de
 Madrigali a sei voci novamente ristampato, et da molti errori diligentissimamente

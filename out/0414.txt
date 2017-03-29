@@ -8,6 +8,10 @@ I-MOe: compl.
 F-Pc: T.
 I-Bc: B.
 
+
+
+
+
 613 - CONVERSI Girolamo (1589) - Il Primo Libro delle Canzoni a cinque voci
 di Girolamo Conversi da Coreggio. Novamente ristampate. In Vinegia appresso
 l'herede di Girolamo Scotto. 1589.
@@ -16,6 +20,10 @@ l'herede di Girolamo Scotto. 1589.
 
 B-Br: compl.
 US-Wc : C.T.
+
+
+
+
 
 614 - CONVERSI Girolamo (1584) - Il Primo Libro de Madrigali a sei voci. di
 Gironimo Conversi da Correggio. Novamente ristampati. In Vinegia appresso iberede

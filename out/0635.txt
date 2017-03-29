@@ -5,6 +5,10 @@ I-Bc: B.
 I-Rc: B.
 I-Nn: B
 
+
+
+
+
 962 - FERRETTI Giovanni (1576) - Di Giovan Ferretti il Primo Libro delle
 Canzoni alla napolitana a sei, voci. Novamente ristampate. Con privilegio. In Vineggia.
 Appresso l'herede di Girolamo Scotto. 1576.
@@ -17,6 +21,10 @@ NL-At: C.T.
 I-Rsc: C.
 I-Fr: S.
 D-ma: 6.
+
+
+
+
 
 963 - FERRETTI Giovanni (1581 - Di Giovan Ferretti il Primo Libro delle
 Canzoni alla napolitana a sei voci. Novamente ristampato. Con privilegio. In
@@ -36,6 +44,10 @@ I-Vnm: C.A.
 D-KNu: C.B.
 F-Pc: A.
 F-Pn: 5.
+
+
+
+
 
 964 - FERRETTI Giovanni (1575) - il Secondo Libro delle Canzoni a sei voci,
 di Giovan Ferretti maestro di capello del duomo d'Ancona. Novamente poste in

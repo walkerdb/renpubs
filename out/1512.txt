@@ -12,6 +12,10 @@ D-Mbs: compl.
 B-Br: A.
 GB-Lbm: B.
 
+
+
+
+
 2424 - (De) RORE Cyprien (1576) - Il Primo Libro delle Fiamme vaghi et
 dilettevoli Madrigali dell'eccellente musico Cipriano Rore, a quattro et a cinque
 voci. Novamente ristampati. In Vineggia. Appresso l'herede di Girolamo Scotto
@@ -23,6 +27,10 @@ US-Wc: compl.
 I-Vnm: C.T.B.5.
 I-MOe: A.T.B.5
 
+
+
+
+
 2425 - (De) RORE Cyprien (1585) - Il Primo Libro delle Fiamme vaghi et
 dilettevoli Madrigali dell'eccellente musico Cipriano Rore, a quattro et a cinque
 voci. Novamente ristampati. In Vinegia appresso l'herede di Girolamo Scotto. 1585.
@@ -31,6 +39,10 @@ voci. Novamente ristampati. In Vinegia appresso l'herede di Girolamo Scotto. 158
 
 I-Nf : compl.
 B-Br: compl.
+
+
+
+
 
 2426 - (De) RORE Cyprien - ANNIBALE Padovano (1561) - Di Cipriano et
 Annibale Madregali a quattro voci insieme altri eccellenti autori novamente COI}

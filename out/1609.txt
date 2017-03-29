@@ -28,6 +28,10 @@ PL-Wn: Disc. A.
 GB-Lbm: A.T.
 D-Z: T.
 
+
+
+
+
 2579 - SCANDELLO Antonio (1572) - El Primo Libro de le Canzoni napoletane
 a IIII voci, composti per messer Antonio Scandello musico del illustrissimo
 et eccellentissimo signor duca Augusto elettor di Sassonia novamente datti in luce.
@@ -39,6 +43,10 @@ D-Kl: compl.
 PL-WRu: Disc. B.
 CS-an: Disc.
 D-LÜh: T.
+
+
+
+
 
 2580 - SCANDELLO Antonio (1583) - Il Primo Libro delle Canzoni napoletane
 a 4 voci. composti per messer Antonio Scandello, musico del illustrissimo et eccellentissimo

@@ -12,6 +12,10 @@ I-MOe: compl.
 D-Hs : compl.
 I-Bc:
 
+
+
+
+
 1276 - GRANDI Alessandro (1626) - Madrigali concertati a due, tre, e quattro
 voci per cantar, e sonar nel Clavicembalo, Chitarrone, o altro simile stromento
 di Alessandro Grandi nuovamente in questa quarta impressione corretti, et ristampati.
@@ -24,6 +28,10 @@ GB-Och: compl.
 F-Pc: C.A.T.B.
 PL-WRu: A.T.B., B principale.
 I-BGc: B.
+
+
+
+
 
 1277 - GRANDI Alessandro (1622) - Madrigali concertati a due, tre, et quattro
 voci per cantar e sonar nel Clavicembalo, Chitarrone, o altro simile stromento
