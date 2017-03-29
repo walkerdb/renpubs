@@ -7,7 +7,7 @@ AS. Sta notte mi sognava con dolcezza, che tu eri contenta. Canmn 17
 " " lvi udirete l'alte mie parole (seconda parte) " 20
 A 6. Ditemi, o diva mia, non sete voi quella che con gran fede. 21
 
-1-VEaſ : compl.
+1-VEaf : compl.
 F-Pc: compl.
 PL-Wn: C.A.5.
 PL-LEtpn: T.B.
