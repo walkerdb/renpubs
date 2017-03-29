@@ -22,6 +22,7 @@ A 6. Dolci coli fiorit'a me sì cari, clic \"edel'il mio sol 5
 " " O faccia che rallegra il paradiso, o occhi ch'illustrate 24
 " " Depon l'arco e l'orgoglio, amor, ch'a te. non lice mai più 15
 A 8. O conscia calclari candelieri. Mascherata 26
+
 I-Tn: compl.
 D-Mbs: compl.
 I-Bc: CA.

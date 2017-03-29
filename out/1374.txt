@@ -2,6 +2,7 @@ A 4. O giovinetti, mentre aprile e maggio. Aria C.A.T.B. 29
 
 " " Solo chi seguc ciò che piace è saggio (seconda parte)
 " " Quando miro le rose, ch'in voi natura pose 3 C. e 1 T. (Grillo) 30
+
 I-Scl: compl.
 
 2231 - PlSANELLI Pompilio (1586) - Di D. Pompilio Pisanelli bolognese,
@@ -29,6 +30,7 @@ Mentre ch'amor con dilttosco inganno nudria il mio cor nelle speranze 15
 Poi che crescer il duol più d'anno in anno e cader vide i fior 16
 Indi in lungo silentio (seconda parte) 17
 Qual diletto agguagliar potrebbe a pieno il toccar de la man l'avorio 13
+
 I-MOe: compl.
 D-KNu: C.A.5.
 

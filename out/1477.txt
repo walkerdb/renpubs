@@ -17,6 +17,7 @@ A 2. 'Alle gioie, pastori, ai diletti, a gl'amori 24
 " " Se non hai di ferro il core 44
 " " Di che ti lagni, o Filli 46
 " " Filli, cor del mio core, bar che non è. D'incerto (Marino) 48
+
 B-Br
 F-Pc
 

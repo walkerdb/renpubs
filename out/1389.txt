@@ -25,6 +25,7 @@ A 6. Dentro pur foc'e fuor candida neve (sesta parte) " 22
 " " Ditemi... Non mi negar. Dialogo 26
 " " Dolce nemica mia, che dolcemente m'ancidest'il core col dolce 27
 A 7. Liet'e pensose, accompagnat'e sole, donne. Dialogo (Petrarca) 28
+
 I-Bc: compl.
 I-VEaf: compl. (2° esempl.: S.).
 I-Nn: A

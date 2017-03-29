@@ -25,6 +25,7 @@ So come i dì. come i momenti e l'hore (seconda parte) " 10
 Belle fiamme d'amore e d'onestate, che sì dolce il mio cor freddo accendete 11
 " tempo mai non vi consumi o smorze (seconda parte) 11
 Venite. ninfe del mar d'Adria, fuori? Su quest'amnte sponde stan cheti i venti 12
+
 GB-Ob: C.T.B.5.
 D-Rp: A.T.B.5.
 GB-Lbm: C.A.

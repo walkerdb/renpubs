@@ -3,6 +3,7 @@ A 4. Regina mia... eccoti questa spada 18
 " " Se di tanti miei guai saria non sete mai 19
 " " O crudel, ch'intender nieghi le mie pene et i sospm. Ana 20
 " " Empio volto e insidioso, ch'hai nel mel l'amaro ascoso. Ana 21
+
 D-Rp: compl.
 I-Bc: B.
 
@@ -34,6 +35,7 @@ A 6. Alme divin'e belle, per sempre sia felice l'Himeneo 16
 " " Et il dardo, l'incendio et la catena (seconda parte) 19
 " " Nel petto porti, donna, lo mio core 20
 " " Ch'io te lasci, o mio sol, ch'io te non ami com'esser può? 21
+
 GB-Lbm- 5.
 
 320 - BELLI Giulio (1592) - Di Giulio Belli da Longiano. Il Secondo Libro de

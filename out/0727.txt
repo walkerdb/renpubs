@@ -12,6 +12,7 @@ A 5. La vostra front'è un cielo, bell'Amarilli 7
 A 10. Tutti liet'honoriamo il festoso Lieo. Baccanale 18
 A 7. A le belle cordelle, donne, celeste prole, chi di voi comprar. Mascherala 20
 " " Candidi e sotil veli, aghi tondi (seconda parle) 20
+
 D-As: compl.
 US-BE: A.
 
@@ -42,6 +43,7 @@ A 5. Pascon nel dilettoso e vago aprile 1
 A 6. Non sai, donna infedele, ch'un giusto sdegno 18
 " " O della notte bruna lucidissimo sol, candida luna 19
 A 3- o notturno miracolo soave, nè già sognando il veggio (Guarini) 20
+
 I-Rc: C.B.5.
 A-Wn: G.B.
 D-Kl: G.B.

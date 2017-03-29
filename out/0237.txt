@@ -11,6 +11,7 @@ Ade meins hertzens kronelein 17
 Cum tuba terribili taratantara concinit acre 18
 De plenis cyathis multos periise 20
 Di dolce gelosia ardea la donna mia quando soavemente 21
+
 D-F: 0.5.6.
 D-W: T. '
 PL-WRu: 6.
@@ -43,6 +44,7 @@ Altro non è il mio amorche Lidia mia per cui (0355013) 18
 Clntia mia, dolc'e cara più che le perle e'l mele 19
 Questi gigli novelli e queste rose e questi vaghi fiori 20
 se per più non morir, morir desio più son contento 21
+
 G-me- B. 5
 F-VE: A.
 

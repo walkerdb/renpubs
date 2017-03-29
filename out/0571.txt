@@ -23,6 +23,7 @@ A 8. S'ad amorosi preghi di bella donna deve cor gentile 25
 " " Anima, dove sei? Tu sei pur meco et non puoi esser fora. Dialogo 27
 " " Ditemi, o diva mia, non son quest'occhi miei. Dialogo 28
 " " Signor, ben che sia picciol (seconda parte) 29
+
 D-Mbs: compl
 I-Vnm: A.
 F-Pc: T.

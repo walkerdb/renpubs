@@ -26,6 +26,7 @@ n " O fortunato Aminta, o te felice tanto più, quanto più misero fosti (Tasso)
 " " Ma come Silvia il riconrbb'e vide le belle guancie (seconda parte) " 17
 A 8. Ecco la primavera che ne rimena il sole a rinovar le rose. (Cavalletto) lfl
 " " Al suon (le nostri canti dal seno (le gl'amanti hoggi fuga ogni noia 20
+
 I-FEc: compl.
 D-Kl: compl.
 I-Bc: C.A.B.5.

@@ -30,6 +30,7 @@ A 5. Havessi dui capilli d'essi tuoi. Alla napolitana 2"
 A 6. La bella vostra immagine (seconda parte) 73
 A 4. O voi che sete liberi 24
 A 8. Ferma, ferma, Caronte. Chi è costui che grida. Dialogo 25
+
 I-Ls: compl.
 I-MOe' compl
 D-Mbs compl

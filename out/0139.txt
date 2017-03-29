@@ -30,6 +30,7 @@ Brmdesi al basso cant'et alto col falsetto. Vinata di brindesi e ragioni 18
 Che ne dite di questo vino? Aplauso alla vinata 19
 Strazz'e zavatt', solfanei donn'. Sproposito di goffi 20
 Chi brama havere novo piacere di nuovo invito. Il Diletto moderno licenza 21
+
 I-Bc: compl.
 B-Br: compl.
 D-As: compl.

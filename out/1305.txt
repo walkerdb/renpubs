@@ -30,6 +30,7 @@ A 5. Quel di ch'io persi il core, amor denlr'a quel loco accese un dolce foco 1
 " " Vago. candido fiore, to che fm verdi campi del sol nascesti ai lampi 18
 " " Fulminava d'amor questa rubella, udile, udite amanti 19
 A 8. Ond'nviene ch'io l'amo. Dialogo 20
+
 I-Bc: compL
 I-M0e: compl.
 A-Wn: C.A.T.B.

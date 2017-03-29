@@ -52,6 +52,7 @@ A 6. Hor che'l ciel e la terr'e il vento tace (Petrarca) 1
 
 ))
 A 7. Stolto mio core. ove sì lieto vai. Dialogo (Della Casa) 29
+
 I-MOe: compl.
 I-Vnm: compl.
 F-Pc: compl.

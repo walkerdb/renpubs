@@ -11,6 +11,7 @@ Quella candida mano, ch'a mez'il verno i vaghi fiori (Tasso) 18
 Dal suo dorato albergo, nè mai più licta, uscia la vaga aurora 19
 Clorinda, egli dicea, quando tu fossi bella (seconda parte) 20
 Al mio languir languisce madonna, al mio martir s'afflige et ange 21
+
 I-MOe: compl
 D-Rp: compl.
 D-W: T.

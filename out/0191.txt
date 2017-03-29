@@ -7,6 +7,7 @@ A 6. Vieni, Imeneo, e tcco msxem ancora conducr
 " " Occhi, o lasciate il pianto, onde rinovellate il van dolore 18
 " " Tu m'accendesti, amore, con la beltà di vaga donna il core 19
 A 10. Stolto mio core, ove sì lieto vai. Dialogo (Della Casa) 20
+
 I-VEaf: A.
 
 300 - BELLASIO Paolo (1592) - Di Paolo Bellasio maestro della musica nella
@@ -32,6 +33,7 @@ Perchè, anima mia, da chi t'ama e ti desia 14
 Tutta sete gentil, leggiadra e bella 15
 Stillava perle da begl'occhi ardenti una ninfa leggiadra 16
 Sette del mondo son le meraviglie e sette sono gli pianeti 17
+
 I-Bc: compl.
 GB-Lbm: B.
 

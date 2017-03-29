@@ -27,6 +27,7 @@ A 5. lo moro, ecco ch'io moro, bella nemica mia (Marino) 1
 " " Vinta all'hor dai dilcuo (scuima parte) " 19
 " " Deh taci, o lingua sciocca (ottava parte) " 20
 A 6. Ricde la primavera, torna la bella Clori " 21
+
 F-Pc: compl.
 I-Bc: A.T.5.
 

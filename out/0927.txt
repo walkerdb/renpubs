@@ -18,6 +18,7 @@ A 6. Mais qui pourroit cstre ccluy 26
 " " Dessus le marché d'Arras D
 " " Hor vi rieonfortate in vostre fole (Petrarca) 30
 A 10. Passan vostri triomphi " 30
+
 F-Psg: compl.
 S-Uu: Contr. T.B.5.
 

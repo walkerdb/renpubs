@@ -14,12 +14,14 @@ S'in non ti cognoscessi in altre cose si largo et liberale 26
 Ma so ben, signor mio, che ciò che fai è solo per mio bene 27
 E tu, anima mia, fatta da Dio si bella et si gentile 28
 Per questo, signor mio, non li stancare, deli porgimi la mano 29
+
 I-Bc: compl.
 A-Wn: compl.
 D-Kl: compl.
 D-Mbs: compl.
 E-V: C.A.T.B.
 D-KNu: C.D-5
+
 PL-GD: T.BS.
 D-Rp: C.T.
 NL-Al: C.T.
