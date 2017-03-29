@@ -1,6 +1,4 @@
-ì' . \n - . . . .
-Lasso, ch 10 non su ben lhora, nel giorno ch'io fui l'lI'lCl'llUSO 27
-
+Lasso, ch'io non su ben l'hora, nel giorno ch'io fui rinchiuso 27
 Dolce mia donna, si quel poco dolce, il qual voi mi donasti 28
 Deh dolce pastorella, vaga, leggiadra et bella 29
 Perchè s'in voi tanto valor dal cielo. 30
@@ -11,13 +9,13 @@ I-Fc : compl.
 
 
 
-168 . ARETINO Paolo (1558) - Di Paolo Aretino li Madrigali a V.VI.VII.VIII
+168 - ARETINO Paolo (1558) - Di Paolo Aretino li Madrigali a V. VI. VII. VIII
 novamente dati in luce, et da lui proprio hauti et da li suoi exemplari coretti et
 stampati. Con la tavola posta nel fine. In Vinegia appresso Gierolamo Scotto, 1558.
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 36,(1), Ded. a Don Francesco Medici, Prencipe di Fiorenza:
 " non ha molto tempo, presentato a V. Ecc. una mia caccia, non dirò già rozza,... proponendomi
-larga speranza, mi csorta a simili fatighe... Mando perciò, ad accompagnar la caccia, questi mici
+larga speranza, mi csorta a simili fatighe... Mando perciò, ad accompagnar la caccia, questi miei
 madrigali... ".
 
 A 5. Deh che poss'io se non con grave dolor andar piangendo 1
@@ -39,7 +37,7 @@ A 5. Deh che poss'io se non con grave dolor andar piangendo 1
 " " Non spero mai ch'altro ch'acerba morte 17
 " " In bosco non è fiera, o augell'in piaggia 18
 " " Scarpello si vedrà di piomb'o lima formar in varie imagine (Ariosto) 19
-" " Strugger mi sento'l core 2,0
+" " Strugger mi sento'l core 20
 " " Con doglia e con pietà più ch'infinita 21
 " " Perde la luce il sol et veste il cielo 22
 A 6. Dolce mio ben, vi chieggio che mi prestiate il cor 23
@@ -49,11 +47,9 @@ A 6. Dolce mio ben, vi chieggio che mi prestiate il cor 23
 " " Giulio gentile, in voi scherzan gl'amori 27
 A 7. Vivace fiamma, che con dubbia speme 23
 " " Divo Cosmo, io vorrei che quante volte 30
-A 8. Amor, io moio. Ahimè chi ti dà morte (Cassola) gì
-" " L'aura amorosa il bel tempo rimena 36
-
-" " Ben spero, donna, in vostra cortesxa
+A 8. Amor, io moio. Ahimè chi ti dà morte (Cassola) 32
+" " L'aura amorosa il bel tempo rimena 34
+" " Ben spero, donna, in vostra cortesia 36
 
 I-Fn: compl.
-S-H: A (prOV- Heyer)-
-
+S-H: A (prov. Heyer).
