@@ -8,19 +8,14 @@ A 12. Gabrieli Andrea - Ecco Vinegia bella 75
 " " " " - O passi sparsi, o pensier vaghi (Petrarca) 76
 " " Gabrieli Gioi/anni - Sacri di Giove augei, sacre fenici 76
 I-Bc: compl.
-
 I-Bsp: compl.
 
 1-BRd: compl.
 
 I-Sd: compl.
-
 A-Wn: compl.
-
 D-F : compl.
-
 D-Rp: compl.
-
 I-Vnm: C.A.T.B.5.6.7.8 9.10.11.
 D-As: A.T.B.5.6.7.8.9.10.11.12.
 I-FEc: C.A.T.B.5.6.7.8.
@@ -29,9 +24,7 @@ D-Mbs: C.A.T.B.5.6.
 I-MOd: A.B.6.9.11.12.
 
 US-Cn: T.
-
 GB-Lbm: 5.
-
 E-MO: 7.
 
 Sartori 1587a e Il 1587a.

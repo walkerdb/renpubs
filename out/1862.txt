@@ -22,13 +22,9 @@ A 8. Ch'io seriva di costei ben m'hai lu dello. Dialogo (Bembo) 211
 F-Piliibauli: compl.
 
 I-Hc: C.A.T.B.
-
 I-VEaf: C..*\.5.
-
 GB-Lbm: C.S.
-
 I-Rsc: T.
-
 F-Pm: 5.
 
 Un esempl. compl., ma difetto.... era nella Collezione Heyer di Kòln.
@@ -40,9 +36,7 @@ li figliuoli di Antonio Gardano 1571.
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 29. Indice = 1564.
 
 I-VEcap: compl.
-
 GB-Lwa: compl.
-
 A-Wn: C.A.T.5.
 
 2971 - (De) WERT Jacob (1583) - Di Giachcs de Wei-t'il Primo Libro (1°
@@ -52,14 +46,10 @@ Gardano 1583.
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 29. Indice = 1564.
 
 I-Bc: compl.
-
 I-MOe: compl.
-
 D-Mbs: compl.
-
 PL-GD: compl.
 GB-Lbm: A.".
 F-Pn: A.
-
 I-Rsc: B.
 

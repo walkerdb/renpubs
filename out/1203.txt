@@ -65,7 +65,6 @@ l"BC: compl.
 F-Pthibault: compl.
 
 PL-WRu: compl.
-
 US-Wc: compl.(prov. Wolſſheim).
 
 I-Vnm: cav, AJ", A.2°, T.1°, n°, B.1°, B.2°, 5.
@@ -75,7 +74,6 @@ GB-Y: C.l", AJ", Al", T.1°, T.2°, Bl", 5.
 CM: c.°, A.P. Al", T.1°, T.2°, 8.2", 5.
 
 S-Uu: C.1°, T.2°.
-
 I-Sd: T.l", T.2°.
 
 - 1193 -

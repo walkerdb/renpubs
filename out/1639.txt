@@ -21,11 +21,8 @@
 A 6. chzoselto fanciullo, a cui la donna mia dona i basi 21
 
 I-Bc: compl.
-
 US-Wc: compl.
-
 GB-Lbm: C.T.
-
 RISM, I 1592-21 (non compl.).
 
 2624 - SORTE Bartolomeo (1573) - Di Bartolomeo Sorte padovano. Il Primo
@@ -50,7 +47,7 @@ A 4. Voi mi ponesti in foco per farmi anz'il mio di, donna, perire. Canzon (Bemb
 " " Cantan fra rami gl'augelletti vaghi, azuri e bianchi, rossi, verdi (Ariosto) 12
 " " lo non saprei mai dir perchè mi doglia del foco che m'incende (Cassola) 13
 " " Ma chi'l dirà per me (seconda parte) " 13
-" " Che poi tu farmi, amore, s'in me non è più'] core 14
+" " Che poi tu farmi, amore, s'in me non è più'l core 14
 " " Ohimè, dov'è il mio core? Chi mi tien dal mio core, ohimè, lontano 15
 
 - ]62') -

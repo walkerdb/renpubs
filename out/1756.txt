@@ -21,7 +21,6 @@ GB-Lbm: compl.
 D-Mbs: A.T.B.
 PL-WRu: C.A.
 I-Fn: C.
-
 I-Vnm (Canal): A.
 US-Cn: C.
 
@@ -41,7 +40,6 @@ In Venetia, appresso Angelo Gardano. 1602.
 
 4 fasc. in 8° (C.A.T.B.), pag. 21,(1). Indice = 1580.
 I-Bc: compl.
-
 US-SFsc (De Bellis): A.
 I-Fn: T.
 

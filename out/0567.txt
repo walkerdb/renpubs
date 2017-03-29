@@ -23,9 +23,7 @@ A 7. Liete e pensose, accompagnate e sole. Dialogo (Petrarca) 31
 05-me: c.T.5.
 
 I-VEaſ: A.S.6.
-
 I-Vnm: A
-
 P-C: 6.
 
 854 - DONATO Baldassarre (1557) - Di Baldassarre Donato il Primo Libro de'
@@ -35,7 +33,6 @@ somma diligentia corretti. In Venetia, per Plinio Pietrasanta 1557.
 6 fasc. in 8" nhl. (C.A.'I'.B.5.6.). pag. 33. Indice = 1553.
 I-MOe: compl.
 I-Bc: A
-
 I-VEal' : .6.
 
 355 - DONATO Baldassarre (1560) - Di Baldassare Donato il Primo Libro di

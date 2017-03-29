@@ -18,7 +18,7 @@ Voi ch'ascoltate in rime sparse il suono (Petrarca) 1
 Qual mort'è strana più della mia morte 2
 Come del gran pianeta al raggio vivo 3
 Foggito è'l sonno alle mie crude notti (Petrarca) 4
-Ma non mel tolse la paura o'] gielo " 5
+Ma non mel tolse la paura o'l gielo " 5
 Così ti donn'il ciel dorato seggio 6
 Deh com'è spenta vostra vertù 7
 Quel rossignol, che sì soave piagnc (Petrarca) 8
@@ -43,11 +43,8 @@ Min non vo più cantar com'io solea .Petrarca) 27
 D un alto fuoco alma favilla chiara 29
 
 B-Br: compl.
-
 D-W: compl.
-
 D-Rp: C.A.T.B.
-
 I-Bc: A.T.5. (T. solo pag. 6-29).
 
 -205-

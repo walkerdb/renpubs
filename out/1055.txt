@@ -2,9 +2,7 @@ I-Bc: compl.
 A-ng: compl.
 A-Wn: compl.
 F-Pn: C.
-
 F-Pc: T.
-
 I-Rsc: B.
 GB-Lbm: B.
 

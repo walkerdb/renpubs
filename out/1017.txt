@@ -44,7 +44,6 @@ I-Sac: C.A.T.5.
 I-VEaf : C.T.B5.
 I-de: C.A.B.
 I-Fn: A 5.
-
 I-Rvat: .S.
 
 Un eSempl. compl. era nella Collezione Heyer di Koln.

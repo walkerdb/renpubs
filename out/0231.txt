@@ -4,15 +4,10 @@ Vanne, vanne, o pensiero, non men grave ch'altiero 29
 Non posso più durare, pietà voglio gridare 30
 
 I-Bc: compl.
-
 A-Wn: compl.
-
 I-Fn: C.
-
 D-As: C.
-
 H-Bn: B.
-
 RISM, I 1572-10 (non compl.).
 
 359 - BIANCHI Pier'Antonio (1582) - Il Primo Libro de Madrigali a quattro
@@ -41,7 +36,7 @@ Almo, divino raggio della cui (seconda parte) " 13
 POlCllè ti piace, amore, humil guidarmi. Di Pietro Ragno 15
 Sia benedetto (seconda parte) 15
 1° Piango et ella il volto con le sue man m'asciuga (Petrarca) 16
-Tcndi pur l'arco, amore, racccndi il foco (CaPÌlUPi) 17
+Tendi pur l'arco, amore, racccndi il foco (CaPÌlUPi) 17
 ... Di così freddo (seconda parte) " 18
 Gia fiammeggiava l'amorosa stella per l'oriente (Petrarca) 19
 Quando mia speme già condotta (seconda parte) " 20
@@ -49,7 +44,6 @@ Lamma, se non sete vaga del morir, temprate 21
 I-Bc: compl.
 I-Vnm: C.T.B.
 D-Mbs: T.E.
-
 RISM, I 1582-9 (crronc0)-
 
 

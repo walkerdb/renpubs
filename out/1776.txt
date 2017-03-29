@@ -1,9 +1,6 @@
 I-LOcl: C.
-
 B-Bc: C.
-
 D-Rp: B.
-
 RISM, I 1597-21 (non compl. ed erroneo).
 Brown 1597-14 (non compl. ed erroneo).
 
@@ -14,15 +11,10 @@ luce. Noribergae excudebat Paulus Kaufmann. 1597.
 3 fasc. in 8° (C., CZ", B.), c. 10. Indice = 1597.
 
 A-Wn: compl.
-
 D-W: compl.
-
 D-Hs: compl.
-
 D-Bs: C.
-
 D-Rp: B.
-
 RISM, I 1597-22 (non compl. ed erroneo).
 
 2837 - VECCHI Orazio - CAPILUPI Geminiano (1606) - Canzonettcſimit
@@ -35,17 +27,11 @@ Haussmann Gerbipol. chruckt zu Nürnberg durch Paulum Kauffmann 1606-
 Georg Losen Gcbrüdern Burgern zu Nürmberg, Gcrbstert, 24 VIII 1606.
 
 D-Hs: compl.
-
 D-W: compl.
-
 D-Uschc: compl.
-
 F-Pc: C.B.
-
 D-DS: C.
-
 D-Bs: T.
-
 RISM, I 1606-3 (non compl.).
 
 2838 - VECCHI Orfeo (1602) - La donna vestita di. sole, coronata dll-(figé

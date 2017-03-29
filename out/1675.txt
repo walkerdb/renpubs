@@ -29,19 +29,14 @@ A 6. Rosa eterna, immortal sacro giacinto 21
 " " L'alma mia fiamma, oltra le belle bella. Di Claudio (Iu Correggio (Petrarca) 23
 
 I-VEcap: compl.
-
 D-Mbs: compl,
-
 GB-Lbm: C.A.T.B.5. (2° esempi.: A.T.B.).
 Elk-Dm: C.T.B.5.6.
 
 I-MOe: C.A.T.5.
-
 I-Fr: :\.135. (5. manc. di pag. 1-8, 17-24).
 I-Bc: T.5.
-
 GB-Ckc: C.
-
 I-Rsc: A.
 
 RÌSM, 1 1566-19 (inesatto).

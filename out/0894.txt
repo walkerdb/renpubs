@@ -1,9 +1,7 @@
 B-Br: Contr.
 F-Pthibault: Contr.
 F-R: Contr.
-
 D-Bds: T.
-
 D-Kl: B.
 
 Lcsure e Thibault ZOO.
@@ -37,9 +35,7 @@ A 5. Comme la tourterelle languit 11
 " " I'endure un tourment des tourmens le pire l:
 " " Mais à quel propos dire. Response 1
 F-Pthibault: S.
-
 F-Pn: T.
-
 F-CH: B.
 
 Lesure e Thibault 244.

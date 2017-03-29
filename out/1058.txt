@@ -28,7 +28,6 @@ A-Wn: compl.
 A-ng: compl.
 GB-Lbm: T.E.
 I-Fn: T.
-
 I-Rsc: B.
 
 1706 - MARENZlO Luca (1600) - Il Quinto Libro delle Vìllanelle et Aric

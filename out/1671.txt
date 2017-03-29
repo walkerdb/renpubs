@@ -7,15 +7,10 @@ In Vinegia appresso l'herede di Girolamo Scotto. 1583.
 "Le: compl.
 
 I-Fn: compl.
-
 I-MOe: compl.
-
 I-de: compl.
-
 CH-Bu: compl.
-
 D-As: compl.
-
 PL-GD: compl.
 D-KNu: C.A.5.
 US-SFsc (De Bellis): B.

@@ -9,7 +9,7 @@ O benedetta luce, :| cui d'intorno (seconda parte) " 10
 Quando l'errame et stanco peregrino per liermi boschi 11
 Quando da bei voslr'occhi Volget'a rimirar sovent'altrui 12
 Parto da voi et so con quanta pena faccio da voi partita 13
-Una leggiadra rosa coglier vorrei, ma'] spin che la diffende 14
+Una leggiadra rosa coglier vorrei, ma'l spin che la diffende 14
 Lidia mira Narciso long'il vicino rio, com'ei vive dell'acqur- 15
 ('on voi, quando partisle, l'anima mia sen venne 16
 \! vostro dolce azzuro ceda, o luci serene, (Tasso) 17
@@ -23,7 +23,6 @@ I-Bc: C.T. (C. difcu.)
 I-Vnm: A.D.
 PL-LEtpn: T.E.
 GB-Lbm: T.
-
 I-Fn: framm. di poche carte del T. (pag. 15-21).
 Sartori 1579 e II 1579.
 Brown 1579-3.

@@ -1,11 +1,7 @@
 B-Bc: C.
-
 I-Vnm (Canal): A.
-
 D-HR: B.
-
 I-Snc: B.
-
 RISM, I 1585-35 (non compl.).
 
 2810 - VECCHI Orazio (1586) - Canzonette di Oratio Vecchi da Modena.
@@ -23,12 +19,9 @@ impressione. In Venetia appresso Angelo Gardano. 1593.
 4 fasc. in 8° (C.A.T.B.), pag. 22,(1). Indice =1585.
 
 D-Kl: compl.
-
 GB-Lbm: compl.
-
-US-SM: compl. (B. difctt.).
+US-SM: compl. (B. difett.).
 I-Bc: B.
-
 PL-\VRu: B.
 
 2812 - VECCHI Orazio (1600) - Canzonette di Horatio Vecchi Fia Mariana
@@ -39,9 +32,7 @@ Venetia, appresso Angelo Cardano. 1600.
 4 fasc. in 8° (C.A.T.B.), pag. 22,(1). Indice =1585.
 
 I-Bc: compl.
-
 I-PAc: compl.
-
 I-Rsc: compl. (prov. Borghese).
 US-SFsc (De Bellis): A.
 

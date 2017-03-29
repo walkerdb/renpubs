@@ -3,9 +3,7 @@ A 1. Iubilate a voce sola. Motetto in dialogo 76
 " " Laudate Dominum. Motetto a voce sola, sopr. o ten. 78
 " " Iam moriar mi fili. Pianto della Madonna sopra al Lamento de l'Arianna Bl
 I-Bc: compl.
-
 A-ng: compl.
-
 PL-WRu: compl.
 B-Br: S.1°, A.1°, A.2°, T.1°, T.2°, Viol. 2°, Bc.
 
@@ -48,11 +46,8 @@ Ben fu l'ape ingegnosa che vi punse il bel viso quanto a'voi cruda i?
 Giove per arrichir la nostra etade via più d'ogn'altra
 
 I-Bc: compl.
-
 PL-GD: compl.
-
 I-VEaf: C.A.B.
-
 I-Rvat (De Rossi): C.T.B.
 
 1957 - MORLEY Thomas (1595) - Di Tomaso Morlei il Primo Libro delle

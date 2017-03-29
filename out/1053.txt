@@ -10,11 +10,8 @@ In Venetia, appresso Giacomo Vincenti 1597.
 3 fasc. in 8° (C.T.B.), pag. 28,(1). Indice : 1587.
 
 I-MAC: C.
-
 I-Fn: T.
-
 I-Rsc: B.
-
 D-MZp: B.
 
 1698 - MARENZIO Luca (1600) - Il Terzo Libro delle Villanelle et Arie alla
@@ -47,14 +44,10 @@ Amor, tu vuoi ch'io segua chi mi fugge 22.
 I-begli occhi sereni e'l viso adorno B
 P"...an Filli ce amor seco piangea 24
 GB-Lbm: C..T
-
 NL-DHg-m: T.B.
 
 USSR-Lsc: C.
-
 X-Rc: T,
-
 CS-KRa: T.
-
 D-Rtt: T.
 

@@ -33,7 +33,6 @@ GH-Lwn: compl.
 A-\Vn: C.A.T.5.
 I-lìc: T.li.
 F-Pn: A.
-
 I-Fc: 5.
 
 2979 - (De) WERT Jacob (1592) - Di Giaches de Wert il Terzo Libro dc

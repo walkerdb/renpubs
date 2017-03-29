@@ -49,15 +49,10 @@ Vago augellin, che sì soave piagni 31
 l "Shi fiori c l'amorose fronde et l'herba et l'aria 32
 
 I-de: compl.
-
 D-Kl': compl.
-
 D-Mbs: compl.
-
 I-Bc: C.B.5.
-
 A-Wn: C5.
-
 I-FOe: BS.
 
 "8 - DRAGON] Giovanni Andrea (1579) - Di Gio. Andrea Dragoni da Meldola
@@ -67,7 +62,7 @@ I-FOe: BS.
 
 di Girolamo Scotto: 1579. P gg ppresso erede
 
-Îofasc. in 8° (C.A.T.B.5-). Pag. 30,(1). Ded. a Monsignore Theseo Aldrovandi Protonotario ct
+Îofasc. in 8° (C.A.T.B.5-). Pag. 30,(1). Ded. a Monsignore Theseo Aldrovandi Protonotario et
 d ?...:udator Generale di S. Spirito di Roma: " ...il maggior frutto che soglia produrre il mio
 ° "° metano... Roma. 15 vm 1579 ".
 

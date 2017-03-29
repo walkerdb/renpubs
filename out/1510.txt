@@ -5,9 +5,7 @@ I-VCd: C.T.B.5.
 B-Br: C.A.5.
 D-Rp: A.B.5.
 F-Pc: C.
-
 F-VE: B.
-
 RISM, I 1568-19.
 
 2420 - (De) RORE Cyprien (1574) - De Cipriano de Rore il Quinto Libro di
@@ -23,7 +21,6 @@ B-Br: compl.
 GB-Lbm: compl.
 GB-Lwn: compl.
 I-Vnm: C.A.T.5.
-
 I-Fn: A.S.
 1-'-Pc: T.
 I-Fc: 5.

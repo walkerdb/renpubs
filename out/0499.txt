@@ -30,7 +30,6 @@ Madrigali, a cinque voci. In Vinegia, appresso Girolamo Scotto 1570.
 
 I-Bc: C.A.S.
 I-Rsc: A.
-
 GB-Ckc: S,
 GB-Lbm: T,
 
@@ -44,6 +43,5 @@ l"Bc: compl.
 
 D-Rp: C.T.B.5. (prov. Haberl).
 GB-Lbm: C.A.
-
 I-FA: A.
 

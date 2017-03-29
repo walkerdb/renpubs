@@ -1,9 +1,7 @@
 l-Vnm: C.T.B.5.
 
 B-Br: C.T.B.5.
-
 I-Be: C.A.
-
 I-PS: A. (solo pag. 9-31).
 I-Rsc: C.
 
@@ -16,7 +14,6 @@ Girolamo Scotto. 1586.
 
 I-Bc: compl.
 I-PS: B.5.
-
 US-BE: C.
 F-TLm: A.
 
@@ -49,7 +46,7 @@ Qual poi del tutto è pago (seconda parte) . 21
 Stratiami pure, amor, come ti piace con disusalì (G.B. Rinaldi) 22
 Non fia mai ch'io non ami (seconda parte) " . B
 Lagrime false, se voi molle foste (A. Terminio) 24
-Celar più non potcasi (seconda parte) " 25
+Celar più non poteasi (seconda parte) " 25
 Chi crede, amor. de tuoi diletti ir pago e l'alma haver i:
 
 Di sì cocente fiamma m'acccse il cor de bei vostri occhi

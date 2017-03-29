@@ -21,31 +21,22 @@ D-As: compl.
 Pl.-GD: compl.
 
 I-Bc: T.B.5.6.
-
 D-Mbs: C.A.T.
-
 I-Vnm: C.A.
-
 GB-Lbm: B.T.
-
 I-Vlb: A.
-
 I-MAc: 5,
 
 2681 - STRIGGlO Alessandro (1585) - Di Alessandro Striggio gentil'huomo
 mantovano il Primo Libro de Madrigali a sei voci. Novamente ristampato. In
 Vinegia appresso l'herede di Girolamo Scotto. 1585.
 
-6 fasc. in 8° (C.A.T.B.5.6.) pag. 27. lnclice = 1579.
+6 fasc. in 8° (C.A.T.B.5.6.) pag. 27. Inclice = 1579.
 
 CH-Bu: compl.
-
 I-Sd: C.A.B.5.6.
-
 I-MOe: C.T.5.
-
 F-Pn: T.
-
 I-Rva! (Chigi): B.
 
 US-BE: 5 (prov. Landau).
@@ -54,7 +45,7 @@ US-BE: 5 (prov. Landau).
 mantovano il Primo Libro de Madrigali a sei voci. Novamente con ogni diligenza
 ristampato. In Venetia appresso Angelo Gardano. 1592.
 
-5 fasc. in 3° (C.A.T.B.5.6.), pag. 27. lnclice = 1579.
+5 fasc. in 3° (C.A.T.B.5.6.), pag. 27. Inclice = 1579.
 
 D-As: C.A.T.B.6.
 I-Bc: A.

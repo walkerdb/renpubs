@@ -1,7 +1,5 @@
 NL-At: C.
-
 I-O: T.
-
 I-Vc (Torrcſrnnca): A.
 
 RISM, I 1564-20 (non compl.).
@@ -13,14 +11,10 @@ errori emendato. In Vinegia, 1566. Appresso Girolamo Scotto.
 5 fasc. in 8° (C.A.T.B.5.), pag. 28,(1). Indice = 1561.
 
 I-MOe: compl.
-
 NL-At: C.T.
-
 I-FA: C.D.
-
 I-PS: A (solo png. l-8). T. (solo png. l-Z).
 GB-Lbm: B.
-
 RISM, I 1566-24.
 
 2915 - VINCI Pietro (1589) - Di Pietro Vinci siciliano della città di Nicosia

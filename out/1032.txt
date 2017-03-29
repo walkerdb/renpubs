@@ -10,16 +10,11 @@ A 6. Occhi sereni e chiari, al cui divin splendore 12
 A 10. Viene Clori gentil boschetti e prati. Dialogo (Poliziano) 20
 
 I-PESc: C.A.5.6.
-
 I-Rsc: C.T.B.5.
-
 D-Mbs: T.B.5.6.
-
 I-de: C.A.B.
-
 I-Sd: C.T.B.; 2° esempl.: T.
 I-Bc: C.B.
-
 I-VTcerasa: C.
 
 Un esempl. non compl. (A.T.B.5.6.) esisteva nella Collezione Heyer di Kòln.
@@ -35,9 +30,7 @@ cardinal d'Este. Novamente ristampato. In Venetia appresso Angelo Cedam-
 10 IV 1581. Indice = 1581.
 
 I-Bc: compl.
-
 I-Fn: compl.
-
 I-Ls: compl.
 I-MOe: compl.
 D-As: compl.
@@ -55,7 +48,6 @@ E-T'Z: C.A.B.
 US-Lau: B.5.
 E-Zac: A.6.
 I-ASs: C.
-
 F-A: 5.
 
 US BE: 5.

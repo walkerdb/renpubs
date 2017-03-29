@@ -3,19 +3,12 @@ GB-Lbm: compl.
 A-Wn: C.A.B.5.
 US-NYp: C.A.B.
 B-Br: C.A.5.
-
 I-Rn: A.E5.
-
 D-Rp: A.B.5.
-
 I-Fn: A.S.
-
 D-HAu: T.
-
 F-Pc: 5.
-
 I-Bc: 5.
-
 I-Vc (Torrefranca): A.
 RISM, I 1563-14 (non compl.).
 

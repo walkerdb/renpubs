@@ -55,11 +55,8 @@ se CAlB V ' " "' ilSanaz'
 dice = 1585.
 
 I-Bc: compl
-
 D-W: compl.
-
 I-Ps: C.T.B.
-
 I-Rvnt (Chigi): A.
 F-Pn: T.
 

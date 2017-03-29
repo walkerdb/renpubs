@@ -17,7 +17,6 @@ I-de: C.A.1l.
 I-Sd: C.T.
 GB-Lbm: A.
 I-Fc: 5.
-
 I-Rval (Casimiri): 5.
 A-Wn: 5.
 
@@ -38,16 +37,10 @@ Giacomo Vincenzi. et Ricciardo Amaclino compagni. 1586.
 5 fasc. in 8° (C..-\.T.B.5.), pag. ZO. Indice = 1580.
 
 I-Bc: compl.
-
 GB-Lcm: compl.
-
 A-Wn: C.A.T.B.
-
 B-Gu: A.T.B.
-
 I-Nn: A.
-
 GB-Lbm: T.
-
 NL-DHgm (prov. Scheurleer): 5.
 

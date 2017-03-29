@@ -1,9 +1,6 @@
 GB-Ckc: C.T.
-
 I-Rsc: A.B.
-
 US-Wc: C.B.
-
 I-VEaf: T. . "
 Un mmpl. compl. era nella Collezione Heyer di Koln.
 
@@ -17,9 +14,7 @@ Vinegia, appresso Girolamo Scotto, 1573.
 Hit: 8.5.
 
 I-Rsc: A.
-
 GB-Ckc: C.
-
 GB-Lbm: B.
 
 7 - " o 1578 - Di Fili o De Monte maestro cli capella
@@ -43,7 +38,6 @@ l'herede di Girolamo Scotto. 1580.
 "asc. in 8° (c./110,5), png. zm). Indice = 1570.
 
 lLTT-111: A.
-
 US-CA: B.
 
 758 - DE MONTE Filippo (1581) - Di Filippo Di Monte maestro di capellla

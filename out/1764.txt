@@ -44,7 +44,6 @@ D-As: C.A.T.B.6.
 D-LEst: C.A.T.B.5.
 Pl.-GD: T.B.5.6.
 I-Bc: A.6.
-
 I-Fn: A.
 GB-Lbm: A.
 
@@ -55,7 +54,6 @@ Kauffmanni. 1598.
 6 fasc. in 8° (C.A.T.B.5.6.), pag. 79. Indice = 1597.
 
 D-Mbs: compl.
-
 D-Hs: compl.
 
 ratii Vccchii mutinensrs.

@@ -1,7 +1,6 @@
 1-Fn: compl.
 
 F-Pc: compl.
-
 I-Rvat (De Rosai): C.T.B.
 B-Br: C.T.B.
 

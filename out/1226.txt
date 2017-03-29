@@ -17,7 +17,7 @@ Ricciardo Amadino, compagni. 1584.
 
 5 fasc. in 8° (C.A.T.B.5-). Pag. 20,0). Ded. a Nicolao Christoforo Radzivil Duca in plica-cl
 Nicssisz, Gran Maresalcho (rit) del Serenissimo Re di Polonia nel Gran Ducato di Lituania!
-((. L'affctcuosa servitù ch'io tengo con l'Eccellentissimo Sig. Duca Alberto suo fratello... Venetia.
+((. L'affetcuosa servitù ch'io tengo con l'Eccellentissimo Sig. Duca Alberto suo fratello... Venetia.
 1° III 1584 ".
 
 A 5. Cara, dolce, noturna, alma quiete, più chiara assai del giorno 1
@@ -49,6 +49,5 @@ US-Ws: compl.
 I-MOe: C.A.B.5.
 I-VEaf : C.
 I-Bc: B.
-
 D-HR: B.
 

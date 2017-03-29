@@ -1,5 +1,4 @@
 GB-Lbm: C.
-
 US-Wc: T.
 I-Ne: B.
 GB-Och: B.
@@ -49,13 +48,9 @@ Arsi un tempo e l'ardore fu già soave al core, hor prend'amor a gioco -  21
 Padre del ciel, s'un tempo si follemente ho pianto (Guarini)
 
 I-VEcap: compl.
-
 US-Wc: compl.
-
 I-de: A.B.5.
-
 I-Bc. T.B5.
-
 I-Nc: B.
 
 Un esempl. compl. esisteva nella Collezione Heyer di Këln.

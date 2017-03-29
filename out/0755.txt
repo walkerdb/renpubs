@@ -6,16 +6,11 @@
 5 fasc. in 8° obl. (C.A.T.B.5.). pag. 20. Ded. e Indice = 1595.
 
 I-Nc: compl
-
 I-Fn: C.T.B.5.
-
 D-HVl: C.T.B.5.
-
 D-Mbs: A.T.B.5.
-
 US-SFsc (De Bellis): C.5.
 I-Bc: C.
-
 I-Rsc: C.
 
 '1167 - GESUALDO Carlo (1619) - Madrigali a cinque voci 'del Venosa Libro
@@ -26,11 +21,8 @@ Bartholomeo Magni. '
 
 F-Pn (prov. Thibault): compl.
 GB-Gc: compl.
-
 GB-Och: compl.
-
 I-Bc: T.B.
-
 US-CA: T.
 
 1168 - GESUALDO Carlo (1596) - Madrigali a cinque voci. Libro Quarto. In

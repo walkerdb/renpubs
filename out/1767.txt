@@ -27,17 +27,11 @@ A 7. Hor che le piaggie ridon d'ogn'imorno e spuntan fuor le viole 18
 " " Un'altra volta senza altr'inlervallo (feconda parte) 19
 " " Homai poniamo fino al nostro canto (terza parte) 20
 I-Fn: compl.
-
 I-l..s: compl.
-
 I-MOe: compl.
-
 I-de: compl.
-
 I-Vc: compl.
-
 D-As: compl.
-
 I-Rsc: C.A.B.5.6.
 
 1-Sd: C.T.B.5.6.
@@ -47,11 +41,8 @@ I-Bc: C.T.B.5.6.
 1-Ps: C.T.B.
 
 PL-GD: C.A.T.
-
 D-Mbs: C.T.6.
-
 I-ASs: C.
-
 I-Rc: C. (manc. di front. e di pag. 6).
 I-Vnm (Canal): A.
 

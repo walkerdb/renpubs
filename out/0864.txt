@@ -3,7 +3,6 @@ Ceda, signora, al bel vostro candore la più lucente perla ]9
 Nella dolce stagion di primavera senza foglie vedrò mirti et allori (T. Molza) 20
 Deh perchè non poss'in, dolc'alma mia, scoprin'i i miei martiri 21
 I-Fn: compl.
-
 I-MOe: C.T.B.
 Un esempl. compl. era nella Collezione Heyer di Kòln.
 
@@ -13,7 +12,7 @@ Il N. 1355 è annullato.
 Libro de Canzonette a quattro voci. Novamente composte et date in luce. In Venctia
 appresso l'herede di Girolamo Scotto. 1588.
 
-4 ſasc. in 8° (C.A.T.B.), pag. 22,(1). Ded. a Giuliano Cesarini, Marchese di Civìtà Lavinia, ct
+4 ſasc. in 8° (C.A.T.B.), pag. 22,(1). Ded. a Giuliano Cesarini, Marchese di Civìtà Lavinia, et
 Duca di Civita Nova: " Li favori et gratie signalate, ricevute dall'Illustrissima Signora Clelia
 sua Madre, et mia Signora... sotto |'1llustriss. nome suo, diedi in luce, il primo mio libro di
 laudi spirituali. a quattro voci... Rieti, 3 VII 1588 ".
@@ -45,7 +44,6 @@ Benedetto sia il giorno, il mes'e l'anno e la stagion, il tempo. Di Gio. lacabo 
 [(Pctrarca) 22
 
 A-Wn: C.A.
-
 I-Bc: B.
 RISM, I lSBB-B.
 

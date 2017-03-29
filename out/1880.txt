@@ -32,7 +32,6 @@ A 7. Quando nasce-sli, amore? quando la terra s'i riveste
 )) ))
 
 I-A: compl.
-
 I-Bc: compl.
 D-Hs: compl.
 D-Mbs: compl.
@@ -51,11 +50,8 @@ I-VEaf: C.T.B.5.6.7.
 
 I-Vnm. T.E.
 I-PAc: C.
-
 I-Vlb: C.
-
 E-Mn: C.
-
 I-Nc: T. (ſramm.).
 D-Rp: B. (prm'. Haberl).
 

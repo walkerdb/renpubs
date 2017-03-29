@@ -16,21 +16,13 @@ A 3. Forsennata humanità 2 C. e B. 33
 " " Udile, o voi che del mondo fallace " " " " (Benigni) 35
 " " Ecco, popolo mio, come trattasti tu :\.TB. '"
 I-Bc: compl
-
 I-Bof: compl
-
 I-Fc: compl
-
 I-Ls: compl.
-
 I-MOe: compl.
-
 I-Sd: compl.
-
 F-Pn: compl
-
 I-FEc: C.1°.
-
 I-Rsc: Bc.
 
 1774 - MAZZAFERRATA Giovanni Battista (1690) - Cantate morali e Splſl'

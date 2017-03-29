@@ -24,7 +24,7 @@ Poichè l'avida sete ch'liai del mio tristo e lagrimoso humore 19
 
 Ma tu, cagion di quella atroce pena (seconda parte) 20
 O tenebroso giorno, infelice mio stato, o mio cor tristo 21
-Se tu fuggi, io non resto clie'l cor li segue 22
+Se tu fuggi, io non resto che'l cor li segue 22
 T'amo, mia vita, la mia cara vita mi dice e in questa sola (Guarini) B
 I-Nc: A.B.5.
 
@@ -40,14 +40,10 @@ Libro de Madrigali del serenissimo don Carlo Gesualdo principe di Venosa, havuto
 ° I 1614 ".
 
 GB-Ge: compl.
-
 D-Mbs: A.T.B.5.
-
 US-SFsc (Dc Bellis): C5.
 I-Fn: T5.
-
 I-Rsc: C.
-
 US-CA: T.
 
 1174 - GESUALDO Carlo (1611) - Madrigali a cinque voci. Libro Sesto. In

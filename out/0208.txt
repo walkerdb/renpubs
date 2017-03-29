@@ -37,7 +37,7 @@ A 5. Se'l dolce sguardo di costei m'ancide (Petrarca) 3
 " " Se le due luci scorgo paion quelle 4
 " " Dolor ch'hai fatto del mio pett'albergo, esci di fuor homai 5
 " " D'un bel crespo forbit'oro lucente 6
-" " Ma non apparira'] lume sì tosto a gl'occhi miei (AriostO) :
+" " Ma non apparira'l lume sì tosto a gl'occhi miei (AriostO) :
 " " Sti-ali son li pensieri e ferì dardi
 
 " " Non è questa la mano, che tante e sì mortali avventò (Tasso) 1?)

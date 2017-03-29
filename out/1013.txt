@@ -10,13 +10,9 @@ F-Pthibault: compl.
 D-Bds: compl.
 GB-Lbm: C.A.T.5.
 I-Bc: A.B.5.
-
 I-Fn: A.S.
-
 I-ST: C.
-
 I-Vlb: B.
-
 P-C: 5. (mulilo).
 NL-DHgm: A.
 I-Sd: B.

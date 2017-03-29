@@ -85,12 +85,9 @@ A 5. Fantatsic
 " " Secundn pars
 
 F-Psg: compl.
-
 GB-Lwa: compl.
-
 GB-Lbm: Taille, Hautccontre, Bassecontre.
 I-BRE: Taille
-
 F-Pn: Taille
 
 -94l-

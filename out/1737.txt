@@ -30,14 +30,10 @@ A 3. Sonata a doi Violni e Basso. Secondo tuono. Grave 27
 " " E' tanto tempo hormai. Sonata a 3 31
 " " il Corisino. Sonala a 3 35
 I-Bc: compl.
-
 I-VEcap: compl.
-
 F-Pn: compl.
-
 GB-Och: compl.
 PL-WRu: compl.
-
 D-Kl: T.2°, B., Bc.
 Sartori 162" e ][ 1624ſ.
 
@@ -49,9 +45,7 @@ Alessandro Vincenti. 1624.
 
 4 ſ-'lSC in 8°: T.1° Png 49'(1)' Tlc p;\g 45,(1); B. pag. 2.9.(1); BC. pag. 33,(1)- lndlCC : 1624'l.
 I-VEcap: compl.
-
 A-Wn: compl.
-
 B-Bc: compl. (prov. Wagener).
 
 PL-WRu: T.1°, B., Bc.

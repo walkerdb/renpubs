@@ -6,23 +6,15 @@ Scarco di doglia e pien di gioia in vista 44
 Ma'l bel pensier che suo mal grado (seconda parte) 45
 
 D-As: compl.
-
 D-Rp: compl.
-
 F-Pc: C.T.5.
-
 I-VEaf: C.T.
-
 I-Vnm (Canal): B.5.
 
 I-Nn: C.
-
 A-Wn: A.
-
 GB-Lbm: A.
-
 US-BE: A.
-
 RISM, I 1552-25 (non compl.).
 
 2409 - (De) RORE Cyprien (1557) - Di Cipriano di Rore il Terzo Libro de:
@@ -49,7 +41,7 @@ Quando lieta sperai sederm'all'ombra et cantando obliar 13
 
 A che con nuovo laccio, donna, legarme d'ardente desio - 14
 
-Bianca ncve'l bel collo, il petto latte (NNW) 15
+Bianca neve'l bel collo, il petto latte (NNW) 15
 
 Lasso, che mal accorto fui da prima nel giorno (Petrarca) 16
 

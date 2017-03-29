@@ -1,7 +1,6 @@
 D-Mbs: compl.
 GB-Lbm: A.T.5.
 US-BE: A.
-
 GB-Bb (Harding): A.
 US-NYp: 5.
 
@@ -37,7 +36,6 @@ A 7. Liete siam per memoria di quel sole (Petrarca) 21
 
 F-Pthilmull: compl. (prov. Wolffheim).
 I-Vnm: C.
-
 I-Vc (Torreſranca): A.
 
 I-CAR: 5.

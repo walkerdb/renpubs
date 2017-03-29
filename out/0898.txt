@@ -16,7 +16,6 @@ D-Rp: compl. (B. difett.).
 D-Bms: C.1°, A.2°, T.2°, B.
 I-MOe: C.1°, C.2°, T.2°.
 F-Pc: C.2°, A.2°.
-
 F-Pn: C.2°, A.2°.
 Boetticher 803.
 

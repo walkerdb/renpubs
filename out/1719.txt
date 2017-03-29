@@ -30,7 +30,6 @@ A 3. Ninfa gentile, crudel e bella, ch'in quest'aprile 33
 " " Sempre mirar vorria quesli begl'occhi tuoi 26
 " " Tu fuggi, fuggitiva, per far mia vista del tuo aspelto priva 27
 I-Nn: A.
-
 GB-Lbm: T.
 
 2746 - TRESTI Flaminio (1594) .- Il Primo Libro delle Canzonette a tre voei di
@@ -39,7 +38,7 @@ presso Angelo Gardano. 1594.
 
 3. fasc. in 8° (C.A.B.) pag, 21,(1). Ded. a Francesco Cosceo Dottor Eccellentissmio: " anco
 
-che della Musica ne ha buonissima parte... e co'] sentire e co'l cantare... Lodi, 1° V 1594 ".
+che della Musica ne ha buonissima parte... e co'l sentire e co'l cantare... Lodi, 1° V 1594 ".
 
 Come farò, cor mio, quando ti parti, che sol pensando alla crudel partita 1
 T" parti, e'l ciel pur vole ch'io viva senza de begl'occhi, solo î

@@ -28,7 +28,6 @@ Quando sarà giamai che i nostri (quinta parte) 23
 Vengo, caro pastor, a quei bei (sesta parte) z9
 
 I-VEaf: C.A.T.5.
-
 A-Wn: B.
 I-Vc (Torrefranca): A.
 
@@ -42,16 +41,11 @@ Antonio Gardano. 1572.
 
 I-Vnm (Canal): compl.
 B-Br: compl.
-
 D-Mbs: compl.
 I-MOe: C.A.T.5.
-
 I-Fn: C.A.T.5.
-
 I-Bcz5
-
 US-OB: T.
-
 I-Vc (Torrefranca): B.
 
 678-

@@ -5,7 +5,6 @@ S-H: compl. (dilett.).
 GB-Lbm: C.A.T.B $.
 A-Wn: A.T.B.5.6.
 I-Mc: C.
-
 I-Oc: T. (diſ...).
 
 788 - DE MONTE Filippo (1571) - Di Filippo Di Monte, maestro della S.C.
@@ -30,9 +29,7 @@ I-Rsc: C.A.B.5.6.
 F-Pa: C.
 GB-Lbm: C.
 I-Bc: A.
-
 F-G: A.
-
 F-Pn: B.
 
 790 - DE MONTE Filippo (1582) - Di Filippo Di Monte maestro di capella
@@ -43,19 +40,12 @@ Girolamo Scotto. 1582.
 6 fasc. in 8° (C.A.T.B.5.6.), pag. 23. Indice = 1569.
 
 I-MOe: compl.
-
 GB-Gu (Ge): compl.
 GB-Lbm: compl.
-
 PL-GD: compl.
-
 I-Bc: C.A.B.
-
 E-TZ: C..-\.
-
 D-Mbs: C.T.G.
-
 D-KNu: C.B.
-
 US-BE: T.5. (prov Landau)
 

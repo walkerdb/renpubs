@@ -22,20 +22,16 @@ Gardano. 1594.
 5 fasc. in 8° (C.A.T.B.5.), pag. 29.(1). Indice = 1585
 
 I-Bc: compl.
-
 I-Bsp: compl.
 B-Br: compl.
-
 D-As: compl.
 F-Pthibault: compl.
 I-Fn: C.A.T.B.
 GB-Lbm: C.A.T.5.
 I-ST: C.
-
 D-Rp: C. (prov. Haberl).
 NL-DHgm: A.
 I-Sd: T.
-
 US-BU: 5.
 
 1626 - MARENZIO Luca (1605) - Di Luca Marenzio il Quinto Libro de
@@ -46,7 +42,6 @@ Cardano. 1605.
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 29. Indice = 1585.
 
 D-LEm: compl.
-
 F-Pc: compl. (prov. Borghese).
 I-Sd: A.T.B.5.; 2° esempi.: T.
 I-Bc: T.

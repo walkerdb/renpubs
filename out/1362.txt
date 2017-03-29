@@ -29,11 +29,8 @@ F-Pthibault: compl.
 GB-Och: compl.
 GB-Lbm: C.T.B.6. (dif.)
 F-Psg: T.B.5.
-
 CS-an: T.5.
-
 US-CA: B.6.
-
 NL-At: 5.
 
 2212 - PHILIPS Peter (1615) - Di Pietro Philippi inglese organista delli sercniss.
@@ -44,7 +41,6 @@ Madrigali a sei voci novamente ristampati. In Anversa. Appresso Pietro Phalcslo
 6 fasc. in 8° (C.A.T.B.5.6.), pag. 32. 1ndice : 1603.
 
 GB-Lbm: C.A.T.B.6.
-
 CH-ZU: C.T.B.6.
 
 2213 - PHILIPS Peter (1598) - Di Pietro Philippi inglese, organista del serenissimo

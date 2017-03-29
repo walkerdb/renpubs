@@ -13,7 +13,6 @@ con nova gionta ristampato. A sei voci. In Venetia appresso di Antonio Cardano.
 S-Uu: compl.
 B-Br: C.A.T.B.5.
 F-Pc: 5.
-
 RISM, I 1560-34.
 
 2679 - STRIGGIO Alessandro (1578) - Il Primo Libro delli Madrigali a sei voci
@@ -23,21 +22,13 @@ Vincggia. Appresso l'herede di Girolamo Scotto. 1578.
 6 fasc. in 8° (C.A.T.B.5.6.), pag. 30,(1). Indice = 1560.
 
 I-Fn: compl.
-
 I-de: compl.
-
 I-VEaf: compl.
-
 D-Kl: compl.
-
 F-Pa: C.T.
-
 GB-Lbm: C.
-
 D-Mbs: B.
-
 D-ma: 6.
-
 RISM, I 1578-23 (non compl.).
 
 2680 - STRIGGIO Alessandro (1579) .- Di Alessandro Striggio gentil'huomo

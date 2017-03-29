@@ -11,14 +11,11 @@ F-Plhibault: compl.
 I-Fd: C.A.T.B.
 GB-Lbm: C.A.T.5.
 I-Bsp: A.B.
-
 I-ST: C.
-
 D-Rp (Haberl): C.
 US-BU: 5.
 NL-DHgm: A.
 I-Sd: T.
-
 US-BE: T.
 
 1611 bis - MARENZIO Luca (1606) - Di Luca Marenzio il Secondo Libro de
@@ -28,11 +25,9 @@ Gardano. 1606.
 5 fasc. in 8° obl. (C.A.T.B.5.), png. 21. Indice = 1581.
 
 B-Bc: compl.
-
 F-Pc: compl. (prov. Borghese).
 
 F-Phanson: compl.
-
 GB-Lcm: 5.
 
 Un esempl. compl. era nella Collezione llcyer (li Kòln.
@@ -52,9 +47,7 @@ Raverij. 1608.
 5 fasc. in 8° (C.A.T.B.5.), pag. Zl. Indice = 1581.
 
 F-Pmeyer: compl.
-
 D-W: A.T.
-
 I-Bc: T.
 
 A... -1008-

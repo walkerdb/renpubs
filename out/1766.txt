@@ -1,11 +1,7 @@
 D-Bs: C.
-
 I-Vgc: A.
-
 D-W: T.
-
 S-H: 5.
-
 RISM, I 1608-21 (non compl.).
 
 2826 - VECCHI Orazio (1589) - Madrigali a cinque voci di Horatio Vecchi
@@ -48,21 +44,14 @@ Ite, rime dolenti, al duro sasso, che'l mio caro (Petrarca) 20
 Quella ch'in mille selv'e in mille franc segurr mi fece (Sannazzaro)
 
 I-Nc: compl.
-
 D-As: compl.
-
 F-Pc: compl.
-
 GB-Lbm: compl.
 GB-Lcm: compl.
-
 PL-GD: compl.
-
 US-Wc: compl. (prov. Heyer). (C. solo pag. 1-6; B. solo pag. 1-14; 5. solo pag. 1-15)I-Fn:
 C.T. (prov. Landau).
 I-Bc: C.
-
 I-Sc: C.
-
 I-PS: B. (solo pag. 15-22).
 

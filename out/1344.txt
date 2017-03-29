@@ -37,15 +37,10 @@ n " Mortale, di su. Con Viol. Parole del sig. Antonio Abbati €;
 " " Signor, non tardar più. Parole di monsignor Benigni
 
 I-Bc: compl.
-
 I-Bsp: compl.
-
 B-Br: compl.
-
 GB-Lbm: compl.
-
 US-NH: compl.
-
 A-Wn: G.B. Violoncello, Bc.
 D-Bds: C., Viol. 1°, Vio. 2°.
 D-Hs: Bc.

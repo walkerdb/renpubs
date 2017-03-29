@@ -3,7 +3,6 @@ I-Bc: C.A.T.
 B-Br: C.A.B.
 I-VEaf : C.T.
 F-Pc: C.
-
 I-Nn: A.
 GB-Lbm: A.
 F-Phanson: T.

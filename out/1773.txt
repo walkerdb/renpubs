@@ -1,15 +1,10 @@
 l-Vgc: T.B.7.8.9.10.
 
 D-MUs: T.7.
-
 F-Pn: C.
-
 I-Bc: 5.
-
 I-Fr: 8.
-
 I-Vnm (Canal): 8.
-
 GB-Lbm: 8.
 
 Sartori 1595c e Il 1595c.

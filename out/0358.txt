@@ -4,9 +4,7 @@ n " Voi voreste (seconda stanza)
 " " Sarò l'esca (quarta stanza)
 
 F-Pn: compl.
-
 S-Uu: compl.-
-
 I-Fm: Viol. 1°, Viol. 2°.
 I-Bc: Bc.
 

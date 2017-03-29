@@ -4,16 +4,11 @@ appresso Angelo Gardano 1585.
 4 fasc. in 8° (C.A.T.B.), png. 22. Ded., Veneti.-| 26 VII 1585. Indice = 1580.
 
 I-Bc: compl.
-
 I-Fc: compl.
-
 I-Rsc: compl. (prov. Borghese).
 D-Mbs: C.A.
-
 I-Rc: C.
-
 I-Vnm (Canal): A.
-
 F-Pc: A.
 
 2799 - VECCHI Orazio (1586) - Canzonette di Oratio Vecchi da Modona.
@@ -32,17 +27,12 @@ In Venetia appresso Angelo Gardano. 1591.
 4 fasc. in 8° (C.A.T.B.), pag. 22. Indice = 1580.
 
 I-Bc: compl.
-
 D-Kl: compl.
-
 GB-Lbm: compl.
-
 I-Rsc: C.T.B.
-
 I-Vnm (Canal): A.T.
 D-Rp: C. (prov. Haberl).
 F-Pc: C.
-
 US-Cn: C.
 
 2801 - VECCHI Orazio (1610) - Die erste Class der vierstimmigen Canzona";

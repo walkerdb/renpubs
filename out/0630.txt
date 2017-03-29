@@ -26,7 +26,6 @@ I-Bsp: A.T.5.
 I-Rsc: C.
 GB-Lbm: B.
 D-Kl: 5.
-
 F-Pn: 5.
 I-MAc: 5. (prov. Arch. Gonzaga).
 

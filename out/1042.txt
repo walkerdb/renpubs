@@ -25,7 +25,6 @@ A 6. Tra l'herbe a piè d'un mirto, che'l copriva dal sol (Gotifredi) 42
 " " Mentre fia caldo il sol, fredda la neve. humid'il mar 53
 A 10. Basti sin qui le penc e i duri affanni (Sannazzaro) 54
 D-Hs: compl.
-
 D-PA: compl.
 D-Rp: compl.
 E-V: compl.
@@ -35,7 +34,6 @@ PL.-Wu: compl.
 PL-Tu: A.T.6.
 US-CA: T.E.
 DK-Kk: T.
-
 RISM, I 1594-14.
 
 1671 - MARENZÌO Luca (1610) - Di Luca Marenzio musico eccellentiss. il

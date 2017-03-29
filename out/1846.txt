@@ -20,7 +20,6 @@ Gia lagrimai d'amore e'n lunghi affanni 20
 I-Fn: compl.
 I-llc: C.A.B.5.
 F-Pn: T.
-
 RISM, I 1616-Zl.
 
 2944 - VITALI Filippo (1623) - Il Secondo Libro de Madrigali a cinque voci
@@ -39,7 +38,7 @@ Ah dispietat'e l'era. dite perchè piangete ' - 5
 La mia leggiadra Filli, col piant'in perl'aceolto, l-agnava i vaghi hor 6
 
 O com'in van credei passar l'hnre tranquille
-Non già con ncv'algenle si spegne, o donna
+Non già con nev'algenle si spegne, o donna
 
 (Marino) 7
 (Guarini) 8

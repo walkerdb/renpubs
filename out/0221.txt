@@ -25,7 +25,6 @@ I-FEc: compl.
 I-VCd: compl.
 D-F: compl.
 I-Sac: C.T.
-
 I-SPE: B. per org.
 
 ' O

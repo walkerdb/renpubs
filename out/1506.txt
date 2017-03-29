@@ -25,19 +25,12 @@ A 6. L'alto signor dinanzi a cui non vale (Petrarca) 25
 A 8. Avien che spesso la speranza. Dialogo "
 
 I-VEaf: compl.
-
 I-VEcap: compl.
-
 D-Mbs: compl.
-
 I-.\ln: C.
-
 B-Br: C.
-
 F-Pc: T.
-
 A-Wn: A.
-
 RISM, I 1557-13 (inesatto).
 
 2415 - (De) RORE Cyprien (1562) - Di Cipriano Rore li Madrigali a.<.:i11qlie

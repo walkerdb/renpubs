@@ -2,9 +2,7 @@
 
 Gll-me: C.A.T.ll.5.
 (ìB-Ckc: C.
-
 I-Rsc: :\.
-
 I-Bc: 5.
 
 2685 - STRIGGIO Alessandro (1579) - Il Secondo Libro de Madrigali a sei \oci,
@@ -19,7 +17,6 @@ F-Pa: C.T.
 GB-Lbm: C.
 I-Vlb: A.
 D-Mbs: H.
-
 F-Pn: B.
 
 2685 - STRIGGIO Alessandro (1579) - Il Secondo Libro de Madrigali a sei voci,

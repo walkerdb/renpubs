@@ -22,7 +22,7 @@ A 1. Bella donna mia nemica, se ti spiace ch'io ti dica (Bocchineri) 19
 " " Se'l sospirar fu mdarno e indarn'il pianger nostro. Madrigale (Bocchineri) 23
 " " Num'infernali e voi, che tormentat'i rei. Intermedio d'Orfeo 24
 " " Care luci, che vaghezza d'impiagar prendete il petto. Scherzo 26
-" " Non havea Febo ancor recato al mondo'] di. Aria (Rinuccini) 27
+" " Non havea Febo ancor recato al mondo'l di. Aria (Rinuccini) 27
 " " Se ridete gioiose, dolci labre amorose. Aria di Giulio Catz-[m' detto Romano 28
 " " Tua chioma oro somiglia cotanto è luminosa. Aria di Giulio Care-im" (Chiabrera) 29
 " " O dell'alto Appenin figlio sovrano. Aria di Iacopo Peri (Saracinelli) 30
@@ -35,13 +35,9 @@ A 1. Bella donna mia nemica, se ti spiace ch'io ti dica (Bocchineri) 19
 " " Dal celeste sereno mira Giove immortal. Intermedio " -
 
 I-Fc
-
 I-Vnm
-
 B-Br
-
 CS-Pu
-
 US-Cn
 
 Sartori 1614f e II 1614f. .

@@ -1,6 +1,5 @@
 F-VE: C.T.
 D-Bds: A.
-
 I-Bc: T.
 Boctticher 750.
 RISM, I 1562-16.
@@ -20,14 +19,11 @@ voci. In Venetia appresso (li Antonio Gardano. 1565.
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. &. Indice = 1559.
 
-I-Bc: compl. (B. difctt.).
+I-Bc: compl. (B. difett.).
 D-Bds: compl.
-
 I-Fr: C.5.
-
 I-Vc (Torrefranca): A.
 NL-Dngn: T.
-
 F-Pm: 5.
 
 Boctticher 754.
@@ -44,9 +40,7 @@ I-Rsc: compl.
 I-VEcap: compl.
 I-VCd: C.T.B.5.
 D-Bds: A.T.5.
-
 F-Pc: 5.
-
 I-Vc (Torrefranca): A.
 Boctticher 755.
 

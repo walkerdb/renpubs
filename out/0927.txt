@@ -19,13 +19,10 @@ A 6. Mais qui pourroit cstre ccluy 26
 " " Hor vi rieonfortate in vostre fole (Petrarca) 30
 A 10. Passan vostri triomphi " 30
 F-Psg: compl.
-
 S-Uu: Contr. T.B.5.
 
 F-Pc: B.
-
 E-Mn: S.
-
 GB-Ob: Contr.
 
 Boettîcher 788.
@@ -38,11 +35,8 @@ Ballard. Imprimeurs du roy. 1596. Avec privilege de sa majesté pour sxx ans.
 5 fasc. in 8° obl. (Superius, Contratenor, T., B., S.), c. 32. Indice = 1584.
 
 F-Pn: compl.
-
 GB-Lbm: S.
-
 GB-Ob: Contr.
-
 F-Pc: 5.
 Boetticher 804.
 Lesure e Thibault 312.

@@ -10,15 +10,10 @@ A 5. Puis que fortune a sur moy entrepris ]g
 " " De tout mon coeur i'ayme la Marguerite (Crétin) 29
 " " Seeourez moy madame (Maro!) 29
 D-Mbs: compl.
-
 PL-GD: compl.
-
 S-Uu: compl.
-
 D-Bds: A.T.5.
-
 S-Sk: T.5.
-
 B-Br: Contrntenor.
 
 Boctticher 763.

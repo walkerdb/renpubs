@@ -9,7 +9,6 @@ A 6. Ditemi, o diva mia, non sete voi quella che con gran fede. 21
 
 1-VEaſ : compl.
 F-Pc: compl.
-
 PL-Wn: C.A.5.
 PL-LEtpn: T.B.
 
@@ -30,7 +29,7 @@ Dolcissimo ben mio. io mi sento morire, poscia ch'è tardi e mi convien partire 
 Olà mio core, che ti pensi fare col tanto sospirare. A Gio. Battista Ravenna 6
 Se'l misero Atteon fu lacerato per mirar sol Diana entr'acl un rio 7
 Clori gentil piangea perchè'l suo bel Damon perduto liavea 3
-S']? t'amo e s'io t'adoro e se per te, crudel, languisco e moro 9
+S'l? t'amo e s'io t'adoro e se per te, crudel, languisco e moro 9
 Chi non canta in ogni loco: vivan d'amor saelle, strali e foco 10
 Cantatrice s'è fatta al mia ninfa, che canta al suon di questa chiara linfa 11
 Come vuoi tu ch'io canti, o Filli ingrata, se meco sempre fai la corrucciata 11

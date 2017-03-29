@@ -12,9 +12,7 @@ GB-Lbm: compl.
 PL-GD: compl.
 I-Bc: C.T.B.5.
 I-Rc: C.B.5.
-
 I-Fr: A.5.
-
 I-Oc: A.B. (difettosi)
 US-BE: C.
 F-TLm: A.

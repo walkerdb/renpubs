@@ -3,11 +3,8 @@ Se voi lagrime a pieno non mostrast'il dolore 22
 
 I-Nf: compl. (A. e B. manc. di front.)
 D-Kl: compl.
-
 GB-Ckc: C.
-
 I-Rsc: T.
-
 I-Nc: B.
 
 812 - DENTICE Scipione (1629) - Madrigali spirituali a cinque voci del P. Scipione
@@ -36,7 +33,7 @@ Pastorello felice, che pascendo gli armenti per l'aria udisti 16
 Perfida cor, tu dici, dal ferro fosti e dalla giamma csente 17
 A piè del sacro legno oppressa è Maddalena. A S. Maria Maddalena 18
 Dolce, amorosa piaga, se pur piaga tu sei. Alla piaga del costato di Gesù 19
-Candida verginella. vie più che ncv'hai l'alma 20
+Candida verginella. vie più che nev'hai l'alma 20
 Tenero pargoletto, al tuo pargoleggiare pargoleggia lo cielo 21
 Nella cima del monte questo mio cor cercate 2;
 

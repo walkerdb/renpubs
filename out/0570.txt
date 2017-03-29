@@ -30,13 +30,11 @@ A 6. Rozz'e breve canzona, vnnn'a madonn'e dì (quann parte) 23
 
 GB-Lbm: compl. (T. manc. di front. e di pag. 1-7).
 GB-LI: T.
-
 I-Bc: T.
-
 I-MOe: B.
 
 859 - DORATI Nicolò (1559) - Di Nicolo Dorati li Madrigali a cinque,.a sei,-%
-sette et otto voci. Libro Secondo novamente da lui posti in luce, et delli suor prOPſ']
+sette et otto voci. Libro Secondo novamente da lui posti in luce, et delli suor prOPſ'l
 exemplari coretti. In Vinegia, appresso Girolamo Scotto. 1559.
 
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 29,(1). Ded. a Giuseppe Berni, gentilhuomo lucchese-
@@ -44,7 +42,7 @@ exemplari coretti. In Vinegia, appresso Girolamo Scotto. 1559.
 . . . . 1
 A 5. Amor, se VUOl ch'i' torn'al giog'antico. Canzon (Petrarca) 2
 
-" " Riponi entro'] bel viso il vivo lume (seconda parte) " 3
+" " Riponi entro'l bel viso il vivo lume (seconda parte) " 3
 " " Fà ch'io riveggia il bel guardo (tel-La parte) " 4
 " " Fammi sentir di quell'aura gentile (quarta parte) " 5
 " " Movi la lingua ov'eran a tutt'hore (quinta parte) " 6

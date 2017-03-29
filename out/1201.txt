@@ -31,9 +31,7 @@ D-LEm: C.A.T.5.Bc.
 I-Vnm: C.T.5.Bc.
 D-Bds: A. Bc.
 A-KR: A.
-
 I-Bc: T.
-
 B-Br: 5.
 
 Sartori 16Bg e Il 16Bg.
@@ -46,7 +44,6 @@ Monferato etc. Stampa del Gardano. In Venetia 1628 appresso Bartholomeo Magni.
 
 6 fasc. in 8° (C.A.T.B.5.Bc.), Bc. png. 69,(1). Indice = 1619.
 GB-Och: compl.
-
 B-Br: C.A.T.B.Bc.
 GB-Lwa: C.A.T.B.Bc.
 

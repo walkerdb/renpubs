@@ -13,7 +13,7 @@ n " Non vid'il mondo sì leggiadri rami (seconda parte) " 27
 A 4. Però più ferm'ogn'hor di tempo (quarta parte) " 28
 A 5. Selve, sassi, campagne, fiumi e poggi (quinta parte) " 29
 A 6 Tanto mi piacque prima il dolce (sesta parte) " 19
-A 4. lngenium ornavit Pallas mucronc potentem 31
+A 4. Ingenium ornavit Pallas mucronc potentem 31
 A 6. Cantai, mentre ch'io arsi del mio foco Di Girolamo Paraborro 31
 " " Ave Virgo gratiosa. stella sole clarior 34
 " " Rubiconda plusquam rosa, lilio candidior (secunda pars) 36
@@ -29,15 +29,11 @@ AB. A tous jamais dung voloir immuable 43
 "le: compl. (2° esempl.: C.).
 
 I-Fc: compl.
-
 I-VEaf : compl. (2° esempl.: T.).
 
 I-Vnm: C.T.
-
 US-Cn: C.B.
-
 I-Bu: C.
-
 I-Fr: C,
 
 "VSC (Malipiero): C.
@@ -45,9 +41,7 @@ I-Fr: C,
 "'sz c.
 
 F-Pc: C.
-
 GB-Lbm: C.
-
 NL-Lu: C.
 
 "'n: T.
@@ -56,7 +50,7 @@ MSM-. I 1544-22 (non compl. ed erroneo).
 
 858 - D0RATI Nicolò (1549) - Di Niccolo Dorati il Primo Libro di Madrigali a
 Clſlque voci, novamente da lui compasti, et dati in luce. A cinque voci. In Venecia
-appresso de Antonio Gardanc. 1549.
+appresso de Antonio Gardane. 1549.
 
 : fase" in a Obl. (C A. .B 5. (l \ dl) Nſ P l lllalle SCO
 . I . ), pag. D,(1 . Dc . . l R ' . . e

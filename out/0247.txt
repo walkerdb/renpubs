@@ -31,7 +31,6 @@ Chi fa del cavalier e chi del duca 32
 S-Ll: compl,
 GB-Lbm: C.
 I-Bc: T,
-
 RISM, I 1565-12.
 
 381 - BONAGIUNTA Giulio (1567) - Il Primo Libro de Canzon napolitane a
@@ -42,7 +41,6 @@ autton, di novo ristampate. In Vinegia. Appresso Gieronimo Scotto. 1567.
 
 A-Wn: compl.
 D-As: C.
-
 I-Vnm: B. (difett.).
 RISM, I 1567-18.
 

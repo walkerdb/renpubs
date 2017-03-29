@@ -11,11 +11,8 @@ A 5. Amor, se giusto sei ſà che la donna mia 10
 " " Ecco maggio seren, chi l'ha vestito di sì bel verde (G.B. Strozzi) 19
 A 8. Canti.-um la bella Clori, Clori cnnliam che (lui celesti 20
 I-Bc: compl.
-
 I-MOe: compl.
-
 A-Wn: compl.
-
 B-Br: compl.
 D-As: compl.
 F-Pthibault: compl.
@@ -24,7 +21,6 @@ GB-Lbm: C.A.T.5.
 I-ST: C.
 NL-DHgm: A.
 I-Sd: T.
-
 US-BE: T.
 ElR-Dm: B.
 US-BU: 5.
@@ -37,19 +33,12 @@ Appresso Angelo Gardano. 1603.
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 21,(1). Indice = 1594.
 
 I-Bc: compl.
-
 I-Vnm: compl.
-
 F-Pc: compl.
-
 F-Phanson: compl.
-
 I-Nc: C.A.B.
-
 GB-Lbm: C.T.B.
-
 A-Wn: C.T.S.
-
 D-RP: C. (prov. Haberl).
 
 I-Sac: C.

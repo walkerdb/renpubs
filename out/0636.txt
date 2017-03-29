@@ -23,11 +23,8 @@ A 6. Dolci coli fiorit'a me sì cari, clic \"edel'il mio sol 5
 " " Depon l'arco e l'orgoglio, amor, ch'a te. non lice mai più 15
 A 8. O conscia calclari candelieri. Mascherata 26
 I-Tn: compl.
-
 D-Mbs: compl.
-
 I-Bc: CA.
-
 I-ANd: B.
 
 1-Fr: 5.
@@ -48,8 +45,6 @@ I-Bsp: A.; T. (manc. di pag. 21-24); 5.
 PL-GD: C.A.T.
 I-Vnm: C.A.
 I-MOe: A.
-
 I-Rc: B.
-
 F-Pn: 5.
 

@@ -25,19 +25,13 @@ A 8. Un jour l'amant et l'amic 77
 " " S'una fede amorosa, un cor non finto (Petrarca) 35
 A 10. Quo properas facunde nepos 86
 F-Pc: compl.
-
 F-Psg: compl.
-
 E-Mc: compl.
-
 GB-Lbm: S. Contr. T.E.
 
 F-O: S.T.B.5.
-
 GB-Ob: Contr.
-
 F-CH: T.
-
 B-Br: B.
 
 Boctticher 776.
@@ -54,7 +48,6 @@ Imprimeurs du Roy. 1586. Avec privilege de sa majesté pour dlx ans.
 
 F-Psg: compl.
 GB-Lbm: S.
-
 F-Pc: B.
 
 Boctticher 793.

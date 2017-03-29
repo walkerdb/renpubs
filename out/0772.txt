@@ -1,5 +1,5 @@
 A 5. O del mio bello e dispielato Silvio cura e diletto
-" " Puoi tu dunque, crudele, a questa chioma che ti legò già '] core
+" " Puoi tu dunque, crudele, a questa chioma che ti legò già 'l core
 " " O crudel Amarilli, dunque non ti bastava di dar a questo misero
 
 " " Un bacio solo a tante pene, cruda, un bacio a tanta ſede
@@ -30,7 +30,6 @@ I-FEc: compl.
 D-Kl: compl.
 I-Bc: C.A.B.5.
 GB-Lbm: A.
-
 I-de: B. (manc. di front.).
 
 1195 - GIACCIO Orazio (1645) - Canzone sacre in musìca di D. Horatio Gìaecio

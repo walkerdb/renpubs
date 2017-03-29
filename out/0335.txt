@@ -18,7 +18,6 @@ A 5. La bella ninfa a quel parlar volgendo (terza parte)
 " " Tirsi, se m'hai seguita non seguìsti. Clori (seconda parte) 2
 A 8- Suavissimo bacio, sei pur di Clori. Tirsi e Clori (terza parte) 0
 D-As: A.T.B.5.
-
 I-Bc: A,T5
 
 498 - CASENTINI Marsilio (1609) - La Cieca Madrigali a cinque voci di Marsilio
@@ -44,7 +43,7 @@ A 5. Cieco, amor, non ti cred'io, che fai cieco il desio. Scherzo primo (Guarini
 " " Anima mia, perdona a chi t'è cruda sol dove pietosa " 15
 " " Che se tu seì il cor mio (seconda parte) " 16
 " " Sciolto cor fà piè fugace. O lusinghier fallace. Scherzo terzo " 16
-" " Stella, che scintillando fiammeggi in terra più ch'] sole 17
+" " Stella, che scintillando fiammeggi in terra più ch'l sole 17
 " " Non temer, Filli, ch'io scopra l'amoroso ardore 18
 " " Che veggio ohimè, che sento? Filli, che già pietosa 20
 " " All'apparir della pomposa aurora di fior vaga corona. Di Silao Casentini 21

@@ -5,7 +5,6 @@ In Vinegia 1567. Appresso Girolamo Scotto.
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 19. Indice = 1559.
 
 D-Bds: B.
-
 I-Ta: 5.
 
 Boctticher 758.
@@ -22,7 +21,6 @@ D-Mbs: compl.
 B-Br: C.A.5.
 A-Wn: B.
 D-Bds: 5.
-
 F-Pc: 5.
 Bocnicher 759.
 RISM, I 1568-17.
@@ -36,7 +34,6 @@ lia, 1573.
 Ì-VEcap compl.
 
 US-Wc:
-
 D-Bds: C.
 
 Ì-MOc: S,

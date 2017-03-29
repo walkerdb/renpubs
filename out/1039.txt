@@ -3,24 +3,18 @@ Baci cortesi e gmli e voi lnbbr'nmorosi (quarlu parte) (Guarini) 19
 Baci, ohimè non mirnlc (quinta pnrle) " 20
 Vivrò dunque lontano da le, mio chiaro sol },]
 I-Bc: compl.
-
 GB-Ob: compl.
-
 I-VEnſ: C.A.T.B.5.
 
 I-MOe: C.A.T.B.6.
-
 I-Rsc: C.A.B.5.6.
 
 ["-Pc: A.T.B.5.6.
 
 D-Rp: C.A.T.5. (prov. Haberl).
 B-Bc: C.B.6.
-
 I-ASS: C.
-
 US-BE: T.
-
 RISM, I 1591-21 (non compl.).
 
 1666 - MARENZIO Luca (1595-1) .. Di Luca Marenzio, il Quinto Libro de
@@ -49,18 +43,13 @@ di Girolamo Scoto.
 6 fasc. in 8° (C.A.T.B.5.6,). png. B. Indice = 1591.
 
 I-Fc: compl.
-
 F-Plhibnull: compl.
 
 GB-Gu: compl.
-
 D-Rp: C.A.5.6. (prov. Haberl).
 I-PAc: C.A.T.B.
-
 US-Ws: T.
-
 I-Rsc: B.
-
 RISM, I 1595-9 (inesatto).
 
 Il N. 1668 è annullato.

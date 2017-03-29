@@ -14,7 +14,6 @@ F-Pthibault: compl.
 GB-Lbm: compl.
 I-VCd: C.T.B.5.
 I-Bsp: A.T.B.5.
-
 A-Wn: B.
 Boctticber 757.
 Un esempl. compl. era nella Collezione Heyer di Këln.
@@ -35,7 +34,6 @@ A-Wo: C.A.T.5.
 B-Br: C.A.T.5.
 E-Bd: C. (mutilo da pag. 22).
 I-Fc: 5.
-
 P-Pc: S.
 US-Cn: T,
 Boelticher 763.

@@ -1,10 +1,7 @@
 A-Wn: C.T.S.
-
 D-Rp: C. (prov. Haberl).
 I-Bc: 5.
-
 GB-Lbm: 5.
-
 I-Sac: C. (mUlilo da pag. H).
 I-Sd: T.
 
@@ -18,7 +15,6 @@ Raverii. 1608.
 
 I-VEcap: compl.
 I-Bc: G.B.
-
 I-Rsc. C.
 F-Plhibault: compl.
 US-CAli: B.
@@ -30,7 +26,6 @@ Angelo Gardano, et fratelli. 1069 (sic).
 5 fasc. in 8° obl. (C.A.T.B.5.), png. 21,0). Indice = 1599.
 
 I-Bc: compl.
-
 F-Pc: compl.
 
 1643 - MARENZIO Luca (1609-2.) - Di Luca Marenzio il Nono Libro dc

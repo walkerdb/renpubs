@@ -29,7 +29,6 @@ A 5. Benchè siat'usi, o spettatori illustri. Prologo Î
 " " Rallegratevi meco. A. 3°, scena quinta
 
 I-Bc: compl.
-
 GB-Lbm: compl.
 GB-Och: compl.
 A-Wn: C.A.B.5.
@@ -37,7 +36,6 @@ D-Rp: C.T.B.
 D-W: C.A.
 I-Vnm: C.
 I-Rv: A.
-
 I-Vlb: B.
 D-Mbs: B.
 

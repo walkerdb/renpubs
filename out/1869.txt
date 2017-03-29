@@ -14,7 +14,6 @@ I-Vnm: C.A.T.5.
 A-Wn: C.A.T.5.
 GB-Lbm: C.A.T.5.
 I-Bc: C.
-
 F-Pe: 5.
 
 2984 - (De) WERT Jacob (1580) . Di Giachcs de Wert il Quinto iLbro de

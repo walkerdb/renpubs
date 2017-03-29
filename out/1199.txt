@@ -5,7 +5,6 @@ A 5. Ollimè il bel viso, oliimè'l soave sguardo (Petrarca) 15
 " " Ballo qui pianse. Ergasto, ecco la riva. Concert:..." " 18
 A 7. Presso un fiume tranquillo disse a Filena. Dialogo " 20
 I-Bc: compl.
-
 B-Br: C.A.T.B.Bc.
 
 1933 - MONTEVERDI Claudio (1615) - Il Sesto Libro de Madrigali a cinque
@@ -35,7 +34,6 @@ I-Rc: C.B.5.
 D-Hs: C.B.S.
 D-Bds: ABC.
 F-Pn: C
-
 I-FEC: Bc.
 
 1935 - MONTEVERDI Claudio (1639) - Di Claudio Monteverde maestro della

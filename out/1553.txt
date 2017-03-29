@@ -29,15 +29,13 @@ D-Mbs: compl.
 I-Be: C.A.T.B.
 S-Uu: C.A.T.5.
 I-Nn: A.
-
 B-Br: A.
-
 F-Pc: T.
 
 F*PM: 5.
 
 2.493 - RUFFO Vincenzo (1559) - Armonia celeste di vinticinque Madrigali a
-c"Ique voci, pieni d'ogni dolcezza et soavità musicale: composti con dotta arte, ct
+c"Ique voci, pieni d'ogni dolcezza et soavità musicale: composti con dotta arte, et
 reservato ordine da l'eccel. musico Vincentio. Ruffo, et novamente coretta: et ristampata.
 In Vinegia, appresso Girolamo Scotto. 1559.
 

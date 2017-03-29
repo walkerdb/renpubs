@@ -20,19 +20,13 @@ Bellezza che nel cor m'ha post'il foco. D'incerto 30
 Che cos'al mondo mai saria più bella. D'incerto
 
 I-Bc: compl.
-
 A-Wn: compl.
-
 D-Mbs: compl.
-
 GB-Lbm: C.
-
 I-Vnm: B.
 
 'GB-Cu: B.
-
 US-BE: B.
-
 RISM, I 1570-31 (non compl.).
 
 2279 - PRIULI Giovanni (1625) .. Delicxe musicali di Giovanni Prioli maestro
@@ -56,8 +50,8 @@ la sopradetta dichiaratione... ".
 A L Sospiretto te ne vai, col desio mirerai. 2 Soprani 2
 " " Deh s'appress'il sereno (seconda parte sopra la terza stanza)
 
-" " Caro sguardo, che ripieno di sereno 2 Tcnori (Chiabrera) 4
-" " Quando l'alba in oriente l'almo sol. 2 Tcnori "
+" " Caro sguardo, che ripieno di sereno 2 Tenori (Chiabrera) 4
+" " Quando l'alba in oriente l'almo sol. 2 Tenori "
 
 " " Per la via gir se ne godono (seconda parte). 2 Tenori " 5
 " " Chi può mirarvi e non lodarvi, fonti del mio martiro? Sopr. e B. " 6

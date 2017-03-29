@@ -9,9 +9,7 @@ I-Bc: C.
 F Pc: T.
 
 I-Vnm: B.
-
 D-Z: B.
-
 RISM, I 1575-14.
 
 2234 - POLICRETI Giuseppe (1571) - Il Primo Libro delle Napolitane a tre
@@ -50,13 +48,9 @@ A 4. O bocca saporita, tu mi dai morte e vita z
 " " Così piangendo ahimè ogn'hora lasso (quinta parte) "
 " " Piangerò dunque insin al suo ritorno (sesta parte) '
 I-Bc: compl.
-
 A-Wn: compl.
-
 GB-Lbm: C.
-
 F-Pc: T.
-
 I-Vnm: B. (mutilo da pag. 16).
 RISM, I 1571-9.
 

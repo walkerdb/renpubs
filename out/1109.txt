@@ -11,19 +11,12 @@ Eccettuati li segnati '" tutti sono con due soprani.
 I-Rc (Baini): compl.
 I-Rvat (Barberini): compl.
 D-VHl: compl.
-
 I-Ls: C.A.T.B.5.
-
 PL-WRu: C.A.T.B.5.
-
 I-A: Partitura
-
 I-Bc: Partitura
-
 I-Nf: Partitura
-
 B-Br: Partitura
-
 D-Mbs: Partitura
 GB-Lbm: Partitura
 GB-Lcm: Partitura

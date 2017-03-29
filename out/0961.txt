@@ -1,11 +1,8 @@
 l-Fc: compl.
 
 D-Mbs: compl.
-
 I-Vnm: C.T.B.
-
 F-Pc: C.
-
 I-Lg: B. (manc. di pag. 2-5).
 
 1521 - LUPACCHlNO Bernardo (1547) . Lupacchino a cinque. Il Primo Libro
@@ -36,7 +33,7 @@ Son certo che la rca a ognun direbbe 14
 Un sonar di bicchier 15
 Nymplte, che d'Arno in sulle spond'herbose 10
 E s'un tempo fortuna empia s'oppose 17
-Bianca ncv'è il bel collo, il petto latte (Ariosto) 18
+Bianca nev'è il bel collo, il petto latte (Ariosto) 18
 Madonna, io rido e camo però ch'io piansi (Cassola) 19
 Hor provo ben che più che ver'è il detto ZÛ
 Lasso, perchè non fui come tu cieco, spietato amor (Cassola) 21
@@ -56,8 +53,6 @@ D-LUh: compl.
 D-Mbs: compl.
 GB-Lbm: C.A.B.5.
 F-CC: C.
-
 I-Bc: T.
-
 I-MOe: B.
 

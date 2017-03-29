@@ -17,12 +17,9 @@ Giovanni Gabrieli - Da quei begl'occhi, ove m'accese il foco 24
 
 I-Vnm: compl. (prov. Heyer).
 B-Br: compl.
-
 F-Pn (prov. Thibault): compl.
 YU-sz: A.S.
-
 I-VEaf : A.
-
 I-Vc (Torrefranca): T.
 
 RISM, I 1589-14 (non compl.).
@@ -51,10 +48,7 @@ Mio pensier. raffrena i vanni che risolver ancor non so [33
 Deh piega, o mia cara, tuoi splendidi guardi
 
 I-Bc
-
 A-Wn
-
 GB-Lcm
-
-D-MÜs (difcttoso).
+D-MÜs (difettoso).
 

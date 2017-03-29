@@ -23,9 +23,7 @@ Felici amanti, hor convertite il pianto in festa, in riso (M. Moro) 19
 Quanto più miro la tua gran bellezza, ch'hoggi nel mond'ogn'altra bella 20
 Quante son stell'in ciel, o in mar arene, lante son le mie pene 21
 F-Pc: compl.
-
 I-Bc: T.B.
-
 PL-GD: T.E.
 
 31.6 - BELLI Giulio (1586) - Canzonette di Giulio Belli da Longiano. Libro
@@ -34,7 +32,6 @@ Francesco, et gli heredi di Simon Tini. 1586.
 
 4 fasc. in 8° (C.A.T.B.), pag. 21,(1). Sonetto e Indice = 1584.
 I-Bc: compl.
-
 I-FOc : compl.
 NL-AT : T.
 

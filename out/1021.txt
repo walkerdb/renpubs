@@ -23,7 +23,6 @@ Vincenti. 1589.
 A-Wn: compl.
 I-Fn: A 5
 I-ST: C.
-
 I-Bc: 5.
 
 Un esempl. compl. (con T. difettoso) em nella Collezione Heyer di Këln.
@@ -36,20 +35,13 @@ Gardano. 1594.
 5 fasc. in 8° (C.A.T.B.5.), pag. 21,(1). 1ndice = 1584 .
 
 I-Bc: compl.
-
 B-Br: compl.
-
 D-As: compl.
-
 F-Pc: compl.
-
 GB-Lbm: C.A.T.5.
-
 I-Sac: C.
-
 D-Rp: C- (prov. Haberl).
 NL-DHgm: A.
-
 I-Sd: T.
 
 Il N. 1620 è annullato.

@@ -5,9 +5,7 @@ Pour mesloygner et changer de contree 39
 A-Wn: compl.
 
 [JS-R: compl.
-
 I-Bc: C.A.5.
-
 F-Pc: T.
 
 1-.\lAc: 5.
@@ -15,7 +13,7 @@ F-Pc: T.
 L'n cwmpl. cumpl. wish.-vn nella Collezione Heyer (li Koln.
 
 2665 - STRIGGIO Alessandro (1571) - 1] Secondo Libro de Madregali a cinque
-voci, di M. Alessandro Striggio gentil'huomo mantovano. Con privilegio. ln
+voci, di M. Alessandro Striggio gentil'huomo mantovano. Con privilegio. In
 Vinegia, appresso Girolamo Scotto, 1571.
 
 5 ſnsc. in 8" (C./\.T.B.5.), pag. 39,(1). Indice = 1570.
@@ -40,13 +38,9 @@ Appresso l'herede di Girolamo Scotto. 1579.
 5 fasc. in 8° (C..-\.T.B.5.), pag. 39,(1). Indice = 1570.
 
 D-Kl: compl.
-
 I-Vnm: C.T.B.5.
-
 E-V: C.T.B.5.
-
 D-Rp: T. (prov. Haberl).
 D-Mbs: B.
-
 US-NYp: 5.
 

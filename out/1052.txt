@@ -1,9 +1,7 @@
 Donna, ſuggir vorrei 21
 Amanti, voi ch'amore in preggio havele 11
 A-Wn: compl.
-
 GB-Lbm: C.
-
 I-Bc: B.
 
 1695 - MARENZIO Luca (1587) - Il Terzo Libro delle Villanelle a tre voci.
@@ -35,23 +33,14 @@ Voi sele la mia stella, voi, voi, Filli mia bella. Però s'amor m'ancide 25
 Io ardo e se l'ardore non mi consuma il core 26
 Ad una fresca riva guidommi amor, dov'era la mia diva 28
 D-Mbs: compl.
-
 GB-Lbm: C.T.
-
 I-Bc: G.B.
-
 I-BGc: C
-
 B-Br: C
-
 E-Mn: C
-
 GB-Ckc C
-
 I-Rsc: T
-
 F-Pmeyer: B.
-
 I-BRq: B.
 
 1696 - MARENZIO Luca (1592) - Il Terzo Libro delle Villanelle a tre voti,

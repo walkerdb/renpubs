@@ -31,9 +31,7 @@ A 6. La bella vostra immagine (seconda parte) 73
 A 4. O voi che sete liberi 24
 A 8. Ferma, ferma, Caronte. Chi è costui che grida. Dialogo 25
 I-Ls: compl.
-
 I-MOe' compl
-
 D-Mbs compl
 
 2529 - SABINO Ippolito (1585) - Di Hippolito Sabino il Quarto Libro de
@@ -42,7 +40,7 @@ In luce. In Venetia presso Giacomo Vincenzi, et Ricciardo Amadino, compagni.
 
 1585.
 
-6 fase, in 8° (C.A.T.B.5.6.), pag. 21,(1). Ded. a Gio. Geronimo Carrara, Baron della Rocca
+6 fasc. in 8° (C.A.T.B.5.6.), pag. 21,(1). Ded. a Gio. Geronimo Carrara, Baron della Rocca
 Sultana, Lanciano, 15 IV 1535.
 
 A 4- Lasso ch'io piango e'l mio gran duo! (Bembo) 1

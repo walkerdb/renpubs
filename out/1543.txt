@@ -23,7 +23,7 @@ Dc cocenti sospir l'aria accendea (Ariosto) 22
 Consumando mi vo per pogg'e valli 25
 Corrò la fresca e matutina rosa, che tardando stagion (Ariosto) 24
 Se'l sol si scosm e lascia i giorni brevi " 25
-Che puoi lu farm'amore, s'in me non è più'] core 26
+Che puoi lu farm'amore, s'in me non è più'l core 26
 Giovene donna sott'un verde lauro (Petrarca) 27
 
 Ma perchè vola il tempo e fuggon gl'anni (seconda parte) " 27
@@ -31,12 +31,10 @@ I" Picciol tempo passa ogni gran pioggia " 23
 Ma de chi debbo lamentarmi, ahi lassa (AſîOStO) 29
 Io son qual sempre fui, tal esser voglio " 30
 I-Fn: compl.
-
 YU-MAs: compl.
 F-Pmeycr: C.T.
 GB-Lbm: C.
 I-Tn: T,
-
 I-Bc: B
 
 2476 - RUFFO Vincenzo (1556-1) - Di Vincenzo Ruffo il Primo Libro di Madregali
@@ -44,5 +42,5 @@ cromatici a quatro voci con la gionta di alquanti Madrigali del medesimo
 autore novamente con ogni diligentia ristampato et corretto. A quatro voci. In
 Venetia apresso di Antonio Gardano. 1556.
 
-4 fase, in 8° obl. (C.A.T.B.), pag. 30,(1). Indice = 1552.
+4 fasc. in 8° obl. (C.A.T.B.), pag. 30,(1). Indice = 1552.
 

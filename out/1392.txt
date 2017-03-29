@@ -4,11 +4,8 @@ A 7. Che ſat'hor qui, ninfe leggiadre. Dialogo 26
 " " Vaghe, leggiadr'e belle ninfe. Dialogo 27
 A 8. O passi sparsi, o pensier vaghi e pronti. Dialogo (Petrarca) 28
 I-VEaf : compl.
-
 F-Pc: T.
-
 I-Lg: S.
-
 RISM, I 1560-20.
 
 2254 - PORTINARO Francesco (1568) - Le Vergini di Francesco Portinaro a
@@ -46,10 +43,7 @@ A 6. Vergine bella, che di sol vestita, coronata di stelle (Petrarca) 11
 A 7. Che faret'occhi miei poi ch'io non spero che riveder possiat'il viso
 
 A-Wn: compl.
-
 D-Mbs: compl.
-
 GB-Lbm: B.5.
-
 I-Bc: B.
 

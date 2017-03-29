@@ -18,7 +18,6 @@ A 4. Rivestasi la terra di fresch'herbett'e fiori 18
 " " Candida perla, ch'in fin oro accolla, togli il più ricco 19
 " " Le tue dolci parole, che son rose e viole 20
 I-Bc: compl.
-
 PL-GD: compl.
 
 714 - DEL MEL Rinaldo (1596) - Madrigaletti a tre voci di Rinaldo Del Mel

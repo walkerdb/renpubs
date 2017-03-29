@@ -1,12 +1,12 @@
 Desio, perchè mi memi a dir con dolorosi 22
 Donna, quando pietosa ver me gli occhi volgete 23
-Non prima l'aurora nel lucido oriente innanti al snle 24
+Non prima l'aurora nel lucido oriente innanti al sole 24
 Da sì felice sorte vien mia felice morte 25
 Alma mia luce pura, chi mi t'invol'ohimè 26
 Se'l volto, donna, di morte dipinto sì fà sol per voi lieto 27
 Amor, la tua virtute non è del mondo et da la gente intesa (Bembo) 28
-D-Mbs: compl.
 
+D-Mbs: compl.
 I-Vnm: A.T.B.
 I-Bc: B.
 
@@ -34,25 +34,21 @@ Del più leggiadro viso, che vedut'habbia, o vedrà'l sol 14
 Hor vedete, madonna 15
 Quanto dolc'è'l conforto dell'alma vista 16
 Viva nel pensier vostro il bel desio 17
-IÎïon so per qual cagion l'alma mia donna (di Corteccia) 18
-dc. per amor vostra beltà infinita, il mio duol (Cassola) 19
+Non so per qual cagion l'alma mia donna (di Corteccia) 18
+Se per amor vostra beltà infinita, il mio duol (Cassola) 19
 S'io pensasse che morte un tal dolor ne desse 20
 Lasso, dove son io? Ohimè che vuol dir questo (di Corteccia) 21
 Deh sarà mai, spiriti miei, già lasso che l'affanato cor 22
-Vox non m'amat'et io pur troppo v'amo 23
-Io son-de l'aspettar homai sì vinto Di Fr. Law/[" (Petrarca) 24
+Voi non m'amat'et io pur troppo v'amo 23
+Io son de l'aspettar homai sì vinto (Di Fr. Layolle) (Petrarca) 24
 Puro ciel Phyllid'è quella tua fronte 25
-Donna, .quando pietosa ver me gli occhi volgete 26
+Donna, quando pietosa ver me gli occhi volgete 26
 Non prima l'aurora nel lucido oriente innanti al sole 27
-Dcsno, perchè mi meni" :\ dir con dolorosi 28
+Desio, perchè mi meni a dir con dolorosi 28
 Alma mia luce pura, chi mi t'invol'ohimè 29
-Da Sl felice sorte vien mia felice morte 30
-ic": vollto, donna, di morte dipinto si fà sol per voi lieto 31
+Da sì felice sorte vien mia felice morte 30
+Se'l volto, donna, di morte dipinto si fà sol per voi lieto 31
+Amor, a tua virtute non è dal mondo et da la gente. (Di Fr. Layolle) (Bembo) 32
 
-or, a tua vxrtute non è dal mondo et da la gente. Di Ff- Law/lf (Bembo) 32
 A-Wn: compl.
-
 GB-Lbm : compl.
-
-. -93
-

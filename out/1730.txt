@@ -7,7 +7,6 @@ A 4. Quest'io de l'ambra odori
 " " Ch'Astrea la palma ha in voi e amor più F.do
 
 I-Bc
-
 I-Rsc
 F-Pthibault
 GB-Lbm
@@ -50,9 +49,7 @@ A 3." Asciso m'ero all'ombra (le bei faggi e languendo narravo 1
 A 6. O ben felice et fortunato giorno (terza parte)
 
 I-Bc: compl.
-
 D-M'bs: compl.
-
 GB-Cu: B.
 
 -I720-
