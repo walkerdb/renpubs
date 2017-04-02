@@ -3,22 +3,40 @@ from pprint import pprint
 
 import re
 
+from nvdomain import Header
+
 
 def main(start, end):
     texts = extract_texts(end, start)
 
     publications = re.split(r"\n\n\n\n+", texts)
     for publication in publications:
-        title, meta, works, locations = extract_sections(publication)
+        _header, meta, works, locations = extract_sections(publication)
+        # print(_header)
 
-        title = title.replace("\n", " ")
+        header = Header(_header)
 
-        number, composer, title = re.match(r"(\d{1,4}(?: bis)?) -? ?(.*?\)) (.*)", title).groups()
-        title = title.strip("- ")
-        try:
-            print(title)
-        except AttributeError as e:
-            print(title)
+        print(header.composers[0])
+
+        # normalize composer name
+
+        # parse metadata string
+        # parse works string
+        # parse locations string
+
+
+
+def process_title_data(title):
+    number, composer, title = re.match(r"(\d{1,4}(?: bis)?) -? ?(.*?\)) (.*)", title).groups()
+
+    title = title.strip("- ")
+
+    year_string, year = re.findall(r"(\((\d{4}).*\))", composer)[0]
+    composer = composer.replace(year_string, "").strip()
+
+    print(composer)
+
+    return number, composer, title
 
 
 def extract_sections(publication):
@@ -33,6 +51,8 @@ def extract_sections(publication):
 
     else:
         pass
+
+    title = title.replace("\n", " ")
 
     return title, meta, works, locations
 
