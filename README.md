@@ -2,7 +2,7 @@ A repository for semi-structured representations of renaissance music publicatio
 
 The current project largely follows the Nuovo Vogel bibliography. Once enough data has been collected, the plan is to transform this metadata into a more common and formal data structure. Things are a bit ugly at the moment, mostly due to the fact that we are beholden to the original NV bibliography formatting.
 
-##Reading the files
+## Reading the files
 Each file consists of four primary parts:
 
 1. __NV number + frontispiece text__: The Nuovo Vogel numerical designation and a transcription of the frontispiece
@@ -10,7 +10,7 @@ Each file consists of four primary parts:
 3. __Works table__: A structured (tab-delineated) listing of each work in the publication, including text authors if known
 4. __Holding institutions__: A listing of institutions known to hold copies of the publication, including which specific parts are in their collection
 
-###Reading the works table
+### Reading the works table
 For every work in the works list there are 6 data points, in tsv format. If doing anything programmatic with table data, be sure to strip whitespace from the ends of all data points, since tables are visually formatted with empty spaces. Completely empty data-points are delineated with a ```-``` character.
 
 The headings:
