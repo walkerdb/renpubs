@@ -17,7 +17,7 @@ I-Bc: compl.
 D-As: compl.
 lT-Pc: compl.
 Pl.-GD: compl.
-I-de: C.A.1l.
+I-de: C.A.11.
 I-Sd: C.T.
 GB-Lbm: A.
 I-Fc: 5.

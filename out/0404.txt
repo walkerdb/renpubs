@@ -6,7 +6,7 @@ A 2. Voi meco vi dolete che poco v'ami e che poca mercede. C. e T.
 ))
 
 " " Poichè l'alma n'è gita con lei, che le dà vita. C. e T.
-A 3. Potess'io pur, nova farfalla amante, appressarm'al bel foco. B. e Z T.
+A 3. Potess'io pur, nova farfalla amante, appressarm'al bel foco. B. e 2 T.
 
 " " Moro per te, mio bene, ma tu creder nol dei. B e 2 T. 11
 " " Arsi, mentre fedele a me fost'e costante, anch'io verace amante. B. e 2 T. - 13
@@ -49,7 +49,7 @@ USSR-Lsc : A.T.B.5.
 
 
 
-598 - COMA Annibale (1588) - Di Annibale Coma. 11 Secondo Libro de Maiſ];
+598 - COMA Annibale (1588) - Di Annibale Coma. Il Secondo Libro de Maiſ];
 
 gali, a quattro voci. Novamente composti, et dati in luce. In Venetia presso Glaco
 

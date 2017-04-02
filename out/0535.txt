@@ -53,7 +53,7 @@ n " Hor che di vaghi fiori cinta ride la terra 11
 " " In negro manto int-olta mostra di ſuor quel che nel sen 12
 " " Sospir nato di foco, \"attenc alla mia donna 13
 n " Vorrei che'l mio martire fosse meno o più forte 14
-" " Ape ingegnosa, amore l1 nettare più puro invola e sugge 15
+" " Ape ingegnosa, amore Il nettare più puro invola e sugge 15
 u " Occhî, vita del core, che per quest'occh'intrate ]6
 " " Più non duolmi il mio duol, tanto m'addoglia [7
 

@@ -11,10 +11,10 @@ A 5. O che nuovo miracolo. ecco ch'in terra. Ballo di Emilio de' Cavalieri " 37
 [(Laura Lucchesini Guidiccioni) 37
 
 A-Wn: compl.
-I-Fn: 5.6.8.1l. (5. e 6. manc. di pag. 9-10 e mutili da pag. 15).
+I-Fn: 5.6.8.11. (5. e 6. manc. di pag. 9-10 e mutili da pag. 15).
 GB-Ckc: C.
 RISM, I 1591-7 (non compl. ed errato per l-Fn).
-Sartori 159la e Il 1591a.
+Sartori 1591a e Il 1591a.
 
 1556 .. MALVEZZI Cristofano (1583) - Di M. Christofano Malvezzi da Lucca
 maestro di capella, del serenissima gran duca di Toscana il Primo Libro delli

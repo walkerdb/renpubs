@@ -1,6 +1,6 @@
 A 2. No, ch'io tornar non voglio, lusinghiera bellaza, al primo ardore. 2 T. 2
 
-" " Vè Filli, non vorrei che dessi fede a Tirsi, ch'altrui dice. Z T. 4
+" " Vè Filli, non vorrei che dessi fede a Tirsi, ch'altrui dice. 2 T. 4
 " " Io dissi al cor, perchè il tuo chiuso affetto non osi. 2 T. (Marino) 6
 " " Ardite baci miei, baci assalite questa bocca ritrosa. 2 T. (Leoni) 7
 " " Dietro al poggio, colà tra folti allori, mi desti, hoggi fà l'anno. 2 T. 8
@@ -29,9 +29,9 @@ A 4. Quel volto ch'io sospiro, quel bel volto che sa. C., 2 T. e B. 27
 " " lo mi credevo, amanti, quand'un leggiadro viso m'aprì. C., 2 T. e B. 31
 " " Questi ben si che sono i sacttati arcieri. C.A.T.B. 32
 A 5. Vanne, mesto sospir, nuncio d'amore, alla fera cagion. 2 C., 2 T. e B. 33
-" " Spuntava l'alba e'l ruggiadoso crine già la stella. Z C.A.T.B. (Marino) 34
-" " Chi può contar le stelle e le minute arene raconti. Z C.A.T.B. 35
-" " Mentre Fillide ingrata qual cervetta fuggiva. Z C.A.T.B. 36
+" " Spuntava l'alba e'l ruggiadoso crine già la stella. 2 C.A.T.B. (Marino) 34
+" " Chi può contar le stelle e le minute arene raconti. 2 C.A.T.B. 35
+" " Mentre Fillide ingrata qual cervetta fuggiva. 2 C.A.T.B. 36
 
 D-Bds: compl.
 I-Bc: A.

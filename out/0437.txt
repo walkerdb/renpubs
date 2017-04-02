@@ -1,7 +1,7 @@
 bed.: "...la mia rozza penna... hà abbozzato questi Musicali componimenti, quali chiamar
 potrei... parti di ciò che apparai da voi, quando io \'i fui Maestro... Venetia, 15 V1 1640 ".
 
-AZ. Ch'io volga mai più gl'oechi a quella ingrata. Z T. 3
+AZ. Ch'io volga mai più gl'oechi a quella ingrata. 2 T. 3
 " " La mia donna è sì bella e sì gentile che al suo leggiadro viso. 2 T. 4
 " " Miserabil mio core, chi t'ha converso in fiume. Dialogo C. e T. 5
 " " O tu che vinci l'alba e l'alba sei, hor ch'a me lieta. 2 T. (Rinaldi) 6
@@ -9,7 +9,7 @@ AZ. Ch'io volga mai più gl'oechi a quella ingrata. Z T. 3
 
 " " Poichè'l mio sol di cui sul sole un'ombra è fatto. 2 T. 8
 " " Dolcissimo sospiro, ch'esci da quella bocca. 2 C. (Rinuccini) 9
-" " Voi gradite il mio amor, caro amor mio, il dolor mio credete. Z T. lU
+" " Voi gradite il mio amor, caro amor mio, il dolor mio credete. 2 T. lU
 " " Vivo mio sol, tu giri le luci e non mi miri. 2 T. (Marino) 11
 A 3. Chi vuol vincer amore, ſuggalo, scaccilo, mandilo via. 2 T. e B. 13
 " " Lusinghiero sospiro, ch'esci dal petto a la mia cruda. Alla spagnuola. 2 T. e B. 14
@@ -18,7 +18,7 @@ A 3. Chi vuol vincer amore, ſuggalo, scaccilo, mandilo via. 2 T. e B. 13
 " " Feritevi, ferite, viperette mordaci, dolci guerriere. 3 T. (Marino) 18
 " " Piaggie del ciel serene, ridete pur ridete. 3 T. 19
 " " Non è di gentil core chi non arde d'amore. 2 T. e B. (Degli Atti) 20
-" " Con l'armi di due lumi altieri e vaghi amorosa guerriera. Z T. e B. 21
+" " Con l'armi di due lumi altieri e vaghi amorosa guerriera. 2 T. e B. 21
 " " Non è questa la mano, che tant'e sè mortali. 2 T e B. (Tasso) 22
 " " Chi vuol haver lieto e felice il core, non segua il crudo. A.T.B. (Guarini) B
 A 4. Non è sì bello il cielo, Filli, quand'è sereno. C.A.T.B. 25
@@ -30,7 +30,7 @@ I-Be: compl.
 F'Psg: compl.
 GB-Ob: compl
 
-6f15 - COSTA Giovan Paolo (1613) - 11 Primo Libro di Madrigali a quattro voci
+6f15 - COSTA Giovan Paolo (1613) - Il Primo Libro di Madrigali a quattro voci
 
 lGlo. Paolo Costa genovese novamente composti, et dati in luce. In Venetia,
 
