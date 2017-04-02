@@ -48,7 +48,7 @@ I-VEaf: C.T.B.5.6.7.
 
 1-Tn: A 5.
 
-I-Vnm. T.E.
+I-Vnm. T.B.
 I-PAc: C.
 I-Vlb: C.
 E-Mn: C.

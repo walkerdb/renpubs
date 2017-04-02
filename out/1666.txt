@@ -20,7 +20,7 @@ gionta ristampato. In Vinegia 1566. Appresso Girolamo Scotto.
 D-Mbs: compl.
 I-Vnm: C.T.B.5.
 I-Bc: C.A.
-GB-Lbm: T.E.
+GB-Lbm: T.B.
 I-\'e (anrefmnen): A.
 
 I-Tn: 5.

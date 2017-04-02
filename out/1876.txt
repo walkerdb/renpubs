@@ -8,7 +8,7 @@ I-PS: A. (solo c. 1-4).
 
 2997 - WILLAERT Adriano - SILVESTRINO Francesco - CORTECCIA Francesco
 (1545) - Canzone villanesche alla napolitana di M. Adriano Wigliaret (ric)
-a quatro voci con la Canzona di Ruzante. Con la gìonta di alcune altre Canzone
+a quatro voci con la Canzona di Ruzante. Con la gionta di alcune altre Canzone
 villanesche alla napolitana di Francesco Silvestrino ditto Chechin et di Francesco
 Corteccia novamente stampate con le soc stanze. Primi Libro. A quatro voci.
 Venetiis apud Antonium Gardane. 1545.
@@ -17,7 +17,7 @@ Venetiis apud Antonium Gardane. 1545.
 
 Sempre mi ride sta donna da bene, quando passeggio per mezo sta vin 1
 O dolce vita mia, che t'haggio fatto, che mi minacc'ogn'or. Canzone di Ruzante 2
-Madonn'io non lo so perchè lo fai, che me ti moslr'in tutto 3
+Madonn'io non lo so perchè lo fai, che me ti mostr'in tutto 3
 Cngari simo, venit'a giocare, donne, alla cariolla de bon core 4
 Vecchie letrme, non valete niente, se non a far l'aguaito 5
 Madonna mia, famme bnn'offerla, ch'io porto per presente sto galuccio 6
@@ -38,6 +38,10 @@ D-Mbs: compl.
 D-W: compl.
 A-Wn: T.
 RISM, I 1545-20.
+
+
+
+
 
 2997 bis - WILLAERT Adriano (1548-1) - Canzon villanesche 'alla napolitatlla
 di messer Adriano a quattro voci con la Canzon di Ruzante. Libro Primo. fl

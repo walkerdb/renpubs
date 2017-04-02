@@ -4,7 +4,7 @@ A 5. Deh sorgi fuor dell'onde, o sol che col bel raggio 9
 " " All'hor ch'ai fieri Sciti e alle gelate brine l'empia stagion 11
 " " Rosa felice, aventurosamente uscita fuor della nativa spina 12
 " " Deh Giove, fammi a lei tanto simile (seconda parte) 13
-" " O quant'csser mi dei gradit'e caro, mentre ch'io vivo 14
+" " O quant'esser mi dei gradit'e caro, mentre ch'io vivo 14
 " " Poi che per te della mia donna vidi (seconda parte) 14
 " " Occhi miei cari amati, da cui l'esempio tolse 15
 " " Occhi, per cui mi sfaccio, occhi gradito nido 16
@@ -44,7 +44,7 @@ A 4. Poi ch'al mio gran desio forza non mi diè. A Rachele Malvasia de Dorimberg
 
 " " Volesse il ciel 13
 Z'; gent: il desio .s'appaga delle vostre bellezz'unico sole 14
-" "- cncTè ad aprir con lei la bell'aurora 15
+" "- encTè ad aprir con lei la bell'aurora 15
 " " Sì dOIOSto dal sonno desta la mia (seconda parte) - 15
 " " Ciò chîîlnî'è languu-c, amor, ch'io sento Di Giovan Battista Mosto 16
 " " ago, il Patollo e l'Indo e'l Gange 17

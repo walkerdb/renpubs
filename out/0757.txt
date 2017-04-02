@@ -45,7 +45,7 @@ Libro de Madrigali del serenissimo don Carlo Gesualdo principe di Venosa, havuto
 
 GB-Ge: compl.
 D-Mbs: A.T.B.5.
-US-SFsc (Dc Bellis): C5.
+US-SFsc (De Bellis): C5.
 I-Fn: T5.
 I-Rsc: C.
 US-CA: T.

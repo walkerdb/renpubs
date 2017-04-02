@@ -16,7 +16,7 @@ A 6. Felice Margherita 7
 " " Miserabil scelta fu (seconda parte) 10
 " " Cantiam, ninfe 11
 " " Torbido pianto (seconda stanza) 12
-" " Ride'l tcrren giocoso (terza stanza) 13
+" " Ride'l terren giocoso (terza stanza) 13
 " " Ogni pastor gemendo (quarta Stanza) 14
 " " Hoggi la terra (quinta stanza) 15
 A 7. Ovunque gira (sesta stanza) 16

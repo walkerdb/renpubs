@@ -1,5 +1,4 @@
 A 7. Ferma il passo, o verginella, ferma, ferma, Dafni. Sopra il pasacaglio 40
-
 A 8. Non bastava, cor mio, haver co guardi tuoi. Passo mezo 42
 " " O celeste armonia, che l'orecchio ferendo 42
 " " Sonata 43
@@ -15,11 +14,15 @@ PL-WRu: C.A.B.5.6.Bc.
 GB-Lbm: C.B.5.6.Gc.
 Sartori 1635b e II 1635b.
 
-171 -- ARTUSI Giovan Mario (1598) - Canzonette a quattro voci di Gio. Mario
-Artusr da Bologna. Novamente composte, et date in luce. Libro Primo. In Venetia,
+
+
+
+
+171 - ARTUSI Giovan Mario (1598) - Canzonette a quattro voci di Gio. Mario
+Artusi da Bologna. Novamente composte, et date in luce. Libro Primo. In Venetia,
 appresso Giacomo Vincenti. 1598.
 
-4fasc. in 8° (C.A.T.B.), pag. 21,(1). Ded. a Giulio Casscri piacentino: "...dovendo io a instantia
+4 fasc. in 8° (C.A.T.B.), pag. 21,(1). Ded. a Giulio Casscri piacentino: "...dovendo io a instantia
 di molti Amici, dare alle stampe queste Canzonette... Venetia, 20 III 1598".
 
 Gitene, canzonette, al mio gentil signore 1
@@ -37,15 +40,13 @@ In queste amate sponde al mormorar dell'onde 12
 Donna, da tuoi bei sguardi escon facelle e dardi 13
 Donna, che l'alm'e'l core m'incendi a tutte l'hore 14
 Vaghe ninfe e pastori, ch'i vostri ardenti amori 15
-gli; nci]; donn'altiera, ch'arnor mi .mostr'in sogn'a ciò non pera 16
-Se , ce mia Vita, brarni sol ch'io da te facci partita 17
-per te rnoro, Aminta, Filli dicea, da grave duol sospinta 18
-Qual vermiglietta aurora, ch'il suo bel crin 1
-Hor ch'i fior odorati destan i colli e i prati lg
+Questa mia donn'altiera, ch'arnor mi mostr'in sogn'a ciò non pera 16
+Se pur, dolce mia vita, brami sol ch'io da te facci partita 17
+Se per te moro, Aminta, Filli dicea, da grave duol sospinta 18
+Qual vermiglietta aurora, ch'il suo bel crin 19
+Hor ch'i fior odorati destan i colli e i prati 20
 
-Le sue '
-anci - - . . .
-gu ° vezzase, amor, di blanch'e di vermiglie rose 21
+Le sue guancie vezzose, amor, di bianch'e di vermiglie rose 21
 
 I-Bc: compl.
 I-Bsp: compl.

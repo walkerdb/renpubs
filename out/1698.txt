@@ -16,7 +16,7 @@ A 4. D'un fidelle paloureau .10
 " " Maisons nous paslourelle 31
 A 5. Enfin Borée ayant quitté sa place 32
 A 4. Dances devant ces beaux yueux 33
-" " Soubs quel aslre suy-je ne'e 34
+" " Soubs quel astre suy-je ne'e 34
 " " Si vous voulez que je porte 35
 " " Ce lieu veut que tu te suubmette 36
 A 5. Quitte maintenant tous ces bois 37
@@ -47,7 +47,7 @@ court, tant en francois qu'en italien et en gascon à 4. et 5. parties: mis en r
 par le sieur Charles Tessier, musicien de la chambre du roy. Londres par
 
 Este. 1597.
-4 fasc. in 8° (Superius. Contratenor, T.E.), pag. 35,(1).
+4 fasc. in 8° (Superius. Contratenor, T.B.), pag. 35,(1).
 A 5. Ces beaux yeux atrayans z
 
 " " Tu emporleras donc (deuxième partie)

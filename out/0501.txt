@@ -23,7 +23,7 @@ Madrigali, a cinque voci. In Vinegia, appresso Girolamo e .
 I-de: compl.
 I-SPd: A.T.B.5.
 I-Bc: C.A.5.
-GB-Lbm: C. (dif-m.) T.E.
+GB-Lbm: C. (dif-m.) T.B.
 I-Rsc: B
 
 . ' - di Kòln.

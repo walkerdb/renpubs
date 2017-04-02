@@ -20,12 +20,12 @@ A 5. lo vo cercando et non posso trovare quell'unico mio ben. Napolttana 21
 " " Qucfla passion d'amore quanti n'atterra con la sua gelosia 22
 " " Viver non posso senza il mio bel sole, così mia sorte vole B
 " " Chi cerca navigar per alto mare, desia haver tempo 24
-" " Credeva che la fiamma si stufassc, stando lontan da te 25
+" " Credeva che la fiamma si stufasse, stando lontan da te 25
 " " Gratia, virtù, bellezza e leggiaſlria son in la donna mia 26
 
 I-Rsc: compl.
 A-Wn: C.T.S.
-PL-GD: T.E.S.
+PL-GD: T.B.S.
 
 ] N- 522-524 sono annullati.
 
@@ -43,7 +43,7 @@ Giacomo Vincenzi, et Ricciardo Amadino, compagni, 1585.
 
 efil'im: favore appresso il molto Reverendo Capitolo di questa Cathedralc... Bologna, 20 XII 1584 ",
 Amor, se vuoi ch'io torni al giogo antico, s'aprirmi il petto (Tansillo) 1
-SC Stimi sì gran preggìo (seconda parte) " 2
+SC Stimi sì gran preggio (seconda parte) " 2
 Seguimi pur nel mondo (terza parte) " 3
 
 Ma s'invido del bel (quarta parte) " 4

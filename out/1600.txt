@@ -14,7 +14,7 @@ A 5. Em Tirsi alle man con la sua Clori e congiurati havean l'aspro martire 1
 " " Non fu senza vendetta il mio furto soave, però non vi sia grave " 8
 " " Parto e porto partendo l'imagin vostra bella entr'al mio core. Di Gio. Florio 9
 " " Arsi un tempo ed amai e di che fiamma (Guarini) 10
-" " Amor per suo diletto volò nel dolce seno, ov'ìo venuto son più volte meno 11
+" " Amor per suo diletto volò nel dolce seno, ov'io venuto son più volte meno 11
 " " Ardo sî, ma non t'amo, perfida e dispietata, indegnamente amata (Guarini) 12
 
 " " Ecco due gran guerriere andarsi a paro d'amor contemplo. A Hippolita et figlie
@@ -31,6 +31,10 @@ A 9. Arsi già solo e non sostenni il foco. Hor che nel vostr'avampo (Guarini) 2
 A-Wn: C.B.
 I-Fm: 5.
 RISM, I 1600-16.
+
+
+
+
 
 2565 - SAVIONI Mario (1660) - Concerti morali, e spirituali, a tre voci. different!Di
 Mario Savioni musico della Cappella Pontificia. Dedicati all'emmentiss. e rclv:

@@ -8,7 +8,7 @@ Col seno pien di rose et di viole. Di ]oan Confina 16
 ]] capo levi sotto l'ond'ascoso (seconda parte) 17
 Chi desia di veder pietos'e fiero. (di Per/'non:) 18
 O leggiadre amorose et care doglie (seconda parte) 19
-Vai mi dite madonna ch'i' non \"apprczzo più. Di ]oan Comino 20
+Vai mi dite madonna ch'i' non \"apprezzo più. Di ]oan Comino 20
 Madonna poi ch'uccider mi volete. Di Claudio (la Correggio 21
 Io son pur giunt'amore la tua mercè dove sempr'hebbe. D'incerto 22
 Ditene o dei del cielo. Di Francesco Londariti 23
@@ -23,6 +23,10 @@ GB-Lbm: compl.
 I-Bc: C.T.B.
 I-VEaf: C.B.
 RISM, I 1561-15.
+
+
+
+
 
 2427 - (De) RORE Cyprien - ANNIBALE padovano (1566) - Di Cipriano et
 Annibale Madrigali a quatro voci insieme altri eccellenti autori nuovamente per

@@ -30,7 +30,7 @@ A 2. Pensier, che notte e dì mi ramenti colei che mi ferì B
 " " Torna il sereno zefiro e gl'augellini garruli, de boschi dolci musici Il
 " " lo sospirando senza riposo e ancor versando (seconda stanza) 33
 " " Ringiovenito ogn'arbore di verde (terza stanza) "
-" " Disprìgìonati e liberi i fiumi (quarta stanza) 34
+" " Disprìgionati e liberi i fiumi (quarta stanza) 34
 " " Amor se'l- sole stempera le nevi (quinta stanza) 35
 A 3. Su la sponda d'un ruscello, che tra sassi zampillava 36
 " " Lagrimando, un fresco gelo distillava il monte (seconda stanza) 37

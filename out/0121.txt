@@ -1,4 +1,9 @@
-186 .. ASOLA Giovanni Matteo (1587) - Vergini a tre voci del RD. Gio. Matteo
+
+
+
+
+
+186 - ASOLA Giovanni Matteo (1587) - Vergini a tre voci del R.D. Gio. Matteo
 Asola veronese novamente ristampate. Libro Secondo. In Venetia, presso Giacomo
 Vincenzi. 1587.
 
@@ -15,25 +20,19 @@ Vergin, al cui parlar cortese e saggio quella divina (ottava stanza) 8
 Vergine, il cui sembiante humil simiglia gente di ferro (nona stanza) 9
 Vergin, assai men son del mar l'arene che non son le mie colpe (decima stanza) 10
 Al viso smort'et al capel già bianco l'ultim'hor'è vicina (undicesima stanZa) 11
-
-Vergine bella, che di sol vestita nascesti innanz'al padre. Sonetto (Petrarca) 12.
+Vergine bella, che di sol vestita nascesti innanz'al padre. Sonetto (Petrarca) 12
 Vergin, madre di Dio, figlia ed ancella (seconda parte) " 13
-
 Vergine madre, del tuo parto figlia. Sonetto (Fiamma) 14
 Vergine fu nel parto e prim'e poi quella ch'io canto (seconda parte) " 15
-
 Vergine sacr'et alma, de peccatori guida 16
-
 Vergine, più lucent'assai ch'el sole, più vaga de la luna, Sonetto 17
 Vergine saggia e santa, miserere di me (seconda parte) 18
-
 Padre di tutti noi, ch'in ciel soggiorni. Oratione dominicale 19
 Il nostro pan, onde di giorn'in giorno (seconda parte) 20
-
 Dio ti salvi Maria de gratia piena lo cui chiaro splendor. Salutation angelica 21
 E benedetto e sovra ogn'altr'ancora del virginal (seconda parte) 22
 
-I-Rvat (De Rossi); compl.
+I-Rvat (De Rossi): compl.
 A-Wn: compl.
 
 
@@ -56,10 +55,6 @@ Vergin, vivo d'Iddio sacrario e tempio (settima stanza) 7
 Vergin, al cui parlar cortese e saggio (ottava stanza) 8
 Vergine, il cui sembiante humil (nona stanza) 9
 Vergin, assai men son del mar l'arene (decima stanza) 10
-
-ver {\l Viso smort'et. al capel. già bianco (undicesima stanza) 11
-gine bella, che (Il sol vestita. Sonetto (Petrarca) 12
-Vergln madre, di Dio figlia (seconda parte) " 13
-
--II3
-
+Al viso smort'et al capel già bianco (undicesima stanza) 11
+Vergine bella, che di sol vestita. Sonetto (Petrarca) 12
+Vergin madre, di Dio figlia (seconda parte) " 13

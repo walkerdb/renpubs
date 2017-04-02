@@ -13,8 +13,12 @@ A 3. S'io vi dico il mio mal e le mie pene. Di Lelio Ber/ani 21
 
 I-Bc: compl.
 A-Wn: compl.
-D-Kl: T.E.
+D-Kl: T.B.
 RISM, I 1592-20.
+
+
+
+
 
 1968 - MORTARO Antonio (1596) - Il Terzo Libro delle Fiammelle amorose
 di Antonio Mortaro da Brescia. A tre voci. Novamente con ogni'diligentìa ristampate.
@@ -26,6 +30,10 @@ PL-GD: compl.
 : C
 
 RISM, I 1596-15.
+
+
+
+
 
 1969 - MORTARO Antonio (1596) - Il Quarto Libro delle Fiammelle amorose
 di Antonio Mortaro da Brescia. A tre voci. Novamente composte, et date in luce.

@@ -18,7 +18,7 @@ Donna, se'l mio servir più non ti piace 38
 Sì, come dite, ogn'hor bella vi paio, non vi paia fatica 39
 
 GB-Ge: compl,
-I-Bc: T.E.
+I-Bc: T.B.
 US-Bp: A.
 US-Cn: A.
 B-Br: T.

@@ -7,13 +7,17 @@ Piaghe non son, ma stelle " 24
 Te la fiamma e l'ardore " 25
 Ecco l'ardente stella (Talenti) 26
 Deh piangi, anima mia " 27
-Vulnerasti cor mcum " 28
-Ego dormio et cor mcum " 29
+Vulnerasti cor meum " 28
+Ego dormio et cor meum " 29
 O Domine Jesu Christe " 30
 Vago pensiero. Canzonetta et Aria di D. Virginio monaco vallombrosano 31
 
 GB-Lbm
 RISM, I 1607-10.
+
+
+
+
 
 392 - BONINI Severo (1608) - Madrigali e Canzonette spirituali del molto R.P.D.
 Crlsostomo Talenti, vallombrosano, et del sig. Giovambattista Marino. Posti in
@@ -26,6 +30,10 @@ Indice = 1607
 
 I-Bc
 RISM, I 16085.
+
+
+
+
 
 393 - BONINI Severo (1609) - Il Secondo Libro de Madrigali, e Mottetti a una
 Voce sola per cantare sopra Gravicembali, Chitarroni, et Organi, con passaggi, e

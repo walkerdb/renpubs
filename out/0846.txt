@@ -10,7 +10,7 @@ A l e Bc. Dilataverunt super me
 " " " " Quomodo dilexi legem tuam 16
 " " " " Erravi Domine erravi sicut ovis 17
 " " " " Laetatus sum in his quae dicta sunt 18
-" " " " Dc profundis clamavi 19
+" " " " De profundis clamavi 19
 " " " " Confilebor tibi Domine 20
 " " " " Proba me Deus 21
 " " " " Memor fui dierum 22

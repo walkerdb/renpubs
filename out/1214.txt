@@ -41,7 +41,7 @@ A 3. Sto inamorato d'una faccia d'oro, che mi distrugge st'alma 1
 " " State ascoltar, vi priego, in cortesia quel ch'è accaduto 15
 " " Io ti ringratio, amor, ch'hai dato bando a tante pene mie 16
 " " Quando lo gallo chiama la gallina. Di Gio. Agostino Veggio "
-" " Tu mi dai mort'e non vuoi ch'io tcl dica. Di Gio. Agostino Veggm lfl
+" " Tu mi dai mort'e non vuoi ch'io tel dica. Di Gio. Agostino Veggm lfl
 A 4. Questa ghirlanda di purpurei fiori, Cloride vaga 19
 " " Come farò, cor mio, quando ti parti, che sol pensand'a la crudel i?
 
@@ -50,6 +50,10 @@ A 4. Questa ghirlanda di purpurei fiori, Cloride vaga 19
 I-Bc: compl.
 I-Vnm (Canal): C.
 RISM, I 1581-9.
+
+
+
+
 
 1960 - MORO Giacomo (1585) . Gli Encomii musicali del Moro a quattro et
 a cinque voci, novamente composti, et dati in luce. In Venetia presso Giacomo

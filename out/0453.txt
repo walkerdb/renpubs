@@ -34,9 +34,9 @@ A 5 Dolce, gratios'amore, con grutiosa saetta 1
 " " Tu pur insidiosa con amorosi vezzi 10
 " " QUCSF'aspre doglie interne morend'animn min. bramo finire 11
 " " :Ë'Ë'Simo fiato, che fra vermiglio rose di due labr'amorose 11
-c e, lasso, ten fuggi, qual veloce sospiro 13
+e e, lasso, ten fuggi, qual veloce sospiro 13
 
-" " Amor cieco m'offesc, voi ciec'al mio mal foste 14
+" " Amor cieco m'offese, voi ciec'al mio mal foste 14
 : " gigſ-adp? e fugace 'vostra vita mortale . 15
 " " Pcse'l l'Sl, ma. cruelr e di pietade ignudi 16
 Ia ch amor |n Fllllde mi \'lnSC 17

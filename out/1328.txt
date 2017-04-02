@@ -7,8 +7,8 @@ Non temete più, amanti. che \'i sactti amore, che vota la faretra 7
 Ahi ben tosto avverrà che sì distempre ardendo la mia vita 8
 Non han tant'onde i mari. nè i prati lterbett'e fiori 9
 O come è gran martire a celar suo desire (Guarini) 10
-Gli ardenti miei desiri, elle tragnn del mio cnr. Canzonetta spirituale 11
-11 mio martir tengo celato al core. Se lo dimoslr'uhimè poco 12
+Gli ardenti miei desiri, elle tragnn del mio enr. Canzonetta spirituale 11
+11 mio martir tengo celato al core. Se lo dimostr'uhimè poco 12
 [le, amari sospiri, alla bella cagion del morir mio (Guarini) 13
 :\rsi già solo e non sostenni il foco. Hor che nel vostro " 14
 Filli, se gl'occhi giro ne gl'occhi \'ostri amor leggiadro i' miru 15
@@ -23,6 +23,10 @@ D-As: compl.
 I-Bc: Cl". H.
 RISM, I 1603-12.
 
+
+
+
+
 2154 - PECCI Tommaso (1604) - Canzonette a tre voci del signor Tomaso
 Pecci gentil'huomo sanese. Novamente ristampate et corrette. Libro Primo. 111
 Venetia, appresso Giacomo Vincenti. 1604.
@@ -31,6 +35,10 @@ Venetia, appresso Giacomo Vincenti. 1604.
 
 D-As: compl.
 RISM, I 1604-18.
+
+
+
+
 
 2155 - PECCI Tommaso (1607) - Canzonette a tre voci del signor Tomaso
 Pecci gentil'huomo sanese Academico Filomello nuovamente ristampate, et corrette.
@@ -42,10 +50,14 @@ I-Rsc: C.l", B.
 I-Sc: B. (solo pag. 3-8, 13-18 e 21).
 RISM, I 1607-23.
 
+
+
+
+
 2156. - PECCI Tommaso (1624) - Canzonette a tre voci, con il Basso continu?Del
 sig.r Tomaso Pecci gentil'l'iuomo snnese. In Anversa appresso Petro Phalcslo
 al re David. 1624.
 
-4 fasc. in 8° obl. (C.1°. cr, B., Be.), png. 21,0). Ded. di Petro Phalcsìo a Cipriano CampomeſiW'
+4 fasc. in 8° obl. (C.1°. cr, B., Be.), png. 21,0). Ded. di Petro Phalcsio a Cipriano CampomeſiW'
 " Queste canzonette del signor Tomaso Pcccio (sic) Gentil'huomo Sanese, novamente Pom"
 

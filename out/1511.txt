@@ -12,7 +12,7 @@ A 5. Fem gentil, che con leggiadro nodo 9
 " " Poi che m'invit'amore a lngrimnr mai sempre, desio che'l cuor 19
 " " E se pur mi mantiene amor (seconda parte) 20
 " " Alma real, se come fida stella 21
-" " Misero mc, ch'alle mie spes'imparo. Di Adriano Anſ/ille E
+" " Misero me, ch'alle mie spes'imparo. Di Adriano Anſ/ille E
 " " Rex Asiae et Ponti potuit celeberrimui olim B
 
 D-Rp: compl.
@@ -23,6 +23,10 @@ B-Br: C.
 1-Rsc: S.
 
 RISM, I 1565-18.
+
+
+
+
 
 2423 - (De) RORE Cyprien (1569) - Il Primo Libro delle Fiamme vaghi et
 dilettevoli Madrigali dell'eccell. musico, Cipriano Rore, a quattro et cinque voci,

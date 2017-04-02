@@ -6,7 +6,7 @@ Come può star, o Dei, che se lu sola sei 20
 Infelice pastore, nat'al piant'e al dolore 21
 Pietra felice e dura, \'i s'asside colei, che'l cor mi [ura U
 I-Bc: compl.
-NL-DHgm: T.E.
+NL-DHgm: T.B.
 B-Bc: C.
 I-FA: T.
 D-MZ: B.

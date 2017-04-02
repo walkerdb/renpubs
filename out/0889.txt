@@ -13,7 +13,7 @@ Pcccantem me quotidie et non me penitentem 31
 Inclina, Domine, aurem tuam 33
 Domine, quando veneris iudicare 35
 Alma Venus, que sola Venus 36
-Calami sonum ferentes siculo leve numero. Di Cipriano Dc Rare 37
+Calami sonum ferentes siculo leve numero. Di Cipriano De Rare 37
 
 D-BE: compl.
 D-Mbs: compl.
@@ -22,6 +22,10 @@ D-Bds: C.T.B.
 
 Boetticher 747.
 RISM, I 1555-19.
+
+
+
+
 
 1387 bis - De LASSUS Roland (1555) - D'Orlando di Lassus il Primo Libro dove
 si contengono Madrigali, Villaneschc, Canzoni francesi, e Motetti a quattro voci,

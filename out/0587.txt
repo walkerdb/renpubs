@@ -28,7 +28,7 @@ A 4. Ne l'odorat'et lucid'oriente (Bembo) 1
 " " Et vanno argumentando che si deve " 9
 " " Però vorrei ch'andaste a quelle fiere " ...
 " " Aceingetevì dunque all'alta impresa " "
-" " Così detto disparve et le suc chiome " 11
+" " Così detto disparve et le sue chiome " 11
 " " Le piramide et Memphi poi lasciate " 13
 " " Qual credenza d'haver senza amor pace " 14
 " " Et son hor questi ch'io v'addìlo et mostro " 15

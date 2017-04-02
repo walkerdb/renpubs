@@ -10,6 +10,10 @@ A-Wn: C.6.
 B-Br: 6.
 RISM, I 1560-22.
 
+
+
+
+
 2673 - STRlGGIO Alessandro (1561) - Di Alessandro Striggio gentil'huomo
 mantovano servitore dell'illustriss. et eccellentiss. Cosmo de Medici duca di Firenze,
 e di Siena. Il Primo Libro de Madregali a sei voci novamente con nova gionta
@@ -35,6 +39,10 @@ I-Bsp: C.A.T.B.6.
 D-Rp: A.B.5.
 RISM, I 1565-19.
 
+
+
+
+
 2676 - STRlGGIO Alessandro (1566-1) - Di Alessandro Striggio genitl'hlloml';
 mantovano il Primo Libro delli Madrigali a sei voci novamente con nova glon
 ristampato. In Vinegia 1566 appresso Girolamo Scotto.
@@ -43,7 +51,7 @@ ristampato. In Vinegia 1566 appresso Girolamo Scotto.
 A 6. 1 dolci colli, ond'io lasciai me stesso
 
 n " Et qual cervo ferito di saetta (seconda parte) 3
-" " Ancor ch'io possa dire rhc d'hnver \'it'il cnr soltanto
+" " Ancor ch'io possa dire rhc d'hnver \'it'il enr soltanto
 
 (Petrarca) 2
 )) z

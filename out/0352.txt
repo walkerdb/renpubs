@@ -33,7 +33,7 @@ Saltarello 15
 La Gastolda 26
 
 I-Bc: compl.
-I-LOcl: T.E.
+I-LOcl: T.B.
 
 Sartori 1597c e ][ 1597c.
 Brown 1597-2 (non compl.)

@@ -15,7 +15,7 @@ CB-SH: compl.
 PL-Wu: compl.
 I-Bc: C.S.
 Pl.-Tu: A.T.
-GB-Lbm: T.E.
+GB-Lbm: T.B.
 DK-Kk: T.
 
 

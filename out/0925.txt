@@ -28,7 +28,7 @@ A 10. Quo properas facunde nepos 86
 F-Pc: compl.
 F-Psg: compl.
 E-Mc: compl.
-GB-Lbm: S. Contr. T.E.
+GB-Lbm: S. Contr. T.B.
 
 F-O: S.T.B.5.
 GB-Ob: Contr.

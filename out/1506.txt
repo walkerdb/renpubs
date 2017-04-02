@@ -3,7 +3,7 @@ A 5. Volgi'l tuo corso alla tua riva manca
 6
 " " Come la notte ogni fiammella è viva e riman spenta subito ch'aggiorna (Ariosto) 7
 " " Quando, signor, lasciast'enlro a le rive 8
-" " Ma poi che voslr'allezza (seconda parte) 9
+" " Ma poi che vostr'allezza (seconda parte) 9
 " " lo mi rivolgo indietro a ciascun passo. Di Gio. Narco (Petrarca) 10
 " " Talhor m'assale in mezo a tristi pianti (seconda parte) " 11
 " " Di virtù, di costumi, di valore, d'honestà singular e leggiadria 12

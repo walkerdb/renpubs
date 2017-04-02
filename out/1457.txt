@@ -17,7 +17,7 @@ I-Bc: B.
 
 
 
-2339 .. (De) REULX Anselme (1546) - Ansclmo Dc Reulx Secondo Libro de
+2339 .. (De) REULX Anselme (1546) - Ansclmo De Reulx Secondo Libro de
 Madrigali de Anselmo Reulx a quatro voci con una Bataglia moresca novamente
 da lui composto et posto in luce. A quatro voci. In Venetia appresso di Antonio
 
@@ -43,7 +43,7 @@ Bella parte del cielo et bella idea 14
 Quando fra l'altre donn'nd hor'ad hora (Petrarca) 15
 Qualhor tenera neve per li colli " 16
 Molto men aspr'amore m'era senza sperar dentr'al tuo impero 17
-Lasso mc, ch'ad un tempo taccio e grido e tem'et spero (Bembo) 18
+Lasso me, ch'ad un tempo taccio e grido e tem'et spero (Bembo) 18
 De passati miei danni piango e rido 19
 Perch'io t'habbia guardato di menzogna (Petrarca) 20
 Qutllt: pietose rime, in ch'io m'accorsi " 21

@@ -11,14 +11,14 @@ Se qual è'l mio dolore a voi, donna gentile. (di Cipriano) 11
 Madonna, poi ch'uccider mi volete non nego. Di Claudio da Cureggio 13
 Felice sei. Trevigi, poi ch'in le sol vede. (di Cipriano) 14
 Si tran-iato è'l folle mio desio :\ seguimr. Di Annibale padoana (Petrarca) 15
-Pecca la donn'a dar mort'a l'amante. (di Pcriuone) 16
+Pecca la donn'a dar mort'a l'amante. (di Periuone) 16
 Aspro cor e selvaggio e cruda voglia. Di Gia-Im Bere-htm Petrarca) 17
 Vivo sol di speranza rimembrando (seconda parte) " 18
 Col seno pien di rose e di viole. Di loan Comino 19
 Il capo levi sotto l'ond'ascoso (seconda parte) 20
 Chi desia di veder pietos'e fiero. Di Perissone 2!
 O leggiadre amorose ec care doglie (seconda parte) 22
-Voi mi dite, madonna, ch'i' non v'apprczzo più. Di Ioan Cont/'no B
+Voi mi dite, madonna, ch'i' non v'apprezzo più. Di Ioan Cont/'no B
 Gravi pene in amor si prov.-in molte. Di Alemmdro Striggio (Ariosto) 21
 Amorose viole, che spargete l'odor soave. Di Cos/amia Porta 25
 Occhi Sereni, angeliche parole. Di Andrea Gabrieli 26
@@ -35,6 +35,10 @@ NL-Uim: compl.
 PL-Wn: C.A.
 1-Vnm: A.D.
 RISM, I 1575-15.
+
+
+
+
 
 2429 - (De) RORE Cyprien - PALESTRINA Giovanni Pierluigi (1557) - iii
 Cipriano de Rore il Secondo Libro de Madrigali a quatro voci con una Cîìſlznio

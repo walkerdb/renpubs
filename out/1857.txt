@@ -6,8 +6,8 @@ A 5. Canzona decima terza
 
 " " Canzona decima sesta
 
-A 6. Ardo per voi, mia vila. Madrigale a sei concerlalo con gli slrumenli
-" " O rubella d'amor. Madrigale :\ sei concertato con gli slrumenli
+A 6. Ardo per voi, mia vila. Madrigale a sei concerlalo con gli strumenli
+" " O rubella d'amor. Madrigale :\ sei concertato con gli strumenli
 PL-WRu: C.l", A., T., B.
 
 Sartori 1632.
@@ -38,7 +38,7 @@ A 3. Come come lels begin ;
 " " Lord when l lhinkc 16
 " " Say wanlon will you love me . 'l 17
 
-" " I bei ]iguslri e rosc, ch'in voi natura pose, donna E"... 18
+" " I bei ]igustri e rose, ch'in voi natura pose, donna E"... 18
 
 " " Strike it up Tabor 19
 
