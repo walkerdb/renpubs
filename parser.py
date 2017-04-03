@@ -12,31 +12,14 @@ def main(start, end):
     publications = re.split(r"\n\n\n\n+", texts)
     for publication in publications:
         _header, meta, works, locations = extract_sections(publication)
-        # print(_header)
 
         header = Header(_header)
 
-        print(header.composers[0])
-
-        # normalize composer name
+        # print(header.composers[0])
 
         # parse metadata string
         # parse works string
         # parse locations string
-
-
-
-def process_title_data(title):
-    number, composer, title = re.match(r"(\d{1,4}(?: bis)?) -? ?(.*?\)) (.*)", title).groups()
-
-    title = title.strip("- ")
-
-    year_string, year = re.findall(r"(\((\d{4}).*\))", composer)[0]
-    composer = composer.replace(year_string, "").strip()
-
-    print(composer)
-
-    return number, composer, title
 
 
 def extract_sections(publication):
