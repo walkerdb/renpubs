@@ -34,7 +34,7 @@ A 5. Cantiam del Mincio su l'litrbose rive 1
 " " Nunca mucho coste poco. Villanella spagnuoia 24
 A 6. Donna, tu sei sì bella, che pari proprio un sol, non elt'una stella 25
 
-" " O gran (liscorlesia
+" " O gran discorlesia
 
 GB-Lbm: compl.
 PL-GD: compl.

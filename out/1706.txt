@@ -8,7 +8,7 @@ n " O donna troppo cruda e troppo bella, voi setîe la mia sorte. C.A.T. (Guarin
 " )) Filli, ai baci m'inviti e già mi stendi, perch'io la baci. A.T.ll. (Marino) 15
 " " Non più guerra, pietade, occhi miei belli. ZC. e B. (Guarini) 16
 " " Lasso, perchè mi fuggi, s'hai della morte mia tanto (h.-sin. S.A.T. 18
-n " Quando la donna .si (lilno\!ra altera et a li prieghi. C.A.T. 19
+n " Quando la donna .si dilno\!ra altera et a li prieghi. C.A.T. 19
 n " Perchè fuggi tra salci, rilrmella ma bella. C.A.T. (Marino) 20
 " " Voi pur da me partite, anima dura, nè vi duole il partire. C.A.T. (Guarini) 22
 " n Belle donne, io tengo un core ai fantastico e arrogante. C.A.T. U
@@ -31,7 +31,7 @@ Anlo in un tempo, mentre rimiro fis... gli ſolgoranti lumi 3
 Amor, potente iddio, ch'accendi ardente fuoco in aggiacciato petto 4
 Ilelle niml'e del mar, onde turbat'e minacciosi venti 5
 
-E (lir ancor che l'empia donna mia (seconda parte) 6
+E dir ancor che l'empia donna mia (seconda parte) 6
 Zefiro torna e'l bel tempo rimena (Petrarca) 7
 
 Ma per me las... tornano i più gravi (seconda parte) " 11
