@@ -44,7 +44,7 @@ class Header(object):
         return [normalize_name(composer) for composer in composers]
 
     def extract_printing_location(self):
-        matching_locations = [OldToModernSpellingPair(old, modern) for old, modern in LOCATIONS.items() if old.lower() in self.title.lower()]
+        matching_locations = [OldToModernSpellingPair(old, modern) for old, modern in LOCATIONS.items() if old in self.title]
 
         if not matching_locations:
             return self.get_default_printing_location_from_printer()
@@ -65,31 +65,40 @@ class Header(object):
         highest_index = 0
         winning_location = ""
         for location in matching_locations:
-            index = self.title.index(location.original)
+            try:
+                index = self.title.index(location.original)
+            except:
+                print(location.original)
+                print(self.title)
+                exit()
             if index > highest_index:
                 highest_index = index
                 winning_location = location
         return winning_location
 
     def extract_printer(self):
-        return [OldToModernSpellingPair(name, printer.name) for name, printer in PRINTERS.items() if name.lower() in self.title.lower()]
+        printers = [OldToModernSpellingPair(name, printer.name) for name, printer in PRINTERS.items() if name in self.title]
+        if not printers:
+            print("no printers found: ", self.title)
+
+        return printers
 
     def extract_voices(self):
         return self.extract_english_terms_from_italian_title_with_mapping(ITALIAN_NUMBERS)
 
     def extract_book_number(self):
         book_number = self.extract_english_terms_from_italian_title_with_mapping(ITALIAN_NUMBERS_ORDINAL)
-        if book_number:
-            return book_number[0]
 
-        print("no book number found")
-        return None
+        if not book_number:
+            return 1
+
+        return book_number[0]
 
     def extract_genres(self):
         return self.extract_english_terms_from_italian_title_with_mapping(MUSIC_GENRES)
 
     def extract_english_terms_from_italian_title_with_mapping(self, mapping):
-        return sorted([eng_term for it_term, eng_term in mapping.items() if it_term.lower() in self.title.lower()])
+        return sorted(list({eng_term for it_term, eng_term in mapping.items() if it_term.lower() in self.title.lower()}))
 
 
 

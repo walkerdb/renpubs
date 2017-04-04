@@ -3,7 +3,7 @@ from pprint import pprint
 
 import re
 
-from nvdomain import Header
+from nvdomain.header import Header
 
 
 def main(start, end):
