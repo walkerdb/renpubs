@@ -11,6 +11,8 @@ class Dedication(FieldEqualityMixin):
         self.dedicator = self.extract_dedicator(dedication)
         self.dedicatee = self.extract_dedicatee(dedication)
         self.location = extract_location(dedication)
+        # TODO: date
+
 
     @staticmethod
     def extract_text(dedication):
