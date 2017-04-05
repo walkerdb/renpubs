@@ -8,7 +8,8 @@ from util.field_equality_mixin import FieldEqualityMixin
 class Description(FieldEqualityMixin):
     def __init__(self, raw_description):
         description, dedication = self.extract_description_and_dedication(raw_description)
-
+        self.raw_description = description
+        self.raw_dedication = dedication
         self.book_details = BookDetails(description)
         self.dedication = Dedication(dedication)
 
@@ -21,7 +22,7 @@ class Description(FieldEqualityMixin):
         if len(_split_desc) is 2:
             description, dedication = _split_desc
 
-        return description, dedication
+        return " ".join(description.split("\n")), " ".join(dedication.split("\n"))
 
     @staticmethod
     def extract_dedication_text(dedication):

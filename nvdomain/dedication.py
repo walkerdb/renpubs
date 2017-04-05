@@ -1,5 +1,6 @@
 import re
 
+from nvdomain.constants import LOCATIONS
 from util.extraction import extract_location
 from util.field_equality_mixin import FieldEqualityMixin
 
@@ -21,11 +22,12 @@ class Dedication(FieldEqualityMixin):
     @staticmethod
     def extract_dedicator(dedication):
         to_from_text = dedication.split(": ", 1)[0]
-        dedicator_regex = re.compile(r"di ((?:[A-Zd]'?\w+\.? ?)+)|$")
-        return re.findall(dedicator_regex, to_from_text)[0].strip()
+        dedicator_regex = re.compile(r"(?<!Conte )(?<!Duca )di ((?:[A-Zd]'?\w+\.? ?)+)|$")
+        match = re.findall(dedicator_regex, to_from_text)[0].strip(" .")
+        return match if match not in LOCATIONS.keys() and len(match.split(" ")) > 1 else ""
 
     @staticmethod
     def extract_dedicatee(dedication):
         to_from_text = dedication.split(": ", 1)[0]
-        dedicatee_regex = re.compile(r" ad? ((?:[A-Zd]'?\w+\.? ?)+)|$")
-        return re.findall(dedicatee_regex, to_from_text)[0].strip()
+        dedicatee_regex = re.compile(r"\b(?:a|ad|al|alli|ai) ((?:Duca di |Conte di |(?:d')?[A-Z][\w']*(?:\. ?| da | del? | d' | )?)+)|$")
+        return re.findall(dedicatee_regex, to_from_text)[0].replace("Gentil'huomo", "").strip(" .")

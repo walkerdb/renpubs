@@ -42,6 +42,7 @@ LOCATIONS = {
     "Vinegia": "Venice",
     "Vineggia": "Venice",
     "Vinetia": "Venice",
+    "Verona": "Verona",
     "Venet.": "Venice",
     "Veneta": "Venice",
     "Venegia": "Venice",

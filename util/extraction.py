@@ -6,7 +6,7 @@ def extract_location(text):
     matching_locations = [OldToModernSpellingPair(old, modern) for old, modern in LOCATIONS.items() if old in text]
 
     if not matching_locations:
-        ""
+        return ""
 
     if len(matching_locations) > 1:
         return get_last_matching_location(matching_locations, text)

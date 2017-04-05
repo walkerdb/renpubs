@@ -55,7 +55,7 @@ class Header(FieldEqualityMixin):
     def get_default_printing_location_from_printer(title):
         printers = sorted([printer for name, printer in PRINTERS.items() if name in title])
         if not printers:
-            print("no matching printing locations: ", title)
+            # print("no matching printing locations: ", title)
             return ""
         return OldToModernSpellingPair("LOCATION_NOT_PRESENT_IN_ORIGINAL", printers[0].primary_location)
 
@@ -63,7 +63,8 @@ class Header(FieldEqualityMixin):
     def extract_printer(title):
         printers = [OldToModernSpellingPair(name, printer.name) for name, printer in PRINTERS.items() if name in title]
         if not printers:
-            print("no printers found: ", title)
+            pass
+            # print("no printers found: ", title)
 
         return printers
 
