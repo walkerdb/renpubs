@@ -1,30 +1,18 @@
 import re
 
-from nvdomain.book_description import BookDescription
-from nvdomain.dedication import Dedication
+from util.extraction import extract_location
 from util.field_equality_mixin import FieldEqualityMixin
 
 
-class Description(FieldEqualityMixin):
-    def __init__(self, raw_description):
-        description, dedication = self.extract_description_and_dedication(raw_description)
-
-        self.book_details = BookDescription(description)
-        self.dedication = Dedication(dedication)
-
-    @staticmethod
-    def extract_description_and_dedication(raw_description):
-        _split_desc = re.split(r"Ded\.? ", raw_description)
-
-        dedication = ""
-        description = _split_desc[0]
-        if len(_split_desc) is 2:
-            description, dedication = _split_desc
-
-        return description, dedication
+class Dedication(FieldEqualityMixin):
+    def __init__(self, dedication):
+        self.text = self.extract_text(dedication)
+        self.dedicator = self.extract_dedicator(dedication)
+        self.dedicatee = self.extract_dedicatee(dedication)
+        self.location = extract_location(dedication)
 
     @staticmethod
-    def extract_dedication_text(dedication):
+    def extract_text(dedication):
         dedication_split = dedication.split(": ", 1)
         if len(dedication_split) is not 2:
             return ""

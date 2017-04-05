@@ -50,19 +50,6 @@ class TestHeader(TestCase):
 
         self.assertEquals(header.composers, ["Jacques Archadelt John"])
 
-    def test_converts_antiquated_printer_location(self):
-        input = "122 - ARCHADELT Jacques (1575-76) - Title. Appresso di Antonio Gardano in Venetiis"
-        header = Header(input)
-
-        self.assertEquals(header.printing_location.modern, "Venice")
-        self.assertEquals(header.printing_location.original, "Venetiis")
-
-    def test_processes_multiple_locations(self):
-        input = "122 - ARCHADELT Jacques (1575-76) - Title. Appresso di Antonio Gardano in Roma, no in Venetia"
-        header = Header(input)
-
-        self.assertEquals(header.printing_location.modern, "Venice")
-
     def test_converts_antiquated_printer_names(self):
         input = "122 - ARCHADELT Jacques (1575-76) - Title. Appresso di Antonium Gardane in Venetiis"
         header = Header(input)

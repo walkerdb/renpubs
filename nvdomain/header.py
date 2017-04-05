@@ -1,7 +1,9 @@
 import re
 
 from nvdomain.constants import LOCATIONS, PRINTERS, ITALIAN_NUMBERS, ITALIAN_NUMBERS_ORDINAL, MUSIC_GENRES
-from nvdomain.spelling import OldToModernSpellingPair
+from util.extraction import extract_location
+from util.field_equality_mixin import FieldEqualityMixin
+from util.spelling import OldToModernSpellingPair
 
 
 def normalize_name(composer):
@@ -11,11 +13,8 @@ def normalize_name(composer):
     return "{} {}".format(name_without_caps_part, caps_name.title())
 
 
-class Header(object):
+class Header(FieldEqualityMixin):
     def __init__(self, header):
-        self.process_title_data(header)
-
-    def process_title_data(self, header):
         number, composer_and_year, title = re.match(r"(\d{1,4}(?: bis)?) -? ?(.*?\)) (.*)", header).groups()
 
         year_string, year = self.extract_year(composer_and_year)
@@ -24,81 +23,70 @@ class Header(object):
         self.title = self.clean_title(title)
         self.year = year
         self.composers = self.extract_composers(composer_and_year.replace(year_string, ""))
-        self.printing_location = self.extract_printing_location()
-        self.printers = self.extract_printer()
-        self.voices = self.extract_voices()
-        self.book_number = self.extract_book_number()
-        self.genres = self.extract_genres()
+        self.printing_location = self.extract_location(title)
+        self.printers = self.extract_printer(title)
+        self.voices = self.extract_voices(title)
+        self.book_number = self.extract_book_number(title)
+        self.genres = self.extract_genres(title)
 
     @staticmethod
     def clean_title(title):
         return title.strip("- ")
 
     @staticmethod
-    def extract_year(composer):
-        return re.findall(r"(\((\d{4}).*\))", composer)[0]
+    def extract_year(composer_year_text):
+        return re.findall(r"(\((\d{4}).*\))", composer_year_text)[0]
 
     @staticmethod
     def extract_composers(composer):
         composers = composer.strip().split(" - ")
         return [normalize_name(composer) for composer in composers]
 
-    def extract_printing_location(self):
-        matching_locations = [OldToModernSpellingPair(old, modern) for old, modern in LOCATIONS.items() if old in self.title]
+    @staticmethod
+    def extract_location(title):
+        matching_location = extract_location(title)
 
-        if not matching_locations:
-            return self.get_default_printing_location_from_printer()
+        if not matching_location:
+            return Header.get_default_printing_location_from_printer(title)
 
-        if len(matching_locations) > 1:
-            return self.get_last_matching_location(matching_locations)
+        return matching_location
 
-        return matching_locations[-1]
-
-    def get_default_printing_location_from_printer(self):
-        printers = sorted([printer for name, printer in PRINTERS.items() if name in self.title])
+    @staticmethod
+    def get_default_printing_location_from_printer(title):
+        printers = sorted([printer for name, printer in PRINTERS.items() if name in title])
         if not printers:
-            print("no matching printing locations: ", self.title)
+            print("no matching printing locations: ", title)
             return ""
         return OldToModernSpellingPair("LOCATION_NOT_PRESENT_IN_ORIGINAL", printers[0].primary_location)
 
-    def get_last_matching_location(self, matching_locations):
-        highest_index = 0
-        winning_location = ""
-        for location in matching_locations:
-            try:
-                index = self.title.index(location.original)
-            except:
-                print(location.original)
-                print(self.title)
-                exit()
-            if index > highest_index:
-                highest_index = index
-                winning_location = location
-        return winning_location
-
-    def extract_printer(self):
-        printers = [OldToModernSpellingPair(name, printer.name) for name, printer in PRINTERS.items() if name in self.title]
+    @staticmethod
+    def extract_printer(title):
+        printers = [OldToModernSpellingPair(name, printer.name) for name, printer in PRINTERS.items() if name in title]
         if not printers:
-            print("no printers found: ", self.title)
+            print("no printers found: ", title)
 
         return printers
 
-    def extract_voices(self):
-        return self.extract_english_terms_from_italian_title_with_mapping(ITALIAN_NUMBERS)
+    @staticmethod
+    def extract_voices(title):
+        return Header.extract_english_terms_from_italian_title_with_mapping(ITALIAN_NUMBERS, title)
 
-    def extract_book_number(self):
-        book_number = self.extract_english_terms_from_italian_title_with_mapping(ITALIAN_NUMBERS_ORDINAL)
+    @staticmethod
+    def extract_book_number(title):
+        book_number = Header.extract_english_terms_from_italian_title_with_mapping(ITALIAN_NUMBERS_ORDINAL, title)
 
         if not book_number:
             return 1
 
         return book_number[0]
 
-    def extract_genres(self):
-        return self.extract_english_terms_from_italian_title_with_mapping(MUSIC_GENRES)
+    @staticmethod
+    def extract_genres(title):
+        return Header.extract_english_terms_from_italian_title_with_mapping(MUSIC_GENRES, title)
 
-    def extract_english_terms_from_italian_title_with_mapping(self, mapping):
-        return sorted(list({eng_term for it_term, eng_term in mapping.items() if it_term.lower() in self.title.lower()}))
+    @staticmethod
+    def extract_english_terms_from_italian_title_with_mapping(mapping, title):
+        return sorted(list({eng_term for it_term, eng_term in mapping.items() if it_term.lower() in title.lower()}))
 
 
 
