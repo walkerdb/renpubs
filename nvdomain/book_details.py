@@ -8,7 +8,7 @@ size_map = {
 }
 
 
-class BookDescription(FieldEqualityMixin):
+class BookDetails(FieldEqualityMixin):
     def __init__(self, description):
         self.count = self.extract_book_count(description)
         self.size = self.extract_book_size(description)

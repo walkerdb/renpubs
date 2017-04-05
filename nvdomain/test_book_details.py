@@ -1,11 +1,11 @@
 from unittest import TestCase
 
-from nvdomain.book_description import BookDescription
+from nvdomain.book_details import BookDetails
 
 
-class TestBookDescription(TestCase):
+class TestBookDetails(TestCase):
     def test_should_parse_description(self):
-        description = BookDescription("4 fasc. in 8° obl., pag. 28(1). ")
+        description = BookDetails("4 fasc. in 8° obl., pag. 28(1). ")
 
         self.assertEquals(description.count, 4)
         self.assertEquals(description.size, "octavo")
@@ -13,6 +13,6 @@ class TestBookDescription(TestCase):
         self.assertEquals(description.pages, 28)
 
     def test_should_have_one_book_if_vol(self):
-        description = BookDescription("Vol. in 8° obl., pag. 28(1).")
+        description = BookDetails("Vol. in 8° obl., pag. 28(1).")
 
         self.assertEquals(description.count, 1)

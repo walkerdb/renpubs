@@ -1,6 +1,6 @@
 import re
 
-from nvdomain.book_description import BookDescription
+from nvdomain.book_details import BookDetails
 from nvdomain.dedication import Dedication
 from util.field_equality_mixin import FieldEqualityMixin
 
@@ -9,7 +9,7 @@ class Description(FieldEqualityMixin):
     def __init__(self, raw_description):
         description, dedication = self.extract_description_and_dedication(raw_description)
 
-        self.book_details = BookDescription(description)
+        self.book_details = BookDetails(description)
         self.dedication = Dedication(dedication)
 
     @staticmethod
