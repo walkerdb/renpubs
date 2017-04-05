@@ -12,7 +12,7 @@ class Description(FieldEqualityMixin):
         self.raw_dedication = dedication
         self.book_details = BookDetails(description)
         self.dedication = Dedication(dedication)
-        # TODO: index=<year>
+        self.index = self.extract_index(raw_description)
 
     @staticmethod
     def extract_description_and_dedication(raw_description):
@@ -22,5 +22,10 @@ class Description(FieldEqualityMixin):
         description = _split_desc[0]
         if len(_split_desc) is 2:
             description, dedication = _split_desc
+            dedication = dedication.split("Indice")[0]
 
         return " ".join(description.split("\n")), " ".join(dedication.split("\n"))
+
+    @staticmethod
+    def extract_index(text):
+        return re.findall(r"Indice ?[=:] ?((?:[\d\-]+|al preced))|$", text)[0].strip("- ")
