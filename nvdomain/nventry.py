@@ -28,6 +28,10 @@ class NvEntry(FieldEqualityMixin):
         else:
             pass
 
+        if len(locations.split("\n")) > 13:
+            works = locations
+            locaations = ""
+
         title = title.replace("\n", " ")
 
         return title, meta, works, locations

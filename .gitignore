@@ -1,3 +1,6 @@
 text-detection-6d612dadff53.json
 .idea
 *.iml
+.cache
+__pycache__
+
