@@ -1,20 +1,30 @@
 import os
+from collections import Counter
 from pprint import pprint
 
 import re
 
+import jsonpickle
+
+from nvdomain.description import Description
 from nvdomain.header import Header
+from nvdomain.librarylocations import LibraryLocations
+from nvdomain.nventry import NvEntry
+from nvdomain.works import Works
 
 
 def main(start, end):
+    counts = []
     texts = extract_texts(end, start)
 
     publications = re.split(r"\n\n\n\n+", texts)
     for publication in publications:
-        _header, meta, works, locations = extract_sections(publication)
+        nv_entry = NvEntry(publication)
 
-        header = Header(_header)
-
+        pprint(jsonpickle.json.loads(
+            jsonpickle.dumps(nv_entry, unpicklable=False))
+        )
+        counts.extend([work.composer for work in nv_entry.works.works])
         # print(header.composers[0])
 
         # parse metadata string
