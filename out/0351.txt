@@ -14,7 +14,7 @@ Le stranie voci, i dolorosi accenti ch'empion l'aere di pianti 20
 Hor ben dovrebb'al par de gl'nurci gigli (seconda parte) 21
 
 A-Wn: C.T.5.
-I-VEaf : A.T.B.
+I-VEaf: A.T.B.
 
 
 
@@ -48,7 +48,7 @@ A 5 Io son ferito a mort'e per punire colei che mi feri (Groto) 1
 A 6 Quando col volto adorno de rose che pingeva 20
 " " Lampeggiar tulle unite nel core (seconda parte) 21
 " " O felice pastor, disser i dei (terza parte) 21
-PL'GD- compl.
+PL'GD: compl.
 A-Wn: C.B.
 D-Kl: C.B.
 

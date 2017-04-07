@@ -47,5 +47,5 @@ A 4. Se gl'insensati tronchi Dialogo amoroso. C.A.T. e B. 31
 " " Achai Verenai en clievar. Dialogo ebraico. Voce sola e coro 34
 
 F-Pn: compl.
-GB-lbm : compl.
+GB-lbm: compl.
 

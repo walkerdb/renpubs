@@ -23,7 +23,7 @@ A 3- Rassereniamo homai contenti il volto, poscia che'l gran tonante. Dialogo 28
 A-Wn: compl.
 GB-Lbm: C.A.B.5
 
-I-VEaf : A.T.B.
+I-VEaf: A.T.B.
 
 
 

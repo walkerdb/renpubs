@@ -28,7 +28,7 @@ I-Sac: C.
 D-Rp: C. (prov. Haberl).
 US-BU: A.
 I-Sd: T.
-I-VEaf : 5.
+I-VEaf: 5.
 NL-DHg-m: A.
 
 Un esempl. compl. era nella Collezione Heyer di Kôln.

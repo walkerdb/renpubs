@@ -6,7 +6,7 @@ A 4. Dolcissimo riposo, della notte figliuol (G. B. Strozzi) 3
 " " Alcun non può saper da chi sia amato, quando felice " 7
 " " La pastorella con la verga in mano (B. Tasso) 8
 " " Poichè-'l mio largo pianto, amor, ti piace tanto, asciutti mai 9
-" " Occhi mici, che \'edeste il bel idolo mio in preda (Guarini) 9
+" " Occhi miei, che \'edeste il bel idolo mio in preda (Guarini) 9
 " " Vedi che torni 10
 " " Sancta et immaculata 11
 A 5. In qualche stranio 11
@@ -58,5 +58,5 @@ Vergine, in cui ho tutta mia speranza (nona stanza) " "
 Vergine humana e nemica d'orgoglio (decima stanza) " 18
 Il dì s'appressa e non pote esser lunge (undecìma stanza) "
 
-I-GE : B.
+I-GE: B.
 

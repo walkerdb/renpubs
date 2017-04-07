@@ -1,4 +1,4 @@
-. . . : 6
+. . .: 6
 A 6. Al mormoral de liquidi cristalli, che lenti si movean (P. Milombr i)
 
 .. " Esser non può che questa non sia imago del gml'mso amor; - ;
@@ -18,7 +18,7 @@ A B. Cantiam lieti, cantiamo al suon di queste mormoranti linfe. Danza e pastori
 
 I-VEaf: C.A.B.5.6.
 D-Rp: C.A.T.B.6.
-I-Bc : ABS.
+I-Bc: ABS.
 
 ' ' " ' ' diversi santi con una
 1116 - CASTOLDI Giovan Giacomo (ISS/) Canzonc al glorioso serafico S. Francesco. Di Gio. Giacomo Gastoldi da Caravaggio,

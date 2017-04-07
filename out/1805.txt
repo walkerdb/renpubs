@@ -22,7 +22,7 @@ D-Mbs: compl.
 I-Bc: A.
 I-Vnm: A.
 YU-MAs: T.
-I-VEaf : 5.
+I-VEaf: 5.
 RISM, I 1538-20 (non compl.).
 
 2884 - VERDELOT Philippe (1540) - Le dotte, et eccellente compositioni de i

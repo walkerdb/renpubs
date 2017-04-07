@@ -39,7 +39,7 @@ Gardane. 1552.
 I-Bsp: compl.
 D-As: compl.
 D-Rp: compl.
-I-VEaf : C.T.5.
+I-VEaf: C.T.5.
 I-Nn: C.A.
 US-Cn: C.
 A-Wn: A.

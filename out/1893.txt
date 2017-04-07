@@ -1,5 +1,5 @@
 I-Bc: C.
-GB-Lbm : ll.
+GB-Lbm: ll.
 
 
 
@@ -36,7 +36,7 @@ Ella col finto riso promett'il paradiso (seconda parte) 21
 Ma son l'opre sue tali. che ſan piaghe mnrlali (terza parte) 22
 Sento \quarciar del vechio tempio il velo e'l mio si sta dinanzi (Beccuti) B
 
-.'\-\Vn : compl.
+.'\-\Vn: compl.
 D-th': compl.
 
 

@@ -19,7 +19,7 @@ Spir'Himeneo dolce invisibil fiamma da bei giri lucenti 19
 Dimmi, Clori gentil, tu mi fai morir e tu m'uccidi. Usignolo alla lontana 20
 
 I-Bc: compl.
-I-VEaf : compl.
+I-VEaf: compl.
 I-Rvat (Chigi): compl.
 
 1509 - LEONI Leone (1596) - Penitenza. Primo Libro de Madrigali spirituali a
@@ -55,6 +55,6 @@ Se donque sono in voi piaghe l'essempio (qumta parte) 21
 
 Di nuovo io vi saluto e a voi m'inchtno (sesta parte)
 
-D-Bds : compl.
+D-Bds: compl.
 I-Bc: A.T.B.5. -
 

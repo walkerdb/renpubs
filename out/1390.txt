@@ -22,7 +22,7 @@ A 8. Mentre m'havesti caro, nè t'er'altri ch'io sol dì e nott'allato. Dialogo 
 D-Mbs: compl.
 I-Bc: C.A.T.B.
 GB-Lbm: T.
-I-VEaf : 5.
+I-VEaf: 5.
 
 
 

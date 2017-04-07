@@ -35,7 +35,7 @@ A 6. [' vo piangendo i miei passati tempi, i quai pose in amar (Petrarca) 28
 
 "" " Sì che s'io vissi in guerra et in tempesta (seconda parte) " E
 
-I-MOe : compl.
+I-MOe: compl.
 B-Br: compl.
 
 

@@ -33,7 +33,7 @@ A 4. All'hor ch'in terra nacque 22
 " " Divino agnello semplice e bello (quinta parte) 25
 " " Avventurata terra beata (sesta parte) 26
 
-I-Bc : compl.
+I-Bc: compl.
 
 
 

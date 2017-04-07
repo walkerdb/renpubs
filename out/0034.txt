@@ -40,7 +40,7 @@ Come lume de nott'in alcun porto (quarta parte) " 21
 Non perch'io sia sicuro ancor del fine (quinta parte) " 22
 S'io esca vivo de dubiosi scogli (sesta parte) " 23
 
-I-Bc : compl.
+I-Bc: compl.
 D-AS: compl.
 B-Br: A.
 

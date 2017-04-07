@@ -7,7 +7,7 @@ GB-Ob: compl.
 PL-GD: compl.
 D-Rp: C.A.T.5.6. (2° esempl.: C.A.5.6., prov. Haberl).
 I-Rsc: C.A.B.5.6.
-I-VEat' : C.T.5.6.
+I-VEat': C.T.5.6.
 
 I-Rc: GB.
 

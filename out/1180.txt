@@ -52,8 +52,8 @@ Ancidetemi pur, gricvi martiri €?
 
 Qualhor il sol tu miri e'l sol te mirar vuole
 
-GB-Lbm : compl.
-US-Wc : C.A.T.5.
+GB-Lbm: compl.
+US-Wc: C.A.T.5.
 I-Fn: A.T.5.
 US-R: T5.
 I-Nn: A.

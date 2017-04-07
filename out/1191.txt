@@ -14,12 +14,12 @@ I-Bc: compl.
 Libro de Madrigali a cinque voci. Novamente ristampato. In Venetia, appresso
 Ricciardo Amadino. 1604.
 
-5 fasc. in 8° (C.A.T.B.5.). png. 21,(1). Indice : 1592.
+5 fasc. in 8° (C.A.T.B.5.). png. 21,(1). Indice: 1592.
 
 D-Kl: compl.
 I-Bc: C.T.5.
-GB-Lbm : B.
-GB-Lrosenthal : B.
+GB-Lbm: B.
+GB-Lrosenthal: B.
 
 
 

@@ -43,7 +43,7 @@ A 4. Se la speme nol nutre non così tosto amore sorge 20
 " " Sì ch'io vorrei morire. hora ch'io bacio, amore - 21
 " " Io dìsleale? ali cruda, voi negare la fede per non mi dar (Guarini)
 
-PL-WRu : compl.
+PL-WRu: compl.
 
 
 

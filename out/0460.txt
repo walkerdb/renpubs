@@ -47,7 +47,7 @@ A 8. Chi porrà fin al mio dolore, ehi rimedi'al mio mal. Ecco
 I-MOe: compl.
 GB-Lbm: compl.
 US-Wc: compl. (prov. Heyer)
-I-VEaf : C.T.B.
+I-VEaf: C.T.B.
 
 
 

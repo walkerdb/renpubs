@@ -16,7 +16,7 @@ A 8. Bella schiera real, alteri numi 13
 I-VEcap: compl.
 F-Phanson: C.A.T.S.6.7.B.Bc.
 
-GB-Och : C.A.T.B5.
+GB-Och: C.A.T.B5.
 
 
 

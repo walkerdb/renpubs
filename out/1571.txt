@@ -66,5 +66,5 @@ l"MOE: compl.
 
 l""""": compl.
 D-Mbs: compl.
-l*VÈaf : A.
+l*VÈaf: A.
 

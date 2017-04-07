@@ -2,7 +2,7 @@ A 8. Porgimi luc'amor dentro la selva (settima parte) 38
 " " Caron, Caronte... Son amante fidel. Dialogo 39
 " " Crudo Caronte, voltam'il tuo legno (seconda parte) 40
 
-GB-Lbm : compl.
+GB-Lbm: compl.
 
 
 

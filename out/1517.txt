@@ -50,7 +50,7 @@ E' morto. o morte amara, è morl'il bell'Adon 23
 Qual sarà mai sì lacrimabil pianto che pareggi'l dolor. Di Casper-a Baviera (Poliziano) 29
 
 US-SFsc (De Bellis): C.A.S.
-I-VEaf : A.T.
+I-VEaf: A.T.
 F-Pc: C.
 I-Bc: T.
 I-Ve (I'orrefranca): B.

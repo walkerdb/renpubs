@@ -35,8 +35,8 @@ A 9. Amor, amaramente amar mi fai. ohimè, per tanti guai 20
 A 10. In bel giardino, all'aura amen'e grata "
 A 11. Guerra, guerra, tu brami. Pace Pace, io desio B
 
-I-VEcap : compl.
-GB-Och : compl.
+I-VEcap: compl.
+GB-Och: compl.
 
 
 

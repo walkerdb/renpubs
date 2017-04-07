@@ -9,7 +9,7 @@ Le stelle'l cielo e gli elementi a prova (Petrarca) 24
 Crespo, aureo crin, cui par ch'intorno vole 26
 
 I-MOe: compl.
-I-VEnf : compl.
+I-VEnf: compl.
 PL-GD: C.A.T.5.
 
 (,37 - COSSONI Carlo Donato (1669) - Il Libro Primo delle Canzonette amorose

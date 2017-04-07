@@ -1,8 +1,8 @@
 Così m'amaste voi, come \"an io e non cangiasli il core 20
 Così dell'nrdor mio v'infiamm'amore (seconda parte) 21
 
-GB-Lbm : compl.
-PL-GD : compl.
+GB-Lbm: compl.
+PL-GD: compl.
 
 
 
@@ -42,7 +42,7 @@ E mentr'al moſſrmorar di verdi (seconda parle) 21
 
 I-Rsc: compl
 GB-Lbm: compl
-[' f : S
+[' f: S
 
 1751 - MASSAlNO Tiburzio (1604) - Madrigali a sei voci di Tiburtio Massamo.
 Libro Primo. Novamente composto, et dato in lucc. In Venetia. Appresso

@@ -1,7 +1,7 @@
 Tra dilettosa gente di ninfe e di pastori 211
 Ah m'è forz'il partire e se parto m'è forz'anco morire "
 
-I-Vnm (Canal)- T.
+I-Vnm (Canal): T.
 RISM, I 1598-12.
 
 
@@ -41,8 +41,8 @@ A voi rivolgo il mio debile stile, pigro da sè (Petrarca) 21
 
 Cantiam lieti e contenti
 
-F-CC : compl.
-PL-GD : compl.
+F-CC: compl.
+PL-GD: compl.
 
 (Dalla, Della) CASA
 Cfr.: DALLA CASA

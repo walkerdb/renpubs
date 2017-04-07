@@ -38,7 +38,7 @@ A 5. Fuggan le nevi e i duri ghiacci homai scopra in vece di nubi e d'atri horro
 A 3- Spargete, ninfe, intorn'a questa riva da le candide mani. Dialogo 28
 
 I-Bc: compl.
-I-Fn : compl.
+I-Fn: compl.
 I-MOe: C.A.T.5.
 
 

@@ -1,7 +1,7 @@
 D-Rp: C.A.B.5.
 I-Bc: C.A.T.
 B-Br: C.A.B.
-I-VEaf : C.T.
+I-VEaf: C.T.
 F-Pc: C.
 I-Nn: A.
 GB-Lbm: A.
@@ -29,7 +29,7 @@ corretto. In Venetia, appresso Girolamo Scotto. 1559.
 
 5 fasc. in 8° nb]. (C.A.T.B.5.), pag. 39. Indice = 1544-2.
 
-GB-Och : C.A.T.B.
+GB-Och: C.A.T.B.
 I-Bc: B.
 
 

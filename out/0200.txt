@@ -4,7 +4,7 @@ Dolce mio ben, amor mio caro, dunque languend'in van 30
 
 I-Bc: compl.
 I-FEc: compl.
-D-Kl- compl.
+D-Kl: compl.
 US-Wc: C.A.T.5.6. (prov. Heyer).
 I-MOe: A.T.B.5.
 D-KNu. G.B.
@@ -46,8 +46,8 @@ Ardo per voi, mia vita, ma sì grave . i?
 
 Chiaro sol, che rotando esci dal Gange
 
-F-Pn : compl.
-I-MOe : C.A.6.
+F-Pn: compl.
+I-MOe: C.A.6.
 
 
 

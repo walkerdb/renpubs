@@ -17,7 +17,7 @@ A 6. Le più belle zitelle del contado. Mascherata
 
 I-Bc: compl.
 I-Fn: compl.
-I-VEaf : compl.
+I-VEaf: compl.
 GB-Lbm: C.A.
 
 

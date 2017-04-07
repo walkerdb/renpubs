@@ -28,7 +28,7 @@ I-MOe: compl.
 F-Pthibault: compl.
 
 GB-Lbm: compl.
-I-VEaf : Sopr., Mezzosopr., Contr., T.B.
+I-VEaf: Sopr., Mezzosopr., Contr., T.B.
 D-Rp: Sopr., Mezzosopr., Contr. T.B.
 I-Sd: Sopr., Mezzosopr.
 
@@ -41,8 +41,8 @@ Grillo, Cavalier dell'habilo de Christo et Cantor della Real Cappella di Sua Mae
 "Volendo io ristampare i Madrigali del Signor Cesare Zoilo romano... essendo V.S. per tuta
 Europa unico per la melodia della voce... Napoli, 20 lll 1627. Indice = 1620.
 
-GB-Lbm : compl.
-I-Ne : C.A.B.5.
+GB-Lbm: compl.
+I-Ne: C.A.B.5.
 
 
 

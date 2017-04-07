@@ -20,7 +20,7 @@ Intanto il sonno si partia (seconda parte) " 21
 
 I-Rsc: compl.
 I-Vnm: compl.
-I-VEaf- C.T.
+I-VEaf: C.T.
 D-Mbs: 6.
 
 

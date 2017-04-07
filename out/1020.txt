@@ -28,7 +28,7 @@ D-Rp: C. (prov. Haberl).
 US-BU: A.
 I-Sd: T.
 
-1-VEaf : 5.
+1-VEaf: 5.
 
 NL-DHg'm: A.
 

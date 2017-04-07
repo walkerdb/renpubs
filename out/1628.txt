@@ -44,7 +44,7 @@ A 3. Gran tempo stato son servo d'amore ;
 " " Se non m'aiutì, amore, questo mio cor sx muore 5
 " " Come consenti, amore, che mi sia tolt'il cuore 6
 " " Faccia pur quanto può fortuna ria 7
-" " Straciami pur, fortuna, : dammi guai 9
+" " Straciami pur, fortuna,: dammi guai 9
 " " Questo tiranno amore hammi piagato il cuore "
 A 4. Ahi fortuna crudel, non satia seì 13
 " " Soccorso vo cercando, ahimè sempre gridando 15

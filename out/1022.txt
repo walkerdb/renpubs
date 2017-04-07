@@ -44,7 +44,7 @@ L'alto e nobil pensier, che sì sovente (Sannazzaro) 19
 Filli, tu sei più bella di quella vaga stella. Aria (C. Pavesi) 20
 Io son il più costante (seconda parte) " " 21
 
-Occhi mici, che miraste si bel sole e nell'ardor godeste 22
+Occhi miei, che miraste si bel sole e nell'ardor godeste 22
 Ma forse non sapete ch'anco (seconda parte) B
 
 Se voi sete, cor mio, quanto ben, quanta gioia haver poss'io 24
@@ -65,5 +65,5 @@ I-Rsc: compl.
 A-Wn: compl.
 PL-GD: compl.
 US-Wc: compl.
-GB-Lbm : C.T.
+GB-Lbm: C.T.
 

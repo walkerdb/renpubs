@@ -49,5 +49,5 @@ Hore, fermate il volo mentre sen vola " 19
 Ninfa leggiadra, acccua questa rosa 21
 
 PL-GD: compl.
-F-Pn : T.
+F-Pn: T.
 

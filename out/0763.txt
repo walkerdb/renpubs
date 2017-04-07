@@ -5,7 +5,7 @@ da molti errori emendato. A tre voci In Venetia apresso di Antonio Gardane. 1552
 3 fasc. in 8° obl. (C.T.B.), pag. 29,(1). Indice = 1551, senza i 4 ultimi Tercetti di G. Scotto.
 D-Mbs: compl.
 I-Bc: T.
-I-VEaf : B.
+I-VEaf: B.
 B-Br: B.
 
 
@@ -51,5 +51,5 @@ Che dolce più, che più gioconda stato saria (Ariosto) 29
 
 Però ch'ogni altro amaro (seconda parte)
 
-A-ng : compl.
+A-ng: compl.
 

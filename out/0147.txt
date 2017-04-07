@@ -16,10 +16,10 @@ D-MZ: B.
 dilettevoli novamente composti, et dati in luce con la musica a tre voci. Di Adriano
 Banchieri bolognese. In Colonia, appresso Gerardo Greuenbruch. Anno 1601.
 
-3 fasc. in 8° (C. 0.2", B.), pag. 29,(1). Indice : 1598.
+3 fasc. in 8° (C. 0.2", B.), pag. 29,(1). Indice: 1598.
 
-D-W- compl.
-D-PA : C.
+D-W: compl.
+D-PA: C.
 
 
 
@@ -40,8 +40,8 @@ Libro Secondo. In Venetia, appresso Ricciardo Amadino. 1607.
 3 fasc. in 8° (C., C.2°, B.), pag. 30. Deda al Come Francesco Gambara, Imola, 20 IX 1607.
 Indice = 1599
 
-I-Bc : compl.
-D-As : compl.
+I-Bc: compl.
+D-As: compl.
 
 
 
@@ -54,7 +54,7 @@ ibro Secondo. In Venetia, appresso Ricciardo Amadino, 1611.
 .; fasc. in 8° (C, (320, B.), pag. 30 Ded. al Conte Francesco Gambara, Imola, 20 IX 11607, Lo
 tamPatore a gli cortesi cantori. Indice = 1599.
 
-GB-Lbm : compl.
-I-A : B.
+GB-Lbm: compl.
+I-A: B.
 
 

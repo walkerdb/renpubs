@@ -53,5 +53,5 @@ D-Mbs: compl
 PL-Wn: CA S.
 US-SFsc (De Bellis): C. (mutilo da pag. B), A., T. (mutilo da pag. 5).
 PL-LEtpn: T.D.
-US-CHH : 5.
+US-CHH: 5.
 

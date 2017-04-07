@@ -7,7 +7,7 @@ sio al re David 1617.
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 21. Indice = 1591.
 
 GB-Lbm: C.A.T.B
-NL-Al : C.T.B.5.
+NL-Al: C.T.B.5.
 
 
 
@@ -22,7 +22,7 @@ signor duca di Mantova. In Anversa appresso Petro Phalesio al re David 1620.
 5 fasc. in 8° obl. (C.A.T.B.5.), pag. 21. Indice = 1591
 
 NL-At: compl.
-GB-Ckc : B.
+GB-Ckc: B.
 
 
 
@@ -49,5 +49,5 @@ BOgardo. 1627.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. B. Indice = 1591.
 
-GB-Lbm : C.A.B.S.
+GB-Lbm: C.A.B.S.
 

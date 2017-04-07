@@ -52,7 +52,7 @@ Amar donna ch'è bella per forza ohimè di stella 20
 Tri! gratiosi amanti a la sua donna avanti. Dialogo 21
 
 I-Fn: compl.
-I-VEaf : compl.
+I-VEaf: compl.
 Pl.-GD: compl.
 I-Rsc: QA.T.B.5.
 

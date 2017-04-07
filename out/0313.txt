@@ -20,7 +20,7 @@ Soffian spesso talhor rabiosi venti (seconda parte) " 16
 [' piansì, hor canto, che'l celeste lume (Petrarca) 16
 Sì profondo era e di sì larga vena (seconda parte) "
 
-I-VEaf : compl.
+I-VEaf: compl.
 D-W: compl.
 I-Rsc: A.T.B.
 I-MOe: A.B

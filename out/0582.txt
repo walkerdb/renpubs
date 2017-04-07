@@ -9,7 +9,7 @@ A 5. Giovan Giacomo et Carlo, spirti felici et rari di generoso ardir 1
 " " Errando un dì per un bel prat'ameno di verdi herbette 5
 " " Et io chi bramo una di quell'al seno (seconda parte) 6
 " " Anna bella gentil, cortcs'et saggia d'ogni virtù di fede 7
-" " Luce degl'occhi mici, lucido sole (seconda parte) B
+" " Luce degl'occhi miei, lucido sole (seconda parte) B
 " " Lucente Apollo a salutar venia la delicata Aurora 9
 " " All'lior vedendo il suo bel viso humano (seconda parte) 9
 " " Che nova luce hor m'arde di lontano (terza parte) lo
@@ -24,7 +24,7 @@ A 6. Et tu che vincerai la vincitrice mia (terza parte) 16
 " " Sint baclio grates. Der uns den vvein ll]
 " " Sapete voi qual sia... Ben so che lo sapete. Alla napolitana 21
 
-D-Mbs : compl
+D-Mbs: compl
 
 
 

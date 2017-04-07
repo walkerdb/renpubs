@@ -45,7 +45,7 @@ I-MOe: compl.
 D-Mbs: compl.
 A-Wn: A.B.5.
 NL-At: C.T.
-D-AN : C.
+D-AN: C.
 F-Pc: A.
 D-HR: B.
 I-Vnm: 5.

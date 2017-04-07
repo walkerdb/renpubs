@@ -1,7 +1,7 @@
 Mirando a caso gl'aurei tuoi capelli parvero d'or 21
 Sostien vago stromento e lo percote con dotta man 22
 
-I-Bc : compl.
+I-Bc: compl.
 
 
 
@@ -41,8 +41,8 @@ A 4. Hor piangete e sperate voi che pietà. Coro a 4 34
 
 A 3. Le tue guancie hor che s'infiorano. A.T.B. e due Violini
 
-I-Bc : compl.
-PL-WRu : T.B.Bc.
+I-Bc: compl.
+PL-WRu: T.B.Bc.
 
 
 

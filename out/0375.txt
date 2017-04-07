@@ -38,7 +38,7 @@ A 6- COme vuol mia fortuna, amor e'l cielo, crrando vado 28
 " " Alzate il cant'o Muec in quest'estremo e meco insieme dite. Alla Contessa di Sala 29
 [Pc: A.
 
-I-VEaf : A,
+I-VEaf: A,
 
 
 

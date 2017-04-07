@@ -27,7 +27,7 @@ Chi chi li chi. Cu cu ru cu. U scontienta, u beschina, u sportunata me Lucia 23
 D-Kl: compl.
 D-Mbs: compl.
 I-MOe: C.A.T.B.5.
-I-VEaf : C.A.B.5.6.
+I-VEaf: C.A.B.5.6.
 
 I-Bc: A.
 NL-DHgm :T. (prov. :Scheurleer).

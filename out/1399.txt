@@ -5,7 +5,7 @@ Moro per voi, mio ben. A Camillo Conti 21
 Nell'uscir che facea la bianca mano 22
 Fiammeggiavan due stelle. anzi soli lucenti B
 Hor dunque non importa, spirto real, che Laura 24
-Bella : nobil signora. Al cav. Scaruffi 25
+Bella: nobil signora. Al cav. Scaruffi 25
 
 D-W: compl.
 I-Bc: A.
@@ -54,6 +54,6 @@ A 6. Alzi il front'il gran re de fium'altero. Al conte Alfonso di Nuvolara 21
 " " Che'l chiaro raggio di Gonzaga ardente (seconda parte) 22
 " " Liete e pensose, accompagnate et sole donne (Petrarca) 22
 
-D-Kl : compl.
-D-Mbs : compl.
+D-Kl: compl.
+D-Mbs: compl.
 

@@ -52,6 +52,6 @@ Gardano. 1583.
 D-Mbs: compl.
 PL-GD: compl.
 I-Bc: C.A.T.B.
-GB-Lbm : C.A.T.
+GB-Lbm: C.A.T.
 
 

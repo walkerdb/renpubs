@@ -29,7 +29,7 @@ et ristampato. In Venetia, 1615. Appresso Ricciardo Amadino.
 
 I-Bc: compl.
 B-Br: C.A.T.B.Bc.
-1-VEaf : A.T.5.
+1-VEaf: A.T.5.
 GB-Lbm: C.
 
 Sartori 1615i e Il 1615i.

@@ -27,8 +27,8 @@ Hor se'l gelo degl'anni (seconda parte) " 35
 
 I-Bc: compl.
 I-Rli: compl.
-D-M Us : compl.
-F-Pthibault : compl.
+D-M Us: compl.
+F-Pthibault: compl.
 
 334 - BERNARDI Stefano (1611) - Di Stefano Bernardi veronese. Il Primo
 Libro di Madrigali a tre voci. Opera Terza. In Roma, nella stamperia dt Bartholomeo

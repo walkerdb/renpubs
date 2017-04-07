@@ -33,7 +33,7 @@ Maestro di Capella della Ser.ma Signoria di Venetia in San Marco, Venetia, 20 X 
 Indice = 1513
 
 GB-Och: compl.
-I-Bc : C.A.T.Bc.
+I-Bc: C.A.T.Bc.
 
 
 

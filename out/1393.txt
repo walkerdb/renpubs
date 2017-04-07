@@ -35,8 +35,8 @@ A 7. Ove, sacre sorelle, fia che posam'il piede, poichè vogli'empie e felle 26
 " " Che farete, occhi miei, poi ch'io non spero che riveder possiate. Dialogo 28
 A 8; Dimmi, virtù, ti preg'ov'lmi tua stanZa. Dialogo 29
 
-Ì-VEaf : 0.5.6.
-D-Rp : A.B.5.
+Ì-VEaf: 0.5.6.
+D-Rp: A.B.5.
 
 
 

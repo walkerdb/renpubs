@@ -14,7 +14,7 @@ A B. Viva sempr'e scolpita vi lengo nel mio cor 13
 " " Ninfe leggiadre e voi almi pastori. correte a garra 16
 " " Hor che soave l'aura in ogni canto move fiori 17
 
-GB-Och : compl.
+GB-Och: compl.
 
 
 

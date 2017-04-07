@@ -38,7 +38,7 @@ Chi brama havere novo piacere di nuovo invito. Il Diletto moderno licenza 21
 I-Bc: compl.
 B-Br: compl.
 D-As: compl.
-D-Kl- compl.
+D-Kl: compl.
 A-Wn: C.1°, C.1°, A.B.
 
 

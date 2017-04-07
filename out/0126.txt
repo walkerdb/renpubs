@@ -5,7 +5,7 @@ Chiudesti i lumi, Armida (ottava parte) " 19
 Dalle vermiglie rose, ch'amor, Filli, ti pose. (Di Paolo Fonghetto) 20
 Tu pur ti parti, o Filli, e teco la mia vita. (Di Paolo Fonghetto) 21
 
-I-Rsc- compl.
+I-Rsc: compl.
 F-VE: C.
 RISM, I 1594-10 (non compl.).
 

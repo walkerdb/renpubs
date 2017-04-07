@@ -16,7 +16,7 @@ Giovanni Bellero. 1598.
 
 D-W: compl.
 GB-Och: compl.
-S-N : compl.
+S-N: compl.
 D-KNu: C.T.B.5.
 
 

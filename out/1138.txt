@@ -5,7 +5,7 @@ La donna è mobil verga e leggier fronda. A 3. ZC. e B. (ZC. e Violone si può f
 Schiera d'aspri martiri (là battaglia di morte. A 3. ZT e B. (Chiabrera) 27
 Paride, voglio il pomo. La Tognada. Dialogo. Togna, Paride, Amore. A 3. C.A.B. 30
 
-I-Baf : compl.
+I-Baf: compl.
 
 
 
@@ -48,8 +48,8 @@ A 7. Cara, diletta aurora, se la mia vila altro non è ch'un bacio 25
 
 A 8. Non sol rose e viole, ma nel vezzoso aprile pietoso avviva
 
-I-Bc : C.T.B.5.Bc.
-I-TSt : C.
+I-Bc: C.T.B.5.Bc.
+I-TSt: C.
 
 
 

@@ -45,8 +45,8 @@ A 9. Sacro er santo Himeneo, il ciel te chiama ;;
 
 " " Vien, desiato bene (seconda parte)
 D-Mbs: compl.
-A-Wn : T.B.5.6.
-I-CMc : B.
+A-Wn: T.B.5.6.
+I-CMc: B.
 
 CORTECCIA Francesco
 Cfr.: WILLAERT Adriano - CORTECCIA Francesco.

@@ -15,7 +15,7 @@ I-Bsp: compl.
 
 I-Sd: compl.
 A-Wn: compl.
-D-F : compl.
+D-F: compl.
 D-Rp: compl.
 I-Vnm: C.A.T.B.5.6.7.8 9.10.11.
 D-As: A.T.B.5.6.7.8.9.10.11.12.

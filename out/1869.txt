@@ -8,7 +8,7 @@ grime, che fuori stillo da gli occhi
 (Ariosto)
 , ell'ardente luce è questa. A Lucretia Ancisa
 
-I-VEaf : compl.
+I-VEaf: compl.
 I-VEcap: compl.
 I-Vnm: C.A.T.5.
 A-Wn: C.A.T.5.

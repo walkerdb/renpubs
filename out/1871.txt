@@ -18,7 +18,7 @@ A 6. Se di quei di, che vaneggiando ho speso dietro a false speranze (Tansillo) 
 A 7. Ond'aviene, cor mio, ch'in tant'affanni hai pur lelitia e gioia. Dialogo B
 
 D-Bs: compl.
-GB-Lbm : A.D.
+GB-Lbm: A.D.
 
 
 

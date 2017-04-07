@@ -28,7 +28,7 @@ I-Bc: compl.
 B-Br: compl.
 B-Bc: compl.
 D-As: compl.
-I-VEaf : C.A.T.B.6.
+I-VEaf: C.A.T.B.6.
 I-Bsp: C.T.B.5.6.
 E-TZ: C.A.B.
 US-Luu: B.5.

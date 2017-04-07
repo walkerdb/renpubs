@@ -29,7 +29,7 @@ A 3. Crudelissime spine. Al., Ten. e lì. Sopra le spine di Christo 32
 I-Bc: compl.
 I-Bofzcompl.
 I-szcompl.
-GB-Lwa : compl.
+GB-Lwa: compl.
 
 
 
@@ -46,7 +46,7 @@ licenza de' Superiori.
 4 fasc. in 8° (C.l", Cl", T. e B., Org.), pag. 31. Ded. di Amadeo Belmonte, Roma 4 X1 1678.
 Indice = al precedente.
 
-I-Ne : C.l".
+I-Ne: C.l".
 
 
 

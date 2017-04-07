@@ -53,9 +53,9 @@ A 6. Mentre per per questi monti andran (sesta parte) " 39
 " " Rose bianche et vermiglie ambe le gote (Bembo) 40
 
 I-Fn (Palatino): compl.
-I-VEaf : compl.
+I-VEaf: compl.
 I-VEcap: compl.
 GB-Lbm: compl.
-I-Af : A.T.
+I-Af: A.T.
 I-Sac: S.
 

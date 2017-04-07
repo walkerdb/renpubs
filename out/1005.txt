@@ -33,7 +33,7 @@ A 5. La bella pargolelta, ch'anCor non sente amore (Tasso) 1
 A 8. Su l'affricane arene vedove spose incatenati e morti piangliin. Al Gran Duca di
 Toscana Cosimo Il (Rinuccini) 20
 
-I-Vnm : compl.
+I-Vnm: compl.
 I-MOe: A.T.B.
 
 
