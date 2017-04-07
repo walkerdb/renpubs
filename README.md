@@ -1,6 +1,12 @@
-A repository for semi-structured representations of renaissance music publications.
+A repository for semi-structured representations of renaissance music publications. Scope for the inital part of this project
+is limited to the publications described in the Nuovo Vogel series.
+ 
+WIP
 
-The current project largely follows the Nuovo Vogel bibliography. Once enough data has been collected, the plan is to transform this metadata into a more common and formal data structure. Things are a bit ugly at the moment, mostly due to the fact that we are beholden to the original NV bibliography formatting.
+## ------
+Edit: old readme below:
+
+
 
 ## Reading the files
 Each file consists of four primary parts:
