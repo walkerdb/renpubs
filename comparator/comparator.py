@@ -5,8 +5,7 @@ from PIL import Image
 
 app = Flask(__name__, static_path="/static")
 
-IMG_ROOT = "/Volumes/Samsung USB/nv images/data"
-TXT_ROOT = "data"
+TXT_ROOT = "../input_output/data"
 
 @app.route("/")
 def index():

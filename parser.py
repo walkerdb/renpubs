@@ -5,6 +5,7 @@ import re
 
 import jsonpickle
 
+from domain.formattedoutput import FormattedOutput
 from nvdomain.nventry import NvEntry
 
 
@@ -12,7 +13,8 @@ def main(start, end):
     texts = extract_texts(end, start)
     publications = re.split(r"\n\n\n\n+", texts)
     entries = [NvEntry(pub) for pub in publications]
-    pprint(jsonpickle.json.loads(jsonpickle.dumps(entries, unpicklable=False)))
+    output = FormattedOutput(entries)
+    pprint(jsonpickle.json.loads(jsonpickle.dumps(output.publications[0], unpicklable=False)))
 
 
 def extract_texts(end, start):
