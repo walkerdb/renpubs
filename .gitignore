@@ -3,4 +3,5 @@ text-detection-6d612dadff53.json
 *.iml
 .cache
 __pycache__
+*aws.py
 
