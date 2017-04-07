@@ -26,6 +26,12 @@ class TestHeader(TestCase):
 
         self.assertEquals(header.number, "122 bis")
 
+    def test_processes_weird_author(self):
+        input = "122 bis - ALFONSO dalla Viola  (1575) - Title"
+        header = Header(input)
+
+        self.assertEquals(header.composers[0], "Alfonso dalla Viola")
+
     def test_processes_year_weirdness_questionmark(self):
         input = "122 - ARCHADELT Jacques (1575?) - Title"
         header = Header(input)

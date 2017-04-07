@@ -7,7 +7,12 @@ from util.spelling import OldToModernSpellingPair
 
 
 def normalize_name(composer):
-    caps_name = re.findall("([A-ZÈÉÌÍÁÙÚÜ ]*?) [A-Z][a-zéèîìáùúü]", composer)[0]
+    if "dalla Viola" in composer:
+        return "Alfonso dalla Viola"
+    if "Flandrus" in composer:
+        return "Arnoldus Flandrus"
+
+    caps_name = re.findall("([A-ZÈÉÌÍÁÙÚÜ ']*?) [A-Zd]['a-zéèîìáùúü]", composer)[0]
 
     name_without_caps_part = composer.replace(caps_name, "").strip()
     return "{} {}".format(name_without_caps_part, caps_name.title())
@@ -88,6 +93,12 @@ class Header(FieldEqualityMixin):
     @staticmethod
     def extract_english_terms_from_italian_title_with_mapping(mapping, title):
         return sorted(list({eng_term for it_term, eng_term in mapping.items() if it_term.lower() in title.lower()}))
+
+    def get_default_composer(self):
+        return self.composers[0] if len(self.composers) > 0 else ""
+
+    def get_default_voices(self):
+        return self.voices[0] if len(self.voices) > 0 else ""
 
 
 

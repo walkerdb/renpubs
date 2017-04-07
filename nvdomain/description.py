@@ -8,11 +8,10 @@ from util.field_equality_mixin import FieldEqualityMixin
 class Description(FieldEqualityMixin):
     def __init__(self, raw_description):
         description, dedication = self.extract_description_and_dedication(raw_description)
-        self.raw_description = description
-        self.raw_dedication = dedication
         self.book_details = BookDetails(description)
         self.dedication = Dedication(dedication)
         self.index = self.extract_index(raw_description)
+        self.voices = self.extract_voices(description)
 
     @staticmethod
     def extract_description_and_dedication(raw_description):
@@ -29,3 +28,6 @@ class Description(FieldEqualityMixin):
     @staticmethod
     def extract_index(text):
         return re.findall(r"Indice ?[=:] ?((?:[\d\-]+|al preced))|$", text)[0].strip("- ")
+
+    def extract_voices(self, description):
+        return re.findall(r" \((.+?)\)|$", description)[0]
