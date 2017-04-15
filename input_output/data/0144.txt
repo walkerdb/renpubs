@@ -1,15 +1,20 @@
-222 .. BANCHIERI Adriano (Camillo Scaligeri dalla Fratta) (1598-1) - La nobilissima
-an21 asinissima compagnia delli briganti della Bastina. Descritta, et compilata
+
+
+
+
+
+222 - BANCHIERI Adriano (1598-1) - La nobilissima
+anzi asinissima compagnia delli briganti della Bastina. Descritta, et compilata
 da quattro Imbastinati Auttori, l'uno de' quali è M. Ragghiante Basticci,
 tesoriero delle asinerie, et l'altro è M. Cengione Allacciati secretario maggiore di
 essa compagnia. Opera nuova, ingegnosa, piacevole, et degna di riso. Dedicata al
-SOdiss. Slg. Arcifanfo Spidocchioni. Compositione di Camillo Scaligeri dalla Fratta
+sodiss. Slg. Arcifanfo Spidocchioni. Compositione di Camillo Scaligeri dalla Fratta
 In Milano, presso il q.m Pacifico Pontio, 1598.
 
 Vol. in 8°, pag. (24). Indice = 1597.
-I-Mt
-I-Vc (T orrefranca)
 
+I-Mt
+I-Vc (Torrefranca)
 A-Wn
 F-Pn
 
@@ -17,7 +22,7 @@ F-Pn
 
 
 
-222 bis - BANCHIERI Adriano (Camillo Scaligeri dalla Fratta) (15982) ' La
+222 bis - BANCHIERI Adriano (1598-2) - La
 nobilissima anzi asinissima compagnia delli briganti della Bastina. Descritta et
 compilata da quattro imbastinati auttori, l'uno de' quali è M. Ragghiante Bastici,
 tesoriero delle asinerie, et l'altro è M. Cengione Allacciati secretario maggiore di
@@ -26,15 +31,16 @@ al sodiss. sig. Arcifanfo Spidocchioni. Compositione di Camillo Scaligeri dalla
 Fratta. In Milano, appresso Gratiadio Ferioli, 1598.
 
 Vol. in 8°, pag. (24). Indice = 1597.
+
 I-Bu
 
 
 
 
 
-223 - BANCHIERI Adriano (Camillo Scaligeri dalla Fratta) (1611) .- La nobilissima
-anzi asinissima compagnia delli briganti della Bastina. Descritta, e cOſſf'
-pilata da quattro, imbastinati autori, i nomi de' quali sono, M. Ragghiante Basticc1,
+223 - BANCHIERI Adriano (1611) - La nobilissima
+anzi asinissima compagnia delli briganti della Bastina. Descritta, e compilata
+da quattro, imbastinati autori, i nomi de' quali sono, M. Ragghiante Basticci,
 tesoriero delle asinerie, M. Cengione Allacciati secretario maggiore, M. Sodesco
 Cavezza, mastro degl'intranti, M. Fibbia Pungentini, cancelliere. Opera nuova,
 ingegnosa, piacevole, e degna di riso. Compositione di Camillo Scaligeri dalla
@@ -52,4 +58,3 @@ I-VIb
 D-F
 F-Pn
 GB-Lbm
-

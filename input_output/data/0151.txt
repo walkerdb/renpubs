@@ -1,12 +1,11 @@
 Baciansi, alma mia stella. Dialogo Aminta, Dafne et Giuditio d'amore 10
-
 Ecco la passcrina. Gioco della passerina 11
-Baci, sospiri et voci alternavan duc bocche (Casone) 12.
+Baci, sospiri et voci alternavan duc bocche (Casone) 12
 Il misero mio core. Ergasto appassionato 13
 Alla riva d'un fonte. Preparamento pastorale 14
 S'io miro il bel crin d'oro. Gara amorosa di pastori 15
 Venite, amanti, insieme con suoni e canti. Danza di pastori e ninfe con la ripresa 16
-Son tornato, o compagnia. Licenza dell'l-Iumor spensierato 18
+Son tornato, o compagnia. Licenza dell'Humor spensierato 18
 
 D-As: compl.
 
@@ -32,7 +31,7 @@ A 1 Vezosetta pargoletta che m'uccide, ohimè non fuggir. Parole del Pesarino 1
 " " Hor che tace Filomena e che Progne a i novi albori. Del Pesarino 7
 " " Bella sei, Cara e vezzosa, gratiosa Filli mia. Del Pesarino 8
 " " Donna, già piansi, hor canto, sprigionato da te. Di Monsignor Bertoldi 9
-A 2 D'una guancia, alma, ridente, ch'arrossir fà in ciel. Di Rinuccini ...
+A 2 D'una guancia, alma, ridente, ch'arrossir fà in ciel. Di Rinuccini 10
 " " Filli mia, Filli cara, non m'esser avara d'un tuo dolce. Del Pesarino 12
 " " Cloride mia, che sarà del mio cor, ch'ad ogn'or. Del Pesarino 14
 " " Filli bella e gentile, deh vieni soletta a premer qui. Del Pesarino 16
@@ -40,9 +39,9 @@ A 2 D'una guancia, alma, ridente, ch'arrossir fà in ciel. Di Rinuccini ...
 " " Come cara sei, vezzosa, amorosa pastorella. Del Pesarino 20
 " " Corri Filli, corri al prato. Qui vedrai ninfe e pastori. Del Pesarino 22.
 " " Filli mia, dove ten vai, baldanzosa saltellando? Del Pesarino 24
-" " Altro non è il mio cor che desir e dolor
+" " Altro non è il mio cor che desir e dolor 16
 " " Se bel rio, se bell'auretta tra l'herbetta sul martin. Di Gabriello Chiabrera 27
-" " Sul mattin, quando colora lalma aurora de la 'notte [ cum.-(di Rinucemi) 28
+" " Sul mattin, quando colora lalma aurora de la 'notte i cupi (di Rinucemi) 28
 " " Vaghi rai, mercede, aita. Giù nel sen mirate il core. (di Rinuccini) 30
 A 1 Vuol ch'io l'ami costei, ma un duro freno m'impone. Di Torquato Tasso 32
 " " Occhi leggiadri, in bellezza e amore hanno. DI Gio. Francesco Corniani 34
@@ -53,6 +52,4 @@ A 1 Vuol ch'io l'ami costei, ma un duro freno m'impone. Di Torquato Tasso 32
 " " Qui, dove più soave e più odorati dando prodighi. Di Francesco Contarini. 44
 
 GB-Och
-
--143-
 
