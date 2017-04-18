@@ -1,45 +1,28 @@
-A Signori Lettori: " Nel primo libro cle Madrigali, ch'io diedi alla stampa già due Anni havendo
-determinato di far questi pochi versi a voi Sig. Lettori, e perche non gl'inviai all'Amadinn
-assieme con la dedicatoria, non vi fù luoco poi da poterli mettere, essendo di già pieni tuttii
-dieci fogli, Hora havendo dato fuori il secondo, mi è parso farvi noto, la cagione, perche mi sia
-risoluto di stampare questi due libri de Madrigali; la qual'è che molti di essi, havendogl'io date
-51 ciascheduno che me gli recercava, indi à poco tempo mi ritornarono cosi trasformati, ch'io
-non gli riconoscevo per miei... mà quello che più mi preme, è, che alcuni son'ritornati sotto nome
-d'altri, et in particolare il primo di questo libro, che comincia (Cane è Turco mi dice) con esscrli
-stato mutato quel passo (vò corseggiando) si che mi è parso acciò queste poche fatiche siano
-riconosciute per mie darle alla stampa... quei Madrigali, quali sono in chiave di soprano, si possono
-cantare in Tenore all'ottava sotto, che è veramente il suo proprio da cantare nel Chitarronc
-ò Tiorba che vogliam' dire, che per commodità di chi suona di Clavecimbalo, en in particulate
-per le Dame mi è parso metterle in detta chiave. Et vivete felici n.
 
-Cane e turco, mi dice la cara lingua, ch'io sperai, Parole di Michelangelo Angelico 1
-Nel mar del pianto mio, desir le navi furo Di Gio. Battista Leoni
 
-Spasmo s'io non ti veggio, moro se tu non m'ami Di Cesare Rinaldi 5
-Com'è soave cosa tanto goder quant'ami Del cav. Gio. Battista Guarini 6
-Soccorso al mio languire, occhi, stelle lucenti Di Francesco Contarini 7
-Queste lacrime amare, che son negl'occhi miei Di Michele Sagramoso 8
-Clori mi dicd'un bacio, Armilla un fiore Del Contarini 9
-Ecco l'alma, che fuore vien dal petto angoscioso Di Gio. Battista Mamiani 10
-Io sprezzarti? Io fuggirti, anima mia? Di Girolamo Priuli "
-Deh dimmi, anima mia, poichè col tuo partire Di Guerrino Tiberii 15
-Ridete pur, ridete, donna, che col bel riso Di Gasparo Murtola 16
-Io moro, ecco ch'io moro, Come viver poss'io, crudel. Dell'Angelico 17
-L'ombre crudeli e sorde già moss'il suon Di Ottavio Rinuccini 19
-Son io morto? o pur vivo? Se viv'io son Del Mamiani 21
-Tutta leggiadr'e bella la vezzosetta Clori Del Barbarino 22
-M'è più dolce il penar per Amarilli, che gioir Del cav. Guerrini (= Guarini) 23
-Perchè tanto accarezzi, semplicetta crudel Dell'Angelico 25
+Cane e turco, mi dice la cara lingua, ch'io sperai, Parole 1
+Nel mar del pianto mio, desir le navi furo 3
+Spasmo s'io non ti veggio, moro se tu non m'ami 5
+Com'è soave cosa tanto goder quant'ami 6
+Soccorso al mio languire, occhi, stelle lucenti 7
+Queste lacrime amare, che son negl'occhi miei 8
+Clori mi dicd'un bacio, Armilla un fiore 9
+Ecco l'alma, che fuore vien dal petto angoscioso 10
+Io sprezzarti? Io fuggirti, anima mia? Di Girolamo Priuli 11
+Deh dimmi, anima mia, poichè col tuo partire 15
+Ridete pur, ridete, donna, che col bel riso 16
+Io moro, ecco ch'io moro, Come viver poss'io, crudel. 17
+L'ombre crudeli e sorde già moss'il suon 19
+Son io morto? o pur vivo? Se viv'io son 21
+Tutta leggiadr'e bella la vezzosetta Clori 22
+M'è più dolce il penar per Amarilli, che gioir 23
+Perchè tanto accarezzi, semplicetta crudel 25
 S'avvicina il partire e, che dich'io, il morire 26
-Son morto, ahi lasso, e voi cagion ne sete Di Pietro Capello 27
+Son morto, ahi lasso, e voi cagion ne sete 27
 S'ergano al cielo le procell'e l'onde Dei Cappello 29
-
-Ferma, ferma. Caronte. Chi è colui che grida? Dialogo. La prima volta il Soprano in fine
-[dice solo, alla replica in compagnia 31
-
-Quella vermiglia rosa, ch'al matutino gielo (Rinuccini)
-
-Se voi, lagrime, a pieno non mostrat'il dolore
+Ferma, ferma. Caronte. Chi è colui che grida? Dialogo. La prima volta il Soprano in fine dice solo, alla replica in compagnia 31
+Quella vermiglia rosa, ch'al matutino gielo 33
+Se voi, lagrime, a pieno non mostrat'il dolore 35
 
 I-Bc
 I-Gu
@@ -48,16 +31,12 @@ I-Gu
 
 
 
-243 - BARBARlNO Bartolomeo (1611) - Il Secondo Libro de Madrigali dc
-diversi auttori posti in musica da Bartolomeo Barbarino. da Fabriano, detto il Pesarino.
-Per cantare sopra il Chitarrone o Tlorba, Clavic1mbalo, o altri stromentl,
+243 - BARBARINO Bartolomeo (1611) - Il Secondo Libro de Madrigali de
+diversi auttori posti in musica da Bartolomeo Barbarino da Fabriano, detto il Pesarino.
+Per cantare sopra il Chitarrone o Tlorba, Clavicimbalo, o altri stromenti,
 da una voce sola, con un Dialogo di Anima e Caronte. Nuovamente ristampato.
-
 Con privilegio. In Venetia, appresso Ricciardo Amadino. 1611.
 
 Vol. in 4°, pag. 36,(1). Indice = 1607.
 
 GB-Och
-
--146- -
-

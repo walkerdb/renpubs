@@ -29,7 +29,7 @@ I-Tn: T.
 
 
 
-2375 - (De) RORE Cyprien (1552) - Di Cipriano de Rore il Primo Libro dc
+2375 - (De) RORE Cyprien (1552) - Di Cipriano de Rore il Primo Libro de
 Madrigali a quatro voci novamente per Antonio Gardane con ogni diligentia
 ristampato. A quatro voci. In Venetia apresso di Antonio Gardane. 1552.
 
@@ -42,7 +42,7 @@ US-Cn: C.
 
 
 
-2376 - (De) RORE Cyprien (1554) - Di Cipriano de Rete il Primo Libro dc
+2376 - (De) RORE Cyprien (1554) - Di Cipriano de Rete il Primo Libro de
 Madrigali a quattro voci novamente con ogni diligentia corretti et ristampati.
 Venetiis, apud Hieronymum Scotum. 1554.
 
