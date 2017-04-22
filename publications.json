@@ -342,12 +342,12 @@
       "location": "Lucca",
       "printers": [
         {
-          "modern": "Bernardino Pieri",
-          "original": "i Pieri,"
-        },
-        {
           "modern": "Giacinto Paci",
           "original": "e Paci,"
+        },
+        {
+          "modern": "Bernardino Pieri",
+          "original": "i Pieri,"
         }
       ]
     },
@@ -17184,12 +17184,12 @@
       "location": "Rome",
       "printers": [
         {
-          "modern": "Valerio Dorico",
-          "original": "Valerio et Luygi"
-        },
-        {
           "modern": "Luigi Dorico",
           "original": "Luygi Dorici"
+        },
+        {
+          "modern": "Valerio Dorico",
+          "original": "Valerio et Luygi"
         }
       ]
     },
@@ -24833,12 +24833,12 @@
       "location": "Naples",
       "printers": [
         {
-          "modern": "Giovanni Battista Sottile",
-          "original": "Sottile"
-        },
-        {
           "modern": "Scipione Bonino",
           "original": "Scipione Bonino"
+        },
+        {
+          "modern": "Giovanni Battista Sottile",
+          "original": "Sottile"
         },
         {
           "modern": "Giovanni Battista Sottile",
@@ -38576,12 +38576,12 @@
       "location": "Milan",
       "printers": [
         {
-          "modern": "Simon Tini",
-          "original": "Simon Tini"
-        },
-        {
           "modern": "Filippo Lomazzo",
           "original": "Filippo Lomazzo"
+        },
+        {
+          "modern": "Simon Tini",
+          "original": "Simon Tini"
         }
       ]
     },
@@ -39147,5 +39147,219 @@
       }
     ],
     "year": "1622"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "C",
+      "dedicator": "",
+      "location": {
+        "modern": "Bologna",
+        "original": "Bologna"
+      },
+      "text": "Nell'istesso giorno, che questa mia nuova fatica Musicale doveva incaminare alla Stampa di Venetia nell'istesso giorno apunto mi fù letta una lettera di V.S. Illustrissima... dal M.R.P.D. Bartolomeo Gavante preposito di S. Paolo qui in Bologna dentrovi l'affettuosa istanza in haver? qualche mia compositione... Hò sentito gran mortificatione quando nel di lei pasaggio favorì il nostro Monasterio, non potessi scoprire quel desiderio ch'ella tiene di conoscermi di presenza... S. Michele in Bosco, 25 Il 1626 \"."
+    },
+    "genres": [
+      "Arias"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "216"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl. (prov. Borghese).",
+          "siglum": "GB-Lbm"
+        },
+        {
+          "parts": "1626b.",
+          "siglum": "Sartori"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 5,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Bartolomeo Magni",
+          "original": "Bartholomeo Magni"
+        }
+      ]
+    },
+    "title": "Il Virtuoso Ritrovo Academico del Dissonante,  publicamente praticato con variati Concerti musicali a 1. 2. 3. 4. 5. voci o stromenti, nell'Academia de Filomusi. Opera XLIX. Di D. Adriano Bantichieri abbate olivetano, il Dissonante, e nell'Academia de Filomusi di Bologna odierno prencipe. Dedicate all'illust.mo et rev.mo sig. Gio. Battista Grimaii (ric) del Patriarcato  Ierosolimitano vicario generale apostolico; consigliero et elemosimero di sua maestà cesarea, etc. In Venetia 1626. Appresso Bartholomeo Magni.",
+    "voices": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "",
+        "title": "Deh cieli inseritevi. Sdrucciolo, dui tenori",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "",
+        "title": "Io son pur vezzosetta. Romaresca, dui sopr. o ten. o Violini",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "",
+        "title": "O belissimi capelli, miei dolcissimi diletti. A 2.4",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "Guarini",
+        "title": "O come sei gentile, caro augelin. Scherzo, dui sopr. o ten. o Viol",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "",
+        "title": "Voi dite esser di foco e tutta giaccio sete. Bizaria, dui sopr. o ten. o Viol",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "",
+        "title": "Canzone  prima sopra la Romanesca. Riprese e scherzi con dui Violini",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "Guarini",
+        "title": "O misera Dorinda, ov'hai tu poste. Dorinda, soprano et tenore",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "",
+        "title": "Canzone  seconda sopra la Nizzarda. Riprese e scherzn con dui Violini",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "Guarini",
+        "title": "O Mirtillo, Mirtillo, anima mia. Amarilli, soprano e tenore",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "",
+        "title": "Canzone  terza sopra la Ducale. Riprese e scherZi con dui Violini",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Cor mio, deh non languire. Madrigale, canto o tenore",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "Marino",
+        "title": "O chiome erranti, chiome dorate, inanellare. Madrigale",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "",
+        "title": "Fili. Fili. ove t'ascondi. Canzonetta. Violino 12",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "",
+        "title": "Tra questi sassi. Lamento di Leandro pastore sovra un Ruggero. Primo tenore solo",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "seconda stanza",
+        "title": "Poi ch'io son solo. Secondo tenore solo",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "terza stanza",
+        "title": "Ne faran fede. Secondo tenore solo",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "quarta stanza",
+        "title": "Deh foss'io morto. Secondo tenore solo",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "quinta stanza",
+        "title": "Di sasso in sasso. Dui tenori acoppiati",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "",
+        "title": "Nel volto ha Fili ascose, Madrigale a 2 e piacendo a 4. Basso, canto e 2 Viol",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "",
+        "title": "Treccie ombriose, ove s'asconde. Aria del Gran Duca. Sinfonia, a 2 e piacendo a 4. Tenore o soprano",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "",
+        "title": "La Sampogna. Canzone con 4 Viole da braccio. A 4",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "part": 1,
+        "poet": "",
+        "title": "Nacque amor cieco. Madrigale a 5, dui sopr., alto, tenore e basso",
+        "voices": 1
+      }
+    ],
+    "year": "1626"
   }
 ]
