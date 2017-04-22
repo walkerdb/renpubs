@@ -10,7 +10,7 @@ size_map = {
 
 class BookDetails(FieldEqualityMixin):
     def __init__(self, description):
-        self.count = self.extract_book_count(description)
+        self.partbook_count = self.extract_book_count(description)
         self.size = self.extract_book_size(description)
         self.pages = self.extract_pages(description)
         self.is_oblong = " obl." in description

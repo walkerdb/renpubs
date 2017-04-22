@@ -37,6 +37,7 @@ class BookData(object):
 class Publication(object):
     def __init__(self, nv_entry):
         self.title = nv_entry.header.title
+        self.identifiers = {"nuovo_vogel": nv_entry.header.number}
         self.year = nv_entry.header.year
         self.composers = nv_entry.header.composers,
         self.printing_info = {
@@ -44,9 +45,8 @@ class Publication(object):
             "location": nv_entry.header.printing_location.modern
         }
         self.genres = nv_entry.header.genres
-        self.series_number = nv_entry.header.number
         self.voices = nv_entry.header.voices
-        self.book_info = nv_entry.description.book_details
+        self.physical_description = nv_entry.description.book_details
         self.dedication = nv_entry.description.dedication
         self.works = nv_entry.works.works
         self.library_locations = nv_entry.library_locations
@@ -62,7 +62,7 @@ class Publication(object):
             "genres": [],
             "series_number": 0, # primo, secondo, etc
             "voices": [], # iterate over works
-            "book_info": {
+            "physical_description": {
                 "number_of_books": 0,
                 "book_size": "Quarto",
                 "pages": 0,

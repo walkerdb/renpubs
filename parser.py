@@ -2,6 +2,7 @@ import os
 from pprint import pprint
 
 import re
+import json
 
 import jsonpickle
 
@@ -14,7 +15,8 @@ def main(start, end):
     publications = re.split(r"\n\n\n\n+", texts)
     entries = [NvEntry(pub) for pub in publications]
     output = FormattedOutput(entries)
-    pprint(jsonpickle.json.loads(jsonpickle.dumps(output.publications[0], unpicklable=False)))
+    with open("publications.json", mode="w") as f:
+        json.dump(json.loads(jsonpickle.dumps(output.publications, unpicklable=False)), f, indent=2, sort_keys=True, ensure_ascii=False)
 
 
 def extract_texts(end, start):

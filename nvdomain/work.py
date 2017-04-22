@@ -29,7 +29,10 @@ class Work(FieldEqualityMixin):
 
     @staticmethod
     def find_voices(text):
-        return re.findall(r"^A (\d\d?)|$", text)[0]
+        try:
+            return int(re.findall(r"^A (\d\d?)|$", text)[0])
+        except ValueError:
+            return ""
 
     @staticmethod
     def extract_title(text):
