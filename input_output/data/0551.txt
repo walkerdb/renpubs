@@ -17,7 +17,7 @@ A 1. .Cara mia celra, andiannc a ritrovar colei 1
 " " Se'n me, donna, movete le vostre luci liete 3
 " " lo son nel duol sì vinto ch'ngni senso nel cor homai (- spento 4
 " " lntencrite voi, lagrime mie, quel duro core (Rinuccini) 5
-" " Ben è ver ch'e-i pargoleggia, ch'ci vezzcggìa (Chiabrera) 6
+" " Ben è ver ch'e-i pargoleggia, ch'ci vezzeggìa (Chiabrera) 6
 " " Ricde la primavera, torna la bella Clori (Marino) 7
 " " Donna, mentr'io vi miro visibilmente mi trasform'in voi (Guarini) 8
 " " Vaghe faville dalle pupille vibra lo scherzo e'l gioco 9
@@ -36,7 +36,7 @@ A 1. .Cara mia celra, andiannc a ritrovar colei 1
 " " Ma che? squallid'e oscuro anco (seconda parte) " 22
 " " Da l'onde del mio pianto a dietro volti 24
 " " F'Îrmſi' Dnrinda mia, deh ferma il piede. Madrigale in stile recitativo 25
-:: :;ÎcgîſſzînſilſfſîTFÎLl-rZÌ !: fere e ilsalssi. Sopra il basso della Romanesca (Rinuccini) 26
+:: :;ÎegîſſzînſilſfſîTFÎLl-rZÌ !: fere e ilsalssi. Sopra il basso della Romanesca (Rinuccini) 26
 . . queste (0 Cl nou e quest accenti 28
 " " O se torna il mio sol di raggi adorno 29
 " " Son gl'acccnti ch'ascolto di sirena o di musa? 30

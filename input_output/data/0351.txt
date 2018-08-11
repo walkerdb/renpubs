@@ -34,7 +34,7 @@ A 5 Io son ferito a mort'e per punire colei che mi feri (Groto) 1
 " " Hor come augel che fugga a tempo (seconda parte) " 6
 " " Scendesti dalle stelle cose sì belle et hor del verde alloro 7
 " " Se mentr'in schelz'e'n gioco la dolce lingua snodi 3
-" " Un nuovo sole ſà l'usato effetto chè s'cgli 9
+" " Un nuovo sole ſà l'usato effetto chè s'egli 9
 " " D01ce candida neve, ch'uscistì di non men candide mani 10
 " " O dolce anima mia, dunqu'è pur vero che cangiando (Guarini) 11
 " " Ch'io non t'ami, cor mio. ch'io non sia. Risposta (seconda parte) " 12
