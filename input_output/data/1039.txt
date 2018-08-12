@@ -4,7 +4,7 @@ Baci, ohimè non mirnlc (quinta pnrle) " 20
 Vivrò dunque lontano da le, mio chiaro sol },]
 I-Bc: compl.
 GB-Ob: compl.
-I-VEnſ: C.A.T.B.5.
+I-VEnf: C.A.T.B.5.
 
 I-MOe: C.A.T.B.6.
 I-Rsc: C.A.B.5.6.

@@ -20,7 +20,7 @@ A 4. Sospir, che del bel petto di madonna esci fore, dimmi (Marino) 1
 " " Donna, è ver che piangete, ma non e meraviglia. Con Sinfonia se piace " 9
 " " Piagni, donna, e sospiri, ma i tuoi pianti, i sospiri. Con Sinfonia se piace " 10
 A 5. Di marmo siete mi, donna, ai colpi d'amore, al pianto mio " 11
-" " In queste bianche carte a la mia bianca ſè sembianti sassi " 12
+" " In queste bianche carte a la mia bianca fè sembianti sassi " 12
 " " Ohimè parlo. il partire e parte (lel morire. Morirò, pera la vita 13
 " " Dammi l'ultimo a dio. Ahi, parto, ben mio. Per memoria di noi 14
 " " A dio, Cloride. Ahi tu piagni, mio core. Taci, non piagner più 15
@@ -28,7 +28,7 @@ A 5. Di marmo siete mi, donna, ai colpi d'amore, al pianto mio " 11
 " " Ahi, perchè segui Lisa, sciocca amante. un amato. Con Sinfonia se piace 17
 " " Già più volte tremante per trovar al mio mal rimedio. Con Sinfonia se piace (Marino) 18
 >! " Strana armonia d'amore al tuo cantar forma il mio core. Cin Sinfonia se piace " 19
-" " Pon ſren, donna reale. al tuo chiaro splendore. Cin Sinfonia se piace " 20
+" " Pon fren, donna reale. al tuo chiaro splendore. Cin Sinfonia se piace " 20
 
 I-Bc: compl.
 I-VEcap: A.T.B.5., B. per sonare.
@@ -47,7 +47,7 @@ Illustrissima l'antica mia osservanza verso di lei... gradì quella sorte di Can
 ottimi maestri, et inventori cantatelc... Loreto. ZO XII 1612 ".
 
 A 1. Sei tu cor mio, che vai gridando i' moro? lo son. Dialogo 1
-" " Quel neo, quel vago neo, che ſà d'aurate fila ombra (Marino) 2
+" " Quel neo, quel vago neo, che fà d'aurate fila ombra (Marino) 2
 
 -]279-
 

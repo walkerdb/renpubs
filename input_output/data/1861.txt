@@ -1,10 +1,10 @@
-A 5. O ficr'aspr'e selvaggie, amoroſich'augelli 25
+A 5. O ficr'aspr'e selvaggie, amorofich'augelli 25
 
 " " Pien (l'un vago pensier, che mi disvia (Petrarca) 26
 " " nen, s'io non erro, di pietad'un raggio (seconda parte) " 27
 " " Passa la nave mia colma d'oblio per aspro mar " 28
 " " Pioggia di lagrimar, nebbia di sdegni (seconda parte) " 29
-" " Passer mai solitari'in alcun letto non ſu " 30
+" " Passer mai solitari'in alcun letto non fu " 30
 " " il sonn'è veramente qual huom dice (seconda parte) " 31
 " " La verginèll'è simil a la rosa, ch'in bel giardin (Ariosto) 32
 " " Ma non si (oslo dal materno stelo (seconda parle) " 33
@@ -20,7 +20,7 @@ I-VCd: C.T.B.5.
 B-Br: A.
 F-Pc: T.
 
-Un esempl. Compl., ma diſeumo. esisteva nella Collezmne Heyer di Rol".
+Un esempl. Compl., ma difeumo. esisteva nella Collezmne Heyer di Rol".
 
 2968 - (Dc) WERT Jacob (1561) - Madrigali del fiore a cinque voci, :Libro
 Primo. Composti da Giachcs, de Wert, nuovamente posti in luce, et con ogni dll]gencia

@@ -31,7 +31,7 @@ A 6. Sì gioioso mi fanno i dolor miei, donna. per amar voi (Cassola) 31
 GB-Lcm: compl.
 I-Bc: A.
 GB-Lbm: A.
-I-MOe: B. ſramm.
+I-MOe: B. framm.
 
 
 

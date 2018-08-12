@@ -14,14 +14,14 @@ n " Ben mio, tu sai se'l core givisce per tuo amore. Amante fedele. Parole del C
 " " Bionda mia bella, bella mia bionda, quando non ti miro. Bionda bella. Parole del
 [Cataneo 36
 
-n " \ſi'ienni, Lavinia bella, a rallegrart'in questo lieto giorno. Invita la sua D. a goder lc
+n " \fi'ienni, Lavinia bella, a rallegrart'in questo lieto giorno. Invita la sua D. a goder lc
 [bellezze di Posilipo. Parole d'incerto 38
 
 " " Pmsô l'ardore e vivo in festa e gioco. Amante pentito. Parole del Cataneo 40
 " " Voi mi dite, cor mio, ch'instahile son io. Amante fedele. Parole del Cataneo 42
 n " Oliimè che t'ho fatt'io, caro amor mio. Fuggitiva. Parole del Cataneo "
 
-n " Come potrò giamai vivo scampare ſuora di questo tempestoso mare. Fortuna contraria.
+n " Come potrò giamai vivo scampare fuora di questo tempestoso mare. Fortuna contraria.
 [Parole d'inceno 46
 
 I-Bc
@@ -36,7 +36,7 @@ rinchiuse tra due virgole, et sotto non vi sono segnate parole, le quali il dili
 Cantore le potrà convertire in pause, atteso sono fatte per commodita di chi sorllîl.
 all'hora quando la parte del Basso pausa, et di più avertasi che alle lettere de a
 Chitarra vi sono alcune. F. rinchiuse tra dui punti, et significa che si habbia a
-formaſ di modo che ci entri la decima minore. In Napoli, appresso Gio: Battuta
+formaf di modo che ci entri la decima minore. In Napoli, appresso Gio: Battuta
 Gargano, et Matteo Nucci. 1618. Con licenza de' Superiori. Si vendono da Pietro
 Paolo Riccio libraro, al segno della Madonna.
 

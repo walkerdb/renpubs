@@ -12,7 +12,7 @@ intelletto... Bologna, 24 Xl] 1582 ".
 A 5. Perchè la vita è breve e l'ingegno paventa (Petrarca) 3
 " " Donna, vorrei pur dirvi com'io moro per voi 4
 " " ingrata mia nemica, poi che così volete, io vo morire 5
-" " Ape sacra et gentile, che dai più grati odori ſuri 6
+" " Ape sacra et gentile, che dai più grati odori furi 6
 " " Amor, per tua mercè, vattene a quella che m'è così rubella 7
 " " Se quella tanto celebrata Laura fosse stata in virtù. A Laura Bovia 8
 " " Ma s'ci volca pur appressarsi al vero (seconda parte) 9
@@ -21,7 +21,7 @@ A 5. Perchè la vita è breve e l'ingegno paventa (Petrarca) 3
 " "' Non è questa la mano, che tante e sì mortali aventò nel mio cor (Tasso) 12
 " " Dir non posso, man cara, quanto porge di ben tua cortesia 13
 "" Gioia l'ara infinita, man cara (seconda parte) 14
-n " Già fiammeggiava l'amorosa stella per l'oriente (PC\ſHTC-î) 15
+n " Già fiammeggiava l'amorosa stella per l'oriente (PC\fHTC-î) 15
 " " Ne l'apparir de l'amorosa aurora con Agrio, Mopso e'l gran pastor 16
 " " Tutti prescro all'hora così l'aria :\ ferir (seconda parte) 17
 " " Ben vengh'il pastor mio, ben venga la mia ninpha 18

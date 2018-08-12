@@ -50,7 +50,7 @@ PL-GD: compl. (2° esempl.: C.A.T.B.).
 I-Bsp: A.T.5.
 F-Pa: C.T.
 F-Pn: B.
-ſ-MAc: S.
+f-MAc: S.
 Î-Fm: 5.
 US-NYp: 5.
 

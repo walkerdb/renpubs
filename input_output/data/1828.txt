@@ -1,10 +1,10 @@
 NL-At: C.
 I-O: T.
-I-Vc (Torrcſrnnca): A.
+I-Vc (Torrcfrnnca): A.
 
 RISM, I 1564-20 (non compl.).
 
-ſi2914 - VINCI Pietro (1566) - Di Pietro Vinci siciliano della città di Nicosia
+fi2914 - VINCI Pietro (1566) - Di Pietro Vinci siciliano della città di Nicosia
 Il Primo Libro de Madrigali a cinque voci. Novamente ristampato, et da molti
 errori emendato. In Vinegia, 1566. Appresso Girolamo Scotto.
 
@@ -30,7 +30,7 @@ heredem Hieronimi Scoti. 1589.
 I-PS: T. (solo pag. 1-8), 5.
 
 2916 - VINCI Pietro (1567) - Di Pietro Vinci siciliano de la città di Nicosia, .il
-Secondo Libro de Madrigali a cinque voci, novamente dato in luce. Con.gſîl\la
+Secondo Libro de Madrigali a cinque voci, novamente dato in luce. Con.gfîl\la
 et privilegio. A cinque voci. In Venetia, appresso Francesco Rampazetto, ad mstantia
 di Io. Comencino. 1567.
 
@@ -47,7 +47,7 @@ La lira, che'l nipot'hebbe d'Atlante et per desio del Caducco B
 Tuo fiat'è dir l'alte vittorie (seconda parte) 9
 Se la memoria di quei chiari spirti, Piccolomin'illustri 10
 Consumando mi vo di piaggia in piaggia (Petrarca) "
-Quand'il mio cor, da l'amoros'impaccio tener credev'hſſomai liber'e sciolto 12
+Quand'il mio cor, da l'amoros'impaccio tener credev'hffomai liber'e sciolto 12
 Tra le iù belle treccie (seconda parte)
 Quand'amorpi begli occhi a terr'inclina (Petrarca) {i
 

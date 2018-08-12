@@ -5,7 +5,7 @@ PL-GD: compl.
 D-G: C.A.T.B.
 D-Rp: A.T.B.5.
 D-ZIs: C.T.B.
-PL-WRu: c. (dilett.), T.D. (diſett.).
+PL-WRu: c. (dilett.), T.D. (difett.).
 US-NH: A.
 US-BU: B.
 YU-MAs: 5.

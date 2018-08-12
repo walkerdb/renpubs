@@ -22,7 +22,7 @@ A 5. Ardile ohimè, crudele 1
 " " Alma Livia gradita 4
 " " Care lagrime mie. messi dolenti di mie pene (Celiano) 5
 " " Perchè v'allontanalc, cor mio? Non v'accorgele (Bevilacqua) 6
-" " Famoso uscir ſè Cadmo 7
+" " Famoso uscir fè Cadmo 7
 " " O bella Manto (seconda parle) 8
 " " Clori vezzosa e bella. perchè cogliendo vai hor questa rosa 9
 " " Solo e doglioso meco ragionando (Gradenico) 10
@@ -33,7 +33,7 @@ A 5. Ardile ohimè, crudele 1
 " " Non per viver signor (quarta pane) " 15
 " " Tempo fu ch'io canlai (quinta parte) " 16
 A 6. Hnr veggin lasso (settima parle) " 17
-" " Se del mio lagrimare hai ſau'amor, un mare }:
+" " Se del mio lagrimare hai fau'amor, un mare }:
 
 " " Fece da voi partita questa dolente vita, ma per opra 20
 " " Di quattro fila d'oro (Cchano)
@@ -58,5 +58,5 @@ Mirai, mirasti . 3
 ()himè begl'occhi, e quando havrò dt rivedervi mai speranza 4
 
 ' ' ' ' ' . ini
-Quando mia cruda sorte mt ſe da \'OI parure (Gu'lr )
+Quando mia cruda sorte mt fe da \'OI parure (Gu'lr )
 

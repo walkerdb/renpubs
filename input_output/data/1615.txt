@@ -8,14 +8,14 @@ A 4. Fior ch'all'intatta nev'a i bei ligustri 13
 " " Non Siate però tumid'e fastose, donne, per dir che l'huom (Ariosto) 16
 " " Deh perchè vogli'anclior di me dolermi "
 
-" " Et oltr'al mio destino. io ci ſui spinta da le parole altrui " 17
+" " Et oltr'al mio destino. io ci fui spinta da le parole altrui " 17
 " " 1 giuramenti, le promesse vanno (lc vent'in aria " 18
 " " Guardatevi da questi, che sul fiore de lor verd'anni " 18
 " " Così fan questi gioveni che tanto (seconda parte) " 19
 " " Fu l'ors'un tempo dolce cosa amore (Petrarca) 20
 " " Quella che fu del suol \'ostro
 
-" " Liete piante, \'eſd'herbe, limpid'acque (Ariosto) 21
+" " Liete piante, \'efd'herbe, limpid'acque (Ariosto) 21
 " " Amor, mia speme'l guiderdon d'ogni mia fede 22
 " " Alli dispietata morte. ahi crudel vita (seconda parte) 22
 
@@ -25,7 +25,7 @@ A 4. Fior ch'all'intatta nev'a i bei ligustri 13
 Sagittario allemanno. In Venetia 1611. Appresso Angelo Gardano, et fratelli.
 5 fasc. in 8° (C.A.T.B.5.), pag. 25. Ded. a Maurilio Landtgravio d'Hassia: "..dalla sua Corte,
 
-OW: da teneri anni per sua clemenza ſui enodrilo... qual è il famosissimo Gabrieli, che m'ha
+OW: da teneri anni per sua clemenza fui enodrilo... qual è il famosissimo Gabrieli, che m'ha
 [atto partecipe del l'nro delle sue sponde... Vinetia, 1° V 1611".
 
 A 5. O primavera, gioventù dell'anno, bella madre de fiori (Guarini) 1
@@ -34,7 +34,7 @@ A 5. O primavera, gioventù dell'anno, bella madre de fiori (Guarini) 1
 " " Selve beate, se sospirando (Guarini) 4
 " " Alma afflitta, che fai? chi ti darà più vita, se colei per cui (Marino) 5
 " " Così morir debb'io (Guarini) 7
-" " D'horrida selce alpina, cred'io, donna nascesti (AL AlÎEiCſÎ) 8
+" " D'horrida selce alpina, cred'io, donna nascesti (AL AlÎEiCfÎ) 8
 " " Ricde la primavera, torna la bella Clori, odi la rondinella (Marino) 9
 " " Fuggi, o mio core, deh fuggi amore " 10
 " " Feritevi, ferite, viperette mordaci, dolci guerrere ardite " 12.

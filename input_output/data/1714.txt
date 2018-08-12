@@ -24,12 +24,12 @@ A 5. Non sdegnat'accettar il picciol dono, che vien dal cor 3
 " " Quand'una valle dilettosa tanto quant'alìra mai 7
 " " Prima che la mortal spogli'a la terra rentless'il palre mio 3
 " " Poi, prima, tutta cenere diventa (seconda parte) 3
-" " Chi si tien lieto et ſortunal'amante perch'ogni bel 9
+" " Chi si tien lieto et fortunal'amante perch'ogni bel 9
 " " Ma chi va per vedere il bel raggio (seconda parte) ...
 " " Fugendo la prigion ov'amor tolse cinqu'annì ...
 " " Erano gl'occhi s!r.'|l e'l bel ciglio (seconda parte) "
 " " Così in un punto. lampegginnd'a terra quel fulmine 12
-" " Onde ſerit'acceso e anchor tremante (seconda parte) l':
+" " Onde ferit'acceso e anchor tremante (seconda parte) l':
 " " Ecco qui Claudia, a cui si chiud'in seno 1
 " " Hor vedi, amor, che giovenetta donna (Petrarca) :;
 " " Lassare il velo, o per kol. o per ombra " [6
@@ -37,7 +37,7 @@ A 5. Non sdegnat'accettar il picciol dono, che vien dal cor 3
 " " Mentre mi stavo dezios'all'ombrzL il ritorn'aspettando 18
 " " Pnscomi di dolor, piangendo rido, ztentando vivo (Petrarca) 18
 " " Poi che'l cor lasso ogni suo caro ben ved'ir lontano 19
-" " Ma quei, girando gl'occhi al ſoll'ardire (seconda parte) 20
+" " Ma quei, girando gl'occhi al foll'ardire (seconda parte) 20
 " " Come notturn'augel, che'l di \'annida, vado piangendo 11
 " " Spezza l'arco e li strali amor 21
 " " Poi ch'empia mort'ha chiusi (seconda parte) . 22
@@ -46,7 +46,7 @@ A 5. Non sdegnat'accettar il picciol dono, che vien dal cor 3
 " " Ma perchè vola il tempo e fuggon (terza parte) ')" 24
 " " l' temo di cangiar pria (quinta parte) " 24
 " " l' temo di cangìar prima (quinta parte) " 25
-" " Dentro pur ſuoc'e fuor candida neve (sesta parte) 26
+" " Dentro pur fuoc'e fuor candida neve (sesta parte) 26
 A 6. Stassi sovr'un'oliva afflitta tortorella . 27
 " " Com'ogn'altr'animal, cervo fugace, di che vi pregna 23
 " " Monaldo sol ve ne sia chiaro segno (seconda parte)

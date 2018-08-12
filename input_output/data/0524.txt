@@ -42,7 +42,7 @@ A 6. Hor che'l ciel e la terr'e il vento tace (Petrarca) 1
 " " Su la riva del Tebro alhor che'l sole 22
 " " E volto al ciel con lagrimosi accenti (seconda parte)
 
-" " Senza il mio sol in tenebre e in martiri (SannazzaſO) g
+" " Senza il mio sol in tenebre e in martiri (SannazzafO) g
 
 " " Aure, che'l tristo e lamentevol suono
 " " I dolci colli, ov'io lasciai me stesso

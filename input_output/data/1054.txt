@@ -39,7 +39,7 @@ Fann'aspra guerra in me sdegno et amore
 D-Mbs: compl.
 GB-Lbm: C.T.
 I-Bc: C,B,
-ſ-BGc: C.
+f-BGc: C.
 B-Br: C.
 E-Mn: C.
 F-Pthibault: C.
