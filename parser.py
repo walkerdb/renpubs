@@ -15,9 +15,9 @@ def main(start, end):
     publications = re.split(r"\n\n\n\n+", texts)
     entries = [NvEntry(pub) for pub in publications]
 
-    questionable_entries = [entry for entry in entries if len(entry.library_locations.libraries) > 9]
-    print("questionable entries:")
-    pprint(json.loads(jsonpickle.dumps(questionable_entries, unpicklable=False)))
+    # questionable_entries = [entry for entry in entries if len(entry.library_locations.libraries) > 9]
+    # print("questionable entries:")
+    # pprint(json.loads(jsonpickle.dumps(questionable_entries, unpicklable=False)))
 
     output = FormattedOutput(entries)
 

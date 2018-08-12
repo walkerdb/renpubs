@@ -22,11 +22,10 @@ class Header(FieldEqualityMixin):
     def __init__(self, header):
         try:
             number, composer_and_year, title = re.match(r"(\d{1,4}(?: bis)?) -? ?(.*?\)) (.*)", header).groups()
+            year_string, year = self.extract_year(composer_and_year)
         except:
-            print(header)
+            print("ahhh header problem" + header)
             exit()
-
-        year_string, year = self.extract_year(composer_and_year)
 
         self.number = number
         self.title = self.clean_title(title)
@@ -64,16 +63,16 @@ class Header(FieldEqualityMixin):
     def get_default_printing_location_from_printer(title):
         printers = sorted([printer for name, printer in PRINTERS.items() if name in title])
         if not printers:
-            # print("no matching printing locations: ", title)
-            return ""
+            return OldToModernSpellingPair("NO_PRINTER_KNOWN", "NO_PRINTER_KNOWN")
+
         return OldToModernSpellingPair("LOCATION_NOT_PRESENT_IN_ORIGINAL", printers[0].primary_location)
 
     @staticmethod
     def extract_printer(title):
         printers = [OldToModernSpellingPair(name, printer.name) for name, printer in sorted(PRINTERS.items()) if name in title]
         if not printers:
-            pass
-            # print("no printers found: ", title)
+            print("no known printers found: ", title)
+            return [OldToModernSpellingPair("NO_PRINTER_KNOWN", "NO_PRINTER_KNOWN")]
 
         return printers
 

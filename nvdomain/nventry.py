@@ -9,6 +9,7 @@ class NvEntry(FieldEqualityMixin):
     def __init__(self, text):
         header_text, description_text, works, locations = self.extract_sections(text)
 
+        self.raw_text = text
         self.header = Header(header_text)
         self.description = Description(description_text)
         self.works = Works(works, self.header.get_default_voices(), self.header.get_default_composer())

@@ -5808,7 +5808,16 @@
     },
     "printing_info": {
       "location": "Ferrara",
-      "printers": []
+      "printers": [
+        {
+          "modern": "Paulo Tortorino",
+          "original": "Paulo Tortorino"
+        },
+        {
+          "modern": "heredi di Francesco Rossi",
+          "original": "heredi di Francesco Rossi"
+        }
+      ]
     },
     "title": "Madrigali del R. monsig. don Lodovico Agostini Proto, apostolico, capellano, et musico del serenissima et invittissimo sig. duca di Ferrara. Libro Terzo. A sei voci. In Ferrara. Appresso gli heredi di Francesco Rossi, et Paulo Tortorino compagni con licenza de i Sup. 1582.",
     "voices": [
@@ -6255,7 +6264,12 @@
     },
     "printing_info": {
       "location": "Augsburg",
-      "printers": []
+      "printers": [
+        {
+          "modern": "Giovanni Pretorio",
+          "original": "Gio. Pretorio"
+        }
+      ]
     },
     "title": "Ghirlanda di Canzonette spirituali a tre voci di Gregorio Aichinger. In Augusta appresso Gio. Pretorio. 1603,",
     "voices": [
@@ -7151,7 +7165,12 @@
     },
     "printing_info": {
       "location": "Bologna",
-      "printers": []
+      "printers": [
+        {
+          "modern": "Giacomo Monti",
+          "original": "Giacomo Monti"
+        }
+      ]
     },
     "title": "Cantate morali a voce sola del conte Pirro Albergati. Opera Terza. In Bologna per Giacomo Monti 1685 con licenza de' Superiori.",
     "voices": [
@@ -7303,7 +7322,12 @@
     },
     "printing_info": {
       "location": "Bologna",
-      "printers": []
+      "printers": [
+        {
+          "modern": "Giacomo Monti",
+          "original": "Giacomo Monti"
+        }
+      ]
     },
     "title": "Cantate da camera a voce sola. Del co. Pirro Albergati. Opera sesta. In Bologna, per Giacomo Monti. 1687. Con licenza de' Superiori. Si vendono da Marmo Silvano, all'insegna del Violino. Con privilegio.",
     "voices": [
@@ -9477,7 +9501,20 @@
     },
     "printing_info": {
       "location": "Ferrara",
-      "printers": []
+      "printers": [
+        {
+          "modern": "Antonio Hucher",
+          "original": "Antonio Hucher"
+        },
+        {
+          "modern": "Giovanni De Bulghat",
+          "original": "Giovanni De Bulghat"
+        },
+        {
+          "modern": "Henrico De Campis",
+          "original": "Henrigo De Campis"
+        }
+      ]
     },
     "title": "Primo Libro di Madrigali d'Alfonso dalla Viola novamente stampato. In fine: \". In Ferrara nella stampa de M. Giovanni De Bulghat. Henrigo De Campis et Antonio Hucher compagni. Nell'anno del Signore 1539 nel mese di luglio. Cum gratia et privilegio \".",
     "voices": [],
@@ -9887,7 +9924,12 @@
     },
     "printing_info": {
       "location": "Ferrara",
-      "printers": []
+      "printers": [
+        {
+          "modern": "Henrico De Campis",
+          "original": "Henrico De Campis"
+        }
+      ]
     },
     "title": "Il Secondo Libro di Madrigali de M. Alfonso dalla Viola novamente stampato. In fine: \" In Ferrara per Henrico De Campis nell anno del Segnor 1540 nel mese d'ottobre \"",
     "voices": [],
@@ -10508,7 +10550,12 @@
     },
     "printing_info": {
       "location": "Bologna",
-      "printers": []
+      "printers": [
+        {
+          "modern": "Gioseffo Micheletti",
+          "original": "Gioseffo Micheletti"
+        }
+      ]
     },
     "title": "Cantate a voce sola da camera di Gio. Battista Alveri musico dell'illustrissimo, et eccelentissimo Signore marchese Guido Rangoni Opera Prima. Dedicata all'illustrìssimo sig. patron collendissimo il sig. Francesco Giuseppe del S.R.I. Co. d'Herbestem, libero barone in Neuburgo, e Guettenhag sig. di Longovitz Pellendorf, e della signoria di S. Pietro nel Ava cameriere, e scalco ereditario nel ducato di Carlintia cavagliere della Chiave d'oro di S.M. cesarea, e per la M. cattolica collonello d'infanteria allemana. In Bologna, per Gioseffo Micheletti 1687. In capo alla Piazza del Pavaglione. Con Superiori.",
     "voices": [
@@ -22848,7 +22895,12 @@
     },
     "printing_info": {
       "location": "Venice",
-      "printers": []
+      "printers": [
+        {
+          "modern": "NO_PRINTER_KNOWN",
+          "original": "NO_PRINTER_KNOWN"
+        }
+      ]
     },
     "title": "Il Primo Libro di Madrigali d'Archadelt a quatro voci con nuova gionta ultimamente impressi. Venetiis, 1546.",
     "voices": [
@@ -26358,6 +26410,10 @@
     "printing_info": {
       "location": "Milan",
       "printers": [
+        {
+          "modern": "Pacifico da Ponte",
+          "original": "Pacifico Pontio"
+        },
         {
           "modern": "Simon Tini",
           "original": "Simon Tini"
