@@ -27,6 +27,7 @@ class Work(FieldEqualityMixin):
         self.poet = self.extract_poet(text, context)
         self.part = self.extract_part(text)
         self.composer = self.extract_composer(text, context)
+        self.page = self.extract_page(text)
 
     @staticmethod
     def find_voices(text):
@@ -41,17 +42,18 @@ class Work(FieldEqualityMixin):
 
     @staticmethod
     def extract_poet(text, context):
-        strip_text = text.rstrip("1234567890 \".,")
-        parenthetical = re.findall(r"\(([^()]*?)\)$|$", strip_text)[0]
+        stripped_text = text.rstrip("1234567890 \".,")
+        parenthetical_content = re.findall(r"\(([^()]*?)\)$|$", stripped_text)[0]
 
-        if parenthetical.startswith("di ") or " parte" in parenthetical:
+        parenthetical_is_composer_or_part_marking = parenthetical_content.lower().startswith("di ") or " parte" in parenthetical_content
+        if parenthetical_is_composer_or_part_marking:
             return Work.get_default_poet_if_ditto_mark(text, context)
 
-        return parenthetical
+        return parenthetical_content
 
     @staticmethod
     def get_default_poet_if_ditto_mark(text, context):
-        return context.get("current_poet") if re.search(r' " | "$', text) else ""
+        return context.get("current_poet") if re.search(r'[^"] " | "$', text) else ""
 
     @staticmethod
     def extract_part(text):
@@ -64,7 +66,12 @@ class Work(FieldEqualityMixin):
 
     @staticmethod
     def extract_composer(text, context):
-        composer = re.findall(r"\(di ([^)]*?)\)|$", text)[0]
+        composer = re.findall(r"\([dD]i ([^)]*?)\)|$", text)[0]
         return composer if composer else context.get("default_composer")
+
+    @staticmethod
+    def extract_page(text):
+        page = re.findall(r" (\d\d?d?) ?$|$", text)[0]
+        return int(page) if page else -1
 
 
