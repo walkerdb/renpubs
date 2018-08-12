@@ -18,6 +18,7 @@ part_to_num_dict = {
     "quattordicesima ": 14,
 }
 
+
 class Work(FieldEqualityMixin):
     def __init__(self, text, context):
         voices = self.find_voices(text)

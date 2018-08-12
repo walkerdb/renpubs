@@ -29,7 +29,7 @@ A 3. E' diventato sto mio cor meschino una campana posta in basso loco 1
 " " Vola, vola, pensier, a la mia stella e gira intorno
 
 " " Non ha tant'onde il mare, quant'io sparge per voi lagrime amare 7
-" " Io me ne rido, amorc, che doni pena al core 8
+" " Io me ne rido, amore, che doni pena al core 8
 " " Donna, mi fuggi ogn'hora, credendo col fuggire talhor farmi morire 9
 " " Andiamoci a dormire, perchè madonna non ci vuol sentire 10
 " " Ferma, non ti partire, ecco madonna che comincia aprire "
