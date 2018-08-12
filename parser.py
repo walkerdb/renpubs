@@ -16,6 +16,7 @@ def main(start, end):
     entries = [NvEntry(pub) for pub in publications]
 
     questionable_entries = [entry for entry in entries if len(entry.library_locations.libraries) > 9]
+    print("questionable entries:")
     pprint(json.loads(jsonpickle.dumps(questionable_entries, unpicklable=False)))
 
     output = FormattedOutput(entries)
@@ -26,7 +27,8 @@ def main(start, end):
 
 def extract_texts(end, start):
     texts = ""
-    files = os.listdir("input_output/data")
+    files = sorted(os.listdir("input_output/data"))
+
     for file in files[start - 1:end]:
         with open(os.path.join("input_output/data", file)) as f:
             texts += "\n" + f.read().rstrip("\n ")
@@ -34,4 +36,5 @@ def extract_texts(end, start):
 
 
 if __name__ == "__main__":
-    main(9, 140)
+    first_page_with_works = 9
+    main(first_page_with_works, 140)

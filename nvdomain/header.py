@@ -20,7 +20,11 @@ def normalize_name(composer):
 
 class Header(FieldEqualityMixin):
     def __init__(self, header):
-        number, composer_and_year, title = re.match(r"(\d{1,4}(?: bis)?) -? ?(.*?\)) (.*)", header).groups()
+        try:
+            number, composer_and_year, title = re.match(r"(\d{1,4}(?: bis)?) -? ?(.*?\)) (.*)", header).groups()
+        except:
+            print(header)
+            exit()
 
         year_string, year = self.extract_year(composer_and_year)
 
@@ -99,11 +103,3 @@ class Header(FieldEqualityMixin):
 
     def get_default_voices(self):
         return self.voices[0] if len(self.voices) > 0 else ""
-
-
-
-
-
-
-
-

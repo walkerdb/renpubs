@@ -30,7 +30,7 @@ class NvEntry(FieldEqualityMixin):
 
         if len(locations.split("\n")) > 13:
             works = locations
-            locaations = ""
+            locations = ""
 
         title = title.replace("\n", " ")
 
