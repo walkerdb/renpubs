@@ -3,7 +3,7 @@ from util.spelling import OldToModernSpellingPair
 
 
 def extract_location(text):
-    matching_locations = [OldToModernSpellingPair(old, modern) for old, modern in LOCATIONS.items() if old in text]
+    matching_locations = [OldToModernSpellingPair(old, modern) for old, modern in sorted(LOCATIONS.items(), reverse=True) if old in text]
 
     if not matching_locations:
         return ""
