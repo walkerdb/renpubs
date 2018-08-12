@@ -50798,5 +50798,2999 @@
       }
     ],
     "year": "1640"
+  },
+  {
+    "composers": [
+      [
+        "Francesco Antonio Baseo"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Antonio Mettula",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Villanesche"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "259"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "C.T.",
+          "siglum": "D-Z"
+        },
+        {
+          "parts": "T.",
+          "siglum": "D-HEs"
+        },
+        {
+          "parts": "B.",
+          "siglum": "GB-Cu"
+        },
+        {
+          "parts": "1573-17 (non compl.).",
+          "siglum": "RISM"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 31,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Girolamo Scotto",
+          "original": "Girolamo Scotto"
+        }
+      ]
+    },
+    "title": "Il Rimo (sic) Libro delle Canzoni villanesche alla napolitana a quattro voci. Di Francesco Antonio Baseo di Leccie (sic), nuovamente poste in luce. In Vinegia appresso Girolamo Scotto, 1573.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Non mi potevi, amore, far il magior favore ch'accender",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "S'io sospiro ad ogn'hor'e mi lamento perchè mai non mi date",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Che debio far, che mi consigli, amore? La mia dolce nemica mi vuol morto",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Questa nova serena cantando la mia pena",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Vita non voglio più, poichè così vuoi tu. Uccidimi, ben mio",
+        "voices": 4
+      },
+      {
+        "composer": "Iacomo Mettula",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Cara mia pastorella, che vivesti sì bella",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Non so che cos'è questa. Io piango e tu fai festa",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "S'io t'hagio amata et amo, altra che te non bramo",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 11,
+        "part": 1,
+        "poet": "Del Vulpio aversano",
+        "title": "Ahi non sapea che fare hor, hor che mi sognava",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Deh s'io fusse nato cieco, quanta gioia",
+        "voices": 4
+      },
+      {
+        "composer": "Aniballe bolognese",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Cantare voglio sempre per amore le gran bellezze",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Se gl'occhi tuoi non miro, io mi consumo",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Tu sei, madonna, l'arco e l'empio strale",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Altro sol, altro cor et altra vita, altro ben",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "S'amor m'ha pres'a l'amo, quella ch'adoro et amor",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Dunque fia ver, mia vita, ch'io faccia dipartita",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Maria Guidani",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Spezza, amor. l'arc'e i strali, ch'al mondo più",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Io non 50, vita mia, se per mia sorte ria",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Vita del viver mio, quanto ti posso dar s'ho donat'io",
+        "voices": 4
+      },
+      {
+        "composer": "Paschali Di Negro",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Mirate che tormento, ch'arder tutto mi sento",
+        "voices": 4
+      },
+      {
+        "composer": "Pietro Mereschallo",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Le Vive fiamm'ardenti, ch'abrugiano le genti",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Questo tiranno amore hammi piegato il core",
+        "voices": 4
+      },
+      {
+        "composer": "Fabio Pelusu",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, con qufiint'inganni m'incappast'n gl'affzini",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Perdut'ha il scetro amore. O qual sente dolore",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 27,
+        "part": 1,
+        "poet": "D'incerto",
+        "title": "Soldati semo",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Viva, viva eternamente il re nostr'e la sua gente",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 19,
+        "part": 1,
+        "poet": "D'incerto",
+        "title": "Trist'a noi sventurati, da christiani maltrattati",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 30,
+        "part": 2,
+        "poet": "D'incerto",
+        "title": "Sventurato gran signore, vederai",
+        "voices": 4
+      },
+      {
+        "composer": "Fabio Pelusu",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "O fuoco del mio core, perchè non esci fuore et vai",
+        "voices": 4
+      }
+    ],
+    "year": "1573"
+  },
+  {
+    "composers": [
+      [
+        "Francesco Antonio Baseo"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Ferrante Caracciolo",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "260"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "PL-GD"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 21,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Angelo Gardano",
+          "original": "Angelo Gardano"
+        }
+      ]
+    },
+    "title": "Di M. Francesco Antonio Baseo, maestro di capella del domo della città di Lecce, il Primo Libro de Madrigali a cinque voci, novamente composti, et dati in luce. In Venetia appresso Angelo Gardano. 1582.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Qucrcia superba e lieta",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 2,
+        "part": 2,
+        "poet": "",
+        "title": "Da tuoi dorati rami",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 3,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "L'arme tue furon gl'occhi onde l'accese",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 4,
+        "part": 2,
+        "poet": "Petrarca",
+        "title": "L'angelica sembianza umile",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Fugg'il sereno e'l verde",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Che fai, alma, che pensi?",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 7,
+        "part": 2,
+        "poet": "",
+        "title": "Talor tace la lingua",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Ahi fortuna crudel non satia sei",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Ma di te, donna",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Felis",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Di vaghe fila d'oro",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Come farfalla ch'a l'acceso lume",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 12,
+        "part": 2,
+        "poet": "",
+        "title": "E d'appressarmi tremo",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Forza è ch'io trovi un",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 14,
+        "part": 2,
+        "poet": "",
+        "title": "Muse beate",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Non mi duol di morire",
+        "voices": 5
+      },
+      {
+        "composer": "Mutio Efrem",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Mentre a l'ombra",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Corri, corri, mamma d'oro. Se non corri i' me ne moro",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, che v'ho fatt'io",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Se ben non veggon",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Se mai colpo d'amor",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Antonio Baseo",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Basciami, vita mia, e nel bacrarmi",
+        "voices": 5
+      }
+    ],
+    "year": "1582"
+  },
+  {
+    "composers": [
+      [
+        "Donato Basile"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Luigi Carrafa",
+      "dedicator": "",
+      "location": {
+        "modern": "Naples",
+        "original": "Napoli"
+      },
+      "text": "... queste (da me rozzamente poste in musica) amorose Canzanette di Gio. Battista mio fratello.., Napoli, 11 XI 1610\"."
+    },
+    "genres": [
+      "Villanelle"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "261"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "T.",
+          "siglum": "F-Pc"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 27,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Naples",
+      "printers": [
+        {
+          "modern": "NO_PRINTER_KNOWN",
+          "original": "NO_PRINTER_KNOWN"
+        }
+      ]
+    },
+    "title": "Villanelle di Donato Basile napoletano. Il Primo Libro a tre et a quattro voci. Napoli. G. C. Carlino e C. Vitale, 1610.",
+    "voices": [
+      3,
+      4
+    ],
+    "works": [
+      {
+        "composer": "Donato Basile",
+        "page": 9,
+        "part": 1,
+        "poet": "G. B. Basile",
+        "title": "Vago crin, gloria d'amore, rete del mio core",
+        "voices": 3
+      },
+      {
+        "composer": "Donato Basile",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Son le bellezze tue, Clori gentile, com'un fior",
+        "voices": 3
+      },
+      {
+        "composer": "Donato Basile",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Ama pur, ninfa gradita, hor che sei nell'età verde",
+        "voices": 3
+      },
+      {
+        "composer": "Donato Basile",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Smorza, crudel amore, l'ardente fiamma. che m'abrugia \"\" l",
+        "voices": 3
+      },
+      {
+        "composer": "Donato Basile",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Sol di nebbia e d'orrore fatt'albergo è'l mio",
+        "voices": 3
+      },
+      {
+        "composer": "Donato Basile",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Tu parti, o mio desire, e l'alma mia",
+        "voices": 3
+      },
+      {
+        "composer": "Donato Basile",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Quando partì'l mio sole seccar nei campi i gigli e le viole",
+        "voices": 3
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "S'è ver che l'acqua smorza il foco ben",
+        "voices": 3
+      },
+      {
+        "composer": "Donato Basile",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Per dar fin al tormento, morir fia'l mio contento",
+        "voices": 3
+      },
+      {
+        "composer": "Donato Basile",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Il vostr'almo splendore, occhi un tempo",
+        "voices": 3
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Un tempo havea dolore, hor che i tormenti",
+        "voices": 3
+      },
+      {
+        "composer": "Donato Basile",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Hor che pietosa ver me rivolta miei",
+        "voices": 3
+      },
+      {
+        "composer": "Donato Basile",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Non più dolore, non più timore",
+        "voices": 3
+      },
+      {
+        "composer": "Donato Basile",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Clori mia bella",
+        "voices": 3
+      },
+      {
+        "composer": "Donato Basile",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Dori, aspr'e fella",
+        "voices": 3
+      },
+      {
+        "composer": "Donato Basile",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Torna la bella Clori, al cui dolce ritorno",
+        "voices": 3
+      },
+      {
+        "composer": "Donato Basile",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Parte la vaga Clori a la partita",
+        "voices": 3
+      }
+    ],
+    "year": "1610"
+  },
+  {
+    "composers": [
+      [
+        "Lelio Basile"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "262"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "A. (prov. Heyer).",
+          "siglum": "I-Vnm"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 22,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Bartolomeo Magni",
+          "original": "Bartolomeo Magni"
+        }
+      ]
+    },
+    "title": "Il Primo Libro de Madrigali a cinque voci. Di Lelio Baule napolitano all'illustrissimo signore signor et patrone collendissimo il signor Federico de' Rossi conte di San Secondo. Stampa del Gardano. In Venetia 1619 appresso Bartolomeo Magni.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Lelio Basile",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Fissando in me pietosa Clori'l sereno sguardo, parlò",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Troppo correte, ahi lasso, troppo correte o fonti",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 3,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Se la doglia e'l martire non può farmi morire",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 3,
+        "part": 2,
+        "poet": "Marino",
+        "title": "Voi che la morte mia",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Voi dite ch'io son ghiaccio, donna, perch'il mio volto in pallido",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Amor d'alta speranza mi pasce e mi mantiene e mi promette",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Se di mirar non degni, cieca Talpe, un essangue",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Sovra quel duro scoglio che fà la donna mia?",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 9,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Mentre che'l cor da gli amorosi vermi",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 10,
+        "part": 1,
+        "poet": "Rinuccini",
+        "title": "Dolcissimo sospiro, ch'esci da quella bocca",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Poichè in purpurco fiore cangiossi Adon, così la bella dea",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Se di mirar negate le mie piaghe, o crudele",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Vorrai tu sempre, ah cruda, esser per mio cordoglio",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "O bella a gli occhi miei alata nel fuggire",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "S'io taccio, dispietata, chi dirà il mio tormento?",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 16,
+        "part": 2,
+        "poet": "",
+        "title": "Inaudito martire, disusato morire",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Vaghe luci amorose, moro se non vi miro e moro pur s'in voi",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 18,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Udite, lagrimosi spirti d'Averno, nova sorte di pena",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 19,
+        "part": 2,
+        "poet": "Guarini",
+        "title": "La mia donna, crudel più che l'inferno",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "L'ardor ch'a poco a poco strugg'empia, non credi",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Canto in un tempo e piango da sì strano d'amor fero desio",
+        "voices": 5
+      },
+      {
+        "composer": "Lelio Basile",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Se lontana voi sete, anima del cor mio, come viver poss'io",
+        "voices": 5
+      }
+    ],
+    "year": "1619"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "263"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Bc"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 164,
+      "partbook_count": 1,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Bologna",
+      "printers": [
+        {
+          "modern": "Giacomo Monti",
+          "original": "Giacomo Monti"
+        }
+      ]
+    },
+    "title": "L'Armonia delle sirene cantate amorose musicali a voce sola di Gio. Battista Bassani maestro di capella dell'altezza serenissima del sig. duca della Mirandola, et Accademico Filarmonico di Bologna Opera Seconda dedicata al merito dell'eccelentissimo prencipe don Ferdinando Gonzaga marchese di Medole, prencipe di Castiglione, e signor di Solferino etc. In Bologna, per Giacomo Monti, 1680. Con licenza de' Superiori.",
+    "voices": [
+      1
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Fra l'aura de sospiri, fra l'ardor de martiri, La Speme lusinghiera a un core inamorato di bella donna di nome Laura. Poesia del dott. Gio. Vincenzo Snodelli",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Se tu parti io morirò. Pianto d'Arminda. Poesia del Marchese Santinelli",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 38,
+        "part": 1,
+        "poet": "",
+        "title": "Vieni, o bella, a darmi pace. Per lontananza di donna crudele. Poesia del Lettor Girolamo Laurini",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 53,
+        "part": 1,
+        "poet": "",
+        "title": "In traccia del suo bene con solecito piè. Venere lagrimante su l'estinto Adone. Poesia del Conte Gio. Battista Rosselli",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 78,
+        "part": 1,
+        "poet": "",
+        "title": "Già lacerato in mille parti e mille Amante disperato per esser povero. Poesia del Dottore Gio. Battista Neri",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 99,
+        "part": 1,
+        "poet": "",
+        "title": "Più non spero la pace al mio COI\". Amorosa lontananza. Poesia del Dot. Gio. Vincenzo Snodelli",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Già foriera di pace a gran passi la notte. Sogno amoroso. Poesia del Dott. Gio. Vincenzo Snodelli",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "In amor non ho fortuna. Amorosa povertà sfortunata. Poesia del Dott. Gio. Vincenzo Snodelli",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Che pensi, core? Ancor mutolo stai? Consulta amorosa. Poesia del Dott Gio. Vincenzo Snodelli",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Lilla cara, lascia il gioco. Gioco di Primicra. Pocsia del Dott. Gio. Vincenzo Snodelli",
+        "voices": 1
+      }
+    ],
+    "year": "1680"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Arias",
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "264"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "",
+          "siglum": "CH-Zz"
+        },
+        {
+          "parts": "",
+          "siglum": "GB-Lcm"
+        },
+        {
+          "parts": "",
+          "siglum": "GB-Ob"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 164,
+      "partbook_count": 1,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Bologna",
+      "printers": [
+        {
+          "modern": "Marino Silvani",
+          "original": "Marino Silvani"
+        }
+      ]
+    },
+    "title": "L'Armonia delle sirene cantate amorose musicali a voce sola di Gio. Battista Bassani maestro di cappella nel duomo, e dell'illustrissima Accademia della Morte di Ferrara, et Accademico Filarmonico. Opera Seconda. In Bologna, 1692. Per Pier-Maria Monti. Con licenza de' Superiori Si vendono da Marino Silvani, all'insegna del Violino, con privilegio.",
+    "voices": [
+      1
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 1
+      }
+    ],
+    "year": "1692"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "265"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Bc"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 105,
+      "partbook_count": 1,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Bologna",
+      "printers": [
+        {
+          "modern": "Giacomo Monti",
+          "original": "Giacomo Monti"
+        }
+      ]
+    },
+    "title": "Il Cigno canoro cantate amorose dedicate a gl'illustrissimi signori il sig. senatore Co. Ercole, e sig. Co. Cornelio Pepoli da Gio. Battista Bassani Accademico Filarmonico. Libro Secondo. Opera Terza. In Bologna, per Giacomo Monti. 1682. Con licenza de' Superiori.",
+    "voices": [],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Bella ti lascio, addio. Amorosa dipartenza. Poesia del Dottore Gio. Vincenzo Snodelli. Canto o Tenore",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Se provai fedel l'amante. Largo",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Ch'io mi scordi di quel viso. Vivace",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Vado, parto per te. Largo",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Vincerla con amore non si può. Ch'è inevitabile amore. Poesia del Dottore Snodelli. Canto o Tenore",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Fugge amor chi pur lo sa, Allegro",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Iìitardati momenti, egre dimore. Ritardalo diletto. Poesia del Dottore Snodelli. Canto o Tenore",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Stelle rie, numi spietati. Largo",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "È la speme ad un cor grato. Vivace",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "Mille baci a questo seno prometesti. Amoroso rimprovero. Poesia del Dottore Snodelli. Canto o Tenore",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 34,
+        "part": 1,
+        "poet": "",
+        "title": "Ch'io t'abbandoni o bella? Vivace",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 42,
+        "part": 1,
+        "poet": "",
+        "title": "Dal crudele Daliso e di fede e d'amor. Cclinda abbandonata da l'amante. Poesia del Dottore Snodelli. Alto",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 43,
+        "part": 1,
+        "poet": "",
+        "title": "Molesti pensieri, il dite. Adagio",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 47,
+        "part": 1,
+        "poet": "",
+        "title": "Mie cure severe, più miti. Seconda",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 52,
+        "part": 1,
+        "poet": "",
+        "title": "Torna, vieni, deh torna. Allegro",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 55,
+        "part": 1,
+        "poet": "",
+        "title": "Vendetta, vendetta, non tardisi più. Aria vivace",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 61,
+        "part": 1,
+        "poet": "",
+        "title": "Cara notte, che fra l'ombre. Amante notturno. Poesia del Dottore Snodelli. Alto",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 65,
+        "part": 1,
+        "poet": "",
+        "title": "Cara speme, non mi tradir. Allegro",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 68,
+        "part": 1,
+        "poet": "",
+        "title": "Mio core, sta saldo. Deliro amoroso, Poesia del Dottore Snedelli. Alto",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 73,
+        "part": 1,
+        "poet": "",
+        "title": "Voglio amarti, o bella crudel. Costanza amorosa. Poesia del Dottore Snodelli. Alto",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 76,
+        "part": 1,
+        "poet": "",
+        "title": "Giri pur la sorte ardita. Allegro",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 78,
+        "part": 1,
+        "poet": "",
+        "title": "Caro amor, dami la pace. Vivace",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 81,
+        "part": 1,
+        "poet": "",
+        "title": "Agitato da furie. Sdegno amoroso. Poesia del Padre Lettore Girolamo Laurini. Basso",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 82,
+        "part": 1,
+        "poet": "",
+        "title": "Odio, sdegno, ardir, vendetta. Allegro",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 84,
+        "part": 1,
+        "poet": "",
+        "title": "Chi con finto sembiante. Vivace",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 86,
+        "part": 1,
+        "poet": "",
+        "title": "Si prendano l'armi. Allegro",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 89,
+        "part": 1,
+        "poet": "",
+        "title": "Le sue lusinghe indarno. Vivace",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 92,
+        "part": 1,
+        "poet": "",
+        "title": "Scontenti tormenti. Largo",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 98,
+        "part": 1,
+        "poet": "",
+        "title": "Che mi giova amarti, o bella. Amante secreto. Basso",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Se il labro non parla. Allegro",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Tenta e spera, ardito mio cor. Presto",
+        "voices": ""
+      }
+    ],
+    "year": "1682"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "266"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "",
+          "siglum": "GB-Ob (manc. del front. e di pag. 1-8)."
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 107,
+      "partbook_count": 1,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Bologna",
+      "printers": [
+        {
+          "modern": "Marino Silvani",
+          "original": "Marino Silvani"
+        }
+      ]
+    },
+    "title": "Cantate a voce sola del signor Gio. Battista Bassani maestro di capella nella cattedrale, e dell'illustrissima Accademia della Morte di Ferrara. Opera Terza. In Bologna, 1699. Per Marino Silvani.",
+    "voices": [
+      1
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 1
+      }
+    ],
+    "year": "1699"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "267"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "compl.",
+          "siglum": "I-CO"
+        },
+        {
+          "parts": "C.1°, C.2° B.",
+          "siglum": "I-ASc"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 38,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Bologna",
+      "printers": [
+        {
+          "modern": "Giacomo Monti",
+          "original": "Giacomo Monti"
+        },
+        {
+          "modern": "Marino Silvani",
+          "original": "Marino Silvani"
+        }
+      ]
+    },
+    "title": "La Moralità. Cantate a 2, e 3 voci composte e dedicate all'illustrissimo et eccellentissimo signore conte Scipione Rossi prencipe di S. Secondo, etc. da Gio. Battista Bassani Accademico Filarmonico. Opera Quarta. In Bologna, 1683. Per Giacomo Monti. Con licenza de' Superiori. Ad istanza di Marino Silvani a l'insegna del Violino.",
+    "voices": [
+      2,
+      3
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Incauto pensiero, che pensi di far? Poesia di G.B. Tarroni",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Se più tarda la vendetta. Aria",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Pensa al fine, human pensiero. Poesia di G.B. Tarroni",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Spero eterna provar la pace. Poesia di Vincenzo Snodelli",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Alma godi, consolati, o cor. Solo, alleg",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Non ti doler, no, d'aversa sorte",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Habbia petto da soffrire chi presume. Poesia di G.B. Tarroni",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Dimmi, o mortal, che'pensi? Poesia di G.B. Tarroni",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Quanto mai nel suol sei labile. Solo, vivace",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Per gioia fugace, ad onta del cielo. Vivace",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "È pur frale, Poesia di G.B. Tarroni",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Quanti lacci, quante frodi. Poesia di G.B. Tarroni",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "La gioia è breve, il piacer",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 35,
+        "part": 1,
+        "poet": "",
+        "title": "O dolcezze mentite, o fugaci piaceri. Poesia di P. Fiaschi",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 38,
+        "part": 1,
+        "poet": "",
+        "title": "Mortali, olà che fate? Fugacità della Vita humana",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 39,
+        "part": 1,
+        "poet": "",
+        "title": "Poichè il tempo inesorabile. Solo, alleg",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 40,
+        "part": 1,
+        "poet": "",
+        "title": "Vorei pianger, oh Dio. Adag",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 41,
+        "part": 1,
+        "poet": "",
+        "title": "Su, del mondo lusinghiero",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 42,
+        "part": 1,
+        "poet": "",
+        "title": "Pupille crudeli, con pianto di duolo",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 44,
+        "part": 1,
+        "poet": "",
+        "title": "O mie luci dolenti, distillatevi. Peccator penitente",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 45,
+        "part": 1,
+        "poet": "",
+        "title": "Sciolgasi in lagrime. Solo, largo",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 45,
+        "part": 1,
+        "poet": "",
+        "title": "Mortali che fate? Sospirate",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 47,
+        "part": 1,
+        "poet": "",
+        "title": "Alma smarrita, dove ti rivolgo? Dialogo. L'Anima tra il Cielo e il Mondo. Poesia dell'Accademico Incerto",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 48,
+        "part": 1,
+        "poet": "",
+        "title": "Alzati all'erta, vieni. Aria",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 49,
+        "part": 1,
+        "poet": "",
+        "title": "Martiri, sospiri il sen non proverà",
+        "voices": 3
+      }
+    ],
+    "year": "1683"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Arias",
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "268"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "compl.",
+          "siglum": "I-Rli"
+        },
+        {
+          "parts": "compl.",
+          "siglum": "I-Sd"
+        },
+        {
+          "parts": "compl.",
+          "siglum": "GB-Lwa"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 35,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Bologna",
+      "printers": [
+        {
+          "modern": "Marino Silvani",
+          "original": "Marino Silvani"
+        }
+      ]
+    },
+    "title": "La Moralità armonica Cantate a 2, e 3 voci di Gio: Battista Bassani maestro di cappella nella cathedrale, e dell'illustriss. Academia della Morte di Ferrara, et Accademico Filarmonico. Opera Quarta. In Bologna, per Pier-Maria Monti, 1690. Con licenza de' Superiori. Si vendono da Marino Silvani all'insegna del Violino, con priv11egio.",
+    "voices": [
+      2,
+      3
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 2
+      }
+    ],
+    "year": "1690"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "269"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "C.1°, C.2°, Bc.",
+          "siglum": "CH-Zz"
+        },
+        {
+          "parts": "C.1°.",
+          "siglum": "I-Rsc"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 35,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Bologna",
+      "printers": [
+        {
+          "modern": "Marino Silvani",
+          "original": "Marino Silvani"
+        }
+      ]
+    },
+    "title": "La Moralità armonica Cantate a 2 e 3 voci di Gio: Battista Bassani maestro di cappella nella cattedrale, e dell'illustriss. Accademia della Morte di Ferrara, et Accademico Filarmonico. Opera Quarta. In Bologna. 1700. Per Marino Silvani. Con licenza de' Superiori. Si vendono all'insegna del Violino, con privileggio.",
+    "voices": [
+      2,
+      3
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 2
+      }
+    ],
+    "year": "1700"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "270"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "",
+          "siglum": "F-Pn (manc. di front.)"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 88,
+      "partbook_count": 1,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Bologna",
+      "printers": [
+        {
+          "modern": "Giacomo Monti",
+          "original": "Giacomo Monti"
+        },
+        {
+          "modern": "Marino Silvani",
+          "original": "Marino Silvani"
+        }
+      ]
+    },
+    "title": "Affetti canori Cantate, et Ariette del Signore Go. Battista Bassani maestro di capella dell'illustrissima Accademia della Morte di Ferrara, et Accademico Filarmonico di Bologna. (Opera Sesta). In  Bologna, 1684. Per Giacomo Monti. Con licenza de' Superiori. Ad instanza di Marino Silvani, all'insegna del Violino.",
+    "voices": [],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Sconsolata gemea in tacciturno orror",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Più non trovo il mio diletto. Largo",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Lungi dal bel ch'adoro, in grembo a l'onda multiplico",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Ombre fosche, e che cos'è? Largo",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Che ti costa, o bocca avara, dar un baccio",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Vi par troppo, o luci care. Largo",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Parlo con te, mia Clori",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "M'impegno d'adorarti. Aria",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Chi vuol pegno maggior",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Tl seguirà quest'alma. Aria",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Ove con piè fugace, tra sponde di smeraldo",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "Per quel bello ogn'hor sospiro. Aria",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 33,
+        "part": 1,
+        "poet": "",
+        "title": "Caro pegno del mio ardore",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 35,
+        "part": 1,
+        "poet": "",
+        "title": "Vaghe luci, voi che siete. Aria",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 37,
+        "part": 1,
+        "poet": "",
+        "title": "Qui tacque l'infelice e col pianto",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 37,
+        "part": 1,
+        "poet": "",
+        "title": "Placid'aure e chiari fonti. Aria, soave",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 39,
+        "part": 1,
+        "poet": "",
+        "title": "Care selve, piaggie ombrose. Seconda",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 41,
+        "part": 1,
+        "poet": "",
+        "title": "Ardea di due begl'occhi al vivo lampo. Amante non creduto. Poesia del dottore Gio. Battista Neri",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 42,
+        "part": 1,
+        "poet": "",
+        "title": "Dimmi, fortuna. Allegro",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 45,
+        "part": 1,
+        "poet": "",
+        "title": "Dunque senza speranza",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 46,
+        "part": 1,
+        "poet": "",
+        "title": "Eri pur felice, o core. Aria",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 51,
+        "part": 1,
+        "poet": "",
+        "title": "Che mi giova dir che v'adoro. Aria sopra la Chiacona",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 58,
+        "part": 1,
+        "poet": "",
+        "title": "Luci brune, ho il cor ferito. Poesia del dottore Gio. Battista Neri",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 59,
+        "part": 1,
+        "poet": "",
+        "title": "Sete belle, sete vaghe. Largo",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 63,
+        "part": 1,
+        "poet": "",
+        "title": "Ahimè, io prego in vano",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 64,
+        "part": 1,
+        "poet": "",
+        "title": "Pugnar con due pupille. Spiritoso",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 68,
+        "part": 1,
+        "poet": "",
+        "title": "Sì, sì, begl'occhi, v'adorerò. Musica e poesia del sig. Bassani",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 71,
+        "part": 1,
+        "poet": "",
+        "title": "M'è grato il languire, son pronto a morire",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 74,
+        "part": 1,
+        "poet": "",
+        "title": "Dolce mio bene, mio bene amato, già langue il cor",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 78,
+        "part": 1,
+        "poet": "",
+        "title": "Fiero, tiranno amor, perchè darmi dolor",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 80,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi amorevoli, deh per pietà. Un cor pitocco chiede l'elemosina a gli occhi di bella donna",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 82,
+        "part": 1,
+        "poet": "",
+        "title": "Sì, sì, mirate con guardo amico. Vivace",
+        "voices": ""
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 86,
+        "part": 1,
+        "poet": "",
+        "title": "Un occhio vezzoso, un labro amoroso",
+        "voices": ""
+      }
+    ],
+    "year": "1684"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "271"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "",
+          "siglum": "GB-Ob"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 87,
+      "partbook_count": 1,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Giuseppe Sala",
+          "original": "Gioseppe Sala"
+        }
+      ]
+    },
+    "title": "Affetti canori Cantate et Ariette di Gio. Battista Bassani maestro di capella dell'illustrissima Accademia della. Morte di Ferrara, et Accademico Filarmonico di Bologna. Consagrati all'illustrissimo, et eccellentissimo signore Stefano Capello. Opera Sesta. In Venetia. Da Gioseppe Sala, 1692.",
+    "voices": [],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": ""
+      }
+    ],
+    "year": "1692"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "272"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Bc"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 132,
+      "partbook_count": 1,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Bologna",
+      "printers": [
+        {
+          "modern": "Marino Silvani",
+          "original": "Marino Silvani"
+        }
+      ]
+    },
+    "title": "Affetti canori Cantate et Ariette del signor Gio. Battista Bassani maestro di capella nella cattedrale, e dell'illustrissima Accademia della Morte di Ferrara. Opera Sesta. In Bologna, per Marino Silvani. 1697.",
+    "voices": [],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": ""
+      }
+    ],
+    "year": "1697"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "273"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "",
+          "siglum": "F-Pc (manc. di pag. 1-8)."
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 164,
+      "partbook_count": 1,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Bologna",
+      "printers": [
+        {
+          "modern": "Giacomo Monti",
+          "original": "Giacomo Monti"
+        }
+      ]
+    },
+    "title": "Eco armonica delle Muse. Cantate amorose a voce sola dedicate al merito del' molto illust. sig. il sig. Stefano Franciosi da Gio. Battista Bassani maestro di capella della cattedrale, e dell'illustrissma Accademia della Morte di Ferrara. Opera Settima. In Bologna per Giacomo Monti. 1688.",
+    "voices": [
+      1
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "S'io v'amo, bei lumi",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Già deposte le spoglie del luminoso Dio. In amor ciascun non gode",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, sdegno e ragione sono del viver mio",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 48,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, se vuoi ch'io viva, non tormentar",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 56,
+        "part": 1,
+        "poet": "",
+        "title": "Ti lascio, Eurilla, hor che diverso il fato",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 69,
+        "part": 1,
+        "poet": "",
+        "title": "Provate un vero amor. Invito amoroso",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 81,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, più non sperar. Amante adirato",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 93,
+        "part": 1,
+        "poet": "",
+        "title": "Ho risolto di lasciarvi. Amante alla moda",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Cinta di foschi orrori. Cantata morale",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "In un torbido mare. Amante sdegnato",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Alla scuola d'amor. Amore maestro di scuola",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Dalla madre schermito. Amor ciarlatano",
+        "voices": 1
+      }
+    ],
+    "year": "1688"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Arias",
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "274"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "",
+          "siglum": "I-Rli"
+        },
+        {
+          "parts": "",
+          "siglum": "CH-SO"
+        },
+        {
+          "parts": "",
+          "siglum": "F-Pn"
+        },
+        {
+          "parts": "",
+          "siglum": "GB-Lcm"
+        },
+        {
+          "parts": "",
+          "siglum": "GB-Ob"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 164,
+      "partbook_count": 1,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Bologna",
+      "printers": [
+        {
+          "modern": "Marino Silvani",
+          "original": "Marino Silvani"
+        }
+      ]
+    },
+    "title": "Eco armonica delle Muse Cantate amorose a voce sola di Gio. Battista Bassani maestro di capella della cattedrale, e dell'illustrissima Accademia della Morte di Ferrara. Opera Settima. In Bologna, per Pier-Maria Monti. 1693. Con licenza de' Superiori. si vdndono (sic) da Marino Silvani all'insegna del Violino, con privilegio.",
+    "voices": [
+      1
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 1
+      }
+    ],
+    "year": "1693"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "275"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "",
+          "siglum": "CH-Zz"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 88,
+      "partbook_count": 1,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Giuseppe Sala",
+          "original": "Gioseppe Sala"
+        }
+      ]
+    },
+    "title": "Amorosi sentimenti di Cantate a voce sola dedicati al merito impareggiabile de gl'illustrissimi signori padroni colendissimi, li signori cavaglieri Gio. Francesco, e Florio Gioseppe, fratelli cavaglieri, Cremoni da Gio. Battista Bassani maestro di capella della cattedrale, e della illustrissima Accademia della Morte di Ferrara, et Accademico Filarmonico di Bologna.  Opera Quartadecima. In Venetia. Da Gioseppe Sala. 1693.",
+    "voices": [
+      1
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Come sfinge lusinghiera",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Quegl'occhi la vogliono con me",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Ama il cor senza speranza",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Ahi lasso e pur fia vero",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 41,
+        "part": 1,
+        "poet": "",
+        "title": "Come fate, o luci barbare",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 45,
+        "part": 1,
+        "poet": "",
+        "title": "Quando Cupido mi ruba il cor",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 48,
+        "part": 1,
+        "poet": "",
+        "title": "Sciolto Filli amarosa il il dolcissimo labro",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 57,
+        "part": 1,
+        "poet": "",
+        "title": "Se gl'ebani canori di cembalo armonioso",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 57,
+        "part": 1,
+        "poet": "",
+        "title": "Correa lieta e superba tra sponde di smeraldo",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 76,
+        "part": 1,
+        "poet": "",
+        "title": "Stende la mano amore a coglrer una rosa",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 84,
+        "part": 1,
+        "poet": "",
+        "title": "Ricordati, crudele, che amor ti punirà",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 86,
+        "part": 1,
+        "poet": "",
+        "title": "Fuggimi pur, crudele, non creder a mia fè",
+        "voices": 1
+      }
+    ],
+    "year": "1693"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "276"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "2 esempl.",
+          "siglum": "GB-Ob"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 86,
+      "partbook_count": 1,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Giuseppe Sala",
+          "original": "Gioseppe Sala"
+        }
+      ]
+    },
+    "title": "Amorosi sentimenti di Cantate a voce sola del sig. Gio. Battista Bassani maestro di capella della cattedrale, e dell'illustrismma Accademia della Morte di Ferrara, et Accademico Fillarmonico (sic) di Bologna. Opera Quartadecima. In Venetia. Da Gioseppe Sala. 1696. Si vendono a S. Gio. Grisostomo all'insegna del re David.",
+    "voices": [
+      1
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 1
+      }
+    ],
+    "year": "1696"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "277"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "",
+          "siglum": "F-Pn (manc. di pag. 33-48)."
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 58,
+      "partbook_count": 1,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Giuseppe Sala",
+          "original": "Gioseppe Sala"
+        }
+      ]
+    },
+    "title": "Armoniche Fantasie di Cantate amorose  a voce sola del sig. Gio. Battista Bassani maestro di capella della cattedrale. e'dell'illustrissima Accademia della Morte di Ferrara, et Accademico Fillarmonico di Bologna. Opera Decimaquinta. In Venetia. Da Gioseppe Sala. 1694. Si vendono a S. Gio. Grisostomo all'insegna del re David.",
+    "voices": [
+      1
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Bionde chiome, ch anellate anellar fate il mio core. Sopra capelli biondi di bella giovine. Cantata",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Bei tesori d'un fiume di latte",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Onde vaghe, ch'in seno. Seconda",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Già sorgeva nel cielo, coronata di stelle. Cantata",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Vuò bacciar tanto quel seno",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, deh tu la benda presta a miei lumi. Cantata",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Mi contento, pupille del core. Soave",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Leva pur da questi lumi. Largo ma spiritoso",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 33,
+        "part": 1,
+        "poet": "",
+        "title": "Al soave cantar d'un usignuolo, che l'aure avviva. Cantata",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 34,
+        "part": 1,
+        "poet": "",
+        "title": "Augelletto, tu parli d'amore. Aria",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 38,
+        "part": 1,
+        "poet": "",
+        "title": "Torna ai boschi, felice augelletto, Aria",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 42,
+        "part": 1,
+        "poet": "",
+        "title": "All'adorato Ireno, che fra bellici acciai. Cantata",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 43,
+        "part": 1,
+        "poet": "",
+        "title": "Quando più, pupille care. Aria",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 46,
+        "part": 1,
+        "poet": "",
+        "title": "Ristorami amato, consolami caro. Aria. Allegro",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 48,
+        "part": 1,
+        "poet": "",
+        "title": "Spero ch'il mio penar. Aria",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 50,
+        "part": 1,
+        "poet": "",
+        "title": "Vaga Aurilla adorata, io ti miro. Cantata",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 51,
+        "part": 1,
+        "poet": "",
+        "title": "Luci, sì vi baccierò. Aria, soave",
+        "voices": 1
+      },
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": 56,
+        "part": 1,
+        "poet": "",
+        "title": "Sempre più liete, amorose luci. Aria, soave",
+        "voices": 1
+      }
+    ],
+    "year": "1694"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bassani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Songs"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "278"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "CH-Zz"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 58,
+      "partbook_count": 1,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Giuseppe Sala",
+          "original": "Gioseppe Sala"
+        }
+      ]
+    },
+    "title": "Armoniche Fantasie di Cantate amorose a voce sola del sig. Gio. Battista Bassani maestro di capella della cattedrale, e dell'illustrissima Accademia della Morte di Ferrara, et Accademico Fillarmonico di Bologna. Opera Decimaquinta. In Venetia. Da Gioseppe Sala. 1701. Si vendono a S. Gio. Crisostomo all'insegna del re David.",
+    "voices": [
+      1
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bassani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 1
+      }
+    ],
+    "year": "1701"
   }
 ]
