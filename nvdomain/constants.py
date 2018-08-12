@@ -363,6 +363,8 @@ ITALIAN_NUMBERS = {
     " XII. ": 12,
     " XIII. ": 13,
     " XIV. ": 14,
+    " XV. ": 15,
+    " XVI. ": 16,
     " I, ": 1,
     " II, ": 2,
     " III, ": 3,
@@ -377,6 +379,9 @@ ITALIAN_NUMBERS = {
     " XII, ": 12,
     " XIII, ": 13,
     " XIV, ": 14,
+    " XV, ": 15,
+    " XVI, ": 16,
+
 }
 
 ITALIAN_NUMBERS_ORDINAL = {
@@ -397,5 +402,8 @@ ITALIAN_NUMBERS_ORDINAL = {
     " Dodicesimo": 12,
     " Duodecimo": 12,
     " Tredicescimo": 13,
-    " Quattordicesimo": 14
+    " Quattordicesimo": 14,
+    " Quartadecima": 14,
+    " Decimaquinta": 15,
+    " Decimasettima": 17
 }

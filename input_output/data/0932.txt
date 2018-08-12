@@ -60,5 +60,5 @@ A 4. S'io ve dico ca sete la chiu bella - 2
 " " Saccio na cosa ch'è di legn'e tonda e con ferreto 4
 
 ' ' sta
-" " Per ch'hai lasciato de non t'aflacclare per far sapere ca Sl malate
+" " Per ch'hai lasciato de non t'aflacclare per far sapere ca Si malate
 
