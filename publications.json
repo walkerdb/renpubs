@@ -43294,5 +43294,7509 @@
       }
     ],
     "year": "1626"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Padre D",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "...dalla virtù sua, et del suo vezzosetto Cardillo fecondata la mia musa, et fattane vaga ghirlandetta di Canzonette... Venetia, 28 V 1597 \"."
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "217"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl,",
+          "siglum": "D-Usche"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Di Adriano Banchieri bolognese, Canzonette a tre voci novamente, sotto diversi Capricci, composte, et date in luce. Hora prima di recreatione. In Venetia 1597. Apresso Ricciardo Amadino.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": 1,
+        "part": 1,
+        "poet": "Agostnio da Padova",
+        "title": "Uccellin lascivetto, loquace e garuletto. Canzonetta del Cardillo",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 2,
+        "part": 2,
+        "poet": "Agostnio da Padova",
+        "title": "Tu il sonno lusingando",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 3,
+        "part": 3,
+        "poet": "Agostnio da Padova",
+        "title": "Ahimè chi ti rinselva",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Perfido, ingrato amore. Duello amoroso",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Clori lucente e bella. Mattinata",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Ben venga maggio. Mascherata di cacciatori",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Scherzavan gl'augelletti. Madrigali sopra la morte del Cardillo",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Mentre il bel maggio adorno vestiva. Spoglia amorosa",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Se voi sete il mio core. Napolitana",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Corisca, anima mia. Amante resoluto",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Por che di te son privo. Dolce affetto",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Stavo in forse, ben mio. D'incerto autore. Proposta dell'amante",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 13,
+        "part": 1,
+        "poet": "A. Banchieri",
+        "title": "T'ingannavi, ben mio. Risposta dell'amata",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Sentii l'altra mattina. Villotta",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi vezzosi e belli. Catena d'amor",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Baci dolci e soavi. Frutto amoroso",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "L'aspido pien di morte. Canzonetta",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Dammi un baccio, amore. Villanella",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Cor mio, se m'uccidete. Dolcezza amorosa",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Samuel, Samuel. Mascherata di Hebrei",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Bone sire, bella brunetta. Balletto alla thedesca",
+        "voices": 3
+      }
+    ],
+    "year": "1597"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "217 bis"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "C. (manc. di front.).",
+          "siglum": "I-Bc"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Di Adriano Banchieri bolognees. Canzonette a tre voci sotto diversi Capricci composte. Libro Primo. Novamente ristampato. In Venetia, appresso Ricciardo Amadino. 1603.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 3
+      }
+    ],
+    "year": "1603"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "D. Cipriano Rovati",
+      "dedicator": "Monte Oliveto",
+      "location": {
+        "modern": "Bologna",
+        "original": "Bologna"
+      },
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "218"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "1596b.",
+          "siglum": "Sartori"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": "",
+      "partbook_count": 4,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Canzoni alla francese a quattro voci per sonare dentrovi, un Echo, et in fine una Battaglia a otto, et dui Concerti fatti sopra Lieto godea. Di Adriano Banchieri bolognese organista in S. Michele in Bosco. Libro Secondo. Novamente composte, et date in luce. In Venetia appresso Ricciardo Amadino. 1596.",
+    "voices": [
+      1,
+      4,
+      8
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "La Rovatina",
+        "voices": 4
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 2,
+        "part": 2,
+        "poet": "",
+        "title": "L'Ardina",
+        "voices": 4
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 3,
+        "part": 3,
+        "poet": "",
+        "title": "La Galluppa revista",
+        "voices": 4
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 4,
+        "part": 4,
+        "poet": "",
+        "title": "La Rustica sopra Vitam eternam",
+        "voices": 4
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 5,
+        "part": 5,
+        "poet": "",
+        "title": "La Pomponazza",
+        "voices": 4
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 6,
+        "part": 6,
+        "poet": "",
+        "title": "L'Alcenagina sopra Vestiv'i colli",
+        "voices": 4
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 7,
+        "part": 7,
+        "poet": "",
+        "title": "La Guamina",
+        "voices": 4
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 8,
+        "part": 8,
+        "poet": "",
+        "title": "La Banchierina",
+        "voices": 4
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 9,
+        "part": 9,
+        "poet": "",
+        "title": "La Camerina sopra Veni dilecte mi",
+        "voices": 4
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 10,
+        "part": 10,
+        "poet": "",
+        "title": "La Feliciana",
+        "voices": 4
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 11,
+        "part": 10,
+        "poet": "",
+        "title": "L'Organistina bella in echo",
+        "voices": 4
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Udite, ecco le trombe. La Battaglia",
+        "voices": 8
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 13,
+        "part": 2,
+        "poet": "",
+        "title": "Magnificat sopra Lieto godea",
+        "voices": 8
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 14,
+        "part": 3,
+        "poet": "",
+        "title": "Suscepit Israel",
+        "voices": 8
+      }
+    ],
+    "year": "1596"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Gio. Battista Rotella",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "219"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl. (C. e C.2° manc. di pag. 27-30).",
+          "siglum": "GB-Lbm"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 33,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Il Metamorfosi musicale Quarto Libro delle Canzonette a tre voci, di Adriano Banchieri bolognese nuovamente con spassevoli trattenimenti, diviso, in epilogati, et vaghi discorsi. In Venetia 1601. Appresso Ricciardo Amadino.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Su, rallegrate i cuori, benigni spettatori. Prologo recitato dall'Umor Cromatico",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Ti ri ti ri ti ri ti ri tin ti. Primo trattenimento sara un pass'e mezo nel lauto",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Non più parol, vegnim a confusion. Primo discorso. Michelino e Stefanello",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Flavia gentil, a dio, dolcissimo ben mio. Discorso secondo. Livio e Flavia",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Vien zoso, Trappolin, Patrù no poss. Terzo discorso, Stefanello e Trappolino",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Ninetta, bella Ninetta. Stefanello e Ninetta. Discorso quarto",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Tin tin tin tin ti ri trinc. Secondo trattenimento. Villotta alla contadinesca nel Chittarino",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Ahimè, come farò? Florio è pur vero. Florio solo. Discorso primo",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Ascolta, Pedrolin. sta bona niova. Secondo discorso. Stefanello e Pedrolino et al fine il Dottor sonante il lauto",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Bondi, sposo dolcissimo. Discorso terzo. Stefanello, Michelino, e Pedrolino",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Tich toch tic tac toc. O de cà. Discorso quarto. Zanni e Laura",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Trinc tin tin ti ri trinc. Liquide ferl'amor ranocchi. Discorso quinto. Michelino, Stefanello e Pedrolino",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 24,
+        "part": 2,
+        "poet": "",
+        "title": "O che dolce armonia me sento nel figa",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 25,
+        "part": 3,
+        "poet": "",
+        "title": "Oh ohi zagnur dottor",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Deh Laura, che farai, se Florio per sospetto. Discorso sesto. Laura sola",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Non è esercitio in terra, Terzo trattenimento. Mascherata de soldati",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Ahimè chi miro? Non veggio Florio. Discorso primo. Laura, Florio et al fine Livio",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "Fate festa e allegrezza, Livio. Discorso secondo. Livio e Flavia, Florio e Laura e Pedrolino",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 33,
+        "part": 1,
+        "poet": "",
+        "title": "Quel che balla senza zon, o l'è matt, over buffon",
+        "voices": 3
+      }
+    ],
+    "year": "1601"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "220"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "D-As"
+        },
+        {
+          "parts": "C., C.2°.",
+          "siglum": "F-Pc"
+        },
+        {
+          "parts": "C. (manc. di pag. 31-34), C.° (manc. di pag. 1-30).",
+          "siglum": "I-Bc"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 33,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Il Metamorfosi musicale Quarto Libro delle Canzonette a tre voci, di Adriano Banchieri bolognese con spassevoli trattenimenti, diviso in epilogati, et vaghi discorsi. Novamente ristampato. In Venetia 1606. Appresso Ricciardo Amadino.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 3
+      }
+    ],
+    "year": "1606"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Arcifanfo Spidocchioni. Contiene",
+      "dedicator": "Ragghiante Basticci",
+      "location": "",
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "221"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Fn (Palatino)"
+        },
+        {
+          "parts": "",
+          "siglum": "I-Gb"
+        },
+        {
+          "parts": "",
+          "siglum": "I-Ra"
+        },
+        {
+          "parts": "",
+          "siglum": "I-Rli"
+        },
+        {
+          "parts": "",
+          "siglum": "I-Rsc"
+        },
+        {
+          "parts": "",
+          "siglum": "I-Vnm"
+        },
+        {
+          "parts": "",
+          "siglum": "A-Wn"
+        },
+        {
+          "parts": "",
+          "siglum": "B-Br"
+        },
+        {
+          "parts": "",
+          "siglum": "D-G"
+        },
+        {
+          "parts": "",
+          "siglum": "GB-Lbm"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": "",
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": null,
+      "printers": [
+        {
+          "modern": "Barezzo Barezzi",
+          "original": "Barezzo Barezzi"
+        }
+      ]
+    },
+    "title": "La nobilissima, anzi asinissima compagnia delli briganti della Bastina. Descritta, et compilata da quattro Imbastinati Auttori, l'uno de' quali è M. Ragghiante Basticci. tesoriera delle asinerie, et l'altro è M. Cengione Allacciati secretario maggiore di essa compagnia. Opera nuova, ingegnosa, piacevole, et degna di riso. Dedicata al sodiss. sig. Arcifanfo Spidocchioni. Compositione di Camillo Scaligeri dalla Fratta. In Vicenza, per gli heredi di Perin libraro. 1597. Ad instanza di Barezzo Barezzi.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "Ninetta mia carissima. Bizaria  pag",
+        "voices": 4
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 58,
+        "part": 1,
+        "poet": "Grisardo Bertucci",
+        "title": "Andando a spasso un giorno alla campagna, Canzonetta",
+        "voices": 4
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 62,
+        "part": 1,
+        "poet": "",
+        "title": "Viva l'asin, Viva, viva. Frottola",
+        "voices": 4
+      }
+    ],
+    "year": "1597"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "222"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Mt"
+        },
+        {
+          "parts": "",
+          "siglum": "I-Vc (Torrefranca)"
+        },
+        {
+          "parts": "",
+          "siglum": "A-Wn"
+        },
+        {
+          "parts": "",
+          "siglum": "F-Pn"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": "",
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Milan",
+      "printers": [
+        {
+          "modern": "Pacifico da Ponte",
+          "original": "Pacifico Pontio"
+        }
+      ]
+    },
+    "title": "La nobilissima anzi asinissima compagnia delli briganti della Bastina. Descritta, et compilata da quattro Imbastinati Auttori, l'uno de' quali è M. Ragghiante Basticci, tesoriero delle asinerie, et l'altro è M. Cengione Allacciati secretario maggiore di essa compagnia. Opera nuova, ingegnosa, piacevole, et degna di riso. Dedicata al sodiss. Slg. Arcifanfo Spidocchioni. Compositione di Camillo Scaligeri dalla Fratta In Milano, presso il q.m Pacifico Pontio, 1598.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 4
+      }
+    ],
+    "year": "1598"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "222 bis"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Bu"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": "",
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Milan",
+      "printers": [
+        {
+          "modern": "Gratiadio Ferioli",
+          "original": "Gratiadio Ferioli"
+        }
+      ]
+    },
+    "title": "La nobilissima anzi asinissima compagnia delli briganti della Bastina. Descritta et compilata da quattro imbastinati auttori, l'uno de' quali è M. Ragghiante Bastici, tesoriero delle asinerie, et l'altro è M. Cengione Allacciati secretario maggiore di essa compagnia. Opera nuova, ingegnosa, piacevole, et degna di riso. Dedicata al sodiss. sig. Arcifanfo Spidocchioni. Compositione di Camillo Scaligeri dalla Fratta. In Milano, appresso Gratiadio Ferioli, 1598.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 4
+      }
+    ],
+    "year": "1598"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "223"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Bag"
+        },
+        {
+          "parts": "",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "",
+          "siglum": "I-Bu"
+        },
+        {
+          "parts": "",
+          "siglum": "I-Fn (Nencini)"
+        },
+        {
+          "parts": "",
+          "siglum": "I-Vnm"
+        },
+        {
+          "parts": "",
+          "siglum": "I-VIb"
+        },
+        {
+          "parts": "",
+          "siglum": "D-F"
+        },
+        {
+          "parts": "",
+          "siglum": "F-Pn"
+        },
+        {
+          "parts": "",
+          "siglum": "GB-Lbm"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": "",
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Barezzo Barezzi",
+          "original": "Barezzo Barezzi"
+        }
+      ]
+    },
+    "title": "La nobilissima anzi asinissima compagnia delli briganti della Bastina. Descritta, e compilata da quattro, imbastinati autori, i nomi de' quali sono, M. Ragghiante Basticci, tesoriero delle asinerie, M. Cengione Allacciati secretario maggiore, M. Sodesco Cavezza, mastro degl'intranti, M. Fibbia Pungentini, cancelliere. Opera nuova, ingegnosa, piacevole, e degna di riso. Compositione di Camillo Scaligeri dalla Fratta. All'asinissimo signor Arcifanfo Spedocchioni sodisimo rettore di detta compagnia In Venetia, appresso Barezzo Barezzi, 1611.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 4
+      }
+    ],
+    "year": "1611"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "224"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Ma"
+        },
+        {
+          "parts": "",
+          "siglum": "I-Rvat (Barberini)"
+        },
+        {
+          "parts": "",
+          "siglum": "I-Vgc"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 107,
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Alessandro Zatta",
+          "original": "Alessandro Zatta"
+        }
+      ]
+    },
+    "title": "La nobilissima anzi asinissima compagnia delli briganti della Bastina. Descritta e compilata da quattro imbastìnati autori i nome de' quali sono: M. Ragghiante Basticci tesoriero delle asinerie, M. Cengione Allacciati secretario maggiore, M. Sodesca Cavezza mastro degl'intranti, M. Fibbia Puncentini cancelliere. Opera nuova, ingegnosa, piacevole, e degna di riso. Composizione di Camillo Scaligeri dalla Fratta. All'asinissimo sig. Arcifanfo Spidocchioni sodissimo rettore di detta compagnia. In Venetia, appresso Alessandro Zatta, 1666.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 4
+      }
+    ],
+    "year": "1666"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Conte Francesco Gambara",
+      "dedicator": "",
+      "location": {
+        "modern": "Bologna",
+        "original": "Bologna"
+      },
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "225"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "B-Br"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 29,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "La Pazzia senile. Ragionamenti vaghi, et dilettevoli novamente composti, et dati in luce con la musica di Adriano Banchieri bolognese. Libro Secondo, a tre voci. In Venetia, appresso Ricciardo Amadino. 1598.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Questa estate per bizzaria e passar malinconia. L'Auttore per introduttione",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Tre vezzosette ninfe. Preparamenti di ninfe, et pastori",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "O la bella brigada. Hu hu spazzacamì. Primo Intermedio di Spazzacamini",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Buon giorno, spettatori. Prologo recitato da l'Humor bizzarro",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Povero Pantalon, Lauretta xe cason che no magno boccon. Pantalone solo",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Burattin Burattin? estu ti Burattin. Pantalone e Burattino",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Misere, che farai? Dì, Doralice, che farai infelice? Doralice sola",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Sassad'al ben strupiado, messier Pianta limon. Gratiano e Pantalone",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Udite tutti quanti trista novella, amanti. Bando della Sabadina",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Ditemi in cortesia, Doralice, anima mia. Fulvio",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Deh Fulvio, anima mia, non sarebbe pazzia. Doralice",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Trinc tin tin tin tin tronc. Doralice mia bella. Gratiano con chittarino",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Ahimè, come farò? come viver potrò? Terzo Intermedio sopra la morte d un Grillo",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Lauretta, viso d'oro, non vedistu che moro? Pantalone e Lauretta",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Pantalon, che vostu far? Lauretta ch'a soaio. Pantalone",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Cortesi spettatori, qui son tornato fuori. Licenza. dell'Humor bizzarro",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "L'altra sera essendo in piazza. Canzon della Violina",
+        "voices": 3
+      }
+    ],
+    "year": "1598"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Conte Francesco Gambara",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "226"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "C. (pag. 9-30), C. 2°, B. (pag. 1-8).",
+          "siglum": "D-Usche"
+        },
+        {
+          "parts": "B.",
+          "siglum": "I-VEaf"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 30,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "La Pazzia senile ragionamenti vaghi, et dillettevoli (sic), a tre voci di Adriano Banchieri bolognese revisti aggiunti, et di nuovo ristampati. Libbro (sic) Secondo. In Venetia, appresso Ricciardo Amadino. 1599.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "L'altra estate per bizaria e passar malinconia. L'Autore per introduttione",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Strazz'e ciabatte. donne, a i solfanelli. Intermedio di Solfanari",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Illustri spettatori, qui son venuto fuori, Prologo dell'Humor bizzaro",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Povero Pantalon, Lauretta xe cason che no magno boccon. Pantalone solo",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Burattin, Burattin? estu ti, Burattin? Pantalon e Burattino",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Se nel mar del mio pianto bagnasti, Doralice. Madrigaletto, Fulvio",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Sassad'al ben strupiado, messier Pianta limon. Gratiano e Pantalone",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Udite tutti quanti trista novella, amanti. Intermedio secondo",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Tio, Burattin, sta lista e sta in cervello. Pantalone e Burattino",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Misera, che farai? Dì, Doralice, che farai infelice? Doralice",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Trinc tin tin tin tin tin tronc. Doralice, mia bella. Gratiano sonando",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Lauretta, viso d'oro, non vedistu che moro? Pantalone e Lauretta",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "O la bella brigada. Hu, hu, spazzacamì. Intermedio terzo di Spazzacamini",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Trinc tin tin ritronc. Rostiva i corvi e le castagne in forno. Gratiano",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Ditemi in cortesia, Doralice, anima mia. Fulvio",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Deh Fulvio, anima mia, non sarebbe pazzia. Doralice",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Pantalon, che vostu far? La Lauretta t'ha soiao. Pantalone",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Illustri spettatori, qui son tornato fuori. Licenza dell'Humor bizaro",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Tre villanelle vezzose e belle, signor, siamo. Balletto di vilanelle",
+        "voices": 3
+      }
+    ],
+    "year": "1599"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "227"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "B.",
+          "siglum": "D-MZ"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 32,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "La Pazzia senile ragionamenti vaghi, et dilettevoli, a tre voci, di Adriano Banchieri bolognese. Novamente ristampati, Libro Secondo. In Venetia, appresso Ricciardo Amadino. 1601.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "L'altra estate per bizzaria e passar malinconia. L'autore per introdutione",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Strazz'e ciabatte, donne, a i solfanelli. Intremedio  di solfanari",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Illustri spettatori, qui son venuto fuori. Prologo dell'Humor bizzaro",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Povero Pantalon, Lauretta xe cason che no magno boccon. Pantalone solo",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Burattin, Burattin? estu ti, Burattin. Pantalone e Burattino",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Se nel mar del mio pianto bagnasti, Doralice, il bel'erin d oro. Fulvio",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Sassad'al ben strupiado, messier Pianta limon. Gratiano et Pantalone",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Udite tutti quanti trista novella, amanti. Intremedio secondo. Bando della Bertolina",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Tio, Burattin, sta lista e sta in cervello. Pantalone e Burattmo",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Misera, che farai? Dì, Doralice, che farai infelice? Doralice sola",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Trinc tin tin tin tin tin tronc, Doralice, mia bella, Gratiano sonando",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Lauretta, viso d'oro, non vedistu che modo? Pantalone e Lauretta",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "O la bella brigada, Hu, hu, spazzacamì. Intremedao terzo di pazzacalmim",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Trinc tin ti ritronc. Rostiva i corvi e le castagne in forno. Gratiano solo",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Ditemi in cortesia, Doralice, anima mia. Fulvio",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Deh Fulvio, anima mia, non sarebbe pazzia che Doralice. Doralice",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Pantalon, che vostu far. La Lauretta t'ho miao. Pantalone solo",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Illustri spettatori, qui son tornato fuori. Licenza dell'Humor bizaro",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Tre vilanelle vezznse e belle, signori, siamo. Balletto di villanelle",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "L'altra sera essend'in piazza vidi in banc'una ragazza. Canzon della Violina",
+        "voices": 3
+      }
+    ],
+    "year": "1601"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "228"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "D-W"
+        },
+        {
+          "parts": "C.",
+          "siglum": "D-PA"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 29,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": null,
+      "printers": [
+        {
+          "modern": "Gerardo Greuenbruch",
+          "original": "Gerardo Greuenbruch"
+        }
+      ]
+    },
+    "title": "La Pazzia senile. Ragionamenti vaghi, et dilettevoli novamente composti, et dati in luce con la musica a tre voci. Di Adriano Banchieri bolognese. In Colonia, appresso Gerardo Greuenbruch. Anno 1601.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 3
+      }
+    ],
+    "year": "1601"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "229"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "C.",
+          "siglum": "F-Pc"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 30,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "La Pazzia senile ragionamenti vaghi, et dilettevoli, a tre voci, di Adriano Banchieri bolognese. Novamente ristampati, Libro Secondo. In Venetia appresso Ricciardo Amadino. 1604.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 3
+      }
+    ],
+    "year": "1604"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "230"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "compl.",
+          "siglum": "D-As"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 30,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "La Pazzia senile ragionamenti vaghi, et dillettevoli (sic), a tre voci di Adriano Banchieri bolognese. Novamente ristampati. Libro Secondo. In Venetia, appresso Ricciardo Amadino. 1607.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 3
+      }
+    ],
+    "year": "1607"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Conte Francesco Gambara",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "231"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "GB-Lbm"
+        },
+        {
+          "parts": "B.",
+          "siglum": "I-A"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 30,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "La Pazzia senile ragionamenti vaghi, et dilettevoli, a tre voci di Adriano Banchieri bolognese. Nuovamente ristampati. Libro Secondo. In Venetia, appresso Ricciardo Amadino, 1611.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 3
+      }
+    ],
+    "year": "1611"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "232"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "C.",
+          "siglum": "I-Bc"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 30,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Bartolomeo Magni",
+          "original": "Bartholomeo Magni"
+        }
+      ]
+    },
+    "title": "Pazzia senile ragionamenti vaghi et dilettevoli a tre voci. Di Adriano Banchieri bolognese. Novamente ristampati. Stampa del Gardano. In Venetia. 1621. Appresso Bartholomeo Magni.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 3
+      }
+    ],
+    "year": "1621"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "234"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "C, (manc. di front. e di pag. 29-32).",
+          "siglum": "I-Bc"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 36,
+      "partbook_count": 3,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Milan",
+      "printers": [
+        {
+          "modern": "Giovanni Francesco Besozzo",
+          "original": "Gio. Francesco Besozzo"
+        }
+      ]
+    },
+    "title": "(Studio dilettevole... Libro Terzo delle Canzonette a tre voci... Milano, Gio. Francesco Besozzo e compagno, 1600).",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Silentio o là tacete signori. Prologo dell'Humor resoluto",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "O Pedrolin, dov'estu? Pantalone e Pedrolino",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Sippia ben travaiad. Gratiano e Pantalone",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "O signor capitano. Isabella e Cap. Cardon",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Andando un giorno a spasso sentiva un gran fracasso. Intermedio del Burano",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Misero, che farò? Lucio infelice. Lucio solo",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Daspuò ch'ho stabilio. Pantalon e Pedrolin",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Ancor ch'al parturire al si stent'al murirc. Gratiano con Lauto",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Tu m'amazzi e tu m'uccidi Bcrtolina. Intermedio del Biabo",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco che più non resta. Isabella sola",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Ah Isabella che fai? Frulla e Isabella",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "Tich'tach tich tach. O Hebreorum gentibus. Sinagoga di hebrei",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 34,
+        "part": 1,
+        "poet": "",
+        "title": "Lassa che veggio? E' Lucio forse. Isabella e Lucio",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 36,
+        "part": 1,
+        "poet": "",
+        "title": "E voi, cortesi e cari spettatori. Licenza dell'Humor risoluto",
+        "voices": 3
+      }
+    ],
+    "year": "1690"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Arias",
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "235"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "D-Bgk"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 20,
+      "partbook_count": 3,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Tirsi, Fili, e Clori, che in verde prato di variati fiori cantano. Il Sesto, ed ult. Libro delle Canzonette a tre voci, di Adriano Banchieri bolognese, nuovamente date in luce, e dedicate al molto illustre signor Theodoro Libertini, rettore del nobilissimo Collegio di Mont'alto in Bologna. In Venetia appresso Ricciardo Amadino 1614.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Ninfe e pastori insieme",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Dormiva con dolcezza",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "A sussurar",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Bella Clori, non partire, non sdegnar chi si t'adora",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Perluccie in conchigliette",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Bella Filli crudele, se bramale che mora",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 6,
+        "part": 2,
+        "poet": "",
+        "title": "Questo core",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 7,
+        "part": 3,
+        "poet": "",
+        "title": "Risetta che tant'ire",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Bella Filli",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Il cor che mi rubaste homai",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 9,
+        "part": 1,
+        "poet": "Paoli",
+        "title": "Stravaganza inaudita, dice costei",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Sospirando e piangendo",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Tirsi scherzava",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 12,
+        "part": 2,
+        "poet": "",
+        "title": "Felice te, pastore",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Vcazosetta Amarillide B",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Unico mio tesoro, se non mi baci io moro",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 15,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Crud'Amarilli ingrata",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Misero me, son morto perchè quando mi guardi",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Non e ver che Cupido",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Mi parto. anima mia",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Pur ti parti",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Bella Fillide mia, mentre cantando il tuo bel nome udia",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco che pur alfine, dopo lunghi martiri",
+        "voices": 3
+      }
+    ],
+    "year": "1614"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Arias"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "236"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "II 1630d.",
+          "siglum": "Sartori"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 16,
+      "partbook_count": 6,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Alessandro Vincenti",
+          "original": "Alessandro Vincenti"
+        }
+      ]
+    },
+    "title": "Trattenimenti da villa concertati in ordine REEF-nre nel Chitarrone con cinque modi in variati modi. Vaga, e curiosa concaione dramatica del Banchieri nell'Academia de' Filomusi bolognesi il Dissonante nante nuovamente composti, et dati in luce. Con licenza de' Superiori, et privilegio. In Venetia, appresso Alessandro Vincenti. 1630.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Poichè in villa noi siamo tutti allegri. Introduzzione all'opera",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Virtuosa compagnia, su scaccia maninconia. Invita l'Umor spensierato",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Baciansi, pastorella. Rispose Dafne: anch'io. Aminta, Dafne et Amore",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco la passerina. Gioco della Passerina",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "All'apparir del sole s'indora i monti. Gaudio e pianto",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Amar donna superba con disperato amor. Ninfa crudele",
+        "voices": 2
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Il cor non fu sanato, Clori, con i tuoi sguardi. Tirsi a Clori",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Ninfe leggiadre, siamo pignattari. Mascherata di Pignattari",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Aura, che intorno spiri a rugiadosi fiori. Canto a voce sola di Giovan Ghizzolo Sopra il soggetto è composto il seguente a 4 voci",
+        "voices": 1
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Aura, che intorno spiri. Sopra l'antecedente Canto, vi sono aggiunte 3 parti",
+        "voices": 4
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Siamo cinque pastorelle, vezzosette, vaghe e belle. Ballo del Spagnoletta nella Cornamusa sonante e cantante in dialogo",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Apprestateci fede voi, che rivolto il core. Intramezzo di Bifolci",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, dal primo lacci'a pena sciolto subitamente son. Laberinto d'amore",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Mentre, mia Lilla, miri i bei celesti giri. Terra e Cielo",
+        "voices": 2
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Il misero mio core. Ergasto appassionato",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Parto, mio caro Tirsi, ma non si parte il core. Pegno amoroso",
+        "voices": 3
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Treccie ombrose ove s'asconde. Ballo del Gran Duca",
+        "voices": 2
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Sopra l'orlo d'un fonte, Arringo amoroso",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Mirando il bel crin d'oro. Lodano le sue ninfe",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Venite, amanti, insieme con suoni e canti. Ripieno di danze suoni e canti",
+        "voices": 5
+      }
+    ],
+    "year": "1630"
+  },
+  {
+    "composers": [
+      [
+        "Adriano Banchieri"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "Gio. Francesco Besozzo",
+      "location": {
+        "modern": "Milan",
+        "original": "Milano"
+      },
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "237"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "D-As"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 19,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": null,
+      "printers": [
+        {
+          "modern": "Filippo Lomazzo",
+          "original": "Philippum Lomatium"
+        }
+      ]
+    },
+    "title": "Il Zabaione musicale inventione boscareccia, et Primo Libro di Madrigali a cinque voci, di Adriano Banchieri nuovamente dato in luce. All'ill.re sig. Gio. Battista Niguarda. Mediolani, apud haer. Simonis Tini, et Philippum Lomatium. 1603 (A., T. e B.: 1604).",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Adriano Banchieri",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Poi che ridotti siamo. Introduttione alle parti",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Ben trovati, o compagnia. Prologo dell'Humor spensierato",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Aprestateci fede voi, che rivolto il core. Intermedio di felici pastori",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Vago augellin, che sì soave piagni. Progne et Filomena",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Siamo cinque pastorelle, vezzosette, vaghe e belle. Danza di pastorelle in aria del Spagnoletta, con le riprese nella Cornamusa",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 6,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Soavissimo ardore, che da la vista mia. Madrigale",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 7,
+        "part": 1,
+        "poet": "Caputi",
+        "title": "Ninfe leggiadre, siamo pignattari. Intermedio di Pignattari",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Augellin lascivetto. Un pastorello con un augellino uccisogli da un gatto",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Il cor non fu sanato, Clori, con i tuoi sguardi. Tirsi a Clori",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Baciansi, alma mia stella. Dialogo Aminta, Dafne et Giuditio d'amore",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco la passcrina. Gioco della passerina",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 12,
+        "part": 1,
+        "poet": "Casone",
+        "title": "Baci, sospiri et voci alternavan duc bocche",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Il misero mio core. Ergasto appassionato",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Alla riva d'un fonte. Preparamento pastorale",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "S'io miro il bel crin d'oro. Gara amorosa di pastori",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Venite, amanti, insieme con suoni e canti. Danza di pastori e ninfe con la ripresa",
+        "voices": 5
+      },
+      {
+        "composer": "Adriano Banchieri",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Son tornato, o compagnia. Licenza dell'Humor spensierato",
+        "voices": 5
+      }
+    ],
+    "year": "1603"
+  },
+  {
+    "composers": [
+      [
+        "Bartolomeo Barbarino"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "238"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "GB-Och"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": "",
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Canzonette a una e due voci con alcuni Sonetti da cantarsi da una voce sola nel Chitarrone ò altro instromento, in soprano, overo in tenore, come più il cantante si compiacerà. Poste in musica da Bartolomeo Barbarino da Fabriano detto il Pesarino novamente composte, et date in luce. Dedicate all'illustrissimo sig. Vincenzo Grimani. In Venetia, 1616. Appresso Ricciardo Amadino.",
+    "voices": [
+      1,
+      2
+    ],
+    "works": [
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 1,
+        "part": 1,
+        "poet": "Pesarino",
+        "title": "Vezosetta pargoletta che m'uccide, ohimè non fuggir",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 2,
+        "part": 1,
+        "poet": "Pesarino",
+        "title": "Occhi belli, al primo sguardo mi ferist'l cor",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 3,
+        "part": 1,
+        "poet": "Ottavio Rinuccini",
+        "title": "Dal tuo impero, cieco arciero, ah non vedi",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 4,
+        "part": 1,
+        "poet": "Rinuccini",
+        "title": "Alma mia, dove ten vai? Alma mia, chi fuggi tu?",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 5,
+        "part": 1,
+        "poet": "Camillo Nobili",
+        "title": "Filli mia, Filli gentile, che del bel fiorito aprile",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 6,
+        "part": 1,
+        "poet": "Michelangelo Angelico",
+        "title": "Filli, cor del mio core, ferma, ti prego",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 7,
+        "part": 1,
+        "poet": "Pesarino",
+        "title": "Hor che tace Filomena e che Progne a i novi albori",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 8,
+        "part": 1,
+        "poet": "Pesarino",
+        "title": "Bella sei, Cara e vezzosa, gratiosa Filli mia",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 9,
+        "part": 1,
+        "poet": "Monsignor Bertoldi",
+        "title": "Donna, già piansi, hor canto, sprigionato da te",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 10,
+        "part": 1,
+        "poet": "Rinuccini",
+        "title": "D'una guancia, alma, ridente, ch'arrossir fà in ciel",
+        "voices": 2
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 12,
+        "part": 1,
+        "poet": "Pesarino",
+        "title": "Filli mia, Filli cara, non m'esser avara d'un tuo dolce",
+        "voices": 2
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 14,
+        "part": 1,
+        "poet": "Pesarino",
+        "title": "Cloride mia, che sarà del mio cor, ch'ad ogn'or",
+        "voices": 2
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 16,
+        "part": 1,
+        "poet": "Pesarino",
+        "title": "Filli bella e gentile, deh vieni soletta a premer qui",
+        "voices": 2
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 18,
+        "part": 1,
+        "poet": "Pesarino",
+        "title": "Bella è la donna mia e cara e gratiosa. tutta lieta",
+        "voices": 2
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 20,
+        "part": 1,
+        "poet": "Pesarino",
+        "title": "Come cara sei, vezzosa, amorosa pastorella",
+        "voices": 2
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": -1,
+        "part": 1,
+        "poet": "Pesarino",
+        "title": "Corri Filli, corri al prato. Qui vedrai ninfe e pastori.  22",
+        "voices": 2
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 24,
+        "part": 1,
+        "poet": "Pesarino",
+        "title": "Filli mia, dove ten vai, baldanzosa saltellando?",
+        "voices": 2
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Altro non è il mio cor che desir e dolor",
+        "voices": 2
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 27,
+        "part": 1,
+        "poet": "Gabriello Chiabrera",
+        "title": "Se bel rio, se bell'auretta tra l'herbetta sul martin",
+        "voices": 2
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 28,
+        "part": 1,
+        "poet": "Rinuccini",
+        "title": "Sul mattin, quando colora lalma aurora de la notte i cupi",
+        "voices": 2
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 30,
+        "part": 1,
+        "poet": "Rinuccini",
+        "title": "Vaghi rai, mercede, aita. Giù nel sen mirate il core",
+        "voices": 2
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 32,
+        "part": 1,
+        "poet": "Torquato Tasso",
+        "title": "Vuol ch'io l'ami costei, ma un duro freno m'impone",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 34,
+        "part": 1,
+        "poet": "Gio. Francesco Corniani",
+        "title": "Occhi leggiadri, in bellezza e amore hanno",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 36,
+        "part": 1,
+        "poet": "Corniani",
+        "title": "Sorge l'aurora e con la man di rose tragge",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 38,
+        "part": 1,
+        "poet": "Corniani",
+        "title": "Ecco spietata Filli, ecco ch'amore ha posto in me",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 38,
+        "part": 1,
+        "poet": "Corniani",
+        "title": "Sedeva in grembo ai fior, turbata il volto",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 42,
+        "part": 1,
+        "poet": "Pier Francesco Paoli",
+        "title": "Quanto il martir d'amore men grave hor sento",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 44,
+        "part": 1,
+        "poet": "Francesco Contarini",
+        "title": "Qui, dove più soave e più odorati dando prodighi",
+        "voices": 1
+      }
+    ],
+    "year": "1616"
+  },
+  {
+    "composers": [
+      [
+        "Bartolomeo Barbarino"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Giovan Maria",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": ""
+    },
+    "genres": [
+      "Arias",
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "239"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "GB-Och"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 35,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Madrigali a tre voci da cantarsi nel Chittarone o Clavicembalo con il Basso continuo a ciascuna parte per potere sonate volendosi più di un Chittarone, et con alcuni Madrigali da cantar solo. Posti in musica da Bartolomeo Barbarino da Fabriano, detto il Pesarino. Dedicati alli molto illustri signori Giovan Maria et Tomaso Gionti. Novamente posti in luce. Con privilegio. In Venetia 1617. Appresso Ricciardo Amadino.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Tu sospiri. Io sospiro. Tu per altrui, io sol per te, crudele",
+        "voices": 3
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 6,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Che fai, che pensi, che pur dietro guardi al tempo",
+        "voices": 3
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 8,
+        "part": 1,
+        "poet": "Priuli",
+        "title": "Io sprezzarti? Io fuggirti, anima mia? Da questo petto pria",
+        "voices": 3
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 10,
+        "part": 1,
+        "poet": "Giustiniani",
+        "title": "L'alma un sospir mi tolse. Un respiro l'accolse",
+        "voices": 3
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Io amo, io ardo, io moro e tu non curi, donna",
+        "voices": 3
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Non si può più schernirc. Bisogna alfin morire",
+        "voices": 3
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Misero e mesto io vivo. Lieto e felice io moro",
+        "voices": 3
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "A che tanto piagarmi, se chiedendo pietà depongo l'armi",
+        "voices": 3
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "La novella ferita di quel labro vezzoso, se nol sapete",
+        "voices": 3
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "La tenerella pianta, nata in giarclin fecondo",
+        "voices": 3
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 24,
+        "part": 1,
+        "poet": "Contarini",
+        "title": "Clori mi dicde un bacio, Armilla un fiore",
+        "voices": 3
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 26,
+        "part": 1,
+        "poet": "Corniani",
+        "title": "Un aureo e biondo crine, un caro sguardo e lionesto",
+        "voices": 3
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Se più di me t'amai, Filli, non lo chied'io",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Filli vaga e gentile, fiorisce nel tuo viso un verde aprile",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "Un sol bacio chiedei, un bacio per mercede del mio servir",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 34,
+        "part": 1,
+        "poet": "",
+        "title": "Negarmi un bacio, ingrata? Hor dimmi e qual mercecle prepari",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Ohimè, s'è in voi desio ch'io vi faccia immortal col canto mio",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Verrà giamai quel sospirato di, quel di sereno",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "Potrai dunque, amor mio, potrai dunque partire",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 34,
+        "part": 1,
+        "poet": "",
+        "title": "Per te, che lieta parti ed in martiri, empia, mi lasci",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Io amo, io ardo, io moro e tu non curi, donna",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Sembri l'aurora, o ritrosetta Clori, qual bar di dolci stille",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "Udite, o fidi amanti, non di cigno che muor l'ultime voci",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 34,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Udite, lacrimosi spirti d'Averno, udite nova sorta di pena",
+        "voices": 1
+      }
+    ],
+    "year": "1617"
+  },
+  {
+    "composers": [
+      [
+        "Bartolomeo Barbarino"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Arias",
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "240"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Gu"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 38,
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Madrigali di diversi autori posti in musica da Bartolomeo Barbarino da Fabriano musico di mons. ill.mo vescovo di Padova. Per cantare sopra il Chitarrone, Clavicembalo, o altri stromenti da una voce sola, con un'Aria da cantarsi da due tenori. Novamente con diligentla ristampati.  In Venetia appresso Ricciardo Amadino, 1602.",
+    "voices": [
+      1,
+      2
+    ],
+    "works": [
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 1,
+        "part": 1,
+        "poet": "Rinuccini",
+        "title": "Caro e soave legno, umeo pregio mio",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Cor mio, tu canti e ridi e t'infingi",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 3,
+        "part": 1,
+        "poet": "Cesare Rinaldi",
+        "title": "Geherzi fanciul, con l'arco. Filli tel chiede",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Ch'io mora. ohimè ch'io mora? Morrò",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Sol mirando vorrei che senz'altre parole l'intendesse",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Felice chi vi mira, ma più felice chi per voi sospira",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi miei, che vedeste il bel idolo vostro",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Alla bocca dolcissima di rose giunse le labbra mie",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi, un tempo mia vita, occhi di questo cor dolci",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Ingratissima Clori, forse quell'usignuol ami, L'usignuolo",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "O tempo, o tempo, s'il tuo grave duolo si disaccrba 12",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Tu piangi, anima mia, queste ferite, colpi del tuo",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Serenissima coppia, hor sì che l'aria e'l ciel",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Sembra l'amante un musico gentile, che scioglie",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 20,
+        "part": 2,
+        "poet": "",
+        "title": "E se tra via sospira e tace",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "O come sei gentile, caro augellino cav",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Ahi dura dipartenza, lasso di voi, ben mio, restarò senza",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Canta musico labbro, canta prodiga lingua",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 27,
+        "part": 2,
+        "poet": "",
+        "title": "Siano al mio cor sembianti",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Vezzosissima Clori, un sol bacio desio",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 29,
+        "part": 2,
+        "poet": "",
+        "title": "Amarissimi baci, labbra ingrate",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Parto e partendo sento svelarm'il cor dal seno",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "Quand'i più gravi accenti da le vitali sue canore cav",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 34,
+        "part": 1,
+        "poet": "",
+        "title": "I tuoi capilli, Filli, in una cistula. Aria da cantarsi con una, e con due voci",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 35,
+        "part": 2,
+        "poet": "",
+        "title": "Spesso gli lego e spess'ohimè",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 36,
+        "part": 3,
+        "poet": "",
+        "title": "Basse son queste rime esili",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 37,
+        "part": 4,
+        "poet": "",
+        "title": "Io piango, o Filli, il tuo spietato",
+        "voices": 1
+      }
+    ],
+    "year": "1606"
+  },
+  {
+    "composers": [
+      [
+        "Bartolomeo Barbarino"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Arias",
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "241"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "GB-Och"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 38,
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Madrigali di diversi autori posti in musica da Bartolomeo Barbarino da Fabriano, detto il Pesarino. Per cantare sopra il Chitarrone, Clavicembalo, o altri stromenti da una voce sola, con un'Aria da cantarsi da due tenori. Novamente con diligentia ristampati. In Venetia, appresso Ricciardo Amadino. 1609.",
+    "voices": [
+      1,
+      2
+    ],
+    "works": [
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 1
+      }
+    ],
+    "year": "1609"
+  },
+  {
+    "composers": [
+      [
+        "Bartolomeo Barbarino"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Pio Obici",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "242"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Bc"
+        },
+        {
+          "parts": "",
+          "siglum": "I-Gu"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 36,
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Il Secondo Libro de Madrigali de diversi autori posti in musica da Bartolomeo Barbarino da Fabriano, detto il Pesarino. Per cantare sopra il Chitarrone o Tiorba, Clavicimbalo, o altri stromenti da una voce sola, con un Dialogo di Anima e Caronte. Novamente posti in luce. Con privileggio. In Venetia appresso Ricciardo Amadino. 1607.",
+    "voices": [
+      1
+    ],
+    "works": [
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Cane e turco, mi dice la cara lingua, ch'io sperai, Parole",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Nel mar del pianto mio, desir le navi furo",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Spasmo s'io non ti veggio, moro se tu non m'ami",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Com'è soave cosa tanto goder quant'ami",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Soccorso al mio languire, occhi, stelle lucenti",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Queste lacrime amare, che son negl'occhi miei",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Clori mi dicd'un bacio, Armilla un fiore",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco l'alma, che fuore vien dal petto angoscioso",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Io sprezzarti? Io fuggirti, anima mia? Di Girolamo Priuli",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Deh dimmi, anima mia, poichè col tuo partire",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Ridete pur, ridete, donna, che col bel riso",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Io moro, ecco ch'io moro, Come viver poss'io, crudel",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "L'ombre crudeli e sorde già moss'il suon",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Son io morto? o pur vivo? Se viv'io son",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Tutta leggiadr'e bella la vezzosetta Clori",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "M'è più dolce il penar per Amarilli, che gioir",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Perchè tanto accarezzi, semplicetta crudel",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "S'avvicina il partire e, che dich'io, il morire",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Son morto, ahi lasso, e voi cagion ne sete",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "S'ergano al cielo le procell'e l'onde Dei Cappello",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "Ferma, ferma. Caronte. Chi è colui che grida? Dialogo. La prima volta il Soprano in fine dice solo, alla replica in compagnia",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 33,
+        "part": 1,
+        "poet": "",
+        "title": "Quella vermiglia rosa, ch'al matutino gielo",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 35,
+        "part": 1,
+        "poet": "",
+        "title": "Se voi, lagrime, a pieno non mostrat'il dolore",
+        "voices": 1
+      }
+    ],
+    "year": "1607"
+  },
+  {
+    "composers": [
+      [
+        "Bartolomeo Barbarino"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "243"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "GB-Och"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 36,
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Il Secondo Libro de Madrigali de diversi auttori posti in musica da Bartolomeo Barbarino da Fabriano, detto il Pesarino. Per cantare sopra il Chitarrone o Tlorba, Clavicimbalo, o altri stromenti, da una voce sola, con un Dialogo di Anima e Caronte. Nuovamente ristampato. Con privilegio. In Venetia, appresso Ricciardo Amadino. 1611.",
+    "voices": [
+      1
+    ],
+    "works": [
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 1
+      }
+    ],
+    "year": "1611"
+  },
+  {
+    "composers": [
+      [
+        "Bartolomeo Barbarino"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Ranuccio Farnese Duca di Parma",
+      "dedicator": "Santa Chiesa",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "Li presenti miei parti Musicali... non osava pubblicarli al Mondo... se il Molt'Illustre Sig. Antonio Milani, suo sviscerato, et devotissimo servitore, non mi dava coraggio... Venetia, 10 IV 1610\"."
+    },
+    "genres": [
+      "Canzonette",
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "244"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "I-Gu"
+        },
+        {
+          "parts": "",
+          "siglum": "GB-Lbm"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 57,
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Il Terzo Libro de Madrigali de diversi auttori posti in musica da Bartolomeo Barbarino da Fabriano, detto il Pesarino. Per cantare sopra il Chitarrone o Tiorba, Clavicimbalo, o altri stromenti da un voce sola, con alcune Canzonette nel fine. Dedicati all'altezza sereniss. di Parma, e Piacenza, etc. Novamente posto in luce. Con privilegio. In Venetia, appresso Ricciardo Amadino. 1610.",
+    "voices": [
+      1
+    ],
+    "works": [
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "A le Gratie, a gl'amori qui consacrato",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Poi che si nega fede al mio chiuso dolore",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "L'alma un sospir mi tolse, un respiro l'accolse",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Lasciatemi, ch'io moro, Se volete baciar,' ben mio",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "O vago rosignuolo, o del selvaggio amorosetto coro",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Mentre spargo le voci al ciel dolenti",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Questi musici nervi, ch'armonizando van",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Filli, il bel volto tuo ben spess'invitami",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Nascon pallide e fosche le\" perle se di folgori",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Voi parlate, io vi bacio e s'io potessi vorrei",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Se tu non sai ch'io t'ami, bellissima mia diva",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "E pur tu parti, ohimè, dolce mia vita",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Perdona a questa mano, folle ministra d'ira",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Gia l'aura messaggera col novo albor si desta",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Le note, ore son chius'i miei tormenti, legge",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "O vaga e bianca luna, o voi pompe del ciel",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 34,
+        "part": 1,
+        "poet": "",
+        "title": "QUCSU} lagrime e questo duol, che lo stame",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 36,
+        "part": 1,
+        "poet": "",
+        "title": "Da Viva pianta leggiadretti fiori prendea",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 38,
+        "part": 1,
+        "poet": "",
+        "title": "O bellissima Filli, alma di questo core",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 40,
+        "part": 1,
+        "poet": "",
+        "title": "L'abbandonata Armilla dal suo gentil pastore un doloroso",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 42,
+        "part": 1,
+        "poet": "",
+        "title": "L aura, mentre che spira, se si frange fra mirti",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 44,
+        "part": 1,
+        "poet": "",
+        "title": "Armilla, io vo morire. Deh non morir, cor mio. Dialogo",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 47,
+        "part": 1,
+        "poet": "",
+        "title": "Sciogli, ardito nocchier, vela d'argento. Basso alla bastarda",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 49,
+        "part": 2,
+        "poet": "",
+        "title": "Ecco d'onda spumosa ogni gran monte",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 51,
+        "part": 1,
+        "poet": "",
+        "title": "Se nel mirar costei, aspe sorda la trovo a desir miei",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 52,
+        "part": 1,
+        "poet": "",
+        "title": "O di cieco signor cieca seguace, lusinghiera mendace",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 53,
+        "part": 1,
+        "poet": "",
+        "title": "Vagheggiando le bell'onde su le sponde d'Ippocren",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 54,
+        "part": 1,
+        "poet": "",
+        "title": "O voi, ch'il canto udite d un cer innamorato",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 55,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco Filena bella, ch'a noi rimena la stagion novella",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 56,
+        "part": 1,
+        "poet": "",
+        "title": "Bocca vezzosa, bocca amorosa, o ricalco d amore",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 57,
+        "part": 1,
+        "poet": "",
+        "title": "Bella Nice, s'huom felice far desij",
+        "voices": 1
+      }
+    ],
+    "year": "1610"
+  },
+  {
+    "composers": [
+      [
+        "Bartolomeo Barbarino"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "245"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "",
+          "siglum": "GB-Och"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 55,
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Il Quarto Libro de Madrigali de diversi auttori posti in musicada Bartolomeo da Fabriano, detto il Pesarino. Per cantare sopra il Chitarrone ò Tiorba, Clavicembalo, ò altri stromenti da una voce sola, con un Dialogo fra Tirsi, et Aminta. Nuovamente composto, et dato in luce. Dedicati al serenissimo Federigo Ubaldo prencipe d'Urbino. Con privileggio. In Venetia appresso Ricciardo Amadino 1614.",
+    "voices": [
+      1
+    ],
+    "works": [
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Se'l fior che mi donaste, segno folle d'amore",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Come cantar poss'io, crudel, se piange il core",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Io amo, io ardo, io moro e tu non curi, donna",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Labbra vermiglie e belle, calamita de cori",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Un aureo e biondo crine, un caro sguardo honesto",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Dalle braccia custodi del nutritivo stelo",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Ah Clorinda, Clorinda, anima mia, dunque",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 16,
+        "part": 2,
+        "poet": "",
+        "title": "Ma che? Sei cosi immobile",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Chiuse nella prigion della tua bocca",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi belli, occhi cari, di natura e d'amor pompa",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Cinta di pungent'armi star si vede la rosa",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "La tenerella pianta, nata in giardin fecondo",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Notte felice e bella, ove mia viva Stella",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Perchè mentre ti bacio io chiudo glocchi",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Alzo le voci e dico s'io rimiro il tuo volto",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "Ahi dunque quella man hora mi dona, quella candida",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 33,
+        "part": 1,
+        "poet": "",
+        "title": "A che donarmi giaccio, perfida ninfa",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 35,
+        "part": 1,
+        "poet": "",
+        "title": "Col cor tutto di foco, benchè col viso pallido",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 37,
+        "part": 1,
+        "poet": "",
+        "title": "Perchè ten fuggi, o Nisida, o se pur mi rimiri",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 39,
+        "part": 1,
+        "poet": "",
+        "title": "Nell'amoroso ciel del vostro volto, donna",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 41,
+        "part": 1,
+        "poet": "",
+        "title": "Anima mia, son io che parto o voi? Se voi da me partite",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 43,
+        "part": 1,
+        "poet": "",
+        "title": "Guerra, guerra, pur dice meco voler quella crudel",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 44,
+        "part": 1,
+        "poet": "",
+        "title": "Chi mutato ha il voler, muti anco il nome",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 46,
+        "part": 1,
+        "poet": "",
+        "title": "Venite, aure soavi, e fate intorno mentre vosco. Aminta",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 47,
+        "part": 1,
+        "poet": "",
+        "title": "Tempra, vago pastore, lo spietato rigore. Tirsi",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 43,
+        "part": 1,
+        "poet": "",
+        "title": "Se l'acque mormoranti, se l'aure risonanti. Aminta",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 50,
+        "part": 1,
+        "poet": "",
+        "title": "Tu col pianto cadente turb'il corso canoro. Tirsi",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 51,
+        "part": 1,
+        "poet": "",
+        "title": "Dunque formar debb'io voci e parole. Aminta",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 52,
+        "part": 1,
+        "poet": "",
+        "title": "Sì perchè si compiace la natura ch'altrui. Tirsi",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 53,
+        "part": 1,
+        "poet": "",
+        "title": "Hor cantiam dunqu'e sia un musico alternar. Tirsi",
+        "voices": 1
+      },
+      {
+        "composer": "Bartolomeo Barbarino",
+        "page": 54,
+        "part": 1,
+        "poet": "",
+        "title": "E sia'l cantante pianto innamorato canto. A 2. Amintta e Tirsi",
+        "voices": 1
+      }
+    ],
+    "year": "1614"
+  },
+  {
+    "composers": [
+      [
+        "Rodiano Barera"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Gio. Battista Stanga Conte di Castelnuovo",
+      "dedicator": "",
+      "location": {
+        "modern": "Cremona",
+        "original": "Cremona"
+      },
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "246"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "D-Kl"
+        },
+        {
+          "parts": "compl.",
+          "siglum": "GB-Lwa"
+        },
+        {
+          "parts": "7.5.",
+          "siglum": "US-NH"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Angelo Gardano",
+          "original": "Angelo Gardano"
+        }
+      ]
+    },
+    "title": "Il Primo Libro de Madrigali a cinque voci di Rodiano Barera. Novamente composti et dati in luce. In Venetia appresso Angelo Gardano. 1596.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Rodiano Barera",
+        "page": 1,
+        "part": 1,
+        "poet": "Celiano",
+        "title": "Cara stagion novella, deh come sei sì vaga",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, che sai qual sia la gioia e'l gran diletto",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Madonna l'altro giorn'un don mi fece",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Baci amorosi e cari, deh non mi Siate avari",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Se restauri piagando, hor che farai sanando?",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Come viver potrò, lasso. s'io miro ch'altrt",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 8,
+        "part": 2,
+        "poet": "",
+        "title": "Ma se pur voi ch'io viva",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Pasco gl'occhi e l'orecchie mentre m.ir'et ascolto di voi",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Mia vita, io non so dire ove s'annidi amore",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Vivrò io mai per altro amor contenta che per quel",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Se ben di gigli e rose ha Clori il volto pleno",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Nemica mia d'amore, se ben ferit'ho'l core",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Io son, son pur in braccio alla mia bella donna",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, per acquetar vostro desire non m'e grave il morire",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Questo, legato in oro, bellissimo diamante, dono di donn'amata",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "D'amoroso desio ripieno il petto e di cocent'ardor",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Fingo di non amare, ma finger non può'l core",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "A te vaga, gentil, leggiadra Clori",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Unica mia speranza, il tuo gentil parlar",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Canta Laura et io la grave",
+        "voices": 5
+      },
+      {
+        "composer": "Rodiano Barera",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Cicco e crudel amore, mia fiera stella in vago e dubio. Dialogo",
+        "voices": 7
+      }
+    ],
+    "year": "1596"
+  },
+  {
+    "composers": [
+      [
+        "Antonio Barges"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Monsignore Girolamo Fenarolo",
+      "dedicator": "",
+      "location": "",
+      "text": "l'Eccellentissimo  Adriano il quale non solamente m'è stato diligente maestro, ma ottimo padre... Mandovi ancora alcune poche ma soavi compositioni del Magnifico Cavallero il S. Andrea Patricio da Cherso... \"."
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "247"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "D-W"
+        },
+        {
+          "parts": "1550-18.",
+          "siglum": "RISM"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 21,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Antonio Gardano",
+          "original": "Antonio Gardane"
+        }
+      ]
+    },
+    "title": "Di Antonio Barges, maestro di cappella, alla Casa Grande di Venetia il Primo Libro de Villette a quatro voci con un'altra Canzon della Galina novamente da lui composte et date in luce, sito per Antonio Gardane con ogni diligentia stampate. A quatro voci. In Venetia apresso di Antonio Gardane. 1550.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Antonio Barges",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Madonna mia, pietà chieggio et aita, ch'io moro e stento",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Io grido sempre ahimè, ma non son inteso e di chiamar",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Non t'ho possuto mai, donna, mostrare l'acccsa",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Sempre me fingo de la scorrociata",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Madonn'io t'haggi'amat'et amo assai",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Madonna mia, io son un poverello",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Quanto debb'allegrarse la natura quando le fece, donna, così bella",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "L'amore sì m'ha fatto traimento. Villota alla padoana",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "L'amor sì m'ha fico d'un vereton. Villota alla padoana",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "La mi galina quand'ha fatto l'ovo. La Canzon della Gallina",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Voglia mi vene mo di monico mi fare",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Quando ti vegg'alla finestra",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Passan, madonna, com'al vento gl'anni, volan i mesi",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Hormai son quasi morto et tu nol credi",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "La manza mia si chiama saporita",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Facciat'alla fenestra, amor mio fino",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barges",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Tanto fui tard'a macinar lo grano",
+        "voices": 4
+      },
+      {
+        "composer": "Andrea Patricio",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Son quest'i bei crin d'oro onde m'avinse amor",
+        "voices": 4
+      },
+      {
+        "composer": "Andrea Patricio",
+        "page": 19,
+        "part": 1,
+        "poet": "Sannazzaro",
+        "title": "In quel ben nat'aventuroso giorno",
+        "voices": 4
+      },
+      {
+        "composer": "Andrea Patricio",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Madonna, quel soav'honesto",
+        "voices": 4
+      },
+      {
+        "composer": "Andrea Patricio",
+        "page": 21,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Solea lontan in sonno consolarme",
+        "voices": 4
+      }
+    ],
+    "year": "1550"
+  },
+  {
+    "composers": [
+      [
+        "Ottavio Bargnani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Agostino Ceruti",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Canzonette",
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "248"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "C.A.",
+          "siglum": "A-Wn"
+        },
+        {
+          "parts": "1599-12.",
+          "siglum": "RISM"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 22,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Canzonette, Arie, et Madrigali a tre, eta quattro voci. Di Ottavio Bargnani da Brescia. Novamente composte, et date ln luce. In Venetia apresso Ricciardo Amadino 1599.",
+    "voices": [
+      3,
+      4
+    ],
+    "works": [
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Debbo dunque morir sì sconsolato",
+        "voices": 3
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Deggio dunque partir da un sì bel sguardo",
+        "voices": 3
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 3,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Ah dolente partita, ah fin de la mia vita",
+        "voices": 3
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Quelli occhi ladri e quella bocca bella di Barbara",
+        "voices": 3
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "S'io miro il tuo bel viso, amore, è un paradiso",
+        "voices": 3
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Fuggite, amanti, amore, se libero volete liavere",
+        "voices": 3
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Ardenti miei sospiri e dolorosi, andate presto",
+        "voices": 3
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, vostr'occhi gai geriscon sempre mai",
+        "voices": 3
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "S'io parte i' moro e pur partir conviene",
+        "voices": 4
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Dolcissima mia vita, da te faccio partita",
+        "voices": 4
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Porto celato il mio nobil pensiero denlr'a quest'alma",
+        "voices": 4
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Leggiadre ninfe, che la notte e'l giorno gite cantando",
+        "voices": 4
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "S'io fuggo ogn'hor da te è perchè. Risposta a Non ti fuggir da me",
+        "voices": 4
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Donna gentil, voi sete il mio bel sole",
+        "voices": 4
+      },
+      {
+        "composer": "Luca Marenzio",
+        "page": 15,
+        "part": 1,
+        "poet": "Celiano",
+        "title": "Provate la mia fiamma, fiamma de la mia fiamma",
+        "voices": 4
+      },
+      {
+        "composer": "Luca Marenzio",
+        "page": 16,
+        "part": 1,
+        "poet": "Celiano",
+        "title": "La mia Clori è brunetta, ma così mi diletta",
+        "voices": 4
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Vivan, vivan i cantor, ancor tutti i sonator",
+        "voices": 4
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi miei lassi, e languido mio core",
+        "voices": 4
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Se voi sete il mio sol, se per voi moro",
+        "voices": 4
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 19,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "O crudele Amarilli, dunque non ti bastava",
+        "voices": 4
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Crudelissima ninfa, stringer tu mi comandi",
+        "voices": 4
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 21,
+        "part": 2,
+        "poet": "",
+        "title": "Ma che bisogna far cotanta fede",
+        "voices": 4
+      },
+      {
+        "composer": "Gio. Girolamo Conte di Lodrone",
+        "page": 22,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Occhi, stelle mortali, ministre de miei mali",
+        "voices": 4
+      }
+    ],
+    "year": "1599"
+  },
+  {
+    "composers": [
+      [
+        "Ottavio Bargnani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "249"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "C.T.B.5.",
+          "siglum": "I-VEcap"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": "",
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Angelo Gardano",
+          "original": "Angelo Gardano"
+        }
+      ]
+    },
+    "title": "Il Primo Libro de Madrigali a cinque voci di Ottavio Bargnani nobile cittadino bresciano all'illustrissimo, et reverendissimo monsignor Marin Giorgio, vescovo di Brescia, duca, marchese, conte, etc. In Venetia, appresso Angelo Gardano. 1601.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 2,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Amor i' parto e sento nel partire, al penar, al morire",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Voi pur da me partite, anima dura, nè vi duole",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Quel sospir, che dal core gionse, non so se fu sospir",
+        "voices": 5
+      },
+      {
+        "composer": "Ludovico Cornale",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Ascolti, legga, o canti ogni spirto gentile",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 5,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "O misera Dorinda, ov'hai tu poste le tue speranze?",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 6,
+        "part": 2,
+        "poet": "Guarini",
+        "title": "Te, sotto humana forma di bellissima madre",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi, un tempo mia vita, occhi di questo cor",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Tu sei pur aspro a chi t'adora, Silvio",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Niega l'anima mia d'esser l'anima mia, perch'io non viva",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Scherzando andava amor a volo intorno, quando due ninfe",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 11,
+        "part": 2,
+        "poet": "",
+        "title": "L'una ch'havea le mani e gli occhi",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 12,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Ben è soave cosa quel bacio che si prende",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 13,
+        "part": 2,
+        "poet": "Guarini",
+        "title": "Ma i colpi di due labra innamorate",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 14,
+        "part": 3,
+        "poet": "Guarini",
+        "title": "Baci pur bocca curiosa e scaltra",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 15,
+        "part": 4,
+        "poet": "Guarini",
+        "title": "Si che parlan tra lor quegli animati",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Non t'adirar se bruna il viso sei, leggiadrissima Clori",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 17,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Quella che là su miri innanzi a l'alba",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Se'l giovinetto core amor ti pugne, amor anco tel ugne",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Care labra d'amore, ch'hora ridenti e liete per parlar",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "La mia bella Nerina spento torchio accendea",
+        "voices": 5
+      },
+      {
+        "composer": "Ottavio Bargnani",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Clori mia bella, il filo esser vorrei che tal'hor",
+        "voices": 5
+      }
+    ],
+    "year": "1601"
+  },
+  {
+    "composers": [
+      [
+        "Antonio Barrè"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Honofrio Vigili",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "250"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "C.T.B.",
+          "siglum": "I-Vnm (Canal)"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 35,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Rome",
+      "printers": [
+        {
+          "modern": "Antonio Barré",
+          "original": "Antonio Barre"
+        }
+      ]
+    },
+    "title": "Madrigali a quattro voci di Antonio Barre. Libro Primo. In Roma per Valerio et Alvisi Dorici fratelli. 1552.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Antonio Barrè",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Hor lecito mi sia con tai concenti ornart'almen",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "O bel campo felice, pien d'amoros'e leggiadretti fiori",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "A qual più dolc'oggetto volger la vostra luc'occhi",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Donna vag'e gentile, è tant'il sopr'human vostro",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Vorrei mostrar, madonna, a chi non vede",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Deh scem'il foc'amore, chè quest'è troppo foc'ad un sol",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Io non saprei mai dire quanto sento dolore",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "S'alcun di grav'ardore si sent'afflitt'il core",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Qual sia l'amor vi porto, unic'e sola vita mia",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 14,
+        "part": 1,
+        "poet": "Bembo",
+        "title": "O rosignuol, ch'in queste verdi fronde, sovr'al fugace rio",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 15,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Quando per mia ventura volgo questi occhi miei",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "L'anim'afflitt'e stanca, vinta dal grav'ardore",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "La bella Flora il ricco lembo spiega",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 18,
+        "part": 1,
+        "poet": "Bembo",
+        "title": "Da quei bei crin, che tanto più sempr'amo",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Unica stella mia, unico sole, aspetta, non gridar",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Se'l nodo con che m'hai legat'amore, scioglier potesse",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Anchor ch'io possa dire che d'haver vit'il cor",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "S'altra fiamma giamai m'arse, madonn'il core",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Sospiri miei, Cha piu rabbiosi venti voland'in su",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Che maraviglia, donna, se'l ciel vuole ch'io sia",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Ben ch'il dur'e aspro ghiaccio, ove s'annid'il serpe",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, che debb'io far se quel bel viso qual mi donasti",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Deh Clori mia gentil, content'homai che de le mie fatiche",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": -1,
+        "part": 1,
+        "poet": "seconda stanza",
+        "title": "Prendi l'occasion di ch'hora'l fato",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": -1,
+        "part": 1,
+        "poet": "terza stanza",
+        "title": "Questa vaga beltà, di ch'hor sì altiera",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": -1,
+        "part": 1,
+        "poet": "quarta stanza",
+        "title": "Porgimi quella man, ch'avanz'il latte",
+        "voices": 3
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": -1,
+        "part": 1,
+        "poet": "quinta stanza",
+        "title": "Que bei coralli, anzi que bei rubini",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barrè",
+        "page": -1,
+        "part": 1,
+        "poet": "sesta stanza",
+        "title": "Mordimi questa lingu'et fà vendetta",
+        "voices": 5
+      }
+    ],
+    "year": "1552"
+  },
+  {
+    "composers": [
+      [
+        "Antonio Barré"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Felice Ursina",
+      "dedicator": "",
+      "location": "",
+      "text": "...ho raccolti alcuni Madrigaletti di diversi Autori a quattro voci, ariosi, e piacevoli... frà i quali m'ho messi alcuni de miei... \"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "251"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "E-V"
+        },
+        {
+          "parts": "B. manc. di pag. 31-32.",
+          "siglum": "H-SY"
+        },
+        {
+          "parts": "1555-27 (non compl.).",
+          "siglum": "RISM"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 32,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "NO_PRINTER_KNOWN",
+      "printers": [
+        {
+          "modern": "NO_PRINTER_KNOWN",
+          "original": "NO_PRINTER_KNOWN"
+        }
+      ]
+    },
+    "title": "Primo Libro delle Muse, a quattro voci Madrigali ariosi di Ant. Barre et altri diversi autori, nuovamente stampati. Con gratia et privilegio.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Ant. Barré",
+        "page": 4,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Dunque fia ver, dicea, che mi convegna cercar",
+        "voices": 4
+      },
+      {
+        "composer": "Ant. Barré",
+        "page": 5,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Sa quest'altier ch'io l'amo",
+        "voices": 4
+      },
+      {
+        "composer": "Ant. Barré",
+        "page": 6,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Deh ferm'amor, costui",
+        "voices": 4
+      },
+      {
+        "composer": "Ant. Barré",
+        "page": 7,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Ma di che debbo lamentarmi",
+        "voices": 4
+      },
+      {
+        "composer": "Ant. Barré",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Non è pena maggior, cortes'amanti",
+        "voices": 4
+      },
+      {
+        "composer": "Alex Venitiano",
+        "page": 9,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Sia vil a gli altri e da quel sol amata",
+        "voices": 4
+      },
+      {
+        "composer": "Vin. Rufio",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Chiudimi gli occhi, amore, acciò che così chiaro",
+        "voices": 4
+      },
+      {
+        "composer": "Ioandom. di Nola",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Tosto ch'il sol si scopre in oriente",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barré",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Poi che per amar porto tormento e de l'altrui D'incerto",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barré",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Deh perchè'l ciel non od'i miei lamenti D'incerto",
+        "voices": 4
+      },
+      {
+        "composer": "Lerma",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Mille sospir la notte",
+        "voices": 4
+      },
+      {
+        "composer": "Lupachino",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi leggiadri",
+        "voices": 4
+      },
+      {
+        "composer": "Lupachino",
+        "page": 14,
+        "part": 2,
+        "poet": "",
+        "title": "Amorose mammelle",
+        "voices": 4
+      },
+      {
+        "composer": "Lupachino",
+        "page": 15,
+        "part": 3,
+        "poet": "",
+        "title": "O dolce mia nemica",
+        "voices": 4
+      },
+      {
+        "composer": "Lerma",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Miser, in van mi doglio e mi lamento, in van chieggio",
+        "voices": 4
+      },
+      {
+        "composer": "Antonio Barré",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Ben si vedrà se la nemica mia D'incerto",
+        "voices": 4
+      },
+      {
+        "composer": "Vin. Ferro",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Quanto più miro fiso in quel divino aspetto",
+        "voices": 4
+      },
+      {
+        "composer": "Lupachino",
+        "page": 18,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Il dolce sonno mi promise pace. ma l'amaro",
+        "voices": 4
+      },
+      {
+        "composer": "Lamberto",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Ohimè dov'è'l mio sole, che le tenebre mie facca",
+        "voices": 4
+      },
+      {
+        "composer": "Il Caldarino",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Così soav'è'l foco et dolce il nodo",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Fiesco",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Se voi sete il mio cor, la vita e l'alma, hor che",
+        "voices": 4
+      },
+      {
+        "composer": "Paulo Animuccia",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "S'all'hor che più sperai da voi conforto",
+        "voices": 4
+      },
+      {
+        "composer": "Ghiselino Dancherts",
+        "page": 22,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Fedel qual sempre fui, tal esser voglio",
+        "voices": 4
+      },
+      {
+        "composer": "Ghiselino Dancherts",
+        "page": 22,
+        "part": 2,
+        "poet": "Ariosto",
+        "title": "Scarpello si vedrà di piomb'o lima",
+        "voices": 4
+      },
+      {
+        "composer": "Vin. Ferro",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Deh come bella sete, gentil madonna",
+        "voices": 4
+      },
+      {
+        "composer": "Ant. Barré",
+        "page": 24,
+        "part": 1,
+        "poet": "Bellano",
+        "title": "Sorgi, superbo Tebro",
+        "voices": 5
+      },
+      {
+        "composer": "Ant. Barré",
+        "page": 26,
+        "part": 1,
+        "poet": "Bellano",
+        "title": "Manda le nymfe tue",
+        "voices": 5
+      },
+      {
+        "composer": "Ant. Barré",
+        "page": 27,
+        "part": 1,
+        "poet": "Bellano",
+        "title": "Eccoti pur che la felice rosa",
+        "voices": 5
+      },
+      {
+        "composer": "Ant. Barré",
+        "page": 28,
+        "part": 1,
+        "poet": "Bellano",
+        "title": "Et simil ai parenti",
+        "voices": 5
+      },
+      {
+        "composer": "Ant. Barré",
+        "page": 29,
+        "part": 1,
+        "poet": "Bellano",
+        "title": "Felice poi ch'in così degno stelo",
+        "voices": 5
+      },
+      {
+        "composer": "Ant. Barré",
+        "page": 30,
+        "part": 1,
+        "poet": "Bellano",
+        "title": "Spirto gentil. Al Card. Guido Ascanio Santa Fiore",
+        "voices": 4
+      },
+      {
+        "composer": "Ant. Barré",
+        "page": 31,
+        "part": 2,
+        "poet": "Bellano",
+        "title": "Poi che per te",
+        "voices": 4
+      }
+    ],
+    "year": "1555"
+  },
+  {
+    "composers": [
+      [
+        "Girolamo Barthei"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "P. Maestro Giacomo Gramignuoli da Cortona",
+      "dedicator": "",
+      "location": "",
+      "text": "...questi miei primi parti... Arezzo, 15 IV 1592\"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "252"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl. (prov. Heyer; C.A.5. manc. di pag. 7-14; T. manc. di pag. 7-16; B. di sole pag. l-6).",
+          "siglum": "I-Vnm"
+        },
+        {
+          "parts": "B. framm. (sole pag. 15-16 e Tavola, con l'indicazione a piè di pag.: \"Mad. di Girolamo Bert a 5 \").",
+          "siglum": "I-PS"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 20,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Di Girolamo Barthei aretino il Primo Libro de Madrigali a cinque voci novamente composti, et dati in luce. In Venetia, appresso Ricciardo Amadino. 1592.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Girolamo Barthei",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Saggio pastor, guidate queste mie basse note",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, deh dimmi come io vivo senza il cor",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Quando nel viso di pietà dipinta, a me si volge",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "De sì soave foco per voi, donna, mi sento arder",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Cari fiori e viole, ch'allegramente godete",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 6,
+        "part": 1,
+        "poet": "Domenico Veniero",
+        "title": "Ahi chi mi rompe il sonno, ahi chi mi priva",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 7,
+        "part": 2,
+        "poet": "Domenico Veniero",
+        "title": "Di ch'ella mossa",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Non mi duol di morire, donna, per voi",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 9,
+        "part": 1,
+        "poet": "seconda parle",
+        "title": "Ma voi, se pur di me",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Come possibil sia ch'un tanto bene",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Per farmi amor un giorno",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Nel tuo ritorno, o diva",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 13,
+        "part": 1,
+        "poet": "Sannazzaro",
+        "title": "Per pianto la mia carne si distilla",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Ohimè chi mi consola",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Nel bianco, aperto seno, accostando la bocca",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Come esser può che non sei stanco, amore",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Sarà pur vero, amore, che'l desiato ben",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 18,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Alfin le braccia stende e'l suo tesoro stringe",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Voi con atti leggiadri e dolci parolelte",
+        "voices": 5
+      },
+      {
+        "composer": "Girolamo Barthei",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Vorrei saper, o donna, chi m'occide, se pur voi non volete",
+        "voices": 5
+      }
+    ],
+    "year": "1692"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bartoli"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Lor. Bonsi",
+      "dedicator": "",
+      "location": {
+        "modern": "Florence",
+        "original": "Firenze"
+      },
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "253"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "C.B.5.",
+          "siglum": "I-Rc"
+        },
+        {
+          "parts": "A.T.",
+          "siglum": "I-Bc"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 23,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Florence",
+      "printers": [
+        {
+          "modern": "Zanobi Pignoni",
+          "original": "Zanobi Pignoni"
+        }
+      ]
+    },
+    "title": "Il Primo Libro de Madrigali a cinque voci di Giovan Batista Bartoli. In Firenze. Nella stamperia di Zanobi Pignoni. C. licen. de' Sup. 1617.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 3,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "O Primavera, gioventù dell'anno, bella madre",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 4,
+        "part": 2,
+        "poet": "Guarini",
+        "title": "Tu quella sei pura",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 5,
+        "part": 3,
+        "poet": "Guarini",
+        "title": "O dolcezze amarissime",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 0,
+        "part": 4,
+        "poet": "Guarini",
+        "title": "Come saria l'amar",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 7,
+        "part": 5,
+        "poet": "Guarini",
+        "title": "Ma se le mie speranze",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 8,
+        "part": 6,
+        "poet": "Guarini",
+        "title": "E s'altri non m'inganna",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 9,
+        "part": 7,
+        "poet": "Guarini",
+        "title": "O lungamente sospirato",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Come sia mai, come sia mai ch'io scampi",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 11,
+        "part": 1,
+        "poet": "Tasso",
+        "title": "Non di morte sei tu, ma di vivaci ceneri albergo ovè",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 12,
+        "part": 2,
+        "poet": "Tasso",
+        "title": "Deh prendi i miei sospiri",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 13,
+        "part": 1,
+        "poet": "Celiano",
+        "title": "Care lacrime mie, messi dolenti di mie pene rie",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 14,
+        "part": 1,
+        "poet": "Preti",
+        "title": "Ch'io non v'ami, cor mio, crudel, com'esser può?",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 15,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Chi vuol haver felice e lieto core non segua il crudo amore",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 16,
+        "part": 2,
+        "poet": "Guarini",
+        "title": "Al pregar non risponda",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco gli strali e l'arco, ma non ferir già tu gl'occhi",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 18,
+        "part": 1,
+        "poet": "Tasso",
+        "title": "Vattene pur, crudel, con quella pace che lasci a me",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 19,
+        "part": 2,
+        "poet": "Tasso",
+        "title": "Là tra'l sangue e le morti egro",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 20,
+        "part": 3,
+        "poet": "Tasso",
+        "title": "Hor qui mancò lo spirto",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 21,
+        "part": 4,
+        "poet": "Tasso",
+        "title": "Chiudesti i lumi, Armida",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni Battista Bartoli",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Movetevi a pietà del mio tormento",
+        "voices": 5
+      }
+    ],
+    "year": "1617"
+  },
+  {
+    "composers": [
+      [
+        "Orindio Bartolini"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Simone de Dechere",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "...Lei nel favorirmi in ritrovarsi giornalmente nella solita Academia di Musica... Venetia 20 XI 1606 \"."
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "254"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "A-Wn"
+        },
+        {
+          "parts": "compl.",
+          "siglum": "D-Kl"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": "",
+      "partbook_count": "",
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Alessandro Raverii",
+          "original": "Alessandro Raverij"
+        }
+      ]
+    },
+    "title": "Canzonette et Arie alla romana, a tre voci per cantar come hoggidì si costuma. Di Orindio Bartolini da Siena Libro Primo. Novamente posto in luce. In Venetia, appresso Alessandro Raverij. 1606.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Orindio Bartolini",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Due vaghe e chiare stelle, con sue dolci fiammelle",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Deh perch'ingrata Cintia non tardasti un'hora",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "O vago cagnolino, non ti lagnar d'esser prigion",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Infelice pastore, nat'al piant'e al dolore",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Ancora pungi, amore, quest'infelice core",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "L'hedera stringe forte la piant'e le dà morte",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Tolse la rosa e si baciò la mano colei ch'insiem'alhor",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Strane leggi d'honor al mondo sono",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "La terra de fioretti alhor s'adorna che primavera torna",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Nova saetta mi trapassa il core con sì dolce ferita",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Chi mi sente cantar per certo dice: non è di questo al mondo più felice",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 12,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Voi volete ch'io mora, nè mi togliete ancora",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Gli ardenti miei desiri, che tragon dal mio cor. Spirituale",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "O giustissim'amor e tu pur vedi se la mia pura fede",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Ho vist'al pianto mio fermarsi l'onde e sospirar le fronde",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Servir senza mercede, amar chi non sel crede",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "O mio cor, o mia vita, o mia Filli gradita",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Esca e cibo fia sol lacrime e pianti",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Chiara e lucente stella, ch'il sol pareggi tanto",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Ahi quanto più ti miro, più mi struggo e sospiro",
+        "voices": 3
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Non più vita, o più core, ma tormenti e dolore",
+        "voices": 3
+      }
+    ],
+    "year": "1606"
+  },
+  {
+    "composers": [
+      [
+        "Orindio Bartolini"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Gio. Andrea Funch",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "...come s'è compiaciuta di elegermi, et honorarmi per Maestro in cosi fatta professione... Venetia, 15 XI 1606 \"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "255"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "GB-Och"
+        },
+        {
+          "parts": "A.B.5.",
+          "siglum": "A-Wn"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 22,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Alessandro Raverii",
+          "original": "Alessandro Raverij"
+        }
+      ]
+    },
+    "title": "(Di Orindio Bartolini da Siena il Primo Libro de Madrigali a cinque voci novamente composto, et dato in luce. In Venetia, appresso Alessandro Raverij.) 1606.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Orindio Bartolini",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "A l'amoroso fonte di duo labra vermiglie, avido cor",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "O da che bella man mori ferito, felicissimo core",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Musa, quand'il tuo canto",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Non si fosc'è l'horror se'l sul si parte nelle Cimerie grotte",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Baciami, vita mia, nè ti sia grave darmi fra rosa e rosa",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Io ardo e non lo credi, o donna, che nega quel che vede",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 7,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Felice chi vi mira, ma più felice chi per voi sospira",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Voi languite, cor mio, et io al vostro languire",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 9,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Parlo, misero, o taccio? S'io taccio che soccors'havrà'l",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 10,
+        "part": 2,
+        "poet": "Guarini",
+        "title": "Taci che ben s'intende chiusa fiamma",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Se m'amasti, t'amai, mio scoglio. Arsi s'ardesti",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Tu non amasti, amai ben io. Nè meno ardesti, infida, o ti dolesti",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Questo leggiadro nome a te ben si conviene, dolce sostegno mio",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 14,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "O Mirtillo, Mirtillo, anima mia, se vedesti qui dentro come",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Misero me, son morto perché mentre ti bacio m'è la tua lingua stral",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Ahi che morir mi sento, sì grav'è'l mio tormento",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Luci candide e belle, amorosette stelle, in lingua vi cangiaste",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Non temo, arciera illustre, la saetta che scocchi. Temo il dardo",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Bella donna, tu serbi ne la bocca amorosa il mel, l'ape e la rosa",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, se cruda sete, perchè non l'uccidete e se sete pietosa",
+        "voices": 5
+      },
+      {
+        "composer": "Orindio Bartolini",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Vivo raggio d'amore, che da begl'occh'uscendo, tratto dal petto",
+        "voices": 5
+      }
+    ],
+    "year": "1606"
+  },
+  {
+    "composers": [
+      [
+        "Costantino Baselli"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Lorenzo Beccaria",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "256"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "C.",
+          "siglum": "I-Vgc"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 22,
+      "partbook_count": 3,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Il Primo Libro delle Canzonette a tre voci, di Costantino Baselli con alcune altre de diversi eccellenti musici. Novamente composte, et date in luce. In Venetia, appresso Ricciardo Amadino. 1600.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Costantino Baselli",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Cantate, ninfe, e voi vaghi pastori, i miei novell'amori",
+        "voices": 3
+      },
+      {
+        "composer": "Leone Leoni",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Hor che veggio, mia Clori, scoprirò i miei dolori",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Grillo",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Come ten voli sì sicur'amore, ferend'a mill'amanti",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 4,
+        "part": 1,
+        "poet": "D'incerto",
+        "title": "O mio soave foco, o grat'e dolce loco",
+        "voices": 3
+      },
+      {
+        "composer": "Dionisio Polato",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Poi che per te mi moro, car'e dolce, vezzosa pastorella",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Cantiam, ninf'e pastori. d'Amarilli e di Tirsi i casti amori",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Allegrezz'io sento nel mio core dove scherzan le gratie",
+        "voices": 3
+      },
+      {
+        "composer": "Leone Leoni",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "O come pazze sete a creder, donne, che chi vi mira",
+        "voices": 3
+      },
+      {
+        "composer": "Dionisio Polato",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Poi che, crudel, ingrata, la fedel servitù",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Io ardo sì, ma'l foco è di tal sorte che moro e nasco",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Mi parto, ahi trista sorte, e sento nel partire",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 12,
+        "part": 1,
+        "poet": "D'incerto",
+        "title": "O miei caldi sospiri, fatti sol per temprar gravi martiri",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Mille volte giurai s'uscir potea dalle tue mani, amore",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Da voi partir vogl'io e vi lascio il cor mio e porterò",
+        "voices": 3
+      },
+      {
+        "composer": "G.B. Grillo",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Gionto che m'hebb'amor dal mio bel sole",
+        "voices": 3
+      },
+      {
+        "composer": "Dionisio Polato",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Poi che di voi, ben mio, son fatto privo, son più morto",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Vorrei scoprire il premio, ch'ho del mio fedel servire",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Fuggit'amant'amor, come la morte, ch'altro non è questo crudel amore",
+        "voices": 3
+      },
+      {
+        "composer": "G. B. Grillo",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Vanne, rosa gradita, nel sen de la mia vila, Madrigale",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 20,
+        "part": 2,
+        "poet": "",
+        "title": "Quella rosa gradita. Risposta d'incerto",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "O dolc'e caro Aminta, levati homai dal tuo fronzulo letto. Dialogo d'Aminta e Tibrina",
+        "voices": 3
+      }
+    ],
+    "year": "1600"
+  },
+  {
+    "composers": [
+      [
+        "Costantino Baselli"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": "Dal lieto aspetto de' Vicentini colli (ch'hora godono una ridente primavera) allettati molti ingeniosi Musici; questi con sonore voci imitando l'aure dolci, et amorose del cielo, si diedero meco insieme a comporne queste Canzonette, quali piene di spiritelli d'Amore, pare à me corrispondino à la stagione: Indi è che risolto di porle in luce... Vicenza, 10 VI 1600 \"."
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "257"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "compl.",
+          "siglum": "A-Wn"
+        },
+        {
+          "parts": "1600-12.",
+          "siglum": "RISM"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Il Secondo Libro delle Canzonette a tre voci. Di Costantino Baselli con alcune de diversi eccellenti musici. Novamente composte, et date in luce. In Venetia, appresso Ricciardo Amadino, 1600.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "C. Baselli",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, gloria d'amore, idolo del mio core, merrò",
+        "voices": 3
+      },
+      {
+        "composer": "Leone Leoni",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Dolce nemica mia, io ti disfido ai baci",
+        "voices": 3
+      },
+      {
+        "composer": "C. Baselli",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Vidi tra spine la vermiglia rosa ridente",
+        "voices": 3
+      },
+      {
+        "composer": "C. Baselli",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Questi fiori spiranti arabo odore ti dono",
+        "voices": 3
+      },
+      {
+        "composer": "D. Marsilio Santini",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Queste son quelle rose e quei bei fiori. Risposta",
+        "voices": 3
+      },
+      {
+        "composer": "G. B, Grillo",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Gode l'aquila il lume degl'apolinei rai",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 7,
+        "part": 1,
+        "poet": "D'incerto",
+        "title": "Foco, che spesso cedi a quel gran foco che m'arde",
+        "voices": 3
+      },
+      {
+        "composer": "Dionisio Polato",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Il partir sì mi preme, dolcissima mia speme",
+        "voices": 3
+      },
+      {
+        "composer": "L L. (Leone Leoni",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Io mi sento morire e mi convien partire )",
+        "voices": 3
+      },
+      {
+        "composer": "C. Baselli",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Di questo vago e diletoso prato questi novelli",
+        "voices": 3
+      },
+      {
+        "composer": "Marsilio Santini",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Quest'è'l fonte del riso a cui corse Narciso",
+        "voices": 3
+      },
+      {
+        "composer": "C. Baselli",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, la donna mia fà men bella, o più pia",
+        "voices": 3
+      },
+      {
+        "composer": "C. Baselli",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Le tue dorate chiome, Filli, dimostran come tesse",
+        "voices": 3
+      },
+      {
+        "composer": "C. Baselli",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, vorrei saper se voi m'amate",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 15,
+        "part": 1,
+        "poet": "D'incerto",
+        "title": "La bella e vaga aurora, che l'oriente honora",
+        "voices": 3
+      },
+      {
+        "composer": "Dionisio Polato",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, se per morire di mia diva nel sen",
+        "voices": 3
+      },
+      {
+        "composer": "C. Baselli",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Clorinda, ard'il mio core nelle fiamme d'amore",
+        "voices": 3
+      },
+      {
+        "composer": "G. B. Grillo",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Cari e soavi baci, d'amor segni e veraci",
+        "voices": 3
+      },
+      {
+        "composer": "G. B. Grillo",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Crudi baci d'amore, che m'involasti il core. Risposta",
+        "voices": 3
+      },
+      {
+        "composer": "G. B. Grillo",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Come fa della ritrosa, della crud'e disdegnosa",
+        "voices": 3
+      },
+      {
+        "composer": "G. B. Grillo",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Faggi, pini et abeti, selve, fonti e boschetti",
+        "voices": 3
+      }
+    ],
+    "year": "1600"
+  },
+  {
+    "composers": [
+      [
+        "Costantino Baselli"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Conte Gio",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "Battista Porto, Venetia, 9 IV 1640. Ritr. inciso di C. Baselli. Poesie in lode dell'autore di Ottavio Bonaldi, Antonio Adami, Giovanni Gritti e Giacomo Alchaini. Alli amatori della Virtù."
+    },
+    "genres": [
+      "Arias"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "258"
+    },
+    "library_locations": {
+      "libraries": [
+        {
+          "parts": "T. (e B.).",
+          "siglum": "GB-Lbm"
+        }
+      ]
+    },
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 27,
+      "partbook_count": 2,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Alessandro Vincenti",
+          "original": "Alessandro Vincenti"
+        }
+      ]
+    },
+    "title": "Grati, gratiosi, giocondi, gioiosi, et graditi Canti sopra il nascimento del Gran Motor dell'universo, et della regina del cielo Maria Vergine, madre sua santissima, con l'aggionta di due sonore Canzoni mentre ambi bambini erano in atto di dormire di D. Constantino Baselli Libro Primo a una, due tre, e quattro voci, con il Basso continuo per Clavicembalo, over altro stromento Opera Quinta non men vaga che bella, in Venetia, apresso Alessandro Vincenti. 1640.",
+    "voices": [
+      2,
+      3,
+      4
+    ],
+    "works": [
+      {
+        "composer": "Costantino Baselli",
+        "page": 2,
+        "part": 1,
+        "poet": "Talenti",
+        "title": "Ecco l'alba, che ridente l'oriente di sua pace. Canto",
+        "voices": 1
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Signoreggiav'il cielo la notte fortunata. Basso",
+        "voices": 1
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Poi che l'humil capanna raccolse il buon Giesù. Canto",
+        "voices": 1
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Dormi, bella bambinella. Alla Gloriosa Bambinella V.M. giacente in culla in atto di dormire",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "I tuoi sguardi sono dardi, onde Dio langue d'amore",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "E se tali sono i strali, che tu scocchi",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Scopriremo, scorgeremo da te vinto il Re sovrano",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Tutti i fiori grati odori spargon quivi",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Tempo fia, cara mia, che distratt'al gelo e al sole",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Hor che lece prend'in vece de gl'affani",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "La tua culla, o fanciulla, per te sembra'l Paradiso",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Ma se in quelle stanze belle in eterno si riposa",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Vaghe rose odorose son le guancie'l tuo bel seno",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Ogni bene a noi viene mentre dormi tu posando",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Piega, figlia, l'auree ciglia",
+        "voices": 3
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Felice notte",
+        "voices": 4
+      },
+      {
+        "composer": "Costantino Baselli",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Porge la virginella al pargoletto figlio",
+        "voices": 4
+      }
+    ],
+    "year": "1640"
   }
 ]
