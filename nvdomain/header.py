@@ -20,16 +20,13 @@ def normalize_name(composer):
 
 class Header(FieldEqualityMixin):
     def __init__(self, header):
-        try:
-            number, composer_and_year, title = re.match(r"(\d{1,4}(?: bis)?) -? ?(.*?\)) (.*)", header).groups()
-            year_string, year = self.extract_year(composer_and_year)
-        except:
-            print("ahhh header problem" + header)
-            exit()
+        number, composer_and_year, title = re.match(r"(\d{1,4}(?: bis)?) -? ?(.*?\)) (.*)", header).groups()
+        year_string, year = self.extract_year(composer_and_year)
 
         self.number = number
         self.title = self.clean_title(title)
         self.year = year
+        self.year_index = year_string
         self.composers = self.extract_composers(composer_and_year.replace(year_string, ""))
         self.printing_location = self.extract_location(title)
         self.printers = self.extract_printer(title)

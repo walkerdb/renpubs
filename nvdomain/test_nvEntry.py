@@ -9,14 +9,16 @@ from nvdomain.works import Works
 
 class TestNvEntry(TestCase):
     def test_should_parse_normal_entry(self):
-        text = "112 - LAST First (2017) - Work title\n" \
-               "\n" \
-               "4 fasc. in 8 obl. Ded a Darth Vader di Luke Skywalker.\n" \
-               "\n" \
-               "A 1. Threnody on Tatooine (Jar Jar Binks)\n" \
-               "A 5. Here's something else\n" \
-               "\n" \
-               "DS-ARg: compl."
+        text = """
+112 - LAST First (2017) - Work title
+
+4 fasc. in 8 obl. Ded a Darth Vader di Luke Skywalker.
+
+A 1. Threnody on Tatooine (Jar Jar Binks)
+A 5. Here's something else
+
+DS-ARg: compl.
+"""
 
         works = Works("A 1. Threnody on Tatooine (Jar Jar Binks)\n"
                       "A 5. Here's something else\n", "", "First Last")
