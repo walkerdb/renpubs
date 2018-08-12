@@ -364,12 +364,12 @@
       "location": "Lucca",
       "printers": [
         {
-          "modern": "Bernardino Pieri",
-          "original": "i Pieri,"
-        },
-        {
           "modern": "Giacinto Paci",
           "original": "e Paci,"
+        },
+        {
+          "modern": "Bernardino Pieri",
+          "original": "i Pieri,"
         }
       ]
     },
@@ -4944,7 +4944,7 @@
       "dedicator": "",
       "location": {
         "modern": "Milan",
-        "original": "Milan"
+        "original": "Milano"
       },
       "text": ""
     },
@@ -4975,7 +4975,7 @@
         }
       ]
     },
-    "title": "Musica di Lodovico Agostini ferrarese, sopra le rime bizzarre di M. Andrea Calmo, et altri autori. A 4 voci. In'Milano, appò Cesare Pozzo, 1567.",
+    "title": "Musica di Lodovico Agostini ferrarese, sopra le rime bizzarre di M. Andrea Calmo, et altri autori. A 4 voci. In Milano, appò Cesare Pozzo, 1567.",
     "voices": [
       4
     ],
@@ -18940,12 +18940,12 @@
       "location": "Rome",
       "printers": [
         {
-          "modern": "Valerio Dorico",
-          "original": "Valerio et Luygi"
-        },
-        {
           "modern": "Luigi Dorico",
           "original": "Luygi Dorici"
+        },
+        {
+          "modern": "Valerio Dorico",
+          "original": "Valerio et Luygi"
         }
       ]
     },
@@ -21463,7 +21463,7 @@
       "dedicator": "Antonio Gardane",
       "location": {
         "modern": "Milan",
-        "original": "Milan"
+        "original": "Milano"
       },
       "text": "...questa seconda impressione, quanto con più bel ordine e più corretta vi viene inanzi, non Senza scorno di quegli stampatori, che ristampatigli in Milano, non si sono aveduti d'alcuni errori ch erano ne la prima stampa, più tosto per incuria de i miei compositori; che mia. Ma presto Spero farvi un duono del terzo libro del medemo Arcadelt... \"."
     },
@@ -21500,11 +21500,11 @@
       "printers": [
         {
           "modern": "Antonio Gardano",
-          "original": "d'Antonio Gardane"
+          "original": "Antonio Gardane"
         },
         {
           "modern": "Antonio Gardano",
-          "original": "Antonio Gardane"
+          "original": "d'Antonio Gardane"
         }
       ]
     },
@@ -23985,7 +23985,7 @@
       "dedicator": "Francesco Moschenio",
       "location": {
         "modern": "Milan",
-        "original": "Milan"
+        "original": "Milano"
       },
       "text": "...m'hà gratamente sforzato il desiderio ch'io tengo di ramaricarmi con tutti del torto fatto all'Autore, sì per le brutte stampe, et scorrette d'alcuni, sì per il furto de' più belli Madrigali tolti dell'opera... Milano, 15 II 1566\"."
     },
@@ -25017,12 +25017,12 @@
       "location": "Venice",
       "printers": [
         {
-          "modern": "Giorgio Angelieri",
-          "original": "Giorgio Angelieri"
-        },
-        {
           "modern": "Claudio Merulo",
           "original": "Claudio Merulo"
+        },
+        {
+          "modern": "Giorgio Angelieri",
+          "original": "Giorgio Angelieri"
         }
       ]
     },
@@ -27283,15 +27283,15 @@
       "printers": [
         {
           "modern": "Giovanni Battista Sottile",
-          "original": "Sottile"
-        },
-        {
-          "modern": "Giovanni Battista Sottile",
           "original": "Gio. Battista Sottile"
         },
         {
           "modern": "Scipione Bonino",
           "original": "Scipione Bonino"
+        },
+        {
+          "modern": "Giovanni Battista Sottile",
+          "original": "Sottile"
         }
       ]
     },
@@ -34369,7 +34369,7 @@
       "dedicator": "",
       "location": {
         "modern": "Milan",
-        "original": "Milan"
+        "original": "Milano"
       },
       "text": "...aggradite dalla casa, massimamente dalla Fel. Mem. del S.mo Duca Guglielmo suo Padre... Milano, 15 V 1600 \"."
     },

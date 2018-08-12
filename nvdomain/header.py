@@ -70,7 +70,7 @@ class Header(FieldEqualityMixin):
 
     @staticmethod
     def extract_printer(title):
-        printers = [OldToModernSpellingPair(name, printer.name) for name, printer in PRINTERS.items() if name in title]
+        printers = [OldToModernSpellingPair(name, printer.name) for name, printer in sorted(PRINTERS.items()) if name in title]
         if not printers:
             pass
             # print("no printers found: ", title)
