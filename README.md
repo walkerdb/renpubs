@@ -20,13 +20,9 @@ is limited to the publications described in the Nuovo Vogel series.
     "voices": [],
     "physical_description": {
         "number_of_books": 0,
-        "book_size": "Quarto",  # one of 'Quarto' or 'Octavo'
+        "book_size": "'Quarto' or 'Octavo'",
         "pages": 0,
         "is_oblong": true
-    },
-    "catalog_numbers": {
-        "nv": "",
-        "RISM": ""
     },
     "dedication": {
         "text": "",
