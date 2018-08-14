@@ -67,6 +67,7 @@ if __name__ == "__main__":
     with open("README.md", mode="r") as f:
         text = f.read()
         text = re.sub("Current publication count: \d+", "Current publication count: {}".format(len(output.publications)), text)
+        text = re.sub("Total works: \d+", "Total works: {}".format(sum([len(p.works) for p in output.publications])), text)
 
     with open("README.md", mode="w") as f:
         f.write(text)
