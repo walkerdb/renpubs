@@ -1,39 +1,4 @@
-from pprint import pprint
-
 import colander
-
-
-class LibraryHoldings(object):
-    def __init__(self):
-        self.code = ""
-        self.parts = []
-
-
-class Dedication(object):
-    def __init__(self):
-        self.year = ""
-        self.dedicator = ""
-        self.dedicatee = ""
-        self.location = ""
-        self.text = ""
-
-
-class Work(object):
-    def __init__(self):
-        self.title = ""
-        self.num_voices = ""
-        self.comment = ""
-        self.part = ""
-        self.composer = ""
-        self.poet = ""
-        self.page = ""
-
-
-class BookData(object):
-    def __init__(self):
-        self.num_books = ""
-        self.pages = ""
-        self.format = ""
 
 
 class Publication(object):
@@ -51,9 +16,9 @@ class Publication(object):
         self.physical_description = nv_entry.description.book_details
         self.dedication = nv_entry.description.dedication
         self.works = nv_entry.works.works
-        self.library_locations = nv_entry.library_locations
+        self.library_locations = nv_entry.library_locations.libraries
 
-        x = {
+        example_output = {
             "title": "",
             "year": "",
             "composers": [],
@@ -70,10 +35,6 @@ class Publication(object):
                 "pages": 0,
                 "is_oblong": bool
             },
-            "catalog_numbers": {
-                "nv": "",
-                "RISM": ""
-            },
             "dedication": {
                 "text": "",
                 "dedicator": "",
@@ -86,7 +47,9 @@ class Publication(object):
                 "voices": 0,
                 "poet": "",
                 "part": 0,
-            },],
-            "library_locations": [{"siglum": "", "parts": ""},]
-
+            }],
+            "library_locations": [{"siglum": "", "parts": ""}],
+            "identifiers": {
+                "nuovo_vogel": "1"
+            }
         }
