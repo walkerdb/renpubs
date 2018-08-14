@@ -1,6 +1,8 @@
 # Renaissance Vocal Music
 A repository containing structured data detailing the contents of printed vocal part-books from the Renaissance. 
 Scope for this project is limited to the publications described in the Nuovo Vogel series.
+
+Current publication count: 515
  
 ### Data structure
 `publications.json` contains an array of structured data for each publication. Each publication has the following structure: 
@@ -46,5 +48,3 @@ Scope for this project is limited to the publications described in the Nuovo Vog
     }
 }
 ```
-
-Current publication count: 515
