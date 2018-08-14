@@ -1,6 +1,4 @@
 import os
-from pprint import pprint
-
 import re
 import json
 
@@ -8,14 +6,16 @@ import jsonpickle
 
 from domain.formattedoutput import FormattedOutput
 from nvdomain.nventry import NvEntry
+from nvdomain.semi_structured.semi_structured_work import SemiStructuredWorkParser
 
 
-def main(start, end):
+def parse_works_from_page_transcripts(start, end):
     texts = extract_texts(end, start)
     publications = re.split(r"\n\n\n\n+", texts)
     entries = []
     for pub in publications:
         entries.append(NvEntry(pub, entries.copy()))
+
     # entries = [NvEntry(pub) for pub in publications]
 
     # questionable_entries = [entry for entry in entries if len(entry.library_locations.libraries) > 9]
@@ -26,6 +26,25 @@ def main(start, end):
 
     with open("publications.json", mode="w") as f:
         json.dump(json.loads(jsonpickle.dumps(output.publications, unpicklable=False)), f, indent=2, sort_keys=True, ensure_ascii=False)
+
+
+def parse_works_from_old_style_tables():
+    root_dir = "input_output/old_files"
+    raw_publications = []
+
+    dirs = sorted([f for f in os.listdir(root_dir) if not f.startswith(".") and not f.startswith("0000")])
+    for filepath in dirs:
+        with open(os.path.join("input_output/old_files", filepath), mode="r") as f:
+            raw_publications.append(f.read())
+
+    parsed_publications = []
+    for pub in raw_publications:
+        parsed_publications.append(SemiStructuredWorkParser(pub, parsed_publications.copy()))
+
+    output = FormattedOutput(parsed_publications)
+    with open("publications_from_old_style.json", mode="w") as f:
+        json.dump(json.loads(jsonpickle.dumps(output.publications, unpicklable=False)), f, indent=2, sort_keys=True,
+                  ensure_ascii=False)
 
 
 def extract_texts(end, start):
@@ -40,4 +59,7 @@ def extract_texts(end, start):
 
 if __name__ == "__main__":
     first_page_with_works = 9
-    main(first_page_with_works, 174)
+    last_page_to_process = 174
+
+    parse_works_from_page_transcripts(first_page_with_works, last_page_to_process)
+    parse_works_from_old_style_tables()
