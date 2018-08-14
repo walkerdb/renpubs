@@ -46,3 +46,5 @@ Scope for this project is limited to the publications described in the Nuovo Vog
     }
 }
 ```
+
+Current publication count: 515

@@ -63,3 +63,10 @@ if __name__ == "__main__":
             json.loads(jsonpickle.dumps(output.publications, unpicklable=False)),
             f, indent=2, sort_keys=True, ensure_ascii=False
         )
+
+    with open("README.md", mode="r") as f:
+        text = f.read()
+        text = re.sub("Current publication count: \d+", "Current publication count: {}".format(len(output.publications)), text)
+
+    with open("README.md", mode="w") as f:
+        f.write(text)
