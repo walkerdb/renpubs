@@ -22,10 +22,7 @@ def parse_works_from_page_transcripts(start, end):
     # print("questionable entries:")
     # pprint(json.loads(jsonpickle.dumps(questionable_entries, unpicklable=False)))
 
-    output = FormattedOutput(entries)
-
-    with open("publications.json", mode="w") as f:
-        json.dump(json.loads(jsonpickle.dumps(output.publications, unpicklable=False)), f, indent=2, sort_keys=True, ensure_ascii=False)
+    return FormattedOutput(entries)
 
 
 def parse_works_from_old_style_tables():
@@ -41,10 +38,7 @@ def parse_works_from_old_style_tables():
     for pub in raw_publications:
         parsed_publications.append(SemiStructuredWorkParser(pub, parsed_publications.copy()))
 
-    output = FormattedOutput(parsed_publications)
-    with open("publications_from_old_style.json", mode="w") as f:
-        json.dump(json.loads(jsonpickle.dumps(output.publications, unpicklable=False)), f, indent=2, sort_keys=True,
-                  ensure_ascii=False)
+    return FormattedOutput(parsed_publications)
 
 
 def extract_texts(end, start):
@@ -61,5 +55,11 @@ if __name__ == "__main__":
     first_page_with_works = 9
     last_page_to_process = 174
 
-    parse_works_from_page_transcripts(first_page_with_works, last_page_to_process)
-    parse_works_from_old_style_tables()
+    output = parse_works_from_page_transcripts(first_page_with_works, last_page_to_process)
+    output.publications.extend(parse_works_from_old_style_tables().publications)
+
+    with open("publications.json", mode="w") as f:
+        json.dump(
+            json.loads(jsonpickle.dumps(output.publications, unpicklable=False)),
+            f, indent=2, sort_keys=True, ensure_ascii=False
+        )
