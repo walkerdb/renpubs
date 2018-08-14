@@ -2,11 +2,9 @@ import subprocess
 import os
 from tqdm import tqdm
 
-root_path = "/Volumes/Samsung USB/nv images/data"
+root_path = "/Volumes/Samsung USB/crops"
 images = [image for image in os.listdir(root_path) if image.endswith(".png") and not image.startswith(".")]
 images.sort()
-
-print(images)
 
 for image in tqdm(images):
     path = os.path.join(root_path, image)
