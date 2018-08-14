@@ -4,4 +4,4 @@ text-detection-6d612dadff53.json
 .cache
 __pycache__
 *aws.py
-
+.DS_Store
