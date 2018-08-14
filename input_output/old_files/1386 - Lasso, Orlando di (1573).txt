@@ -27,8 +27,6 @@ A 4	Quare tristis es anima mea                     	-            	-	-           
 -  	4. Bianca neve è il collo e'l petto            	Quarta parte 	-	Ludovico Ariosto	28
 -  	5. Mostran le braccia sue misura giusta        	Quinta parte 	-	Ludovico Ariosto	29
 -  	Spesso in poveri alberghi e in picciol tetti   	-            	-	-               	30
-
-		Dialogi 8 vocum:
 A 8	Unde revertimini pax religioque sorores		-			-	-			31
 A 8	Nun gruess dich Gott					-			-	-			35
 A 8	Di moi mon coeur quelle sera ma vie			-			-	-			37

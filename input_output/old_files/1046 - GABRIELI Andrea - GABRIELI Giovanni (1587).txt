@@ -1,4 +1,4 @@
-1046 - GABRIELI Andrea - GABRIELI Giovanni (1587) - Concerti di Andrea, et di Gio: Gabrieli organisti della sereniss. Sig. di Venetia. Continenti Musica di chiesa Madrigali, et altro, per voci, et stromenti musicali, a 6. 7. 8. 10. 12. et 16. Novamente con ogni diligentia dati in luce. Libro Primo et Secondo. Con privilegio. In Venetia, appresso Angelo Gardano. 1587.
+1046 - GABRIELI Andrea (1587) - Concerti di Andrea, et di Gio: Gabrieli organisti della sereniss. Sig. di Venetia. Continenti Musica di chiesa Madrigali, et altro, per voci, et stromenti musicali, a 6. 7. 8. 10. 12. et 16. Novamente con ogni diligentia dati in luce. Libro Primo et Secondo. Con privilegio. In Venetia, appresso Angelo Gardano. 1587.
 
 12 fasc. in 8˚: C. pag. 77,(1). (A.T.B.5.6.7.8.9.10.11.12.). Ded. di Giovanni Gabrieli a Giacomo Fuccari Seniori, Baron de Chirchberg, et Vveissenhorn: "All'illustriss. Signor, il Sig. Giacomo Fuccari, Seniori, Baron de Chirchberg, et Vveissenhorn, &c, Mio Signore, & Padrone Colendissimo. Se Messer Andrea Gabrieli (felice memoria) non fosse stato mio Zio, ardirei di dire... pochissimi fossero stati gli eccellenti Compositori, et Organisti, com'egli fù... Piacque al sommo voler di Dio l'anno passato di trasferirlo di terra in Paradiso... Haveva esso ridotto a compita perfettione varij bellissimi Concerti, Dialoghi, et altre Musiche proportionate a voci, et Stromenti, come hoggidì s'usa nelle pricipal Chiese de Principi, et nelle Academie Illustri; de quali egli (bona memoria) havea deliberato farne dono à V.S. Illustriss... Onde vivendo io con l'istesso desiderio... consacro à V.S. Illustriss. i frutti delle sue virtù; intitolati i Concerti, con l'aggiunta d'alcune mie fatische, come virgulti germolianti dell'istesso tronco..."
 
@@ -46,9 +46,6 @@ A 12	Benedicam Dominum                        	-	Andrea Gabrieli  	-	38
 A 16	Gloria in excelsis Deo                   	-	Andrea Gabrieli  	-	42
 A 12	Sanctus Dominus Deus Sabaoth             	-	Andrea Gabrieli  	-	43
 -   	Magnificat anima mea                     	-	Andrea Gabrieli  	-	44
-
-	Il Secondo Libro de Concerti di Andrea Gabrieli, ove sono Madrigali, et Dialoghi diversi a 6 7. 8. 10  & 12. voci
-
 A 6	1. I' vo piangendo i miei passati tempi					Prima parte			Andrea Gabrieli	Francesco Petrarca		46
 A 6	2. Sì che s'io vissi in guerra et in tempesta				Seconda parte			Andrea Gabrieli	Francesco Petrarca		47
 A 6	1. Nel bel giardin entrate, Felice Alme ben nate				Prima parte			Andrea Gabrieli	-				48
@@ -58,7 +55,7 @@ A 6	2. Al chiaro suon d'i dolci accenti vostri					Seconda parte			Andrea Gabrie
 A 6	1. In nobil sangue vita humile e queta et in alto				Prima parte			Andrea Gabrieli	Francesco Petrarca		52
 A 6	2. Amor, s'è in lei con honestate aggiunto				Seconda parte			Giovanni Gabrieli	Francesco Petrarca		53
 A 7	Io mi sento morir quando non miro					Dialogo				Andrea Gabrieli	Giovanni Battista Guarini	54
-A 7	1. Dunque fia vero, o cara mia fenice					Dialogo	A 7. P. parte		Andrea Gabrieli	-				55
+A 7	1. Dunque fia vero, o cara mia fenice					Dialogo A 7. P. parte		Andrea Gabrieli	-				55
 A 7	2. Dunqu'il consenti amor						Seconda parte			Andrea Gabrieli	-				56
 A 7	Tirsi morir volea, gl'occhi mirando					Dialogo				Andrea Gabrieli	Giovanni Battista Guarini	56
 A 7	Dolce nemica mia, perchè mi vieti					Dialogo				Andrea Gabrieli	-				58
@@ -66,7 +63,7 @@ A 7	Dolce nemica mia, perchè mi vieti					Dialogo				Andrea Gabrieli	-				58
 A 8	1. Pront'era l'alma mia, pront'il mio amore				Prima parte			Andrea Gabrieli	-				60
 A 8	2. E cert'anco di ciò già non mi doglio					Seconda parte			Andrea Gabrieli	-				61
 A 8	Tirsi, che fai così dolente?						Dialogo				Andrea Gabrieli	-				62
-A 8	Hor che nel suo bel seno lieto e tranquillo il mar d'Adria	si posa		-				Andrea Gabrieli	-				63
+A 8	Hor che nel suo bel seno lieto e tranquillo il mar d'Adria si posa		-				Andrea Gabrieli	-				63
 A 8	O dea, che tra le selv'a chi ti chiama					Risonanza di Echo		Andrea Gabrieli	-				64
 A 8	Quand'havrà fin amore							Dialogo				Andrea Gabrieli	-				65
 A 8	Ecco la vaga aurora e il sol ch'a noi vien					-				Andrea Gabrieli	-				66
@@ -85,7 +82,7 @@ I-Bc: compl.
 I-Bsp: compl.
 I-BRd: compl.
 I-Sd: compl.
-A-Wn: compl. -- http://data.onb.ac.at/rec/AC08816699
+A-Wn: compl.
 D-F. compl.
 D-Rp: compl.
 I-Vnm: C.A.T.B.5.6.7.8.9.10.11
