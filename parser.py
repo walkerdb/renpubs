@@ -53,7 +53,7 @@ def extract_texts(end, start):
 
 if __name__ == "__main__":
     first_page_with_works = 9
-    last_page_to_process = 174
+    last_page_to_process = 199
 
     output = parse_works_from_page_transcripts(first_page_with_works, last_page_to_process)
     output.publications.extend(parse_works_from_old_style_tables().publications)
