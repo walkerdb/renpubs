@@ -1,35 +1,39 @@
 Questo, legato in oro, finissimo diamante 6
-
 Il pianto, che per gl'occhi si distilla 7
-Così vivo felice e rimirando (seconda parte) Ü
+Così vivo felice e rimirando (seconda parte) 8
 Altri da voi s'affreni in duoi begl'occhi più del ciel 9
 Se quel ardente e garrulo augelino, che va cantando 10
-Vezzosetta fugace, perchè, perchè ti spiace "
+Vezzosetta fugace, perchè, perchè ti spiace 11
 Questo è, Tirsi, quel fonte, in cui solea specchiarsi 12
 Sotto quest'antro al fin (seconda parte) 13
-Alle pene, al dolor già per lungo uso assuefatto "
+Alle pene, al dolor già per lungo uso assuefatto 14
 D'una antica elec alla negra ombra assisa 15
 Mille flare mosso Aminta (seconda parte) 16
 Intenerite voi, lagrime mie, intenerite voi quel duro (Rinuccini) 17
-Dolorosi martir, fieri tormenti, duri ceppi, empi lacci (Tansìllo) 18
+Dolorosi martir, fieri tormenti, duri ceppi, empi lacci (Tansillo) 18
 Oh se per mia ventura alto destino ch'a miei casti desir 19
 Ed io l'antica e sì profonda piaga (seconda parte) 20
 Vago augelletto, che cantando vai Di Pietro Strozzi (Petrarca) 21
 Io non so se le parti sarian pari (seconda parte) " 22
 Ceda la terra e non s'agguagli al cielo e miri a lato 23
 
-I-de: A.T.B.5.
-D-Kl: G.B.
+I-Rdp: A.T.B.5.
+D-Kl: C.B.
 I-Vnm (Canal): T.
-I-Fm: 5.-
+I-Fm: 5.
 RISM, I 1598-11 (non compl.).
+
+
+
+
 
 288 - BATTAGLIONI Orazio (1574) - Di Horatio Battaglioni cittadino pisano.
 Il Primo Libro de Madrigali a cinque et sei voci novamente composti et dati in
 in luce. A cinque et sei voci. In Venetia apresso li figliuoli di Antonio Gardano. 1574.
+
 6 fasc. in 8° obl. (C.A.T.B.5.6.), pag. 29. Ded. ad Alberigo Cibo Malaspina Principe di Massa:
 "L'Affettuoso desiderio, che ho sempre havuto d'aprirmi l'entrata a la servitù di V. Ill. Ecc. con
-qualche honorato mezo, ha causato, che io havendo messi in Musica alcuni Madrigali, ho prCSO
+qualche honorato mezo, ha causato, che io havendo messi in Musica alcuni Madrigali, ho preso
 ardire di dedicargli a lei, quali che eglino si siano... ".
 
 A 5. Queste luci ogn'hor mest'e i miei sospiri 1
@@ -42,25 +46,12 @@ A 5. Queste luci ogn'hor mest'e i miei sospiri 1
 " " Ahimè cor mio, ahimè chi mi t'ha tolto 7
 " " Monti, selve, fontane, piagg'et sassi (Sannazzaro) 8
 " " Zeffiro, porta questi miei sospiri 8
-" " Dille ch'io piango e grido (seconda parte)
-
-" " Voi con veloce passo, da me torcend'i dolci amati rai
-" " L'alto bel colle humil formò natura
-
-" " Nel bianc'aperto seno accostando la bocca
-
-A 6. S'io fallirò ben mi si dee perdono
-
-" " Ard'e'n sì dolc'ardore mai non arse pastore
-
-" " Mentre dalla mia donn'honest'e bella
-
-" " Nel cor afflitto sì gran doglia porto
-
-. o - \" )
-" " Seguite, Signor mio, la bell impresa d erger
-
- 
-
- 174-
-
+" " Dille ch'io piango e grido (seconda parte) 9
+" " Voi con veloce passo, da me torcend'i dolci amati rai 10
+" " L'alto bel colle humil formò natura 11
+" " Nel bianc'aperto seno accostando la bocca 12
+A 6. S'io fallirò ben mi si dee perdono 13
+" " Ard'e'n sì dolc'ardore mai non arse pastore 14
+" " Mentre dalla mia donn'honest'e bella 15
+" " Nel cor afflitto sì gran doglia porto 16
+" " Seguite, signor mio, la bell'impresa d'erger 17

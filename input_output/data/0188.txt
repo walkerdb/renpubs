@@ -1,33 +1,32 @@
-A . . . .
-5 Una man sola mi risana e punge, una man sola mi dà pace e guerra 10
-
-" " Man, mie delitie, se pietà consente (seconda parte)
-
-" " Quel dolcissimo bacio, che pietosa porgeste a queste labbia i;
+A 5. Una man sola mi risana e punge, una man sola mi dà pace e guerra 10
+" " Man, mie delitie, se pietà consente (seconda parte) 11
+" " Quel dolcissimo bacio, che pietosa porgeste a queste labbia 12
 " " E s'indi vuoi, cor mio, torniamo (seconda parte) 13
 " " Se di pungente spina nasce odorato fiore 14
 A 6. Amor, che vidde un giorno ben mille spirti eletti 15
-" " Donna, ch'a mill'amanti avventate ad ogn'hor cocenti ardori 15
-" " Deh perchè lagrimar, lasso, non deggio? "
-A 7. Sotto un d'aspri martiri alpestre monte 13
+" " Donna, ch'a mill'amanti avventate ad ogn'hor cocenti ardori 16
+" " Deh perchè lagrimar, lasso, non deggio? 17
+A 7. Sotto un d'aspri martiri alpestre monte 18
 " " Tal'hor io gemo (seconda parte) 19
 A 8. Quand'io caddi a la rete, onde prigion mi feste 20
 
 I-VEcap: compl
 I-VEaf: 2° esempl. compl.; 3° esempl. manc. del 5.
 
-ïaôd-i- ÊELLASIO PaoloN(1578) - Di Paolo Bellasio veronese il Primo Libro de
-r gai a Cinque voci. ovamente osti i 1 - I V' - ,
-di Girolamo Scotto. 1578. P Il uce n lneggia. APPTCSSO lheredc
 
-Scîasc. in 8° (C..A.T..B..5.), Pîg. 31,(1). Ded. ad Alessandro e Carlo Tosi, Gentil'huomini veron
-[: " ...quesu mm sempici principij di Musica h d ' '
-Venetia, 20 II 1578 ". . C e & inesperta gioventù sono nan.
+
+
+
+296 - BELLASIO Paolo (1578) - Di Paolo Bellasio veronese il Primo Libro de
+Madrigali a cinque voci. Novamente posti in luce. In Vineggia. Appresso l'herede
+di Girolamo Scotto. 1578.
+
+5 fasc. in 8° (C.A.T.B.5.), pag. 31,(1). Ded. ad Alessandro e Carlo Tosi, Gentil'huomini veronesi:
+"... questi miei semplici principij di Musica, che da inesperta gioventù sono nati...
+Venetia, 20 II 1578".
 
 Non veggi'ove scampar mi possa homai sì longa guerra (Petrarca) 3
-Se l anime più belle a mover sono i più bei corpi. Al Conte Mario Bevilacqua
-[(Remigio Fiorentino) 4
-
+Se l'anime più belle a mover sono i più bei corpi. Al Conte Mario Bevilacqua (Remigio Fiorentino) 4
 Donna gentil, se mi volete morto, perchè mi date aita 5
 Caro dolce ben mio, perchè fuggire chi v'ama e per amar (Celiano) 6
 Hor che non s'odon le selve i venti. Canzon 7
@@ -45,16 +44,10 @@ Amor mi strugge il cor, fortuna il priva (Petrarca) 18
 Cari et amati fiori, che le gratie divine propitie haveste 19
 Là dove inonda e bagna de fiumi il re superbo 20
 Nell'arena cantando in voce humile (seconda parte) 21
-Mentre, mia stella, miri i bei celesti giri il ciel" (Tasso) 22
+Mentre, mia stella, miri i bei celesti giri il ciel (Tasso) 22
 A mezzo del suo giro qualhor Cinthia rimiro 23
-E mentre più m'aﬃso, luci serene (seconda parte) 24
+E mentre più m'affiso, luci serene (seconda parte) 24
 Fu morte il mio partire quando da voi, che l'anima mia sete 25
 E se per morte non restai di gire (seconda parte) 26
-Non ved'hoggi il mio sole splender nel loco usato €;
-
-al fredd'ond'io m'agiaccio
-
--180- A
-
-Alla profonda piaga ama e mortale,
-
+Non ved'hoggi il mio sole splender nel loco usato 27
+Alla profonda piaga aspra e mortale, al fredd'ond'io m'agiaccio 28

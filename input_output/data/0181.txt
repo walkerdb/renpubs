@@ -1,70 +1,58 @@
+
+
+
+
+
 286 - BATI Luca (1594) - Il Primo Libro de Madrigali a cinque voci, di Luca
 Bati. Novamente posti in luce. In Venetia appresso Angelo Gardano. 1594.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. 25,(1). Ded. a Iacopo Corsi: "...concorrendo nella casa sua, non
-solo tutta la nobiltà Fiorentina, ma quanti Signori capitano in questa Città... Venetia, 1° III 1594 ",
+solo tutta la nobilta Fiorentina, ma quanti Signori capitano in questa Citta... Venetia, 1° III 1594 ",
 
 Questo fonte gentil non versa stilla d'acqua 1
-
-Qui con sì dolce sguardo (seconda parte) 2.
+Qui con si dolce sguardo (seconda parte) 2
 Occhi, un tempo mia vita, occhi, di questo cor soli (Guarini) 3
 Baciami, vita mia, baciami ancora, nè ti spiaccia baciarmi 4
 A pena potev'io, bella Licori, giunger da terra i primi rami 5
-
-Già viss'io presso a te felice (seconda parte) 6
-Misero, che farò, piangerò sempre? O lero partir mio 7
-O Amarilli, che sì bella in vista, si pietosa ne gl'atti 8
+Gia viss'io presso a te felice (seconda parte) 6
+Misero, che faro, piangero sempre? O lero partir mio 7
+O Amarilli, che si bella in vista, si pietosa ne gl'atti 8
 Filli, deh non fuggir, deh Filli aspetta il tuo Damon (Varchi) 9
-
-Rallenta, Filli, ohimè rallenta (seconda parte) " 10
-Il Più bel pastorel e'l più gentile che stringesse mai 11
-
-Tirsi, che sola te nott'e dì chiama (seconda parte) 12
+Rallenta, Filli, ohime rallenta (seconda parte) " 10
+Il più bel pastorel e'l piu gentile che stringesse mai 11
+Tirsi, che sola te nott'e di chiama (seconda parte) 12
 Vago monte, fiorite, ombrose piagge, lago d'ogn'altro 13
 Cessate il pianto homai, cari pastori, e lieti udite 14
-
 Assai viss'io se si misura gl'anni (seconda parte) 15
 Da voi, da me disgiunto, di selva in selv'o d'un in altro speco 16
 Se di cenere il volto ne le lagrime mie d'amor fan fede 17
-Mentre l'ai-mento mio la sera cingo e dalle fiere 18
-
+Mentre l'armento mio la sera cingo e dalle fiere 18
 Altro da te non cerco e tu non dei (seconda parte) 19
-Ben sei, Tirinto mio, più ch'il sol bello 2°
-
+Ben sei, Tirinto mio, più ch'il sol bello 20
 Prendi, ti prego, questi fiori (seconda parte) 21
-Quel che nel proprio sangue involto è quivi Di Neri Alberti 22
-Baciatemi, cor mio, che con sì dolce aita Di Antonio Bicci (Celiano) 23
+Quel che nel proprio sangue involto e quivi (Di Neri Alberti) 22
+Baciatemi, cor mio, che con si dolce aita (Di Antonio Bicci) (Celiano) 23
 De begl'occhi ch'adoro lagrimette cadean pari alle perle 24
 Se da quel vago viso non posso involar baci (Celiano) 25
 
-GB-Lbm: compl,
-
-{'ES: g.B.5. difett. (C. pag, 1-6; B. Pilg- 1516, 23-26; S png 5-8, 13-14)
-- c:
-
-l'an: 5.
-
-RISM, I 594-11.
+GB-Lbm: compl.
+I-PS: C.B.5. difett. (C. pag, 1-6; B. pag. 15-16, 23-26; 5 pag. 5-8, 13-14)
+I-Bc: C.
+I-Fm: 5.
+RISM, I 1594-11.
 
 
 
 
 
 287 - BATI Luca (1598) - Il Secondo Libro de Madrigali a cinque voci di Luca
+Bati novamente composto, et dato in luce. In Venetia appresso Angelo Gardano, 1598.
 
-Bau novamente composto, et dato in luce. In Venetia appresso Angelo Gar-
-
-dano, 1598.
-
-5 fasc. in 8° (C.A.T.B.5.), pag. 23,(1). Ded. ad Amerigo Capponi Vicecastellano di Castel SanvAngelo,
+5 fasc. in 8° (C.A.T.B.5.), pag. 23,(1). Ded. ad Amerigo Capponi Vicecastellano di Castel Sant'Angelo,
 Venetia, 1° X 1598
 
-:: Fn"; n::iîoî; fasi:? lîszialr devete, anzi al partir 1
-Se gli occhi ;, vostri ic; 1. ocehonesto conversar 2
-Chi sa che il bel Tirintoglio' "1" Si dolente ' ' 3
-Ma ecco già che la Djîra e stelle non min 4
-
-na spare (seconda parte) 5
-
--173-
-
+Se pur v'addoglia e me lasciar devete, anzi al partir 1
+Se mi negate, ahi lasso, il honesto conversar 2
+Se gli occhi a' vostri io giro, voi sì dolente
+Chi sa che il bel Tirinto hora le stelle non miri 4
+Ma ecco già che la Diana spare (seconda parte) 5

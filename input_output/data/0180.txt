@@ -1,17 +1,19 @@
 A 6. L'oliva è secca et è rivolt'altrove l'acqua 27
-
-" " Madonna io vi vo dire e'l ver io non \"i celo 23
+" " Madonna io vi vo dire e'l ver io non vi celo 28
 " " Chi è fermato di menar sua vita (Petrarca) 29
 
 D-Mbs: compl.
 S-Uu: compl.
+NI-At: C.
 
-NI,-At: C.
 
-285 - BASTINI Vincenzo (1578) - Il Secondo Libro de Madrigali a cinque Ct
+
+
+
+
+285 - BASTINI Vincenzo (1578) - Il Secondo Libro de Madrigali a cinque et
 a sei voci con uno Dialogho a otto a dui cori di Vincentio Bastini musico della
 illustrissima Signoria di Lucha novamente da lui composti et dati in luce. In
-
 Vineggia. Appresso l'herede di Girolamo Scotto. 1578.
 
 5 fasc. in 8° (C.A.T.B.5). pag 35,(1). Ded. al giovane M. Salvestro Trenta Gentil'huomo Lucchese,
@@ -23,10 +25,10 @@ A 5. Vergine bella, che di sol vestita, coronata di stelle (Petrarca) 3
 " " Vergine santa, d'ogni gratia piena (quarta stanza) " 6
 " " Vergine sola al mondo, senz'esempio (quinta stanza) " 7
 " " Vergine chiara e stabile in eterno (sesta stanza) " 8
-" " Vergine, quante l'acrim'ho già sparte (settima stanza) " 9
+" " Vergine, quante lacrim'ho già sparte (settima stanza) " 9
 " " Vergine, tale è terra et post'ha in (ottava stanza) " 10
 " " Vergine, in cui ho ttuta mia speranza (nona stanza) " 11
-A 6. Vergine humana e nemica d'orgoglio (decima stanza) " 11
+A 6. Vergine humana e nemica d'orgoglio (decima stanza) " 12
 " " Il dì s'appressa e non pot'esser lunge (undicesima stanza) " 12
 A 5. La notte che seguì l'horibil caso che spense'l sol " 13
 " " Quando donna sembiante a la stagione (seconda parte) " 14
@@ -35,27 +37,19 @@ A 5. La notte che seguì l'horibil caso che spense'l sol " 13
 " " Mia benigna fortuna e'l viver lieto, i chiari giorni " 16
 " " Crudele, acerba, inessorabil morte (seconda parte) " 17
 " " Dunque quel ch'in un anno il ciel m'ha dato, tu, fortuna, in un di 18
-" " Et voi, dolce alma mia, dolce mia speme (seconda parte) ;:
-
-A 4. Hor mi ritrovo in mezzo a fieri scogli et più rinforza il tempestoso
-
+" " Et voi, dolce alma mia, dolce mia speme (seconda parte) 19
+A 4. Hor mi ritrovo in mezzo a fieri scogli et più rinforza il tempestoso 20
 " " Chi per voi non sospira e non si sente il core quando v'ascolta 21
 A 5. Mosso amor di madonna a la gran fama, che fino al ciel spiegava 22
-" " Fuggi il sereno e'l verde, non t'appressar ove sia riso (Petrarca) 2.43
-" " Per aspro mar di nott'in picciol legno, senza guida (Fiamma) 25
-" " Signor, tu che del ciel reggi l'impero e la terra governi Îfi
-A 6. Se per farmi lasciar la bell'impresa mi mostrate, madonna (Sannazzaro) 27
-" " Dunque quanto più voi con cruccio e sdegno (seconda parte) " 23
-" " Padre del ciel pietoso, se non soccorri a questa misera alma 0
-" " Hor che mercè del cielo il foco è fatto giaccio (seconda parte) . . gl
-" " L'incostantia che seco han le mortali cose cagion è sola (Giraldi) 33
-" " Poi ch'è apparsa l'aurora, tosto vedrò il mio sole 34
-
-A 8. Che debb'io far? Dialogo
+" " Fuggi il sereno e'l verde, non t'appressar ove sia riso (Petrarca) 23
+" " Per aspro mar di nott'in picciol legno, senza guida (Fiamma) 24
+" " Signor, tu che del ciel reggi l'impero e la terra governi 25
+A 6. Se per farmi lasciar la bell'impresa mi mostrate, madonna (Sannazzaro) 26
+" " Dunque quanto più voi con cruccio e sdegno (seconda parte) " 27
+" " Padre del ciel pietoso, se non soccorri a questa misera alma 28
+" " Hor che mercè del cielo il foco è fatto giaccio (seconda parte) 30
+" " L'incostantia che seco han le mortali cose cagion è sola (Giraldi) 32
+" " Poi ch'è apparsa l'aurora, tosto vedrò il mio sole 33
+A 8. Che debb'io far? Dialogo 34
 
 I-MOe: A.T.B.5.
-
-]72-
-
- 
-

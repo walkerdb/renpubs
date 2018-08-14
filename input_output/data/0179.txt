@@ -1,8 +1,7 @@
 A 4. Mi vorei trasformar gri gri grillo, sol per cantare 11
-
 "." Occhi, dell'alma mia vivaci soli 12
 " " Amor, crudel amore, non più tanto dolore 13
-" " In un boschetto adorno, fra vedr'licrbette 14
+" " In un boschetto adorno, fra vedr'herbette 14
 " " Ohimè che novo ardore 15
 " " Hora che ogni animal riposa e dorme 16
 " " Se ben l'ardor, ch'io sento 17
@@ -17,12 +16,11 @@ D-Kl: compl.
 
 
 
-284 - BASTINI Vincenzo (1567) - Primo Libro de' Madrigali & cinque et a sei
+284 - BASTINI Vincenzo (1567) - Primo Libro de' Madrigali a cinque et a sei
 voci di Vincenzo Bastini, nuovamente dati in luce, et con diligentia corretti da
-
 Claudio da Correggio. In Venetia, 1567. (Marca tip. del Merulo).
 
-6 fasc. in 8° obl. (C.A.T.B.5.6.), pag. 29,(1). Dedffa Lorenzo Bonvisi, Gentilhuomo Lucchese, fu
+6 fasc. in 8° obl. (C.A.T.B.5.6.), pag. 29,(1). Ded. a Lorenzo Bonvisi, Gentilhuomo Lucchese, fu
 del magnifico Messer Giovanni, Venetia, 6 II 1657.
 
 A 5. Ragion è ben ch'alcuna volt'io canti, pero ch'ho sospirato 1
@@ -38,7 +36,7 @@ A 5. Ragion è ben ch'alcuna volt'io canti, pero ch'ho sospirato 1
 " " Et se talhor da begli occhi (seconda parte) " 11
 " " Quand'io mi volg'indietr'a mirar gl'anni " 12
 " " Io mi riscuoto et trovomi (seconda parte) " 13
-" " Chiara mia luce, ohimè chi mi teglie? Perchè m'ingombr'eterna 14
+" " Chiara mia luce, ohimè chi mi toglie? Perchè m'ingombr'eterna 14
 " " Chi vol veder quantunque può natura (Petrarca) 15
 " " Ecco scesi dal ciel Venere et Marte per honorar nozze 16
 " " L'aer gravato et l'importuna nebbia. Sestina (Petrarca) 17
@@ -46,12 +44,8 @@ A 5. Ragion è ben ch'alcuna volt'io canti, pero ch'ho sospirato 1
 A 3. In picciol tempo passa (terza parte) " 19
 A 6. Ma lasso a me non val (quarta parte) " 20
 A 7. Mentre ch'al mar descenderrann'i (quinta parte) " 21
-" " . .Ben debb'io perdonar a tutt'i (sesta parte) " 22
-2; V'IVI, coppia gentile, in amorosa pace quant'altra fosse mai 23
-- Signore, il vostro scoglio combattuto da l'ond'in 24
-
-: :: 1:71; 331" vegg'hor sì com'al popul tutto . ' (Petrarca) 25
-que se cercate haver la mente ann l'estremo di 26
-
--I7I-
-
+" " Ben debb'io perdonar a tutt'i (sesta parte) " 22
+A 4. Vivi, coppia gentile, in amorosa pace quant'altra fosse mai 23
+A 6. Signore, il vostro scoglio combattuto da l'ond'in 24
+" "  Ma ben vegg'hor sì com'al popul tutto (Petrarca) 25
+" " Voi dunque se cercate haver la mente anzi l'estremo di 26

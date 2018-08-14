@@ -1,4 +1,9 @@
-304 .. BELLI Domenico (1616) - Di Domenico Belli il Primo Libro dell'Arie a
+
+
+
+
+
+304 - BELLI Domenico (1616) - Di Domenico Belli il Primo Libro dell'Arie a
 una, e a due voci. Per sonarsi con il Chitarrone. Novamente composto et dato in
 luce. In Venetia 1616. Appresso Ricciardo Amadino.
 
@@ -11,32 +16,32 @@ A 1. Io vidi in terra angelici costumi (Petrarca) 1
 " " Ben ne gli sguardi (seconda parte) " 5
 " " Così tremo et agghiaccio (terza parte) " 6
 " " Aure, dell'aria albergatrici erranti 7
-A 1. Altri canti di Marte, di sua schiera (Marnio) 3
+A 1. Altri canti di Marte, di sua schiera (Marnio) 8
 " " Io canto amor da questa (seconda parte) " 9
-" " Duo begl'occhi fur l'armi (terza parte) " ...
+" " Duo begl'occhi fur l'armi (terza parte) " 10
 " " O tu, che fra le selve occulta vivi (Tasso) 11
 " " Apre l'huomo infelice allor che nasce (Marino) 13
-" " Fanciullo poi che non più (seconda parte) " H
-" " Quante poscia sostien (terza parte) " H
+" " Fanciullo poi che non più (seconda parte) " 14
+" " Quante poscia sostien (terza parte) " 14
 " " Occhi belli, a me severi, che nutriste 15
 " " Pur son io quel che cantai (seconda parte) 15
 " " Sopra al sol tanto v'alzai (terza parte) 17
-" " Quando tremol'e ridenti (quarta parte) ]8
+" " Quando tremol'e ridenti (quarta parte) 18
 " " Vassi la primavera trasformando nel tuo leggiadro 19
 " " Stassi tra due stelle (seconda parte) 19
 " " Non ha l'oriente perle (terza parte) 20
 " " Godi di tua (quarta parte) 20
 " " Di vostri occhi le facelle, che dan fiamme 21
 " " Voi pur da me partite, anima mia, nè vi duole il partire (Guarini) 21
-" " Occhi belli, cclesti, d'amor vido (sì:) ardor 22
+" " Occhi belli, celesti, d'amor vido (sic) ardor 22
 " " Vergine bella, che di sol vestita (Petrarca) 26
 " " Anima peccatrice, che al regno alto immortale 26
-" " O miei giorni fugaci, o breve vita, ohimè già sei (RîDUCCÎni) 28
-" " Qui fra mille trofei, fra mille palme 23
+" " O miei giorni fugaci, o breve vita, ohimè già sei (Rinuccini) 28
+" " Qui fra mille trofei, fra mille palme 28
 " " A che più vaneggiar folle, deh ferma 29
 " " Anima, ohimè che pensi, ohimè che fai? (Rinuccini) 30
 " " O voi del ciel ch'ogn'hor d'angeli canti 31
-A 2. Quasi vermiglia rosa humile. Aria (Orsì) 33
+A 2. Quasi vermiglia rosa humile. Aria (Orsi) 33
 " " Vergine bella, sopra l'altre bella 35
 
 I-Fn
@@ -49,10 +54,9 @@ PL-WRu (framm.).
 
 
 305 - BELLI Domenico (1616) - Orfeo dolente musica di Domenico Belli diviso
-in cinque Intermedi con li quali il signor Ugo Rinaldi ha rappresentato l'Ammta
+in cinque Intermedi con li quali il signor Ugo Rinaldi ha rappresentato l'Aminta
 favola boschereccia del sig. Torquato Tasso. Novamente composto et dato in
-luce. In Venetia, appresso Ricciardo Amadmo. 1616.
-° " ' ' ' del mio rozzo in enio... Firenze,
-' ° . 18. Ded. a Ugo Rinaldi. "(...primi bollori . . . g
-273911116146" cTesto del Chiabrera. Rappresentato nella Sala di Ugo Rinaldi Il " car-noval passato ".
+luce. In Venetia, appresso Ricciardo Amadino. 1616.
 
+Vol. in 4°, c. 18. Ded. a Ugo Rinaldi: "...primi bollori del mio rozzo ingenio... Firenze,
+25 V 1616". Testo del Chiabrera. Rappresentato nella Sala di Ugo Rinaldi il "carnoval passato".

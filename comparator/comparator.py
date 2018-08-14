@@ -27,7 +27,7 @@ def page(image_num):
         with open(text_path, "w") as f:
             f.write(request.form.get("text").replace("\r\n", "\n"))
 
-        return redirect(url_for("page", imageNum=next_page))
+        return redirect(url_for("page", image_num=next_page))
 
     else:
         with open(text_path) as f:

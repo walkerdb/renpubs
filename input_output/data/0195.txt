@@ -1,6 +1,8 @@
-Intermedio I: Orfeo e Plutone. Intermedio lI: Orfeo. Calliope e Plutone. Intermedio III: Orfeo,
-Calliope et Choro di Pastori a 6 voci. Intermedio IV: Le tre Gratic, Orfeo et Clioro di Ninfe a
-4 et 6 voci. Intermedio V: Le tre Gratie.
+Intermedio I: Orfeo e Plutone.
+Intermedio II: Orfeo. Calliope e Plutone.
+Intermedio III: Orfeo, Calliope et Choro di Pastori a 6 voci.
+Intermedio IV: Le tre Gratie, Orfeo et Clioro di Ninfe a 4 et 6 voci.
+Intermedio V: Le tre Gratie.
 
 I-Tn
 PL-WRu
@@ -21,7 +23,7 @@ Vo cantar la fallilella, canzonetta vaga e bella 3
 Perchè, spietata Cloride, non hai le voglie 4
 Clori, dolce mio ben, dicea un pastore, 6
 Su, su, che si fa dì. Si sente per la cà gridar 6
-Tu canti. Si, ch'io canto, perchè così è'l costme 7
+Tu canti. Sì, ch'io canto, perchè così è'l costme 7
 Fa la la la la la lella. Non fu mai canzon novella 8
 Donna m'è'l dispiacer, che per voi sento, dolcissimo contento 9
 Cor mio, non dormir più. Salta fuori del letto 10
@@ -43,21 +45,16 @@ GB-Lbm: compl.
 
 
 
-307 - BELLI .Girolamo (1611) - Canzonette a quattro di Girolamo Belli d'Argenta.
+307 - BELLI Girolamo (1611) - Canzonette a quattro di Girolamo Belli d'Argenta.
 Libro Primo. Nuovamente ristampate, et datte in luce. In Milano, per l'her.
 
 di Simon Tini, et Filippo Lomazzo. 1611.
 
-"Pizze-(1528; (C.A.'(Il'.l,3.), Pag.. 21,0): Ded. di lîilippo Lomazzo a Marco Aresi, Feudatario della
-torto alla °] 5°. Î. € Podecl Sign della ProviSione di Milano: " Parevami di fare non picciolo
-Virtuosi desÎcdggria ma di queste Canzonette, sofferendo ch'elle fossero più lungamente da molti
-mè frà le coLate-ne ricercate in vano, pOichè una sol coppia di quelle Si conservava appresso di
+4 fasc. in 8° (C.A.T.B), Pag.. 21,(1): Ded. di filippo Lomazzo a Marco Aresi, Feudatario della
+Pieve di Seveso et de' Dodeci Sig.ri della ProviSione di Milano: " Parevami di fare non picciolo
+torto alla leggiadria di queste Canzonette, sofferendo ch'elle fossero più lungamente da molti
+virtuosi desiderate, e ricercate in vano, poichè una sol coppia di quelle Si conservava appresso di
+mè frà le cose più care... V.S.M. Ill. la quale restò talmente preso dalla bellezza loro, quando
+furono  cantate in casa sua... Dalla Stampa il di 10 IX 1611 ". Indice = 1596.
 
-piu care... V.S.M. Ill. la quale restò talmente preso dalla bellezza loro, quando
-
-ful'Oho cantate in casa sua... Dalla Stampa il di 10 IX 1611 ". Indice = 1596.
-
-Ì-PAc: compl.
-
--I87-
-
+I-PAc: compl.

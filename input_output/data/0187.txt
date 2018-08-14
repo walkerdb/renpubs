@@ -1,28 +1,21 @@
 A 2. Ma se t'avedi poi semplice (quarta parte) 9
-
 " " Se doppo i pianti al fin (quinta parte) 10
-" " Ma 'se'l tuo caro sol ti vien (sesta parte) 11
-" " Se mentre vivi longe e a volo (settima parte) 12.
+" " Ma se'l tuo caro sol ti vien (sesta parte) 11
+" " Se mentre vivi longe e a volo (settima parte) 12
 " " Ma se tornando al sospirato (ottava parte) 13
 " " Voi che godete haver il cor (nona parte) 14
-" " Aure franche, aure volanti, che per l'aria ite 15
+" " Aure fresche, aure volanti, che per l'aria ite 15
 " " Aure, o voi volando 16
 A 1. Poi con fiati 17
-Al. Voi con freschi venti 18
-" " S'è ver che porte un d0ppio stral in sen. Canzonetta a 2 canti con Sinfonia a 2. Violini 19
-
+A 2 Voi con freschi venti 18
+" " S'è ver che porte un doppio stral in sen. Canzonetta a 2 canti con Sinfonia a 2 Violini 19
 " " Colei che mi fere, nè sa di suo strale. Canzonetta a 2 canti con Sinfonia a 2 Violini 20
-
-A 3. Dirò ch'avanzan l'oro le fila del tuo crin. Canzonetta a 2 canti e tenore con
-[Sinfonia a 2 Violini e Fagotto 21
-
-" " Vanne, vattene amor, longe da questo cor. Canzonetta a due canti e tenore con
-[Sinfonia a 2 Violini e Fagoto 22
-
+A 3. Dirò ch'avanzan l'oro le fila del tuo crin. Canzonetta a 2 canti e tenore con Sinfonia a 2 Violini e Fagotto 21
+" " Vanne, vattene amor, longe da questo cor. Canzonetta a due canti e tenore con Sinfonia a 2 Violini e Fagoto 22
 " " Aura, tu m'alletti 23
 " " Aure, ch'errando 25
 " " Ahi, tu piangi, mia vita, e piango anch'io 28
-A 4- Versate, occhi d'amor, dal paradiso. 2 C., T. e B. 30
+A 4. Versate, occhi d'amor, dal paradiso. 2 C., T. e B. 30
 A 5. La piaga, ch'ho nel core, mi fà languir d'amore 32
 " " Longe da voi, mio core, mille volte m'uccide (Tasso) 34
 " " Son morta, disse la mia cara vita e chiedendomi aita 36
@@ -30,35 +23,30 @@ A 5. La piaga, ch'ho nel core, mi fà languir d'amore 32
 " " Longe da voi, ben mio, non ho vita, nè core (Tasso) 39
 " " Rido perchè tu ridi e tu perchio mi moro 40
 " " O chiome, o vaghe chiome, voi sete quelle 42
-A 6- Zeﬃro mio gentil, che per le selve vai. 4 voci e 2 Violini 44
-A 1- Che veggio, ohimè che miro? Chi lasso mi ti toglie, Orfeo (D'Indìa) 48
+A 6. Zeﬃro mio gentil, che per le selve vai. 4 voci e 2 Violini 44
+A 1. Che veggio, ohimè che miro? Chi lasso mi ti toglie, Orfeo (D'India) 48
 
 GB-Och: compl.
 NL-DHgm: 5. (prov. Scheurleer).
 
-295- BELLASIO Paolo (1591) - Di Paolo Belasio (sic) veronese maestro di
+
+
+
+
+295 - BELLASIO Paolo (1591) - Di Paolo Belasio (sic) veronese maestro di
 musica nell'Accademia dell'illustrissimi signori Accademici Filarmonici. Madrigali
 a 3. a 4. a 5. a 6. a 7. et a 8. voci. Novamente composti, et dati in luce. Con
-PflVllegio. In Venetia, appresso Ricciardo Amadino. 1591.
+privilegio. In Venetia, appresso Ricciardo Amadino. 1591.
 
 5 fasc. in 8° (C.A.T.B.5.), pag. 21,(1). Ded. al Conte Giordan Serego: "...con l'occasione
 delle felici sue Nozze... ".
 
-33. Soavissimo canto, o pur t'oda una volta e poi mi stilli (Tasso) 1
-" " O rosngnuol dolente, che i cari figli piagni 2
-Tra mille verdi herbette e mille vaghi e leggiadretti fiori 3
-
-" " S' . . .
-altra fiamma giamai m'arse, madonna, il core 4
-
-" D,! zinc"... ° "HCl-°". di gratlssxmi odor ulla ripiena 5
-" S aVVlen che reticella
-
-" " Donna . b ]. - aurea circonde le trecie vostre bionde - . 6
-" " Al , 1 egr OCChi vostrx rm fan guerra (Moscaglia) 7
-A 5 . miser huom non glov'an dar lontano 8
-
-. Di questa pietra amore tragg'invisibil foco 9
-
--179-
-
+A 3. Soavissimo canto, o pur t'oda una volta e poi mi stilli (Tasso) 1
+" " O rosignuol dolente, che i cari figli piagni 2
+" " Tra mille verdi herbette e mille vaghi e leggiadretti fiori 3
+" " S'altra fiamma giamai m'arse, madonna, il core 4
+A 4. Di giacinti e narcisi, di gratissimi odor villa ripiena 5
+" "  S'avvien che reticella aurea circonde le trecie vostre bionde 6
+" "  Donna, i begli occhi vostri mi fan guerra (Moscaglia) 7
+" "  Al miser huom non giov'andar lontano 8
+A 5. Di questa pietra amore tragg'invisibil foco 9
