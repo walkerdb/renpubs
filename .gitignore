@@ -5,3 +5,4 @@ text-detection-6d612dadff53.json
 __pycache__
 *aws.py
 .DS_Store
+/scratch/mc_output.csv
