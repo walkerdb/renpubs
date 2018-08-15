@@ -25,7 +25,7 @@ A 5. Sovra le verdi chiome di questo novo lauro udite (Tasso) 1
 " " Occhi, faci d'amore, specchi de la beltade 7
 " " Vita mia dolce e cara, com'esser può 8
 " " Quando mirai, crudele, quei vostri chiari lumi 9
-" " S'il mio grave tormento non ha potuto ancor movervi il core l0
+" " S'il mio grave tormento non ha potuto ancor movervi il core 10
 " " Se troppo fu l'ardire in trarne suco con l'immonde labbia 11
 " " Deh cara anima mia, ditemi in cortesia perchè se in carte 12
 " " Cor mio, se gli è pur vero che del mio mal, del mio langir 13
