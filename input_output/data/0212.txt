@@ -1,4 +1,10 @@
-329 - (De) BERCHEM Iachet (1555) - Il Primo Libro de gli Madrigali a quatro
+
+
+
+
+
+
+329 - BERCHEM Jachet de (1555) - Il Primo Libro de gli Madrigali a quatro
 voci, di Iachet Berchem, per lui composti novamente, et con ogni diligentia
 stampati. Venetiis, apud Hieronymum Scotum. 1555.
 
@@ -11,7 +17,7 @@ Io mi sento per voi nel gran martire (Cassola) 4
 Se la mia donna miro io trovo sempre " 5
 Nasce dal pensier mio tanta dolcezz'al core 6
 Chiunque'n petto d'amoroso 7
-801 d'una pensa e se 8
+Sol d'una pensa e se 8
 Glorioso pastore 9
 Occhi piangete e tu, rima dolente, hor cangia in versi (Cassola) 10
 Deh perchè così presto 11
@@ -30,12 +36,11 @@ Quando la sera scaccia (terza parte) " 22
 Non credo che pascesse (quarta parte) " 23
 Prima ch'i'torn'a voi (quinta parte) " 24
 Con lei foss'io (sesta parte) " 25
-Visto ho più volte in un soﬃar di vento (Cassola) 26
+Visto ho più volte in un soffiar di vento (Cassola) 26
 Quando fra l'altre donne ad hor ad hora (Petrarca) 27
-Alma diletta sposa, anzi del mio cor donna (Cassola) 23
-Non vidde il sol giamai (Valentini) Î?)
-
-Dolor, ch'hai fatto del mio pett'albergo, esci di fuor homai
+Alma diletta sposa, anzi del mio cor donna (Cassola) 28
+Non vidde il sol giamai (Valentini) 29
+Dolor, ch'hai fatto del mio pett'albergo, esci di fuor homai 30
 
 E-V: compl.
 GB-Lbm: C.T.B.
@@ -45,9 +50,9 @@ H-SY: B.
 
 
 
-330 - (De) BERCHEM Iachet (1556) - Di Iachet Berchem il Primo Libro dl
+330 - BERCHEM Jachet de (1556) - Di Iachet Berchem il Primo Libro di
 Madrigali a quattro voci, per lui composti nuovamente, et con ogni diligentia da
-Antonio Gardano stampati, et dati in luce. A quattro voci. In Venetia apresso !
+Antonio Gardano stampati, et dati in luce. A quattro voci. In Venetia apresso di
 Antonio Gardano, 1556.
 
 4 fasc. in 8° (C.A.T.B.), pag. 30. Indice = 1555.
@@ -56,4 +61,3 @@ I-Bc: compl.
 I-VEaf: compl.
 A-Wn: compl.
 D-Mbs: compl.
-

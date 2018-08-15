@@ -79609,7 +79609,7 @@
         "page": 44,
         "part": 1,
         "poet": "",
-        "title": "Zeﬃro mio gentil, che per le selve vai. 4 voci e 2 Violini",
+        "title": "Zeffiro mio gentil, che per le selve vai. 4 voci e 2 Violini",
         "voices": 6
       },
       {
@@ -87213,6 +87213,891 @@
       }
     ],
     "year": "1561"
+  },
+  {
+    "composers": [
+      [
+        "Jachet de Berchem"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Andrea Marzato",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "329"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "E-V"
+      },
+      {
+        "parts": "C.T.B.",
+        "siglum": "GB-Lbm"
+      },
+      {
+        "parts": "B.",
+        "siglum": "H-SY"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 30,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Girolamo Scotto",
+          "original": "Hieronymum Scotum"
+        }
+      ]
+    },
+    "title": "Il Primo Libro de gli Madrigali a quatro voci, di Iachet Berchem, per lui composti novamente, et con ogni diligentia stampati. Venetiis, apud Hieronymum Scotum. 1555.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Jachet de Berchem",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Cogliete de le spine homai le rose, donna, che'l ben mortale",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 2,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Io non saprei mai dir perchè mi doglia del foco",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Voi pur udite",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 4,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Io mi sento per voi nel gran martire",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Se la mia donna miro io trovo sempre",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Nasce dal pensier mio tanta dolcezz'al core",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Chiunque'n petto d'amoroso",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Sol d'una pensa e se",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Glorioso pastore",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 10,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Occhi piangete e tu, rima dolente, hor cangia in versi",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Deh perchè così presto",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 12,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Hor vedi, amor, che giovenetta donna",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Al più cocente raggio",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Sì vario'l mio pensiero",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Non muto qualità s'io",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, se voi volete io voglio anch'io",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 17,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Vago augelletto, che cantando vai",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Giovene donna sott'un verde lauro",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "O dolci sguardi, o parolette accorte",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 20,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Ben mille volte al ciel questi occhi giro",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 21,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "A qualunque animal alberga in terra. Sestina",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 21,
+        "part": 2,
+        "poet": "Petrarca",
+        "title": "Et io da che comincia",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 22,
+        "part": 3,
+        "poet": "Petrarca",
+        "title": "Quando la sera scaccia",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 23,
+        "part": 4,
+        "poet": "Petrarca",
+        "title": "Non credo che pascesse",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 24,
+        "part": 5,
+        "poet": "Petrarca",
+        "title": "Prima ch'i'torn'a voi",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 25,
+        "part": 6,
+        "poet": "Petrarca",
+        "title": "Con lei foss'io",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 26,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Visto ho più volte in un soffiar di vento",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 27,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Quando fra l'altre donne ad hor ad hora",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 28,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Alma diletta sposa, anzi del mio cor donna",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 29,
+        "part": 1,
+        "poet": "Valentini",
+        "title": "Non vidde il sol giamai",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Dolor, ch'hai fatto del mio pett'albergo, esci di fuor homai",
+        "voices": 4
+      }
+    ],
+    "year": "1555"
+  },
+  {
+    "composers": [
+      [
+        "Jachet de Berchem"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "330"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "I-VEaf"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "A-Wn"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "D-Mbs"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 30,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Antonio Gardano",
+          "original": "Antonio Gardano"
+        }
+      ]
+    },
+    "title": "Di Iachet Berchem il Primo Libro di Madrigali a quattro voci, per lui composti nuovamente, et con ogni diligentia da Antonio Gardano stampati, et dati in luce. A quattro voci. In Venetia apresso di Antonio Gardano, 1556.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Jachet de Berchem",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Cogliete de le spine homai le rose, donna, che'l ben mortale",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 2,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Io non saprei mai dir perchè mi doglia del foco",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Voi pur udite",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 4,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Io mi sento per voi nel gran martire",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Se la mia donna miro io trovo sempre",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Nasce dal pensier mio tanta dolcezz'al core",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Chiunque'n petto d'amoroso",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Sol d'una pensa e se",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Glorioso pastore",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 10,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Occhi piangete e tu, rima dolente, hor cangia in versi",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Deh perchè così presto",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 12,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Hor vedi, amor, che giovenetta donna",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Al più cocente raggio",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Sì vario'l mio pensiero",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Non muto qualità s'io",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, se voi volete io voglio anch'io",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 17,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Vago augelletto, che cantando vai",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Giovene donna sott'un verde lauro",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "O dolci sguardi, o parolette accorte",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 20,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Ben mille volte al ciel questi occhi giro",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 21,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "A qualunque animal alberga in terra. Sestina",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 21,
+        "part": 2,
+        "poet": "Petrarca",
+        "title": "Et io da che comincia",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 22,
+        "part": 3,
+        "poet": "Petrarca",
+        "title": "Quando la sera scaccia",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 23,
+        "part": 4,
+        "poet": "Petrarca",
+        "title": "Non credo che pascesse",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 24,
+        "part": 5,
+        "poet": "Petrarca",
+        "title": "Prima ch'i'torn'a voi",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 25,
+        "part": 6,
+        "poet": "Petrarca",
+        "title": "Con lei foss'io",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 26,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Visto ho più volte in un soffiar di vento",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 27,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Quando fra l'altre donne ad hor ad hora",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 28,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Alma diletta sposa, anzi del mio cor donna",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 29,
+        "part": 1,
+        "poet": "Valentini",
+        "title": "Non vidde il sol giamai",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Dolor, ch'hai fatto del mio pett'albergo, esci di fuor homai",
+        "voices": 4
+      }
+    ],
+    "year": "1556"
+  },
+  {
+    "composers": [
+      [
+        "Jachet de Berchem"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Giovanni",
+      "dedicator": "",
+      "location": "",
+      "text": "si conoscano esser di Giachetto de Berchem suo amorevole domestico e non d'altri che so hoggidì al mondo non manchar de i Corvi che si vestono bene spesso la piuma del Cygno... \"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "332"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "B-Br"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "D-W"
+      },
+      {
+        "parts": "C.A.T.B.",
+        "siglum": "D-Rp"
+      },
+      {
+        "parts": "A.T.5. (T. solo pag. 6-29).",
+        "siglum": "I-Bc"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": true,
+      "pages": "",
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Antonio Gardano",
+          "original": "Antonio Gardano"
+        }
+      ]
+    },
+    "title": "Giachet Berchem. Madrigali a cinque voci di Giachetto de Berchem novamente da lui composti et posti in luce. Libro Primo a cinque voci. In Venetia apresso di Antonio Gardano. 1546.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Jachet de Berchem",
+        "page": 1,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Voi ch'ascoltate in rime sparse il suono",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Qual mort'è strana più della mia morte",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Come del gran pianeta al raggio vivo",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 4,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Foggito è'l sonno alle mie crude notti",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Ma non mel tolse la paura o'l gielo",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Così ti donn'il ciel dorato seggio",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Deh com'è spenta vostra vertù",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 8,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Quel rossignol, che sì soave piagne",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Poichè tante nemiche, empie contese",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Crudel, tu pur me vedi et pur m'ascolti",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Perchè non sono i vostri alti desiri, donna",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Hor cruda, hor pia, Lilla me vi mostrate",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 14,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Questi, ch'inditio fan del mio tormento",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 15,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Sì è debile il filo a cui s'atene",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, che veramente bella sia, cercar de sempre",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Hor mi scacci, hor mi chiami, hor segui, hor fuggi",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "O felici occhi miei, quanto fusti beati all'hor",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "L'infinita beltà, che Dio ne pose in voi",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 20,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Come havrà vita, amor, la vita mia, se chi mi può",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "L'alto mio amor è'l proprio paradiso",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Scende da bei vostri occhi, alma mia diva",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Con pura bianca neve mi percoteste",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Deh cara la mia vita, dolce conforto all'alma",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Hor date orecchie, donne, tutte quante et imparate",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Quei bei pensier, ond'io lieto movea",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 27,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Min non vo più cantar com'io solea",
+        "voices": 5
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "D'un alto fuoco alma favilla chiara",
+        "voices": 5
+      }
+    ],
+    "year": "1546"
   },
   {
     "composers": [
