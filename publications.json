@@ -8696,7 +8696,7 @@
         "page": 6,
         "part": 1,
         "poet": "",
-        "title": "Luci serenc, amorosett'e belle, luci leggiadre e care",
+        "title": "Luci serene, amorosett'e belle, luci leggiadre e care",
         "voices": 4
       },
       {
@@ -83104,6 +83104,4115 @@
       }
     ],
     "year": "1584"
+  },
+  {
+    "composers": [
+      [
+        "Girolamo Belli"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Duca di Mantova",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "Havendo io ristampati i mici furti che già à gli anni passati dedicati a VA... torno di nuovo a farle di loro humile offerta... perchè di già mi trovo esser ancho reo, d'un altro furto, appresso di lei, per esser secondo lo stile ch'hò tenuto con gli altri compositori, da musica, valso di più bellissimi passi, delle rare compositioni, di V.A... Venetia, 1° VII 1587 \"."
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "313"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "I-FEc"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "D-Kl"
+      },
+      {
+        "parts": "C.A.T.5.6. (prov. Heyer).",
+        "siglum": "US-Wc"
+      },
+      {
+        "parts": "A.T.B.5.",
+        "siglum": "I-MOe"
+      },
+      {
+        "parts": "",
+        "siglum": "D-KNu. G.B."
+      },
+      {
+        "parts": "C.",
+        "siglum": "GB-Lbm"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 30,
+      "partbook_count": 6,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Giacomo Vincenti",
+          "original": "Giacomo Vincenzi"
+        }
+      ]
+    },
+    "title": "I Furti amorosi a sei voci. Di Girolamo Belli d'Argenta con nova gionta ristampati, et coretti. Con privilegio. In Venetia, presso Giacomo Vincenzi. 1587.",
+    "voices": [
+      6
+    ],
+    "works": [
+      {
+        "composer": "Girolamo Belli",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Levata era a filar la vecchiarella quando mia speme",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Qual sia rimedio? che far mi deggio? S'io miro ho male",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Qual presso a lucid'onde il bianco e dolce cigno",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Dolci labra amorose, partir vorci ogn'hor, ogni momento",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Vivo sol di speranza rimembrando, bianca mi'Aurora, quan dicest'hormai",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Leggiadra Bianca ninfa, il pastor buono lieto diceva",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Non è ch'il duol mi scema, o'l foco allenti poi che m'invita",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 8,
+        "part": 1,
+        "poet": "ahi misero mio stato",
+        "title": "Questa crudele e dura, tu'l scerni amore",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Vid'io la bella in leggiadretta gonna succinta e scalza",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Fera gentil, che con leggiadro modo mi sforza a seguitar",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Una bianca cervetta, il cui bel collo intorno monil d'oro",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Lasso, perchè mi fuggi? Cara la vita mia, s'hai pur desio",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Apriva il sen, di gran dolcezza pieno, Clori vaga e gentile",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Nel dilettoso prato, ove la donna mia sovente siede",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Si ingiust'è quell'ardore, che mi consuma il core",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "All'apparir della mia bella Clori, herbosi prati",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Se dentr'al petto cresce ogn'hor via più il desio",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Voi polita e leggiadra, verde piaggia. al cui bel seno",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Chi'l crederia, sognando, quanto sia duro imparo",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, perchè non fai che cessin tanti guai",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "La mia leggiadra stella spesso in parte del ciel",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 22,
+        "part": 2,
+        "poet": "",
+        "title": "Cupido hor su che fai?",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Mentre tutta vezzosa Clori aspetta per dar speme d'aita",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Standom'un giorno solo alla finestra dal Po",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "All'hor che Filomena col garrulo cantar si lagna e trista",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Pel continuo timor che la mia spene alcun mi levi",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Quando tal'hora i pargoletti amori guidan la madre",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "M'arde la verde fera, miracolo d'amore, et con profonda",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Flora, di vaghi fiori il crine adorno, con zefiro soave",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Dolce mio ben, amor mio caro, dunque languend'in van",
+        "voices": 6
+      }
+    ],
+    "year": "1587"
+  },
+  {
+    "composers": [
+      [
+        "Girolamo Belli"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Monsignor Pietro Aldobrandini",
+      "dedicator": "Nostro Signore",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "314"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "F-Pn"
+      },
+      {
+        "parts": "C.A.6.",
+        "siglum": "I-MOe"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 6,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Girolamo Belli d'Argenta. Il Terzo Libro de Madrigali a sei voci. In Venetia, appresso Ricciardo Amadino. 1593.",
+    "voices": [
+      6
+    ],
+    "works": [
+      {
+        "composer": "Girolamo Belli",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Tant'è'l piacer ch'io sento di piacerv'almen morto",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Va, va, cruda Licori, che tu sei senza fede",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Lasci l'antico nido l'unico angel",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Non è ver che la morte possi privar",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Clori, se la stagion dolce t'invita",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 6,
+        "part": 2,
+        "poet": "",
+        "title": "Odi quel augeletto",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Tirsi della sua vaga e amata Clori",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 8,
+        "part": 2,
+        "poet": "",
+        "title": "Per lei rispose amore",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "S'un bacio vostro solo pria che l'alma",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "No ch'io non vuò partire per darti",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Clori, se vuoi ch'io mora e breve",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Dimmi, cor mio, s'io t'amo et per te vivo e moro",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "La vezzosetta Ersilia, quando tal'hor mi mira",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Odio et amo infelice, ch'uniti ho nel mio core",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 15,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Là ver l'aurora, che sì dolce l'aura",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Quel dolcissimo bacio, che pietosa porgeste",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 17,
+        "part": 2,
+        "poet": "",
+        "title": "E s'indi vuoi, cor mio",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "L'alma era per partire tra mille gioie",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 19,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Ah dolente partita, ah fin della mia vita",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Ardo per voi, mia vita, ma sì grave",
+        "voices": 6
+      },
+      {
+        "composer": "Girolamo Belli",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Chiaro sol, che rotando esci dal Gange",
+        "voices": 6
+      }
+    ],
+    "year": "1593"
+  },
+  {
+    "composers": [
+      [
+        "Giulio Belli"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Arias",
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "315"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "F-Pc"
+      },
+      {
+        "parts": "T.B.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "T.B.",
+        "siglum": "PL-GD"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": "",
+      "partbook_count": "",
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Angelo Gardano",
+          "original": "Angelo Gardano"
+        }
+      ]
+    },
+    "title": "Canzonette di Giulio Belli da Longiano Libro Primo a quattro voci, novamente poste in luce. In Venetia appresso Angelo Gardano 1584. 4 fasc. in 8° (C.A.T.B.), pag. 21,(1). Ded. al Conte Aniballe Bonmercati: \"Vostra Signoria Illustre quando senti queste mie Canzonette mostrò così di gradirle... consigliato hora, anzi sforzato dalli Amici a darle alle stampe... Venetia, 16 VII 1584 \". Sonetto di Antonio Maria Pugnetti.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Giulio Belli",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 4
+      }
+    ],
+    "year": "1584"
+  },
+  {
+    "composers": [
+      [
+        "Giulio Belli"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "316"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "I-FOc"
+      },
+      {
+        "parts": "T.",
+        "siglum": "NL-AT"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Milan",
+      "printers": [
+        {
+          "modern": "Simon Tini",
+          "original": "Simon Tini"
+        }
+      ]
+    },
+    "title": "Canzonette di Giulio Belli da Longiano. Libro Primo. A quattro voci. Novamente reviste, et ristampate. In Milano, appresso Francesco, et gli heredi di Simon Tini. 1586.",
+    "voices": [
+      4
+    ],
+    "works": [],
+    "year": "1586"
+  },
+  {
+    "composers": [
+      [
+        "Giulio Belli"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "317"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "D-Kl"
+      },
+      {
+        "parts": "T.B. (prov. Grimma).",
+        "siglum": "D-Dl"
+      },
+      {
+        "parts": "A.",
+        "siglum": "I-FOc"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 23,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Angelo Gardano",
+          "original": "Angelo Gardano"
+        }
+      ]
+    },
+    "title": "Canzonette di Giulio Belli da Longiano Libro Primo a quattro voci, novamente ristampate, et aggiontovi due Canzonette nove. In Venetia appresso Angelo Gardano. 1595.",
+    "voices": [
+      2,
+      4
+    ],
+    "works": [
+      {
+        "composer": "Giulio Belli",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, solo l'altr'hier scherzand'intorno della mia Filli al viso",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Folti boschetti, amene piaggie e campi, che con suoi dolci canti",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Questi begl'occhi tuoi, gentil mia Clori",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Cor mio, se per dolore morir potesse appassionato core",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Genevra mia, queste tue trecce d'oro et quegl'occhi di sole",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Pianse misero un tempo in fiamm'il core, hor va lieto",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Sogno felice e caro, che di novo tornar non fosti avaro",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Herbette fresch'e belle, che come vaghe stelle",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Dui occhi belli e vaghi, d'ogni mio mal presaghi",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Madonna, a gl'occhi miei sei tanto bella, che sola tu",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Fiorite valli amene, d'ogni dolcezza piene",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Con questa bella mano tu ti nascond'in vano ssa bella faccia",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Quando vi veggo, dolce anima mia, provo nel contemplarv'un tal gioir",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Li mostri e li serpenti occidono le genti, ma tu",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Sono le bionde treccie, che m'hann'ahimè legato",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Dormendo m'insognavo ch'entr'un vago giardin soletto entravo",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Care amorose e leggiadrette ninfe, che con l'aurate chiome",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 19,
+        "part": 1,
+        "poet": "M. Moro",
+        "title": "Felici amanti, hor convertite il pianto in festa, in riso",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Ancora che tu m'odij, anima mia, converrà che tuo sia",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Quanto più miro la tua gran bellezza, ch'hoggi nel mondo ogn'altra bella",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Quante son stelle in ciel, o in mar arene, tante son le mie pene",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Ohimè, crudel amore fece salirmi in alto non per dar pace",
+        "voices": 2
+      }
+    ],
+    "year": "1595"
+  },
+  {
+    "composers": [
+      [
+        "Giulio Belli"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Conte Bonifacio Bevilacqua",
+      "dedicator": "",
+      "location": {
+        "modern": "Ferrara",
+        "original": "Ferrara"
+      },
+      "text": "Sino dal primo'giorno, ch'io venni quà, per farvi stanza sì come per debito havevo di già consecrato me stesso à V.S.... la terza volta mando fuori questa opera mia sotto il suo glorioso nome... quasi tutte queste Canzonette sono state composte da me ad instanza di lei... ella più volte s'è degnata sentirle, et anco tall'hora cantarle... la s:a casa vero refugio, et Asilo de i virtuosi... Ferrara, 22 II 1593"
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "318"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "D-Rp"
+      },
+      {
+        "parts": "B.",
+        "siglum": "I-Bc"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Il Secondo Libro delle Canzonette a quatro voci di Giulio Belli da Longiano con alcune Romane a tre voci, novamente composte et datte (sic) in luce. In Venetia appresso Ricciardo Amadino, 1593.",
+    "voices": [
+      3,
+      4
+    ],
+    "works": [
+      {
+        "composer": "Giulio Belli",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Arsi nè de lo'ngrato ardor lasso cavai altro fruto già mai",
+        "voices": 3
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "O ch'infelice stato è d'uno inamorato",
+        "voices": 3
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Quante bellezze ha il cielo, qual'hor di stelle imperla",
+        "voices": 3
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Belle braccia di neve, ond'esce il foco",
+        "voices": 3
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Bocca di fresche rose, ch'ascondi fra bei fior",
+        "voices": 3
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Poi che in tutto tu m'hai privo di quei begli occhi",
+        "voices": 3
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Empia, cha far pensasti quando pietà negasti",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Dunque può novo sdegno, cara mia Filli",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Dunque può novo sdegno, cara mia Filli",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Odi, donna crudele, ch'il cor per gli occhi miei ferito miri",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Ben tu dei miei martir pietosa un tempo",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Mentre io partir voleva, mesta piangendo la mia vaga Aurora",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Chi vuol veder beltate, vaghezza e leggiadria",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Dimmi qual sia ver me, cortese amore, de la mia donna",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Già l'alba appare e m'è forza il partire da voi",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Da questa bella man nasce il soave ardore",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "I' amo, i' ardo, i' moro, nè il bel idolo mio",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Regina mia... eccoti questa spada",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Se di tanti miei guai satia non sete mai",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "O crudel, ch'intender nieghi le mie pene et i sospiri. Aria",
+        "voices": 4
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Empio volto e insidioso, ch'hai nel mel l'amaro ascoso. Aria",
+        "voices": 4
+      }
+    ],
+    "year": "1593"
+  },
+  {
+    "composers": [
+      [
+        "Giulio Belli"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Baldassarre Ferraldi",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "319"
+    },
+    "library_locations": [
+      {
+        "parts": "5.",
+        "siglum": "GB-Lbm"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 21,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Angelo Gardano",
+          "original": "Angelo Gardano"
+        }
+      ]
+    },
+    "title": "Il Primo Libro de Madrigali a cinque, et a sei voci. Di Giulio Belli da Longiano. Novamente composto, et dato in luce. In Venetia appresso Angelo Gardano. 1589.",
+    "voices": [
+      5,
+      6
+    ],
+    "works": [
+      {
+        "composer": "Giulio Belli",
+        "page": 1,
+        "part": 1,
+        "poet": "Tasso",
+        "title": "Sovra le verdi chiome di questo novo lauro udite",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": -1,
+        "part": 2,
+        "poet": "",
+        "title": "Et altri vezzosetti cantano quivi",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Al suon di questi naccari, col crin cinto di baccari",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Non è cor duro tanto, che non si spetri al vostro dolce canto",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, se quel ohimè tanto vi piace qual hor lieta cantate",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Parmi vederti fuggere, ahi che mi sento struggere",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi, faci d'amore, specchi de la beltade",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Vita mia dolce e cara, com'esser può",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Quando mirai, crudele, quei vostri chiari lumi",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "S'il mio grave tormento non ha potuto ancor movervi il core l",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Se troppo fu l'ardire in trarne suco con l'immonde labbia",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Deh cara anima mia, ditemi in cortesia perchè se in carte",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Cor mio, se gli è pur vero che del mio mal, del mio langir",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Avventurose spoglie, onde'l foco d'amor forza riceve",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Se m'accendesti, amore, al vivo foco de bei raggi ardenti",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Alme divin'e belle, per sempre sia felice l'Himeneo",
+        "voices": 6
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Morirò, cor mio, poi che n'hai gran desio",
+        "voices": 6
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Con che stral",
+        "voices": 6
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 19,
+        "part": 2,
+        "poet": "",
+        "title": "Et il dardo, l'incendio et la catena",
+        "voices": 6
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Nel petto porti, donna, lo mio core",
+        "voices": 6
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Ch'io te lasci, o mio sol, ch'io te non ami com'esser può?",
+        "voices": 6
+      }
+    ],
+    "year": "1585"
+  },
+  {
+    "composers": [
+      [
+        "Giulio Belli"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Conte Bonifacio Bevilacqua",
+      "dedicator": "",
+      "location": {
+        "modern": "Ferrara",
+        "original": "Ferrara"
+      },
+      "text": "Quando io dedicai alli giorni passati i miei Vesperi à Cinque Voci à V.S. Illustrissima... dovendo io dare alle Stampe il Secondo Libro de i miei Madrigali à Cinque, et à Sei Voci, quasi tutti fatti à sua instanza sovra le sue vaghissime compositioni... Ferrara, 5 IX 1592\"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "320"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "GB-Lbm"
+      },
+      {
+        "parts": "C.A.T.B.5.",
+        "siglum": "I-MOe"
+      },
+      {
+        "parts": "A.T.B.5.6.",
+        "siglum": "I-Bc"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 6,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Di Giulio Belli da Longiano. Il Secondo Libro de Madrigali a cinque et a sei voci, novamente composti, et datti in luce. In Venetia appresso Ricciardo Amadino. 1592.",
+    "voices": [
+      5,
+      6
+    ],
+    "works": [
+      {
+        "composer": "Giulio Belli",
+        "page": 1,
+        "part": 1,
+        "poet": "Bevilacqua",
+        "title": "Picciol premio al mio amore del mio tormento non spense",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Se diletto prendete, donna crudel, mirando",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 3,
+        "part": 1,
+        "poet": "Rinaldi",
+        "title": "Udite, amanti, udite strana e mirabil sorte",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 4,
+        "part": 1,
+        "poet": "Bevilacqua",
+        "title": "Se viver non posso io ben senza baciarvi",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Dolente anima mia, che potessi partire e non morire",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Il duol, che ingombra la mia stanca vita",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Sospirò la mia donna dolcemente, ma fu fredd'il sospiro",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 8,
+        "part": 2,
+        "poet": "",
+        "title": "Ah che velocemente volò",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Non temete, cor mio, deh non temete ch'io voglia",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Caro mi fia'l morire, donna crudel, poi che",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Ai miei lamenti piangere vidi le selce",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Se perchè cruda sete et in me fulminate",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 13,
+        "part": 2,
+        "poet": "",
+        "title": "Voi mi feristi il core",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Se fu lo sdegno ingiusto, ragion vuol ben ch'il cor",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Ha Laura il crin dorato e son le guancie sue",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Perchè v'allontanate, cor mio? Non v'accorgete",
+        "voices": 5
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Invitto Alfonso, tra i più chiari fregi. Al Duca di Ferrara",
+        "voices": 6
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 18,
+        "part": 2,
+        "poet": "",
+        "title": "Suona quinci tua fama",
+        "voices": 6
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Dolci sospiri, che tal'hora uscite dal petto di colei",
+        "voices": 6
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Sui vaghi fiori tra vermigli e bianchi",
+        "voices": 6
+      },
+      {
+        "composer": "Giulio Belli",
+        "page": 21,
+        "part": 2,
+        "poet": "",
+        "title": "Vidi il biondo mio sole",
+        "voices": 6
+      }
+    ],
+    "year": "1592"
+  },
+  {
+    "composers": [
+      [
+        "Giovanmaria Benassai"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "D. Angelus de Oddis",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Arias"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "321"
+    },
+    "library_locations": [
+      {
+        "parts": "C",
+        "siglum": "F-Pc"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 32,
+      "partbook_count": 3,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Perugia",
+      "printers": [
+        {
+          "modern": "Pietroiacomo Petrucci",
+          "original": "Pietroiacomo Petrucci"
+        }
+      ]
+    },
+    "title": "Il Primo Libro delle Napolitane spirituali, a tre voce. Di Giovanmaria Benassai da Foligno. Con licentia delli Superiori.  In Perugia, appresso Pietroiacomo Petrucci, 1577.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Se scior si vedrà'l laccio, che mi strinse quel giorn'ahimè",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Chi sopra ogn'altra cosa",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Lasso che debbo far qual'hor",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Io per me stesso son qual legno",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "S'io t'amo e s'io t'adoro e se per te crudel languisco",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Sol mi fai guerra e per te sol",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Chi vuol, signor, sentir tanta dolcezza",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Mi fa morir di doglia il crudo e rio",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Mi ridi, burl'e cianci e faimi festa",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Colmo son io di colpe e di sospir",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Io ne vo caminar per altre strade",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Tu sola poi frenar gl'affanni miei",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Deh fammi far, Maria, tanto favore",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Da poi che tu, crudel, mi desti morte",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Quando il nemico vide la figura",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Con alta voce incominciò a gridare",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Vientene, traditor, anima fella",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Resolvemi, signor, che debbo fare",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Segui, alma, pur quest'honorat'impresa",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Seguirò donque con ardita voglia",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Sol per mirar i santi tuoi vestigi",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Ingrata l'alma mia a tutte l'hore",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Oprar divino e santi almi",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Mia volontate o fallo iniquo e rio",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Se sol ver te sento rapirmi il cuore",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Se sol pensasse, Vergin, al mio fallo",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Fuggite pur quanto fuggir sapete",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Io mi parto da te, dolce Signore",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Già freddo ghiaccio mi scaldava",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Canto per amarassima dolcezza",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "Tenor al mio non è simil di rime",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanmaria Benassai",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "Basso mi fa timor, desio mi pone",
+        "voices": 3
+      }
+    ],
+    "year": "1577"
+  },
+  {
+    "composers": [
+      [
+        "Pietro Benedetti"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Conte Cosimo Della Gherardesca",
+      "dedicator": "",
+      "location": {
+        "modern": "Florence",
+        "original": "Firenze"
+      },
+      "text": ""
+    },
+    "genres": [
+      "Musiche"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "322"
+    },
+    "library_locations": [
+      {
+        "parts": "",
+        "siglum": "PL-WRu"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 29,
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Florence",
+      "printers": [
+        {
+          "modern": "Cristofano Marescotti",
+          "original": "Cristofano Marescotti"
+        }
+      ]
+    },
+    "title": "Musiche di Piero Benedetti nell'Accademia degli Elevati di Fiorenza detto L'Invaghito. In Fiorenza appresso gl'heredi di Cristofano Marescotti con licenzia de SS. Superiori. 1611.",
+    "voices": [],
+    "works": [
+      {
+        "composer": "Pietro Benedetti",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "La mia leggiadra Filli, col pianto in perle accolto",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Questa, del mar d'amor, bella sirena amoroso nocchier. A Margherita Bicci",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Luci serene, di gioia piene, luci più belle dell'aure stelle",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Io mi parto, cor mio, io ti lascio, mia vita",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 6,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Perfidissimo volto, ben l'usata bellezza in te si vede",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Cara dolce mia speme, oggi pur m'abbandoni",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 8,
+        "part": 1,
+        "poet": "Isabella Andreini",
+        "title": "Deh girate, luci amate, pietosetto quel bel guardo",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 9,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Vol pur da me partite, anima mia, nè vi duol il partire",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Tu piangevi, mio core, ahi lasso, et io",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Dite che v'ho fatt'io, dolcissimi miei lumi 12",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Io mi sento morir quando non miro colei ch'è la mia vita",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 15,
+        "part": 1,
+        "poet": "Chiabrera",
+        "title": "Damigella tutta bella, versa, versa quel bel vino",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Luci serene, a dio, fiamme del cor, saette ardenti",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 18,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Ardo sì, ma non t'amo, perfid'e dispietata",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 19,
+        "part": 1,
+        "poet": "Chiabrera",
+        "title": "Lunga stagion io spesi in traher guai",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Chi nudrisce tua speme, cor mio, chi fiamm'accresce",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Ben di sguardi tal'hor mi si fà dono",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Mirate, in sul mattin candida splende lucidissima stella",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Non so chi mi saetti, o punga il core, non so chi mi fà",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 25,
+        "part": 2,
+        "poet": "",
+        "title": "Ben miro gl'occhi tuoi, fiamme del core",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 26,
+        "part": 1,
+        "poet": "Rinuccini",
+        "title": "Bel pastor, dal cui bel guardo spira foco. Dialogo di Ninfa e Pastore del Signor Marco da Gagliano Maestro della Cappella del Gran Duca di Toscana",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Torna, deh torna, pargoletto mio, torna che senza te. Del Signor Iacopo Peri",
+        "voices": ""
+      }
+    ],
+    "year": "1611"
+  },
+  {
+    "composers": [
+      [
+        "Pietro Benedetti"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Nicolo Doni",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "...queste mie Arie... Venetia, 8 VI 1613 \"."
+    },
+    "genres": [
+      "Musiche"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "323"
+    },
+    "library_locations": [
+      {
+        "parts": "",
+        "siglum": "F-Pc"
+      },
+      {
+        "parts": "",
+        "siglum": "GB-Lcm"
+      },
+      {
+        "parts": "",
+        "siglum": "PL-WRu"
+      },
+      {
+        "parts": "",
+        "siglum": "US-Wc"
+      },
+      {
+        "parts": "1613-11 (non compl.).",
+        "siglum": "RISM"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 29,
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Musiche di Pietro Benedetti nell'Accademia de gli Elevati di Fiorenza. Detto L'Invaghito. Libro Secondo. Novamente poste in luce. In Venetia, 1613. Appresso Ricciardo Amadino.",
+    "voices": [],
+    "works": [
+      {
+        "composer": "Pietro Benedetti",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "S'io per te vivo e moro Filli tu sol il sai",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Ch'io non senta per voi torment'e guai. Aria per Ottave",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 3,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Cor mio, deh non piangete ch'altro mal io non provo",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Splendete serene, o luci che sete mio sole e mio bene",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 5,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "O dolc'anima mia, dunque è pur vero che cangiando pensiero",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 6,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Mori, mi dici, e mentre con quel guardo crudel",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 7,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Fuggi, fuggi, o mio core. Non vedi la man bella",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "O miei vedovi lumi, e come consolar potret'il core",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 9,
+        "part": 1,
+        "poet": "Tasso",
+        "title": "Giunt'alla tomba, ov'al suo spirto vivo. Aria per Ottave",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Filli mia, Filli dolce, al tuo ritorno gioisce il ciel. A Ferdinando Martelli",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco l'alba, ecco risplende Febo in ciel",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 12,
+        "part": 1,
+        "poet": "Sannazzaro",
+        "title": "Interdette speranze e van desio, pensier fallace",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 13,
+        "part": 2,
+        "poet": "Sannazzaro",
+        "title": "E s'al mio mal non val forza d'oblio",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 14,
+        "part": 3,
+        "poet": "Sannazzaro",
+        "title": "Usin le stelle e'l ciel tutte lor prove",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Getta pur l'arco, amor, gli strali e'l foco, drizz'il tuo ingegno",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "O dell'anima mia parte più cara, dunque mi lasci",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Mirar le fresche rose, crudel, voi mi negate",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Vermigli e bianchi fiori colsero in sen di latte",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Se voi sete il mio core, temprate, anima mia",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "O cortese saluto, o grat'incontro, o del mio gran penar",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 20,
+        "part": 1,
+        "poet": "Rinuccini",
+        "title": "Intenerite voi, lagrime mie, intenerite voi quel duro core",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Non più d'amore, non più d'ardore, non più di fiamme io canto",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco solinga e delle selve amica, ch'alle note d'altrui. Di Marco da Gagliano, Maestro di Capella del Gran Duca di Toscana",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 25,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "La bella man vi stringo e voi le ciglia per dolor stringete",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi, se fosti pronti a riguardare quella che v'arde",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 27,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "I' vo piangendo i miei passati tempi. Sonetto spirituale",
+        "voices": ""
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Vergine bella, che di sol vestita, coronata di stelle",
+        "voices": ""
+      }
+    ],
+    "year": "1613"
+  },
+  {
+    "composers": [
+      [
+        "Pietro Benedetti"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Alessandro Covoni",
+      "dedicator": "",
+      "location": {
+        "modern": "Florence",
+        "original": "Firenze"
+      },
+      "text": "L'adunanza di tanti canori cigni, che nella sua Camerata (quasi nuovo Meandro) di continuo empie, non solo le contrade vicine, ma tutta la Città di sopra naturale armonia... Firenze, 16 IX 1617 \"."
+    },
+    "genres": [
+      "Musiche"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "324"
+    },
+    "library_locations": [
+      {
+        "parts": "",
+        "siglum": "F-Pc (prov. Borghese)."
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 46,
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Florence",
+      "printers": [
+        {
+          "modern": "Zanobi Pignoni",
+          "original": "Zanobi Pignoni"
+        }
+      ]
+    },
+    "title": "Musiche di Pietro Benedetti a una, e dua voci con alcune spirituali nel fine. Libro Quarto. In Firenze, nella stamperia di Zanobi Pignoni. 1617.",
+    "voices": [],
+    "works": [
+      {
+        "composer": "Pietro Benedetti",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Lascio del letto mio l'umide piume",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "La mia donna lusinghiera ben ch'io",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 4,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "In qual parte del cel, in quale idea",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 6,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Io vid'in terra angelici costumi",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Bella chioma d'or pomposa, che di raggi",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Crudel, tu vuoi ch'io mora, ecco ch'io moro",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Folgorate, saettate, occhi pur, ch'io v'offro il core",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Movetevi a pietade, occhi lucenti. Parole dell'autore",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "Amorosa pargoletta, sdegnosetta. Parole dell'autore H",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Non sa qual doglia può rapir di vita un amante fedele",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "O luci belle, o luci chiare vivaci. Parole dell'autore",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 17,
+        "part": 1,
+        "poet": "Tasso",
+        "title": "Ho visto al pianto mio risponder per pietade",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "La mia bella pargoletta dolcemente. Parole dell'autore",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 19,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Crudel, perchè mi fuggi. s'hai della morte mia",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Filli, te bramo, te sola chiamo. Parole dell'autore",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Se lontana voi sete, anima del cor mio",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Deh mirate, luci ingrate, il dolor della partita",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 23,
+        "part": 1,
+        "poet": "Celiano",
+        "title": "Porta gl'occhi d'amor nel vago volto",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Hor conosco, crudel, che non m'amavi. Parole dell'autore",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "S'in me, donna, volgete le vostre luci",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Se sete la mia vita, chè non mi date aita. Parole dell'autore",
+        "voices": 2
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "Sento, Filli, sent'il core tutto fiamme. Parole dell'autore",
+        "voices": 2
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "Della mia Filli lagrimar vid'io i bei celesti. Parole dell'autore",
+        "voices": 2
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 34,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Era l'anima mia già press'all'ultim'hore",
+        "voices": 2
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 36,
+        "part": 1,
+        "poet": "",
+        "title": "Serenatevi, o stelle, o soli",
+        "voices": 2
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 37,
+        "part": 1,
+        "poet": "Rinuccini",
+        "title": "Anima, ohimè che pensi, ohimè che fai, a che pur",
+        "voices": 2
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 40,
+        "part": 1,
+        "poet": "",
+        "title": "Che fai cor mio? duro mio cor che pensi? Sonetto spirituale",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 42,
+        "part": 1,
+        "poet": "",
+        "title": "Verginella liet'e bella, che trionf'in. Arietta spirituale",
+        "voices": 1
+      },
+      {
+        "composer": "Pietro Benedetti",
+        "page": 43,
+        "part": 1,
+        "poet": "",
+        "title": "Salve del ciel regina, di pietà madr'e del mortal",
+        "voices": 2
+      }
+    ],
+    "year": "1617"
+  },
+  {
+    "composers": [
+      [
+        "di Nardò Benedetto Serafico"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Nicolò Bernardino Sanseverino Prencipe",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "...questo mio primo parto.... Napoli, ultimo d'aprile, 1575 \". A i Lettori il Serafico: \"Sono già da quattro anni benignissimi Lettori ch'io diedi questo medesimo libro di Madrigali a cinque voci a M. Oratio Salviani Romano libraro in Napoli, perch'egli li mandasse a stampare a Venetia. Poi havendomi detto il medesimo M. Oratio haverlo inviato a detto loco, et che si fusse smarrito, io mi posi di nuovo a copiarlo et darlo fuora, toltone però alcuni Madrigali che erano in quello, et aggiontone de gl'altri che dopò era venuto componendo. E Perche dubito, che qualch'uno non l'habbi occupato overo attribuito a se stesso, ho voluto di ciò avertirli... e chi a pieno vorrà di ciò certificarsi, potrà il tutto vedere in Napoli nella Curia di seggio di Nido per un'instrumento fatto per mano del egregio Notaro Coluccio Calanova ne l'anno 1571, nel dì diece, et nove di Maggio; et per un'altro nella Vicaria seritto il dì diece di Ottobre, ne l'anno 1573. per mano del Magnifico Terracciano Macstro de arti di detta Vicaria... \"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "325"
+    },
+    "library_locations": [
+      {
+        "parts": "C.A.T.5.",
+        "siglum": "I-MO"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 27,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "NO_PRINTER_KNOWN",
+          "original": "NO_PRINTER_KNOWN"
+        }
+      ]
+    },
+    "title": "Di F. Benedetto Serafico di Nardò de l'ordine di predicatori il Primo Libro delli Madrigali a cinque voci a lui composto corretto, e dato in luce. A cinque voci. in Venetia, appresso Giuseppe  Guglielmo, 1575.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Solo, senza mia luce, a lenti passi",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 2,
+        "part": 2,
+        "poet": "",
+        "title": "Langmsco in rimirar tuo sacr'albergo",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 3,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Vide lontano, o le parve vedere. Lamento d'Olimpia",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 4,
+        "part": 2,
+        "poet": "Ariosto",
+        "title": "E dove non potea la debil voce",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 5,
+        "part": 3,
+        "poet": "Ariosto",
+        "title": "Ma i venti che portavano le vele",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 6,
+        "part": 4,
+        "poet": "Ariosto",
+        "title": "Huomo non veggio qui",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 6,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Quest'è colui, che'l mondo chiam'amore",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Gioioso più d'ogn'altr'il grand'Ibero",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 9,
+        "part": 2,
+        "poet": "",
+        "title": "Felice nodo marital, che stringe",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 10,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "O voi che sospirate a miglior notti",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 11,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Deh perchè, Brandimarte, io ti lasciai. Lamento di Fiordeliggi",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 12,
+        "part": 2,
+        "poet": "Ariosto",
+        "title": "Se pur ad aiutarti i duri fati",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Sol'e pensoso d'un'in altra selva, fuggendo le città",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Non ved'hogg'il mio sole splender nel luoc'usato",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 15,
+        "part": 1,
+        "poet": "Sannazzaro",
+        "title": "O fere stelle, homai datemi pace e tu, fortuna",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 16,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "S'io credessi per morte essere scarco",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 17,
+        "part": 2,
+        "poet": "Petrarca",
+        "title": "Tempo ben for'homai d'havere",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "E questo il nido in che la mia Phenice",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 19,
+        "part": 2,
+        "poet": "",
+        "title": "E m'hai lasciato qui miser'e solo",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Libertà mi godea nel mio soav'esilio, hor prov'il",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Ancidetemi pur, gravi martiri, che'l viver mi fia noia",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Deh perché volli far più qui ritorno, perchè dal riso",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Quest'ingrata crudel, aspra tiranna gioisce del mio mal",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 22,
+        "part": 1,
+        "poet": "Sannazzaro",
+        "title": "Tempo fu ch'io cantai per pogg'e selve",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Perchè ten vai con alte vele al cielo, lieta d'haver",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Ohimè dov'è'l mio sole, che le tenebre mie",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Anima, dove sei, ch'ad hor'ad hora, di pensier in pensier",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Alto re, se la mia più verd'e calda vita t'offese",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 27,
+        "part": 2,
+        "poet": "",
+        "title": "Non membrar le mie colpe",
+        "voices": 5
+      }
+    ],
+    "year": "1575"
+  },
+  {
+    "composers": [
+      [
+        "di Nardò Benedetto Serafico"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Francesco Gran Duca di Toscana",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "326"
+    },
+    "library_locations": [
+      {
+        "parts": "5.",
+        "siglum": "I-Bc"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 24,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Girolamo Scotto",
+          "original": "Girolamo Scotto"
+        }
+      ]
+    },
+    "title": "Di Benedetto Seraphico di Nardò il Terzo Libro di Madrigali a cinque et a sei voci con un Dialogo a diece novamente posti in luce. In Vineggia appresso l'herede di Girolamo Scotto. 1581.",
+    "voices": [
+      5,
+      6
+    ],
+    "works": [
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 3,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Se'l dolce sguardo di costei m'ancide",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Se le due luci scorgo paion quelle",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Dolor ch'hai fatto del mio pett'albergo, esci di fuor homai",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "D'un bel crespo forbit'oro lucente",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 6,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Ma non apparira'l lume sì tosto a gl'occhi miei",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Strali son li pensieri e feri dardi",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 9,
+        "part": 1,
+        "poet": "Tasso",
+        "title": "Non è questa la mano, che tante e sì mortali avventò",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "A l'aureo crin della mia dolce Filli",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 11,
+        "part": 1,
+        "poet": "Tansillo",
+        "title": "O d'invidi'e d'amor figlia sì fiera",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": -1,
+        "part": 2,
+        "poet": "",
+        "title": "Fiera da te medesma disamata  \" i",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Poscia stretta d'amar, la man mi stringe",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 14,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Morte m'ha morto e sola può far morte",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "A che mi stratij e fuggi ingrat'amante",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 16,
+        "part": 2,
+        "poet": "",
+        "title": "E per maggior tormento",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "O celesti rubini, perle divine",
+        "voices": 5
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Perchè, Filli, mi chiami, poi t'ascondi",
+        "voices": 6
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 20,
+        "part": 2,
+        "poet": "",
+        "title": "Ried'e porgimi homai",
+        "voices": 6
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Così mi scherni e così tienm'ahi lasso",
+        "voices": 6
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Luci vivaci, alticri non mi siate",
+        "voices": 6
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Crespi crin d'oro a l'aria spars'intorno",
+        "voices": 6
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 23,
+        "part": 2,
+        "poet": "",
+        "title": "Voce divina, angelicli'e possente",
+        "voices": 6
+      },
+      {
+        "composer": "di Nardò Benedetto Serafico",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Dopo l'acerba e cruda dipartita. Dialogo",
+        "voices": 10
+      }
+    ],
+    "year": "1581"
+  },
+  {
+    "composers": [
+      [
+        "Angelo Berardi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Arias",
+      "Musiche"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "327"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "I-Rsc"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "I-Rsmt"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 24,
+      "partbook_count": 5,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Bologna",
+      "printers": [
+        {
+          "modern": "NO_PRINTER_KNOWN",
+          "original": "NO_PRINTER_KNOWN"
+        }
+      ]
+    },
+    "title": "Musiche diverse variamente concertate per camera a due, tre, e quattro voci del canonico D. Angelo Berardi. Dedicate all'illustrissìmo et reverendissimo monsignore Vincenzo De Gli Attia referendario di N.S. dell'una e l'altra signatura e governatore di Spoleti. Opera XIII. In Bologna, per Pietro Maria Monti. 1689. Con licenza de' Superiori. Si vendono da Marino Silvano, all'insegna del Violino, con privilegio.",
+    "voices": [
+      2,
+      3,
+      4,
+      13
+    ],
+    "works": [
+      {
+        "composer": "Angelo Berardi",
+        "page": 4,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Dice la mia bellissima Licori quando tal hor favello. A due canti",
+        "voices": 2
+      },
+      {
+        "composer": "Angelo Berardi",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "In amor che stravaganza mantener vive le pene... A due canti",
+        "voices": 2
+      },
+      {
+        "composer": "Angelo Berardi",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Sì, mi cor, t'intendo si. Tu vuoi dir. Canzonetta a 2, C. e B",
+        "voices": 2
+      },
+      {
+        "composer": "Angelo Berardi",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Per te, amor, le sfere girano. Canzonetta a 2, A. e B",
+        "voices": 2
+      },
+      {
+        "composer": "Angelo Berardi",
+        "page": 21,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Troppo ben può questo tiranno amore. Madrigale a 3, C.A.B",
+        "voices": 3
+      },
+      {
+        "composer": "Angelo Berardi",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Amanti, sentite, se vaga bellezza di sdegno s'accende. Canzonetta a 3, C.A.T",
+        "voices": 3
+      },
+      {
+        "composer": "Angelo Berardi",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "State attenti, egri mortali, se mia voce. Il Giuditio universale. Cantata a 3, A.T.B",
+        "voices": 3
+      },
+      {
+        "composer": "Angelo Berardi",
+        "page": 36,
+        "part": 1,
+        "poet": "",
+        "title": "Bocca di rosa e d'ostro, pretiosa catena. Madrigale a 4, C.A.T.B",
+        "voices": 4
+      },
+      {
+        "composer": "Angelo Berardi",
+        "page": 37,
+        "part": 1,
+        "poet": "",
+        "title": "Da quest'atre caligini, profonde guardie. L'Inferno. Cantata a 4, C.A.T.B",
+        "voices": 4
+      },
+      {
+        "composer": "Angelo Berardi",
+        "page": 46,
+        "part": 1,
+        "poet": "",
+        "title": "O cielo, a battaglia ti sfida chi può. Per la Madonna. Dialogo a 4, Terra, Cielo, Christo e Maria. Parole di Liberato Palenga, canonico del duomo di Spoleti",
+        "voices": 4
+      }
+    ],
+    "year": "1689"
+  },
+  {
+    "composers": [
+      [
+        "Jachet de Berchem"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "Antonio Gardano",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "havendo io dato nuovamente in luce la Musica di Iachetto Berchem sopra alcune stanze d'un tanto poeta, ho voluto a voi, Prenenpe Ecc.mo, come cosa di vostra ragione appresentarlo... Venetia, 31 XI 1561 \"."
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "328"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-BRE"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "I-VEcap"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "D-Mbs"
+      },
+      {
+        "parts": "C.A.B.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "C.T.B.",
+        "siglum": "A-Wn"
+      },
+      {
+        "parts": "C.",
+        "siglum": "I-Vnm"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 93,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Antonio Gardano",
+          "original": "Antonio Gardano"
+        }
+      ]
+    },
+    "title": "Primo, Secondo et Terzo Libro del Capriccio di Iachetto Berchem con la musica da lui composta sopra le stanze del Furioso. Novamente stampati et dati in luce. All'ill. et eccell. duca di Ferrara. A quatro voci. Con gratia et privileggio. In Venetia appresso di Antonio Gardano. 1561.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Jachet de Berchem",
+        "page": 1,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Le donne, i cavallier, l'arme, gl'amori",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Dirò d Orlando in un medesmo tratto",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 3,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "O gran bontà de' cavallieri antiqui",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Ricordati, pagan, quand'uccidesti d'Angelica il fratel",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "All'apparir che fè all'improvviso",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Che debbo far, poi ch'io son giunto tardi",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Sia vile a gl'altri e da quel sol amata",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Mentre costui così s'affligge e duole",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Pieno di dolc'et amoros'effetto",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Quando si vide sola in quel deserto",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 10,
+        "part": 2,
+        "poet": "",
+        "title": "Stupida e fissa nell'incerta",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 11,
+        "part": 3,
+        "poet": "",
+        "title": "Dicea fortuna che più",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 12,
+        "part": 4,
+        "poet": "",
+        "title": "Ma che mi possi nuocere",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 13,
+        "part": 5,
+        "poet": "",
+        "title": "Ch'haver può donna",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Se l'affogarmi in mar morte non era",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "O troppo cara, o troppo eccelsa preda",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Chi narrerà l'angoscie, i pianti, i gridi",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "La notte Orlando a le noiose piume",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "La donna sua, che gli ritorna a mente",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Di questo Orlando a le noiose piume",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Deh dove senza me, dolce mia vita, rimasa sei",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 21,
+        "part": 2,
+        "poet": "",
+        "title": "Dove, speranza mia",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 22,
+        "part": 3,
+        "poet": "",
+        "title": "O infelice, o miser",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Di pianger mai, mai di gridar non resta",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Queste non son più lagrime, che fuore stillo",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Non son, non sono io quel che paio",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Pel bosco errò tutta la notte",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Tagliò lo seritto e'l sasso",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Che rami e ceppi e tronchi",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Afflitto e stanco al fin cade",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Qui riman l'elmo e là riman lo scudo",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "Signor, ne l'altro canto io vi dicea",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "Viste del pazzo l'incredibil prove",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 33,
+        "part": 1,
+        "poet": "",
+        "title": "Per una gamba il grave tronco prese",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 34,
+        "part": 1,
+        "poet": "",
+        "title": "Gli agricultori accorti a gli altru'esempli",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 35,
+        "part": 1,
+        "poet": "",
+        "title": "Chi mette il piè su l'amorosa pania cerchi ritrarlo",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 36,
+        "part": 1,
+        "poet": "",
+        "title": "Ella non sa se non invan dolersi",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 37,
+        "part": 2,
+        "poet": "",
+        "title": "Così, cor mio, vogliate",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 38,
+        "part": 3,
+        "poet": "",
+        "title": "Ma poi che'l mio destino",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 39,
+        "part": 4,
+        "poet": "",
+        "title": "A questo la mestissima Isabella",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 40,
+        "part": 5,
+        "poet": "",
+        "title": "Di ciò, cor mio, nessun",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 41,
+        "part": 6,
+        "poet": "",
+        "title": "Zerbin la debil voce",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 42,
+        "part": 7,
+        "poet": "",
+        "title": "Non credo che quest'ultime parole",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 43,
+        "part": 8,
+        "poet": "",
+        "title": "Sopra il sanguigno corpo",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 44,
+        "part": 1,
+        "poet": "",
+        "title": "Lassa, dicea, che ritrovar poss'io",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 45,
+        "part": 1,
+        "poet": "",
+        "title": "Ohimè, ch'in vano me n'andava altiera",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 46,
+        "part": 1,
+        "poet": "",
+        "title": "Ma se egli è ver che'l vostr'amar",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 47,
+        "part": 1,
+        "poet": "",
+        "title": "Poco guadagno e perdita uscir",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 48,
+        "part": 1,
+        "poet": "",
+        "title": "Quando la vita per voi non sia cara",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 49,
+        "part": 1,
+        "poet": "",
+        "title": "Deh, vita mia, non vi mettete affanno",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 50,
+        "part": 1,
+        "poet": "",
+        "title": "Deh perché dianzi",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 51,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Dunque fia ver, dicea, che mi convegna cercar",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 52,
+        "part": 2,
+        "poet": "Ariosto",
+        "title": "Sa questo altier ch'io l'amo",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 53,
+        "part": 3,
+        "poet": "Ariosto",
+        "title": "Deh ferm'amor, costui che così",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 54,
+        "part": 4,
+        "poet": "Ariosto",
+        "title": "Ma di che debbo lamentarmi",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 55,
+        "part": 1,
+        "poet": "",
+        "title": "Anzi via più che del desir, mi deggio di me doler",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 56,
+        "part": 1,
+        "poet": "",
+        "title": "Deh perché vogli'ancor di me dolermi ch'error",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 57,
+        "part": 1,
+        "poet": "",
+        "title": "Miser'a chi mai più creder debb'io?",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 58,
+        "part": 1,
+        "poet": "",
+        "title": "Perchè Ruggier, come dite, non vive",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 59,
+        "part": 1,
+        "poet": "",
+        "title": "Crudel, di che peccato a doler t'hai",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 60,
+        "part": 1,
+        "poet": "",
+        "title": "Tu m'hai, Ruggier, lasciato",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 61,
+        "part": 1,
+        "poet": "",
+        "title": "Così dicendo, di morir disposta",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 62,
+        "part": 1,
+        "poet": "",
+        "title": "O fameliche, inique e fiere arpie",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 63,
+        "part": 1,
+        "poet": "",
+        "title": "Troppo fallò chi le spelonche aperse",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 64,
+        "part": 1,
+        "poet": "",
+        "title": "Dove abbassar dovrebbono la lancia",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 65,
+        "part": 1,
+        "poet": "",
+        "title": "Se christianissimi esser voi volete",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 66,
+        "part": 1,
+        "poet": "",
+        "title": "Ma tu, gran padre, ch'esser dei il primiero",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 67,
+        "part": 1,
+        "poet": "",
+        "title": "Non ti diede a portar Dio questa verga",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 68,
+        "part": 1,
+        "poet": "",
+        "title": "Merlin ti fa veder che quasi tutti",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 69,
+        "part": 1,
+        "poet": "",
+        "title": "Hor Dio consente che noi siam puniti",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 70,
+        "part": 1,
+        "poet": "",
+        "title": "Il paladin col suono orribil venne",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 71,
+        "part": 1,
+        "poet": "",
+        "title": "Astolfo si pensò d'entrarvi dentro",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 72,
+        "part": 1,
+        "poet": "",
+        "title": "Dell'alato destrier",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 73,
+        "part": 1,
+        "poet": "",
+        "title": "All'hor senti parlar",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 74,
+        "part": 1,
+        "poet": "",
+        "title": "Signor, Lydia son io",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 75,
+        "part": 1,
+        "poet": "",
+        "title": "Poi che non parla",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 76,
+        "part": 1,
+        "poet": "",
+        "title": "Poi monta il volator e in aria s'alza",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 77,
+        "part": 1,
+        "poet": "",
+        "title": "Astolfo il suo destrier verso il palaggio",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 78,
+        "part": 1,
+        "poet": "",
+        "title": "Nel lucente vestibulo",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 79,
+        "part": 1,
+        "poet": "",
+        "title": "E lo prese per mano",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 80,
+        "part": 1,
+        "poet": "",
+        "title": "Et Dio per questo",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 81,
+        "part": 1,
+        "poet": "",
+        "title": "Gli è ver che ti bisogna altro viaggio",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 82,
+        "part": 1,
+        "poet": "",
+        "title": "Passando il paladin per quelle biche",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 83,
+        "part": 1,
+        "poet": "",
+        "title": "Armi d'oro e d'argento appresso vede",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 84,
+        "part": 1,
+        "poet": "",
+        "title": "Di versate minestre una gran massa",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 85,
+        "part": 1,
+        "poet": "",
+        "title": "Quivi ad alcuni giorni e fatti sui",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 86,
+        "part": 1,
+        "poet": "",
+        "title": "Era com'un liquor suttile e molle",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 87,
+        "part": 1,
+        "poet": "",
+        "title": "La più capace e piena ampolla ov'era",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 88,
+        "part": 1,
+        "poet": "",
+        "title": "Sceso era Astolfo dal giro lucente",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 89,
+        "part": 1,
+        "poet": "",
+        "title": "Il duca Astolfo e la compagnia bella",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 90,
+        "part": 1,
+        "poet": "",
+        "title": "Astolfo, per pietà che gli trafisse",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 91,
+        "part": 1,
+        "poet": "",
+        "title": "Piangeano quei signor per la più parte",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 92,
+        "part": 1,
+        "poet": "",
+        "title": "Haveasi Astolfo apparecchiato il vaso",
+        "voices": 4
+      },
+      {
+        "composer": "Jachet de Berchem",
+        "page": 93,
+        "part": 1,
+        "poet": "",
+        "title": "O s'io potessi, donna. A requisitione d'uno amico",
+        "voices": 4
+      }
+    ],
+    "year": "1561"
   },
   {
     "composers": [

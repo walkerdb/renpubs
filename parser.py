@@ -14,7 +14,11 @@ def parse_works_from_page_transcripts(start, end):
     publications = re.split(r"\n\n\n\n+", texts)
     entries = []
     for pub in publications:
-        entries.append(NvEntry(pub, entries.copy()))
+        try:
+            entries.append(NvEntry(pub, entries.copy()))
+        except:
+            print(pub)
+            exit()
 
     # entries = [NvEntry(pub) for pub in publications]
 
@@ -53,7 +57,7 @@ def extract_texts(end, start):
 
 if __name__ == "__main__":
     first_page_with_works = 9
-    last_page_to_process = 199
+    last_page_to_process = 211
 
     output = parse_works_from_page_transcripts(first_page_with_works, last_page_to_process)
     output.publications.extend(parse_works_from_old_style_tables().publications)
