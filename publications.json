@@ -88102,6 +88102,1302 @@
   {
     "composers": [
       [
+        "Ercole Bernabei"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "333"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "I-Rli"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "D-MÜs"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "F-Pthibault"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 36,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Rome",
+      "printers": [
+        {
+          "modern": "NO_PRINTER_KNOWN",
+          "original": "NO_PRINTER_KNOWN"
+        }
+      ]
+    },
+    "title": "Concerto madrigalesco a tre voci diverse dedicato all'illustrissimo, et eccellentissimo principe Flavio Orsino duca di Bracciano, ecc. D'Ercole Bernabei, maestro di cappella in S. Luigi de' Francesi. In Roma, per Amadeo Belmonte. 1669. Con licenza de' Superiori.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Ercole Bernabei",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Fulminate, begl'occhi, eccovi il petto. Ritendete pur l'arco",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Già mi minaccia amore onde di pianto turbini",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Altro frutto non colsi per servir che tormento",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Non più strali, ben mio, non più catene, che se del mio penar",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Mal'accorti miei lumi, che per mirare il fonte",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Perch'io vado lontano da voi, parte la quiete",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Non merita pietà chi non la chiede, dunque parla",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 21,
+        "part": 1,
+        "poet": "Preti",
+        "title": "Ti lascio, anima mia. Giunta è quell'hora",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Ardo tacito amante e'l foco mio celar non posso",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Ch'io non v'ami? Io non v'amo. Amar voi non poss'io",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Spira dagl'occhi suoi l'empia ch'adoro di spavento",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Tal'hora, intento, in un bel volto ammiro sovra humana beltà",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Ardo e taccio il mio mal perch'io pavento che s'io",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "Bei labri, io non vi chieggio se volete ch'io v'ami",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 34,
+        "part": 1,
+        "poet": "Balducci",
+        "title": "O se poteste mai, luci adorate, veder com'io",
+        "voices": 3
+      },
+      {
+        "composer": "Ercole Bernabei",
+        "page": 35,
+        "part": 2,
+        "poet": "Balducci",
+        "title": "Hor se'l gelo degl'anni",
+        "voices": 3
+      }
+    ],
+    "year": "1669"
+  },
+  {
+    "composers": [
+      [
+        "Stefano Bernardi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Bonifacio Cannobio",
+      "dedicator": "",
+      "location": {
+        "modern": "Rome",
+        "original": "Roma"
+      },
+      "text": "Il Signor Stefano Bernardi Veronese, M.° di C. nella Chiesa della Madonna santissima de' i Monti, si contentò di comporre in gratia mia questi giorni a dietro, gli presenti Madrigaletti... quanto che io come Cantore nella soddetta Chiesa... Roma, 25 V 1611 \"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "334"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "I-Fn"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "I-VEaf"
+      },
+      {
+        "parts": "C.A.",
+        "siglum": "GB-Lbm"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 23,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Rome",
+      "printers": [
+        {
+          "modern": "NO_PRINTER_KNOWN",
+          "original": "NO_PRINTER_KNOWN"
+        }
+      ]
+    },
+    "title": "Di Stefano Bernardi veronese. Il Primo Libro di Madrigali a tre voci. Opera Terza. In Roma, nella stamperia di Bartholomeo Zannetti. Anno 1611. Con licenza de' Superiori.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Stefano Bernardi",
+        "page": 3,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Felice chi vi mira, ma più felice chi per voi sospira",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Pur venisti, cor mio, e pur t'ho qui presente",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Ohimè, se tanto amate di sentir dir ohimè",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Mirtillo partiti",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 7,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Ah dolente partita, ah fin della mia vita, da te parto",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Come in vago giardin rosa gentile",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 10,
+        "part": 2,
+        "poet": "",
+        "title": "Ma s'all'hor non si coglie",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 11,
+        "part": 3,
+        "poet": "",
+        "title": "Così la verginella mentre cura",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 12,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Quell'augellin, che canta sì dolcemente",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Io disleale? Ah cruda, voi negate la fede",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Cor mio, mentr'io vi miro visibilmente mi trasform'in voi",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Lasso, perchè mi fuggi, s'hai della morte mia",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 16,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Tu parti a pena giunto, fugitivo crudel",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Udite, lagrimosi spirti d'Averno, udite nova serie",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "O primavera, gioventù dell'anno, bella madre de' fiori",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 19,
+        "part": 2,
+        "poet": "",
+        "title": "Tu quella sei pur",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 20,
+        "part": 3,
+        "poet": "",
+        "title": "Ma se le mie speranze oggi",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 21,
+        "part": 4,
+        "poet": "",
+        "title": "E s'altri non m'inganna",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 22,
+        "part": 5,
+        "poet": "",
+        "title": "O lungamente sospirato invano",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Le più belle zitelle del contado. Mascherata",
+        "voices": 6
+      }
+    ],
+    "year": "1611"
+  },
+  {
+    "composers": [
+      [
+        "Stefano Bernardi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "P. D. Tom. Vallabio",
+      "dedicator": "Alessandro Vincenti",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "335"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-VEcap"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "A-Vn"
+      },
+      {
+        "parts": "C.2°, B\" Bc.",
+        "siglum": "I-Bc"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Alessandro Vincenti",
+          "original": "Alessandro Vincenti"
+        }
+      ]
+    },
+    "title": "Di Steffano Bernardi, maestro di capella nel duomo di Verona il Primo Libro de' Madrigali a tre voci, novamente ristampati, et corretti, con l'aggiunta del Basso continuo. Opera Terza. Con privilegio. In Venetia, appresso Alessandro Vincenti. 1621.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Stefano Bernardi",
+        "page": 1,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Felice chi vi mira, ma più felice chi per voi sospira",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Pur venisti, cor mio, e pur t'ho qui presente",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Ohimè, se tanto amate di sentir dir ohimè",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Mirtillo partiti",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 5,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Ah dolente partita, ah fin della mia vita, da te parto",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Come in vago giardin rosa gentile",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 7,
+        "part": 2,
+        "poet": "",
+        "title": "Ma s'all'hor non si coglie",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 8,
+        "part": 3,
+        "poet": "",
+        "title": "Così la verginella mentre cura",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 9,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Quell'augellin, che canta sì dolcemente",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Io disleale? Ah cruda, voi negate la fede",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Cor mio, mentr'io vi miro visibilmente mi trasform'in voi",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Lasso, perchè mi fuggi, s'hai della morte mia",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Tu parti a pena giunto, fugitivo crudel",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Udite, lagrimosi spirti d'Averno, udite nova sorte",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "O Primavera, gioventù dell'anno, bella madre de' fiori",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 16,
+        "part": 2,
+        "poet": "",
+        "title": "Tu quella sei pur",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 17,
+        "part": 3,
+        "poet": "",
+        "title": "Ma se le mie speranze oggi",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 18,
+        "part": 4,
+        "poet": "",
+        "title": "E s'altri non m'inganna",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 19,
+        "part": 5,
+        "poet": "",
+        "title": "O lungamente sospirato invano",
+        "voices": 3
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Quell'hore ohimè",
+        "voices": 3
+      }
+    ],
+    "year": "1621"
+  },
+  {
+    "composers": [
+      [
+        "Stefano Bernardi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Ferdinando Rucelai",
+      "dedicator": "",
+      "location": {
+        "modern": "Rome",
+        "original": "Roma"
+      },
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "336"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "F-Pn (prov. Thibault)"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "GB-Lbm"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 20,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Di Stefano Bernardi il Primo Libro de Madrigali a cinque voci, novamente composti, et dati in luce. Venetia, appresso Ricciardo Amadino. 1611.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Stefano Bernardi",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "La pastorella mia, che fera'l cor mi strugge",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Ah pur cor del mio core, i vostri lumi",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Gioite pur gioite, spirti ruggiadosi",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Tu se' pur fatt'amante, donna di crudo core",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Allegrezza di core non ho più contr'amore",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Leggiadrissima arciera, se per far preda siete",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Ohimè begl'occhi, e quando di mai più rivedervi",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "O man candid'e cara, che tra perl'e rubini cogliest'un bacio",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Candida man, che spiri soavissimi odori",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Mentre il piè vago intorno, fra rose e fra viole",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 11,
+        "part": 2,
+        "poet": "",
+        "title": "E all'hor che fra",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 12,
+        "part": 3,
+        "poet": "",
+        "title": "Ma se nel cavo legno",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 13,
+        "part": 4,
+        "poet": "",
+        "title": "Voi dunque ch'a Diana",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Da la porta di perle spirò sì dolcemente un'aura",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 15,
+        "part": 1,
+        "poet": "Chiabrera",
+        "title": "Un sguardo, un sguardo no, troppa pietade è per miser'amant'un",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Amarilli, cor mio, dunque potrò partire da tuoi begl'occhi",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Filli, questo mio core non chied'altro ch'amore",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Bella d'amor catena, che dolcemente leghi e rallegri",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 19,
+        "part": 1,
+        "poet": "Chiabrera",
+        "title": "Occhi, voi sospirate e fontane di lagrime spargete",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Hor che lungi da voi movo, bei lumi",
+        "voices": 5
+      }
+    ],
+    "year": "1611"
+  },
+  {
+    "composers": [
+      [
+        "Stefano Bernardi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "337"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Vgc"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "GB-Och"
+      },
+      {
+        "parts": "C.A.T.B.5.",
+        "siglum": "F-Pn (prov. Thibault)"
+      },
+      {
+        "parts": "C.A.B.5.Bc.",
+        "siglum": "A-Wn"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 6,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Giacomo Vincenti",
+          "original": "Giacomo Vincenti"
+        }
+      ]
+    },
+    "title": "Secondo Libro de Madrigali a cinque voci di Stefano Bernardi, maestro di capella del domo, et maestro della musica de signori Academici Filarmonici di Verona. Novamente composti, et dati in luce.  Dedicati al serenissimo Ferdinando Gonzaga duca di Mantoa, et di Monferato etc. Opera Settima. In Venetia, appresso Giacomo Vincenti. 1616.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Stefano Bernardi",
+        "page": 1,
+        "part": 1,
+        "poet": "Leoni",
+        "title": "Occhi miei, non vedete e pero voi piangete",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Son per morir, ahi lasso, e morte vien da te",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Tu parti, amato sole, sole de gl'occhi miei",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Con la candida man tu cogli i fior, vaga ninfa gentile",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Voi non rubbate? Ah cruda, dunque non siete vor ladra d'amore",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Di baciar quei begl'occhi m'ha pur concesso amore",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Fiamm'e stral'm me scocchi, bella areicra d'amore",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Ah non t'havessi mai, cor mio, baciato",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "O bellissima bocca, orient'amoroso da cui fuor n'esce",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Poi che dal ciel m'e tolto di vagheggiar mio ben",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Ritros'al voler mio tutto negate, donna",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 12,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Di marmo siete voi, donna, ai colpi d'amore, al pianto mio",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "L'ombra del sol io veggio mentre ch'al sol",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Filli un tempo mia vita, Filli mia dolce e cara",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Dolce Filli mia cara, cara e dolce mia vita, più dell'anima mia",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Se con lingua di foco non fa palese amore",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 17,
+        "part": 1,
+        "poet": "Grillo",
+        "title": "Quand'io miro le rose, ch'in voi natura pose",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 18,
+        "part": 1,
+        "poet": "Chiabrera",
+        "title": "Occhi, ch'a la mia vita già donaste ferita",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Lacrimosa pietà che più consolami hor che l'altrui",
+        "voices": 5
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Piangere e intenerite il core di colei",
+        "voices": 5
+      }
+    ],
+    "year": "1616"
+  },
+  {
+    "composers": [
+      [
+        "Stefano Bernardi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "cotesta vostra Academia... ch'è stata genitrice de gli stessi miei Concerti, dopò che m'honorò del titolo di Mastro delle loro Musiche... Venetia, 24 XI 1615 \"."
+    },
+    "genres": [
+      "Arias"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "338"
+    },
+    "library_locations": [
+      {
+        "parts": "C.A.T.B.5.6.",
+        "siglum": "I-VEaf"
+      },
+      {
+        "parts": "C.A.T.5.6. B. per l'org.",
+        "siglum": "I-FEc"
+      },
+      {
+        "parts": "C.A.B.5.6. B. per l'org.",
+        "siglum": "A-Wn"
+      },
+      {
+        "parts": "1615-1616a (ma l'esempl. di I-Vnm, ivi segnalato, non esiste).",
+        "siglum": "Sartori"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 19,
+      "partbook_count": 7,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Giacomo Vincenti",
+          "original": "Giacomo Vincenti"
+        }
+      ]
+    },
+    "title": "Concerti academici con varia sorte di Sinfonie di Stefano Bernardi maestro di capella della catedrale, et maestro della musica della Academia dell'illustrissimi signori Filarmonici di Verona. Libro Primo. Opera Ottava. In Venetia, appresso Giacomo Vincenti, 1615, (C.A.6. e B. per l'organo: 1616).",
+    "voices": [],
+    "works": [
+      {
+        "composer": "Stefano Bernardi",
+        "page": 1,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "O Primavera, gioventù de l'anno bella madre de fiori",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Se mi nieghi il conforto d'un sol bacio",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 4,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Lieti fiori e felici e ben nat'herbe. Concerto. Voce et istromento",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 6,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Pur venisti, cor mio, e pur t'ho qui presente",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 7,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Quel rosignuol che sì soave piagne e tutta notte",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 9,
+        "part": 1,
+        "poet": "Rinuccini",
+        "title": "Poi che si nega fede al mio vero dolore",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Fusti amante com'io, spargesti lagrime di dolor calde",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 11,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Lasso, ch'io ardo et altri non mel crede",
+        "voices": 2
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 12,
+        "part": 2,
+        "poet": "Petrarca",
+        "title": "Infinita bellezza e poca fede",
+        "voices": 2
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 12,
+        "part": 3,
+        "poet": "Petrarca",
+        "title": "Quest'arder mio di che vi cal",
+        "voices": 2
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 13,
+        "part": 4,
+        "poet": "Petrarca",
+        "title": "Ch'io veggio nel pensier",
+        "voices": 2
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 13,
+        "part": 5,
+        "poet": "Petrarca",
+        "title": "Rimaner dopo noi pien di faville",
+        "voices": 2
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Dunque esser può ch'io spiri, dunque esser può ch'io miri",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Ohimè dov'è il mio ben? Chi m'ascond'il mio ben. Voce et istromento",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Sinfonia prima concertata",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Sinfonia seconda concertata",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Sinfonia terza concertata",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Sinfonia quarta concertata",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Sinfonia quinta concertata. All'Epistola",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Sinfonia sesta piena",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Sinfonia settima piena",
+        "voices": 1
+      },
+      {
+        "composer": "Stefano Bernardi",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Sinfonia ottava piena",
+        "voices": 1
+      }
+    ],
+    "year": "1615"
+  },
+  {
+    "composers": [
+      [
         "Girolamo Frescobaldi"
       ]
     ],

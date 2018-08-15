@@ -1,10 +1,9 @@
 Di marmo siete voi, donna, ai colpi d'amore, al pianto mio (Marino) 12
-
 L'ombra del sol io veggio mentre ch'al sol 13
 Filli un tempo mia vita, Filli mia dolce e cara 14
 Dolce Filli mia cara, cara e dolce mia vita, più dell'anima mia 15
 Se con lingua di foco non fa palese amore 16
-Quand'io "miro le rose, ch'in voi natura pose (Grillo) 17
+Quand'io miro le rose, ch'in voi natura pose (Grillo) 17
 Occhi, ch'a la mia vita già donaste ferita (Chiabrera) 18
 Lacrimosa pietà che più consolami hor che l'altrui 19
 Piangere e intenerite il core di colei 20
@@ -18,14 +17,13 @@ A-Wn: C.A.B.5.Bc.
 
 
 
-338 - BERNARDI Stefano (1615-1616) - Concerti academici con varia sorte di
+338 - BERNARDI Stefano (1615) - Concerti academici con varia sorte di
 Sinfonie di Stefano Bernardi maestro di capella della catedrale, et maestro della
 musica della Academia dell'illustrissimi signori Filarmonici di Verona. Libro
 Primo. Opera Ottava. In Venetia, appresso Giacomo Vincenti, 1615, (C.A.6. e B.
 per l'organo: 1616).
 
-7 fasc. in 8° (C.A.T.B.5.6. B. per I'm-g.), pag. 19-25,(1). Ded. agli Academici Filarmonici:
-
+7 fasc. in 8° (C.A.T.B.5.6. B. per l'org.), pag. 19-25,(1). Ded. agli Academici Filarmonici:
 " cotesta vostra Academia... ch'è stata genitrice de gli stessi miei Concerti, dopò che m'honorò
 del titolo di Mastro delle loro Musiche... Venetia, 24 XI 1615 ".
 
@@ -33,11 +31,11 @@ A 1. O Primavera, gioventù de l'anno bella madre de fiori (Guarini) 1
 " " Se mi nieghi il conforto d'un sol bacio 3
 " " Lieti fiori e felici e ben nat'herbe. Concerto. Voce et istromento (Petrarca) 4
 " " Pur venisti, cor mio, e pur t'ho qui presente (Guarini) 6
-" " Quel rosignuol che sì soave piagnc e tutta notte (Petrarca) 7
+" " Quel rosignuol che sì soave piagne e tutta notte (Petrarca) 7
 " " Poi che si nega fede al mio vero dolore (Rinuccini) 9
 " " Fusti amante com'io, spargesti lagrime di dolor calde 10
 A 2. Lasso, ch'io ardo et altri non mel crede (Petrarca) 11
-" " Infinita bellezza e poca fede (SCCODCÌa parte) " 12
+" " Infinita bellezza e poca fede (seconda parte) " 12
 " " Quest'arder mio di che vi cal (terza parte) " 12
 " " Ch'io veggio nel pensier (quarta parte) " 13
 " " Rimaner dopo noi pien di faville (quinta parte) " 13
@@ -48,16 +46,13 @@ Sinfonia seconda concertata 17
 Sinfonia terza concertata 18
 Sinfonia quarta concertata 19
 Sinfonia quinta concertata. All'Epistola 21
-Smfonia sesta piena 23
+Sinfonia sesta piena 23
 Sinfonia settima piena 24
 Sinfonia ottava piena 25
 
 I-VEaf: C.A.T.B.5.6.
-
-I-FEczff C.A.T.5.6. B. per l'org.
-
+I-FEc: C.A.T.5.6. B. per l'org.
 A-Wn: C.A.B.5.6. B. per l'org.
-
 Sartori 1615-1616a (ma l'esempl. di I-Vnm, ivi segnalato, non esiste).
 
 
