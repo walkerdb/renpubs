@@ -7,7 +7,7 @@ La Caccia di Alcssamlro Slriggiu
 A 4. Dalle gelate braccia B
 A 5. Su, su presto (seconda parte) 10
 A 6. Ecco ch'al bosco siam (terza parte) 11
-" " Mirate :\ quei (quarta parte) 14
+" " Mirate a quei (quarta parte) 14
 A 7. Ecco il sol chiaro (quinta parle) 5
 [| Lamento di Didone di Cipriano RunA
 S. Dissimulare etiam (Virgilio) 18

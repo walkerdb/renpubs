@@ -43,7 +43,7 @@ A 4. Donna, qual mi foss'io, qual mi sentissi quando primiero (Caro) 3
 " " Ma tu per darm'al cor (seeonda parte) 17
 " " Apri homai l'useio (terza parte) 18
 n " - Ohimè ch'io spasmo. Apri (quarta pane) 20
-A 8 Dite, signori miei, qual speranza v'invita :\ far. Dialogo 22
+A 8 Dite, signori miei, qual speranza v'invita a far. Dialogo 22
 
 D-Mbs: compl.
 

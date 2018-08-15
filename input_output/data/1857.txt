@@ -7,7 +7,7 @@ A 5. Canzona decima terza
 " " Canzona decima sesta
 
 A 6. Ardo per voi, mia vila. Madrigale a sei concerlalo con gli strumenli
-" " O rubella d'amor. Madrigale :\ sei concertato con gli strumenli
+" " O rubella d'amor. Madrigale a sei concertato con gli strumenli
 PL-WRu: C.l", A., T., B.
 
 Sartori 1632.

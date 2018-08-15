@@ -50,8 +50,8 @@ A 5. Sperai qualche conforto a la mia pena 57
 " " Cadea da l'alto ciel fiamma vorace 83
 " " Ma che dich'io? solo ad amore (seconda parte) 88
 " " Pilli, segui pur sempre il tuo Fileno 94
-A 3. Chiusa nel cavo rame, onda che sente mover :\ danno 96
-" " Grondate pur, grondate :\ cento, a mille queste lagrime 98
+A 3. Chiusa nel cavo rame, onda che sente mover a danno 96
+" " Grondate pur, grondate a cento, a mille queste lagrime 98
 A 4. E pur t'aggiri, o stolto, e ti raggiri a la tua morte 102
 A 5. Come dolci piagate, care pupille amate 108
 

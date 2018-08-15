@@ -11,7 +11,7 @@ A 3. lo t'amo, donna, e ne frequenti incendi delle tue vive stelle 22
 " " Ama, ben mio, ch'io t'amo e se de gl'occhi miei 24
 " " Partiti e ti consola, cli'infinita è la schiera 26
 " " Misero in fra gl'amanti già solo non son io (Guarini) 28
-" " Chi prende amore a gioco prende :\ sclterzar cul foco 30
+" " Chi prende amore a gioco prende a sclterzar cul foco 30
 
 I-Rsc: compl.
 I-Sac: T.l", T.2°.
@@ -41,7 +41,7 @@ A 1. Già di Turca rubella cantai, misero hor canto d'Armilla. Madrigale 3
 " " Fu colpa de begli occhi, fu colpa ancor d'amore 11
 " " O begli occhi, che safiri mi sembrate, perchè date. Arietta 13
 " " O begli occhi, o belle stelle, lumi cari, lumi avari. Arietta H
-" " Aprite il petto, aprite, luci serenc e belle. Arietta H
+" " Aprite il petto, aprite, luci serene e belle. Arietta H
 " " Piagate il sen, piagate, leggiadrissimi sguardi (seconda parte) 15
 " " Girate in me, girate, amate mie pupille (terza parte) 15
 " " I ruscelletti, vivi cristalli, van puri e schietti. Arietta 16

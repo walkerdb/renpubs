@@ -14,7 +14,7 @@ A 2. Chi trovato havesse un core C. e A. 18
 " " Spuma il giorno in oriente e superbo " " " (Benigni) 23
 A 3. Forsennata humanità 2 C. e B. 33
 " " Udile, o voi che del mondo fallace " " " " (Benigni) 35
-" " Ecco, popolo mio, come trattasti tu :\.TB. '"
+" " Ecco, popolo mio, come trattasti tu a.TB. '"
 I-Bc: compl
 I-Bof: compl
 I-Fc: compl

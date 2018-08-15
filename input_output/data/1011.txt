@@ -50,7 +50,7 @@ A 5. Liquide perle amor da gl'occhi sparse in premio del mio (Sannazzaro) 1
 " " Cantava la più vaga pastorella che mai premesse fiori IS
 " " Quesla, di \'erd'herbeue e di novelli fior tessuta hor hora 16
 " " Partirò dunque. Ohimè mi manca il core. Porgimi aita, amore ]7
-A 8. O tu, che fra le selve occulta vivi. Dialogo :\ 8 in risposta d'ecco (Tasso) 18
+A 8. O tu, che fra le selve occulta vivi. Dialogo a 8 in risposta d'ecco (Tasso) 18
 
 I-Bc: compl.
 D-Mbs: compl.

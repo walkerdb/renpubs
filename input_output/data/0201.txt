@@ -1,4 +1,4 @@
-4 fasc. in 8° (C.A.T.B.), pag. 21,(1). Ded. :il Conte Aniballe Bonmercati: " Vostra Signoria Illustre
+4 fasc. in 8° (C.A.T.B.), pag. 21,(1). Ded. al Conte Aniballe Bonmercati: "Vostra Signoria Illustre
 quando senti queste mie Canzonette mostrò così di gradirle... consigliato hora, anzi sforzato dalli
 Amici a darle alle stampe... Venetia, 16 VII 1584 ". Sonetto di Antonio Maria Pugnetti.
 
@@ -6,11 +6,11 @@ Amor, solo l'altr'hier scherzand'intorno della mia Filli al viso 2
 Folti boschetti, amene piaggie e compi, che con suoi dolci canti 3
 Questi begli occhi tuoi, gentil mia Clori 4
 Cor mio, se per dolore morir potesse appassionato core 5
-Genevra mia, queste tue treccic d'oro et quegli occhi di sole 6
+Genevra mia, queste tue treccie d'oro et quegli occhi di sole 6
 Pianse misero un tempo in fiamm'il core, hor va lieto 7
 Sogno felice e caro, che di novo tornar non fosti avaro 8
 Herbette fresch'e belle, che come vaghe stelle 9
-Dui occhi belli e vaghi, d'ogni mio mal presaghi, 10
+Dui occhi belli e vaghi, d'ogni mio mal presaghi 10
 Madonna, a gl'occhi miei sei tanto bella, che sola tu 11
 Fiorite valli amene, d'ogni dolcezza piene 12
 Con questa bella mano, tu ti nascond'invano ssa bella faccia 13
@@ -27,8 +27,12 @@ F-Pc: compl.
 I-Bc: T.B.
 PL-GD: T.B.
 
-31.6 - BELLI Giulio (1586) - Canzonette di Giulio Belli da Longiano. Libro
-Prune. A quattro voci. Novamente reviste, et ristampate. In Milano, appresso
+
+
+
+
+316 - BELLI Giulio (1586) - Canzonette di Giulio Belli da Longiano. Libro
+Primo. A quattro voci. Novamente reviste, et ristampate. In Milano, appresso
 Francesco, et gli heredi di Simon Tini. 1586.
 
 4 fasc. in 8° (C.A.T.B.), pag. 21,(1). Sonetto e Indice = 1584.
@@ -42,15 +46,12 @@ NL-AT: T.
 
 317 - BELLI Giulio (1595) - Canzonette di Giulio Belli da Longiano Libro
 Primo a quattro voci, novamente ristampate, et aggiontovi due Canzonette nove.
-
 In Venetia appresso Angelo Gardano. 1595.
+
 4 fasc. in 8° (C.A.T.B.). pag. 23,(1).
 
 Amor, solo l'altr'hier scherzand'intorno della mia Filli al viso 2
-Folti bosehetti, amene piaggie e campi, che con suoi dolci canti 3
-Questibegl'occhi tuoi, gentil mia Clori 4
+Folti boschetti, amene piaggie e campi, che con suoi dolci canti 3
+Questi begl'occhi tuoi, gentil mia Clori 4
 Cor mio, se per dolore morir potesse appassionato core 5
-Genevra mia, queste tue trecce d'oro et quegl'ocehi di sole 6
-
--I93-
-
+Genevra mia, queste tue trecce d'oro et quegl'occhi di sole 6

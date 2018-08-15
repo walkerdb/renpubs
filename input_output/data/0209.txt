@@ -1,16 +1,17 @@
-A 6. Perchè, Pilli, mi chiami, poi t'ascondi 18
-
+A 6. Perchè, Filli, mi chiami, poi t'ascondi 18
 " " Ried'e porgimi homai (seconda parte) 20
 " " Così mi scherni e così tienm'ahi lasso 20
 " " Luci vivaci, alticri non mi siate 21
 " " Crespi crin d'oro a l'aria spars'intorno 22
 " " Voce divina, angelicli'e possente (seconda parte) 23
-A 10. Dopo l'accrba e cruda dipartita. Dialogo 24
+A 10. Dopo l'acerba e cruda dipartita. Dialogo 24
 
 I-Bc: 5.
 
-BENEDICTIS Giovan Tommaso
-Cfr.: DE BENEDICTlS Giovan Tommaso.
+
+
+
+
 
 327 - BERARDI Angelo (1689) - Musiche diverse variamente concertate per
 camera a due, tre, e quattro voci del canonico D. Angelo Berardi. Dedicate all'illustrissìmo
@@ -21,20 +22,18 @@ Silvano, all'insegna del Violino, con privilegio.
 
 5 fasc. in 8°: C.1° pag. 24; C. e A. pag. 30; T. pag. 20; B. pag. 25; Bc. pag. 78. Ded. non datata.
 
-Dice la mia bellissima Licori quando tal hor favello. A due canti (Guarini) 4
-In amor che stravaganza mantener vive le pene... A due canti 5
-SÌ, mi cor, t'intendo si. Tu vuoi dir. Canzonetta a 2, C. e B. 11
-Per te, amor, le sfere girano. Canzonetta a 2, A. e B. 18
-Tr0ppo ben può questo tiranno amore. Madrigale a 3, C.A.B. (Guarini) 21
-Amanti, sentite, se vaga bellezza di sdegno s'accende. Canzonetta a 3, C.A.T. 22
-State attenti, egri mortali, se mia voce. Il Giuditio universale. Cantata a 3, A.T.B. 24
-Bocca di rosa e d'ostro, pretiosa catena. Madrigale a 4, C.A.T.B. 36
-Da quest'atre caligini, profonde guardie. L'Inferno. Cantata a 4, C.A.T.B. 37
+A 2. Dice la mia bellissima Licori quando tal hor favello. A due canti (Guarini) 4
+" " In amor che stravaganza mantener vive le pene... A due canti 5
+" " Sì, mi cor, t'intendo si. Tu vuoi dir. Canzonetta a 2, C. e B. 11
+" " Per te, amor, le sfere girano. Canzonetta a 2, A. e B. 18
+A 3. Troppo ben può questo tiranno amore. Madrigale a 3, C.A.B. (Guarini) 21
+" " Amanti, sentite, se vaga bellezza di sdegno s'accende. Canzonetta a 3, C.A.T. 22
+" " State attenti, egri mortali, se mia voce. Il Giuditio universale. Cantata a 3, A.T.B. 24
+A 4. Bocca di rosa e d'ostro, pretiosa catena. Madrigale a 4, C.A.T.B. 36
+" " Da quest'atre caligini, profonde guardie. L'Inferno. Cantata a 4, C.A.T.B. 37
+" " O cielo, a battaglia ti sfida chi può. Per la Madonna. Dialogo a 4, Terra, Cielo, Christo e Maria. Parole di Liberato Palenga, canonico del duomo di Spoleti 46
 
-O cielo, a battaglia ti sfida chi può. Per la Madonna. Dialogo a 4, Terra, Cielo, Christo e
-[Maria. Parole di Liberato Palenga, canonico del duomo di Spoleti 46
-
-I-Be: compl.
+I-Bc: compl.
 I-Rsc: compl.
 I-Rsmt: compl.
 
@@ -42,23 +41,15 @@ I-Rsmt: compl.
 
 
 
-328 - (De) BERCHEM Iachet (1561) - Primo, Secondo et Terzo Libro del
+328 - BERCHEM Jachet de (1561) - Primo, Secondo et Terzo Libro del
 Capriccio di Iachetto Berchem con la musica da lui composta sopra le stanze del
-urloso. Novamente stampati et dati in luce. All'ill. et eccell. duca di Ferrara.
-
+Furioso. Novamente stampati et dati in luce. All'ill. et eccell. duca di Ferrara.
 A quatro voci. Con gratia et privileggio. In Venetia appresso di Antonio Gardano.
 1561.
 
-"1 fasc. in 8° (C.A.T.B.), pag. 93. Ded. di Antonio Gardano: " havendo io dato nuovamente
-i)" lucîe la Musxca di Iachetto Berchem sopra alcune stanze d'un tanto poeta, ho voluto a voi,
-renenpe Ecc.mo, come cosa di vostra ragione appresentarlo... Venetia, 31 XI 1561 ".
-
-Primo Libro
+4 fasc. in 8° (C.A.T.B.), pag. 93. Ded. di Antonio Gardano: " havendo io dato nuovamente
+in luce la Musica di Iachetto Berchem sopra alcune stanze d'un tanto poeta, ho voluto a voi,
+Prenenpe Ecc.mo, come cosa di vostra ragione appresentarlo... Venetia, 31 XI 1561 ".
 
 Le donne, i cavallier, l'arme, gl'amori (Ariosto) 1
-
-. ,
 Dirò d Orlando in un medesmo tratto " 2
-
--201 -
-

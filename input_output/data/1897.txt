@@ -14,7 +14,7 @@ n " Nasce la pena mia, non potendo mirar mio vivo sole Il
 " " Cercat'ho già gran tempo alcuna via cle far felice 21
 " " S'altra fiamma giamai m'arse, madonna, il core che quella che per voi 22
 " " Solingo augello, che piangendo vai la tua perduta e dolce compagnia (Bembo) 22
-" " :\] mio dolce aer tosco amor m'invita, perch'îo torni a veder. Canzon B
+" " a] mio dolce aer tosco amor m'invita, perch'îo torni a veder. Canzon B
 A 5. Quando fia, lasso, che quest'occhi molli (seconda parte) 24
 " " Voi, piagg'herbose et voi, fiorite rive (ter-[.:| parte) 24
 

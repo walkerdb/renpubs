@@ -1,8 +1,7 @@
 A 4. Regina mia... eccoti questa spada 18
-
-" " Se di tanti miei guai saria non sete mai 19
-" " O crudel, ch'intender nieghi le mie pene et i sospm. Ana 20
-" " Empio volto e insidioso, ch'hai nel mel l'amaro ascoso. Ana 21
+" " Se di tanti miei guai satia non sete mai 19
+" " O crudel, ch'intender nieghi le mie pene et i sospiri. Aria 20
+" " Empio volto e insidioso, ch'hai nel mel l'amaro ascoso. Aria 21
 
 D-Rp: compl.
 I-Bc: B.
@@ -12,52 +11,47 @@ I-Bc: B.
 
 
 319 - BELLI Giulio (1585) - Il Primo Libro de Madrigali a cinque, et a sei voci.
-Dì Giulio Belli da Longiano. Novamente composto, et dato in luce. In Venetia
-
+Di Giulio Belli da Longiano. Novamente composto, et dato in luce. In Venetia
 appresso Angelo Gardano. 1589.
-5fasc. in 8° obl. (C.A.T.B.5.), pag. 21,(1). Ded. a Baldassarre Ferraldi, Venetia, 20 VIII 1589.
+
+5 fasc. in 8° obl. (C.A.T.B.5.), pag. 21,(1). Ded. a Baldassarre Ferraldi, Venetia, 20 VIII 1589.
 
 A 5. Sovra le verdi chiome di questo novo lauro udite (Tasso) 1
 " " Et altri vezzosetti cantano quivi (seconda parte)
-
 " " Al suon di questi naccari, col crin cinto di baccari 3
 " " Non è cor duro tanto, che non si spetri al vostro dolce canto 4
-" " Donna, se quel ohimè tanto \'i piace qual hor lieta cantate 5
-" " Parmi vederti fuggere, alii che mi sento struggere 6
-" " Occhi, faci d'amore, specchi de la beltadc. 7
+" " Donna, se quel ohimè tanto vi piace qual hor lieta cantate 5
+" " Parmi vederti fuggere, ahi che mi sento struggere 6
+" " Occhi, faci d'amore, specchi de la beltade 7
 " " Vita mia dolce e cara, com'esser può 8
 " " Quando mirai, crudele, quei vostri chiari lumi 9
-"." S'il mio grave tormemo non ha potuto ancor movervi il core lll
+" " S'il mio grave tormento non ha potuto ancor movervi il core l0
 " " Se troppo fu l'ardire in trarne suco con l'immonde labbia 11
-" " Dell cara anima mia, ditemi in cortesia perchè se in carte 12
+" " Deh cara anima mia, ditemi in cortesia perchè se in carte 12
 " " Cor mio, se gli è pur vero che del mio mal, del mio langir 13
 " " Avventurose spoglie, onde'l foco d'amor forza riceve 14
 " " Se m'accendesti, amore, al vivo foco de bei raggi ardenti 15
 A 6. Alme divin'e belle, per sempre sia felice l'Himeneo 16
 " " Morirò, cor mio, poi che n'hai gran desio 17
-" " Con che stral ' 18
+" " Con che stral 18
 " " Et il dardo, l'incendio et la catena (seconda parte) 19
 " " Nel petto porti, donna, lo mio core 20
 " " Ch'io te lasci, o mio sol, ch'io te non ami com'esser può? 21
 
-GB-Lbm- 5.
+GB-Lbm: 5.
 
 
 
 
 
 320 - BELLI Giulio (1592) - Di Giulio Belli da Longiano. Il Secondo Libro de
-adrigali a cinque et a sei voci, novamente composti, et datti in luce. In Venetia
+Madrigali a cinque et a sei voci, novamente composti, et datti in luce. In Venetia
 appresso Ricciardo Amadino. 1592.
 
-6 fasc. in 8° (C.A.T.B.5.6.), pag. 21,(1). Ded. al Conte Bonifacio Bevilacqua: " Quando io dedicai
-allt giorni passati i miei Vesperi à Cinque Voci à V.S. Illustrissima... dovendo io dare alle Stampe
-
-" Secondo Libro de i miei Madrigali à Cinque, et à Sei Voci, quasi tutti fatti a sua instanza
-S°"m le Sue vaghissime compositioni... Ferrara, 5 IX 1592".
+6 fasc. in 8° (C.A.T.B.5.6.), pag. 21,(1). Ded. al Conte Bonifacio Bevilacqua: "Quando io dedicai
+alli giorni passati i miei Vesperi à Cinque Voci à V.S. Illustrissima... dovendo io dare alle Stampe
+il Secondo Libro de i miei Madrigali à Cinque, et à Sei Voci, quasi tutti fatti à sua instanza
+sovra le sue vaghissime compositioni... Ferrara, 5 IX 1592".
 
 A 5. Picciol premio al mio amore del mio tormento non spense (Bevilacqua) 1
 " " Se diletto prendete, donna crudel, mirando " 2
-
--I95-
-

@@ -20,7 +20,7 @@ l
 " " lo mi vivea com'aquila mirando sempre del mio bel sol (Guarini) 10
 " " Su. su, che'l giorn'è fuore, su, su pastori uscite e gli augeletli udite 11
 " " Occhi ridenti e vaghi. d'ogni mio mal presaghi 11
-" " :\himè misero, io canto 13
+" " ahimè misero, io canto 13
 " " Ben mio, perchè mi dai em:-nu; pene e guai "
 " " Questa crudele, piena di fiele, m'inganna, m'affanna, mi danna 15
 " " Amami, o mi amanti, che le dame seguite 16

@@ -20,7 +20,7 @@ A 7. Onde aviene, cor mio, ch'in tanti affanni hai pur letitia. Dialogo 36
 I-MOe: compl.
 F-Pc: compl.
 GB-Lbm: compl.
-I-Bc: :\.
+I-Bc: a.
 
 
 

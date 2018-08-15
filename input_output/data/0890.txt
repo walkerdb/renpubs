@@ -11,7 +11,7 @@ A 4. Las voulez vous qu'une personne chante 1
 " " Ie layme bien et laimeray 4
 " " Trop endurer sans avoir allegrance 5
 " " Vray dicu disoit une fillette 6
-" " Helas quel iour {emy-ie :\ mon vouloir 7
+" " Helas quel iour {emy-ie a mon vouloir 7
 " " Ung doux nenny avec un doux sourire (Marat) 8
 " " In dubbio di mio stato, hor piango, hor canto (Pctrarca) 10
 A 5. Est il possible a moy pouvoir trouver 11

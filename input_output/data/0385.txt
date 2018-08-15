@@ -14,7 +14,7 @@ A 2. Ruggier qual sempre fui. Aria di Ruggiero (Ariosto) 15
 " " Ben è ver ch'ei pargoleggia (seconda stanza) " 21
 A 3. Felice chi vi mira, ma più felice chi per voi. Madrigale (Guarini) 22
 " " Chi v'insegna d'uccidere e lieti poi sorridere. Madrigale (Chiabrera) 24
-A 4. In una verde piaggia :\ la cruda selvaggia. Canzonetta (A. Litegato) 26
+A 4. In una verde piaggia a la cruda selvaggia. Canzonetta (A. Litegato) 26
 " " O ninfa. o tigre, o sasso (seconda parte) " 28
 
 I-Rsc
@@ -50,7 +50,7 @@ A 2 Felici voi. cui serba alto favore. Aria di Romanescha. La Vergine a Re Magi 
 " " O 01 da lorme, dal sen, da le pupille. (quarta stanza) 16
 " " "gne bella a la .solinga grotta. Aria di Gazella. Madalena nel deserto 17
 " " Q ] come dolce ... flebll voce (seconda Stam-'t) . 18
-" " ua è costi eh hnnesta e vergognosa. Aria di Romanesca. Quasi aurora eonsurgens 19
+" " ua è costi eh hnnesta e vergognosa. Aria di Romanesca. Quasi aurora consurgens 19
 " " Èndtda come luna .e luminosa . (seconda stanza) 19
 " " però men guerriera o coraggiosa (terza stanza) 20
 

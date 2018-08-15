@@ -1,21 +1,19 @@
 A 5. Udite, amanti, udite strana e mirabil sorte (Rinaldi) 3
-
-" " Se viver non posso io ben senza baciarvi B il
-
-" " Dolente anima mia, che potessi partire e non morire ( cv acqua) 4
-" " il duol, che ingombra la mia stanca vita " 6
-" " Sospirò la mia donna dolcemente, ma fu fredd'il sospiro " .
-" " Ah che velocemente volò (seconda parte) ff " ;
+" " Se viver non posso io ben senza baciarvi (Bevilacqua) 4
+" " Dolente anima mia, che potessi partire e non morire " 5
+" " Il duol, che ingombra la mia stanca vita " 6
+" " Sospirò la mia donna dolcemente, ma fu fredd'il sospiro " 7
+" " Ah che velocemente volò (seconda parte) " 8
 " " Non temete, cor mio, deh non temete ch'io voglia " 9
 " " Caro mi fia'l morire, donna crudel, poi che " 10
 " " Ai miei lamenti piangere vidi le selce " 11
 " " Se perchè cruda sete et in me fulminate " 12
 " " Voi mi feristi il core (seconda parte) " 13
-" " Se fu lo sdegno ingiusto, ragion vuol ben ch'il cor " H
+" " Se fu lo sdegno ingiusto, ragion vuol ben ch'il cor " 14
 " " Ha Laura il crin dorato e son le guancie sue " 15
 " " Perchè v'allontanate, cor mio? Non v'accorgete " 16
 A 6. Invitto Alfonso, tra i più chiari fregi. Al Duca di Ferrara " 17
-" " Suona quinci tua fama (seconda parte) . " 18
+" " Suona quinci tua fama (seconda parte) " 18
 " " Dolci sospiri, che tal'hora uscite dal petto di colei " 19
 " " Sui vaghi fiori tra vermigli e bianchi " 20
 " " Vidi il biondo mio sole (seconda parte) " 21
@@ -28,9 +26,9 @@ I-Bc: A.T.B.5.6.
 
 
 
-321 - BENAsSAi Giovanmaria (1577) - Il Primo Libro delle Napolitanc spirituali,
-a tre vocr. Di Giovanmarla Benassai da Foligno. Con licentia delli SuperioriIn
-Perugia, appresso Pietroiacomo Petrucci, 1577.
+321 - BENASSAI Giovanmaria (1577) - Il Primo Libro delle Napolitane spirituali,
+a tre voce. Di Giovanmaria Benassai da Foligno. Con licentia delli Superiori. 
+In Perugia, appresso Pietroiacomo Petrucci, 1577.
 
 3 fasc. in 8°, pag. 32. Ded. a D. Angelus de Oddis perusinus.
 
@@ -38,26 +36,20 @@ Se scior si vedrà'l laccio, che mi strinse quel giorn'ahimè 1
 Chi sopra ogn'altra cosa 2
 Lasso che debbo far qual'hor 3
 Io per me stesso son qual legno 4
-S'io t'amo e s'io t'adoro e se per te crudel languisco $
+S'io t'amo e s'io t'adoro e se per te crudel languisco 5
 Sol mi fai guerra e per te sol 6
 Chi vuol, signor, sentir tanta dolcezza 7
 Mi fa morir di doglia il crudo e rio 8
 Mi ridi, burl'e cianci e faimi festa 9
 Colmo son io di colpe e di sospir 10
-Io ne vo camina: per altre strade 11
+Io ne vo caminar per altre strade 11
 Tu sola poi frenar gl'affanni miei 13
 Deh fammi far, Maria, tanto favore 13
 Da poi che tu, crudel, mi desti morte 14
 Quando il nemico vide la figura 15
 Con alta voce incominciò a gridare 16
-Vientenc, traditor, anima fella 17
+Vientene, traditor, anima fella 17
 Resolvemi, signor, che debbo fare 18
 Segui, alma, pur quest'honorat'impresa 19
-Seguirò donque con ardita voglia zo
-
-21
-
-Sol per mirar i santi tuoi vestigi
-
-]96: A......
-
+Seguirò donque con ardita voglia 20
+Sol per mirar i santi tuoi vestigi 21
