@@ -42,7 +42,7 @@ A 5. Se'l dolce sguardo di costei m'ancide (Petrarca) 1
 " " Così se ben col temp'al tempo guerra (seconda parte) " 13
 " " Solo e pensoso i più deserti campi (Petrarca) 14
 " " Si ch'io mi cred'homai che monti (seconda parte) " 16
-" " Far potcss'io vendetta di COlcl " 17
+" " Far potess'io vendetta di COlcl " 17
 " " L'alma cui morte del su'albergo (seconda parte) " 13
 " " Ite, rime, piangendo da colei a cui ho dato l'alm'e i sensi 19
 " " Ditele anchor che sempre col desio (seconda parte) 20

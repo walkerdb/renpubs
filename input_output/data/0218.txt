@@ -1,9 +1,15 @@
+
+
+
+
+
+
 339 - BERNARDI Stefano (1619) - Il Terzo Libro de Madrigali a cinque voci,
 concertati con il Basso continuo per sonare di Stefano Bernardi maestro di capella
 del domo di Verona. Opera Decima. Novamente composta, et data in luce. Con
 privilegio. In Venetia, appresso Giacomo Vincenti. 1619.
 
-6 fasc. in 8° (C.A.T.B.5.Bc.), pag. 19,(1). Ded. al Marchese Spinetta Malaspina 'Academico
+6 fasc. in 8° (C.A.T.B.5.Bc.), pag. 19,(1). Ded. al Marchese Spinetta Malaspina Academico
 Filarmonico. Il Veloce. Ded., Venetia, 24 XII 1618.
 
 Se tu m'ami, cor mio, ond'avien che t'avante d'altro foco 1
@@ -11,7 +17,7 @@ O tanto desiata, pur avien ch'io ti baci 2
 Tu sei l'anima mia 3
 O Clorinda crudele, il tuo bel volto fu la fera cagion 4
 Stringimi Filli 5
-Come sprezzar voi, dolce Filli? Come sprezzar poss'io, 6
+Come sprezzar voi, dolce Filli? Come sprezzar poss'io 6
 O d'amor candidissimo tesoro, o cara mano amata 7
 Filli, dolce mio foco, non è 'l mio mal un gioco 8
 Son giochi e scherzi e vezzi care gioie d'amore 9
@@ -19,12 +25,11 @@ Vezzosetti sospiri, dalle labra di Filli a mille uscite 10
 Ardor felice e caro, hor sì ch'io prov'e sento nobil fiamma 10
 Ecco il mio cor. Con Violino, Cornetto e Trombone o Liuto. A 2 voci 12
 Deh girate. Con Violino, Cornetto e Trombone o Liuto. A 2 voci 12
-È tornato il mio ben, tornate o canti tutti in grembo al piacer "
+È tornato il mio ben, tornate o canti tutti in grembo al piacer 14
 Bellezze amate. Dialogo a 2. Con Violino, Cornetto e Tiorba o Chitarrone 15
 Hor se non dai. Con Violino 16
-L'anima mia ferita versa per gl'occhi fuore un fiume di dolore 13
-
-Mentre pomposa te ne stai, rosa. A 3 voci con Violino e Cornetto
+L'anima mia ferita versa per gl'occhi fuore un fiume di dolore 18
+Mentre pomposa te ne stai, rosa. A 3 voci con Violino e Cornetto 19
 
 I-TSt: C.
 
@@ -32,13 +37,12 @@ I-TSt: C.
 
 
 
-340 - BERNARDI Stefano (1622) - Il Tcrzo Libro de Madrigali a Cinque VoiCl
-concertati con il Basso continuo per sonare. Di Stefano Bernardi, maestro (il cap? 3
-del domo di Verona. Opera Decima. Novamente ristampata, et corretta. Con priv!legio.
+340 - BERNARDI Stefano (1622) - Il Terzo Libro de Madrigali a cinque voci
+concertati con il Basso continuo per sonare. Di Stefano Bernardi, maestro di capella
+del domo di Verona. Opera Decima. Novamente ristampata, et corretta. Con privilegio.
 In Venetia, appresso Alessandro Vincenti. 1622.
 
 6 fasc. in 8° (C.A.T.B.5.Bc.), pag. 19,(1). Indice = 1619.
 
 I-Bc: compl.
 I-VCd: C.A.T.Bc.
-

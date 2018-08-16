@@ -29,7 +29,7 @@ Airs italiens
 " " " " Va, donna ing-rata 35
 Airs francais:
 " " " " Que ferons nous mon pauvre coeur 36
-" " " " Graves tcsmoins de mes delices 37
+" " " " Graves tesmoins de mes delices 37
 " " " " Vous me l'aviez bien dit 33
 " " " " Quoy Clorinde ru pars 39
 " " " " Tu te trompes Phillis 40
