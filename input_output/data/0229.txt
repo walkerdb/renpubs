@@ -1,5 +1,4 @@
-A 4. chzosa pargoletta, ch'hai del mio cor l'impero 16
-
+A 4. Vezzosa pargoletta, ch'hai del mio cor l'impero 16
 A 5. Non parto no, cor mio, che non si può partire 17
 " " Ch'io canti, ohimè ch'io canti, prega la bocca vaga 19
 " " Se la doglia e'l martire non può farmi morire (Marino) 21
@@ -7,21 +6,24 @@ A 5. Non parto no, cor mio, che non si può partire 17
 " " Crudel, se vuoi ch'io mora mi contento morire 25
 
 PL-GD: 5.
-
 L'A. esisteva in D-Bds, ma fu distrutto durante l'ultima guerra.
+
+
+
+
 
 356 - BIANCHI Catterino (1588) - Primo Libro delle Canzonette a cinque voci,
 con una Moresca a sei. Di Catterino Bianchi, novamente posti in luce. In Venetia,
 1588. Appresso Ricciardo Amadino.
 
-5fasc. in 8° (C.A.T.B.5.), pag. 22. Ded. a Oratio Rocellai, Venetia, ]" XII 1587.
+5 fasc. in 8° (C.A.T.B.5.), pag. 22. Ded. a Oratio Rocellai, Venetia, 1° XII 1587.
 
 A 5. Sentite, o donne care, l'arme ch'amor è andato a ritrovare 1
 " " Quanto più penso, o dura sorte mia, di star contento 2
-" " Dcstillo da quest'occhi afflitti e lassi 3
+" " Destillo da quest'occhi afflitti e lassi 3
 " " Non passa hora del giorno ch'io non sento 4
 " " Tu sei la calamita poi che st'afflitta vita 5
-" " Se st'occhi non faccssero doi fiumi 6
+" " Se st'occhi non facessero doi fiumi 6
 " " Il vostro dolce sguardo, ond'io son foco 7
 " " Dal desiderio nacque l'amor mio, campato fin a mò 8
 " " Quando tal'hor nell'apparir del giorno 9
@@ -31,12 +33,12 @@ A 5. Sentite, o donne care, l'arme ch'amor è andato a ritrovare 1
 " " Tengo a sto core nott'e dì na lampa 13
 " " Fiorite valli amene, d'ogni dolcezza piene 14
 " " Sapete, donna, quel ch'ha fatt'amore col foco 15
-" " Vago augelletto, che cantando vai (PCÌWFCH) 16
+" " Vago augelletto, che cantando vai (Petrarca) 16
 " " Io son farfalla e voi sete la luce 17
 " " Ho inteso a dir da molti che lo sanno che'l cigno 18
-" " Solo e pensoso (: fuor d'ogni sentiero vo lagrimand'ogn'hor 19
-" " Io. moro et ella ride et del mio mal non cura 20
-A 6. Tlchi roche tichi toch. Apatalena zoia mia. Moresca 21
+" " Solo e pensoso e fuor d'ogni sentiero vo lagrimand'ogn'hor 19
+" " Io moro et ella ride et del mio mal non cura 20
+A 6. Tlchi toche tichi toch. Apatalena zoia mia. Moresca 21
 
 I-VEaf: compl,
 
@@ -44,21 +46,13 @@ I-VEaf: compl,
 
 
 
-331150713- BIANCI-II Giovanni Battista (1675) - Madrigali a due, e tre voci con il
-n. asso continuo 'del padre bacciliere Gio. Battista Bianchi da Genova agostilano.-
-Dedicatl all'illustrissima signora Livia Grilla Opera Prima. In Bologna
+357 - BIANCHI Giovanni Battista (1675) - Madrigali a due, e tre voci con il
+suo Basso continuo del padre bacciliere Gio. Battista Bianchi da Genova agostilano.
+Dedicati all'illustrissima signora Livia Grilla Opera Prima. In Bologna
 per Giacomo Monti. 1675. Con licenza de' Superiori.
 
-4 fasc. in 8° (C.1°, C.2°, B., BG),
+4 fasc. in 8° (C.1°, C.2°, B., Bc), pag. 38(1). Ded.: "..L'essersi compiacciuta d'amettermi alla
+sua servitu...".
 
- a . 38 1. Ded.: "..L'essersi com iacciuta d'amett r '
-sua se-l'Vltu... ", p g '< ) P , €. mi alla
-
-A 3. Lusso, perchè mi fuggi s
-
-" " 'hai della morte mia tanto desio (Guarini) 1
-
-Io mor " - '
-O. cccho ch IO moro, bella nemlca mia (Marino) 1
-
-
+A 3. Lusso, perchè mi fuggi s'hai della morte mia tanto desio (Guarini) 1
+" " Io moro, eccho ch'io moro, bella nemica mia (Marino) 1

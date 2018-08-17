@@ -1,5 +1,4 @@
 Chi mett'il piè su l'amorosa pania cerchi ritrarl'e non (Ariosto) 25
-
 Crud'e spietata donna, ma più crudel amor che vi comporta 26
 Benedetto sia'l giorn'e'l mese e l'anno (Petrarca) 27
 Io credea che'l morir fuss'il maggior dolore 28
@@ -7,8 +6,11 @@ Io credea che'l morir fuss'il maggior dolore 28
 I-VEaf: compl.
 A-Wn: compl.
 
-BERTOLDO da Castelvetro
-Cfr.- BERTOLDI Bertoldo.
+
+
+
+
+
 
 353 - BERTOLOTTI Bernardino (1593) - Di Bernardino Bertolotti musico
 dell'altezza serenissima di Ferrara. Il Primo Libro de Madrigali a cinque voci
@@ -17,9 +19,9 @@ novamente posti in luce. In Venetia, appresso Ricciardo Amadino. 1593.
 5 fasc. in 8° (C.A.T.B.5.), pag. 21,(1). Ded. a Lodovico Molzi: "...queste mie povere fatiche
 primo frutto del mio sterile ingegno... Ferrara, 1° XII 1593".
 
-Come ben nata palma aceresce a i rami suoi gloria maggiore 1
+Come ben nata palma accresce a i rami suoi gloria maggiore 1
 Io v'amo, anima mia, vorrei sovente dire, et ardo ahi lasso 2
-Al vostro lampeggiar, occl'ii lucenti, fulminaste il mio petto 3
+Al vostro lampeggiar, occhi lucenti, fulminaste il mio petto 3
 Donna, quel vago lume, ch'esce da bei vostri occhi 4
 A che tremi e sospiri, o fin de miei desiri? 5
 Cara e vezzosa Clori, perchè s'hai nel bel volto la primavera 6
@@ -27,7 +29,7 @@ Ite, sospiri ardenti, ite, lagrime mie, dinanzi a quella 7
 Ardo de l'ardor vostro, ardo del mio. Da l'imperlata bocca 8
 Cangi pur altri stato, accogliendo con vista hor chiara 9
 Questa, ch'in verde etade, non pur rami produce e fronde 10
-Come fuggir poss'io s'in te dimoro? Tu ben mi cerchi ]]
+Come fuggir poss'io s'in te dimoro? Tu ben mi cerchi 11
 In dubbio eran di morte Filli ad un tempo e Clori 12
 Non può uccider gl'amanti l'arma, che minacciosa in sen portate 13
 Sì come il celeste arco a l'apparir promette il ciel sereno 14
@@ -45,12 +47,9 @@ I-MOe: compl.
 
 
 
-351! BERTOLOTTI Bernardino (1609) - Il Terzo Libro de Madrigali a cinque
-Voc1 di Bernardino Bertolotti, musico di Sua Santità nel castello di Sant'Angelo.
+354 BERTOLOTTI Bernardino (1609) - Il Terzo Libro de Madrigali a cinque
+Voci di Bernardino Bertolotti, musico di Sua Santità nel castello di Sant'Angelo.
 In Venetia. Appresso Ricciardo Amadino. 1609.
 
-5hfasc. in 8°'(C-1;\-T-B-5-), Png-.lel). Ded. al Cardinal Gonzaga: "La devota et continua servitù,
-C e per spatio di venti anni, 10 feci alla gloriosa memoria del Sereniss. Duca Alfonso di Ferrara
-
--ZI9-
-
+5 fasc. in 8°'(C.A.T.B.5.), Pag.21,(1). Ded. al Cardinal Gonzaga: "La devota et continua servitù,
+che per spatio di venti anni, io feci alla gloriosa memoria del Sereniss. Duca Alfonso di Ferrara

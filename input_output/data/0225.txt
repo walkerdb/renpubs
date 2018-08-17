@@ -1,32 +1,23 @@
 A 1. I' moro di desio, Lilla, cor del cor mio 16
-
-" " " Bella aurora gentil, deh sorgi e porta 18
+" " Bella aurora gentil, deh sorgi e porta 18
 " " S'io non spargo per voi questi ch'hor sì dolenti 20
 " " Lo stral, ch'avventa amor, temprato è nel dolor 22
 " " Sciocco e stolto rival, che godi del mio mal 24
 " " Fuggitivo, io t'ho pur colto, mentre sciolto 26
 " " Voi, folli e sciocchi amanti, che prodighi comprate 28
-
-( " " Tante guerre e tanti danni a un cor fedel? 30
-
-! " " Su, su, lieti cantate, pastori, danzate 32
+" " Tante guerre e tanti danni a un cor fedel? 30
+" " Su, su, lieti cantate, pastori, danzate 32
 " " Filli, che di dolore sparso il volto mi vede 34
-
-., " " Ohimè qual novo in sen da duoi bei lumi hor mi serpe 36
-
-C " " Ardo, ma rivelar il mio rinchiuso ardor 38
-
-/ " " Rasciugate per pietate quell'onde, che da voi piove '...
-
-T " " Ben sai tu ch'io t'adoro, bel idolo d'amore 42
+" " Ohimè qual novo in sen da duoi bei lumi hor mi serpe 36
+" " Ardo, ma rivelar il mio rinchiuso ardor 38
+" " Rasciugate per pietate quell'onde, che da voi piove 40
+" " Ben sai tu ch'io t'adoro, bel idolo d'amore 42
 " " Io non bramo la vita, nè gradisco il morir 44
 " " Poichè a miei pianti neghi romper il giaccio 46
 " " Occhi miei tristi, Ohimè di voi che fia. Dialogo con gl'occhi 48
-
-; A 2. Dolc'è languir per vago e bel ciglio seren 5'4
-
-l " " Torna sereno, di gioia pieno, ridente il di 56
-" " Morìr lieto e contento, viver di vita spento. Aria 58
+A 2. Dolc'è languir per vago e bel ciglio seren 54
+" " Torna sereno, di gioia pieno, ridente il di 56
+" " Morir lieto e contento, viver di vita spento. Aria 58
 A 1. Oh con quanta vaghezza, oh con quanta dolcezza. Cantata 61
 " " Se ben per prova il core (seconda parte) 51
 " " Giurai ben io di non volger (terza parte) 62
@@ -37,26 +28,28 @@ A 1. Oh con quanta vaghezza, oh con quanta dolcezza. Cantata 61
 I-Bc
 D-Hs (manc. di front. e ded. e delle pag. 37-38).
 
+
+
+
+
+
 351 - BERTI Giovan Pietro (1627) - Cantade et Arie ad'una voce sola commode
 da cantarsi nel Clavicembalo, Chitarrone, et altro simile stromento, con le lettere
 dell'alfabetto per la Chitarra spagnola Libro Secondo. Del Sig. Gio. Pietro Berti
 Organista della serenissima Republica di Venetia. Racolte da Alessandro Vincenti
 novamente composte, et date in luce. Con licenza de i Superiori, et privilegio.
-In Venetia, appresso Alessandro Vincenti. 1627. '
+In Venetia, appresso Alessandro Vincenti. 1627.
 
-Vol. in 8°, pag. 61. Ded. di Alessandro Vincenti a Giovanni Da Ponte, Venetia, 6 II 1627...
+Vol. in 8°, pag. 61. Ded. di Alessandro Vincenti a Giovanni Da Ponte, Venetia, 6 II 1627.
 
 Datemi pace, o duri miei pensieri, non vedete ch'amore 1
 Perchè l'alba i chiari di non t'appre 3
 Da grave incendio oppresso, chiamo soccorso 5
-Ben. m'aveggo, o bell'ing'rata, che non prezz'il mio servir 9
-IÀldia, che del mio amor prese gioco e rise "
-follor: deh, dimmi dì, se dal. tuo regno uscì più menzognera 13
-a ciel-d amor seren venisti aura di vita 15
-"Ben Fil-'in van chied'io mercede del mio lungo, aspro servaggîo 17
-b Soavissnne voci, tra perle o tra rubini in ciel formate 21
-dg?" tormenti, amore, prova ch'il cor ti dà 23
-! Con lima pungente m'affligge il cor dolente 25
-
--ZI7-
-
+Ben m'aveggo, o bell'ingrata, che non prezz'il mio servir 9
+Lidia, che del mio amor prese gioco e rise 11
+Amor, deh dimmi dì, se dal tuo regno uscì più menzognera 13
+Dal ciel d'amor seren venisti aura di vita 15
+Ben ch'in van chied'io mercede del mio lungo, aspro servaggio 17
+Soavissime voci, tra perle o tra rubini in ciel formate 21
+Gravi tormenti, amore, prova ch'il cor ti dà 23
+Chi con lima pungente m'affligge il cor dolente 25

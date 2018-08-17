@@ -1,8 +1,7 @@
 A 3. Voi non rubbate? Ah cruda, se rubaste il mio core dunque 3
-
 " " D'un più vivo rossore scopre le guancie terse costei 5
 " " Vivo mio sol, tu giri le luci e me non miri. Forse pietoso il fai (Marino) 7
-" " lo t'amo, vita mia, viè più de gl'occhi miei 9
+" " Io t'amo, vita mia, viè più de gl'occhi miei 9
 " " Feritevi ferite, viperette mordaci, dolci guerrere ardite (Marino) 11
 " " Io disleale? ah cruda, voi negate la fede per non mi dar mercede (Guarini) 14
 " " Lusinghiera fallace mi doni e mi tradisci e baciando le labra 16
@@ -13,7 +12,7 @@ A 3. Voi non rubbate? Ah cruda, se rubaste il mio core dunque 3
 " " Il cuor, che tu mi desti, fu di cera signor 28
 " " Giesù moribondo chiede da bere sia dunque il dovere 29
 " " Miei lumi, che fate? Quello che là nell'orto 32
-A 2. Qual poi segno maggiore, signor, ch'ei si sia grato 36
+A 2. Qual poi segno maggiore, signor, ch'ei sì sia grato 36
 " " Sdegnosetta e ritrosa v'affissate al cristallo 37
 
 I-Bc: compl.
@@ -22,11 +21,11 @@ I-Bc: compl.
 
 
 
-358 - BLANC?" Picr'Abtonio (1572) - Il Primo Libro delle Canzoni napolitanc
-a tre voci. Di Pier'Antonto Bianchi venetiano nuovamente poste in luce. In Vinegifl,
+358 - BIANCHI Pier'Antonio (1572) - Il Primo Libro delle Canzoni napolitane
+a tre voci. Di Pier'Antonio Bianchi venetiano nuovamente poste in luce. In Vinegia,
 appresso Girolamo Scotto. 1572
 
-3 fasc. in 8." (C:T.B.), pag. 31,(1). Ded. a Pietro Melchiori Gentil huomo d'Oderzo- " Havendo
+3 fasc. in 8° (C.T.B.), pag. 31,(1). Ded. a Pietro Melchiori Gentil huomo d'Oderzo: " Havendo
 fatto per mio diporto alcune canzoni Napolitane, le quali il petitione d'alcuni miei amici, sono
 astretto mettere in luce... Venecia, 14 IV 1572".
 
@@ -43,15 +42,11 @@ Vidi l'altr'hier sedendo su l'altana la mia stella Diana 12
 O come pazze sete a creder, donne, che chi vi mira 13
 Vidi una pastorella discalza a coglier fior 14
 Solo e pensoso e fuor d'ogni sentiero vo lagrimando ogn'hor 16
-Monti, montagne, colli, boschi e selve ]7
-Sospir, ccssate homai, chè a vittoria è nostra 13
-Amore l'altro giorno se n'andava solo soletto Di Luca Koln- 19
+Monti, montagne, colli, boschi e selve 17
+Sospir, cessate homai, chè a vittoria è nostra 13
+Amore l'altro giorno se n'andava solo soletto (Di Luca Kohc) 19
 E vinta l'amorosa rocca. Sì forte fu l'assalto 20
-Fuggit'amore, o voi che donne amate, fuggit'ancor z]
-Il tuo leggiadro volto lo spirt'e'l cor m'ha tolto . zz
-All'apparir dell'alba un pastorello dicea: Filli, ben mio €;
-
-Amara vita è quella de gl'amanti. Viveno sernpr'in piant'e acerbe
-
-ZZZ-
-
+Fuggit'amore, o voi che donne amate, fuggit'ancor 21
+Il tuo leggiadro volto lo spirt'e'l cor m'ha tolto 22
+All'apparir dell'alba un pastorello dicea: Filli, ben mio 24
+Amara vita è quella de gl'amanti. Viveno sempr'in piant'e acerbe 26

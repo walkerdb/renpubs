@@ -1,11 +1,17 @@
+
+
+
+
+
+
 347 - BERTANI Lelio (1585) - Di Lelio Bertani, maestro della musica del domo
 di Brescia, il Primo Libro de' Madrigali a sei voci, novamente stampati. In Venetia
-
 appresso Angelo Gardano. 1585.
+
 6 fasc. in 8° (C.A.T.B.5.6.), pag. 21,(1). Ded. al Duca di Ferrara, Brescia, 2 III 1585.
 
 A 6. Stese la mano Filli, il bel volto tinta di vermiglio 1
-" " Mia vita, io non so dire dove s'annid'nmore, o ne la fronte vostra 2
+" " Mia vita, io non so dire dove s'annid'amore, o ne la fronte vostra 2
 " " Cara mia Dafne, a dio, disse partendo a l'apparir del sole 3
 " " Qui nacqu'il gran Maron. L'udir quest'onde cantar 4
 " " Fortunato terren, cui dat'è in sorte (seconda parte) 5
@@ -20,10 +26,10 @@ A 6. Stese la mano Filli, il bel volto tinta di vermiglio 1
 " " Già fu mia dolce speme assai debile e lenta, hor cresce (Tasso) 14
 " " S'haver pur deva da begl'occhi morte, da cui esser ucciso (Celiano) 15
 " " Ahi chi t'insidia al boscareccio nido, o mia fera " 16
-", " Vieni, deh vieni a me, timida e bella (seconda parte) " 17
-" " S'apre il Stellato ciel, Diana splende di rose 18
-" " Del paradiso l'armonia si sente (secondapartc) 19
-A IZ. Venite, o novi Orfei. Canteremo hor di come sia. 20
+" " Vieni, deh vieni a me, timida e bella (seconda parte) " 17
+" " S'apre il stellato ciel, Diana splende di rose 18
+" " Del paradiso l'armonia si sente (seconda parte) 19
+A 12. Venite, o novi Orfei. Canteremo hor di come sia 20
 
 I-MOe: compl.
 D-HR: compl.
@@ -32,6 +38,7 @@ NL-At: C.T.
 D-HR: B.
 GB-Lbm: 5.
 I-Vnm: 5.
+
 
 
 
@@ -49,9 +56,6 @@ A-Wn: A.B.5.
 
 
 
-349 - BIERTANI Lelio - ANTEGNATI Costanzo (1585) - Madrigali spirituali,
-e.tre voci di Lelio Bertani, maestro della musica, et di Costanzo Antegnati organlsta
+349 - BERTANI Lelio (1585) - Madrigali spirituali,
+e tre voci di Lelio Bertani, maestro della musica, et di Costanzo Antegnati organista
 nel duomo di Brescia. Alli molto reverendi padri osservandissimi, il R. padre
-
--215-
-

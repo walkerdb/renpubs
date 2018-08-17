@@ -17790,7 +17790,7 @@
         "page": -1,
         "part": 3,
         "poet": "",
-        "title": "Ella si rcc'a sdegno di salutar l'autora",
+        "title": "Ella si rec'a sdegno di salutar l'autora",
         "voices": 4
       },
       {
@@ -90976,7 +90976,7 @@
         "siglum": "I-Vnm"
       },
       {
-        "parts": "Un esempl. compl. esisteva nella Collezione Heyer di Kôln.",
+        "parts": "Un esempl. compl. esisteva nella Collezione Heyer di Köln.",
         "siglum": "Collezione Heyer di Köln"
       }
     ],
@@ -91170,6 +91170,3115 @@
       }
     ],
     "year": "1584"
+  },
+  {
+    "composers": [
+      [
+        "Lelio Bertani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Duca di Ferrara",
+      "dedicator": "",
+      "location": {
+        "modern": "Ferrara",
+        "original": "Ferrara"
+      },
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "347"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-MOe"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "D-HR"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "PL-GD"
+      },
+      {
+        "parts": "C.T.",
+        "siglum": "NL-At"
+      },
+      {
+        "parts": "B.",
+        "siglum": "D-HR"
+      },
+      {
+        "parts": "5.",
+        "siglum": "GB-Lbm"
+      },
+      {
+        "parts": "5.",
+        "siglum": "I-Vnm"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 6,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Angelo Gardano",
+          "original": "Angelo Gardano"
+        }
+      ]
+    },
+    "title": "Di Lelio Bertani, maestro della musica del domo di Brescia, il Primo Libro de' Madrigali a sei voci, novamente stampati. In Venetia appresso Angelo Gardano. 1585.",
+    "voices": [
+      6
+    ],
+    "works": [
+      {
+        "composer": "Lelio Bertani",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Stese la mano Filli, il bel volto tinta di vermiglio",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Mia vita, io non so dire dove s'annid'amore, o ne la fronte vostra",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Cara mia Dafne, a dio, disse partendo a l'apparir del sole",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Qui nacqu'il gran Maron. L'udir quest'onde cantar",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 5,
+        "part": 2,
+        "poet": "",
+        "title": "Fortunato terren, cui dat'è in sorte",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Amatemi, ben mio, perchè sdegn'il mio core ogn'altro cibo",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 7,
+        "part": 1,
+        "poet": "Tasso",
+        "title": "Tu moristi in quel seno, piccoletta zanzara",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Tirsi partir volea da la sua Filli",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 9,
+        "part": 2,
+        "poet": "",
+        "title": "Disse il pastor piangendo: idolo mio",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 10,
+        "part": 1,
+        "poet": "Amalteo",
+        "title": "Fra bei rubini e calda neve amore tremante",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Hor ch'allegra e ridente la vaga primavera",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "S'al suon de la tua",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 13,
+        "part": 2,
+        "poet": "",
+        "title": "Se l'opre tue son rare, alte e divine",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 14,
+        "part": 1,
+        "poet": "Tasso",
+        "title": "Già fu mia dolce speme assai debile e lenta, hor cresce",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 15,
+        "part": 1,
+        "poet": "Celiano",
+        "title": "S'haver pur deva da begl'occhi morte, da cui esser ucciso",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Ahi chi t'insidia al boscareccio nido, o mia fera",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 17,
+        "part": 2,
+        "poet": "",
+        "title": "Vieni, deh vieni a me, timida e bella",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "S'apre il stellato ciel, Diana splende di rose",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 19,
+        "part": 2,
+        "poet": "",
+        "title": "Del paradiso l'armonia si sente",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Venite, o novi Orfei. Canteremo hor di come sia",
+        "voices": 12
+      }
+    ],
+    "year": "1585"
+  },
+  {
+    "composers": [
+      [
+        "Lelio Bertani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "348"
+    },
+    "library_locations": [
+      {
+        "parts": "A.B.5.",
+        "siglum": "A-Wn"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 6,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Angelo Gardano",
+          "original": "Angelo Gardano"
+        }
+      ]
+    },
+    "title": "Di Lelio Bertani, maestro della musica del domo di Brescia, il Primo Libro de Madrigali, a sei voci. Novamente ristampati. In Venetia. Appresso Angelo Gardano, et fratelli. 1607.",
+    "voices": [
+      6
+    ],
+    "works": [
+      {
+        "composer": "Lelio Bertani",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Stese la mano Filli, il bel volto tinta di vermiglio",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Mia vita, io non so dire dove s'annid'amore, o ne la fronte vostra",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Cara mia Dafne, a dio, disse partendo a l'apparir del sole",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Qui nacqu'il gran Maron. L'udir quest'onde cantar",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 5,
+        "part": 2,
+        "poet": "",
+        "title": "Fortunato terren, cui dat'è in sorte",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Amatemi, ben mio, perchè sdegn'il mio core ogn'altro cibo",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 7,
+        "part": 1,
+        "poet": "Tasso",
+        "title": "Tu moristi in quel seno, piccoletta zanzara",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Tirsi partir volea da la sua Filli",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 9,
+        "part": 2,
+        "poet": "",
+        "title": "Disse il pastor piangendo: idolo mio",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 10,
+        "part": 1,
+        "poet": "Amalteo",
+        "title": "Fra bei rubini e calda neve amore tremante",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Hor ch'allegra e ridente la vaga primavera",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "S'al suon de la tua",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 13,
+        "part": 2,
+        "poet": "",
+        "title": "Se l'opre tue son rare, alte e divine",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 14,
+        "part": 1,
+        "poet": "Tasso",
+        "title": "Già fu mia dolce speme assai debile e lenta, hor cresce",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 15,
+        "part": 1,
+        "poet": "Celiano",
+        "title": "S'haver pur deva da begl'occhi morte, da cui esser ucciso",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Ahi chi t'insidia al boscareccio nido, o mia fera",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 17,
+        "part": 2,
+        "poet": "",
+        "title": "Vieni, deh vieni a me, timida e bella",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "S'apre il stellato ciel, Diana splende di rose",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 19,
+        "part": 2,
+        "poet": "",
+        "title": "Del paradiso l'armonia si sente",
+        "voices": 6
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Venite, o novi Orfei. Canteremo hor di come sia",
+        "voices": 12
+      }
+    ],
+    "year": "1607"
+  },
+  {
+    "composers": [
+      [
+        "Lelio Bertani"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "349"
+    },
+    "library_locations": [
+      {
+        "parts": "C.",
+        "siglum": "I-Vnm"
+      },
+      {
+        "parts": "1585-8.",
+        "siglum": "RISM"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 3,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "NO_PRINTER_KNOWN",
+      "printers": [
+        {
+          "modern": "NO_PRINTER_KNOWN",
+          "original": "NO_PRINTER_KNOWN"
+        }
+      ]
+    },
+    "title": "Madrigali spirituali, e tre voci di Lelio Bertani, maestro della musica, et di Costanzo Antegnati organista nel duomo di Brescia. Alli molto reverendi padri osservandissimi, il R. padre rettore, et compagni del Collegio della Compagnia di Giesù in S. Antonio di Brescia. In Brescia, appresso Vincenzo Sabbio. 1585. Con licenza de' Superiori.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Lelio Bertani",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Santo spirto del ciel ch'al padre",
+        "voices": 3
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Ite voland'o miei sospiri ardenti",
+        "voices": 3
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 3,
+        "part": 1,
+        "poet": "Grillo",
+        "title": "Diva fiamma del cielo, deh spira in questo",
+        "voices": 3
+      },
+      {
+        "composer": "Costanzo Antegnati",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Clemenza santa e pia, nata in ciel",
+        "voices": 3
+      },
+      {
+        "composer": "Costanzo Antegnati",
+        "page": 5,
+        "part": 2,
+        "poet": "",
+        "title": "Ma dea clemente",
+        "voices": 3
+      },
+      {
+        "composer": "Costanzo Antegnati",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Ahi che turbato è il mare",
+        "voices": 3
+      },
+      {
+        "composer": "Costanzo Antegnati",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Sacra mia fiamma e cara, s'infiamm'il ghiaccio",
+        "voices": 3
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "De gli accesi sospiri et de le amare lacrime",
+        "voices": 3
+      },
+      {
+        "composer": "Costanzo Antegnati",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "La divina clemena ch'in te fu sempre",
+        "voices": 3
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Leva dal oprar mio e dal folle pensier",
+        "voices": 3
+      },
+      {
+        "composer": "Costanzo Antegnati",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Fuggi, fuggi, cor mio, da l'empio amore",
+        "voices": 3
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "L'ale via più che mai ardita e pronta",
+        "voices": 3
+      },
+      {
+        "composer": "Costanzo Antegnati",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Quell'anima gentile e pelegrina",
+        "voices": 3
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Signor, se mai pietosi giri ver me",
+        "voices": 3
+      },
+      {
+        "composer": "Costanzo Antegnati",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Pungi di santi amori, felice stral",
+        "voices": 3
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "O angelica schiera di Serafin",
+        "voices": 3
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Prospera vita in terra non ti chieggio",
+        "voices": 3
+      },
+      {
+        "composer": "Lelio Bertani",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Chiare, celesti stelle, se sete così belle",
+        "voices": 3
+      },
+      {
+        "composer": "Costanzo Antegnati",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "L'alta pia clemenza qual debia",
+        "voices": 3
+      },
+      {
+        "composer": "Costanzo Antegnati",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Spiega l'ali, o pensier, a l'aura",
+        "voices": 3
+      },
+      {
+        "composer": "Costanzo Antegnati",
+        "page": 21,
+        "part": 2,
+        "poet": "",
+        "title": "Sgorgò prospera e fida",
+        "voices": 3
+      }
+    ],
+    "year": "1585"
+  },
+  {
+    "composers": [
+      [
+        "Giovan Pietro Berti"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Valerio Michiel",
+      "dedicator": "Alessandro Vincenti",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "...È notto al mondo la protettione che ella suol tenere continuamente del'Auttore... Queste Ariette. poi... oltre il gusto co'l quale tante volte le hà sentite, sono quasi tutte nate in casa sua, dove il Sig.r Gio: Pietro... hà trovato longo tempo ricetto... Venetia, 10 X 1624 \". Alfabeto per Chitarra alla spagnola."
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "350"
+    },
+    "library_locations": [
+      {
+        "parts": "",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "",
+        "siglum": "D-Hs (manc. di front. e ded. e delle pag. 37-38)."
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 65,
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Alessandro Vincenti",
+          "original": "Alessandro Vincenti"
+        }
+      ]
+    },
+    "title": "Cantade et Arie ad una voce sola con alcune a doi commode da cantarsi nel Clavicembalo, Chitarrone et altro simile stromento, con le lettere dell'alfabeto per la Chitarra spagnola del sig. Gio.Pietro Berti organista delle serenissima Republica racolte da Alessandro Vincenti novamente composte, et date in luce. Con privilegio. In Venetia, appresso di Alessandro Vincenti. 1624. (Cantade et Arie a voce sola... Libro Primo.).",
+    "voices": [
+      1,
+      2
+    ],
+    "works": [
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "O da fila canore con le dita fugaci tragga voci sonore",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Se per l'oro d'un crine mai più mia libertà vendo",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Che faro, dolce mio ben? Potrò mai goder a pien",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "O dolcissima saetta, o vezzosa lingua no, ma viperetta",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Quando dentro il tuo seno vibra amoroso sguardo",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Torna il sereno zefiro e gl'augeletti garuli",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Giovanette ascoltate, hor che de bei vostri occhi",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "I' moro di desio, Lilla, cor del cor mio",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Bella aurora gentil, deh sorgi e porta",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "S'io non spargo per voi questi ch'hor sì dolenti",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Lo stral, ch'avventa amor, temprato è nel dolor",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Sciocco e stolto rival, che godi del mio mal",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Fuggitivo, io t'ho pur colto, mentre sciolto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Voi, folli e sciocchi amanti, che prodighi comprate",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Tante guerre e tanti danni a un cor fedel?",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "Su, su, lieti cantate, pastori, danzate",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 34,
+        "part": 1,
+        "poet": "",
+        "title": "Filli, che di dolore sparso il volto mi vede",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 36,
+        "part": 1,
+        "poet": "",
+        "title": "Ohimè qual novo in sen da duoi bei lumi hor mi serpe",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 38,
+        "part": 1,
+        "poet": "",
+        "title": "Ardo, ma rivelar il mio rinchiuso ardor",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 40,
+        "part": 1,
+        "poet": "",
+        "title": "Rasciugate per pietate quell'onde, che da voi piove",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 42,
+        "part": 1,
+        "poet": "",
+        "title": "Ben sai tu ch'io t'adoro, bel idolo d'amore",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 44,
+        "part": 1,
+        "poet": "",
+        "title": "Io non bramo la vita, nè gradisco il morir",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 46,
+        "part": 1,
+        "poet": "",
+        "title": "Poichè a miei pianti neghi romper il giaccio",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 48,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi miei tristi, Ohimè di voi che fia. Dialogo con gl'occhi",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 54,
+        "part": 1,
+        "poet": "",
+        "title": "Dolc'è languir per vago e bel ciglio seren",
+        "voices": 2
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 56,
+        "part": 1,
+        "poet": "",
+        "title": "Torna sereno, di gioia pieno, ridente il di",
+        "voices": 2
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 58,
+        "part": 1,
+        "poet": "",
+        "title": "Morir lieto e contento, viver di vita spento. Aria",
+        "voices": 2
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 61,
+        "part": 1,
+        "poet": "",
+        "title": "Oh con quanta vaghezza, oh con quanta dolcezza. Cantata",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 51,
+        "part": 2,
+        "poet": "",
+        "title": "Se ben per prova il core",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 62,
+        "part": 3,
+        "poet": "",
+        "title": "Giurai ben io di non volger",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 63,
+        "part": 4,
+        "poet": "",
+        "title": "Ah non doppiar le pene",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 63,
+        "part": 5,
+        "poet": "",
+        "title": "Piangi pur, ella gode",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 64,
+        "part": 6,
+        "poet": "",
+        "title": "Deh perdona al cor mio",
+        "voices": 1
+      }
+    ],
+    "year": "1624"
+  },
+  {
+    "composers": [
+      [
+        "Giovan Pietro Berti"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Giovanni Da Ponte",
+      "dedicator": "Alessandro Vincenti",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "351"
+    },
+    "library_locations": [
+      {
+        "parts": "",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "",
+        "siglum": "GB-Lbm"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 61,
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Alessandro Vincenti",
+          "original": "Alessandro Vincenti"
+        }
+      ]
+    },
+    "title": "Cantade et Arie ad'una voce sola commode da cantarsi nel Clavicembalo, Chitarrone, et altro simile stromento, con le lettere dell'alfabetto per la Chitarra spagnola Libro Secondo. Del Sig. Gio. Pietro Berti Organista della serenissima Republica di Venetia. Racolte da Alessandro Vincenti novamente composte, et date in luce. Con licenza de i Superiori, et privilegio. In Venetia, appresso Alessandro Vincenti. 1627.",
+    "voices": [
+      1
+    ],
+    "works": [
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Datemi pace, o duri miei pensieri, non vedete ch'amore",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Perchè l'alba i chiari di non t'appre",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Da grave incendio oppresso, chiamo soccorso",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Ben m'aveggo, o bell'ingrata, che non prezz'il mio servir",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Lidia, che del mio amor prese gioco e rise",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, deh dimmi dì, se dal tuo regno uscì più menzognera",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Dal ciel d'amor seren venisti aura di vita",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Ben ch'in van chied'io mercede del mio lungo, aspro servaggio",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Soavissime voci, tra perle o tra rubini in ciel formate",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Gravi tormenti, amore, prova ch'il cor ti dà",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Chi con lima pungente m'affligge il cor dolente",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi un tempo a la mia vita bel sostegno. Canzon baccante",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Durnque sempre a un fiero strale sarà il cor. Canzon baccante",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "Lidia, che fia di me, se languendo per te ridir non oso",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 33,
+        "part": 1,
+        "poet": "",
+        "title": "Il mio cor nutrirà viva sua fè, nè men caldo amarà. Balletto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 35,
+        "part": 1,
+        "poet": "",
+        "title": "Vivo in foco d'amor, nè pena, nè dolor temendo sempre. Balletto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 37,
+        "part": 1,
+        "poet": "",
+        "title": "Fuor del regno d'amor, regno di duolo",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 39,
+        "part": 1,
+        "poet": "",
+        "title": "Ogni finta dolcezza, ogni falso piacer hor m'apporta",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 41,
+        "part": 1,
+        "poet": "",
+        "title": "Quelle dolci parolette, quegli sguardi lusinghieri",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 43,
+        "part": 1,
+        "poet": "",
+        "title": "Donna superba, ch'hai d'oro le trezze",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 45,
+        "part": 1,
+        "poet": "",
+        "title": "Perchè non val contro il duol mia virtute et al mio mal. Testamento amoroso",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 47,
+        "part": 1,
+        "poet": "",
+        "title": "Da le lusinghe homai, perfida, cessa e va",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 49,
+        "part": 1,
+        "poet": "",
+        "title": "Dunque dovrò sol io veder zoppo in mio prò. Balletto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 51,
+        "part": 1,
+        "poet": "",
+        "title": "Fiati angosciosi, fumi amorosi, che'l tristo core",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 53,
+        "part": 1,
+        "poet": "",
+        "title": "Havran pur fine i lunghi stratij, amor",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 55,
+        "part": 1,
+        "poet": "",
+        "title": "Folle mio cor, dove volando vai? Dialogo",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Berti",
+        "page": 58,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi, se sette i giri onde il mio nume spiega. Sonetto",
+        "voices": 1
+      }
+    ],
+    "year": "1627"
+  },
+  {
+    "composers": [
+      [
+        "Bertoldo Bertoldi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Laura da Este",
+      "dedicator": "Bertoldo di Bertoldi",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "352"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-VEaf"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "A-Wn"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 28,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Antonio Gardano",
+          "original": "Antonium Gardane"
+        }
+      ]
+    },
+    "title": "Il Primo Libro de Madregali di don Bertoldo da Castel Vetro a quatro voci novamente stampati et posti in luce. A quatro voci. Venetiis apud Antonium Gardane. 1544.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 1,
+        "part": 1,
+        "poet": "Tansillo",
+        "title": "Quando per gentil atto di saluto, ver bella donna levo",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Prima che morte ria tronch'il corso de gl'anni",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Dolc'e fresch'onde cihare, che con spene di pace",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Virginia, altiera sete e fav'altiera vaneggiar",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 5,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Nessun visse giamai più di me lieto",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Una vag'isoletta nasce là dov'aspetta Arno dolente",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Vagh'angioletta, com'avien che gli occhi soavemente",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Madonna, bella sete, ma la vostra beltà nulla s'aprezza",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 9,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Dolci rime leggiadre, che nel primier assalto",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Canzon, s'al dolce loco la donna nostra vedi",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Mia benigna fortuna e'l viver lieto",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "I' non poria giamai imaginar non che narrar",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Lasso, ch'io ardo et altri non mel crede",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Il dì s'apress'e non pott'esser longi",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 15,
+        "part": 1,
+        "poet": "Tansillo",
+        "title": "Amor, la mia ventur'è troppo cruda et ciò ch'encontra",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Voi non m'amat'et io pur troppo v'amo. Se voi m'amasti",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 17,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Canzon, s'huom trov'in suo amor quieto",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Se con penne di stil cotant'alzai non poi, canzon",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Madonn'al mio languire mai atto di pietà vi strins'il core",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 20,
+        "part": 1,
+        "poet": "Barignano",
+        "title": "Com'havrò donqu'il frutto del seme sparso, amor",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Lasso, ch'io mi credea cangiando loco cangiar anchor",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 22,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Deh hor foss'io col vago della luna adormentato",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Biastemo quando mai le labr'apersi per dar nom'a costei",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 24,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Io dico e dissi e dirò s'in ch'io viva",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 25,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Chi mett'il piè su l'amorosa pania cerchi ritrarl'e non",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Crud'e spietata donna, ma più crudel amor che vi comporta",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 27,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Benedetto sia'l giorn'e'l mese e l'anno",
+        "voices": 4
+      },
+      {
+        "composer": "Bertoldo Bertoldi",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Io credea che'l morir fuss'il maggior dolore",
+        "voices": 4
+      }
+    ],
+    "year": "1544"
+  },
+  {
+    "composers": [
+      [
+        "Bernardino Bertolotti"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Lodovico Molzi",
+      "dedicator": "",
+      "location": {
+        "modern": "Ferrara",
+        "original": "Ferrara"
+      },
+      "text": "...queste mie povere fatiche primo frutto del mio sterile ingegno... Ferrara, 1° XII 1593\"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "353"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-MOe"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Di Bernardino Bertolotti musico dell'altezza serenissima di Ferrara. Il Primo Libro de Madrigali a cinque voci novamente posti in luce. In Venetia, appresso Ricciardo Amadino. 1593.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Come ben nata palma accresce a i rami suoi gloria maggiore",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Io v'amo, anima mia, vorrei sovente dire, et ardo ahi lasso",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Al vostro lampeggiar, occhi lucenti, fulminaste il mio petto",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, quel vago lume, ch'esce da bei vostri occhi",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "A che tremi e sospiri, o fin de miei desiri?",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Cara e vezzosa Clori, perchè s'hai nel bel volto la primavera",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Ite, sospiri ardenti, ite, lagrime mie, dinanzi a quella",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Ardo de l'ardor vostro, ardo del mio. Da l'imperlata bocca",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Cangi pur altri stato, accogliendo con vista hor chiara",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Questa, ch'in verde etade, non pur rami produce e fronde",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Come fuggir poss'io s'in te dimoro? Tu ben mi cerchi",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "In dubbio eran di morte Filli ad un tempo e Clori",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Non può uccider gl'amanti l'arma, che minacciosa in sen portate",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Sì come il celeste arco a l'apparir promette il ciel sereno",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Poi che sì bella bocca folgori e fiamme scocca",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 15,
+        "part": 1,
+        "poet": "Rinaldi",
+        "title": "Non avventar più strali da tuoi begli occhi",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Come gemme talhor pregiate e care e di vetro e di rame",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Se in ciel tal hora miro, veggio serena luce ch'equale a voi",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Sul trionfante carro, ove il mio sole adorno a voi rimena",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Costei vuol ch'io la baci, amor, ma lasso ahi ch'il gioire",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Mi dona la mia donna mille soavi baci, indi: ben mio, mi dice",
+        "voices": 5
+      }
+    ],
+    "year": "1593"
+  },
+  {
+    "composers": [
+      [
+        "Bernardino Bertolotti"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Cardinal Gonzaga",
+      "dedicator": "",
+      "location": {
+        "modern": "Rome",
+        "original": "Roma"
+      },
+      "text": "La devota et continua servitù, che per spatio di venti anni, io feci alla gloriosa memoria del Sereniss. Duca Alfonso di Ferrara Zio di V.S. Illustriss... Venuta l'occasione del passaggio della Regina, per Mantova, fui commandato di servire al Sereniss. Sig. Duca Padre di V. Sig. Illustriss. nelle feste et Comedie, che si fecero per recreatione di quella Catholica Maestà... Roma, 10 IX 1609\"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "354"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "D-Rp"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": "",
+      "partbook_count": 5,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Il Terzo Libro de Madrigali a cinque Voci di Bernardino Bertolotti, musico di Sua Santità nel castello di Sant'Angelo. In Venetia. Appresso Ricciardo Amadino. 1609.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 1,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "O come è gran martire a celar suo desire",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Vanne, rosa gradita, nel sen de la mia vita e se per sorte",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 3,
+        "part": 2,
+        "poet": "",
+        "title": "Quella rosa gradita",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Quasi lampo venisti, di condor cinto e di bei raggi d'oro",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Mio sol, quand'io vi miro",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Uccellin lascivetto, loquace e garruletto",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Fascinatrice e dispietata bocca",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Sì pietoso m'apparve",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Dolce angioletta",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Vivo tra i sassi",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Fece da voi partita",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Quel primo fior",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 13,
+        "part": 2,
+        "poet": "",
+        "title": "Sì aspra è la partita",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Qual'hora vi scoprite, scopresi l'alba ancor lucente",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Io non mi maraviglio, nè mi spanto",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Quant'in voi l'odio cresce",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 17,
+        "part": 1,
+        "poet": "Rinaldi",
+        "title": "Dolce, grave et acuto. Quest'i tre accenti sono",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Figlia gradita e cara",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Già non sapea, madonna",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "I' arsi et ard'ancora",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardino Bertolotti",
+        "page": 21,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Voi pur da me partite, anima cruda, nè vi duole",
+        "voices": 5
+      }
+    ],
+    "year": "1609"
+  },
+  {
+    "composers": [
+      [
+        "Geronimo Bettino"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "Carlo Calzareti",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "Alle S.S. Vostre Illustrissime rappresento questi Concerti musicali del già defonto mio Maestro... Venetia, 1° IX 1643\"."
+    },
+    "genres": [
+      "Arias"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "355"
+    },
+    "library_locations": [
+      {
+        "parts": "5.",
+        "siglum": "PL-GD"
+      },
+      {
+        "parts": "",
+        "siglum": "L'A. esisteva in D-Bds, ma fu distrutto durante l'ultima guerra."
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 25,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Bartolomeo Magni",
+          "original": "Bartolomeo Magni"
+        }
+      ]
+    },
+    "title": "Concerti Accademici di Geronimo Bettino veronese dedicati all'ill.mi sgnori Geronimo Boldù capitanio di Verona. Et Maria Molina Boldù con licenza de Superiori et privilegio. In Venetia 1643 appresso Bartolomeo Magni.",
+    "voices": [],
+    "works": [
+      {
+        "composer": "Geronimo Bettino",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Scherzate pur",
+        "voices": 2
+      },
+      {
+        "composer": "Dionisio Bellante",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Ninfa, che del vicin fiume beato havete",
+        "voices": 2
+      },
+      {
+        "composer": "Dionisio Bellante",
+        "page": 6,
+        "part": 1,
+        "poet": "Boccaccio",
+        "title": "Io mi son giovinetta e volentieri rido",
+        "voices": 2
+      },
+      {
+        "composer": "Dionisio Bellante",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Come il sol fra le nuvole",
+        "voices": 2
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Sfidi tu forse ai baci con queste labbra tue",
+        "voices": 2
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Perchè taci, cor mio. Canzonetta",
+        "voices": 2
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 9,
+        "part": 2,
+        "poet": "",
+        "title": "Scopri le tue",
+        "voices": 2
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 10,
+        "part": 3,
+        "poet": "",
+        "title": "Mostra a lei",
+        "voices": 2
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 10,
+        "part": 4,
+        "poet": "",
+        "title": "Ma tu pur taci",
+        "voices": 2
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Vezzosa giovanetta, tu de miei baci prendi a le mie labra",
+        "voices": 2
+      },
+      {
+        "composer": "Dionisio Bellante",
+        "page": 12,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Taci, bocca deh taci de l'amate bellezze",
+        "voices": 2
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 13,
+        "part": 2,
+        "poet": "",
+        "title": "Ne le guancie di rose",
+        "voices": 2
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 13,
+        "part": 3,
+        "poet": "",
+        "title": "Vostro ciglio",
+        "voices": 2
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 14,
+        "part": 4,
+        "poet": "",
+        "title": "Vibri la lingua",
+        "voices": 2
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Udite, alpestri monti, udite o valli",
+        "voices": 2
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 15,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Hor che l'aria e la terra arde e fiammeggia",
+        "voices": 2
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Vezzosa pargoletta, ch'hai del mio cor l'impero",
+        "voices": 4
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Non parto no, cor mio, che non si può partire",
+        "voices": 5
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Ch'io canti, ohimè ch'io canti, prega la bocca vaga",
+        "voices": 5
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 21,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Se la doglia e'l martire non può farmi morire",
+        "voices": 5
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Languisco, ardo e sospiro e con note dolenti",
+        "voices": 5
+      },
+      {
+        "composer": "Geronimo Bettino",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Crudel, se vuoi ch'io mora mi contento morire",
+        "voices": 5
+      }
+    ],
+    "year": "1643"
+  },
+  {
+    "composers": [
+      [
+        "Catterino Bianchi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Oratio Rocellai",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": ""
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "356"
+    },
+    "library_locations": [
+      {
+        "parts": "compl,",
+        "siglum": "I-VEaf"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 22,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Primo Libro delle Canzonette a cinque voci, con una Moresca a sei. Di Catterino Bianchi, novamente posti in luce. In Venetia, 1588. Appresso Ricciardo Amadino.",
+    "voices": [
+      1,
+      5
+    ],
+    "works": [
+      {
+        "composer": "Catterino Bianchi",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Sentite, o donne care, l'arme ch'amor è andato a ritrovare",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Quanto più penso, o dura sorte mia, di star contento",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Destillo da quest'occhi afflitti e lassi",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Non passa hora del giorno ch'io non sento",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Tu sei la calamita poi che st'afflitta vita",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Se st'occhi non facessero doi fiumi",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Il vostro dolce sguardo, ond'io son foco",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Dal desiderio nacque l'amor mio, campato fin a mò",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Quando tal'hor nell'apparir del giorno",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Amor m'ha disfidato alla battaglia. La fronte di madonna",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Villanella, per tua fè non negar un guard'a me",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Poichè fortuna mi t'ha fatt'amare habbi pietà",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Tengo a sto core nott'e dì na lampa",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Fiorite valli amene, d'ogni dolcezza piene",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Sapete, donna, quel ch'ha fatt'amore col foco",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 16,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Vago augelletto, che cantando vai",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Io son farfalla e voi sete la luce",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Ho inteso a dir da molti che lo sanno che'l cigno",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Solo e pensoso e fuor d'ogni sentiero vo lagrimand'ogn'hor",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Io moro et ella ride et del mio mal non cura",
+        "voices": 5
+      },
+      {
+        "composer": "Catterino Bianchi",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Tlchi toche tichi toch. Apatalena zoia mia. Moresca",
+        "voices": 6
+      }
+    ],
+    "year": "1588"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Battista Bianchi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "357"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Bc"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 38,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Bologna",
+      "printers": [
+        {
+          "modern": "Giacomo Monti",
+          "original": "Giacomo Monti"
+        }
+      ]
+    },
+    "title": "Madrigali a due, e tre voci con il suo Basso continuo del padre bacciliere Gio. Battista Bianchi da Genova agostilano. Dedicati all'illustrissima signora Livia Grilla Opera Prima. In Bologna per Giacomo Monti. 1675. Con licenza de' Superiori.",
+    "voices": [
+      2,
+      3
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 1,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Lusso, perchè mi fuggi s'hai della morte mia tanto desio",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 1,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Io moro, eccho ch'io moro, bella nemica mia",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Voi non rubbate? Ah cruda, se rubaste il mio core dunque",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "D'un più vivo rossore scopre le guancie terse costei",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 7,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Vivo mio sol, tu giri le luci e me non miri. Forse pietoso il fai",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Io t'amo, vita mia, viè più de gl'occhi miei",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 11,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Feritevi ferite, viperette mordaci, dolci guerrere ardite",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 14,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Io disleale? ah cruda, voi negate la fede per non mi dar mercede",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Lusinghiera fallace mi doni e mi tradisci e baciando le labra",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 18,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Dunque può star con barbara fierezza",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Fuggi quel disleale, vag'augellin, cui la tua man",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, se con leggiadro e nuov'inganno hai per tuo segno",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Peccatore, quando de falli tuoi vorai pentirti",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Il cuor, che tu mi desti, fu di cera signor",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Giesù moribondo chiede da bere sia dunque il dovere",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "Miei lumi, che fate? Quello che là nell'orto",
+        "voices": 3
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 36,
+        "part": 1,
+        "poet": "",
+        "title": "Qual poi segno maggiore, signor, ch'ei sì sia grato",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Battista Bianchi",
+        "page": 37,
+        "part": 1,
+        "poet": "",
+        "title": "Sdegnosetta e ritrosa v'affissate al cristallo",
+        "voices": 2
+      }
+    ],
+    "year": "1675"
+  },
+  {
+    "composers": [
+      [
+        "Pier'Antonio Bianchi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Pietro Melchiori Gentil",
+      "dedicator": "",
+      "location": {
+        "modern": "Naples",
+        "original": "Napoli"
+      },
+      "text": "Havendo fatto per mio diporto alcune canzoni Napolitane, le quali il petitione d'alcuni miei amici, sono astretto mettere in luce... Venecia, 14 IV 1572\"."
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "358"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "A-Wn"
+      },
+      {
+        "parts": "C.",
+        "siglum": "I-Fn"
+      },
+      {
+        "parts": "C.",
+        "siglum": "D-As"
+      },
+      {
+        "parts": "B.",
+        "siglum": "H-Bn"
+      },
+      {
+        "parts": "1572-10 (non compl.).",
+        "siglum": "RISM"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 31,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Girolamo Scotto",
+          "original": "Girolamo Scotto"
+        }
+      ]
+    },
+    "title": "Il Primo Libro delle Canzoni napolitane a tre voci. Di Pier'Antonio Bianchi venetiano nuovamente poste in luce. In Vinegia, appresso Girolamo Scotto. 1572",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Infermi frutti, gite al divin Però e tinti di rossor",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Correte, oscuri amanti, correte tutti quanti al fuoc'ove",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Mille sospir dall'alma tu mi trai e i sereni tuoi rai",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Fuggimi quanto voi, faccia mia d'oro, e celami so volto",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Lasso, ch'io ard'e voi non lo credete, dolce mio ben",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Intorno al bianco tuo petto scherzando, donna mia",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Regna ne gl'occhi tuoi, donna gentile",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, se mirar brami che sia spento subitamente in me",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Perchè mi date ogn'hor tormento e morte se lo sapete",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Vidi l'altr'hier sedendo su l'altana la mia stella Diana",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "O come pazze sete a creder, donne, che chi vi mira",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Vidi una pastorella discalza a coglier fior",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Solo e pensoso e fuor d'ogni sentiero vo lagrimando ogn'hor",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Monti, montagne, colli, boschi e selve",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Sospir, cessate homai, chè a vittoria è nostra",
+        "voices": 3
+      },
+      {
+        "composer": "Luca Kohc",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Amore l'altro giorno se n'andava solo soletto",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "E vinta l'amorosa rocca. Sì forte fu l'assalto",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Fuggit'amore, o voi che donne amate, fuggit'ancor",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Il tuo leggiadro volto lo spirt'e'l cor m'ha tolto",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "All'apparir dell'alba un pastorello dicea: Filli, ben mio",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Amara vita è quella de gl'amanti. Viveno sempr'in piant'e acerbe",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Vanne per cortesia, dolce canzona mia, dritt'a colei",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Strali, fiamm'e catene, pianti, tormenti e pene",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Vanne, vanne, o pensiero, non men grave ch'altiero",
+        "voices": 3
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Non posso più durare, pietà voglio gridare",
+        "voices": 3
+      }
+    ],
+    "year": "1572"
+  },
+  {
+    "composers": [
+      [
+        "Pier'Antonio Bianchi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Giorgio Khisl",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "...primo parto del mio infecondo ingegno... Venetia, 8 VI 1582 \"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "359"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "C.T.B.",
+        "siglum": "I-Vnm"
+      },
+      {
+        "parts": "T.B.",
+        "siglum": "D-Mbs"
+      },
+      {
+        "parts": "1582-9 (erroneo)",
+        "siglum": "RISM"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 21,
+      "partbook_count": 4,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Angelo Gardano",
+          "original": "Angelo Gardano"
+        }
+      ]
+    },
+    "title": "Il Primo Libro de Madrigali a quattro voci di Pietro Antonio Bianco servitore del sereniss. principe Carlo arciduca d'Austria etc. novamente composti, et dati in luce. In Venetia appresso Angelo Gardano. 1582.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 1,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Deh torna a me, mio sol, torna e rimena la desiata",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 2,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Come havrà vita, amor, la vita mia se chi mi può dar vita",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 3,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Gionto m'havea tra belle e nude braccia",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 4,
+        "part": 1,
+        "poet": "Molino",
+        "title": "Piangea cantanto i suoi gravi tormenti un rossignuol",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 5,
+        "part": 2,
+        "poet": "Molino",
+        "title": "Queta era l'aria e'n ciel",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "O travaglio infinito, varcar non posso il mar",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Se grave fu la doglia che'l cor oppresse",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 7,
+        "part": 2,
+        "poet": "",
+        "title": "Altra tanta",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Voi pur, mentre dite per me arder d'amore",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Morir voria'l mio core e ucciderlo vuorrei",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Se pur non ti contenti ch'io ami te si com'amor m'invita",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Era la mia virtù quasi smarrita, quando con la sua man ancor istesso",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 12,
+        "part": 1,
+        "poet": "Allegretti",
+        "title": "Fumia la pastorella, tessendo ghirlandetta. Canzone",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 13,
+        "part": 2,
+        "poet": "Allegretti",
+        "title": "Almo, divino raggio della cui",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 14,
+        "part": 3,
+        "poet": "Allegretti",
+        "title": "All'hora i pastor tutti",
+        "voices": 4
+      },
+      {
+        "composer": "Pietro Ragno",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Poichè ti piace, amore, humil guidarmi",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 15,
+        "part": 2,
+        "poet": "",
+        "title": "Sia benedetto",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 16,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Io piango et ella il volto con le sue man m'asciuga",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 17,
+        "part": 1,
+        "poet": "Capilupi",
+        "title": "Tendi pur l'arco, amore, raccendi il foco",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 18,
+        "part": 2,
+        "poet": "Capilupi",
+        "title": "Di così freddo",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 19,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Gia fiammeggiava l'amorosa stella per l'oriente",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 20,
+        "part": 2,
+        "poet": "Petrarca",
+        "title": "Quando mia speme già condotta",
+        "voices": 4
+      },
+      {
+        "composer": "Pier'Antonio Bianchi",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Lavinia, se non sete vaga del morir, temprate",
+        "voices": 4
+      }
+    ],
+    "year": "1582"
   },
   {
     "composers": [
