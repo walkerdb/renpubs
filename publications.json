@@ -96285,6 +96285,1988 @@
   {
     "composers": [
       [
+        "Giuseppe Biffi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Friderico Duca di Wirtemberg",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "368"
+    },
+    "library_locations": [
+      {
+        "parts": "C.T.6.",
+        "siglum": "GB-Lbm"
+      },
+      {
+        "parts": "B.",
+        "siglum": "D-Dhm"
+      },
+      {
+        "parts": "6.",
+        "siglum": "F-VE"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 22,
+      "partbook_count": 6,
+      "size": "quarto"
+    },
+    "printing_info": {
+      "location": "Nuremberg",
+      "printers": [
+        {
+          "modern": "Paul Kauffmann",
+          "original": "Paulo Kauffman"
+        }
+      ]
+    },
+    "title": "Madrigali a sei voci, di Gioseffo Biffi da Cesena, compositore del ser.mo duca di Wirtemberg etc. Da lui novamente composti et dati in luce. Libro Terzo. In Norimberga, appresso Paulo Kauffmann. 1600.",
+    "voices": [
+      6
+    ],
+    "works": [
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 3,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Non sa che sia dolore chi da la donna sua part'e non more",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Dolcissimo usignolo, tu chiami la tua cara compagnia",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Cogli la vaga rosa, leggiadra verginella, mentr'è tener'il fior",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Vorrei saper da voi come sia liquefatto il vostro cuore",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 9,
+        "part": 2,
+        "poet": "",
+        "title": "Come da voi senza costretta forza",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Non ha con amor loco rispettosa temenza",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 11,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Ecco che pur vi lascio e lascio questi colli",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Uscia dai monti fuora un cristallino gielo",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 13,
+        "part": 1,
+        "poet": "Pocaterra",
+        "title": "Non porta giaccio aprile, ma lieti e vaghi fiori",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 14,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Dov'hai tu nido amore, nel viso di madonna o nel mio core?",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Una farfalla cupida e vagante fatt'è il mio cor",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 16,
+        "part": 2,
+        "poet": "",
+        "title": "Ma chi di ciò sospira, sospira a torto",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Punto da un'ape cui rubava il mel, il pargoletto amore",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Dicea la ninfa mia, meco scherzando: mira com'ad un riso",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 19,
+        "part": 1,
+        "poet": "Caporali",
+        "title": "Chiedend'un bacio a la mia cara Aminta, sospirando",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco, mio amore, quella che l'aurora porta ne bei sereni",
+        "voices": 6
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 21,
+        "part": 2,
+        "poet": "",
+        "title": "Donne, non siate d'humiltà rubelle",
+        "voices": 6
+      }
+    ],
+    "year": "1600"
+  },
+  {
+    "composers": [
+      [
+        "Giuseppe Biffi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "D. Luigi Caietano",
+      "dedicator": "",
+      "location": {
+        "modern": "Naples",
+        "original": "Napoli"
+      },
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "369"
+    },
+    "library_locations": [
+      {
+        "parts": "C.1°, C.2°.",
+        "siglum": "I-Bc"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 47,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Naples",
+      "printers": [
+        {
+          "modern": "Giovanni Battista Sottile",
+          "original": "Gio. Battista Sottile"
+        },
+        {
+          "modern": "Giovanni Battista Sottile",
+          "original": "Sottile"
+        }
+      ]
+    },
+    "title": "Della Ricreatione di Posillipo a tre, a quattro, et a cinque voci, con un Madrigale a sei nel fine, artificioso. Di Gioseffo Biffi da Cesena. Libro Primo. In Napoli, per Gio. Battista Sottile. 1606. Con licenza de' Superiori.",
+    "voices": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "works": [
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Vattene, musa mia, lieta e ridente",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Vogliam cantar, signori. Canzonetta",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Seguite il canto mio, dite come facc'io. Canzonetta",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Dunque mi lascerai così dolente. Canzonetta",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "La violetta vaga doppo il verno. Canzonetta",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 9,
+        "part": 2,
+        "poet": "",
+        "title": "Così veggio la cara donna mia",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Disse Damon a Clori: non più, cor mio. Canzonetta",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Trasse la bend'amore. Canzonetta",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, perchè sei bella ti mostri a me rubella. Canzonetta",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Ogn'hor mi dai martire, amorosetta mia. Canzonetta madrigalesca",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 14,
+        "part": 1,
+        "poet": "Cucco",
+        "title": "L'altr'hier a la marina",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 15,
+        "part": 1,
+        "poet": "Capretto",
+        "title": "Quanto ne vien dal",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 16,
+        "part": 1,
+        "poet": "Gatta",
+        "title": "Madonna Bertoluccia",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": -1,
+        "part": 1,
+        "poet": "Porcello",
+        "title": "Quando ch'al cibo",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 18,
+        "part": 1,
+        "poet": "Pappagallo",
+        "title": "Bellissima signora",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 19,
+        "part": 1,
+        "poet": "Anitra",
+        "title": "O sagnur Pantalù",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 20,
+        "part": 1,
+        "poet": "Asino",
+        "title": "Passiam malenconia",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 21,
+        "part": 1,
+        "poet": "Cane",
+        "title": "Sagnur Pasquì",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 22,
+        "part": 1,
+        "poet": "Gallina",
+        "title": "Quando ch'ha fatto",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Vorrei esser pittor. Balletto",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Noi tre toteschi. Canzonetta in Gagliarda",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Buon dì, Lucia. Canzonetta in Gagliarda",
+        "voices": 3
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Filli, dolce mio foco, non è'l mio mal un gioco. Arietta",
+        "voices": 4
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Un spagnoletto un giorno al suo bel sole. Canzonetta alla spagnola",
+        "voices": 4
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Mi son vegnù. Canzonetta alla bergamasca con la Gagliarda",
+        "voices": 4
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, sul verde. Canzonetta",
+        "voices": 4
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "Catarinella capricciosella mi vai fuggendo. Gagliarda a 5 per sonare con Teorba et altri instromenti",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 33,
+        "part": 1,
+        "poet": "",
+        "title": "O voi ch'errando. Il Colascione per cantare e. sonare",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 34,
+        "part": 1,
+        "poet": "",
+        "title": "Vanne augelletto. Canzonetta",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 36,
+        "part": 1,
+        "poet": "",
+        "title": "Chi vuol veder la più bella figura. Arietta",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 37,
+        "part": 1,
+        "poet": "",
+        "title": "Molinarella faccia. Canzonetta",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 38,
+        "part": 1,
+        "poet": "",
+        "title": "Voglio cantare, sonare e ballare. Canzonetta",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 40,
+        "part": 1,
+        "poet": "",
+        "title": "Cruda mia pastorella. Madrigale",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 42,
+        "part": 1,
+        "poet": "",
+        "title": "Io songo Pascariello. Canzonetta",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 44,
+        "part": 1,
+        "poet": "",
+        "title": "Vorrei na fantasia. Fantasia capricciosa",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 46,
+        "part": 1,
+        "poet": "",
+        "title": "Io son ferito ahi lasso. Madrigale artificioso, si canta a misura larga",
+        "voices": 6
+      }
+    ],
+    "year": "1606"
+  },
+  {
+    "composers": [
+      [
+        "Luzio Billi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Monsignor Giuliano Feltrio Della Rovere Abbate",
+      "dedicator": "",
+      "location": "",
+      "text": "...per esser ella ardentissima conservatrice di questa nostra Abbazia di S. Maria de gli Angeli in Pesaro... prima mia muta de Madrigali... Pesaro, 1° II 1602\"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "370"
+    },
+    "library_locations": [
+      {
+        "parts": "A.T.B.",
+        "siglum": "B-Gu"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Di Lutio Billi da Ravenna il Primo Libro de Madrigali a cinque voci. Con un Dialogo a otto. Novamente composti, et dati in luce. In Venetia, appresso Ricciardo Amadino, 1602.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Luzio Billi",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Mentre io partir volea, mesta piangendo la mia vaga Aurora",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 2,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Sì mi dicest'et io quel dolcissimo sì",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 3,
+        "part": 1,
+        "poet": "Tasso",
+        "title": "Come vivrò ne le mie pene, amore, si longe",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Peregrino augelletto, ch'a più temprato cielo fuggi",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Cogli la vaga rosa, leggiadra verginella",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 6,
+        "part": 1,
+        "poet": "Tasso",
+        "title": "Che soave rapina fu quella del mio core",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "S'io t'amo e s'io t'adoro e se per te, crudel",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Se tu brami ch'io mora, morrò. Dolce il desire",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Hor che gioiscon l'herbe anco il mio cor",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 10,
+        "part": 2,
+        "poet": "",
+        "title": "Ben t'amo, o bianca Aurora",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Ardi d'amor nell'amorose fiamme, risplendi di beltà",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 12,
+        "part": 2,
+        "poet": "",
+        "title": "Torna, deh torna alle dolcezze",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 13,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Tirsi morir volea, gli occhi mirando di colei",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 14,
+        "part": 2,
+        "poet": "Guarini",
+        "title": "Frenò Tirsi il desio, che havea",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 15,
+        "part": 3,
+        "poet": "Guarini",
+        "title": "Così moriro i fortunati amanti",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "I begl'occhi e le chiome di voi, mio vivo sole",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Nel mar de lo mio pianto va scherzando fortuna",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Cantate, muse, 1 sempiterni honori di quell'illustre. A Mons. Giuliano della Rovere",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 19,
+        "part": 2,
+        "poet": "",
+        "title": "Il suo nome risuona",
+        "voices": 5
+      },
+      {
+        "composer": "Luzio Billi",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, come farai, se cieco sei. Dialogo",
+        "voices": 8
+      }
+    ],
+    "year": "1602"
+  },
+  {
+    "composers": [
+      [
+        "Bizzarro Accademico Capriccioso"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Massim. Fredutii",
+      "dedicator": "",
+      "location": "",
+      "text": "...l'affetto d'un suo Scolaro... Fano, 28 VI 1620\"."
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "371"
+    },
+    "library_locations": [
+      {
+        "parts": "C.2°.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "1620-15.",
+        "siglum": "RISM"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Alessandro Vincenti",
+          "original": "Alessandro Vincenti"
+        }
+      ]
+    },
+    "title": "Trastulli estivi concertati a due, tre et quattro voci con il Basso continuo per sonar. Libro Prima del Bizarro Accademico Capriccioso Opera Prima. Novamente composta, et data in luce. Con privilegio. In Venetia, appresso Alessandro Vincenti. 1620.",
+    "voices": [
+      2,
+      3,
+      4
+    ],
+    "works": [
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Così tosto, ben mio, t'involi a me",
+        "voices": 2
+      },
+      {
+        "composer": "Girolamo Avanzolini da Rimini",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi afflitti, dormite",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 3,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Riede la primavera, torna la bella Clori",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Ove ne vai, cor mio, perchè t'involi fuggitivo",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 5,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Un bacio solo a tante pene, o cruda? Un bacio a tanta",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Voi pur da me partite, anima dura, nè vi duole il partire",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 7,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Fuggi, o mio core, deh fuggi amore",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Feritevi, ferite, viperette mordaci, dolci guerriere",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Ti godrò pur, mia vita, ti bacierò sovente",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 10,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Tu parti, ahi lasso, e'l core mi parte il tuo partire",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "E pur deggio partire e lasciar quella vita",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Mi legasti e piagasti già col crine",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Come viver poss'io, privo di te, cor mio",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Spira l'aura d'amare al sospirar",
+        "voices": 3
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Che più guerra col foco ohimè",
+        "voices": 3
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 17,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Mi saluta costei, ma nel soave inchino nasconde",
+        "voices": 3
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "O notte de piaceri, vera madre",
+        "voices": 3
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 19,
+        "part": 1,
+        "poet": "Marino",
+        "title": "O tronchi innamorati, o sassi che seguite",
+        "voices": 3
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 20,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Ardemmo insieme, bella donna, et io di sì subito",
+        "voices": 3
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Tu che pasci in dolore ogn'hor penoso. Dialogo, C.T. 2 Viol",
+        "voices": 4
+      }
+    ],
+    "year": "1620"
+  },
+  {
+    "composers": [
+      [
+        "Bizzarro Accademico Capriccioso"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Pietro Petrucci",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "Questo Secondo Parto del povero ingegno... fra tanti Nobilissimi soggetti, Che per virtuosamente passare qualche particella del giorno, bene spesso si ragunano in Casa di V.S. quasi in novel Musco, à far in Varie guise, hor Armoniose Sinfonie, hor Sinfoniche Armonie... Venetia, 24 VII 1721\". Exastichon Lutii Buti montaviensis. Tetrastichon Laurentii Meii mondulphensis."
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "372"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "A-Wn"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "D-Hs"
+      },
+      {
+        "parts": "1621-18. (non compl.).",
+        "siglum": "RISM"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 25,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Alessandro Vincenti",
+          "original": "Alessandro Vincenti"
+        }
+      ]
+    },
+    "title": "Il Secondo Libro de Trastulli estivi concertati a due, tre, et quattro voci con il Basso continuo del Bizaro Accademico Capriccioso novamente composto, et dato in luce. Con privilegio. In Venetia, appresso Alessandro Vincenti. 1621.",
+    "voices": [
+      2,
+      3,
+      4
+    ],
+    "works": [
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Luci belle et amate, che mirando pietose",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 2,
+        "part": 1,
+        "poet": "Rinuccini",
+        "title": "Intenerite voi, lagrime mie, intenerite voi quel, duro core",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 3,
+        "part": 1,
+        "poet": "Angelico",
+        "title": "In un sospir accolta spirai l'alma dolente",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 4,
+        "part": 1,
+        "poet": "Campeggi",
+        "title": "Occhi, specchi del core, occhi, gemme dell'alma",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Perch'io non goda i rai de tuoi begli occhi",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Vanne, mesto sospir, nuntio d'amore, alla fera cagion",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Vezzosetta mia Clori, tu de miei baci prendi",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 8,
+        "part": 1,
+        "poet": "Rinuccini",
+        "title": "Filli mirando il cielo, dicea dogliosa e'n tanto empia",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 9,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Tornate, o cari baci, tornate a ritornarm'in vita",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Io mi son giovinetta e rido e canto a la stagion novella",
+        "voices": 2
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Sussurrate, venticelli, mentre spiego'l tormento",
+        "voices": 3
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 13,
+        "part": 2,
+        "poet": "",
+        "title": "Mormorate, argentei rivi, mentr'io canto",
+        "voices": 3
+      },
+      {
+        "composer": "Girolamo Avanzolini",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Chiesi al verno aura soave, mentr'a lei chiesi",
+        "voices": 3
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Ori, porpore e perle tenete nel crine, nel labro",
+        "voices": 3
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 18,
+        "part": 2,
+        "poet": "",
+        "title": "Ma vibrate pur dardi pungenti",
+        "voices": 3
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 20,
+        "part": 3,
+        "poet": "",
+        "title": "Tuoni pur Giove. Nol temo",
+        "voices": 3
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 22,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Filli, cor del mio core. Dialogo. T.C. e doi Violini",
+        "voices": 4
+      },
+      {
+        "composer": "Bizzarro Accademico Capriccioso",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Poichè a baciar n'invita il susurro de l'onde. T.C. e doi Violini",
+        "voices": 4
+      }
+    ],
+    "year": "1621"
+  },
+  {
+    "composers": [
+      [
+        "Francesco, detto Primi Boccella"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Balletti",
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "373"
+    },
+    "library_locations": [
+      {
+        "parts": "",
+        "siglum": "Monte-Video - Archivio dei Principi Auersperg."
+      },
+      {
+        "parts": "1653 e II 1653.",
+        "siglum": "Sartori"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 44,
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": null,
+      "printers": [
+        {
+          "modern": "Ottavio Beltrano",
+          "original": "Ottavio Beltramo"
+        }
+      ]
+    },
+    "title": "Primavera di vaghi fiori musicali, overo Canzonette ad una, due, e tre voci, con diverse Corrente, Sarabande, e Balletti alla francese, di Francesco Boccella detto Primi, organista della venerabile Compagnia del Santiss. Sacramento d'Ancona, dedicate al molt'illustre signor mio, e padron'osservandissimo il signor Gio. Pietro Nembrini nobile anconitano. In Ancona, appresso Ottavio Beltramo, 1653. Con licenza de' SS. Superiori.",
+    "voices": [
+      2,
+      3
+    ],
+    "works": [
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "S'io mi lamento e grido",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 5,
+        "part": 1,
+        "poet": "seconda stanza",
+        "title": "Quando esclamo",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 6,
+        "part": 1,
+        "poet": "terza stanza",
+        "title": "M'ucciderà il mio dolore",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Mio core, che pensi? Tu più non sospiri",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Cupido, t'inganni ch'io torni ad amare",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 25,
+        "part": 1,
+        "poet": "seconda stanza",
+        "title": "Due luci gradite",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "O ch'è morta la pietà",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 29,
+        "part": 1,
+        "poet": "seconda stanza",
+        "title": "Se pietà fusse morta",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "S'a danni del core la lingua si tace. In baritono",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 35,
+        "part": 1,
+        "poet": "",
+        "title": "Ferma, deh ferma. In basso",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 38,
+        "part": 1,
+        "poet": "seconda stanza",
+        "title": "Ahi non sospiro",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 41,
+        "part": 1,
+        "poet": "terza stanza",
+        "title": "È mera vanità il dir",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 44,
+        "part": 1,
+        "poet": "",
+        "title": "La Cadolina, corrente",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "La bella Prima, corrente",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Le gran, balletto",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Segue la sua Corrente",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Il Vandergois, balletto",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "La Scalamonti, balletto",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Segue la sua Corrente",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "La Valeni, balletto",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Gagliarda",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "La Giovannelli, ballo",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "La Nembrini, ballo",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "La Romita, corrente",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "La Monti, sarabanda",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "La Bernabei, balletto",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Segue la sua Corrente",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Corrente sincopata",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Balletto del Prencipe",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Segue la sua Corrente",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "La Moscheni, balletto",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "La mia donna mi fa il musa",
+        "voices": 1
+      },
+      {
+        "composer": "Francesco, detto Primi Boccella",
+        "page": 18,
+        "part": 1,
+        "poet": "seconda stanza",
+        "title": "Ah ch'è mera vanità",
+        "voices": 1
+      }
+    ],
+    "year": "1653"
+  },
+  {
+    "composers": [
+      [
+        "Giovanni Bodeo"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Monsignor de Cuppis",
+      "dedicator": "",
+      "location": "",
+      "text": "...questi pochi frutti... che il fior de la mia gioventù ha partoriti... \"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "374"
+    },
+    "library_locations": [
+      {
+        "parts": "C.A.T.",
+        "siglum": "I-VEaf"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 29,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Antonio Gardano",
+          "original": "Antonio Gardane"
+        }
+      ]
+    },
+    "title": "Di Ioan Bodeo il Primo Libro de Madrigali a quatro voci novamente da lui composti et dati in luce. A quatro voci. In Venetia apresso di Antonio Gardane. 1549.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 1,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Volgendo gli occh'al mio novo colore",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Nimphe, gloria maggior del picciol Rheno, sparget'homai",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 3,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Di pensier in pensier, di mont'in monte",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "In qual parte del ciel, in qual idea",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 5,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Non siate però tumid'e fastose, donne, per dir che l'huom",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Chi volesse saper che cos'è amore et com'a punto si diping'et scriva",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Ahimè, dov'è il bel viso in cui solea tener suo nid'amore",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 8,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Dolci rime leggiadre, che nel primier assalto",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Ahimè fortuna, che più far ti resta acciò di me ti satij",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 10,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Scarpello si vedrà di piomb'o lima formar in varie imagine",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Non posso più temer le fiamm'etterne tanto tempo nascose",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 12,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Se col cieco desir, che'l cor distrugge",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Vaga angeletta sott'un verde lauro m'apparse ohimè",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Madonna, col mostrarvi et poi fuggire pensate farm'offesa",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 15,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Deh ferm'amor costui, che così sciolto dinanz'al lento mio",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Che dolce più, che più gioconda stato saria di quel",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 17,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Deh hor fuss'io col vago de la luna adormentato",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Mia benigna fortuna e'l viver lieto, i chiari giorni",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 19,
+        "part": 2,
+        "poet": "",
+        "title": "Crudel, acerba, inesorabil morte",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 20,
+        "part": 3,
+        "poet": "",
+        "title": "Ov'è condott'il mio amoroso stile",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 21,
+        "part": 4,
+        "poet": "",
+        "title": "Già mi fu col desir sì dolc'il pianto",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 22,
+        "part": 5,
+        "poet": "",
+        "title": "Chiaro segn'amor pos'a le mie rime",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 23,
+        "part": 6,
+        "poet": "",
+        "title": "Fuggit'è il sonno a le mie crude",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 24,
+        "part": 7,
+        "poet": "",
+        "title": "Nessun visse già mai più di me",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 25,
+        "part": 8,
+        "poet": "",
+        "title": "Morte m'ha morto et sola può far",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 26,
+        "part": 9,
+        "poet": "",
+        "title": "Hor havess'io un sì pietoso stile",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 27,
+        "part": 10,
+        "poet": "",
+        "title": "Amor, io ho molt'et molt'anni pianto",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 28,
+        "part": 11,
+        "poet": "",
+        "title": "Se sì alto pon gir mie stanche rime",
+        "voices": 4
+      },
+      {
+        "composer": "Giovanni Bodeo",
+        "page": 29,
+        "part": 12,
+        "poet": "",
+        "title": "O voi, che sospirat'a miglior notti",
+        "voices": 4
+      }
+    ],
+    "year": "1549"
+  },
+  {
+    "composers": [
+      [
+        "Bernardo Bolognini"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Giovanni Di Sangro",
+      "dedicator": "",
+      "location": {
+        "modern": "Naples",
+        "original": "Napoli"
+      },
+      "text": "...l'hò ammirata, mentre nell'ammaestramento, à cui mi hà degnato il Signor Duca di Vietri suo Padre... Napoli, 25 VIII 1604\"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "375"
+    },
+    "library_locations": [
+      {
+        "parts": "",
+        "siglum": "GB-Lbm"
+      },
+      {
+        "parts": "1604-15.",
+        "siglum": "RISM"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 23,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Naples",
+      "printers": [
+        {
+          "modern": "Giovanni Battista Sottile",
+          "original": "Gio. Battista Sottile"
+        },
+        {
+          "modern": "Giovanni Battista Sottile",
+          "original": "Sottile"
+        }
+      ]
+    },
+    "title": "Di Bernardo Bolognini bolognese, Madrigali a cinque voci. Il Primo Libro. In Napoli, per Gio. Battista Sottile. 1604. Con licenza de' Superiori.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 3,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Ch'io mora? ohimè ch'io mora? Morrò, ma che sia poi",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 4,
+        "part": 2,
+        "poet": "Marino",
+        "title": "Forsi s'egl'averrà mai",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Se da begl'occhi ardenti tu mille stral'aventi",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Ferir ahi chi vi mira, donna crudel, e chi per voi",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Ditemi hor che movete i begl'occh'e le labra",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Se spira tutt'amor la donna mia com'arm'il cor di sdegno",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Vaghi e ridenti fior, honor de campi, pompa di primavera. Dialogo",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Tu ti lagni al mio pianto, rondinella dolent'e fai",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Vattene, mesta voce, in compagnia de miei caldi sospiri",
+        "voices": 5
+      },
+      {
+        "composer": "Scipione Dentici",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Amari miei pensieri, che mille volte l'hore",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Havea sparso Dorinda, per ch'il sol gl'asciugasse, i bei capelli",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Son del sol più lucenti le vostre stell'ardenti",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Se le tue chiome bionde miro, che dolce rete",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Il mio misero cor ahi si sgomenta mentre pensa",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Amor, piaga costei, fà che provi ella ancor",
+        "voices": 5
+      },
+      {
+        "composer": "Giovanni de Macque",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Chi vuol veder un sole in negro vel'avvolto",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Vive lagrime e care, com'in quei rai lucenti",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Invido sol, per ch'i miei lum'offendi",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 21,
+        "part": 2,
+        "poet": "",
+        "title": "Ma non è già ch'ella perdente sia",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Quella candida man, ladra d'amore, che sol'a furti",
+        "voices": 5
+      },
+      {
+        "composer": "Bernardo Bolognini",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Ah s'io son tutto foco, come son così fredd'i versi miei",
+        "voices": 5
+      }
+    ],
+    "year": "1604"
+  },
+  {
+    "composers": [
+      [
         "Girolamo Frescobaldi"
       ]
     ],

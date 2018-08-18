@@ -6,37 +6,36 @@ A 3. Quando ch'al cibo (Porcello)
 " " Quando ch'ha fatto (Gallina) 22
 " " Vorrei esser pittor. Balletto 23
 " " Noi tre toteschi. Canzonetta in Gagliarda 24
-" " Buon dî, Lucia. Canzonetta in Gagliarda 25
-26
-
-A 4. Filli, dolce mio foco, non è'l mio mal un gioco. Arictta
+" " Buon dì, Lucia. Canzonetta in Gagliarda 25
+A 4. Filli, dolce mio foco, non è'l mio mal un gioco. Arietta 26
 " " Un spagnoletto un giorno al suo bel sole. Canzonetta alla spagnola 28
-
 " " Mi son vegnù. Canzonetta alla bergamasca con la Gagliarda 30
 " " Donna, sul verde. Canzonetta 31
-A 5. Catarinella capricciosella mi vai fuggendo. Gagliarda a 5 per' sonare con Tcorba et
-[altri instromenti 32
+A 5. Catarinella capricciosella mi vai fuggendo. Gagliarda a 5 per sonare con Teorba et altri instromenti 32
 " " O voi ch'errando. Il Colascione per cantare e. sonare 33
-" " Vannc augelletto. Canzonetta 34
+" " Vanne augelletto. Canzonetta 34
 " " Chi vuol veder la più bella figura. Arietta 36
 " " Molinarella faccia. Canzonetta 37
 " " Voglio cantare, sonare e ballare. Canzonetta 38
 " " Cruda mia pastorella. Madrigale 40
 " " Io songo Pascariello. Canzonetta 42
 " " Vorrei na fantasia. Fantasia capricciosa 44
-46
-
-A 6. Io son ferito ahi lasso. Madrigale artificioso, si canta a misura larga
+A 6. Io son ferito ahi lasso. Madrigale artificioso, si canta a misura larga 46
 
 I-Bc: C.1°, C.2°.
 
-37Q - BILL! Luzio (1602) - Di Lutio Billi da Ravenna il Primo Libro cle Madriga11
-a.Clnque voci. Con un Dialogo a otto. Novamente composti, et dati in luce. In
+
+
+
+
+
+370 - BILLI Luzio (1602) - Di Lutio Billi da Ravenna il Primo Libro de Madrigali
+a cinque voci. Con un Dialogo a otto. Novamente composti, et dati in luce. In
 Venetia, appresso Ricciardo Amadino, 1602.
 
-5 fasc. in 8° (C.A.T.B.5.), pag. 21,(1). Ded. a Monsignor Giuliano Fcltrio Della Rovere Abbate
+5 fasc. in 8° (C.A.T.B.5.), pag. 21,(1). Ded. a Monsignor Giuliano Feltrio Della Rovere Abbate
 di S. Lorenzo in campo, et Refferendario dell'un'e l'altra segnatura di N.S.: " ...per esser ella
-ardentrsmma conservatrice di questa nostra Abbazia di S. Maria de gli Angeli in Pesaro... prima
+ardentissima conservatrice di questa nostra Abbazia di S. Maria de gli Angeli in Pesaro... prima
 mia muta de Madrigali... Pesaro, 1° II 1602".
 
 A 5. Mentre io partir volea, mesta piangendo la mia vaga Aurora 1
@@ -54,6 +53,3 @@ A 5. Mentre io partir volea, mesta piangendo la mia vaga Aurora 1
 " " Tirsi morir volea, gli occhi mirando di colei (Guarini) 13
 " " Frenò Tirsi il desio, che havea (seconda parte) " 14
 " " Così moriro i fortunati amanti (terza parte) " 15
-
--231-
-

@@ -1,15 +1,21 @@
-368 - BlFFI Giuseppe (1600) - Madrigali a sei voci, di Gioseffo Biffi da Cesena
-composxtore del ser.mo duca di Wirtemberg etc. Da lui novamente composti et dati
+
+
+
+
+
+
+368 - BIFFI Giuseppe (1600) - Madrigali a sei voci, di Gioseffo Biffi da Cesena,
+compositore del ser.mo duca di Wirtemberg etc. Da lui novamente composti et dati
 in luce. Libro Terzo. In Norimberga, appresso Paulo Kauffmann. 1600.
 
-gelflascî. din 4°R(C.A.'CII':B.SS.6î, pfig. 22. Ded. a Friderico Duca di Wirtemberg et Teck Cavalliero
-r ine egio 1 . .{ic ele di Francia, et della Cartier ' d'I ' " '
-P V 16ffl. Rime tedesche a ]oscpho Biffi. a ("C) "Shihan: l\onmberffl
+6 fasc. in 4° (C.A.T.B.5.6), pag. 22. Ded. a Friderico Duca di Wirtemberg et Teck, Cavalliero
+dell'Ordine Regio di S. Michele di Francia, et della Gartiera (sic) d'Inghilterra, Norimbergo,
+1° V 1600. Rime tedesche a Josepho Biffi.
 
-ËÊIÎil£Ë°ÂSÇÎÂËÎÏJÎLËËîÎÎËÏÏÂÏÎ ?... "9" "°°" (G....) 3
- ompagma " 4
+Non sa che sia dolore chi da la donna sua part'e non more (Guarini) 3
+Dolcissimo usignolo, tu chiami la tua cara compagnia " 4
 Cogli la vaga rosa, leggiadra verginella, mentr'è tener'il fior 6
-Vorrei saper da voi come sia liquefalto il vostro cuore 8
+Vorrei saper da voi come sia liquefatto il vostro cuore 8
 Come da voi senza costretta forza (seconda parte) 9
 Non ha con amor loco rispettosa temenza 10
 Ecco che pur vi lascio e lascio questi colli (Marino) 11
@@ -22,16 +28,17 @@ Punto da un'ape cui rubava il mel, il pargoletto amore " 17
 Dicea la ninfa mia, meco scherzando: mira com'ad un riso 18
 Chiedend'un bacio a la mia cara Aminta, sospirando (Caporali) 19
 Ecco, mio amore, quella che l'aurora porta ne bei sereni 20
-Donne, non siate d'humiltà rubelle (seconda parte) "
+Donne, non siate d'humiltà rubelle (seconda parte) 21
+
 GB-Lbm: C.T.6.
-D-ma: B.
+D-Dhm: B.
 F-VE: 6.
 
 
 
 
 
-369 - BIFFI Giuseppe (1606) - Della Ricreatione di Posillipo a tre, a quattro, eta
+369 - BIFFI Giuseppe (1606) - Della Ricreatione di Posillipo a tre, a quattro, et a
 cinque voci, con un Madrigale a sei nel fine, artificioso. Di Gioseffo Biffi da Cesena.
 Libro Primo. In Napoli, per Gio. Battista Sottile. 1606. Con licenza de' Superiori.
 
@@ -40,23 +47,13 @@ Libro Primo. In Napoli, per Gio. Battista Sottile. 1606. Con licenza de' Superio
 A 3. Vattene, musa mia, lieta e ridente 4
 " " Vogliam cantar, signori. Canzonetta 5
 " " Seguite il canto mio, dite come facc'io. Canzonetta 6
-" " Dunque mi lasccrai così dolente. Canzonetta 7
+" " Dunque mi lascerai così dolente. Canzonetta 7
 " " La violetta vaga doppo il verno. Canzonetta 8
 " " Così veggio la cara donna mia (seconda parte) 9
-
-10
-
-" " Disse Damon a Clori: non più. cor mio. Canzonetta
-
-" " Trasse la bend'amore. Canzonetta
+" " Disse Damon a Clori: non più, cor mio. Canzonetta 10
+" " Trasse la bend'amore. Canzonetta 11
 " " Donna, perchè sei bella ti mostri a me rubella. Canzonetta 12
-
 " " Ogn'hor mi dai martire, amorosetta mia. Canzonetta madrigalesca 13
-Qui cominciano i versi degl'animali
-" " L'altr'hier a la marina (Cucco) 1154
-
-" " Quanto ne vien dal (Capretto)
-" " Madonna Bertoluccia (Gatta)
-
- 
-
+" " L'altr'hier a la marina (Cucco) 14
+" " Quanto ne vien dal (Capretto) 15
+" " Madonna Bertoluccia (Gatta) 16
