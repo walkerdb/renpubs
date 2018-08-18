@@ -3,7 +3,7 @@ A repository containing structured data detailing the contents of printed vocal 
 Scope for this project is limited to the publications described in the Nuovo Vogel series.
 
 Current publication count: 622 / ~5100  
-Total works: 16429
+Total works: 16972
  
 ### Data structure
 `publications.json` contains an array of structured data for each publication. Each publication has the following structure: 
