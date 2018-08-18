@@ -1,45 +1,57 @@
-A 5. Ameni colli, vaghi monticelli, fresche fontane. Canzone E
-
+A 5. Ameni colli, vaghi monticelli, fresche fontane. Canzone 22
 " " Donna, s'il cor legasti col tuo bel crin aurato. Canzone 23
 " " Tutta gentil e bella a tesser ghirlandette Clori 24
 " " Pur venisti, cor mio, e pur ti veggio. Non dormo 25
-" " Vago augelletto, più ch'altri beato, che dolcemente Di Costanzo Porta 26
-" " Che se ciò fosse io vincerci (seconda parte) 27
+" " Vago augelletto, più ch'altri beato, che dolcemente (Di Costanzo Porta) 26
+" " Che se ciò fosse io vincerei (seconda parte) 27
 A 4. Filli, quand'io mirai coi vaghi troppo et idolatri rai 28
 A 6. Dolce cantar s'udia gioia et dolcezza insieme. D'incerto autore 29
 
 B-Gu: A.T.B.
-GB-Lbm: A.S.
+GB-Lbm: A.5.
 RISM, I 1601-10 (non compl.).
 
-379 - BÛNAFFINO Filippo (1623) - Madrigali concertati a due, tre, e quattro
+
+
+
+
+
+
+379 - BONAFFINO Filippo (1623) - Madrigali concertati a due, tre, e quattro
 voci, per cantar, e sonar nel Clavecimbalo, Chitarrone, o altro simile instrumento.
 Di Filippo Bonaffino messinese. In Messina, appresso Pietro Brea. 1623. Con licenza
 de' Superiori.
 
-S fasc. in 8° (C.A.T.B.Partimento), pag. 19. Ded. a Gioanni Watchin, Gentilhuomo Inglese,
-Messina, 1° IV 162.3.
+5 fasc. in 8° (C.A.T.B.Partimento), pag. 19. Ded. a Gioanni Watchin, Gentilhuomo Inglese,
+Messina, 1° IV 1623.
 
 A 2. Dolcissimo sospiro, ch'esci da quella bocca (Rinuccini) 4
-" " La mia Stellina d'oro, quando mi guarda e ride 5
-" " Mentre per uscir fuor l'alma s'invia (seconda parte) $
-
-" " Il sguardo tuo crudel ha penctrato
-
+" " La mia stellina d'oro, quando mi guarda e ride 5
+" " Mentre per uscir fuor l'alma s'invia (seconda parte) 6
+" " Il sguardo tuo crudel ha penetrato 7
 " " Simiglia al lume un sole, una siren'al canto 8
 " " D'amoroso gioir avidi i petti di Filli e di Fileno 9
 A 3. Deh come non scorgete, pastori amanti 10
-" " Luci belle et amate, gli sguardi che girate "
-" " Come l'ape ingegnosa rugiadosi' tesori 12
+" " Luci belle et amate, gli sguardi che girate 11
+" " Come l'ape ingegnosa rugiadosi tesori 12
 " " Del sentier dritto guida splende 14
 A 4. Ancidetemi pur, grievi martiri 15
-" " Il ciel con ogni Stella tanta bellezza e senno (Groto) 16
-" " Son sì belle le rose, ch'in voi natura pose (Grillo) 178
-" " Gloriosi numi, che nell'empireo sen 119
-
-" " Errai, nol nego, amar cosa mortale
+" " Il ciel con ogni stella tanta bellezza e senno (Groto) 16
+" " Son sì belle le rose, ch'in voi natura pose (Grillo) 17
+" " Gloriosi numi, che nell'empireo sen 18
+" " Errai, nol nego, amar cosa mortale 19
 
 I-Bc: compl.
 GB-Lcm: compl.
 GB-Lbm: T., Partimento.
 
+
+
+
+
+380 - BONAGIUNTA Giulio (1565) - Il Primo LIbro de Canzon napolitane a tre voci, con due alla venetiana di Giulio Bonagiunta da San Genesi, et d'altri auttori di novo posto in luce. Con gratia et privilegio. In Venetia appresso Girolamo Scotto. 1565.
+
+3 fasc. in 8° (C.T.B.), pag. 32. Ded. a Gabr. Otto Bono, Venetia, 25 X 1565.
+
+O bocca dolce più che cannamele (Di Giulio Bonagiunta) 2
+Gersera andai dalla mia manza bella (Di Francesco Bonardo) 3

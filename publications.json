@@ -89822,15 +89822,15 @@
       "size": "octavo"
     },
     "printing_info": {
-      "location": "NO_PRINTER_KNOWN",
+      "location": "Venice",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Alessandro Vincenti",
+          "original": "Alessandro Vincenti"
         }
       ]
     },
-    "title": "Madrigaletti a due et a tre voci con alcune Sonate a tre per due Violini overo, Cornetti, et un Chitarron, Trombone, overo Fagotto, con il Basso continuo di Stefano Bernardi Opera Duodecima 1621.",
+    "title": "Madrigaletti a due et a tre voci con alcune Sonate a tre per due Violini overo, Cornetti, et un Chitarron, Trombone, overo Fagotto, di Stefano Bernardi maestro di capella nel domo di Verona dedicati all'illustrissimo, et reverendissimo signor cardinal Madrutio prencipe di Trento. Opera Duodecima nuovamente composta, et data in luce con privilegio Libro Secondo. In Venetia, appresso Alessandro Vincenti, 1621.",
     "voices": [
       2,
       3
@@ -98263,6 +98263,2496 @@
       }
     ],
     "year": "1604"
+  },
+  {
+    "composers": [
+      [
+        "Valerio Bona"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "Giulio Cesare Carelli",
+      "location": "",
+      "text": "...Canzonette, et altre compositioni à Tre Voci, venutemi alle mani in diversi tempi, et per diverse vie, del R. Padre Valerio Buona, Maestro di Capella della Cathedrale di Vercelli... Vercelli, 7° IV 1592\"."
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "376"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "A-Wn"
+      },
+      {
+        "parts": ", I 1592b.",
+        "siglum": "Sartori"
+      },
+      {
+        "parts": "",
+        "siglum": "Brown 1592-2."
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 30,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Ricciardo Amadino",
+          "original": "Ricciardo Amadino"
+        }
+      ]
+    },
+    "title": "Il Secondo Libro delle Canzonette a tre voci con l'aggionta di dodeci Tercetti a note. Di Valerio Buona da Brescia maestro di capella nel duomo di Vercelli. Novamente poste in luce. All'illustre signor cavaglier Galeazzo Crotto, conte di Vinzaglio. In Venetia, appresso Ricciardo Amadino. 1592.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Valerio Bona",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Bocca piena di rose e margarite, tu sola sanar puoi",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Sarà vero, o mio sole, ch'altri il mio ben m'invole",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Di natural lavoro viddi due treccie d'oro",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Era una volta insieme con Medea sott'un bel faggio",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Creddo ch'all'hor nasceste, ninfa cara e gentile. La Vercellasa",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Troppo gravi martir e gravi pene soffrir conviene",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Fra questi vaghi et intessuti monti, dove d'intorno",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Se s'inchina all'honor human desio, honor s'inchina a voi",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco ch'io son di sì gagliard'humore ch'io vorrei. La Capricciosa",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "S'amor è un gentil foco, che l'alme e i cori dolcemente",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Annoda questo core nel fido grembo tuo, ladra d'amore",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Donna pietosa e non d'amor rubella, pensai d'amar",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Se t'habbi amato sallo solo amore. Da mò inanzi",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Dalle fiamme del foco aspre e concenti s'avien ch'alcun. Canzon",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 15,
+        "part": 1,
+        "poet": "seconda stanza",
+        "title": "Non è fera sì grand'huom sì feroce",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 16,
+        "part": 1,
+        "poet": "terza stanza",
+        "title": "Vist'ho tall'hor al suon di ria tempesta",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 17,
+        "part": 1,
+        "poet": "quarta stanza",
+        "title": "Non s'accorge l'incauto",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Io ti donai lo cor con questo patto, ch'il tuo. L'Andoraina",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Ut. Tercetto a notte sole",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Re. Tercetto a notte sole",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Mi. Tercetto a notte sole",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Fa. Tercetto a notte sole",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Sol. Tercetto a notte sole",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "La. Tercetto a notte sole",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "La. Tercetto a notte sole",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Sol. Tercetto a notte sole",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Fa. Tercetto a notte sole",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Mi. Tercetto a notte sole",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Re. Tercetto a notte sole",
+        "voices": 3
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Ut. Tercetto a notte sole",
+        "voices": 3
+      }
+    ],
+    "year": "1592"
+  },
+  {
+    "composers": [
+      [
+        "Valerio Bona"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "377"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-VCd"
+      },
+      {
+        "parts": "1599-14.",
+        "siglum": "RISM"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": "",
+      "partbook_count": "",
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Milan",
+      "printers": [
+        {
+          "modern": "Simon Tini",
+          "original": "Simon Tini"
+        }
+      ]
+    },
+    "title": "Il Quarto Libro delle Canzonette a tre voci, di Valerio Bona maestro della musica in S. Salvatore di Monferrato. Alll illustri signori miei osservandissimi, il signor Guido, et sig. Giovanni Gaspardoni fratelli. In Milano appresso l'herede di Simon Tini, et Francesco Besozzi. 1599.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Valerio Bona",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 3
+      }
+    ],
+    "year": "1599"
+  },
+  {
+    "composers": [
+      [
+        "Valerio Bona"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Giovanni",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "378"
+    },
+    "library_locations": [
+      {
+        "parts": "A.T.B.",
+        "siglum": "B-Gu"
+      },
+      {
+        "parts": "A.5.",
+        "siglum": "GB-Lbm"
+      },
+      {
+        "parts": "1601-10 (non compl.).",
+        "siglum": "RISM"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": "",
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Angelo Gardano",
+          "original": "Angelo Gardano"
+        }
+      ]
+    },
+    "title": "Madrigali et Canzoni a cinque voci di Valerio Bona. Libro Primo novamente posto in luce. In Venetia, appresso Angelo Gardano. 1601.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Valerio Bona",
+        "page": 1,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Lasso, perchè mi fuggi, s'hai de la morte mia",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Perfidissimo volto, ben l'usata bellezza",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Parto, o non parto? Ahi come resto se parte la corporea",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Contentezze d'amore provate e non gustate",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Col vostro arse il mio core di fiamma eguale",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Mirava alla mia ninfa il viso. Ella si pose poscia",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Margherita gentile, de la divina luce tal raggio",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Son pungenti e mordaci, anzi morsi e non baci",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, la bella mano, che nel donar porgesti, rapi",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Dimmi ti prego, amore, onde avviene che mentre Lidia mia",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Non sai, Damon, che quando Lidia gli baci. Risposta",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Da te chiedo pietade, Filli, non chiedo aita",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Vermiglio e vago fiore e di soave odore. Canzone",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Sì vaga è la mia fiamma, che più mi strugge. Canzone",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Ohimè, partito è'l mio bel sol lucente. Canzone",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Donna gentil, voi sete il mio bel sole. Canzone",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 17,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "La bella man vi stringo e voi le ciglia per dolor",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Ahi fiero artiglio d'inesorabil morte, rendi alla patria",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Deh poniam fine hormai ai dolorosi lai",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Picciol farfalla ardea, di duo bei lumi accesa",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "In bel fiorito prato stava in grembo alla madre",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Ameni colli, vaghi monticelli, fresche fontane. Canzone",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, s'il cor legasti col tuo bel crin aurato. Canzone",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Tutta gentil e bella a tesser ghirlandette Clori",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Pur venisti, cor mio, e pur ti veggio. Non dormo",
+        "voices": 5
+      },
+      {
+        "composer": "Costanzo Porta",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Vago augelletto, più ch'altri beato, che dolcemente",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 27,
+        "part": 2,
+        "poet": "",
+        "title": "Che se ciò fosse io vincerei",
+        "voices": 5
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Filli, quand'io mirai coi vaghi troppo et idolatri rai",
+        "voices": 4
+      },
+      {
+        "composer": "Valerio Bona",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Dolce cantar s'udia gioia et dolcezza insieme. D'incerto autore",
+        "voices": 6
+      }
+    ],
+    "year": "1601"
+  },
+  {
+    "composers": [
+      [
+        "Filippo Bonaffino"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Gioanni Watchin",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "379"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "GB-Lcm"
+      },
+      {
+        "parts": "T., Partimento.",
+        "siglum": "GB-Lbm"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 19,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "NO_PRINTER_KNOWN",
+      "printers": [
+        {
+          "modern": "NO_PRINTER_KNOWN",
+          "original": "NO_PRINTER_KNOWN"
+        }
+      ]
+    },
+    "title": "Madrigali concertati a due, tre, e quattro voci, per cantar, e sonar nel Clavecimbalo, Chitarrone, o altro simile instrumento. Di Filippo Bonaffino messinese. In Messina, appresso Pietro Brea. 1623. Con licenza de' Superiori.",
+    "voices": [
+      2,
+      3,
+      4
+    ],
+    "works": [
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 4,
+        "part": 1,
+        "poet": "Rinuccini",
+        "title": "Dolcissimo sospiro, ch'esci da quella bocca",
+        "voices": 2
+      },
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "La mia stellina d'oro, quando mi guarda e ride",
+        "voices": 2
+      },
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 6,
+        "part": 2,
+        "poet": "",
+        "title": "Mentre per uscir fuor l'alma s'invia",
+        "voices": 2
+      },
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Il sguardo tuo crudel ha penetrato",
+        "voices": 2
+      },
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Simiglia al lume un sole, una siren'al canto",
+        "voices": 2
+      },
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "D'amoroso gioir avidi i petti di Filli e di Fileno",
+        "voices": 2
+      },
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Deh come non scorgete, pastori amanti",
+        "voices": 3
+      },
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Luci belle et amate, gli sguardi che girate",
+        "voices": 3
+      },
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Come l'ape ingegnosa rugiadosi tesori",
+        "voices": 3
+      },
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Del sentier dritto guida splende",
+        "voices": 3
+      },
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Ancidetemi pur, grievi martiri",
+        "voices": 4
+      },
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 16,
+        "part": 1,
+        "poet": "Groto",
+        "title": "Il ciel con ogni stella tanta bellezza e senno",
+        "voices": 4
+      },
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 17,
+        "part": 1,
+        "poet": "Grillo",
+        "title": "Son sì belle le rose, ch'in voi natura pose",
+        "voices": 4
+      },
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Gloriosi numi, che nell'empireo sen",
+        "voices": 4
+      },
+      {
+        "composer": "Filippo Bonaffino",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Errai, nol nego, amar cosa mortale",
+        "voices": 4
+      }
+    ],
+    "year": "1623"
+  },
+  {
+    "composers": [
+      [
+        "Giulio Bonagiunta"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Gabr. Otto Bono",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "380"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "S-LI"
+      },
+      {
+        "parts": "C.",
+        "siglum": "GB-Lbm"
+      },
+      {
+        "parts": "T.",
+        "siglum": "I-Bc"
+      },
+      {
+        "parts": "1565-12.",
+        "siglum": "RISM"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 32,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Girolamo Scotto",
+          "original": "Girolamo Scotto"
+        }
+      ]
+    },
+    "title": "Il Primo LIbro de Canzon napolitane a tre voci, con due alla venetiana di Giulio Bonagiunta da San Genesi, et d'altri auttori di novo posto in luce. Con gratia et privilegio. In Venetia appresso Girolamo Scotto. 1565.",
+    "voices": [
+      2,
+      3
+    ],
+    "works": [
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "O bocca dolce più che cannamele",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco Bonardo",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Gersera andai dalla mia manza bella",
+        "voices": 2
+      },
+      {
+        "composer": "Claudio da Correggio",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Tanto t'amo, tanto t'adoro",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco de Laudis",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Dolci colli fioriti, a me sì cari",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 6,
+        "part": 1,
+        "poet": "Tansillo",
+        "title": "A cas'un giorno mi guidò la sorte",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 7,
+        "part": 2,
+        "poet": "Tansillo",
+        "title": "Vaga d'udir come ogni donna",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 8,
+        "part": 3,
+        "poet": "Tansillo",
+        "title": "Con quel poco di spirito",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 9,
+        "part": 4,
+        "poet": "Tansillo",
+        "title": "Mentre ch'ella le piaghe",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco Bonardo",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Ho inteso dir che la virtù si trova",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco Bonardo",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Madonna, tu te lo bechi lo cerviello",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco Bonardo",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Son stato cacciator cinqu'ann'e un mese",
+        "voices": 2
+      },
+      {
+        "composer": "Claudio da Correggio",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Alla Sibilla me ne voglio gire",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "All'arm'all'arme, o fidi miei pensieri, correte",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Me bisogna servir questa crudele, che fing'amarm'e poi",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Non trovo pace, nè tregua, nè guerra",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco de Landis",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Segretario t'ho fatto come sai",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "O saporito volto, per te son fatto stolto",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Scis'a una fonte viddi una citella",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco Londariti",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Così va chi ha ventura",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Chi non adora queste trezze d'oro",
+        "voices": 2
+      },
+      {
+        "composer": "Ivo de Vento",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Correte, amanti sventurati e scuri",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Facciami quanto vol fortuna ria, chè costante sarò",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Due cos'al mondo sono senza pace",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, tu m'hai lasciat'et io sperai",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco Londariti",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Trenta capilli da Castell'a mare",
+        "voices": 2
+      },
+      {
+        "composer": "Gioseffo Guami",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Quando mio padre me dette marito",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "All'arme, all'arme, o fidi miei pensieri, correte",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Poi ch'eri così forte seropulosa, non ti dovevi",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Daspuò ch'al mio dolor no ghè ceroto",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "E vorave saver, colonna mia",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "Chi fa del cavalier e chi del duca",
+        "voices": 2
+      }
+    ],
+    "year": "1565"
+  },
+  {
+    "composers": [
+      [
+        "Giulio Bonagiunta"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "381"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "A-Wn"
+      },
+      {
+        "parts": "C.",
+        "siglum": "D-As"
+      },
+      {
+        "parts": "B. (difett.).",
+        "siglum": "I-Vnm"
+      },
+      {
+        "parts": "1567-18.",
+        "siglum": "RISM"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 31,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "NO_PRINTER_KNOWN",
+          "original": "NO_PRINTER_KNOWN"
+        }
+      ]
+    },
+    "title": "Il Primo Libro de Canzon napolitane a tre voci, con due alla veneziana. Di Giulio Bonagionta da S. Genesi. Et d'altri auttori, di novo ristampate. In Vinegia. Appresso Gieronimo Scotto. 1567.",
+    "voices": [
+      2,
+      3
+    ],
+    "works": [
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "O bocca dolce più che cannamele",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco Bonardo",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Gersera andai dalla mia manza bella",
+        "voices": 2
+      },
+      {
+        "composer": "Claudio da Correggio",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Tanto t'amo, tanto t'adoro",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco de Laudis",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Dolci colli fioriti, a me sì cari",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 6,
+        "part": 1,
+        "poet": "Tansillo",
+        "title": "A cas'un giorno mi guidò la sorte",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 7,
+        "part": 2,
+        "poet": "Tansillo",
+        "title": "Vaga d'udir come ogni donna",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 8,
+        "part": 3,
+        "poet": "Tansillo",
+        "title": "Con quel poco di spirito",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 9,
+        "part": 4,
+        "poet": "Tansillo",
+        "title": "Mentre ch'ella le piaghe",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco Bonardo",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Ho inteso dir che la virtù si trova",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco Bonardo",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Madonna, tu te lo bechi lo cerviello",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco Bonardo",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Son stato cacciator cinqu'ann'e un mese",
+        "voices": 2
+      },
+      {
+        "composer": "Claudio da Correggio",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Alla Sibilla me ne voglio gire",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "All'arm'all'arme, o fidi miei pensieri, correte",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Me bisogna servir questa crudele, che fing'amarm'e poi",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Non trovo pace, nè tregua, nè guerra",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco de Landis",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Segretario t'ho fatto come sai",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "O saporito volto, per te son fatto stolto",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Scis'a una fonte viddi una citella",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco Londariti",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Così va chi ha ventura",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Chi non adora queste trezze d'oro",
+        "voices": 2
+      },
+      {
+        "composer": "Ivo de Vento",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Correte, amanti sventurati e scuri",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Facciami quanto vol fortuna ria, chè costante sarò",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Due cos'al mondo sono senza pace",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, tu m'hai lasciat'et io sperai",
+        "voices": 2
+      },
+      {
+        "composer": "Francesco Londariti",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Trenta capilli da Castell'a mare",
+        "voices": 2
+      },
+      {
+        "composer": "Gioseffo Guami",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Quando mio padre me dette marito",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "All'arme, all'arme, o fidi miei pensieri, correte",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Poi ch'eri così forte seropulosa, non ti dovevi",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Daspuò ch'al mio dolor no ghè ceroto",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "E vorave saver, colonna mia",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 32,
+        "part": 1,
+        "poet": "",
+        "title": "Chi fa del cavalier e chi del duca",
+        "voices": 2
+      }
+    ],
+    "year": "1567"
+  },
+  {
+    "composers": [
+      [
+        "Giulio Bonagiunta"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "M. Marco Milano",
+      "dedicator": "",
+      "location": {
+        "modern": "Milan",
+        "original": "Milano"
+      },
+      "text": ""
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "382"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "A-Wn"
+      },
+      {
+        "parts": "compl.",
+        "siglum": "S-LI"
+      },
+      {
+        "parts": "C.",
+        "siglum": "D-As"
+      },
+      {
+        "parts": "T.",
+        "siglum": "US-BE"
+      },
+      {
+        "parts": "B.",
+        "siglum": "GB-Lbm"
+      },
+      {
+        "parts": "B. (solo pag. 3-6, 11-14 e 17-31 e Tavola).",
+        "siglum": "I-Vnm"
+      },
+      {
+        "parts": "1566-7 (non compl.).",
+        "siglum": "RISM"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": "",
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Girolamo Scotto",
+          "original": "Girolamo Scotto"
+        }
+      ]
+    },
+    "title": "Canzone napolitane a tre voci Secondo Libro di Giulio Bonagiunta da S. Genesi et d'altri auttori, novamente poste in luce con due Canzone alla giustiniana di Vicenzo Bell'haver. In Venegia 1566 appresso Girolamo Scotto.",
+    "voices": [
+      2,
+      3
+    ],
+    "works": [
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Se pur ti voi cavar sta fantasia di vedermi",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Parmi di star la nott'in paradiso mentre",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "No, non si pò più durar tanto tormento",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "L'amore non si trova a comperare",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Tu mi rubasti al primo sguard'il core",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Li Saracini",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Se fosse ahimè di marmore sto core",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Come fenice son che da mia morte",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi, non occhi, ma lucenti stelle sonno i tuoi",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Florio",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Io son un spirto che d'amor legato",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Florio",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Amor è fatto capitano a guerra",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Florio",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Già non mi duol, mentre sanar desio",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Florio",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Se tu non voi che",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Florio",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "O tu che mi da guai",
+        "voices": 2
+      },
+      {
+        "composer": "Giovanni Florio",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Un tempo sospirava, piangeva e lacrimava",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Non mi date tormento, nè più doglia, rendetem'il cor mio",
+        "voices": 2
+      },
+      {
+        "composer": "Gioseffo Guami",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Questa notte sognai dormend'in letto",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Se tu con tanti stratij che mi fai",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Certo ch'un giorno da st'afflitto core",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Due destrier biondi tirano quel carro",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Et o gratiosa bocca, odorosa fronte di stella",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Fuggit'alme gentil de risguardare",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "O s'io potesse dir, o fazza bella",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Dolce mia vita, poi che faccio da te, ohimè, partita",
+        "voices": 2
+      },
+      {
+        "composer": "Giulio Bonagiunta",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Di nott'e giorno viv'in fiamm'e foco, fra mille pene",
+        "voices": 2
+      },
+      {
+        "composer": "Vincenzo Bell'haver",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Nu semo tre vecchietti inamorai",
+        "voices": 2
+      },
+      {
+        "composer": "Vincenzo Bell'haver",
+        "page": 30,
+        "part": 2,
+        "poet": "",
+        "title": "Cantemo Zazerin e ti Cuffetto",
+        "voices": 2
+      }
+    ],
+    "year": "1566"
+  },
+  {
+    "composers": [
+      [
+        "Francesco Perissone Bonardo"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Signori Constanti",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "383"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-VEaf"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 37,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Antonio Gardano",
+          "original": "Antonio Gardano"
+        }
+      ]
+    },
+    "title": "Di Francesco Bonardo Perissone il Primo Libro di Madrigali a quatro e cinque et a sei voci, novamente composto et dato in luce. Alla nobilissima et virtuosissima Compagnia delli signori Constanti In Venetia apresso di Antonio Gardano 1565.",
+    "voices": [
+      4,
+      5,
+      6
+    ],
+    "works": [
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Come in fecondo prato ricca ghirland'a la sua chiome. Ai Sig. Constanti",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 2,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Cantai, hor piango et non men di dolcezza",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 3,
+        "part": 2,
+        "poet": "Petrarca",
+        "title": "Tengan dunque ver me l'usato stile",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Delle virtù ch'ai piu graditi al cielo",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 5,
+        "part": 1,
+        "poet": "Alfonso d'Avalos",
+        "title": "S'un sguard'un fà beato qual fusse all'hor",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 6,
+        "part": 1,
+        "poet": "Barignano",
+        "title": "Com'havrò dunque il frutto del seme sparso",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Deh vien, dolce, aspettato e gratioso sonno",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Mentre vorrei contarvi quel dolore, ch'in mezzo al cor",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 9,
+        "part": 1,
+        "poet": "Torquato Tasso",
+        "title": "Vostro fui, vostro son e sarò vostro fin che vedrò",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Dir non posso, man cara, quanto porge di ben",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Donne leggiadr'e belle, i' vi consiglio a farvi amante",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 12,
+        "part": 1,
+        "poet": "Sannazzaro",
+        "title": "Ben credev'io che nel tuo regno, amore",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "I più secreti boschi, gli antri più ascosi",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Lasso mi trov'amor fra questi monti in nel più ascoso",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Queste bacche di lauro e queste fronde, questa gentil",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Padre, ch'a quella travagliat'e fida nave",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 18,
+        "part": 2,
+        "poet": "",
+        "title": "O se com'a la prua provido",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 19,
+        "part": 1,
+        "poet": "Bembo",
+        "title": "Amor, la tua virtute non è dal mondo e da la gente",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 20,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Anima bella, da quel nodo sciolta, che più bel mai",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Lasso, poi che'l gran piant'e'l grand'ardore",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 22,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Benedetto sia'l giorno e'l mese e l'anno",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 23,
+        "part": 2,
+        "poet": "Petrarca",
+        "title": "Benedette le voci tante",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Chi mi dà l'ali ond'inalzato a volo poggi",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 25,
+        "part": 2,
+        "poet": "",
+        "title": "Non so però cantar quel ch'io",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Invidioso amor del mio bel stato e del riposo mio",
+        "voices": 6
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Smarriss'il cor, ghiaccioss'il sangue, quando dipinto",
+        "voices": 6
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 28,
+        "part": 2,
+        "poet": "",
+        "title": "Quel ch'io divenni all'hor",
+        "voices": 6
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 29,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Io amai sempre et amo forte anchora",
+        "voices": 6
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 30,
+        "part": 2,
+        "poet": "Petrarca",
+        "title": "Ma chi pensò veder mai",
+        "voices": 6
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco che torn'a noi l'età de l'oro",
+        "voices": 6
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 32,
+        "part": 2,
+        "poet": "",
+        "title": "Et ecco in mezo Pavola Donato",
+        "voices": 6
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 33,
+        "part": 1,
+        "poet": "",
+        "title": "Hor scendi d'Elicon'e vieni homai, o figlio d'Urania",
+        "voices": 6
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 34,
+        "part": 2,
+        "poet": "",
+        "title": "Vieni Himeneo, vieni e de nuovi sposi",
+        "voices": 6
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 35,
+        "part": 1,
+        "poet": "",
+        "title": "Donna, per acquetar vostro desire, non m'è grave",
+        "voices": 6
+      },
+      {
+        "composer": "Francesco Perissone Bonardo",
+        "page": 36,
+        "part": 1,
+        "poet": "Della Casa",
+        "title": "Stolto mio cor, ove sì lieto vai",
+        "voices": 6
+      }
+    ],
+    "year": "1565"
+  },
+  {
+    "composers": [
+      [
+        "Iseppo Bonardo"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Lodovico Contarini",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "...havendo raccolto certe mie Canzonette Napolitane... incominciate sotto il suo auspicio, quando ella già nel suo nobilissimo ridotto alle volte prendeva diporto della Musica insieme con la buona memoria del Clariss. Sig. Imperial suo Fratello, hora esse mie canzonette acquisteranno alla loro imperfettione, esser alle volte cantate da Lei... Venetia, 20 VIII 1588 \"."
+    },
+    "genres": [],
+    "identifiers": {
+      "nuovo_vogel": "384"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "A-Wn"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 22,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Angelo Gardano",
+          "original": "Angelo Gardano"
+        }
+      ]
+    },
+    "title": "Il Primo Libro delle Napolitane a tre voci di Iseppo Bonardo, sonatore della sereniss. Sig. di Venetia novamente posto in luce. In Venetia appresso Angelo Gardano. 1588.",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Vita mia, le gran bellezze del bel viso e bionde trezze",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Vorria saper da voi, occhi mortali, se voi fiammelle sete",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Se voi ch'io viva, o dolce vita mia, damen'un bacio",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Ohimè com'egl'è grave il mio tormento, che di continuo",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Godemi adesso, o dolce vita mia, stringemi nel tuo sen",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Non c'è la peggior cosa, o donne belle, che'l star la notte",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Piangon gl'occhi, madonna, il cor sospira quando ver me",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Datemi morte, ahimè, ch'io vo morire, poi che per me",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Sta notte m'insoniava ch'a l'inferno, meschino, me n'andava",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "È morto lo mio core sventurato et è stato portat'ahi sorte",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "S'io m'accorgo, ben mio, ch'un altro amate. D'incerto",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Una nave ho vedut'in mezo il mare, combattuta da venti. D'incerto",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 13,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Non rumor di tamburi, o son di trombe furon principio. D'incerto",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Amor è fatt'a punto com'il mare, ch'hoggi è bonazza",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Date le vele al vento, o pensier miei dolenti, nè temete del mar",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Voi, donne, che cercate mille amanti, credete certo a me",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "O crudi miei pensier, lasciate il core, armate contr'amor",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Tutte l'offese che m'hai fatte, amore, io ti perdono",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Chi mi consola, ahimè, son disperato. La notte quando penso",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Se'l foco ch'è a l'inferno non fusse così eterno",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Scacchier'è deventato lo mio core, di turchin e di bianc'è fatto",
+        "voices": 3
+      },
+      {
+        "composer": "Iseppo Bonardo",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Deh pastorella cara, ti prego non dormire. D'incerto",
+        "voices": 3
+      }
+    ],
+    "year": "1588"
+  },
+  {
+    "composers": [
+      [
+        "Aurelio Bonelli"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Confaloniero",
+      "dedicator": "",
+      "location": {
+        "modern": "Bologna",
+        "original": "Bologna"
+      },
+      "text": ""
+    },
+    "genres": [
+      "Ricercars"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "385"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "D-As"
+      },
+      {
+        "parts": "1602b.",
+        "siglum": "Sartori"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 20,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Angelo Gardano",
+          "original": "Angelo Gardano"
+        }
+      ]
+    },
+    "title": "Il Primo Libro de Ricercari et Canzoni a quattro voci, con due Toccate e doi Dialoghi a otto. Di Aurelio Bonelli bolognese, organista di S. Michele in Bosco. In Venetia, appresso Angelo Gardano. 1602.",
+    "voices": [
+      2,
+      4
+    ],
+    "works": [
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Ricercar del primo tuono",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Ricercar del secondo tuono",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Ricercar del terzo tuono",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Ricercar del quarto tuono",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Ricercar del quinto tuono",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Ricercar del sesto tuono",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Ricercar del settimo tuono",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Ricercar del ottavo tuono",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Licori. Canzon prima",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Arete. Canzon seconda",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Urania. Canzon terza",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Istrina. Canzon quarta",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Nisa. Canzon quinta",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Irene. Canzon sesta",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Artemisia. Canzon settima",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Erina. Canzon ottava",
+        "voices": 4
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Cleopatra. Toccata",
+        "voices": 8
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Athalanta. Toccata",
+        "voices": 8
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 19,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Anime pellegrine, che bramate amando. Madrigale",
+        "voices": 8
+      },
+      {
+        "composer": "Aurelio Bonelli",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "S' un dì, mosso a pietà de miei martiri. Madrigale",
+        "voices": 9
+      }
+    ],
+    "year": "1602"
   },
   {
     "composers": [

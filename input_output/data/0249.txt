@@ -1,9 +1,8 @@
 A 4. S'un sguard'un fà beato qual fusse all'hor (Alfonso d'Avalos) 5
-
 " " Com'havrò dunque il frutto del seme sparso (Barignano) 6
 " " Deh vien, dolce, aspettato e gratioso sonno 7
 " " Mentre vorrei contarvi quel dolore, ch'in mezzo al cor 8
-" " Vostro fui, vostro son e sarò vostro fin che vedrò (T. Tasso) 9
+" " Vostro fui, vostro son e sarò vostro fin che vedrò (Torquato Tasso) 9
 " " Dir non posso, man cara, quanto porge di ben 10
 " " Donne leggiadr'e belle, i' vi consiglio a farvi amante 11
 " " Ben credev'io che nel tuo regno, amore (Sannazzaro) 12
@@ -28,27 +27,29 @@ A 6. Invidioso amor del mio bel stato e del riposo mio 26
 " " Et ecco in mezo Pavola Donato (seconda parte) 32
 " " Hor scendi d'Elicon'e vieni homai, o figlio d'Urania 33
 " " Vieni Himeneo, vieni e de nuovi sposi (seconda parte) 34
-" " Donna, per acquetar vostro desirc, non m'è grave 35
+" " Donna, per acquetar vostro desire, non m'è grave 35
 " " Stolto mio cor, ove sì lieto vai (Della Casa) 36
 
-Ì-VEaf: compl.
+I-VEaf: compl.
+
+
+
+
+
 
 384 - BONARDO Iseppo (1588) - Il Primo Libro delle Napolitane a tre voci di
-Is":PPO Bonarda, sonatore della sereniss. Sig. di Venetia novamente posto in luce.
+Iseppo Bonardo, sonatore della sereniss. Sig. di Venetia novamente posto in luce.
 In Venetia appresso Angelo Gardano. 1588.
 
-3 fasc. in 8° obl. (CT-B.), pag. 22. Ded. a Lodovico Contarini fu del Clarissimo sig. Alessandro:
+3 fasc. in 8° obl. (C.T.B.), pag. 22. Ded. a Lodovico Contarini fu del Clarissimo sig. Alessandro:
 "...havendo raccolto certe mie Canzonette Napolitane... incominciate sotto il suo auspicio, quando
 ella già nel suo nobilissimo ridotto alle volte prendeva diporto della Musica insieme con la
 buona memoria del Clariss. Sig. Imperial suo Fratello, hora esse mie canzonette acquisteranno
 alla loro imperfettione, esser alle volte cantate da Lei... Venetia, 20 VIII 1588 ".
 
-Vita 'mia, le gran bellezze del bel viso e bionde trezze 1
-Von-13. Saper da VOÌ, occhi mortali, se voi fiammelle sete z
-Se .voi ch'io viva, o dolce vita mia, damen'un bacio 3
-Ohimecom'egl'è grave il mio tormento, che di continuo 4
-Gwen" adCSSO, o dOlce vita mia, stringemi nel tuo sen 5
-Non e'è la peggior Cosa, o donne belle, che'l star la notte 6
-
--241
-
+Vita mia, le gran bellezze del bel viso e bionde trezze 1
+Vorria saper da voi, occhi mortali, se voi fiammelle sete 2
+Se voi ch'io viva, o dolce vita mia, damen'un bacio 3
+Ohimè com'egl'è grave il mio tormento, che di continuo 4
+Godemi adesso, o dolce vita mia, stringemi nel tuo sen 5
+Non c'è la peggior cosa, o donne belle, che'l star la notte 6
