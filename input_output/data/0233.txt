@@ -1,12 +1,10 @@
 A 5. Io parto, o mio fedele. Così disse nel far da me partita 11
-
-" " Poscia che non si crede a la candida fede 112
-" " Avviva l'herb'e i fiori l'alba celeste 3
-" " Ohimè, dunque tu parti, e quando sia che torni Ì;
-" " Tolse dal ciel le più sublimi idee - .
-
-" " Ardemm'insieme, bella donn'et io di sì subito a'rdore (Guarini) 16
-" " Occhi, strali d'amor, saette d'oro, rallentate il bel foco . . 17
+" " Poscia che non si crede a la candida fede 12
+" " Avviva l'herb'e i fiori l'alba celeste 13
+" " Ohimè, dunque tu parti, e quando sia che torni 14
+" " Tolse dal ciel le più sublimi idee 15
+" " Ardemm'insieme, bella donn'et io di sì subito ardore (Guarini) 16
+" " Occhi, strali d'amor, saette d'oro, rallentate il bel foco 17
 " " Ah disleal, ah cruda, voi negate la fede per non mi dar mercede (Guarini) 18
 " " Amorosi desiri, che porget'al mio cor voland'intorno 19
 A 6. Tu che spiri nel cielo già cara sposa. Dialogo 20
@@ -14,25 +12,27 @@ A 6. Tu che spiri nel cielo già cara sposa. Dialogo 20
 
 I-Vnm (Canal): T.
 
-BIANCO Pietro Antonio
-Cfr.: BIANCHI Pier'Antonio.
 
-362 - BIANDRA' Giovan Pietro (1626) - Il Primo Libro de Madrigaletti a una
+
+
+
+
+362 - BIANDRA Giovan Pietro (1626) - Il Primo Libro de Madrigaletti a una
 doi e tre voci. Di Gio: Pietro Biandra romano maestro di capella nella chatedrale
 di Faenza et nell'Academia delli Spennati di detta città il Zelante. Opera Prima.
-Dedicati alli m.to ill.ri sig.ori Accademici Spennati. .
+Dedicati alli m.to ill.ri sig.ori Accademici Spennati.
 In fine: "Stampa del Gardano. In Venetia 1626. Appresso Bartolomeo Magni ".
 A piè di pagina: " Madr. et Arie Spirituali... ".
 
-Vol. in 4°, pag. 91,(3). Dd., Faenza, il dì primo ottobre 1626. Partitura con Bc.
+Vol. in 4°, pag. 91,(3). Ded., Faenza, il dì primo ottobre 1626. Partitura con Bc.
 
 A 1. Signor, ferma, deh ferma. Già veggio la pietate. Canto 2
 " " Occhi, voi che sovente fate il mio cor sogetto. Canto 5
 " " Vieni, o celeste spirto, empi questo mio core. Alto 8
 " " Bella come la luna, eletta come il sol, Maria voi sete. Alto 11
 " " O Creator del cielo, che me di nulla festi. Tenore 13
-" " Iniquissimo Giuda, o traditor spietato. Tenore - 16
-" " Locar sopra gli abbissi i fondamenti. Baritono (BCCCUU) 19
+" " Iniquissimo Giuda, o traditor spietato. Tenore 16
+" " Locar sopra gli abbissi i fondamenti. Baritono (Beccuti) 19
 " " Dar legge a i mari, a le tempeste (seconda parte) " 22
 " " Signor, fu poco alla tua gran possanza (terza parte) " 24
 " " O miei giorni fugaci, o breve vita, ohimè già sei partita. Baritono (Rinuccini) 26
@@ -47,10 +47,7 @@ A 1 E mentre il sangue in caldo rio. Basso solo (seconda parte) 65
 " " Perchè non poss'anch'io qui teco essangue. Canto solo (terza parte) 66
 A 3 Deh mira figlio, almen nell'ultim'hore. Canto, Tenore e Basso (quarta parte) 67
 " " Ahi cor, se pur sei core, come dolor non senti. Due Canti e B. (Marino) 69
-Arie a voce sola
 A 1 Se teco nacque eternament'amore tu sei'l più vecchio. Al Padre. Canto 78
 " " Sempiterno principio senza principio e fine. Al Figlio. Canto. 80
 " " Vivo raggio del sole, viva fiamma d'amore. Allo Spirito Santo. Canto 81
 " " O giust'equalitate, unica deitade. o Trinità. Alla Santiss. Trinità. Canto 82
-
-

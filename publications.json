@@ -18840,7 +18840,7 @@
         "page": 22,
         "part": 2,
         "poet": "Corfini",
-        "title": "Parlar celcste di dolcezza piena, altera gratia",
+        "title": "Parlar celeste di dolcezza piena, altera gratia",
         "voices": 5
       },
       {
@@ -33902,7 +33902,7 @@
         "page": 7,
         "part": 1,
         "poet": "",
-        "title": "Ahi se la donna mia, qual hor lasso mi vede, volcss'esser più pia",
+        "title": "Ahi se la donna mia, qual hor lasso mi vede, voless'esser più pia",
         "voices": 4
       },
       {
@@ -93568,7 +93568,7 @@
         "page": 21,
         "part": 1,
         "poet": "",
-        "title": "Tlchi toche tichi toch. Apatalena zoia mia. Moresca",
+        "title": "Tichi toche tichi toch. Apatalena zoia mia. Moresca",
         "voices": 6
       }
     ],
@@ -94279,6 +94279,2008 @@
       }
     ],
     "year": "1582"
+  },
+  {
+    "composers": [
+      [
+        "Francesco Bianciardi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Alfonso Petrucci Camariere",
+      "dedicator": "",
+      "location": {
+        "modern": "Venice",
+        "original": "Venetia"
+      },
+      "text": "...queste canzoncine del Marino... Venetia, 1° I 1606\"."
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "360"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Ls"
+      },
+      {
+        "parts": "C.A.B. (C. con la data corretta in: 1608).",
+        "siglum": "PL-WRu"
+      },
+      {
+        "parts": "C.A.",
+        "siglum": "GB-Lbm"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 3,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Angelo Gardano",
+          "original": "Angelo Gardano"
+        }
+      ]
+    },
+    "title": "Canzonette spirituali a tre voci. Di Francesco Bianciardi. Libro Primo. Novamente stampato. In Venetia. Appresso Angelo Gardano. 1606. (B.: 1605).",
+    "voices": [
+      3
+    ],
+    "works": [
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 1,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Uscite a rimirar, ninfe e pastori",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Piaga dolce d'amore, già tu piaga non sei",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "O piaga impiagatrice di quest'alma dolente",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Lancia, lancia soave, lancia non più, ma chiave",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Sola fra suoi più cari a piè del figlio afflitto",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 6,
+        "part": 2,
+        "poet": "",
+        "title": "Stava l'addolorata",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 7,
+        "part": 3,
+        "poet": "",
+        "title": "Lungo spatio tacendo",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 8,
+        "part": 4,
+        "poet": "",
+        "title": "O mio, poscia riprese",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 9,
+        "part": 5,
+        "poet": "",
+        "title": "Chi d'atro sangue ha tinto",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 10,
+        "part": 6,
+        "poet": "",
+        "title": "Te dunque in sen portai",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 11,
+        "part": 7,
+        "poet": "",
+        "title": "Gli occhi volgi",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 12,
+        "part": 8,
+        "poet": "",
+        "title": "A te ch'errar non puoi",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 13,
+        "part": 9,
+        "poet": "",
+        "title": "La croce dunque",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Deh ch'ho potuto in te",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Perfido et inhumano, ciò che può fiera mano oprar",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Ahi cor, se pur sei core, come dolor non senti",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Deh come fatto sei",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Piaghe non son, ma stelle",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 19,
+        "part": 1,
+        "poet": "Grillo",
+        "title": "Fatti, sangue diletto, lagrime di questi occhi",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 20,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Mentre, Giesù, ti miro",
+        "voices": 3
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Alma, che fai, che pensi? Il ben t'alletta",
+        "voices": 3
+      }
+    ],
+    "year": "1606"
+  },
+  {
+    "composers": [
+      [
+        "Francesco Bianciardi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Giugurta Tommaso",
+      "dedicator": "",
+      "location": "",
+      "text": "...sapendo quanto diletto prende della Musica, nella quale m'ha dato occasione d'esercitarmi in servitio di questa Metropolitana prima nel condurmi a sonare l'organo, e poi col darmi la carica di guidar la Capella... Siena, 20 VI 1597 \"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "361"
+    },
+    "library_locations": [
+      {
+        "parts": "T.",
+        "siglum": "I-Vnm (Canal)"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 22,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Angelo Gardano",
+          "original": "Angelo Gardano"
+        }
+      ]
+    },
+    "title": "Di Francesco Bianciardi maestro di capella del duomo di Siena. Il Primo Libro de Madrigali a cinque voci, novamente composto, et dato in luce. In Venetia appresso Angelo Gardano. 1597.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 1,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Lumi, miei cari lumi, che lampeggiale un sì veloce sguardo",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Quand'io miro le rose, che in voi natura pose (Grillo",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "A dio, Filli mia bella. Caro mio Tirsi, a dio. Dicean sopr'Arno all'apparir",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Dolce rise il mio sole al dolce rider mio",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "È tradimento assaltar e ferire, Fillid'e poi fuggire",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 6,
+        "part": 1,
+        "poet": "Rinaldi",
+        "title": "Dolce, grave et acuto. Quest'i tre accenti sono",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "S'in me Filli scolpita per man del dio amore",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Del vago roscignuolo i soavetti accenti sen portavano i venti",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Dopp'un lungo sospiro a pena puote dir queste parole",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco ch'io moro e godo pur ch'io faccia",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Io parto, o mio fedele. Così disse nel far da me partita",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Poscia che non si crede a la candida fede",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Avviva l'herb'e i fiori l'alba celeste",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Ohimè, dunque tu parti, e quando sia che torni",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Tolse dal ciel le più sublimi idee",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 16,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Ardemm'insieme, bella donn'et io di sì subito ardore",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi, strali d'amor, saette d'oro, rallentate il bel foco",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 18,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Ah disleal, ah cruda, voi negate la fede per non mi dar mercede",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Amorosi desiri, che porget'al mio cor voland'intorno",
+        "voices": 5
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Tu che spiri nel cielo già cara sposa. Dialogo",
+        "voices": 6
+      },
+      {
+        "composer": "Francesco Bianciardi",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "La mia aura è vitale e pur morte mi dona",
+        "voices": 6
+      }
+    ],
+    "year": "1597"
+  },
+  {
+    "composers": [
+      [
+        "Giovan Pietro Biandra"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "362"
+    },
+    "library_locations": [
+      {
+        "parts": "",
+        "siglum": "PL-WRu"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 91,
+      "partbook_count": 1,
+      "size": ""
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Bartolomeo Magni",
+          "original": "Bartolomeo Magni"
+        }
+      ]
+    },
+    "title": "Il Primo Libro de Madrigaletti a una doi e tre voci. Di Gio: Pietro Biandra romano maestro di capella nella chatedrale di Faenza et nell'Academia delli Spennati di detta città il Zelante. Opera Prima. Dedicati alli m.to ill.ri sig.ori Accademici Spennati. In fine: \"Stampa del Gardano. In Venetia 1626. Appresso Bartolomeo Magni \". A piè di pagina: \" Madr. et Arie Spirituali... \".",
+    "voices": [
+      1,
+      2,
+      3
+    ],
+    "works": [
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Signor, ferma, deh ferma. Già veggio la pietate. Canto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Occhi, voi che sovente fate il mio cor sogetto. Canto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Vieni, o celeste spirto, empi questo mio core. Alto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Bella come la luna, eletta come il sol, Maria voi sete. Alto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "O Creator del cielo, che me di nulla festi. Tenore",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Iniquissimo Giuda, o traditor spietato. Tenore",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 19,
+        "part": 1,
+        "poet": "Beccuti",
+        "title": "Locar sopra gli abbissi i fondamenti. Baritono",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 22,
+        "part": 2,
+        "poet": "Beccuti",
+        "title": "Dar legge a i mari, a le tempeste",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 24,
+        "part": 3,
+        "poet": "Beccuti",
+        "title": "Signor, fu poco alla tua gran possanza",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 26,
+        "part": 1,
+        "poet": "Rinuccini",
+        "title": "O miei giorni fugaci, o breve vita, ohimè già sei partita. Baritono",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Abissi di spavent'a tre caverne, spelonch'oscure",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 34,
+        "part": 1,
+        "poet": "",
+        "title": "Fiamme amorose, che dal petto uscite del mio Giesù. Canto e Basso",
+        "voices": 2
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 40,
+        "part": 1,
+        "poet": "",
+        "title": "Ti seguo sì, mia vita, ancor ch'afflitto e stanco. Due Tenori",
+        "voices": 2
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 44,
+        "part": 1,
+        "poet": "",
+        "title": "Ben dissi, dolce amore, erano troppo acerbi e amari frutti. Canto e Alto",
+        "voices": 2
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 50,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco il Signor in croce, aspro mio core. Due Bassi",
+        "voices": 2
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 57,
+        "part": 1,
+        "poet": "",
+        "title": "O della mia salut'unica speme, rendimi il cor contrito. Canto e Tenore",
+        "voices": 2
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 63,
+        "part": 1,
+        "poet": "",
+        "title": "A piè del duro legno, onde pendea sol per soverch'amor. Canto e Tenore",
+        "voices": 2
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 65,
+        "part": 2,
+        "poet": "",
+        "title": "E mentre il sangue in caldo rio. Basso solo",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 66,
+        "part": 3,
+        "poet": "",
+        "title": "Perchè non poss'anch'io qui teco essangue. Canto solo",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 67,
+        "part": 4,
+        "poet": "",
+        "title": "Deh mira figlio, almen nell'ultim'hore. Canto, Tenore e Basso",
+        "voices": 3
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 69,
+        "part": 1,
+        "poet": "Marino",
+        "title": "Ahi cor, se pur sei core, come dolor non senti. Due Canti e B",
+        "voices": 3
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 78,
+        "part": 1,
+        "poet": "",
+        "title": "Se teco nacque eternament'amore tu sei'l più vecchio. Al Padre. Canto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 80,
+        "part": 1,
+        "poet": "",
+        "title": "Sempiterno principio senza principio e fine. Al Figlio. Canto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 81,
+        "part": 1,
+        "poet": "",
+        "title": "Vivo raggio del sole, viva fiamma d'amore. Allo Spirito Santo. Canto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 82,
+        "part": 1,
+        "poet": "",
+        "title": "O giust'equalitate, unica deitade. o Trinità. Alla Santiss. Trinità. Canto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 83,
+        "part": 1,
+        "poet": "",
+        "title": "Non crano gl'abissi quando che gli occhi. Nella Predestinatione della Vergine. Canto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 34,
+        "part": 1,
+        "poet": "",
+        "title": "Hor cessi il pianto, rimbombi il canto. Nella Resurettione. Tenore",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 86,
+        "part": 1,
+        "poet": "",
+        "title": "Non ha materia e forma, con parole si forma. Al Santiss. Sacramento. Canto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 88,
+        "part": 1,
+        "poet": "",
+        "title": "Di rose ove s'indora di fiameggiante crine. A Santo Francesco d'Ascisi. Tenore",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 90,
+        "part": 1,
+        "poet": "",
+        "title": "O velata gratiosa, o benedetta Chiara. A Santa Chiara. Alto",
+        "voices": 1
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 91,
+        "part": 1,
+        "poet": "",
+        "title": "Qual negletta scintilletta, in regal palagio nata. Della nascita di Santa Teresa. Canto",
+        "voices": 1
+      }
+    ],
+    "year": "1626"
+  },
+  {
+    "composers": [
+      [
+        "Giovan Pietro Biandra"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Giulio Paci",
+      "dedicator": "",
+      "location": "",
+      "text": "Alli Sig. Virtuosi. Li tre madrigali, sopra li quali è scritto resposta al Signor etc. devono sapere, che sono resposte ad altri tanti Madrigali delli sudetti SS. compositori li quali hanno favorito li SS. Academici Spennati, alli quali si è dato resposta sempre con le sue medesime parole e sogetti, a quello del Signor Brunetto si è voltato il primo sogetto solo, a quello del Signor Donati si sono rivoltati quasi tutti li soggetti, et a quello del Signor Peracini sì è voltato tutto, tal che sentiranno diverse maniere per essersi tenuto la sua istessa maniera... \"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "363"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "PL-WRu"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 37,
+      "partbook_count": 6,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Bartolomeo Magni",
+          "original": "Bartolomeo Magni"
+        }
+      ]
+    },
+    "title": "Madrigali a quatro e 5 voci con Basso continuo di Gio. Pietro Biandrà romano, maestro della Academia delli Spennati di Faenza detto il Zelante. Opera Seconda. Dedicati al molto ill.re sig.r cavalier Giulio Paci. In Venetia 1626. Appresso Bartolomeo Magni.",
+    "voices": [
+      4,
+      5
+    ],
+    "works": [
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Cor mio, non languir più",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Perchè taci, cor mio? Pales'a la tua donn'il tuo dolore",
+        "voices": 4
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Somiglia frond'a cui",
+        "voices": 4
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 6,
+        "part": 2,
+        "poet": "",
+        "title": "Hor arde, hor gela",
+        "voices": 4
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Io ardo, io moro",
+        "voices": 4
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 8,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Crud'Amarilli, che col nome ancora",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 9,
+        "part": 2,
+        "poet": "Guarini",
+        "title": "Ma grideran per me",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 10,
+        "part": 3,
+        "poet": "Guarini",
+        "title": "Parlerà nel mio volto",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Ecco la cieca, eccola giust'apunto",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 12,
+        "part": 2,
+        "poet": "",
+        "title": "Ascoltatemi voi",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 13,
+        "part": 3,
+        "poet": "",
+        "title": "Ma che sarà di me",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 14,
+        "part": 4,
+        "poet": "",
+        "title": "Cieco amor, non ti cred'io",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 15,
+        "part": 5,
+        "poet": "",
+        "title": "Ma voi giocate troppo",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 16,
+        "part": 6,
+        "poet": "",
+        "title": "Ma tu pur perfido e cieco",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 17,
+        "part": 7,
+        "poet": "",
+        "title": "In buona fè, Licori",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 18,
+        "part": 8,
+        "poet": "",
+        "title": "Sciolto cor fà piè fugace",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 19,
+        "part": 9,
+        "poet": "",
+        "title": "O fusti svelta, maledetta pianta",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Una farfalla cupida e vagante. Resposta al sig. Domenico Brunetto",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 29,
+        "part": 1,
+        "poet": "",
+        "title": "Coralletti vermigli",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 30,
+        "part": 1,
+        "poet": "",
+        "title": "Lascia le pecorelle. Resposta al Sig. Ignatio Donati",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 31,
+        "part": 1,
+        "poet": "Cebà",
+        "title": "Mille nodi amorosi legan soavemente due leggiadretti sposi",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 32,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "Dov'hai tu nido, amore. Resposta al Sig. Angelo Peracini",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 34,
+        "part": 1,
+        "poet": "",
+        "title": "Ah ben fu di colei grave l'errore",
+        "voices": 5
+      },
+      {
+        "composer": "Giovan Pietro Biandra",
+        "page": 36,
+        "part": 2,
+        "poet": "",
+        "title": "Ciechi mortali",
+        "voices": 5
+      }
+    ],
+    "year": "1626"
+  },
+  {
+    "composers": [
+      [
+        "Francesco Bifetto"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Conte",
+      "dedicator": "",
+      "location": "",
+      "text": "Vinto dai dolci prieghi di miei tanto amati compagni, quali di continuo con accuti sproni l'animo mio pongevano ch'i giovenili et delettevoli mei fatiche con vigilata cura raccogliere dovesse, et darli in luce... \"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "364"
+    },
+    "library_locations": [
+      {
+        "parts": "compl.",
+        "siglum": "I-Fc"
+      },
+      {
+        "parts": "C.T.B.",
+        "siglum": "I-Rvat (De Rossi)"
+      },
+      {
+        "parts": "B.",
+        "siglum": "GB-Lbm"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": true,
+      "pages": 29,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Antonio Gardano",
+          "original": "Antonio Gardane"
+        }
+      ]
+    },
+    "title": "Di Francesco Bifetto da Bergomo Madrigali a quatro voci novamente posti in luce Libro Primo a quatro voci. In Venetia apresso di Antonio Gardane 1547.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Francesco Bifetto",
+        "page": 1,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Amor, che mec'al bon tempo ti stavi",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 2,
+        "part": 2,
+        "poet": "Petrarca",
+        "title": "O vaghi habitator di verdi boschi",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "S'il mi fusse concesso di scriver le bellezze di costei",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Gl'infiniti sospir e crid'e pianti sparsi per voi",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Già non me maraviglio, donna, del sol se non temete",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Vostra rara beltade, gentil manier'e signoril",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Quel sì chiar lume, che del sol vittoria",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 8,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Che dolce più, che più giocondo stato saria",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Le lagrime d'amor, che sempre spargo per te",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 9,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Nessun visse giamai più di me lieto",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Luce de gli occhi miei, spirto del core",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Madonna, ove ch'io sia, chiusa vi porto",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Chi vol veder in un sol corp'unite tutte le gratie",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 13,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Mia benigna fortuna e'l viver lieto",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Tra chiar'et lucid'acque con sì soavi accenti",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Donna gentil, s'a vostri sacri lumi",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "S'io potess'aguagliar il merto vostro",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Il pregio et il valore, la chiara luce de l'aria",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 18,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Sa quest'altier ch'io l'amo e ch'io l'adoro",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Di parlarvi, madonna, hebbi gran voglia",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 19,
+        "part": 2,
+        "poet": "",
+        "title": "Perchè vedrete ralegrarse",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Al verde loco subito fui preso, madonna",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Deh porgi aita all'affannato cuore, amor",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "Solingo e vag'augello, ch'hai sì ben spars'i tuoi",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 23,
+        "part": 1,
+        "poet": "",
+        "title": "Chi vol in un sol sguardo veder quant'è di ben",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Sia'l ciel propitio a queste nozze sante",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 25,
+        "part": 1,
+        "poet": "",
+        "title": "Quando nel lido i duo corsier pregiati col carro",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 26,
+        "part": 2,
+        "poet": "",
+        "title": "Quivi Neptuno ai suoi cavalli",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Piagge, rivi, campagne, boschi et colli, che tra Serio, Ada, Olio",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Bei fonti et voi chiar'onde et lucid'acque",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 29,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Morte m'ha morto et sola può far morte",
+        "voices": 4
+      }
+    ],
+    "year": "1547"
+  },
+  {
+    "composers": [
+      [
+        "Francesco Bifetto"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Ruggiero Conte di Calepio",
+      "dedicator": "",
+      "location": "",
+      "text": ".. havendo io disegno d'accompagnare il primo libro delle mie fatiche, già sotto il nome di V.S. uscito con questo secondo...\"."
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "365"
+    },
+    "library_locations": [
+      {
+        "parts": "C. (manc. di pag. 7-14).",
+        "siglum": "I-Bc"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 36,
+      "partbook_count": 4,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Venice",
+      "printers": [
+        {
+          "modern": "Antonio Gardano",
+          "original": "Antonio Gardano"
+        }
+      ]
+    },
+    "title": "Il Secondo Libro di Madrigali a quatro voci di Francesco Bifetto da Bergamo, novamente da lui composti revisti et posti in luce. A quatro voci. In Venetia appresso di Antonio Gardano. 1548.",
+    "voices": [
+      4
+    ],
+    "works": [
+      {
+        "composer": "Francesco Bifetto",
+        "page": -1,
+        "part": 1,
+        "poet": "",
+        "title": "",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 1,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Ruggier qual sempre fui tal esser voglio",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Se gl'occhi miei senza la vostra luce",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "Lasciato il Brembo",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Svegliati homai, mia diva",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Eco gentil, che per vendetta forse",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "In meggio un verde colle",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 3,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Deh dove senza me, dolce mia vita, rimasa sei",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Deh ferma, amor, costui che così sciolto",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Quando talhor",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 11,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Di furto anchor oltr'ogni vitio rio",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Scarpello si vedrà di piomb'o lima formar",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Tu m'hai, signor, lasciata",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 14,
+        "part": 1,
+        "poet": "Ariosto",
+        "title": "Crudel, di che peccato a doler t'hai",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Se ben veggon gl'occhi",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Donne leggiadr'e belle, in cui piove dal cielo",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Se mai altri che te honoro et amo",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Quant'è misero l'huom che cangia voglia",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 22,
+        "part": 1,
+        "poet": "",
+        "title": "O beata colei ch'al fin può dire",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 24,
+        "part": 1,
+        "poet": "",
+        "title": "Poichè sicur'homai pon nott'e giorno",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 26,
+        "part": 1,
+        "poet": "",
+        "title": "Drez et raison es qui enciaut",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 27,
+        "part": 1,
+        "poet": "",
+        "title": "Alta voce cantava la mia superba e dolce",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 28,
+        "part": 1,
+        "poet": "",
+        "title": "Se'l mio martir tenace",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 29,
+        "part": 1,
+        "poet": "Petrarca",
+        "title": "Se la mia vita da l'aspro tormento",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 31,
+        "part": 1,
+        "poet": "",
+        "title": "Lasso, che troppo apertamente",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 33,
+        "part": 1,
+        "poet": "",
+        "title": "Donne, siamo cacciatori",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 34,
+        "part": 1,
+        "poet": "",
+        "title": "Donne, ch'i bei conilii, martari, zebelin, volpi",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 35,
+        "part": 1,
+        "poet": "",
+        "title": "O spazzacamin, chi vol spazzar camini",
+        "voices": 4
+      },
+      {
+        "composer": "Francesco Bifetto",
+        "page": 36,
+        "part": 1,
+        "poet": "",
+        "title": "Una bianca, gentil, viva bellezza",
+        "voices": 5
+      }
+    ],
+    "year": "1548"
+  },
+  {
+    "composers": [
+      [
+        "Giuseppe Biffi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "",
+      "dedicator": "",
+      "location": "",
+      "text": "...questi miei primi frutti musicali... (ritornandomene in Prussia dall'Ill.mo et Re.mo Cardinal Bathori mio Patrone)... Norimbergo, 1° I 1596 \"."
+    },
+    "genres": [
+      "Canzonette"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "366"
+    },
+    "library_locations": [
+      {
+        "parts": "C.5.6.",
+        "siglum": "D-F"
+      },
+      {
+        "parts": "T.",
+        "siglum": "D-W"
+      },
+      {
+        "parts": "6.",
+        "siglum": "PL-WRu"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 6,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Nuremberg",
+      "printers": [
+        {
+          "modern": "NO_PRINTER_KNOWN",
+          "original": "NO_PRINTER_KNOWN"
+        }
+      ]
+    },
+    "title": "Di Gioseffo Biffi da Cesena, mastro di capella  dell'ill.mo et re.mo sig. cardinal Bathori etc. Il Primo Libro delle Canzonette a sei voci per cantar et sonare, insieme con alcune latine, una tedesca, et una Battagha, da lui novamente composte, et date in luce. In Norimberga, apresso Paulo Kaufmann, anno 1596.",
+    "voices": [
+      1,
+      6
+    ],
+    "works": [
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "O musica, ristoro del mio core",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Scherza la vaga Clori con suo Filen",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 3,
+        "part": 1,
+        "poet": "",
+        "title": "O fanciullin alato, vol'a colei che m'ha'l cor",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Sono i begl'occhi tuoi facell'e strali, ond'amor",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Sono le ciglia tue l'arco d'amore, lacci son",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "Sono le guancie tue vermiglie rose, son le labra",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "Gentil rosa del mar, anzi d'amore, se per voi mor'e per voi",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "Filli, caro cor mio, rispondi dolcemente a chi t'adora",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 9,
+        "part": 1,
+        "poet": "",
+        "title": "Hor, musici, cantiam allegramente ch'egli è già ritornato",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Meraviglioso e pien di sdegn'amore mira la tua bellezza",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "O donna, di pietà tra noi sì altera",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 12,
+        "part": 1,
+        "poet": "",
+        "title": "Più star non vogli'in corte, dove sol gl'ignoranti",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 13,
+        "part": 2,
+        "poet": "",
+        "title": "All'hor che d'ogn'impaccio",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Omnibus est notum quod valde diligo potum",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 15,
+        "part": 1,
+        "poet": "",
+        "title": "Post sumptum potum loquitur mea lingua latinum",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Cum esset jam in coena Polonus cum Lagena",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Ade meins hertzens kronelein",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 18,
+        "part": 1,
+        "poet": "",
+        "title": "Cum tuba terribili taratantara concinit aere",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "De plenis cyathis multos periise",
+        "voices": 1
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Di dolce gelosia ardea la donna mia quando soavemente",
+        "voices": 1
+      }
+    ],
+    "year": "1596"
+  },
+  {
+    "composers": [
+      [
+        "Giuseppe Biffi"
+      ]
+    ],
+    "dedication": {
+      "dedicatee": "Vincenzo Gonzaga",
+      "dedicator": "",
+      "location": {
+        "modern": "Milan",
+        "original": "Milano"
+      },
+      "text": ""
+    },
+    "genres": [
+      "Madrigals"
+    ],
+    "identifiers": {
+      "nuovo_vogel": "367"
+    },
+    "library_locations": [
+      {
+        "parts": "B.5.",
+        "siglum": "G-Lbm"
+      },
+      {
+        "parts": "A.",
+        "siglum": "F-VE"
+      },
+      {
+        "parts": "T.",
+        "siglum": "I-Vnm (Canal)"
+      }
+    ],
+    "physical_description": {
+      "is_oblong": false,
+      "pages": 21,
+      "partbook_count": 5,
+      "size": "octavo"
+    },
+    "printing_info": {
+      "location": "Milan",
+      "printers": [
+        {
+          "modern": "Agostino Tradate",
+          "original": "Agostino Tradate"
+        }
+      ]
+    },
+    "title": "Di Gioseffo Biffi da Cesena, maestro di capella dell'illustrissimo et reverendiss. signor cardinal Andrea Battorio. Madrigali a cinque voci, con duoi soprani. In Milano per Agostino Tradate. 1598. Con licenza de' Superiori.",
+    "voices": [
+      5
+    ],
+    "works": [
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 1,
+        "part": 1,
+        "poet": "",
+        "title": "Chi mi ritene in vita, quasi a farmi dispetto",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 2,
+        "part": 1,
+        "poet": "",
+        "title": "Amor de le mie lagrime di sangue m'ha fatt'inchiostro",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 3,
+        "part": 1,
+        "poet": "Groto",
+        "title": "Tigre mia, se ti pesa, se ti rechi ad offesa",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 4,
+        "part": 1,
+        "poet": "",
+        "title": "Io ardo e l'ardor mio vien di tal'alto e sì nobil desio",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 5,
+        "part": 1,
+        "poet": "",
+        "title": "Vaghe ninfe e voi de boschi e voi de la marina",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 6,
+        "part": 1,
+        "poet": "",
+        "title": "O cari labri, anzi rubini eletti o fin avorio",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 7,
+        "part": 1,
+        "poet": "",
+        "title": "L'altr'hier a la fontana trovai la mia Fiammetta",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 8,
+        "part": 1,
+        "poet": "",
+        "title": "La semplicetta Silvia, pietosa del mio male, soffrì di dar aita",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 9,
+        "part": 2,
+        "poet": "",
+        "title": "Nè l'api coglion sì dolc'il mel",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 10,
+        "part": 1,
+        "poet": "",
+        "title": "Che piangi, o sventurato, se giamai pon gli alti preghi",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 11,
+        "part": 1,
+        "poet": "",
+        "title": "Io qui rimasi solo tra pene, affann'e duolo",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 12,
+        "part": 1,
+        "poet": "Guarini",
+        "title": "O Primavera, gioventù de l'anno, bella madre de fiori",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 13,
+        "part": 1,
+        "poet": "",
+        "title": "Emilia mia gentile mentre Cupido miro",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 14,
+        "part": 1,
+        "poet": "",
+        "title": "Perchè non deggio del mio mal gioire e'n dolci note",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 15,
+        "part": 2,
+        "poet": "",
+        "title": "Dolce mio foco e dolci mie ferite",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 16,
+        "part": 1,
+        "poet": "",
+        "title": "Nel bel fiorito maggio stavan cantando le ninfe",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 17,
+        "part": 1,
+        "poet": "",
+        "title": "Amanti, o lieti amanti, deh non vi spiaccia udire",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 18,
+        "part": 1,
+        "poet": "Cassola",
+        "title": "Altro non è il mio amor che Lidia mia per cui",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 19,
+        "part": 1,
+        "poet": "",
+        "title": "Cintia mia, dolc'e cara più che le perle e'l mele",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 20,
+        "part": 1,
+        "poet": "",
+        "title": "Questi gigli novelli e queste rose e questi vaghi fiori",
+        "voices": 5
+      },
+      {
+        "composer": "Giuseppe Biffi",
+        "page": 21,
+        "part": 1,
+        "poet": "",
+        "title": "Se per più non morir, morir desio più son contento",
+        "voices": 5
+      }
+    ],
+    "year": "1598"
   },
   {
     "composers": [

@@ -46,14 +46,14 @@ A 3. o nome sacro 5
 " " Verginella gentile 9
 " " Che fieri lacci
 
-" " lcsum omnes cognoscite amorem :?
+" " lesum omnes cognoscite amorem :?
 " " Humil s'inchin'e porge present'al 12
 " " ]csum queram in Iectulo 13
 " " ]esu dulcis memoria 14
-" " lcsu dulccdo 15
+" " lesu dulccdo 15
 " " Dolce felice e lieta notte 16
 " " Tenor mentre ch'io canto 17
-" " Amor lcsu dulcis 18
+" " Amor lesu dulcis 18
 
 " " Tre Magi in compagnia
 B-Br

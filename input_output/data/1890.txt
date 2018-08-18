@@ -26,7 +26,7 @@ A 5. Vestra mihi. Musae, concedile plectra 9
 " " Ardua, Pierides Musae, quae culmina montis. Dom Adelberto a Furstenberg 10
 " " Ergo illi merilo sacras (secunda pars) 11
 A 6. Nunc tandem nobis felix Hymenaee. Dom Ioan. Pernsteinio et Mariae Manrique 11
-" " Nunc ergo caleant juvenilcs pectore flammae (secunda pars) 13
+" " Nunc ergo caleant juveniles pectore flammae (secunda pars) 13
 " " Naupacti \'ictus quondam Antonius undis. Dom. Manrique 14
 " " Manriques a(lerat don Ivan fortissimus heros (sccunda pars) 15
 " " Musica, Adamo, novo te salvum dicit. Dom. Adamo de nova domo 16
