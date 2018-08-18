@@ -39741,7 +39741,7 @@
       "location": "Perugia",
       "printers": [
         {
-          "modern": "Pietroiacomo Petrucci",
+          "modern": "Pietro Giacomo Petrucci",
           "original": "Pietroiacomo Petrucci"
         }
       ]
@@ -71866,8 +71866,12 @@
       "location": "Naples",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Constantino Vitale",
+          "original": "C. Vitale"
+        },
+        {
+          "modern": "Giovanni Giacomo Carlino",
+          "original": "G. C. Carlino"
         }
       ]
     },
@@ -78507,8 +78511,8 @@
       "location": "Verona",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Francesco Dalle Donne",
+          "original": "Francesco dalle Donne"
         }
       ]
     },
@@ -80178,8 +80182,8 @@
       "location": "Venice",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Girolamo Scotto",
+          "original": "Hieronymo Scotto"
         }
       ]
     },
@@ -80408,8 +80412,8 @@
       "location": "Verona",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Francesco Dalle Donne",
+          "original": "Francesco Dalle Donne"
         }
       ]
     },
@@ -84696,7 +84700,7 @@
       "location": "Perugia",
       "printers": [
         {
-          "modern": "Pietroiacomo Petrucci",
+          "modern": "Pietro Giacomo Petrucci",
           "original": "Pietroiacomo Petrucci"
         }
       ]
@@ -85786,12 +85790,12 @@
       "location": "Venice",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Giuseppe Guglielmo",
+          "original": "Giuseppe Guglielmo"
         }
       ]
     },
-    "title": "Di F. Benedetto Serafico di Nardò de l'ordine di predicatori il Primo Libro delli Madrigali a cinque voci a lui composto corretto, e dato in luce. A cinque voci. in Venetia, appresso Giuseppe  Guglielmo, 1575.",
+    "title": "Di F. Benedetto Serafico di Nardò de l'ordine di predicatori il Primo Libro delli Madrigali a cinque voci a lui composto corretto, e dato in luce. A cinque voci. in Venetia, appresso Giuseppe Guglielmo, 1575.",
     "voices": [
       5
     ],
@@ -86298,8 +86302,8 @@
       "location": "Bologna",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Pietro Maria Monti",
+          "original": "Pietro Maria Monti"
         }
       ]
     },
@@ -88145,8 +88149,8 @@
       "location": "Rome",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Amadeo Belmonte",
+          "original": "Amadeo Belmonte"
         }
       ]
     },
@@ -88335,8 +88339,8 @@
       "location": "Rome",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Bartolomeo Zanetti",
+          "original": "Bartholomeo Zannetti"
         }
       ]
     },
@@ -90773,11 +90777,11 @@
       "size": "octavo"
     },
     "printing_info": {
-      "location": "NO_PRINTER_KNOWN",
+      "location": null,
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Ottaviano Petrucci",
+          "original": "Octavianum Petrutium"
         }
       ]
     },
@@ -90987,11 +90991,11 @@
       "size": "octavo"
     },
     "printing_info": {
-      "location": "NO_PRINTER_KNOWN",
+      "location": null,
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Pietro Maria Marchetti",
+          "original": "Pietro Maria Marchetti"
         }
       ]
     },
@@ -91647,11 +91651,11 @@
       "size": ""
     },
     "printing_info": {
-      "location": "NO_PRINTER_KNOWN",
+      "location": null,
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Vincenzo Sabbio",
+          "original": "Vincenzo Sabbio"
         }
       ]
     },
@@ -95882,8 +95886,8 @@
       "location": "Nuremberg",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Paul Kauffmann",
+          "original": "Paulo Kaufmann"
         }
       ]
     },
@@ -98944,11 +98948,11 @@
       "size": "octavo"
     },
     "printing_info": {
-      "location": "NO_PRINTER_KNOWN",
+      "location": null,
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Pietro Brea",
+          "original": "Pietro Brea"
         }
       ]
     },
@@ -99435,8 +99439,8 @@
       "location": "Venice",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Girolamo Scotto",
+          "original": "Gieronimo Scotto"
         }
       ]
     },
@@ -109076,7 +109080,7 @@
       "location": "Bologna",
       "printers": [
         {
-          "modern": "Pier-maria Monti",
+          "modern": "Pietro Maria Monti",
           "original": "Pier-maria Monti"
         }
       ]
@@ -110534,8 +110538,8 @@
       "location": "Venice",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Alessandro Vincenti",
+          "original": "Alessanro Vincenti"
         }
       ]
     },
@@ -111482,11 +111486,11 @@
       "size": ""
     },
     "printing_info": {
-      "location": "NO_PRINTER_KNOWN",
+      "location": null,
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Matthijs Bastiansz",
+          "original": "Matthijs Bastiansz"
         }
       ]
     },
@@ -111739,8 +111743,8 @@
       "location": "Amsterdam",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Paulus Matthysz",
+          "original": "Paulus Matthihsz"
         }
       ]
     },
@@ -111959,11 +111963,11 @@
       "size": ""
     },
     "printing_info": {
-      "location": "NO_PRINTER_KNOWN",
+      "location": null,
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Paulus Matthysz",
+          "original": "Paulus Matthysz"
         }
       ]
     },
@@ -113982,8 +113986,8 @@
       "location": "Amsterdam",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Paulus Matthysz",
+          "original": "Paulus Matthysz"
         }
       ]
     },
@@ -114343,8 +114347,8 @@
       "location": "Amsterdam",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Paulus Matthysz",
+          "original": "Paulus Matthysz"
         }
       ]
     },
@@ -114695,8 +114699,8 @@
       "location": "Amsterdam",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Paulus Matthysz",
+          "original": "Paulus Matthysz"
         }
       ]
     },
@@ -157490,8 +157494,12 @@
       "location": "Paris",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Adrian le Roy",
+          "original": "Adriano le Roy"
+        },
+        {
+          "modern": "Robert Ballard",
+          "original": "Roberto Ballard"
         }
       ]
     },
@@ -158787,11 +158795,11 @@
       "size": "octavo"
     },
     "printing_info": {
-      "location": "NO_PRINTER_KNOWN",
+      "location": null,
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Jacques Moderne",
+          "original": "Iacopo Moderno"
         }
       ]
     },
@@ -159232,11 +159240,11 @@
       "size": "octavo"
     },
     "printing_info": {
-      "location": "NO_PRINTER_KNOWN",
+      "location": null,
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Jacques Moderne",
+          "original": "Iacopo Moderno"
         }
       ]
     },
@@ -159500,11 +159508,11 @@
       "size": "octavo"
     },
     "printing_info": {
-      "location": "NO_PRINTER_KNOWN",
+      "location": null,
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Christophe Plantin",
+          "original": "Christofle Plantin"
         }
       ]
     },
@@ -163921,8 +163929,8 @@
       "location": "Venice",
       "printers": [
         {
-          "modern": "NO_PRINTER_KNOWN",
-          "original": "NO_PRINTER_KNOWN"
+          "modern": "Bartolomeo Magni",
+          "original": "Bartholomaei Magni"
         }
       ]
     },
