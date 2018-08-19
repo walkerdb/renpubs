@@ -68,9 +68,17 @@ if __name__ == "__main__":
     for work in output.publications:
         composers.extend(list({w.composer for w in work.works}))
 
-    pprint(Counter(sorted(composers)).most_common())
+    composer_count_strings = ["| {} | {} |".format(composer, count) for composer, count in Counter(sorted(composers)).most_common()]
 
-    pprint(sorted(list(set(composers)), key=lambda x: x.split(" ")[-1]))
+    def sort_by_last_name(x):
+        return x.rstrip("1234567890:| ").split(" ")[-1]
+
+    def sort_by_count(x):
+        return -int(x.split(" ")[-2].strip(" |"))
+
+    sorted_composer_counts = sorted(sorted(composer_count_strings, key=sort_by_last_name), key=sort_by_count)
+    pprint(sorted_composer_counts)
+
     with open("publications.json", mode="w") as f:
         json.dump(
             json.loads(jsonpickle.dumps(output.publications, unpicklable=False)),
@@ -81,6 +89,11 @@ if __name__ == "__main__":
         text = f.read()
         text = re.sub("Current publication count: \d+", "Current publication count: {}".format(len(output.publications)), text)
         text = re.sub("Total works: \d+", "Total works: {}".format(sum([len(p.works) for p in output.publications])), text)
+        text = text.split("### Publication Counts")[0]
+        text += "### Publication Counts\nNumber of publications each composer appears in:\n\n"
+        text += "| Composer | Publication Count |\n"
+        text += "| -------- | -------- |\n"
+        text += "\n".join(sorted_composer_counts)
 
     with open("README.md", mode="w") as f:
         f.write(text)
