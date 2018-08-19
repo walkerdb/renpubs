@@ -1,31 +1,36 @@
+
+
+
+
+
 389 - BONINI Severo (1615) - Affetti spirituali a dua voci parte in istile di
 Firenze o recitativo per modo di Dialogo, e parte in istile misto. Di don Severo
 Bonini da Firenze monaco di Valombrosa e organista di S. Mercuriale di Forlì.
 Dedicati all'ill.mo e rev.mo signor cardinal Valente. Opera Settima. In Venetia,
-
 1615, stampa del Gardano, appresso Bartholomeo Magni.
+
 3 fasc. in 8° (C.1°, C.2°, BC.), pag. 25,(1). Ded., S. Mercuriale di Forlì, 12 V 1615.
 
-Surge amica mea. In stil di Firenze recitativo. T. e C. 1
-Laetamini in Domini. In stil di Firenze misto. 2. C. o 2 T. 2
-Tota pulchra es. In stil di Firenze recitativo. T. e C. 3
-Specie tua. 2. C. o 2 T. 4
-Dilectus meus. In stil di Firenze misto. 2 C. o 2 T. 6
-Vox dilecti mei. In Stil di Firenze recitativo. T. e C. 7
-Venite exultemus. Aria sopra bellissima Regina. 2 C. o 2 T. 9
-Ego dormio. In stil di Firenze recitativo. T. e C. (Talenti) 11
-Iubilate Dei. In stil di Firenze misto. 2 C. o 2 T. 12
-O quam pulchra es. In stil di Firenze recitativo. 2 C. o 2 T. 13
-Pulchra facie. In stil di Firenze. C. o 2 T. 15
-Adiuro vos. In stil di Firenze recitativo. 2 C. 16
-Versa est in luctum. In stil di Firenze recit. e misto. 2 C. o 2 T. 18
-O triste spectaculum. In stil di Firenze recit. 2 C. o 2 T. 19
-Introduxit me rex. In stil di Firenze. 2 C. o 2 T. 20
-Bcatus vir. 2 C. o 2 T. 21
-Veni sponsa. In stil di Firenze. 2 C. o 2 T. 22
-Salve regina. In stil di Fir. con un eco in terzo. 2 C. o 2 T. 23
-Laudate Dominum. In ecco. 2 C. o 2 T. 24
-Domine quando'veneris. In stil di Firenze. 2 C. o 2 T. 25
+Surge amica mea 1
+Laetamini in Domini 2
+Tota pulchra es 3
+Specie tua 4
+Dilectus meus 6
+Vox dilecti mei 7
+Venite exultemus 9
+Ego dormio (Talenti) 11
+Iubilate Dei 12
+O quam pulchra es 13
+Pulchra facie 15
+Adiuro vos 16
+Versa est in luctum 18
+O triste spectaculum 19
+Introduxit me rex 20
+Beatus vir 21
+Veni sponsa 22
+Salve regina 23
+Laudate Dominum 24
+Domine quando'veneris 25
 
 I-Bc: compl.
 GB-Lbm: Bc.
@@ -34,26 +39,21 @@ GB-Lbm: Bc.
 
 
 
-390  BONINI Severo (1613) - Lamento d'Arianna cavato dalla tragedia del signor
+390 - BONINI Severo (1613) - Lamento d'Arianna cavato dalla tragedia del signor
 Ottavio Rinuccini nobil fiorentino. Posto in musica in stile recitativo da Severo
 Bonini da Firenze. Dedicato alli molto illustri signori li signori Marc'Antonio et
 Oracio Magalotti. Stampa del Gardano in Venetia aere Bartholomei Magni. 1613.
 
-Vol. in 8, pag. 30. Ded., Forlì, 8 X] 1613.
+Vol. in 8, pag. 30. Ded., Forlì, 8 XI 1613.
 
 A 2. Se d'Ismeno in su la riva. Coro di soldati (Rinuccini) 1
 " " Non fia già che mut'Atene (seconda parte) " 2
 A 3. E diran ch'invitt'e forte (terza parte) " 3
 A 1. Fortissimi guerrieri o degli affanni " 4
-A 2. Sian lieti, Sian felici. Coro " 6
+A 2. Sian lieti, sian felici. Coro " 6
 A 1. Quai segni di timor nel tuo bel volto " 7
 " " Signor, deh mi concedi abbandonando " 8
-)) " Ben la nobil vittoria del Minotauro " 9
+" " Ben la nobil vittoria del Minotauro " 9
 " " Un amoroso affetto del mio tradito padre " 9
 " " Lasciar le patrie rive non può senza dolore " 10
-
-)) \ ' o |
-" Si caro al cor mi scende Il ragionar cortese
-
-.245-
-
+" " Sì caro al cor mi scende il ragionar cortese " 12

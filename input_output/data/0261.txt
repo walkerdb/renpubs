@@ -1,23 +1,22 @@
 A 1. Cruda, pur mi lasciasti, nè di me più rammenti. Aria 35
-
 " " Lieta nel seno (seconda parte) 35
 " " Così tra risi e canti (terza parte) 36
 " " Per mio maggior tormento (quarta parte) 37
 " " Mentre solingh'e. Aria 38
-" " Ode fra sicpe ascosa (seconda parte) 39
+" " Ode fra siepe ascosa (seconda parte) 39
 " " O d'infelice amor (terza parte) 39
 " " Per riportar di (quarta parte) 40
 " " O fallaci d'amor. Aria di Romanesca 41
 " " O come spesso (seconda parte) 41
 " " Sempre mille amarissimi martiri (terza parte) 42
-" " E quando un huom (quarta parte) ' 42
+" " E quando un huom (quarta parte) 42
 " " Torna, deh torna, pargoletto mio, torna (Rinuccini) 43
 " " Dove, dove t'ascondi (seconda parte) " 43
 " " Corrimi in braccio (terza parte) " 44
 " " Senti della mia voce (quarta parte) " 44
 " " Alma mia, se ben 45
 " " Alma, che scorgi tu tanto di ben qua giù ch'al ciel 46
-" " Non più con mesti accenti io narrcrò mia fè 47
+" " Non più con mesti accenti io narrerò mia fè 47
 " " Ninfe vezzose, vaghe, amorose, ch'in fresche valli tra bei 48
 " " Dal tuo impero, cieco arciero, ah non vedi (Rinuccini) 49
 " " Aure vaghe, aure gioconde, che volate, che scherzate 50
@@ -35,11 +34,11 @@ GB-Lbm
 
 
 
-401 -- BORELLI Francesco Maria (1599) - Di Francesco Maria Borelli da Pesaro
-organista di Loreto. Il Primo Libro de Madrigali a cinque voci. Novamente comPOStl,
+401 - BORELLI Francesco Maria (1599) - Di Francesco Maria Borelli da Pesaro
+organista di Loreto. Il Primo Libro de Madrigali a cinque voci. Novamente composti,
 et dati in luce. In Venetia, appresso Ricciardo Amadino. 1599.
 
-5 fasc. in 8° (C.A..T.B.5.), pag. 26. Ded. al Cav. Cinthio Silvestri da Cingoli, Loreto, 4 V 1599.
+5 fasc. in 8° (C.A.T.B.5.), pag. 26. Ded. al Cav. Cinthio Silvestri da Cingoli, Loreto, 4 V 1599.
 
 Hor che di vaghi fiori la dolce primavera ogni silvestre sera 1
 Veramente in amore si prova ogni dolore (Bembo) 2
@@ -48,16 +47,10 @@ Se per haverm'ohimè donato il core nasc'in me 4
 Se nel mar del mio pianto bagnasti, Aurora mia 5
 Crudel, poi ch'ad ogn'hora vivi del mio languire 6
 Ardo, sospiro et piango e mi raccende di doppio foco amor 7
-
-Çhc farò dunque ohimè (seconda parte) 8
+Che farò dunque ohimè (seconda parte) 8
 Se l'interno martire, ch'ogn'hor mi strugg'il core 9
-
-O com'è che s'un con pura fede (seconda parte) ...
+O com'è che s'un con pura fede (seconda parte) 10
 Soletto amor tendea, qual pescator, le reti (Tasso) 11
-Al lume delle stelle Tirsi sotto un alloro si dolea " 12'
+Al lume delle stelle Tirsi sotto un alloro si dolea " 12
 Sopra le chiome d'oro, ov'è strett'il mio core 13
-
 La mano... e ratto lui senza contesa (seconda parte) 14
-
--253-
-

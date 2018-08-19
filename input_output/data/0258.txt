@@ -1,7 +1,5 @@
-A 1. Disseratevi, abissi orribili. Valeriano in carcere. Basso. Poesia di G. B. Roscelli lì]
-
-A 2. chgeva a piè dell'ozioso. Venere e Vulcano. Soprano e Basso. Poesia di D. Mario
-[Sangiovanni lSl
+A 1. Disseratevi, abissi orribili. Valeriano in carcere. Basso. (G. B. Roscelli) 133
+A 2. Reggeva a piè dell'ozioso. Venere e Vulcano. Soprano e Basso. (D. Mario Sangiovanni) 151
 
 I-Bc
 I-MOe
@@ -10,38 +8,32 @@ I-MOe
 
 
 
-397. ..- BONONCINI Giovanni Maria (1678) - Madrigali a cinque voci soprai
+397 - BONONCINI Giovanni Maria (1678) - Madrigali a cinque voci sopra i
 dodici tuoni, o modi del canto figurato, Libro Primo, Opera Undecima di Gio.
 Marla Bononcini modanese, Accademico Filarmonico; del concerto del serenissimo
-Signor duca Francesco II e maestro di capella della cattedrale di Modana. Alla sacra
+signor duca Francesco II e maestro di capella della cattedrale di Modana. Alla sacra
 cesarea maesta del sempre augusto Leopoldo Primo imperatore. In Bologna, Per
 Giacomo Monti. 1678. Con licenza de' Superiori.
 
-6 fasc. in 8° (C.A.T.B.5. Partitura), pag. 162. Agl'Intendenti, e Professori di Musica: " ...Si...
+6 fasc. in 8° (C.A.T.B.5. Partitura), pag. 162. Agl'Intendenti, e Professori di Musica: " ...Speto
 d'haver osservata la natura dei Tuoni, o Modi con tutte le loro Cadenze regolari, oltre le
-irregolari, nella conformità dichiarata nel dccimosesto Capitolo, eccetto del tchO, C quan"
-Tuono, ne i quali mi son servito ora della sesta, et ora della quarta corda in luogo della quinta.
+irregolari, nella conformità dichiarata nel decimosesto Capitolo, eccetto del terzo, e quarto
+Tuono, ne i quali mi son servito ora della sesta, et ora della quarta corda in luogo della quinta,
 per isfuggire alcune cattive relazioni, che naturalmente vi si ritrovano... ".
 
-Di Leopoldo augusto. Del 1° tuono
+Di Leopoldo augusto. Del 1° tuono 5
 Amor, io parto e sento nel partir al penar. Del 2° tuono (Guarini) 24
-
 Ardo sì, ma non t'amo, perfida e dispietata. Del 3° tuono " 38
 So che tu vuoi ch'io mora, ingrata. Del 4° tuono 46
 Mi diè Clori un narciso, non so s'in danno. Del 5° tuono 55
 Vede pur nel mio volto. Del 6° tuono 65
 Mia diva, io non so dire. Del 7° tuono 72
 Chi va cercand'amore. Del 8° tuono 84
-Mentre la bella faccia. Del 9° tuono il}?
-
-Questa sovrana luce. Del 10° tuono
-Care lagrime mie, messi dolenti di mie pene. Del 11° tuono
-Cor mio, dah non languire, che fai tcco languir. Del 12° tuono
-
-(Celiano) 121
-(Guarini) 133
-
-Non più guerra, pietate, occhi miei belli. Di tutti i 12 tuoni " ...
+Mentre la bella faccia. Del 9° tuono 100
+Questa sovrana luce. Del 10° tuono 111
+Care lagrime mie, messi dolenti di mie pene. Del 11° tuono (Celiano) 121
+Cor mio, dah non languire, che fai teco languir. Del 12° tuono (Guarini) 133
+Non più guerra, pietate, occhi miei belli. Di tutti i 12 tuoni " 145
 
 F-Pn: compl.
 D-Rp: B., Partit.
@@ -52,21 +44,14 @@ F-Pc: Partit.
 
 
 
-398 - BONONCINI Giovanni Maria (1678) - Cantate per camera a VOCC 5013
-Scipione
-
-Libro Secondo consecrato all'illustriss. et eccellentiss. sig. il sig. conte ,
-Rossi marchese di S. Secondo, etc. cla Gio. Maria Bononcini del concerto del 'altezza
-sereniss. di Modana, maestro di cappella della catedrale, et Accadernlco
-Filarmonico. Opera Decimaterza. In Bologna, per Giacomo Monti. 1678- C°"
-
+398 - BONONCINI Giovanni Maria (1678) - Cantate per camera a voce sola
+Libro Secondo consecrato all'illustriss. et eccellentiss. sig. il sig. conte Scipione
+Rossi marchese di S. Secondo, etc. da Gio. Maria Bononcini del concerto dell'altezza
+sereniss. di Modana, maestro di cappella della catedrale, et Accademico
+Filarmonico. Opera Decimaterza. In Bologna, per Giacomo Monti. 1678. Con
 licenza de' Superiori.
+
 Vol. in 8° obl., pag. 90. Ded., Modana, 2 XI 1678.
 
-In Soprano o Tenore 1
-tu vivi ancor? Porzia fedele. Poesia di Wasserman austriaco . 14
-è la bellezza. Scherzo amoroso. Poesia di Alfonso Colomb:
-
-Porzia,
-Quanto cara
-
+Porzia, tu vivi ancor? Porzia fedele. (Wasserman austriaco) 1
+Quanto cara è la bellezza. Scherzo amoroso. (Alfonso Colombi) 14

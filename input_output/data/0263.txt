@@ -1,5 +1,4 @@
 A 5. Non voglio mai, Signor, lasciarti no 26
-
 " " Di pensier in pensier, di monte in monte discorro per trovar 27
 " " Vatten, nemico stuolo, nell'inferno. Non voglio più seguire 28
 " " Sempre son rose fresch'in paradiso 29
@@ -13,43 +12,45 @@ A 5. Non voglio mai, Signor, lasciarti no 26
 " " Canzoni, all'ombr'altiera della quercia gentile. Madrigale 37
 
 I-Bc: compl.
-I-VCd: B. (manca di pag. 17-20)-
+I-VCd: B. (manca di pag. 17-20).
+
+
+
+
+
 
 403 - BORGO Cesare (1584) - Canzonette di Cesare Borgo milanese, organista
 di Santo Pietro in Gessate in Milano, novamente poste in luce. Libro Primo a tre
 voci. In Venetia presso Giacomo Vincenzi, et Ricciardo Amadino, compagni, 1584.
 
-3 fasc. in 8° (C.T.B.), pag. 2.5,(1). Ded. a Paminonda Cani de Bisnate, Venetia, 25 IX 1584.
+3 fasc. in 8° (C.T.B.), pag. 25,(1). Ded. a Paminonda Cani de Bisnate, Venetia, 25 IX 1584.
 
 Della mia Clori al dolce viso intorno amor volava 1
 Lieto cantai mentr'io mi vissi in pace, sperando dal bel nome 2
-[a gratia, la beltade, l'amor pien d'lionestade 3
+La gratia, la beltade, l'amor pien d'honestade 3
 Quando mirai sa bella faccia d'oro, con s'occhi ladri 4
 Se le stelle e l'empia sorte mi minaccian sempre morte 5
-Com'esser può, cor mio, ch'hor don'un sguardo si cortese e pio 6
-Feliceardor, ond'io m'infiammo e temo di scoprir il male 7
-Lhabito nero, che ti cinge et orna, dimostra morte 8
+Com'esser può, cor mio, ch'hor don'un sguardo sì cortese e pio 6
+Felice ardor, ond'io m'infiammo e temo di scoprir il male 7
+L'habito nero, che ti cinge et orna, dimostra morte 8
 Io son fenice e voi sete la fiamma, che m'ard'a dramm'a dramma 9
 Io canterò d'amore, che fieramente m'ha passato il core 10
 Vo cercando il cor mio dove sia posto. L'havresti mai nascosto? 11
-Gigia mia, dolce e cara, tu sai ch'io t'amo con sincero cuore 12
+Gioia mia, dolce e cara, tu sai ch'io t'amo con sincero cuore 12
 Chi vuol veder un angelico viso, sceso dal paradiso 13
-O Saporito volto, per te son fatto stolto 14
-sollevati si sono i miei pensieri nel travagliato regno 15
-Si Vldde in terra mai il più bel sole di quello ch'hor 16
+O saporito volto, per te son fatto stolto 14
+Sollevati si sono i miei pensieri nel travagliato regno 15
+Si vidde in terra mai il più bel sole di quello ch'hor 16
 A Napoli si vede una ninfa gentil che per mercede 17
-Bella (.Îvinepera, i tuoi dolci coralli, la dolce linguicciola 18
-S loptango, s'io sospiro a tutte l'hore 19
-ÌSVerlglia, anima mia, l'improviso gionr che'l cor m'assale 20
-Pzt-531315512232; l::ciarmififar'lo potet'e darmi 21
-Se - . , pri, selvaggi e foschi 22
-stai???, LÎÎ'ÎÎQÎZÎÎÎZ "Sci... dalf... (...... ...... B
-Per comm a tanti no vn ocezza e e tu err contenta 24
-
-, orrei, madonna, un si 25
+Bella Ginepera, i tuoi dolci coralli, la dolce linguicciola 18
+S'io piango, s'io sospiro a tutte l'hore 19
+Neriglia, anima mia, l'improviso gioir che'l cor m'assale 20
+Se sete resoluta di lasciarmi, far lo potet'e darmi 21
+Per solitarij boschi, aspri, selvaggi e foschi 22
+Se giusto inamorato può meritar da voi d'esser amato 23
+Stanott'io mi sognava con dolcezza che tu eri contenta 24
+Per contro a tanti no, vorrei, madonna, un sì 25
 
 I-Bc: compl.
-
-D*Mbs: compl.
+D-Mbs: compl.
 D-HR: B.
-

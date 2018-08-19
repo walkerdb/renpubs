@@ -1,68 +1,55 @@
-" " Giocondo albergo e caro per me fia il mar
-" " Veggio o parmi veder di faci accese "
-" " Fors'è capanna di pastor cortese " H
-A 3. Deh come son lucenti, deh come son ridenti " l?
-A 1. Già Febo ha spento in mar " b
-A 2. Noi qui posando intanto al lume " 17
-A 1. Lasciatemi morire. E chi volete voi che mi conforte " 18
+A 1. Qual di me più felice, o rege o cavalier (Rinuccini) 13
+" " Giocondo albergo e caro per me fia il mar " 14
+" " Veggio o parmi veder di faci accese " 14
+" " Fors'è capanna di pastor cortese " 15
+A 3. Deh come son lucenti, deh come son ridenti " l5
+A 1. Già Febo ha spento in mar " 17
+A 2. Noi qui posando intanto al lume " 18
+A 1. Lasciatemi morire. E chi volete voi che mi conforte " 20
 A 2. Invan lingua mortale (seconda parte) " 20
-A 1. O Teseo, o Teseo mio (terza parte) " lil)
-A 2. Ahi che'l cor mi si spezza (quarta parte) " L
+A 1. O Teseo, o Teseo mio (terza parte) " 21
+A 2. Ahi che'l cor mi si spezza (quarta parte) " 24
 A 1. Dove, dove è la fede che tanto (quinta parte) " 25
-" " Ah! che pur non risponde (sesta parte) " 27
-ÎÎ. meiner: amor, degno ch'il mondo (settima parte) " 28
-. era ancor do loco (ottava parte) " 29
+" " Ahi che pur non risponde (sesta parte) " 27
+A 2. Verace amor, degno ch'il mondo (settima parte) " 28
+A 1. Misera ancor do loco (ottava parte) " 29
 
 GB-Och
 US-Wc (prov. Landau)
 
-39.1 - BONINI Severo (1607) - Madrigali, e Canzonette spirituali del M.R.P.DCrisostomo
-Talenti, vallombrosano, et del sig. Giovambattista Marino posti in
-musrca dal R.P. don Severo Bonini da Firenze, monaco di Vallombrosa. P,er cantare
-a una voce.sola, sopra il Chitarrone, o Spinetta, o altri stromenti. In Firenze,
+
+
+
+
+
+391 - BONINI Severo (1607) - Madrigali, e Canzonette spirituali del M.R.P.D. 
+Crisostomo Talenti, vallombrosano, et del sig. Giovambattista Marino, posti in
+musica dal R.P. don Severo Bonini da Firenze, monaco di Vallombrosa. Per cantare
+a una voce sola, sopra il Chitarrone, o Spinetta, o altri stromenti. In Firenze,
 appresso Cristofano Marescotti. 1607. Con licenza de' Superiori.
 
-Yo]. in 4°, pag. 31. Ded. a D. Simone Finardi, Priore di S. Trinità di Firenze: "...havendo io
-imitato 1] grazxosostile del famosissimo signor Giulio Romano... Badia di Ripoli 1° V 1607 "
-L Autore a gramos: cantori: "Benchè oggidì in gran parte si stampino Musiche 'per una voce
-sola.... Giulio Romano, inventore di questa nobilissima maniera... come quello che essendo stato
-Il primo... Come. anco con tanta singolarità va imitando (oltre a tante altre virtù) la Signora
+Vol. in 4°, pag. 31. Ded. a D. Simone Finardi, Priore di S. Trinità di Firenze: "...havendo io
+imitato il grazioso stile del famosissimo signor Giulio Romano... Badia di Ripoli 1° V 1607 "
+L Autore a graziosi cantori: "Benchè oggidì in gran parte si stampino Musiche per una voce
+sola... Giulio Romano, inventore di questa nobilissima maniera... come quello che essendo stato
+il primo... Come anco con tanta singolarità va imitando (oltre a tante altre virtù) la Signora
 Francesca sua prima figliuola, con ammirazione non solo della nostra Città di Firenze, ma di
-
 tutte le Corte de' Prencipi d'Italia, sino a quella di loro Maestà Cristianissima ove con tanto
-onore fu da loro Maestà richiesta tutta la sua Casa... ". '
+onore fu da loro Maestà richiesta tutta la sua Casa... ".
 
 Luce, che'l suo splendore (Talenti) 4
 Dunque pallid'essangue " 5
 Che'l cielo a suoi prieghi " 6
 Ecco Flora, il dì ritorna " 7
 Già scarso havea lasciato (Marino) 8
-
-(Talenti) 9
-(Marino) 10
-(Talenti) "
-(Marino) 12
-
-Ahi chi dal ciel affrena
-
-Questa, ch'in atto supplice
-
-Verginelle, fide ancelle
-
-Sola fra suoi più cari, a piè del Figlio afflitto
-
+Ahi chi dal ciel affrena (Talenti) 9
+Questa, ch'in atto supplice (Marino) 10
+Verginelle, fide ancelle (Talenti) 11
+Sola fra suoi più cari, a piè del Figlio afflitto (Marino) 12
 Ecco l'alba, che ridente l'oriente di sua pace (Talenti) 13
-
 Gloriosa verginella, chiara stella " 14
-
 Dolce ferita il sen t'offende " 15
-
 Hor ch'a gioir n'invita " 16
-
 O felici antri e caverne " 17
-
-Fortunata, ombrosa valle. Aria di Simonc- Finardi " ig
-))
-
-Sacrato orrore
-
+Fortunata, ombrosa valle. Aria di Simone Finardi " 18
+Sacrato orrore " 19

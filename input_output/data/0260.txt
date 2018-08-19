@@ -1,5 +1,4 @@
-Canzon seconda 75
-
+Canzon seconda 25
 Canzon terza 28
 Canzon quarta 30
 Canzon quinta 32
@@ -11,11 +10,16 @@ I-VEcap: compl.
 I-Bc: T.
 Sartori 1616c.
 
-400 - BORBONI Nicolo (1618) - Musicali concenti a una, e due voci di Nicolo
 
+
+
+
+
+
+400 - BORBONI Nicolo (1618) - Musicali concenti a una, e due voci di Nicolo
 Borboni Libro Primo. In Roma con licenza de' Superiori l'anno 1618.
 
-Vol. in 8° inciso su rame da N. Borbone, pag. 59. Ded. a Filippo Colonna, Duca di Paliano, etc-,
+Vol. in 8° inciso su rame da N. Borbone, pag. 59. Ded. a Filippo Colonna, Duca di Paliano, etc.,
 Roma, 24 XII 1618.
 
 A 1. Scorto da rai di due bei lumi 1
@@ -38,20 +42,17 @@ A 1. Scorto da rai di due bei lumi 1
 " " Quelle pietose man (seconda parte) 18
 " " Quei piè che di Pluton (terza parte) 19
 " " Ma s'è il fin giunto (quarta parte) 20
-" " Hog'gi di padre eterno. Sonetto 21
+" " Hoggi di padre eterno. Sonetto 21
 " " Trema la terra (seconda parte) 21
-" " .Hor se che non ha senso (terza parte) 22
+" " Hor se che non ha senso (terza parte) 22
 " " Tu, rio cor, che del ciel (quarta parte) 22
 " " Vergine gloriosa, di Dio figliola. Madrigale 24
 " " Che di quel santo zelo (seconda parte) 25
 " " Di mille incauti amanti. Madrigale 26
 " " Già respirai d'amore e piansi in dolc'affanni. Madrigale 28
 " " Deh, per pietà, mirate un che per voi si more. Madrigale 29
-" " Deh'sciogli, amata Filli, Madrigale 30
+" " Deh sciogli, amata Filli, Madrigale 30
 " " Dove ten fuggi, crudel, se mi distruggi. Aria 32
-" " Se nieghi all'amor mio (seconda parte) i?
-" " S'ancor ciò nieghi (terza parte) 34
-" " Così fia pago il tuo (quarta parte)
-
--252 -
-
+" " Se nieghi all'amor mio (seconda parte) 32
+" " S'ancor ciò nieghi (terza parte) 33
+" " Così fia pago il tuo (quarta parte) 34
