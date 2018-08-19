@@ -313,12 +313,12 @@ Number of publications each composer appears in:
 | Fabio Pelusu | 1 |
 | Francesco Bonrado de Perissone | 1 |
 | Bartolomeo Pifaro | 1 |
-| Costanzo Porta | 1 |
 | Constanzo Porta | 1 |
+| Costanzo Porta | 1 |
 | Cornel Piet Pred. | 1 |
 | Cornelis Piet. Pred. | 1 |
-| Di Cornel Piet Pred.[?] | 1 |
 | Cornel. Piet. Pred.[?] | 1 |
+| Di Cornel Piet Pred.[?] | 1 |
 | Pietro Ragno | 1 |
 | Girolamo Avanzolini da Rimini | 1 |
 | Giulio Rinaldi | 1 |
@@ -333,8 +333,8 @@ Number of publications each composer appears in:
 | Pietro Taglia | 1 |
 | Luca Valente | 1 |
 | Alex Venitiano | 1 |
-| Pietro Vinci | 1 |
 | P. Vinci | 1 |
+| Pietro Vinci | 1 |
 | Jacob Vredeman | 1 |
 | Giaches Vuert | 1 |
 | Adriano Vuillaert | 1 |

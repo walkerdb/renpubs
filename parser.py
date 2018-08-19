@@ -57,6 +57,22 @@ def extract_texts(end, start):
     return texts
 
 
+def generate_markdown_table_for_count(raw_array_to_count, headers):
+    def sort_by_last_name(x):
+        return x.rstrip("1234567890:| ").split(" ")[-1]
+
+    def sort_by_count(x):
+        return -int(x.split(" ")[-2].strip(" |"))
+
+    formatted_rows = ["| {} | {} |".format(composer, count) for composer, count in Counter(raw_array_to_count).most_common()]
+    sorted_rows = sorted(sorted(sorted(formatted_rows), key=sort_by_last_name), key=sort_by_count)
+    composer_count_table = "| {} |\n".format(" | ".join(headers))
+    composer_count_table += "| -------- | -------- |\n"
+    composer_count_table += "\n".join(sorted_rows)
+
+    return composer_count_table
+
+
 if __name__ == "__main__":
     first_page_with_works = 9
     last_page_to_process = 263
@@ -67,17 +83,6 @@ if __name__ == "__main__":
     composers = []
     for work in output.publications:
         composers.extend(list({w.composer for w in work.works}))
-
-    composer_count_strings = ["| {} | {} |".format(composer, count) for composer, count in Counter(sorted(composers)).most_common()]
-
-    def sort_by_last_name(x):
-        return x.rstrip("1234567890:| ").split(" ")[-1]
-
-    def sort_by_count(x):
-        return -int(x.split(" ")[-2].strip(" |"))
-
-    sorted_composer_counts = sorted(sorted(composer_count_strings, key=sort_by_last_name), key=sort_by_count)
-    pprint(sorted_composer_counts)
 
     with open("publications.json", mode="w") as f:
         json.dump(
@@ -91,9 +96,8 @@ if __name__ == "__main__":
         text = re.sub("Total works: \d+", "Total works: {}".format(sum([len(p.works) for p in output.publications])), text)
         text = text.split("### Publication Counts")[0]
         text += "### Publication Counts\nNumber of publications each composer appears in:\n\n"
-        text += "| Composer | Publication Count |\n"
-        text += "| -------- | -------- |\n"
-        text += "\n".join(sorted_composer_counts)
+        text += generate_markdown_table_for_count(composers, ["Composer", "Publication Count"])
+
 
     with open("README.md", mode="w") as f:
         f.write(text)
