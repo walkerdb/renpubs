@@ -12,27 +12,27 @@ In fine: " Il fine delli madrigali d'Archadelt raccolti per Antonio il Verso".
 
 Il bianco, e dolce cigno cantando more (Guidiccioni) 1
 Voi ve n'andate al cielo, occhi beati 2
-Pungente dardo, che'l mio cor consumi. (di Berchem) 3
-Ragion è ben che alcuna volta io canti. (Di Berchem) (Petrarca) 4
+Pungente dardo, che'l mio cor consumi. (di Jacquet de Berchem) 3
+Ragion è ben che alcuna volta io canti. (di Jacquet de Berchem) (Petrarca) 4
 Quand'io veggio dal ciel scender l'aurora. (Di Pietro Vinci) 5
 Ancidetemi pur, grievi martiri 6
 Quando col dolce suono s'accordon le dolcissime parole 7
-Se veder si potesse lo mio core. (di Tarmglino) 8
+Se veder si potesse lo mio core. (di Ippolito Tartaglino) 8
 O felici occhi miei, felici voi, che sete car'al mio sol 9
 Amor, tu sai pur fare ch'un cor di ghiaccio 10
-Filli cara et amata, dimmi per cortesia. (Di Il Verso) 11
+Filli cara et amata, dimmi per cortesia. (Di Antonio Il Verso) 11
 Hor tregu'havran i miei caldi sospiri e le selve d'intorno 12
 Si grand'è la pietà ch'ho di me stesso (Cassola) 13
 Da bei rami scendca, dolce ne la memoria (Petrarca) 14
-Datemi pace, o duri miei pensieri. (Di Il Verso) " 15
+Datemi pace, o duri miei pensieri. (Di Antonio Il Verso) " 15
 Qual sì grave dolor ch'io sentirò 16
 O s'io potessi, donna, dir quel che nel mirar voi 17
 Se vi piace, signora, il mio dolore 18
 Se la dura durezza in la mia donna dura (Cassola) 19
-Lassar il velo o per sol, o per ombra. (Di Fr. Layolle) (Petrarca) 20
+Lassar il velo o per sol, o per ombra. (Di Francesco de Layolle) (Petrarca) 20
 Il ciel, che rado virtù tanta mostra 21
 A qualunque animale alberga in terra. (Di P. Vinci) (Petrarca) 22
-Onde tols'amor l'oro e di qual vena, (Di Il Verso) " 23
+Onde tols'amor l'oro e di qual vena, (Di Antonio Il Verso) " 23
 Dolce spoglia di lei. (di Formica) 24
 Quant'è, madonna mia, folle'l pensiero 25
 Dolcemente s'adira la donna mia, ma vie più dolcemente 26
@@ -40,7 +40,7 @@ Giovenetta regal, pur'innocente 27
 Io potrei forsi dire, donna, se stabil fosse amore 28
 Anchor ch'io possa dire che d'haver. (Di Claudio Merulo) 29
 Quand'io pens'al martire, amor, che tu mi dai (Bembo) 30
-A l'ultimo bisogno, o miser'alma. (Di Il Verso) (Petrarca) 31
+A l'ultimo bisogno, o miser'alma. (Di Antonio Il Verso) (Petrarca) 31
 
 B-Br: A.T.B.
 RISM, I 1592-17.
@@ -53,6 +53,6 @@ rancesco e Simon Tini. 1597. Nella stamparia del q. Pacifico Pontio 1596.
 
 4 fasc. in 8° obl. (C.A.T.B.), pag. 2.9.
 
-Ragion è ben che alcuna volta io canti. (di G. Berchem) (Petrarca)
-Io vorrei pur fuggir, crudel amore, dal tuo. (Di Corteccia)
-Fammi pur guerra, amor, quanto tu vuoi. (Di Corteccia)
+Ragion è ben che alcuna volta io canti. (di Jacquet de Berchem) (Petrarca)
+Io vorrei pur fuggir, crudel amore, dal tuo. (di Francesco Corteccia)
+Fammi pur guerra, amor, quanto tu vuoi. (di Francesco Corteccia)

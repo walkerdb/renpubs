@@ -1,6 +1,8 @@
 import os
 import re
 import json
+from collections import Counter
+from pprint import pprint
 
 import jsonpickle
 
@@ -62,6 +64,13 @@ if __name__ == "__main__":
     output = parse_works_from_page_transcripts(first_page_with_works, last_page_to_process)
     output.publications.extend(parse_works_from_old_style_tables().publications)
 
+    composers = []
+    for work in output.publications:
+        composers.extend(list({w.composer for w in work.works}))
+
+    pprint(Counter(sorted(composers)).most_common())
+
+    pprint(sorted(list(set(composers)), key=lambda x: x.split(" ")[-1]))
     with open("publications.json", mode="w") as f:
         json.dump(
             json.loads(jsonpickle.dumps(output.publications, unpicklable=False)),

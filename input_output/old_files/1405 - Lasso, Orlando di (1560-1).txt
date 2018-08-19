@@ -29,8 +29,8 @@ A 4	6. Mentre per questi monti andran                      	Sesta parte         
 -  	4. Non fur giamai veduti                               	Quarta parte                      	Francesco Roselli      	Francesco Petrarca	24
 -  	5. I' temodi cangiar pria                              	Quinta parte                      	Francesco Roselli      	Francesco Petrarca	25
 -  	6. Dentro pur fuoco e fuor                             	Sesta parte                       	Francesco Roselli      	Francesco Petrarca	26
--  	Quando da voi, madonna, son lontano                    	Di  Giovan Domenico da Nola       	Giovan Domenico da Nola	-                 	27
--  	Mentre fia cald'el sol, fredda la neve                 	Di  Giovan Domenico da Nola       	Giovan Domenico da Nola	-                 	28
+-  	Quando da voi, madonna, son lontano                    	Di  Giovan Domenico da Nola       	Giovanni Domenico da Nola	-                 	27
+-  	Mentre fia cald'el sol, fredda la neve                 	Di  Giovan Domenico da Nola       	Giovanni Domenico da Nola	-                 	28
 
 I-Bc: compl.
 US-Wc: compl.
