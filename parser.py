@@ -94,8 +94,8 @@ if __name__ == "__main__":
         text = f.read()
         text = re.sub("Current publication count: \d+", "Current publication count: {}".format(len(output.publications)), text)
         text = re.sub("Total works: \d+", "Total works: {}".format(sum([len(p.works) for p in output.publications])), text)
-        text = text.split("### Publication Counts")[0]
-        text += "### Publication Counts\nNumber of publications each composer appears in:\n\n"
+        text = text.split("## Publication Counts")[0]
+        text += "## Publication Counts\nNumber of publications each composer appears in:\n\n"
         text += generate_markdown_table_for_count(composers, ["Composer", "Publication Count"])
 
 

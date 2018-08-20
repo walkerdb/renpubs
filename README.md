@@ -50,7 +50,7 @@ Total works: 17406
 }
 ```
 
-### Publication Counts
+## Publication Counts
 Number of publications each composer appears in:
 
 | Composer | Publication Count |
