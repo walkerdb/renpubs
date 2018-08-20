@@ -1,11 +1,16 @@
-A 3. La donna mia. A Simone Bagerio B
-A 4. Occhi, dell'alma mia vivaci soli, deli s'io ardo 24
+A 3. La donna mia. A Simone Bagerio 23
+A 4. Occhi, dell'alma mia vivaci soli, deh s'io ardo 24
 " " Donna, se lo mio core. Al Padre Angelo Boccatio piacentino 25
 
 Il solo B. di questa edizione esisteva nella collezione Vogel a Berlin, passò poi alla Oeffentliche
-National Bibliothek con tutta la biblioteca Vogel e lu distrutto durante l'ultima guerra.
+National Bibliothek con tutta la biblioteca Vogel e fu distrutto durante l'ultima guerra.
 
-407 - BORSARO Arcangelo (1598) - Il Quarto Libro delle Canzonette a tre, eta
+
+
+
+
+
+407 - BORSARO Arcangelo (1598) - Il Quarto Libro delle Canzonette a tre, et a
 quattro voci, di Arcangelo Borsaro da Reggio. Novamente composte, et date in luce.
 In Venetia, appresso Ricciardo Amadino. 1598.
 
@@ -15,16 +20,16 @@ al presente Priore di Santi Cosmo el Damiano di Roma... Venetia, 30 VII 1598 ".
 
 A 3. Apra la porta d'oro a questo novo sol, ch'amo 1
 " " Deh perchè non ho io, caro dolce cor mio 2
-" " Dunque per esser bella sete, Nelli-a, crudel. La Violina 3
+" " Dunque per esser bella sete, Nellia, crudel. La Violina 3
 " " Porta nel viso aprile la mia ninfa gentile (Celiano) 4
 " " Togliea Damon dal crin del suo bel sole un fior 5
 " " Di perle lagrimose sparse le guancie di ligustri (Celiano) 6
 " " Dolcissimi sospiri, dolce le pene mie. La Massirola 7
 " " Udite in cortesia un nuov'oltraggio di Rosana mia 8
 " " Quando Angela rimira il ciel, sospira quasi dir voglia 9
-" " S'io mir'il vostro viso, \'i scorgo il paradiso (Celiano) 10
+" " S'io mir'il vostro viso, vi scorgo il paradiso (Celiano) 10
 " " Chi brama di veder opaca selva piena di fiere 11
-" " Dammi la mano, o mia vezzosa Filli 11
+" " Dammi la mano, o mia vezzosa Filli 12
 " " Sì gelato timore per la vostra beltà m'assale il core 13
 " " Ben mio, perchè mi dai cotante pene e guai? 14
 " " Caldi sospiri miei, sospiri ardenti, gite a colei 15
@@ -32,31 +37,23 @@ A 4. Poi che tu tem'amor, la gran beltade d'Hippolita. L'Ingrata 16
 " " Ingrata voglio dire la Clori mia, poi che mi fà morire. A Vincenzo Fabriani 17
 " " Chi le divine vostre doti et chiare, Costanza mia. Alla signora Costanza 18
 " " Senza cor'e senz'alma io batto palma e palme 19
-" " Spiran mai sempre gl'odorati fiori de le rose vermiglie ill]
-
-" " Saetta pur, amore, questo misero core
+" " Spiran mai sempre gl'odorati fiori de le rose vermiglie 20
+" " Saetta pur, amore, questo misero core 21
 
 A-Wn: C.
 
-Il N. 408 è annullato.
 
-409 - BORSARO Arcangelo (1597) - Pietosi affetti. Il Primo Libro delle Canzoquattro
-voci. Di Arcangelo Borsaro da Reggio. Novamente comluce.
-In Venetia appresso di Ricciardo Amadino. 1597.
 
-,(1). Ded. a Lazaro Zadei, Venetia, 20 X 1597.
 
-nette spirituali, a
-poste, et date in
-4 fasc. in 8° (C.A.T.B.), pag. 21
-nzonc (Marino) 1
 
-(seconda parte) "
-(terza parte) "
 
-Ahi cor se pur sei core, come dolor non senti..Ca
-E se senti dolore, misero, come non piangi
-E se cangi gli affetti, perchè non cangi
 
--258- A
+409 - BORSARO Arcangelo (1597) - Pietosi affetti. Il Primo Libro delle
+Canzonette spirituali, a quattro voci. Di Arcangelo Borsaro da Reggio. Novamente 
+composte, et date in luce. In Venetia appresso di Ricciardo Amadino. 1597.
 
+4 fasc. in 8° (C.A.T.B.), pag. 21,(1). Ded. a Lazaro Zadei, Venetia, 20 X 1597.
+
+Ahi cor se pur sei core, come dolor non senti. Canzone (Marino) 1
+E se senti dolore, misero, come non piangi (seconda parte) " 1
+E se cangi gli affetti, perchè non cangi (terza parte) " 2

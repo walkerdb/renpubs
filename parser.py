@@ -75,7 +75,7 @@ def generate_markdown_table_for_count(raw_array_to_count, headers):
 
 if __name__ == "__main__":
     first_page_with_works = 9
-    last_page_to_process = 263
+    last_page_to_process = 268
 
     output = parse_works_from_page_transcripts(first_page_with_works, last_page_to_process)
     output.publications.extend(parse_works_from_old_style_tables().publications)

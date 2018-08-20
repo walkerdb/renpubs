@@ -2,8 +2,8 @@
 A repository containing structured data detailing the contents of printed vocal part-books from the Renaissance. 
 Scope for this project is limited to the publications described in the Nuovo Vogel series.
 
-Current publication count: 640 / ~5100  
-Total works: 17406
+Current publication count: 648 / ~5100  
+Total works: 17589
  
 ### Data structure
 `publications.json` contains an array of structured data for each publication. Each publication has the following structure: 
@@ -71,13 +71,13 @@ Number of publications each composer appears in:
 | Agostino Agazzari | 14 |
 | Felice Anerio | 14 |
 | Anonymous | 14 |
+| Luca Marenzio | 13 |
 | Francesco Roselli | 13 |
 | ? | 12 |
 | Ludovico Agostini | 12 |
 | Stefano Bernardi | 12 |
 | Marc'Antonio Ingegneri | 12 |
 | Giovanni Lochenburgo | 12 |
-| Luca Marenzio | 12 |
 | Constantio Porta | 12 |
 | Cipriano de Rore | 12 |
 | Francesco de Layolle | 11 |
@@ -94,6 +94,7 @@ Number of publications each composer appears in:
 | Ghirardo da Panico | 6 |
 | Lodovico Bellanda | 5 |
 | Severo Bonini | 5 |
+| Arcangelo Borsaro | 5 |
 | Gio. Francesco Caldarino | 5 |
 | da Reggio Hoste | 5 |
 | Claude Lejeune | 5 |
@@ -158,6 +159,7 @@ Number of publications each composer appears in:
 | Alfonso Ganassi da Bologna | 2 |
 | Francesco Bonardo | 2 |
 | Aurelio Bonelli | 2 |
+| Cesare Borgo | 2 |
 | Caldarino | 2 |
 | Pirro Albergati Capacelli | 2 |
 | Bizzarro Accademico Capriccioso | 2 |
@@ -250,7 +252,8 @@ Number of publications each composer appears in:
 | Nicolo Borboni | 1 |
 | Francesco Maria Borelli | 1 |
 | Giorgio Borgia | 1 |
-| Cesare Borgo | 1 |
+| Bernardino Borlasca | 1 |
+| Giovanni Boschetto Boschetti | 1 |
 | Il Caldarino | 1 |
 | Hippolito Camaterò | 1 |
 | Geminiano Capilupi | 1 |
